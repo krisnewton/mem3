@@ -1,0 +1,577 @@
+LAPORAN PRAKTIKUM BOTANI TUMBUHAN RENDAH
+MAKFUNGI Oleh:
+Eliyana Putri Herniyanti
+I Putu Ari Permana Komasari
+Linda Asrina Mira Olivia HR Rosiana Aisyiyah Yusika Nabilla
+LABORATORIUM PEMBELAJARAN BIOLOGI PENDIDIKAN BIOLOGI
+FAKULTAS KEGURUAN DAN ILMU PENDIDIKAN UNIVERSITAS LAMPUNG 2011
+
+LEMBAR PENGESAHAN
+
+Judul Tanggal Praktikum Tempat Praktikum Nama
+
+: Makrofungi
+
+: 22 November 2011
+
+: Laboratorium Pembelajaran Biologi
+
+: Eliyana Putri Herniyanti I Putu Ari Permana Komasari Linda Asrina Mira Olivia HR Rosiana Aisyiyah Yusika Nabilla
+
+(1013024033) (1013024081) (1013024040) (1013024079) (1013024075) (1013024047) (1013024059) (1013024069)
+
+Fakultas Jurusan Program Studi Kelompok
+
+: Keguruan dan Ilmu Pendidikan : Pendidikan Matematika dan Ilmu Pengetahuan : Pendidikan Biologi : 3 (tiga)
+Mengetahui, Assisten Praktikum
+
+Prisilia Anggun Larasati NPM. 08130240
+
+KATA PENGANTAR
+Puji syukur kami ucapkan kepada Tuhan Yang Maha Esa karena limpahan rahmat dan berkat-Nya penulis bisa menyelesaikan laporan praktikum ini untuk melengkapi tugas Praktikum Botani Tumbuhan Rendah .Penulis tidak dapat menelesaikan laporan ini tanpa bantuan pihak-pihak lain yang sudah memberikan dorongan dan bantuan-bantuan lainnya. Untuk itu melalui kesempatan ini kami menyampaikan terima kasih. Penulis menyadari laporan ini masih terdapat kejanggalan, kekurangan, serat jauh dari sempurna. Untuk itu saran, kritik dan masukan yang bersifat membangun sangat penulis harapkan, untuk perbaikan di masa yang akan datang. Semoga makalah ini dapat menjadi sumber ilmu yang berguna bagi penulis khususnya, dan pembaca pada umumnya serta bermanfaat bagi semua pihak dalam memajukan dunia pendidikan.
+Bandarlampung, November 2011
+Penulis,
+
+DAFTAR ISI
+
+HALAMAN JUDUL
+
+i
+
+LEMBAR PENGESAHAN
+
+ii
+
+KATA PENGANTAR
+
+iii
+
+DAFTAR ISI
+
+iv
+
+I. PENDAHULUAN A. Latar Belakang.................................................................... 1 B. Tujuan............................................................................... 2
+II. LANDASAN TEORI................................................ ...................3 III. PROSEDUR PERCOBAAN
+A. Alat dan Bahan................................................ B. Cara Kerja................................................ IV. HASIL PENGAMATAN DAN PEMBAHASAN A. Hasil Pengamatan................................................ B. Pembahasan................................................ V. KESIMPULAN
+
+DAFTAR PUSTAKA
+
+I. PENDAHULUAN
+A. Latar Belakang
+Fungi adalah eukariota, dan sebagian besar adalah eukariota multiseluler. Meskipun fungi pernah idari eukariotik lainnya ditinjau dari cara memperoleh makanan, organisasi struktural, serta pertumbuhan dan reproduksinya. Pada kenyataannya, kajian molekuler menunjukkan bahwa fungi dan hewan kemungkinan berasal dari satu nenek moyang yang sama.
+Fungi adalah heterotrof yang mendapatkan nutriennya melalui penyerapan ( absorption ). Dalam cara nutriungi.si ini, molekul ­ molekul organik kecil diserap dari medium sekitarnya. Fungi akan mencerna makanan diluar tubuhnya dengan cara mensekresikan enzim ­ enzim hidrolitiknya yang sangat ampuh dalam makanan tersebut. Enzim ­ enzim itu akan menguraikan molekul kompleks menjadi senyawa yang lebih sederhana yang dapat diserap dan digunakan oleh fungi.
+Biasanya cendawan atau fungi diklasifikasikan dalam thallophyta bersama algae dan bakteri. Namun menurut pendapat para mikrobiologiwan, fungi merupakan sekelompok makhluk tersendiri dan menduduki regnum atau kingdom yang sejajar dengan plantae dan animalia, mereka bukan binatang taupun hewan.
+Kata fungi ataupun kapang dapat menimbulkan kesan yang tidak menyenangkan.Bersama bakteri, fungi merupakan makhluk utama dalam penghancuran bahan organik, maka dengan demikian mereka memainkan bagian yang amat penting dalam nutrisi tumbuhan hidup. Fungi dimanfaatkan dalam makanan, ilmu kedokteran dan proses ­ proses industry. Mereka menyebabkan penyakit pada manusia, binatang dan tumbuhan. Fungi menguraikan kayu, menyerang tumbuhan, merusak makanan, dan
+
+menyebabkan penyakit lain pada manusia seperti gatal ­ gatal pada kaki atlet dan penyakit yang lebih buruk lagi. Akan tetapi, ekosistem akan musnah jika tidak ada fungi yang menguraikan organisme mati, dedaunan yang gugur, feses, dan bahan organik lainnya. Fungi mendaur ulang unsur kimia vital kembaili ke lingkungannya dalam bentuj yang dapat diasimilasi oleh organisme lain. Hampir semua tumbuhan bergantung pada fungi simbiotik yang membantu akarnya menyerap mineral dan air dalam tanah. Selain peran ekologis ini, fungi telah digunakan oleh manusia dalam berbagai cara selama berabad ­ abad. Kita memakan berbagai jenis fungi ( cendawanmisalnya ) membiakkan fungi untuk memfermentasi bir dan anggur. Banyak jenis fungi juga sangat cantik, seperti yang diakui oleh kanada dengan menerbitkan perangko bergambar fungi. Apapun perspektif kita mengenai fungi, fungi adalah suatu bentuk kehiduopan yang begitu istimewa sehingga fungi telah ditempatkan pada kingdom taksonomik sendiri.
+Dalam peranannya sebagai penyebab penyakit tumbuhan itulah maka fungi mempunyai arti ekonomi yang terbesar. Tetapi selain itu terdapat masalah yang timbul diakibatkan fungi. Masalah yang dihadapi para ilmuwan di lembaga ­ - lembaga penelitian serta di laboratorium universitas dan industry mencakup perlakuan terhadap benih dan bahan, prlakuan terhadap kayu, bahan pakaian dan dan material lain, cara tanam dan praktek lain dalam pertanian : ketepatgunaan pengawasan, karantina dan cara ­ cara pencegahan yang lain. Kesemuanya itu merupakan masalah yang melainkan dengan fungi, baik secara langsung maupun tidak langsung.
+Untuk mengetahui jenis jamur dan strukturnya yang tumbuh pada roti, tempe dan oncom yang telah lama serta mengetahui struktur tubuhnya dan tubuh jamur ragi ( yeast) maka diadakanlah praktikum ini
+B. Tujuan
+Adapun tujuan dari praktikum ini adalah :
+1. Mengetahui jenis jamur yang tumbuh pada roti, oncom,dan tempe yang telah lama (mulai membusuk ).
+
+2. Mengetahui struktur tubuh jamur ragi (yeast) dan struktur tubuh jamur yang tumbuh pada roti, oncom, dan tempe yang telah lama (mulai membusuk)
+3. Mengetahui klasifikasi, kharakteristik, dan reproduksi jamur yang diamati
+
+II. LANDASAN TEORI
+Fungi adalah nama regnum dari sekelompok besar makhluk hidup eukariotik heterotrof yang mencerna makanannya di luar tubuh lalu menyerap molekul nutrisi ke dalam selselnya. Fungi memiliki bermacam-macam bentuk. Awam mengenal sebagian besar anggota Fungi sebagai jamur, kapang, khamir, atau ragi, meskipun seringkali yang dimaksud adalah penampilan luar yang tampak, bukan spesiesnya sendiri. Kesulitan dalam mengenal fungi sedikit banyak disebabkan adanya pergiliran keturunan yang memiliki penampilan yang sama sekali berbeda (ingat metamorfosis pada serangga atau katak). Fungi memperbanyak diri secara seksual dan aseksual. Perbanyakan seksual dengan cara :dua hifa dari jamur berbeda melebur lalu membentuk zigot lalu zigot tumbuh menjadi tubuh buah, sedangkan perbanyakan aseksual dengan cara membentuk spora, bertunas atau fragmentasi hifa. Jamur memiliki kotak spora yang disebut sporangium. Di dalam sporangium terdapat spora. Contoh jamur yang membentuk spora adalah Rhizopus. Contoh jamur yang membentuk tunas adalah Saccharomyces. Hifa jamur dapat terpurus dan setiap fragmen dapat tumbuh menjadi tubuh buah.
+Bangsa monoblepharidales
+Tubuh organism ini merupakan benang-benag halus, bercabang-cabang tidak bersekat, jadi merupakan suatu pipa dengan banyak inti dinding terdiri atas selulosa hidup dalam air pada sisa-sisa tumbuhan. Pembiakan aseksual dengan zoospore yang mempunyai satu bulu cambuk yang opistokon. Zoospore terbentuk dalam sporangium yang berbentuk ganda pembiakan geneatif melalui oogamy gamet dan sporangium terbentuk pada satu individu, jadi pada monoblepharidales tidak terbentuk keturunan
+
+Monopharidales meliputi suku monoblepharidaceae yang mencangkup antara lain monoblepharis spaerica dan monoblepharis polymorpha
+Bangsa oomicethales
+Miselium terdiri atas hifa-hifa tidak bersekat, bercabang-cabang, dan tidak berinti. Hidunya sebagai saprofit atau parasit . dinding selnya memberikan reaksi selulosa. Pembiakan generative dengan oogamy sedangkan pembiakan vegetative dengan zoospore yang mempunyai bentuk buah persatu inti dan dua bulu cambuk pada ujungnya .
+Oomycetales dibedakan dalam beberapa suku antara lain suku saprolegniaceae yang anggota-anggotanya hidup sebagai saprofit dalam air, bangkai inatang air atau parasit pada ikan sedangkan suku peronoporaceae terdiri atas jamur parasit pada tumbuhan tinggi misalnya Plasmopara viticola, hidup interseluler dalam jaringan daun buah anggur atau vitis vinivera selain itu ada pula suku pyhiaceae terutama marga phytophtora yang hidup sebagai parasit dan merusak berbagai jenis tanaman budidaya
+Bangsa jygomicetales
+Terutama terdiri atas cendawan atau fungi yang hidup sebagai saprofit, miselium bercabang banyak sebagian bersekat dan sebagian pula tidak bersekat dinding selnya terdiri atas selnya. Pembiakan vegetatif disesuaikan dengan hidup didarat zoospore tidak ada. Sporanya merupakan sel-sel yang berdinding dan spora inilah yang tersebar kemana-mana. Pembiakan generative tidak dengan perantaraan gamet, tetapi dengan gametangium yang sama bentuknya dan mengandung banyak inti. Bangsa jygomicetales memiliki beberapa suku, antara lain suku mucoraceae yang sebagian banyak hidup sebagai saprofit pada sisa tumbuhan dan hewan, jarang ditemukan sebagai parasit . suku lain adalah entomophthoraceae pada hifanya, terutama dari miselium yang telah tua, kadang juga pada benang- benang muda tampak dinding melintang, jadi miselium jamur ini bersekat. Sel-selnnyabelum beraturan, ada yang berinti banyak , ada yang sedikit, bahkan ada yang mempunyai satu inti saja. Pembiakan generative melalui kopulasi gametangium, pembiakan vegetative dengan
+
+sporangium yang telah beruabah menjadi konidium conrohnya dari suku ini adalah Empusa muscae .
+
+1. Protoascomyceetes
+
+Misellium umumnya berbentuk benang. Hifa askogen, tubuh buah , serta himenium
+
+belum ada. Banyak yang haploid, tidak ada perguliran keturunan, zigot langsung
+
+berbentuk setelah perkawinan menjadi askus. Contoh : bangsaendomycetales
+
+a) Suku dipodascaceae
+
+-
+
+Hifa bersekat dengan bnyak inti
+
+-
+
+Konjugasi dengan gametangium berbentuk paruh ujungnya bersatu
+
+setelah bersentuhan
+
+-
+
+Satu inti dari gametangium jantan membuahi satu inti gametangium betina.
+
+Gametangium lalu menonjol membentuk kerucut panjang,sementara sel
+
+diploid didalamnya membelah secara miosis membentuk askospora
+
+-
+
+Contoh dipodascus albidus
+
+Gambar daur hidup dipodascus aggregatus
+
+(dikutipdariMoore-Landcker,1996)
+
+b) Suku endomycetaceae - Pada waktu muda sel-selnya berinti banyak,lalu setelah dewasa tiap selnya
+hanya berinti satu - Gametangium juga berinti satu,hasil kopulaSI tidak memanjang tapi membulat
+dan berisi sejumlah spora berjumlah tetap. - Dalam ascus terdapat delapan askospora - Contoh :eremascus fertilis,E.albus,Emdomyces Magmasii.
+
+Gambar pembentukan askus dan askuspora pada eremascus fertilis (dikutip dari Tjitrosoepomo, 1998)
+c) Suku saccharomycetaceae - Uniseluler,dalam keadaan tertentu dapat memperlihatkan hifa terputus-putus. - Reproduksi dengan pertunasan - Pada bebera[pa jenis ada yang berreproduksi secara generatif .dua sel
+berkopulasi membentuk zigot, yang selanjutnya menjadi askus berinti diploid.dengan pembelahan reduksi terbentuk 4 atau 8 askospora. Tumbuh mejadi sel-sel vegetatif yang haploid - Pada beberapa jenis yang lain askospora dapat berkopulasi menjadi sel-sel vegetatif yang diploid dan tidak membentuk askus.sel-sel vegatatif itu mengadakan pertunasan membentuk sel-sel yang bersifat sebagai askus,mengadakan pembelahan reduksi dan membentuk askospora - Selnya disebut sel khamir,dengan diding sel berupa fosfoglikoprotein dalam cairan yang mengandung gula yang menyebabkan pengkhamiran yaitu perubahan gula menjadi alkohol - Contoh:
+o Saccharomycesellipsoideus,untuk mngkhamirkan cairan buah anggur menjadi minuman anggur
+- S.tuac,merubah air nira menjadi tuak - S.cerevisiae,khamir roti atau khamir bir untuk pembuatan roti dan alkohol - Sel-sel khamir yang mengendap pada pembuatan bir disebut fax medicinalis berfungsi dalam pembuatan pil-pil vitamin B ­kompleks.
+
+Gambar daur hidup (a) saccharomyces cerevisiae dan (b)s.ludwigii (dikutip dari Moorelamdecker 1996)
+2) Euascamycetes Askus selalu memiliki delapan askos spora.askus tidak lansung berbentuk zigot yang beasal dari pelebuaran 2 gametangium.namun melalui prases berikut : a. sel-sel ujung hifa membesar menjasi suatu badan berinti banyak ,yaitu gametanium betina yang disebut askogonium b. pada ujung askogonium terdapat suatu tonjolan yang memamnjang dengan ujung yang bengkok dengan banyak inti, disebut trikogin . c. dari ujung hifa yang berdekatan ada yang sel-sel ujungnya berubah menjadi antridium yang bersentuhan degan ujung trikogin d. ujung trikogin lalu membuka dan intinya berdegenarasi, inti antreidium kemudian masuk melalui trikogin kedalam askogonium dan hanya berpasang-pasangan tidak melakukan peleburan e. dari askogonium terbentuk hifa askogen , dan inti yang berpasangan tadi masuk kedalamnya. Hifa askogen inilah yang disebut sebagai sporofitnya, karna hifa inilah yang akhirnya menhasilkan askospora
+
+f. hifa askogen bercabng-cabang dan bersekat,dan pasangan inti jantan dan betina memperbanyak diri dengan membelah serempak.dengan ini sel-sel hifa askogen masing-masing mempunyai sepasang inti jantan dan betina
+g akhirnya dr sel-sel ujung cabang-cabang hifa askogen akan tebentuk askus sebelum askus terbentuk,selujung hifa membengkok membentuk badan seperti kait
+h. sepasang inti dalam sel ujung itu lalu membelah dan terdaptlah 2 pasang inti dari 4 inti yang terbentuk,sepasang inti masuk kedalam kait dan lainya tinggal dalam tangkai kait itu
+i. kait dan tankainya lalu terpisah oleh suatu dinding melintang dari ujung hifa yang mengandung sepasang inti tadi.sel yang palng ujung dengan sepasang inti jantan dan betina inilah yang merupakan calon askus. Kedua inti tersebut bersatu,laulu sel membesar menjadi sebuah sporangium berbntuk gada dengan satu inti yang diploid.inti diploid membelah reduksi membentuk delapan askospora.
+j. tidak semua plasma dalam askus habis untuk pembentukan spora,sisa plasma disebut periplasma.jika asjus masak dinding membuka dan askospora terlempar keluar akibat mngembangya periplasma dan kontraksi dinding askus.
+k.sel kait sementara itu bersatu kembali dengan sel dibawah askus yang juga berinti satu,sehinggga sepasang inti yang semula terpisah akan kembali berpasngan dalam sel dibawah askus tadi.sel ini dapat mengulang pembentukan kait seperti d uraikan d atas.
+Contoh : - pyronema confluens
+
+ambar organ seksual ,plasmogami dan membentuk askus pada pironema domesticum (dikutip dari moore ­landecker 1996)
+- Mejelang kopulasi alat-alat kelaminya dselubungi oleh selapis hifa haploid.pada saat pembntukan kaithifa tersebut ikut memanjang.hifa askogen berserta askusnya membentuk suatu tubuh buah.askus berserta benang-benang seteril yang berasal dari hifa pembalut itu merupakan suatu lapisan pada tubuh buah yang disebit himenium
+Gambar irisan membujur melalui apotesium yang menunjukan susunan askus dan hifahifa steril / parafisis membentuk lapisan himenium ( dikutip dari moore-landdecker 1996)
+
+- Euascomycetes terdiri dari bangsa-bangsa berikut a) Bangsa perisporiales -kopulasi antara askogonium dan anteridium menghasilkan tubuh buah yang diselubungi oleh dinding yang disebut peridium.peridium berbentuk bulat atau seperti perisai , tertutup atau dengan sebuah lubang pada bagian atasnya. - contohnya adalah suku erysiphacae, yang memiliki ciri-cir sebagai berikut :
+-parasit pada tumbuhan tinggi - miselium melapisi epidermis organ tumbuhan inang dan kelihatan keputih ­ putihan seprti tepung, oleh sebab itu dinamakan embun tepung. -miselium mengahsilkan konidium ,jaga tubuh berupa peritesium -contoh darisuku ini yang hidup sebagai parasit dan merusak tanaman adalah : -oidium heveae ,menyerang daun para atau karet.o.tuckeri menyababkan embun tepung pada anggur dan menyerang buah dan daun-daunya. -erysiphe polygoni ,menyerang leguminosae terutama kapri. E.graminis pada rumput
+
+Gambar pertesium( dikutip dari moore-landecker 1996)
+- Suku peris poriaceae - Hidup sebagai epifit pada tumbuh ­ tumbuhan - Misellium berwarna pirang atau hitam, membentuk embun jelaga - Contohnya dapa capnodium salinicum - Suku microtyriaceae - Tubuh buah berbentuk perisai - Contoh microtyrium microscopicum b) Bangsa plestascales - Gametanium berbentuk secara bebas ,terjadi kopulasi antara anteridium dan
+askogonium - Tubuah buah bulat denga dinding berlapisan miselium stril yang disebut
+peridium.askus terdapat di dalamnya dengan susuna yang tidak beraturan . askus yang keluar dari askogen mengandung 2 sampai 8 spora . - Pada beberapa jenis terdapat juga pembentukan konidium dengan konidoipora yang serinkali lebih banyak daripada tubuh buahnya - Contohnya : - Suku gymnoascaceae - Askus bulat, berupa berkas dsamping askoganium yang memanjang - Hifa askogen belum sempurana.hifa pembalut dan tubuh buah belum ada - Contoh gymnoascus dan myxotrichum
+
+Gambar macam-macam bentuk gametanium pada myxotrichum (dikutip dari moore landecker 1996)
+- Suku aspergilaceae - Askogonium sudah memiliki trikogen dan sesudah perkawinan zigot membentuk
+hifa askogen - Tubuh buah berupa kleistotesium yaitu hifa yang tidak beraturan namun dapat
+dibedakan dalam suatu jaringan dasar - Askus bulat bulat, tersebar tak beraturan dalam kleistotesium dan sporanya baru
+dapat berpencar jika tubuh buah telah pecah
+Gambar kleistotesium dengan peridium dan askus didalamnya yang tidak beraturan ( dikitip dari moore-landaracker 1996)
+
+- Pada marga aspergillus ,konidiopora pada ujungya membesar dan terdapat sterigma dengan konidoipora yang berderet-deret. Contohnya:Aspergillus oryzae,digunakan dalam pembuatan minuman alkohol
+- A.wentii digunakan dalam pembuatan kecap dan tauco,karna dapat mengubah karbohidrat menjadi gula
+- Pada marga penicillium konidioforara dibagian ujung tidak melebar tetapi bercabang-cabang dengan deretan konidium pada cabang-cabang tadi.contohnya:
+- Penicillium notatum menghasilkan anti biotik penisilin - P.glaucum,menyembabkan roti menjadi bau apek
+Gambar konidiofora, (a).penicillium,(b)aspergillus (dikutip dari brock and madigan 1991)
+
+- Pada jamur yng tergolong aspergillaceae jarang sekali ditemukan tubuh buah ,oleh sebab itu seringkali dimasukan kedalam golongan fungi imperfecti
+Ascomycetes yang lebih tinggi tingkatan perkembangannya dibedakan dalam 2 golongan, yaitu Ascolocurales dan Ascohymeniales 1. Ascolocurales
+ Tubuh buah terbentuk sebelum terjadi alat kelamin, disebut pseudotesium . pseudotesium terdiri atas plektenkim yang tidak rapat dan ruangan yng terisi askus. Askus berbentuk gada dan secara aktif melempar keluar spira yang ada didalamnya.
+ Contoh: Fusicladium,penyebab penyakit scabies/kudis pada buah-buahan.  Ascolocurales terbagi menjadi 3 bangsa yaitu : Myrangiales, pseudospheriales
+dan hemiphaeriales.
+2. Ascohymeniales  Membentuk tubuh buah setelah membentuk alat kelamin  Tubuh buah berdiri dari selubung hifa steril yang teranyam sebagai pleketenkim,
+didalamnya terdapat ruangan dengan parafisis dan askus yang tersusun seperti jaringan tiang (palisade) dan merupakan suatu lapisan yang disebut himenium.
+
+ Ascohymeniales terdiri dari 3 bangsa, yaitu 1. Bangsa pyrenomycetales  Parasit atau saprifit pada kayu lapuk, kotoran hewan dan lain-lain.  Tubuh buah berupaperitesium yang berbentuk botol atau bulat.  Pada jenis yang rendah tingkatannya peritesium berwarna hitam sebesar kepala jarum dan terletak dijung hifa.  Pada jenis yang lain peritesium terkumpul pada suatu badan seperti plektenkim, dinamakan stroma.  Ada juga yang menghasilkan konidium yang terkumpul dalam suatu badan bulat yang dinamakan piknidium.  Contoh : a. Suku Hypocreaceae: Claviceps purpurea  Parasit pada bakal buah Gramineae (Secale cereale)  Miselium dapat membentuk skelerotium setelah bakal buah rusak, yaitu suatu badan serupa plektenkim, berwarna ungu kehitaman yang merupakan alat untuk menghadapi kala buruk, disebut ergot atau secale cornutum (mengandung senyawa ergotoksin, ergotamine, dan ergometrin)
+
+ Contoh lain : contoh lain cordiceps purpurea, parasit pada larva serangga/ulat. Bangkai ulat dan parasitnya digunakan sebagai bahan obat oleh bangsa cina.
+b. Suku Xylaria: xylaria tabacina, parasit pada petai cina.
+2. Bangsa Discomucetales  Tubuh buah berbentuk seperti piala yang dangkal atau cawan, yang dinamakan apotesium. Askus terletak dipermukaan atas tubuh buah.  Parasit atau sporofit pada kayu lapuk atau tanah yang mengandung sisasisa tumbuhan  Cantoh suku Helotiaceae: Botrytis cinerea, menyerang buah anggur dengan mempertinggi kadar gula buahnya.  Contoh suku Helvellaceae: Morchella esculenta, tubuh buahnya dapat diamakan.
+
+3. Bangsa Tuberales  Tubuh buah ada didalam tanah, berbentuk cawan atau seperti umbi yang didalamnya beruang-ruang yang berbatasan dengan himenium.  Miselium seperti saprofit dalam tanah-tanah hutan dan sering bersimbiosis dengan pohon-pohon hutan seperti mikoriza.  Ada jenis yang tubuh buahnya dapat dimakan, contohnya :Tuber melanosporum, T. rufum, dan T. Aestivum.
+B. Anak kelas Basidiomycetes
+Cirri khasnya adalah memiliki basidium, yaitu suatu badan yang melalui penonjolan (pembentuk-an sterigma) selalu membentuk 4 spora. Basidium terdiri atas 1 sel yang membesar berbentuk ganda dengan 4 eksospora atau bersekat-sekat jadi terdiri atas beberapa sel yang masing-masing membentuk 1 basidiospora. Berdasarkan bentuk dan susunan basidium, basidiomycetes dibedakan menjadi:
+1) Holobasiodiomycetes, basidium terdiri atas 1 sel. 2) Phagmobasidiomycetes, basidium bersekat-sekat terbagi menjadi 4 sel.
+
+1) Holobasidiomycetes  Umumnya dikenal sebagai jamur yang tumbuh dikayu-kayu lapuk, dan tempattempat lain.  Miselium berumur lebih dari setahun, bila kondisi buruk berada didalam tanah atau didalam kayu. Beberapa jenis bersimbiosis dengan akar tanaman membentuk mikoriza.  Tubuh kayu bentuknya seperti paying. Ada yang enak dimakan (Volvoriella volvacea), ada yang berdiameter 1m dengan berat 50 kg (polyporus gigantius).  Perkembangbiakan jamur ini dapat diuraikan seperti berikut:  Basidiospora mempunyai jenis kelamin yang berbeda.  Pada perkecambahan spora terjadi 2 jenis miselium yang bersekat dengan 1 inti tiap sel.  Jika 2 sel vegetative yang berlainan jenis kelamin bertemu dan bersatu (somatogami), maka terjadilah 1 sel dengan sepasang inti.  Sel persatuan tadi tumbuh menjadi hifa dengan sel-sel dikariotik. Kemudian terjadi pembentukan sekat dengan cara: - Sel-sel pada hifa yang letaknya paling ujung membentuk kait yang disebut gesper. - Satu diantara sepasang inti masuk didalam gesper dan membelah menjadi 2, satu diantaranya masuk kedalam ujung sel sedang yang satunya
+
+mengadakan pembelahan. Juga dari inti ini satu menuju keujung sel dan yang lain dibagian pangkal. Pada ujung sel sekarang terdapat sepasang inti lagi. - Sel selalu membuat dinding pemisah ditempat keluarnya kait, dan kemudian 1 dinding pemisah lagi yang membatasi sel ujung. - Kait bersatu lagi dengan sel yang ada dibawah sel ujung sehingga sel ini menjadi dikariotik lagi. - Pembentukan gesper selanjutnya diulangi lagi tiap-tiap kali akan terbentuk dinding pemisah, sehingga akhirnya terjadilah miselium yang bercabangcabang dengan sel-sel dikariotik.
+ Jamur ini dapat tumbuh terus lalu membentuk tubuh buah yang terdiri atas hifa-hifa yang sel-selnya mempunyai inti.
+ Pada sisi bawah tubuh buah, hifa akan membentuk basidium yang tersusun seperti jaringan tiang dn merupakan suatu lapisan himenium.
+
+Gambar 115. Tubuh buah mengandung lapisan himenium pada sisi bawah lamella/gills ( dikutip dari moore-landecker,1996)
+ Didalam himenium, disamping basidium terdapat pula hifa steril dengan sepasang inti yang sudah berdegenerasi, dinamakan pafisis . setelah itu terdapat juga hifa-hifa steril yang lebuh besar daripada parasis yang disebut sistidium.
+
+ Dalam basidium, sepasang inti bersatu diikuti oleh pembelahan reduksi sehingga terdapat 4 inti haploid, dua-dua memiliki jenis kelamin yang berbeda.
+ Sementara itu pada ujung basidium terjadi 4 penonjolan yang disebut sterigma dengan ujung yang bulat atau lonjong, kemudian akan menjadi basidiospora.
+ Tiap inti haploid masuk kedalam calon basidiospora melalui sterigma.jika sudah masak, basidiospora terlempar dari basidium akibat tekanan turgor. Holobasidiomycetes terbagi atas 2 bangsa, yaitu: 1. Bangsa Hymenomysetales  Pada yang rendah tingkatannya basidium bebas pada hifa-hifa vegetative, belum membentuk tubuh buah, sedang yang lebih tinggi tingkatanya hifa pendukung basidium teranyam menjadi tubuh buah yang bentuk dan susunannya berbeda.
+
+ Himenium yang sudah masak kebanyakan terletak bebas diatas tubuh buah, letaknya disebut gimnokarp.
+ Spora sangat banyak jumlahnya, dan secara aktif dilemparkan oleh basidium.
+ Anyaman hifa yang membantuk dan yang mendukung himenium disebut himenofora. Pada yang tinggi tingkatannya himenofora menonjol dan merupakan rigi-rigi, lamella atau papan-papan yang dapat memperluas permukaan lapisan himenium.
+ Berdasarkan ada tidaknya papan-papan himenofora yang mennjol itu, bangsa Hymenomycetales dibedakan menjadi 2 anak bangsa yaitu: a. Anak bangsa Aphyllophorales  Tubuh buahnya tidak memiliki papan-papan atau lamella himonefora yang menonjol.  Himenium terletak bebas diatas tubuh buah dan selalu membentuk bagian-bagian yang baru.  Anak bangsa ini dibedakan menjadi beberapa suku, antara lain: 1. Suku corticiaceae, Corticium salmonicolor (jamur upas) Parasit yang mematikan dahan-dahan atau ranting-ranting beberapa jenis tanaman. Tubuh buah merata dan melekat pada substratnya seperti kerak. 2. Suku thelephoraceae, Thelephora laciniata, tubuh buah seperti kipas disamping atau tegak pada substratnya, himenium dilapisan bawah tubuh buah. 3. Suku clavariaceae, Tubuh tegak, berbentuk gada atau bercabang-cabang, seluruh tubuh diselubungi oleh lapisan himenium. Tubuh buah seperti batu karang, cantoh Clavaria zipellli, Clavaria botrytis. 4. Suku Hydnaceae, Hydnum helveolum,himonofora dengan tonjolan-tonjolan berupa duru-duri atau gigi. Himenium pada sisi bawah tubuh buah berupa kipas atau paying dengan tangkai eksrentrik berduri-duri dibagian bawah.
+
+5. Suku polyporaceae, Tubuh buah berupa pori disisi dalamnya dilapisi himenium. Contoh: Ganoderma aplanatum (cerndawan akar merah) dan polyporus giganteus sebagai saprofit, ada juga yang bersifat parasit seperti : fomes semistotes (penyebab busuk akar pada pohon para), F. lignosus (cendawan akar putih), F. noxious (cendawan akar pirang). F. fomentarius dan F. fomentarius officinalis berguna sebagai obat-obatan.
+
+(A)
+
+(b)
+
+(c)
+
+b. Anak bangsa Agaricales  Tubuh buah berbentukpayung sperti tangkai ditengah.  Pada waktu muda, tubuh buah itu diselubungi oleh velum universal, jika tubuh buah membesar, tinggallah selaput pada pangkal tangkai yang disebut bursa.  Dari tepi tubuh buah ke tangkai terdapat juga selaput yang menutupi sisi bawah tubuh buah, dinamakan velum partiale. Jika tubuh buah membesar, selaput ini akan robek dan merupakan suatu cincin (annalus) pada bagian atas tangkai tubuh buah.  Himenofora pada sisi bawah tubuh buah membentuk papanpapan atau lamella yang tersusun radial. Himenium meliputi sisi bawah tubuh buah tadi, letaknya disebut angiokarp.
+Gambar 122. Perkembangan tubuh buah pada agaricales (smith 1979)  Contoh Angaricales 1. Suku Agaricaceae, tubuh umumnya berbentuk payung dengan hemenofora yang membentuk lamella atau papan denagan lapisan himenium dikedua sisinya. Saprofit atau parasit.
+
+Volvariella volvaceae (jamur merang), dapat dimakan. Oudemansiella canarii (jamur gajih), dapat dimakan hidup dikayu lapuk. Agaricus melleus, menimbulkan busuk pada akar jeruk. Amanita phalloides, beracun Cantharellus cibarius, tubuh buah berwarna jingga dan dapat dimakan. Psalliota campestris, tubuh buah juga dapat dimakan. 2. Suku Boletaceae, merupakan penyusun utama mikoriza, himenofora merupakan tojolan-tonjolan berbentuk buluh. Boletus luteus, B. granulates, B. edulis.
+
+2. Bangsa Gasteromysetales  Tubuh buah tertutup, bentuknya bulat dan massa didalamnya disebut gleba.  Pada waktu masak lapisan dinding tubuh buah dinding tubuh buah paling luar/peridium pecah dan secara fasif spora akan keluar.  Saprofit dalam tanah hutan yang mengandung humus dan diantara rumput-rumputan.  Tubuh buah diatas tanah.
+
+Gambar 124. Berbagai tipe gleromyba pada gasteromycetales (dikutip dari moore landdcker, 1996).
+ Terdiri dari beberapa suku, antara lain: a. Suku Phallaceae  Tubuh buah muda berbentuk bulat telur, diselubungi oleh dinding peridium yang terdiri atas dua lapis.  Anyaman hifa dalam peridium mengadakan diferensiasi menjadi tangkai dengan payung seperti lonceng/genta.  Jika tubuh buah masak, tangkai memanjang, gleba menjadi bebas dan keluar sebagai tetes dari celah-celah velum vertiale yang berbentuk jala.  Payung terangkat keatas. Kulit lendir, gleba menjadi bebas dan keluar sebagai tetes dari cela-celah velum vertiale yang berbentuk jala.
+
+ Dalam keadaan itu tubuh buah mengeluarkan bau busuk, yang sering menarik macam-macam insekta yang membantu penyebaran spora.
+ Contoh : Dictyophora indusiata, Phallus impudicus.
+Gambar 125. Tubuh buah Dictyophora duplicate (dikutip dari mare-landecker, 1996) b. Suku Lycoperdaceaea  Peridium tubuh buah berdiferensiasi menjadieksoperidium berupa pseudo-parenkim dan endoperidium yang tipis seprti kertas.  Jika tubuh buah masak, eksoperidium lepas dan endoperidium membuka dengan suatu lubang pada puncaknya.  Contoh : Lycoperdon pretense (jamur kelentos) sering dijumpai antara rumput-rumputan, Sclerodermata aurantium (jamur so), S. vulgare.
+
+Gambar 126. Tubuh buah lycorpedon (dikutip dari moore-landecker,1996)
+2) Phragmobasidiomycetes
+ Basidium bersekat-sekat melintang, terbagi menjadi 4 sel yang masing-masing menonjolkan 1 spora, tetapi ada juga basidium yang terbagi oleh sekat-sekat membujur, atau terdiri atas 1 sel.
+ Terdiri dari beberapa bangsa yaitu : 1. Bangsa tremellales  Jenis yang rendah tingkatanya tidak membentuk tubuh buah, sedang yang tinggi tingkatanya memiliki tubuh buah yang menyerupai Hydnaceae tapi berlendir.  Basidium terbagi menjadi 4 oleh sekat-sekat membujur.  Contoh: Tremella lutescens
+
+Gambar 128 basidium pada beberapa tahap perkembangan dalam himenium tramella mesenterica ( dikutip dari moore landecker,1996)
+2. Bangsa Auriculariales  Tubuh buah menyerupai daun telinga, disisi atasnya yang cekung terdapat lapisan heminium.  Basidium dibagi menjadi dalam 4 sel dengan sekat-sekat melintang, dan dari masing-masing sel itu kesamping membentuk tojolan strerigma dengan 1 spora.  Pada beberapa jenis, dipangkal basidium terdapat badan yang membesar dinamakan probasidium dan hipobasidium yang merupakan sel terakhir hifa yang dikariotik.  Dalam probasodium terjadi peleburan inti, lalu probasidium bersekat didahului oleh pembelahan reduksi. Probasidium ada yang berdinding tipis, ada yang berdinding tebal.  Saprofit pada bangkai tumbuhan, parasit pada lumut, parasit pada kutu, dan lain-lain.
+
+3. Bangsa uredinales  Disebut juga Jamur karat, parasit terutama pada gramrneae atau tumbuhan yang menimbulkan bercak berwarna coklat seperti karat.  Miseliumnya hidup dalam ruang antar sel daun-daun tumbuhan inang, dan dengan haustorium menghisap zat-zat makanan dari sel-sel yang berdekatan.  Basidium terbagi atas 4 sel oleh dinding-dinding melintang.  Tidak membentuk tubuh buah, tetapi menghasilkan bermacam-macam spora, yaitu: a. Pikniospora, konidium bersel 1 berbentuk jorong yang dihasilkan oleh pignium yaitu badan berbentuk seperti botol yang dibentuk dipeermukaan daun akibat oleh hifa-hifa ditempat tertentu yang menggumpal dan mendesak sel-sel epidermis. Pignium mengandung hifa-hifa steril/parafisis dan hifa-hifa pendek yang menghasilkan pikniospora.
+
+b. Esiospora, dihasilkan oleh esium yaitu badan-badan berbentuk pialayang dibentuk dari hasil kopulasi miselium yang berlainan jenis kelaminnya. Esium rantai yang dinamakan esiospora. Rantai tadi berganti-ganti terdiri atas spora dan sel-sel kecil yang nantinya akan larut.
+Gambar 131. Esium, pada: a. puccinia graminalis b. gymnosporangium juniper virginianae.
+
+c. Uredospora, kanidium dikariotik yang dihasilkan oleh uredium yaitu badanyang dibentuk oleh sel-sel ujung hifa yang membesar dan muncul diatas epidermis.
+Gambar 132. Uredinium dan uredospora, pada: a. puccinia graminis, b. cronatium ribicola ( dikutip dari moore-landacker,1996)
+d. Teletospora/teliospora, konidium berdinding tebal, berwarna gelap, terdiri atas 1 atau 2 atau beberapa sel dikariotik pada saat muda dan berinti satu disaat tua. Teletospora terbentuk pada lapisan miselium yang sama dengan uredospora, atau dari bagian yang lain. Teletospora merupakan alat untuk mengatasi kondisi buruk (musim dingin, salju).
+
+gambar 133. Telium dan teliospora pada: a. puccinia graminis, b. cronartium ribicola ( dikutip dari moore-landecker,1996)
+Daur hidup bangsa Uredinales yang diwakili oleh Puccinia graminis digambarkan sebagai berikut: - Basidiospora yang memiliki jenis kelamin yang berbeda
+berkecanbah pada daun tanaman yang diserangnya. - Hifa menembus epidermis dan mengembangkan miselium
+piknium yang menghasilkan piknispora. Piknispora dalam medium dapat tumbuh menjadi hifa pendek tetapi tidak dapat menginfeksi daun-daun yang sehat. - Jika infeksi terjadi oleh basidiospora yang berbeda jenis kelaminnya, maka akan terjadi kopulasi miselium didalam daun hingga membentuk esium yang menghasilkan esiospora. Karena tekanan dari bawah akibat pembentukan spora, pseudoperidium dan epidermis pecah sehingga esiospora dapat keluar. - Esiospora berkecambah pada inang baru, hifa masuk kedalam daun melalui stoma dan berkembang menjadi miselium yang memiliki sel-sel dikariotik. Miselium menghasilkan konidium yang disebut uredospora. - Dari tumbuhan yang diinfeksi dengan uredospora dalam beberapa hari sajadapat dihasilkan lagi beribu-ribu uredospora.
+
+- Menjelang akhir masa pertumbuhan inangnya, jamur ini mulai membentuk basidium secara tidak langsung melalui pembentukan probasium terlebih dahulu. Probasidium kebanyakan digunakan sebagai alat untuk mengatasi kondisi buruk misalnya musim dingin atau salju, dinamakan teleospora.
+- Dalam musim semi berikutnya, masing-masing sel teleospora akan tumbuh menjadi suatu basidium yang dengan pembelahan reduksi lalu membentuk 4 inti yang terpisah oleh sekat-sekat. Dengan demikian basidium terdiri atas 4 sel yang berderet, masing-masing lalu menonjolkan 1 sterigma dengan 1 basidiosporapada ujungnya.
+- Jadi pada uridanales pada umumnya terdapat pergiliran keturunan, dari basidiospora haploid tumbuh tumbuh hametofit haploid yang sel-sel ujungnya lalu mengadakan kopulasi dan membentuk esium. Mesilium gametosit ini tidak dapat berkembang biak dengan pisniospora, yaitu konidium yang kebanyakan telah kehilangan daya infeksinya, tetapi mempunyai daya untuk bersatu dengan muselium dari lain jenis kelamin. Oleh sebab itu pigniospora sering disebut spermatium, dan badan yang menghasilkan disebut spermagonium.
+- Esiophora dikariotik dianggap sebagai permulaan perkembangan sporopit dikariotik. Sporofoi ini dapat memperbanyak diri dengan kondium, yang dinamakan esiospora dan uredospora. Akhir perkembangan sporofit ini adalah pembentukan basidium yang yang didalamnya terjadi pembelahan reduksi. Teletodpora bukan alat untuk memperbanyak diri tetapi calon basidium untuk menghadapi kondisi yang buruk.
+- Tidak semua warga Uridinalesmempunyai cara-cara perkembangan seperti diuraikan diatas. Beberapa jenis tidak memiliki ke 4 macam spora diatas, tetapi teletospora dan basidiospora hampir selalu ada.
+- Hal-hal yang menyimpang dari uraian diatas juga terdapat, misalnya pada Hemileiavastatrik, suatu penyakit karat pada daun
+
+kopi (coffea Arabica) hanya dikenal uredospora saja dan jarang sekali ditemukan teletospora dan pikniospora. - Contoh-contoh lain dari suku ini adalah Puccinia sorghi, P. thwaitseii, Gymnosprangium clavariaeforme, Phragmidium rubiidaei.
+
+Daur hidup
+4. Bangsa Ustilaginales
+1. Disebut juga jamur api, dapat dibiakkan dalam medium buatan 2. Parasit pada tumbuh- tumbuhan tinggi, berupa miselium yang berkembang dalam
+ruang-ruang antar sel iangnya 3. Miselium dikariotiknya dapat terpisah-pisah menjadi sel-sel yang disebut
+klamidospora, berfunsi sebagai probasidium dan homolog dengan teletospora pada Uredinales 4. Di dalam klamidospora terjadi peleburan kedua inti dan terbentuklah basidium yang terbagi- bagi melintang disertai dengan pembelahan reduksi. 5. Hifa-hifa yang keluar dari basidiopora dapat berkopulasi membentuk miselium dikariotik. 6. Daur hidup jamur Ustilaginales seperti pada Tilletia eleusines 7. Pada beberapa jenis terjadi pembentukan gesper/kait, yang mula-mula hidup sebagai saprofit. Fase perkembangan yang haploid tidak mempunyai daya infeksi, tetapi fase dikariotik meluas kedalam jaringan inangnya 8. Miselium dapat membentuk lapisan yang rapat, sel-selnya membesar dan membentuk rangkaian seperti rantai mutiara, dan akhirnya melepaskan diri dari hifanya sebagai spora berdinding tebal, berwarna kehitam-hitaman. 9. Tempat berkumpulnya spora tersebut seperti benda yang terbakar menjadi arang. Spora ini terhembus ke luar seperti serbuk arang, oleh sebab itu disebut spora api 10. Kebanyakan warga suku ini menimbulkan penyakit pada serelia, misalnya :  Ustilago zeae, menyerang batang, daun, dan bunga jagung menghasilkan bisul-
+bisul berisi klamidospora  U. Scitamineae , menyerang tanaman tebu  Tilletia horrida, menyerang buah padi sehinggga berwarna hitam dan keras  T. Tritici, menyerang tanaman gandum yang mengakibatkan kemunduran
+tingkat produksi
+
+Daur Hidup Ustilago sp.
+C. Anak Kelas Deuteromycetes Meliputi cendawan yang hanya dikenal konodiumnya saja, askus dan basidium belum terdapat, sehingga disebut fungi imperfecti (cendawan yang tidak sempurna). Diduga cendawan ini telah kehilangan daya produksi organ-organ tersebut, atau merupakan suatu perkembangan cendawan yang tergolong ke dalam anak kelas sebelumnya. Sehingga jika di kemudian hari diketahui ada pembiakan seksualnya, akan termasuk Eumycetes. Proses pembentukan konodium pada Deuteromycetes dapat terjadi melalui dua proses yang berlainan, yaitu : holotalus dan enterotalus, serta holoblastik dan enteroblastik. Cendawan-cendawan yang tegolong fungi imperfecti banyak yang menimbulkan penyakit pada tanaman bududaya, antara lain :  Helminthosporium oryzae, merusak kecambah, menyerang buah, menimbulkan noda
+pada daun inang.  Sclerotium rofsii, menimbulkan penyakit busuk pada beberapa tanaman budidaya
+
+ Colletoterichum, Cladosporium, Gloeosporium, Diplodia, Fusarium, dan lain-lain. Sedangkan warga yang hidup sebagai saprofit contohnya adalah Monilia sitophila (Neurospora sitophila, digunakan untuk pembuatan oncom merah. Aspergillus dan Penicillium seringkali dimasukkan ke dalam golongan fungi imperfecti. Pembentukan konodium pada Aspergillus dapat digambarkan sebagai berikut.
+Konodium yang berderet-deret D. Anak Divisi Lichenes (Lumut Kerak ) Merupakan kesatuan antara fungi dan algae. Fungi menyusun tubuh lichenes tergolong ke dalam Ascomycetes (Discomycetales, Pyrenomycetales), sedangkan algaenya disebut gonodium, dapat bersel tunggal atau berupa koloni. Kebanyakan gonodium adalah Cyanophyceae (Chroococcus dan nostoc ) dan Chlorophyceae (Crystococcus dan Trentophlia)
+Nutrisi absortif memungkinkan fungi hidup sebagai pengurai dan simbion Fungi adalah heterotrof yang mendapatkan nutriennya melalui penyerapan (absorption) . Dalam cara nutriungi.si ini, molekul ­ molekul organik kecil diserap dari medium sekitarnya. Fungi akan mencerna makanan diluar tubuhnya dengan cara mensekresikan enzim ­ enzim hidrolitiknya yang sangat ampuh dalam makanan tersebut. Enzim ­ enzim itu akan menguraikan molekul kompleks menjadi senyawa yang lebih sederhana yang dapat diserap dan digunakan oleh fungi.
+
+Cara memperoleh nutrien yang absorptif ini menjadikan fungi terspesialisasi sebagai pengurai (saproba ), parasit, atau simbion ­ simbion mutualistik. Fungi saprobik menyerap zat ­ zat makanan dari bahan organik yang sudah mati seperti pohon yang tumbang, bangkai hewan, atau buangan organisme hidup. Di dalam proses nutrisi saprobik ini, fungi menguraikan bahan organisme tersebut. Fungsi parasitik menyerap zat ­ zat makanan dari sel ­ sel inang yang masih hidup. Beberapa jenis fungi parasitik, misalnya seperti spesies tertentu yang menguntungkan bagi pasangannya dalam hal tertentu, misalnya membantu suatu tumbuhan di dalam proses pengambilan mineral dari tanah.
+Fungi menempati lingkungan yang sangat beraneka ragam dan berasosiasi secara simbiotik dengan banyak organisme. Meskipun paling sering ditemukan di habitat darat, beberapa fungi hidup di lingkungan akuatik , dimana fungi tersebut berasosiasi dengan organisme air laut dan air tawar serta bangkainya. Lichen, perpaduan simbiotik antara fungi dan alga, banyak terdapat dimana ­mana dan ditemukan beberapa habitat yang sangat tidak bersahabat di bumi ini: gurun yang dingin dan kering di antartika , tundra alpin dan arktik. Fungi simbiotik lainnya hidup di dalam jaringan tumbuhan yang sehat, dan spesies lain embentuk mutualisme ­ mutualisme pengkonsumsi- selulosa dengan serangga, semur dan rayap.
+Luas permukaan yang sangat besar dan pertumbuhan yang sangat cepat mengadaptasikan fungi untuk nutrisi absorptif.
+Tubuh vegetatif ( aktif secara nutrisional )sebagian besar fungi umumnya tersembunyi, terorganisir secara difusi disekitar dan didalam jaringan sumber makanannya. Kecuali khamir, yang merupakan organisme uniseluler, tubuh fungi terdiri dari unit ­ unti yang disebut hifae ( tunggal, hifa ). Hifa adalah benang halus yang merupakan bagian dari dinding tubuler yang mengelilingi membran plasma dan sitoplasma. Sitoplasma mengandung organel yang umum ditemukan pada eukariota. Hifa membentuk suatu hamparan anyaman yang disebut miselium ( jamak, miselia ) , yaitu merupakan jaringan jaringan " makan " dari suatu fungi.
+
+Miselia fungi dapat berukuran besar, walaupun miselia umumnya tidak terlihat dengan mata kita, karena miselia hidupnya di bawah permukaan tanah, misalnya misellium dari jenis individu raksasa fungi Armillaria ostoyae di negara bagian Washington.
+Sebagian besar fungi adalah organisme multiseluler dengan hifa yang dibagi menjadi sel ­ sel dinding yang bersilangan atau septa ( tunggal, septum ) . septa umumnya memiliki pori yang cukup besar agar ribosom, mitokondria atau bahkan nukleus dapat mengalir dari satu sel kesatu sel yang lainnya. (gambar a)
+
+Gambar a
+
+Gambar b
+
+Dinding sel fungi berbeda dari dinding selulosa pada tumbuhan. Sebagian besar fungi membetuk diding selnya terutama dari kitin, suatu polisakarida mengandung nitrogen yang kuat namun fleksibel yang mirip dengan kitin yang ditemukan pada kerangka eksternal serangga dan arthropoda lainnya. Beberapa fungia adalah asepta , artinya hifanya tidak dibagi menjadi sel ­ sel oleh septum. Dikenal sebagai fungi senositik, fungi ­ fungi ini terbentuk dari suatu masa sitoplasmik yang kontinu dengan ratusan atau ribaun nukleus, kondisi senositik tersebut adalah hasil pembelahan nukleus berulang ­ ulang tanpa pembelahan sitoplasmik.( gambar b ) Korelasi antara struktur dan fungsi adalah salah satu tema mendasar dalam biologi. Struktur filamen yang dimiliki misellium memberi luas permukaan yang sangat besar, yang cocok dengan nutrisi absorptif pada fungi. Fungi parasitik umumnya memiliki sejumlah hifa yang termodifikasi sebagai haustoria, ujung hifa penyerap makanan yang menembus jaringan inangnya.
+Miselium fungi tumbuh dengan cepat, bertambah sebanyak satu kilometer hifa setiap harinya seiring bercabangnya misellium pada sumber makanan. Pertumbuhan yang demikian cepat ini bisa terjadi karena protein dari bahan ­ bahan yang disintesis oleh keseluruhan , bukan diameternya fungi adalah organisme yang tidak bergerak, mereka tidaj dapat berjalan, berenang, atau terbang untuk mencari makananya atau untuk mencari pasangan kawinnya. Akan tetapi misellium mengatasi ketidakmampuan bergerak itu dengan menjulurkan ujung ­ ujung hifanya dengan cepat ke teritori baru.
+
+Fungi bereprdouksi dengan cara melepaskan spora yang dihasilkan secara seksual atau aseksual
+Spora fungi memiliki berbagai bentuk dan ukuran , dan dapat dihasilkan secara seksual maupun aseksual. Pada umumnya spora adalah organisme uniseluler , akan tetapi ada juga spora yang multiseluler. Spora dihasilkan di dalam, atau dari, struktur hifa yang terspesialisasi . ketika kondisi lingkunagn memungkinkan pertumbuhan yang sangat cepat, fungi mengkloni diri mereka sendiri dengan cara menghasilkan banyak sekali spora secara seksual. Terbawa oleh angin atau air , spora ­ spor tersebut berkecambah , jika mereka mendarat di tempat lembab yang sesuai . dengan demikian spora berfungsi dalam penyebaran dan bertanggung jawab atas penyebaran banyak spesies fungi ke berbagai tempat.
+Bagi banyak fungi, seks adalah salah satu cara reproduksi darurat yang dilakukan ketika terjadi perubahan lingkunagn. Dibandingkan dengan reproduksi aseksual, reproduksi seksual menghasilkan keturunan dengan keanekaragaman genetik yang lebih besar. Sebagai bahan mentah untuk seleksi alam, variasi individu pada keturunan ini dapat membantu mereka beradaptasi di lingkungan yang berubah.
+Nukleus- nukleus dari hifa fungi dan spora fungi pada sebagian besar spesies adalah nukleus haploid, kecuali untuk tahapan diploid sementara yang terbentuk selama siklus hidup seksual. Akan tetapi , beberapa miselia bisa menjadi heterogen secara genetik melalui penyatuan dua hifa yang memiliki nukleus yang secara genetik berbeda. Pada beberapa kasus, nukleus ­ nukleus yang berbeda ini menetap di bagian yang berlainan dalam misellium yang sama, yang kemudian menjadi suatau mosaik ditinjau dari genotipe dan fenotipenya. Pada kasus lain, nukleus ­ nukleus yang berlainan ini akan bercampur dan mungkin saja saling bertukar kromosom dan gen didalam suatu proses yang mirip dengan proses pindah silang.
+
+Ada satu kasus khusus heterogenitas genetik yang terjadi selama siklus seksual banyak fungi. Singami, penyatuan seksual dari sel ­ sel yang berasal dari dua individu, terjadi dalam dua tahapan yang berlainan waktunya. Kedua tahapan singami ini dinamakan plasmogami (penyatuan sitoplasma ) dan katiogami ( penyatuan nukleus ) . setelah plasmogami, nukleus dari masing ­ masing sel induk membentuk pasangan namun belum menyatu, membentuk suatu dikarion ( dua nukleus ). Pasangan nukleus tersebut dapat hidup dan membelah secara bersama ­ sama di dalam sebuah sel dikariotik atau miselium selam bertahun ­ tahun. Kondisi ini memiliki beberapa dari keuntungan diploidi, satu genom haploid mungkin dapat mengkompensasi mutasi ­ mutasi berbahaya yang terjadi pada nukleus lain, demikian sebaliknya. Akhirnya dalam tahapan kedua dari singami , nukleus tersebut menyatu ( kariogami ), membentuk satu sel diploid yang mengalami pembelahan meiosis langsung. Seperti yang akan kita liat pada bagian berikutnya, siklus hidup pada banyak fungi meliputi tiga fase yang jelas berbeda, haploid, dikariotik, dan diploid.
+Keterangan gambar :
+Siklus hidup fungi :Spora haploid dihasilkan secara aseksual dan seksual. Dihasilkan oleh hifa khusus yaitu suatu misellium, sebagian disebarkan secara meluas oleh angina tau air dan berkecambah pada permukaan yang lembab . reproduksi seksual pada banyak spesies fungi meliputi tahapan singami ( penyatuanseksual ) yang berbeda. Tahapan pertama disebut plasmogami, adalah penyatuan sitoplasma ( hifa) dua miselia yang bertetangga. Plasmogami akan menghasilkan suatu tahapan dikariotik yang
+
+ditandai dengan n + n , karena nucleus haploid dari masing ­ masing induk membentuk pasangan akan tetapi tidak menyatu. Selama tahapan singami kedua, yang disebut kariogami , nucleus haploid itu menyatu, menghasilkan tahapan diploid, kemudian pembelahan meisosis akan mengarah ke pembentukan spora haploid yang secara genetic beragam.
+Keanekaragaman Fungi
+Lebih dari 100.000 spesies fungi telah diketahui, dan para ahli mikologi ( ahli biologi yang mempelajari fungi ) memperkirakan bahwa terdapat sekitar 1,5 juta spesies di seluruh dunia. Skema taksonomik yang digunakan dalam hal ini mengklasifikasikan fungi kedalam empat divisi, yaitu zigomikota, askomikota, basidiomikota, dan khitridiomikota. Penggunaan istilah botani divisi sebagai pengganti fiilum adalah sisa ­ sisa dari skema taksonomik yang sebelumnya mengelompokkan fungi ke dalam kelompok tumbuhan.
+Kapang , khamir, lichen, dan mikhoriza menunjukkan cara hidup unik yang berevolusi secara independen dalam tiga divisi fungi.
+Cara hidup tertentu yang melibatkan spesialisasi morfologis dan ekolagis telah berkembang secara independen pada fungi zigot, dan, fungi kantung serta fungi gada. Gaya hidup yang beragam itu memungkinkan fungi tersebut memanfaatkan habitat yang tidak umum.
+Kapang
+Kapang adalah fungi yang tumbuh cepat dan bereproduksi secara aseksual. Miselium fungi ini I tumbuh sebagai saprobe atau parasit pada berbagai jenis substrat. Kapang dapat mengalami tahapan reproduktif yang berbeda, pada awal kehidupannya, kapang menghasilkan spora aseksual. Istilah kapang berlaku hanya bagi tahapan aseksual ini
+Kemudian fungi yang sama bereproduksi secara seksual, menganghasilkan zigospor atau basidiokarpus. Ada juga kapang yang tidak dapat dikelompokkan sebagai zigomicetes, askomicetes ataupun basidiomic, karena kapang ini tidak memiliki tahapan seksual yang diketahui. Kapang tersebut secara kolektif disebut deuteromicetes, atau fungi tak sempurna ( dari penggunaan botanical dari istilah sempurna untuk mengacu
+
+pada tahapan seksual siklus hidup ). Fungi tak sempurna bereproduksi secara aseksual dengan cara menghasilkan spora
+
+Khamir
+
+Khamir atau yeast adalah fungi uniseluler yang menempati habitat cair dan lembab , termasuk getah pohon dan jaringan hewan, khamir berreproduksi secara aseksual , dengan cara pembelahan sel sederhana atau dengan cra pelepasan sel tunas dari sel induk
+
+Beberapa khamir
+
+bereproduksi
+
+secara seksual
+
+dengan
+
+cara
+
+membentuk aski
+
+atau basidia, dan
+
+dikelompokkan ke
+
+dalam askomikota
+
+atau basidiomikota.
+
+Yang
+
+lain
+
+dikelompokkan
+
+sebagai fungi tak
+
+sempurna karena
+
+tidak ada tahapan
+
+seksual
+
+yang
+
+diketahui.
+
+Beberapa fungi
+
+dapat
+
+tumbuh
+
+sebagai sel tunggal
+
+( khamir ) atau
+
+sebagai misellium berfilamen, tergantung pada ketersediaan zat ­ zat hara yang ada.
+
+Beberapa khmir menyebabkan masalah bag manusia, suatu khamir merah muda , rhodotorula, tumbuh pada tirai kamar mandi dan permukaan lembab lainnya di rumah. Khamir lainnya adalah candida, salah satu penghuni normal jaringan epithelial manusia yang lembab, seperti lapisan vagina. Keadaan tertentu dapat menyebabkan candida menjadi patogenik dengan tumbuh terlalu cept dan membebaskan zat ­ zat berbahaya. Ini dapat terjadi misalnya karena suatu perubahan li manusiangkungan, seperti perubahan PH, atau ketika system kekebalan inang manusia dilemahkan oleh penyakit ­oleh AIDS misalnya.
+
+Lichen
+Dari jarak jauh, lichen sering tertukar dengan lumut atau tumbuhan sederhana lainnya yang tumbuh diatas batu, kayu yang membusuk, pohon, dan atap. Pada kenyataannya, lichen bukan lumut daun atau jenis tumbuhan lain, dan lichen bukan merupakan organism individual. Lichen adalah suatu asosiasi simbioti dari berjuta ­ juta mikroorganisme fotosintetik yang disatukan dalam jaringan hifa fungi . komponen fungi paling umum adalah askomicetec, akan tetapi beberapa lichen basiodemicetes juga dikenal. Pasangan fotosintetiknya adalah alga hijau uniseluler atau berfilamen atau sianobakteri. Penyatuan fungi dan alga adalah sdemikian sempurnya sehingga lichen tersebut sesungguhnya diberikan nama genus dan spesies seolah olah mereka adalah organism tunggal.
+Komponen alga umumnya ditemukan pada lapisan dalam dibawah permukaan licin. Pada sebagian besar kasus yang telah dipelajari , masing- masing mitra dalam interaksi tersebut menyediakan sesuatu yang tidak dapat disediakan sendiri oleh pasangannya. Alga menyediakan makanan bagi fungi. Sianobakteri pada lichen akan memfiksasi nitrogen dan menyediakan nitrogen organic. Fungi menyediakan lingkungan fisik yang sesuai untuk pertumbuhan bagi alga. Lichen menyerap sebagian besar mineral yang akanmereka perlukan baik dari debu atau dari huan. Susunan fisik hifae menahan air dan mineral, memungkinkan terjadinya pertukarn gas dan melindungi alga. Pigmen fungi membant melindungi alga dari sinar matahari yang kuat. Beberapa senyawa fungi bersifat toksik dan mencegah lichen termakan oleh consumer. Fungi juga dapat mensekresikan asam , yang membantu pengambilan mineral.
+Fungi pada banyak lichen bereproduksi secara seksual denagn cara membentuk askorpus atau basidiokarpus. Alga lichen bereproduksi secara independen dari fungi melalui pembelahan sel secara aseksual. Seperti mungkin akan diharapkan dari suatu organism ganda, reproduksi aseksual sebagai suatu unit simbiotik juga umum terjadi, baik melalui fragmentasi induk lichen atau melalui pembentukan struktur yang terspesialisasi yang disebut soredia. Soredia adalah kumpulan hifa kecil dengan alga yang tertanam di dalamnya.
+(Campbell, dkk. 2003)
+
+PEMBIAKAN JAMUR
+Jamur berbiak secara vegetatif dan generative dengan pelbagai macam spora. Macam spora yang terjadi dengan tiada perkawinan ialah:
+a. Spora yang biasa terjadi karena protoplasma dalam suatu se tertentu berkelompok-kelompok kecil, masing-masing mempunyai membrane serta inti sendiri. Sel tempat terjadinya spora ini disebut sporangium, dan sporanya disebut sporangiospora
+b. Konidiospora, yaitu spora yang terjadi karena ujung suatu hifa berbelah-belah seperti tasbih. Di dalam hal ini tidak ada sporangium, tiap spora disebut konidiospora atau konidia saja, sedang tangkai pembawa konidia disebut konidiofor.
+c. Pada beberapa spesies, bagian-bagian miselium dapat membesar serta berdinding tebal; bagian itu merupakan alat pembiak yang disebut klamidospora (chlamydospora = spora yang berkulit tebal)
+d. Jika bagian-bagian miselium itu tidak menjadi lebih besar daripada aslinya, maka bagian-bagian itu disebut artrospora ( serupa batu bata ), oidiospora atau oidia (serupa telur ) saja.
+Kebanyakan spesies jamur dapat membiak secara vegetative maupun secara generative. Pembiakan secara generative atau seksual dilakukan dengan isogamete atau dengan heterogamete (anisogamet). Pada beberapa spesies perbedaan morfologi antara jenis sel kelamin itu belum nampak sehinnga semuanya kita sebut isogamete, kadang-kadang kita beri tanda pengenal + dan ­ untuk membedakan jenisnya.
+Pada beberapa spesies lain tampak tampak adanya perbedaan mengenai besar kecilnya gamet-gamet, sehingga untuk itu ada penyebutan mikrogamet (sel kelamin jantan) dan makrogamet (sel kelamin betina )
+Di dalam keadaan yang serba optimum, maka jamur membiak dengan cepat sekali. Hanya kekeringanlah merupakan factor pembatas bagi pertumbuhannya.
+
+RAGI
+
+Kata ragi dipakai untuk menyebut adonan atau ramuan yang digunakan dalam pembuatan berbagai makanan dan minuman seperti tempe, oncom, tape, roti, anggur, bir, brem, dan lain-lainnya lagi.
+
+Ragi untuk tempe terdiri atas berbagai spesies dari genus Rhizophus dan genus mucor ; kedua jenis ini masuk golongan Phycomycetes. Ragi untuk merupakan oncom yang hanya membiak secara vegetative terkenal sebagai monilia sitophila.
+
+Ragi untuk tape merupakan campuran populasi, di mana terdapat spesies-spesies dari genus Aspergillus, saccharomyces, candida, hansenulla, sedang bakteri Actenobacter biasanya tidak ketinggalan. Genus-genus tersebut hidup bersama secara sinergetik; aspergillus dapat ,menjadi asam cuka.
+
+Ragi untuk membuat roti dan minuman keras lebih murni populasinya dan ragi itu
+
+terutama terdiri atas saccaromyces cerevisiae, meskipun spesies-spesies lain mungkin
+
+juga kedapatan disitu.
+
+( Yatim. 1989)
+
+Khamir
+Kelompok cendawan atau fungi ini, tidak membentuk askokarp. Ciri lain ialah tidak ada nya hifa sebagaimnana dijumpai pada funi lain, melainkan tubuhnya itu terdiri dais el bulat atau oval yang dapat berunas atau berkuncup. Sehingga terbentuklah rantai sel atau hifa semu.
+
+Pada reproduksi aseksual dinding sel menonjol keluar membentuk tunas kecl. Dengan membesarnya tonjolan ini sitoplasma dari sel induk mengalir kedalamnya dan sel itu menyempit pada bagian dasarnya. Nucleus dalam sel induk membelah secara amitosis bergerak ke dalam sel dan satu inti anak bimbul pergerak kedalam sel tunas tadi. Sel
+
+anak dapat memisahkan diri dari induknya atau melekat sambil melakukan pertunasan. Lebih lanjut bersama sel induknya, sehingga dengan demikian terbentuklah koloni. Dalam keadaan yang optimum untuk tumbuh, satu sel khamir dapat membentuk lebih dari 20 kuncup sebelum berhenti berkembang biak. Kuncupkuncup ini timbul pada berbagai tempat permukaan sel induk; tidak pernah timbul satu tunas di tempat yang sama yang sebelumnya telah ada kuncup.
+Perkembanggbiakan seksual terjadi bilamana keadaaan lingkungan tidak sesuai dengan reproduksi seksual. Sel khamir dapat berfungsi sebagai askus. Nukleusnya yang diploid (2n) melangsungkan pembelahan meiosis sehingga terbentuklah empat sel haploid (n), lalu dinding sel melindungi inti ­ inti itu bersama sitoplasma yang berasal dari sel induk dan pada akhirnya terdapat empat askospora haploid. Askospora lebih tahan terhadap keadaan lingkungan yang tidak menguntungkan dibandingkan dengan sel vegetative (somatic) kesederhanaan struktur pada khamir sekali ­ kali tidak menggambarkan bahwa fungi atau cendawan ini primitive, sebaliknya mereka berasal dari suatu kelompok ascomycotina yang mempunyai organism dan daur hidup yang lebih rumit., contoh khamir yang dibicarakan adalah Saccharomyces cerevisiae.
+
+III. PROSEDUR PERCOBAAN
+A. Alat dan Bahan B. Cara Kerja
+
+IV. HASIL PENGAMATAN DAN PEMBAHASAN
+
+A. Hasil Pengamatan
+
+No. Gambar Asli 1
+
+Gambar Referensi
+
+Klasifikasi Regnum:Fungi Devisio:Zygomycota Class Zygomycetes Order :Mucorales Family:Mucoraceae Genus:Rhizopus Species:Rhizopus oryzae
+
+2
+
+Regnum:Fungi
+
+Devisio:
+
+ascomycotina
+
+Class :
+
+pyrenomycetes
+
+Order :
+
+Family :
+
+Genus: Neuspra
+
+Species: Neurospora
+
+crassa
+
+3
+
+Regnum:Fungi
+
+Devisio:Zygomycota
+
+Class :Zygomycetes
+
+Order :Mucorales
+
+Family :Mucoraceae
+
+Genus :Rhizopus
+
+Species:Rhizopus
+
+nigricans
+
+4
+
+Regnum:Fungi
+
+Devisio: Ascomycota
+
+Kelas :
+
+Saccharomycetes
+
+Ordo :
+
+Saccharomycetales
+
+Famili :
+
+Saccharomycetaceae
+
+Genus :
+
+Saccharomyces
+
+Spesies:
+
+Saccharomyces
+
+cereviecae
+
+B. Pembahasan Dalam pengamatan ini kami mengamati empat jenis jamur , yaitu jamur yeast atau ragi dalam bentuk preparat, jamur pada tempe, jamur pada roti dan jamur pada oncom
+1. Rhizopus nigricans a. Klasifikasi Jamur ini memiliki klasifikasi sebagai berikut: Regnum :Fungi Devisio :Zygomycota Class :Zygomycetes Order :Mucorales Family :Mucoraceae Genus :Rhizopus Species :Rhizopus nigricans
+b. Repoduksi Rhizopus nigricans dapat bereproduksi secara aseksual dan seksual. Reproduksi secara aseksual adalah dengan spora yang dihasilkan oleh sporangium
+
+Reproduksi seksualnya dengan konjugasi.
+Reproduksi seksual terjadi hanya antara tegangan kawin yang berbeda, yang biasanya berlabel + dan -. Meski tegangan yang kawin secara analisis yang tak dapat dibedakan, mereka sering ditunjukkan dalam hidup diagram siklus sebagai bendera yang berbeda. Ketika tegangan keduanya di dalamsudah dekat, menghasilkan hormone-hormon yang menyebabkan ujung hyphal memasang bersama-sama dan mengembangkan ke dalam gametangia, yang menjadi terpisah dari sisa tubuh fungal oleh pembentukan septa. Tembok kota antara keduanya menyentuh dan memecahkan gametangia, dan kedua protoplas-protoplas multinucleate datang berkumpul. + dan - nucleus bergabung untuk membentuk suatu zigospora yang muda dengan beberapa nucleus diploid. Zigospora lalu mengembangkan suatu tebal, mantel hitam keras dan menjadi tidur, sering kali untuk beberapa bulan-bulan. Meiosis terjadi pada waktu perkecambahan. Zigospora membuka dan menghasilkan suatu sporangium yang serupa menghasilkan sporangium dengan tidak berkelamin, dan daur hidup mulai kembali lagi. Berikut adalah gambar dari perkembangbiakan dari Rhizopus Nigricans.
+
+c. Daur hidup
+1. Dengan cara konjugasi hifa yang berbeda jenis terbentuk zigospora yang haploid
+2. Zigospora akan tumbuh menjadi benang hifa dan bagian ujungnya membentuk sporangium. Di dalam sporangium akan dihasilkan spora + dan spora ­ yang selanjutnya masing-masing spora akan tumbuh menjadi hifa + dan hifa -.
+d. Habitat dan penyebaran Rhizopus nigricans mempunyai suatu distribusi yang tentang penyakit. Itu adalah mampu menyebabkan : infeksi oportunis manusia (zygomycosis). Yang paling umum ditemukan mengakar roti dan buah lunak seperti arbeiarbei dan persik-persik. Karena spora-spora nya bersifat umum di udara, itu dapat tumbuh di dalam beberapa hari dengan pemeliharaan melembabkan potongan-potongan dari roti dalam satu lingkungan yang terlampir, lembab.
+
+Suatu penyakit pascapanen yang umum dari pepaya-pepaya. Penyakit itu adalah penting hanya selama ruang simpan dan pemindahan dari pepayapepaya dan jarang dilihat pada ladang. Penyakit, ketika itu terjadi di buahbuahan di packing dalam karton, bisa merupakan suatu kotoran yang tidak enak dipandang karena kebocoran yang encer/berair dari buah-buahan yang menyebabkan kotak-kotak itu untuk mendapat basah dan ambruk.
+Rhizopus kebusukan dari Buah Pelok . Rh izopus kebusukan, disebabkan oleh Rhizopus stolonifer, dapat sangat bersifat merusak kepada buah yang dipanen. Sementara itu dapat berkembang di dalam salam terluka atau pecah buah di pohon, itu paling umum mempengaruhi buah di dalam ruang simpan, selama pemindahan, dan di pasar. Buah matang dari persik-persik, nectarines, buah kersen manis, dan prem-prem paling peka. Rhizopus bualan/ kebusukan buah adalah biasanya dari arti penting yang kecil di dalam ladang tetapi dapat menyebabkan kerugian-kerugian postharvest penting.
+e. Karakter Rhizopus Nigricans mempunyai beberapa karakteristik diantaranya : dapat tumbuh pada suhu 5oC ­ 37oC, tetapi pertumbuhan optimumnya yaitu pada suhu 25oC. AW berkisar pada 0,93 tetapi di laboratorium telah terjadi pertumbuhan pada MY50G agar mudah (0,89 aw) seperti beberapa lainnya mucorales, R.nigricans dapat tumbuh di bawah kondisi anaerobik.
+Rhizopus Nigricans dapat hidup / tumbuh pada roti atau buah-buahan lunak. Dalam hal ini Rhizopus Nigricans terutama banyak dijumpai pada roti dan menyebabkan kerusakan pada roti tersebut. Hal tersebut dikarenakan spora tersebut berada pada udara, tanah ataupun diri kita, yang kemudian apabila jatuh pada roti maka spora tersebut akan tumbuh dengan sangat cepat.
+Organisme ini menyebabkan cetakan roti menjadi hitam dengan membentuk permukaan halus dari roti yang lembab menggembung ke angkasa. Miselium dari R.nigricansa adalah yang terdiri atas tiga jenis haploid yang berbeda hyphae. Bagian terbesar dari miselium terdiri dari dengan cepat bertumbuh
+
+hyphae yang bersifat senositik (multinucleate) dan takbersekat (tidak yang dibagi oleh dinding lintang ke dalam sel-sel atau kompartemenkompartemen). Dari ini semua, cincin busur hyphae "geragih-geragih" dibentuk. Geragih-geragih dari rizoid-rizoid di mana saja ujung-ujung mereka berhubungan substrat. Sporangia membentuk di ujung sporangioforsporangiofor, yang bersifat cabang lurus membentuk secara langsung di atas rizoid-rizoid. Masing-masing sporangium mulai sebagai suatu bengkak ke dalam dimana sejumlah nucleus mengalirkan, dan itu adalah pada akhirnya dikerat dari sporangiofor-sporangiofor oleh pembentukan suatu sekat. Protoplasma di dalam dibelah, dan suatu dinding sel dibentuk di sekitar masing-masing spora. Sporangium menjadi hitam karena mendewasakan, memberi warna karakteristik cetakan nya. Masing-masing spora, ketika dibebaskan, dapat berkecambah untuk menghasilkan suatu miselium yang baru.
+2. Rhizopus oryzae a. Klasifikasi Kingdom: Fungi Phylum:Zygomycota Class:Zygomycetes Order:Mucorales Family:Mucoraceae Genus:Rhizopus Species:Rhizopus oryzae
+b. Karakter Fermentasi pada tempe dapat menghilangkan bau langu dari kedelai yang disebabkan oleh aktivitas dari enzim lipoksigenase. Jamur yang berperanan dalam proses fermentasi tersebut adalah R. oligosporus. R. oligosporus Saito mempunyai koloni abu-abu kecoklatan dengan tinggi 1 mm atau lebih. Sporangiofor tunggal atau dalam kelompok dengan dinding halus atau agak sedikit kasar, dengan panjang lebih dari 1000 m dan diameter 10-18 m.
+
+Sporangia globosa yang pada saat masak berwarna hitam kecoklatan, dengan diameter 100-180 m.
+Kolumela globosa sampai sub globosa dengan apofisa apofisa berbentuk corong. Ukuran sporangiospora tidak teratur dapat globosa atau elip dengan panjang 7-10 m. Klamidospora banyak, tunggal atau rantaian pendek, tidak berwarna, dengan berisi granula, terbentuk pada hifa, sporangiofor dan sporangia. Bentuk klamidospora globosa, elip atau silindris dengan ukuran 730 m atau 12-45 m x 7-35 m. Suhu optimum, minimum, maksimum berturut-turut adalah 30-35o C, 12 oC dan 42 oC. Ditemukan di Jepang, China dan Indonesia yang diisolasi dari tempe (Samson, et al., 1995). Pitt dan Hocking (1985) R.oligosporus memiliki panjang sporangiosfor pada media Malt Extract Agar (MEA) 150-400 m lebih pendek dari R.oryzae yaitu lebih dari 1500 m. R.oligosporus biasanya memiliki rhizoid yang pendek, sporangium dengan diameter 80 ­120 m dan pada saat 7 hari akan pecah yang menyebabkan spora keluar kolumela dengan diameter 25-75 m. Sedangkan R.oryzae memiliki diameter sporangium lebih dari 150 m, kolumela dengan diameter lebih dari 100 m. Beberapa sifat penting dari R. oligosporus antara lain meliputi aktivitas enzimatiknya, kemampuan menghasilkan antibiotika, biosintesa vitaminvitamin B, kebutuhannya akan senyawa sumber karbon dan nitrogen, perkecambahan spora, dan penetrisi miselia jamur tempe ke dalam jaringan biji kedelai (Kasmidjo, 1990). Menurut Soetrisno (1996) sifat-sifat jamur Rhizopus oryzae yaitu koloni berwarna putih berangsur-angsur menjadi abu-abu; stolon halus atau sedikit kasar dan tidak berwarna hingga kuning kecoklatan; sporangiofora tumbuh dari stolon dan mengarah ke udara, baik tunggal atau dalam kelompok (hingga 5 sporangiofora); rhizoid tumbuh berlawanan dan terletak pada posisi yang sama dengan sporangiofora; sporangia globus atau sub globus dengan dinding berspinulosa (duri-duri pendek), yang berwarna coklat gelap sampai hitam bila telah masak; kolumela oval hingga bulat, dengan dinding halus atau sedikit kasar; spora bulat, oval atau berbentuk elips atau silinder; suhu optimal untuk pertumbuhan 350C, minimal 5-70C dan maksimal 440C. Berdasarkan
+
+asam laktat yang dihasilkan Rhizopus oryzae heterofermentatif (Kuswanto dan Slamet, /muhammadbetha.blog.uns.ac.id/rhizopus-oryzae.htm/)
+
+termasuk 1989).
+
+mikroba (dalam
+
+c. Habitat dan penyebarannya Habitat di darat, di tanah yang lembab atau sisa organisme mati. Rhizopus orizae dapat ditemukan pada tempe, karena merupakan jamur pada tempe
+
+d. Reproduksi Reproduksi vegetatif dengan cara membentuk spora tak berflagel (aplanospora) dan generatif dengan cara gametangiogami dari dua hifa yang kompatibel/konjugasi dengan menghasilkan zigospora
+
+Sepeti pada jamur roti, reproduksi seksual pada jamur tempe pun dapat terjadi secara konjugasi. Gametangium yang posotif (+) bersinggungan dengan gametongium yang negatif (-). Terjadi fertilisasi, sehingga terbentuklah zigot. Selanjutnya zigospora tumbuh menjadi zigospora yang memiliki dinding tebal. Setelah mengalami pembelahan meiosis, zigospora bergerminasi dan tumbuh menjadi jamur
+Reproduksi aseksual terjadi saat sporangium yang berisi spora dengan inti bersifat mitotik. Jiks dinding sporangium pecah, dan spora jatuh ditempat yang sesuai, spora bergeminasi menjadi jamur.
+e. Daur hidup
+
+3. Neuspra crassa 1. Klasifikasi regnum ; fungi devisio ; ascomycotina Class : pyrenomycetes Order : Family : Genus : Neuspra Species : Neuspra crassa
+2. Habitat Sering dijumpai pada sisa tongkol jagung rebus, nasi basi yang tampak menyolok adalah warna konidianya.Neurospora crassa merupakan jamur yang dimanfaatkan untuk pembuatan oncom. Neurospora mudah ditemukan di bekas kayu terbakar pada musim penghujan, konidianya berwarna oranye. Jika dengan mikroskop, konidia jamur ini tampak berderet membentuk rangkaian spora yang tumbuh menurut arah jari-jari. Di Jawa Barat, jamur ini digunakan untuk pembuatan oncom, yaitu tempe dengan bahan dari ampas tahu atau bungkil kacang tanah. Jamur ini banyak digunakan para ahli sebagai bahan penelitian sitogenetika.
+3. Reproduksi Perkembangbiakan secara seksual dilakukan dengan pembentukan askospora melalui beberapa tahap, yaitu: a. perkawinan (kopulasi) antara gametangium jantan dan gametangium betina, b. bersatunya plasma kedua gametangium yang disebut dengan plasmolisis, c. bersatunya inti yang berasal dari gametangium yang disebut dengan kariogami, dan d. kariogami yang menyebabkan terjadinya pembelahan reduksi, dilanjutkan dengan pembentukan askospora secara endogen menurut pembentukan sel bebas. Perkembangbiakan secara aseksual dapat dilakukan dengan
+
+pembentukan konidium, fragmentasi, dan pertunasan. Kelompok jamur ini dapat ditemui di permukaan roti, nasi, dan makanan yang sudah basi. 4. Daur hidup
+1. Ujung-ujung hifa berdiferensiasi ada yang membentuk gametangium (anteredium dan arkegonium). Masing-masing gametangium memiliki inti yang haploid.
+2. Askogonium bersinggungan dengan anteredium pada bagian tonjolan askogonium (trikogen)
+3. Terjadi plasmogami didalam askogonium sehingga intinya berpasangan, 4. Dari askogonium tumbuh hifa yang disebut hifa askogonium, inti
+membelah secara mitosis tetapi tetap berpasangan
+
+5. Hifa askogonium bercabang dan bersekat, segmen yang berdekatan dengan askogonium berinti banyak sedangkan yang berada di ujung berinti 2, sebagian inilah yang akan berkembang menjadi askus.
+6. Dua inti pada bakal askus bermiosis menghasilkan delapan spora yang disebut askospora.
+7. Tubuh buah dibentuk dari perkembangan hifa askogonium bersama-sama dengan pertumbuhan miselium vegetative secara kompak.
+5. Karakteristik Ciri khas yang dimiliki adalah askokarp berbentuk khusus yang dilengkapi dengan ostiolum (lubang untuk melepas askus dan askospora). Tubuh buah seperti itu disebut peritesium, yang dapat berwarna cerah atau gelap. mempunyai hifa yang bersekatsekat. Dinding sel terdiri atas kitin dan dapat hidup sebagai saprofit, parasit, atau bersimbiosis. Ascomycota adalah kelompok jamur yang berkembang biak dengan membentuk spora di dalam selnya (kantung kecil) yang disebut askus.
+Pembentukan askus inilah yang menjadi ciri Ascomycota. Warnanya merah, cokelat, atau hijau. Contoh jamur Ascomycota yang hidup sebagai saprofit, antara lain, Saccharomyces cereviciae (khamir bir, roti, dan alkohol), Saccharomyces tuac (khamir tuak), Saccharomyces ellipsoideus (khamir anggur), Penicillium sp. (makanan dan roti busuk), dan Neurospora crassa (pembuatan oncom). Contoh jamur yang tumbuh sebagai parasit adalah jamur Saccharomycosis yang menyerang pada epitel mulut
+
+anakanak. Jamur dapat bersimbiosis dengan ganggang hijau membentuk Lichenes (lumut kerak).
+
+4. Saccaromyces cereviecae
+
+klasifikasi Kerajaan Filum Kelas Ordo Famili Genus Spesies
+
+: : : : : : Saccharomyces : Saccharomyces cereviecae
+
+Fungi Ascomycota Saccharomycetes Saccharomycetales Saccharomycetaceae
+
+karakter
+Blastoconidia (sel tunas sisi) yang diamati. Mereka adalah unicellular, bundar, dan ellipsoid untuk memperpanjang dalam bentuk. Multilateral (multipolar) budding ciri khasnya. Pseudohyphae, jika ada, yang belum sempurna. Hyphae yang absen. Saccharomyces memproduksi ascospores, khususnya bila tumbuh di V-8 media, asetat ascospor agar, atau Gorodkowa media. Ascospores ini adalah bundar dan terletak di asci. Setiap ascus berisi 1-4 ascospores. Asci tidak menimbulkan perpecahan pada saat jatuh tempo. Ascospores yang berwarna dengan Kinyoun noda dan ascospore noda. Bila dikotori dengan noda Gram, ascospores adalah gram-negatif sedangkan sel vegetatif adalah gram positif
+Jamur ini digunakan dalam proses fermentasi pada pembuatan tape roti, dan pembuatan minuman beralkohol. Pada pembuatan minuman beralkohol, kadar alkohol yang terbentuk dibatasi oleh penghambatan aktivitas khamir pada kadar yang berbeda, yaitu 3% - 5% pada pembuatan bir dan hingga 14% pada pembuatan minuman anggur. Jika minuman beralkohol memiliki kadar lebih dari itu berarti ke dalamnya ditambah alkohol atau difermentasi lanjut dengan destilasi. Pada pembuatan roti, gas CO2 yang
+
+terbentuk akibat proses peragian menyebabkan adonan mengembangnya dan alkohol yang terbentuk akan hilang dengan sendirinya karena proses pembakaran. Reproduksi Saccharomyces cerevisiae dapat berkembang biak secara seksual dan aseksual.Perkembangbiakan aseksual diawali dengan menonjolnya dinding sel ke luar membentuk tunas kecil. Tonjolan membesar dan sitoplasma mengalir ke dalamnya sehingga sel menyempit pada bagian dasarnya. Selanjutnya nukleus dalam sel induk membelah secara mitosis dan satu anak inti bergerak ke dalam tunas tadi. Sel anak kemudian memisahkan diri dari induknya atau membentuk tunas lagi hingga membentuk koloni. Dalam keadaan optimum satu sel dapat membentuk koloni dengan 20 kuncup. Perkembangbiakan seksual terjadi jika keadaan lingkungan tidak menguntungkan.
+Pada prosesnya, sel Saccharomyces cerevisiae berfungsi sebagai askus. Nukleusnya yang diploid (2n) membelah secara meiosis, membentuk empat sel haploid (n). Intiinti haploid tersebut akan dilindungi oleh dinding sel sehingga mem-bentuk askospora
+
+haploid (n). Dengan perlindungan ini askospora lebih tahan terhadap lingkungan buruk. Selanjutnya, empat askospora akan tumbuh dan menekan dinding askus hingga pecah, akhirnya spora menyebar. Jika spora jatuh pada tempat yang sesuai, sel-sel baru akan tumbuh membentuk tunas, sebagaimana terjadi pada fase aseksual. Dengan demikian Saccharomyces cerevisiae mengalami fase diploid (2n) dan fase haploid (n) dalam daur hidupnya.
+Daur hidup
+Saccharomyces cerevisiae dapat ber- kembang biak secara seksual dan aseksual. Perkembangbiakan aseksual diawali dengan menonjolnya dinding sel ke luar membentuk
+tunas kecil. Tonjolan membesar dan sitoplasma mengalir ke dalamnya, sehingga sel menyempit pada bagian dasarnya. Selanjutnya nukleus dalam sel induk membelah secara mitosis dan satu anak inti bergerak ke dalam tunas tadi. Sel anak kemudian memisahkan diri dari induknya atau membentuk tunas lagi hingga membentuk koloni. Dalam keadaan optimum satu sel dapat membentuk koloni dengan 20 kuncup.
+Perkembangbiakan seksual terjadi jika keadaan lingkungan tidak menguntungkan. Pada prosesnya, sel Saccharomyces cerevisiae berfungsi sebagai askus. Nukleusnya yang diploid (2n) membelah secara meiosis, membentuk empat sel haploid (n). Inti- inti haploid tersebut akan dilindungi oleh dinding sel sehingga mem-bentuk askospora haploid (n). Dengan perlindungan ini askospora lebih tahan terhadap lingkungan buruk. Selanjutnya, empat askospora akan tumbuh dan menekan dinding askus hingga pecah, akhirnya spora menyebar. Jika spora jatuh pada tempat yang sesuai, sel-sel baru akan tumbuh membentuk tunas, sebagaimana terjadi pada fase aseksual. Dengan demikian Saccharomyces cerevisiae mengalami fase diploid (2n) dan fase haploid (n) dalam daur hidupnya
+
+Habitat
+Saccharomyces cerevisiae habitat alami adalah pada permukaan buah, tapi yang terbaik adalah dikenal karena perannya dalam industri kue dan menyeduh
+
+V. KESIMPULAN
+Dari percobaan yang telas dilakukan serta hasil dan pembahasan maka dapat ditarik kesimpulan sebagi berikut:
+1. Jamur yang berperan dalam proses fermentasi adalah jamur Saccaromyces cereviecae. Jamur yang berperan dalam pembuatan tempe adalah jamur Rhizopus oryzae. Jamur yang biasa hidup di roti adalah jamur Rhizopus nigricans. Jamur yang berperan dalam pembuatan tempe oncom adalah Neuspora crassa.
+2. Klasifikasi jamur berdasarkan alat perkembangbiakannya. Zygomycotina berkembangbiak dengan zoospore. Ascomycotina berkembangbiak dengan askus. Basidiomycotina berkembangbiak dengan basil. Deutromycotina belum diketahui cara berkembangbiaknya.
+3. Fungi dapat bereproduksi secara seksual maupun aseksual. 4. Habitat jamur adalah di tempat yang lembab.
+
+DAFTAR PUSTAKA http://wrghar.blogspot.com/2009/09/ciri-ciri-jamur.html

@@ -1,0 +1,1164 @@
+LAPORAN PRAKTIKUM BOTANI LAUT TROPIS
+
+Disusun Oleh :
+
+Nama NIM Kelompok Asisten
+
+: Fajar Bagus Sujiwo : 185080601111007 : 8 : Muhamad Bayu Krisnahadi
+
+PROGRAM STUDI ILMU KELAUTAN JURUSAN PEMANFAATAN SUMBERDAYA PERIKANAN KELAUTAN
+FAKULTAS PERIKANAN DAN ILMU KELAUTAN UNIVERSITAS BRAWIJAYA MALANG 2019
+
+LEMBAR PENGESAHAN LAPORAN PRAKTIKUM BOTANI LAUT TROPIS
+
+Sebagai salah satu syarat umum untuk LULUS mata kuliah Botani Laut Tropis di Fakultas Perikanan dan Ilmu Kelautan Universitas Brawijaya 2019
+
+Disusun Oleh :
+
+Nama NIM Kelas Program Studi
+
+: Fajar Bagus Sujiwo : 185080601111007 : I02 : Ilmu Kelautan
+
+Mengetahui, Koordinator Asisten
+
+Malang, 9 Maret 2019 Mengetahui, Asisten Pendamping
+
+Mahatma Farrel Z. NIM.165080607111039
+
+Muhamad Bayu Krisnahadi NIM.175080600111006
+
+Dosen Pengampu Mata Kuliah Botani Laut Tropis
+
+Dhira Kurniawan Saputra, S.Kel., M.Sc NIP.2012019601151001
+
+KATA PENGANTAR
+Segala Puji saya haturkan kehadirat Allah SWT karena berkat rahmat dan karunianya, saya dapat menyelesaikan Laporan Praktikum Botani Laut Tropis yang menghasilkan manfaat. Adapun laporan ini disusun sebagai bagian dari tugas mata kuliah Botani Laut.
+Dengan selesainya Laporan Praktikum Botani Laut Tropis, maka tidak lupa saya mengucapkan terima kasih kepada Allah SWT dan semua orang yang telah membantu menyusun Laporan Praktikum ini. Tak lupa juga untuk para pihak yang terlibat langsung. Khususnya saya ucapkan kepada :
+1. Dhira Kurniawan Saputra, S.Kel., M.Sc, selaku dosen mata kuliah Botani Laut.
+2. Seluruh kakak asisten yang sudah sabar membimbing dan memberi ilmu selama praktikum berlangsung
+3. Orang Tua kami atasdoa dan dukungannya sehingga tugas praktikum ini berjalan lancar.
+4. Seluruh teman yang berkenan saling membantu menyelesaikan Laporan Praktikum Botani Laut Tropis ini.
+Demikian Laporan Praktikum Botani Laut Tropis ini Saya buat dengan sepenuh hati. Tidak lupa kritik dan saran saya harapkan agar laporan ini dapat menjadi lebih baik lagi. Semoga laporan ini bermanfaat bagi penulis serta pembacanya. Terima Kasih.
+Malang, 28 Februari 2019
+Penulis
+i
+
+DAFTAR ISI
+KATA PENGANTAR ............................................................................................. i DAFTAR ISI......................................................................................................... ii DAFTAR GAMBAR ............................................................................................. iv DAFTAR LAMPIRAN ........................................................................................... v I. PENDAHULUAN .......................................................................................... 1
+1.1 Latar Belakang ...................................................................................... 1 1.2 Tujuan ................................................................................................... 1 1.3 Waktu dan Tempat ................................................................................ 2 II. TINJAUAN PUSTAKA .................................................................................. 3 2.1 Wilayah Kajian....................................................................................... 3 2.2 Taksonomi............................................................................................. 3 2.3 Stasiun .................................................................................................. 4
+2.3.1 Mangrove ....................................................................................... 4 2.3.2 Vegetasi Pantai .............................................................................. 4 2.3.3 Rumput Laut ................................................................................... 5 2.3.4 Lamun ............................................................................................ 6 2.3.5 Fitoplankton .................................................................................... 6 III. METODOLOGI ............................................................................................... 7 3.1 Pengamatan Data Lapangan ................................................................. 7 3.1.1 Parameter Air ................................................................................. 7 3.1.2. Stasiun ........................................................................................... 8 3.2 Pengamatan Data Laboratorium .......................................................... 11 3.2.1 Identifikasi Fitoplankton ................................................................ 12 IV. HASIL DAN PEMBAHASAN ......................................................................... 13 4.1 Parameter Kualitas Air......................................................................... 13 4.1.1 Pondus Hydrogenii (pH) ............................................................... 13
+
+4.1.2 Salinitas ............................................................................................. 13 4.1.3 Suhu .................................................................................................. 14 4.2 Spesies yang Ditemukan ..................................................................... 14 4.2.1 Mangrove ..................................................................................... 14 4.2.2 Vegetasi Pantai ............................................................................ 25 4.2.3 Rumput Laut ................................................................................. 35 4.2.4 Lamun ......................................................................................... 37 4.2.5 Fitoplankton .................................................................................. 39 V. PENUTUP ..................................................................................................... 48 5.1 Kesimpulan.......................................................................................... 48 5.2 Saran................................................................................................... 48 DAFTAR PUSTAKA........................................................................................... 50 LAMPIRAN ........................................................................................................ 55
+iii
+
+DAFTAR GAMBAR
+Gambar 1.Skema kerja pengukuran pH ............................................................... 7 Gambar 2.Skema Kerja Pengukuran Salinitas ..................................................... 8 Gambar 3. Skema Kerja Pengukuran Suhu ......................................................... 8 Gambar 4.Skema Kerja Identifikasi Mangrove ..................................................... 9 Gambar 5.Skema Kerja Identifikasi Vegetasi Pantai ............................................ 9 Gambar 6.Skema Kerja Identifikasi Rumput Laut............................................... 10 Gambar 7.Skema Kerja Identifikasi Lamun ........................................................ 10 Gambar 8.Skema Kerja Pengambilan Sampel Fitoplankton............................... 11 Gambar 9.Skema Identifikasi Fitoplankton......................................................... 12 Gambar 10. Rhizopora mucronata ..................................................................... 15 Gambar 11. Heritiera littoralis ............................................................................ 17 Gambar 12. Bruguiera gymnorrhiza ................................................................... 19 Gambar 13. Acanthus ilicifolius .......................................................................... 21 Gambar 14. Xylocarpus granatum ..................................................................... 23 Gambar 15. Thuarea involuta ............................................................................ 25 Gambar 16. Crinum asiaticum ........................................................................... 27 Gambar 17. Terminalia catappa......................................................................... 29 Gambar 18. Hernandia peltata........................................................................... 31 Gambar 19. Barringtonia asiatica....................................................................... 33 Gambar 20. Grateloupia doryphora ................................................................... 35 Gambar 21. Thalassia hemprichii ...................................................................... 37 Gambar 22. Cerataulina pelagica ...................................................................... 39 Gambar 23. Pleurotaenium ehrenbergii ............................................................. 41 Gambar 24. Ankistrodesmus spiralis.................................................................. 43 Gambar 25. Coelastrum cambrium .................................................................... 45
+
+DAFTAR LAMPIRAN Lampiran 1. Tabel Identifikasi Fitoplankton ........................................................ 55 Lampiran 2. Logbook Mangrove ........................................................................ 56 Lampiran 3. Logbook Vegetasi Pantai ............................................................... 58
+v
+
+I. PENDAHULUAN
+
+1.1 Latar Belakang Pendidikan lingkungan adalah salah satu upaya memberikan ilmu dan
+pengetahuan bagi siswa atau peserta didik tentang perilaku pelestarian lingkungan serta pencegahan kerusakan terhadap lingkungan sekitar. Botani mengkaji ranah struktur morfologi, taksonomi, anatomi dan fisiologi tumbuhan. Sedangkan Ekologi mempelajari tentang halhal yang berkaitan dengan lingkungan, konservasi, siklus alam dan perilaku makhluk hidup. Pentingnya mempelajari Botani laut agar mengerti ekosistem di laut khususnya pada tumbuhan laut (Dhaniaputri, 2017).
+Ekosistem pantai letaknya berbatasan dengan ekosistem darat, laut dan daerah pasang surut. Ekosistem pantai dipengaruhi oleh siklus harian dari pasang surut laut. Sebagai wilayah peralihan, ekosistem pesisir memiliki struktur komunitas dan tipologi yang berbeda dari ekosistem lainnya. Ekosistem pesisir dan laut beserta sumberdaya yang dikandungnya sangat dibutuhkan masyarakat pesisir dalam memenuhi kebutuhan hidupnya. Beragam ekosistem yag terdapat di pesisir secara fungsional saling terkait dan mempengaruhi satu sama lain sehingga membentuk ekologi yang unik (Hamid, 2013).
+Praktikum botani laut tropis sangat penting bagi mahasiswa Ilmu Kelautan Universitas Brawijaya Karena botani laut merupakan mata kuliah wajib bagi mahasiswa Ilmu Kelautan. Praktikum botani laut tropis menambah wawasan kita terhadap tumbuhan yang hidup dan berkembang biak di wilayah laut tropis. Praktikum botani laut mempraktekan materi yang telah di berikan oleh dosen agar kita tidak hanya tahu teorinya tapi juga bias mempraktekannya. Botani laut tropis secara umum mempelajari morfologi, fisiologi, dan tingkah laku sederhana tumbuhan laut.
+
+1.2 1.
+
+Tujuan Tujuan Diadakannya Praktikum Botani Laut Tropis adalah : Mempelajari tentang biologi, morfologi, taksonomi, fisiologi dan ekologi tumbuhan laut (alga, lamu dan mangrove) serta kepentingan tumbuhan laut dan pengelolaan komunitas tumbuhan laut.
+
+2. Setelah menyelesaikan mata kuliah ini mahasiswa diharapkan mampu menjelaskan definisi, taksonomi (morfologi), fisiologi (reproduksi,
+
+1
+
+respirasi, pencernaan), habitat hidup (pola makan), dan peranan alga, lamun,fitoplankton serta mangrove di laut.
+1.3 Waktu dan Tempat Simulasi Praktikum Botani Laut diadakan Sabtu, 9 Februari 2019 pukul 13.00
+­ 15.00 WIB di Gedung C Lantai 3 Fakultas Perikanan dan Ilmu Kelautan Ruang C 3.1 dan Ruang C 3.6. Praktikum Lapang diadakan pada Sabtu, 16 Februari 2019 di Pantai Balekambang. Praktikum Laboratorium diadakan di Laboratorium Eksplorasi Sumber Daya Perikanan dan Kelautan Gedung A lantai 1 Fakultas Perikanan dan Ilmu Kelautan pada hari Senin-Selasa, 18-19 Februari 2019, sesuai dengan waktu shift yang dipilih.
+
+II. TINJAUAN PUSTAKA
+2.1 Wilayah Kajian Pantai Balekambang terletak di Desa Srigonco Kecamatan Bantur
+Kabupaten Malang. Pantai ini berjarak 56 Km arah selatan dari Kota Malang dan merupakan pantai yang menyerap banyak pengunjung dengan data rata-rata dua ribu pengunjung per hari. Luas area objek wisata pantai Balekambang sekitar kuran lebih 10 Ha yang mana status kepemilikannya milik perhutani. Dari luas area sekitar kurang lebih 10 Ha, pantai balekambang memiliki beberapa dari fasilitas yang cukup memadai (Mateka et al., 2013).
+Bentuk sarana dan prasarana di kawasan wisata Balekambang terdiri dari fasilitas pokok, fasilitas penunjang, fasilitas pelengkap, prasarana umum dan prasarana sosial. Sarana tersebut berupa penginapan, warung makan dan minum, lapangan perkemahan dan lain lain. Akses jalan menuju pantai Balekambang sangatlah rusak, kurangnya marka jalan dan penerengan menjadi masalah. Medan yang sulit dan tidak memiliki pagar jalan yang dilalui ini membuat lama dari waktu tempuh perjalanan bertambah (Andayani et al., 2012).
+2.2 Taksonomi Klasifikasi adalah suatu cara pengelompokan yang didasarkan pada ciri-ciri
+tertentu. Semua ahli biologi menggunakan suatu sistem klasifikasi untuk mengelompokkan tumbuhan ataupun hewan yang memiliki persamaan struktur. Kemudian setiap kelompok tumbuhan ataupun hewan tersebut dipasangpasangkan dengan kelompok tumbuhan atau hewan lainnya yang memiliki persamaan dalam kategori lain. Dalam memahami klasifikasi dan tata nama ilmiah, alat bantu yang umum digunakan adalah buku pelajaran atau tabel klasifikasi dan tata nama ilmiah (Kurniawan et al., 2015).
+Sistem klasifikasi Linnaeus tetap digunakan sampai sekarang karena sifatnya yang sederhana dan fleksibel sehingga suatu organisme baru tetap dapat dimasukkan dalam sistem klasifikasi dengan mudah. Nama-nama yang digunakan dalam sistem klasifikasi Linnaeus ditulis dalam bahasa Latin karena pada zaman Linnaeus bahasa Latin adalah bahasa yang dipakai untuk pendidikan resmi. Klasifikasi makhluk hidup didasarkan pada persamaan perbedaan ciri dan manfaat yang dimiliki makhluk hidup. Contoh klasifikasi pada tumbuhan berdasarkan 7
+3
+
+manfaatnya yaitu tumbuhan dikelompokkan menjadi tanaman obat-obatan, tanaman sandang, tanaman hias, tanaman pangan dan lain-lain (Amirudin, 2015).
+2.3 Stasiun Pada praktikum Botani Laut Tropis terdapat 5 stasiun yang diamati yaitu
+sebagai berikut
+2.3.1 Mangrove Mangrove merupakan karakteristik dari bentuk tanaman pantai, estuari atau
+muara sungai, dan delta di tempat yang terlindung daerah tropis dan sub tropis. Jadi, mangrove adalah ekosistem yang terdapat di antara daratan dan lautan dan pada kondisi yang sesuai mangrove akan membentuk hutan yang ekstensif dan produktif. Karena hidup di dekat pantai, mangrove sering juga dinamakan hutan pantai, hutan pasang surut, hutan payau, atau hutan bakau. Wilayah mangrove dicirikan oleh tumbuh-tumbuhan khas mangrove, terutama jenis-jenis Rhizophora, Bruguiera, Ceriops, Avicennia, Xylocarpus, dan Acrostichum. Selain itu juga ditemukan jenis-jenis Lumnitzera, Aegiceras, Scyphyphora dan Nypa. Mangrove mempunyai kecenderungan membentuk kerapatan dan keragaman struktur tegakan yang berperan penting sebagai perangkap endapan dan perlindungan terhadap erosi pantai. Selain itu, tumbuhan tingkat tinggi menghasilkan habitat untuk perlindungan bagi hewan dan permukaannya bermanfaat sebagai substrat perlekatan dan pertumbuhan dari banyak organisme epifit (Fitriah et al., 2013).
+Keberadaan mangrove di pesisir memiliki peran penting sebagai habitat fauna perikanan, perlindungan fisik untuk garis pantai, spawning,nursery dan feeding ground. Penurunan hasil tangkapan serta keragaman jenis ikan erat kaitannya dengan keberadaan kondisi ekosistem mangrove. Dikarenakan biota akuatik kehilangan daerah untuk reproduksi, pengasuhan dan tempat mencari makan. Serta ekosistem Mangrove dapat menahan sedimentasi agar tidak langsung terjun ke bagian yang lebih dalam dan melindungi karang, lamun dan tumbuhan rumput laut (Buwono, 2017).
+2.3.2 Vegetasi Pantai Vegetasi pantai merupakan kelompok tumbuhan yang menempati daerah
+pasang surut mulai dari daerah daratan dimana masih terdapat pengaruh air laut. Komunitas vegetasi pantai meliputi semai, herba, semak, pancang, tiang dan
+
+pohon. Struktur dan komposisi vegetasi pantai secara alami merupakan salah satu pelindung dari gelombang air laut (Sepawan, 2017).
+Daerah pantai merupakan daerah perbatasan antara ekosistem laut dan ekosistem darat. Karena hempasan gelombang dan hembusan angin maka pasir dari pantai membentuk gundukan ke arah darat. Setelah terbentuknya gundukan pasir itu biasanya terdapat hutan yang dinamakan hutan pantai. Secara umum, hutan ini terletak di tepi pantai, tumbuh pada tanah kering berpasir dan berbatu dan tidak terpengaruh oleh iklim serta berada di atas garis pasang tertinggi. Karakteristik suksesi hutan pantai biasanya didahului oleh dominasi tumbuhan merambat yakni Ipomoea pes-caprae yang selanjutnya disebut dengan formasi pescaprae. Di belakang formasi tersebut ditemukan formasi vegetasi inti hutan pantai yakni formasi Barringtonia (Burhan, 2014).
+2.3.3 Rumput Laut Rumput laut memegang peran penting secara biologi dan ekologi pada
+ekosistem laut. Keberadaan rumput laut di alam sangat dipengaruhi oleh karakteristik substrat dasar perairan. Pada kawasan pantai, rumput laut ditemukan di antara area pasang tertinggi dan surut terendah, dan pada kawasan subtidal ditemukan hingga kedalaman di mana jangkauan intensitas cahaya masih 0,01% dari kebutuhan cahaya fotosintesis. Hasil penelitian memperlihatkan bahwa jenis Rhodophyta banyak ditemukan di kawasan dengan substrat dominan berlumpur; Chlorophyta pada substrat dengan asosiasi antara pasir, karang hidup, dan batu karang, sedangkan Phaeophyta ditemukan pada substrat dasar yang didominasi oleh pecahan karang. Secara keseluruhan, jenis-jenis dari kelompok Phaeophyta memiliki tutupan yang relatif jauh lebih tinggi (Erlania dan Radiarta, 2015).
+Rumput laut atau lebih dikenal dengan sebutan seaweed merupakan sumber daya hayati yang sangat melimpah di perairan Indonesia. Keanekaragaman rumput laut di Indonesia merupakan yang terbesar dibandingkan dengan negara lain karena pemanfaatan rumput laut dibuat sebagai bahan baku untuk produk pangan fungsional yang dapat memberikan manfaat kesehatan bagi masyarakat yang mengkonsumsinya. Rumput laut berpotensi dikembangkan sebagai produk pangan fungsional karena mengandung zat gizi dan komponen bioaktif yang berkhasiat untuk kesehatan tubuh (Erniati et al., 2016).
+5
+
+2.3.4 Lamun Lamun merupakan tumbuhan tingkat tinggi (Magnoliophyta) yang dapat
+menyesuaikan diri hidup terbenam di laut dangkal. Terdapat beberapa faktor yang membedakan lamun dengan tumbuhan laut lainnya. Faktor utama yang dapat membedakan lamun dengan jenis tumbuhan lainnya, seperti rumput laut (seaweed) yaitu keberadaan bunga dan buahnya. Keberadaannya dari bunga dan buahnya yang sangat jelas sehingga perbedaan antara lamun dan rumput laut bisa dibedakan dengan mudah (Kamaruddin et al., 2016).
+Tumbuhan berbunga (Angiospermae) adalah tumbuhan yang mampu beradaptasi secara penuh di perairan yang salinitasnya cukup tinggi atau hidup terbenam di dalam air adalah lamun. Lamun memiliki rizhoma, daun, dan akar sejati seperti tumbuhan di darat. Lamun adalah tumbuhan laut yang hidup pada ekosistem padang lamun (Seagrass Bed) terutama di daerah tropis dan subtropis. Komunitas lamun memegang peranan penting baik secara ekologis, maupun biologis di daerah pantai dan estuaria (Gosari dan Haris, 2012).
+2.3.5 Fitoplankton Salah satu cara untuk pemantauan kualitas perairan dapat dilakukan
+penelitian secara biologi menggunakan indikator fitoplankton. Fitoplankton dijadikan sebagai indikator kualitas perairan karena siklus hidupnya pendek, respon yang sangat cepat terhadap perubahan lingkungan. Fitoplankton merupakan produsen primer yang menghasilkan bahan organik serta oksigen yang bermanfaat bagi kehidupan perairan dengan cara fotosintesis. Pengaruh cahaya matahari dalam proses fotosintesis juga menyebabkan fitoplankton berdistribusi secara horizontal (Maresi et al., 2015).
+Kata "Plankton" berasal dari bahasa Yunani yang berarti mengembara. Jadi plankton adalah mikroorganisme yang ditemui hidup melayang di perairan, dan mempunyai gerak sedikit sehingga mudah terbawa arus. Adanya plankton dalam perairan, terutama fitoplankton yang hidup di air merupakan produsen utama segala kehidupan dibumi. Pada air yang produktif sebagian besar kaya dengan fitoplankton. Fitoplankton banyak ditemukan pada zona eufotik. Zona eufotik adalah daerah perairan pada kedalaman air tertentu yang intensitas sinarnya cukup untuk melakukan fotosintesis (Khazmi, 2014).
+
+III. METODOLOGI
+3.1 Pengamatan Data Lapangan Pada Praktikum Lapang Botani Laut Tropis dilakukan pengamatan
+tentang parameter air dan stasiun di pantai Balekambang. 3.1.1 Parameter Air
+Pada praktikum lapang Botani Laut Tropis, dilakukan pengamatan parameter air, seperti pH. 3.1.1.1 Pondus Hydrogenii (pH)
+Berikut ini adalah langkah-langkah pengukuran pH menggunakan PH meter Kalibrasi Ph meter menggunakan aquades
+Tekan tombol on
+Masukkan alat pada sampel dan tunggu beberapa saat
+Tekan tombol hold
+Liat angka pada display lalu catat pengamatan Gambar 1.Skema kerja pengukuran pH
+3.1.1.2 Salinitas Salinitas merupakan jumlah berat garam yang terlarut dalam satu liter air.
+Berikut skema kerja pengukuran salinitas menggunakan refraktometer.
+7
+
+Tekan on untuk menyalakan refraktometer Kalibrasi alat dengan cara diteteskan aquades Tekan zero dan tunggu display memunculkan angka 0 Tetetskan sampel ke sensor sambil membelakangi sinar matahari Tekan start dan catat hasl yang tertera di display
+Kalibrasi alat dengan aquades Di lap menggunakan tissue searah Tekan on dengan sedikit lebih lama untuk mematikan Gambar 2.Skema Kerja Pengukuran Salinitas
+3.1.1.3 Suhu Suhu merupakan besaran yang menyatakan panas dingin suatu perairan.
+Berikut skema kerja pengukuran suhu menggunakan termometer. Siapkan thermometer konvensional sebagai alat ukur
+Celupkan thermometer ke dalam air sambil membelakangi matahari Lihat angka tetap dalam kondisi dicelupkan Catat angka yang tertera pada thermometer
+Kalibrasi thermometer menggunakan aquades Gambar 3. Skema Kerja Pengukuran Suhu
+3.1.2. Stasiun Pada praktikum lapang asisten praktikum dibagi bagi menjadi 5 stasiun untuk
+menjelaskan pada praktikan mengenai stasiun tersebut, 5 stasiun antara lain: stasiun Mangrove, stasiun Vegetasi pantai, stasiun Lamun, stasiun Rumput Laut dan stasiun Fitoplankton.
+
+3.1.2.1 Mangrove Berikut adalah langkah-langkah dalam mengidentifikasi Mangrove Menentukan titik lokasi Menandai koordinat lokasi Ploting transek ukuran 10x10 Hitung jumlah vegetasi pohon mangrove identifikasikan dengan melihat tabel identifikasi Dicatat dalam logbook Gambar 4.Skema Kerja Identifikasi Mangrove
+3.1.2.2 Vegetasi Pantai Berikut adalah langkah-langkah mengidentifikasi vegetasi pantai Ditentukan lokasi pengamatan
+Ditandai lokasi pengamatan
+Amati vegetasi menggunakan metode visual sensus Diamati biota yang ada di lokasi
+Diidentifikasikan setiap vegetasi yang ada dilokasi pengamatan Gambar 5.Skema Kerja Identifikasi Vegetasi Pantai
+9
+
+3.1.2.3 Rumput Laut Berikut adalah langkah-langkah dalam mengidentifikasi rumput laut Dibuat line transek sepanjang 30m kearah laut (2 line transek)
+Dibuat transek 1x1m di setiap line transek dengan jarak 10m
+Diamati rumput laut yang berada dalam transek
+Diidentifikasi jenis rumput laut Gambar 6.Skema Kerja Identifikasi Rumput Laut 3.1.2.4 Lamun Berikut adalah langkah-langkah mengidentifikasi lamun Dibuat line transek sepanjang 30m kearah laut (2 line transek)
+Letakkan transek 1x1m dalam tiap line transek dengan jarak 10m
+Diamati lamun pada tiap transek
+Diidentifikasi jenis lamun tersebut Gambar 7.Skema Kerja Identifikasi Lamun
+
+3.1.2.5 Fitoplankton Berikut ini adalah langkah-langkah dalam pengambilan sampel plankton
+Turunkan planktonet secara perlahan lahan, jangan sampai menyentuh substrat Tunggu beberapa menit
+Tarik plankton net secara perlahan Lalu ambil sampel dan letakkan di botol sampel
+Ditetesi lugol 3 tetes lalu tutup botol sampel Letakkan botol sampel pada coolbox
+Gambar 8.Skema Kerja Pengambilan Sampel Fitoplankton 3.2 Pengamatan Data Laboratorium
+Praktikum pengamatan dan identifikasi plankton dilakukan di laboratorium ekspolorasi sumberdaya perikanan dan kelautan fakultas perikanan dan ilmu kelautan di gedung A lantai 1 dengan menggunakan mikroskop dengan perbesaran 10x, karena perbesaran tersebut cocok untuk mengamati fitoplankton. Hasil dari identifikasi akan dicocokan dengan buku presscot
+11
+
+3.2.1 Identifikasi Fitoplankton Berikut ini adalah langkah-langkah dalam mengidentifikasi plankton Siapkan alat dan bahan lalu kalibrasi alat tersebut keringkan dengan tisu dengan searah
+Ambil sampel dan teteskan di obyek glass, dan tutup obyek dengan cover glass letakkan pada mikroskop, dan amatilah,dokumentasikan
+identifikasikanlah dengan buku identifikasi yang telah disediakan catat hasil pengamatan
+Gambar 9.Skema Identifikasi Fitoplankton
+
+IV. HASIL DAN PEMBAHASAN
+4.1 Parameter Kualitas Air Pada praktikum botani laut tropis yang dilakukan di Pantai Balekambang
+telah dilakukan pengukuran terhadap parameter kualitas air. Parameter yang telah diukur adalah Pondus Hydrogenii (pH), Dissolved Oxygen (DO), dan kecerahan.
+4.1.1 Pondus Hydrogenii (pH) Pada materi pengukuran pH di perairan pantai Balekambang, didapatkan
+hasil pengukuran dengan menggunakan alat pH meter. Hasil pengukurannya yaitu pH bernilai 6,67. Oleh karena itu, berdasarkan hasil pengukuran yang telah dilakukan dapat dikatakan bahwa pH di perairan pantai Balekambang termasuk kedalam kisaran pH yang kurang baik.
+Pada umumnya air laut mempunyai nilai pH lebih besar dari 7 yang cenderung bersifat basa, namun dalam tertentu nilainya dapat menjadi lebih rendah dari 7 sehingga menjadi bersifat asam. Derajat kesamaan suatu perairan merupakan salah satu parameter kimia yang cukup penting dalam memantau kestabilan perairan. Perubahan nilai pH pada suatu perairan terhadap organisme akuatik mempunyai batasan-batasan tertentu dengan nilai pH yang bervariasi, tergantung pada suhu dari air laut, konsentrasi oksigen terlarut dan adanya anion dan kation dalam kandungan air laut. Nilai pH yang baik atau nilai ambang batas baku mutu untuk kehidupan ikan berkisar antara minimal 5 dan maksimal 9 dan antara 6,5 sampai 8,5 (Simanjuntak dan kamlasi, 2012).
+4.1.2 Salinitas Dari hasil pengukuran salinitas di pantai Balekambang, didapatkan bahwa
+niai salinitas air laut daerah tersebut adalah 30 ppt. pengukuran dilakukan menggunakan refraktometer. Darihasil yang didapatkan, dapat disimpulkan bahwa nilai sslinitas didaerah Balekambang termasuk normal. Karena, nilai salinitas normal untuk daerah Indonesia berada dikisaran 30-35 ppt.
+Menurut Patty (2013), pada umumnya nilai salinitas wilayah laut Indonesia berkisar 28-33 ppt. Kadar salinitas ini masih berada dalam batas-batas salinitas yang normal. Untuk daerah pesisir, salinitas berkisar 32-34 ppt. Untuk laut terbuka umumnya salinitas berkisar 33-37 ppt dengan rata-rata 35 ppt. Salinitas diperairan Indonesia umumnya berkisar antara 30-35 ppt.
+13
+
+4.1.3 Suhu Dari hasil pengukuran, didapatkan hasil bahwa suhu air laut daerah tersebut
+adalah 33oC. Suhu tersebut menunjukan bahwa suhu perairan pantai Balekambang cukup baik. Walaupun melebihi batas optimal, namun suhu di Balekambang masih dapat dkategorikan baik. Suhu optimal perairan yaitu berkisar antara 20-30.
+Menurut Patty (2013), Suhu di lapisan permukaan laut yang normal berkisar antara 20-30. Suhu air permukaan di perairan Indonesia pada umumnya berkisar antara 28-31°C. Sebaran suhu air laut disuatu perairan dipengaruhi oleh banyak faktor antara lain radiasi sinar matahari, letak geografis perairan, sirkulasi arus, kedalaman laut, angin dan musim. Perairan dekat pantai relatif lebih tinggi daripada di lepas pantai. Kondisi ini disebabkan karena pergerakan massa air tawar dari aliran sungai-sungai yang dengan mudah masuk ke perairan dekat pantai. Gerakan massa air ini yang dapat menimbulkan panas, akibat terjadi gesekan antara molekul air, sehingga suhu air laut di perairan dekat pantai lebih hangat dibanding dengan massa air di perairan lepas pantai.
+4.2 Spesies yang Ditemukan Pada praktikum Lapang Botani Laut Tropis ditemukan spesies-spesies
+sebagai berikut
+4.2.1 Mangrove Berikut adalah jenis mangrove yang ditemukan saat praktikum berlangsung
+
+4.2.1.1 Rhizopora mucronata
+
+(CABI, 2019)
+
+(Dokumentasi pribadi, 2019)
+
+Gambar 10. Rhizopora mucronata
+
+a. Deskripsi spesies Pada praktikum lapang di temukan spesies rhizopora Sp. pada stasiun
+mangrove. Spesies mangrove ini berciri-ciri: bentuk pohon, akar tunjang, bentuk daun eleptical, ujung daun acute, dan daun simple. Rhizopora Sp. juga mempunyai bunga cyme axilay berwarna hijau kemerahan. Tanaman ini biasa hidup di tanah yang berlumpur. Tanaman ini termasuk tanaman yang tinggi, tingginya bias mencapai 8 meter.
+Rhizophora mucronata. Perawakan: pohon, tinggi dapat mencapai 8 m, kulit luar batang berwarna abu-abu kecoklatan, dengan sisik-sisik yang mudah dikupas, bercelah dangkal. Memiliki bentuk daun bulat panjang, dengan ujung runcing dan memiliki duri, panjang 5-15 cm, permukaan bawah berwarna kehijauan, berbintikbintik hitam tidak merata, mirip dengan daun R. apiculata. memiliki karangan bunga bertangkai, panjang 1,5­2 cm, tiap tangkai terdiri atas 4 bunga (jarang 2 bunga) tunggal, mahkota 4, kelopak 4, berwarna kehijauan dan sedikit merah. Buah: steril dan dan tidak pernah menghasilkan buah dan biji, Akar tunjang, dan Habitat tanah lumpur berpasir (Sudarmadji, 2003).
+
+b. Taksonomi
+
+Menurut World Register of Marine Species (2019), Rhizophora mucronata
+
+memiliki klasifikasi sebagai berikut:
+
+Kingdom
+
+: Plantae
+
+Filum
+
+: Tracheophyta
+
+Kelas
+
+: Magnoliopsida
+
+15
+
+Ordo Family Genus Spesies
+
+: Malpighiales : Rhizophoraceae : Rhizophora : Rhizophora mucronata
+
+c. Habitat Pada praktikum botani laut tropis praktikan mengidentifikasi mangrove. Pada
+pengidentifikasi mangrove praktikan menemukan spesies Rhizopora Sp.. Spesies itu di temukan di daerah pasang surut. Mangrove bisa hidup di daerah yang berlumpur. Karena mangrove bisa hidup di daerah yang ekstrim yang di sebabkan kemampuan khusus mangrove.
+Rhizophora mucronata tumbuh pada tanah berlumpur, halus, dalam dan tergenang pada saat pasang normal. Tidak menyukai substrat yang lebih keras yang bercampur dengan pasir. Tingkat dominasi dapat mencapai 90% dari vegetasi yang tumbuh disuatu lokasi. Menyukai perairan pasang surut yang memiliki pengaruh masukkan air tawar yang kuat secara permanen. Percabangan akarnya dapat tumbuh secara abnormal karena gangguan kumbang yang menyerang ujung akar (Anova, 2013).
+
+d. Manfaat Pada praktikum lapang di temukan spesies rhizopora lamarckii pada stasiun
+mangrove. Spesies mangrove ini memiliki manfaat seperti pohon mangrove pada umumnya. Manfaatnya dibagi menjadi 3. Berdasarkan fisiknya: menjaga garis pantai agar tetap stabil, pelindung erosi, menahan sedimen dan lain lain. Berdasarkan fungsi kima: tempat terjadinya proses penghasil O2, penyerap CO2, pengolah limbah. Berdasarkan fungsi biologi: kawasan pemijah, kawasan berlindung, sumber plasma nutfa dan genetika. Ini juga bisa untuk pendidikan.
+Kayu dari Rizhophora mucronata biasanya dimanfaatkan untuk bahan bangunan, kayu bakar dan arang. Kulit kayu berisi hingga 30% tanin (persen berat kering). Cabang akar digunakan sebagai jangkar dengan diberati batu.Di Jawa ditanam dipinggiran tambak untuk melindungi pematang. Tanaman ini sering digunakan juga sebagai tanaman penghijauan (Anova, 2013).
+
+4.2.1.2 Heritiera littoralis
+
+(CABI, 2019)
+
+(Dokumentasi pribadi, 2019)
+
+Gambar 11. Heritiera littoralis
+
+a. Deskripsi spesies Heritiera littoralis pada pengamatan vegetasi mangrove di pantai
+Balekambang ditemukan hanya 1 pohon saja, Pada praktikum lapang di temukan spesies Heritiera littoralis pada stasiun mangrove. Spesies mangrove ini berciriciri: bentuk pohon, akar buttress, bentuk daun eliptical, ujung daun acute, dan daun simple. Heritiera littoralis juga mempunyai bunga cyme axilary berwarna ungu dan merah bata. Tanaman ini biasa hidup di tanah yang berlumpur. Tanaman ini termasuk tanaman yang tinggi, tingginya bisa mencapai 8 meter.
+Heritiera littoralis adalah salah satu spesies bakau khas yang kebanyakan mendiami habitat pinggiran di sepanjang anak sungai dan muara.substrat yang ditempati biasanya lupur. Heritiera littoralis memiliki pohon yang selalu hijau dengan ketinggian mencapai 25 m. Akarnya papan berkembang sangat jelas. Kulit kayu gelap atau abu-abu, bersisik dan bercelah. Individu pohon memiliki salah satu bunga betina atau jantan (Cabi, 2019).
+
+b. Taksonomi
+
+Menurut World Register of Marine Species (2019), Heritiera littoralis memiliki
+
+klasifikasi sebagai berikut:
+
+Kingdom
+
+: Plantae
+
+Filum
+
+: Tracheophyta
+
+Kelas
+
+: Magnoliopsida
+
+Ordo
+
+: Malvales
+
+Family
+
+: Malvaceae
+
+Genus
+
+: Heritiera
+
+17
+
+Spesies
+
+: Heritiera littoralis
+
+c. Habitat Pada praktikum botani laut tropis praktikan mengidentifikasi mangrove. Pada
+pengidentifikasi mangrove praktikan menemukan spesies Heritiera littoralis. Spesies itu di temukan di daerah pasang surut. Mangrove bisa hidup di daerah yang berlumpur, berpasir dan berkerikil. Karena mangrove bisa hidup di daerah yang ekstrim yang di sebabkan kemampuan khusus mangrove.
+Heritiera littoralis sangat umum ditemukan di tepi daratan mangrove. Mangrove daratan, terletak di perairan payau (hampir tawar) di belakang jalur hijau mangrove. Memiliki akar papan yang sangat jelas dengan kulit kayunya yang gelap. Memiliki buah yang berwarna hijau hingga coklat dengan 1 biji yang masak pada tandan yang bergantung. Ukurannya dapat mencapai panjang 6-9 cm dan lebar 5-6 centi meter (Annisa et al., 2017).
+
+d. manfaat Pada praktikum lapang di temukan spesies heritiera littoralis pada stasiun
+mangrove. Spesies mangrove ini memiliki manfaat seperti pohon mangrove pada umumnya. Manfaatnya dibagi menjadi 3. Berdasarkan fisiknya: menjaga garis pantai agar tetap stabil, pelindung erosi, menahan sedimen dan lain lain. Berdasarkan fungsi kima: tempat terjadinya proses penghasil o2, penyerap co2, pengolah limbah. Berdasarkan fungsi biologi: kawasan pemijah, kawasan berlindung, sumber plasma nutfa dan genetika. Batang pohon ini juga biasanya diperjual belikan Karena batangnya yang kuat dan tebal.
+Bagi masyarakat yang mendiami wilayah pesisir terutama di sekitar hutan mangrove, hutan mangrove merupakan sumber bahan bangunan bagi mereka. Pemanfaatan kayu sebagai bahan bangunan diperoleh dari hutan mangrove di sekitarnya terutama sebagai tiang penyangga bangunan perumahan, jembatan dan tempat penambatan perahu dan hanya diperlukan pada saat mendirikan serta memperbaiki rumah terutama di Kampung Rayori. Dengan demikian kebutuhan kayu untuk bahan bangunan rumah, maupun tempat penambatan perahu diambil dari hutan terdekat terutama hutan mangrove di sekitar kampung (Warpur, 2016).
+
+4.2.1.3 Bruguiera gymnorrhiza
+
+(CABI, 2019)
+
+(Dokumentasi pribadi, 2019)
+
+Gambar 12. Bruguiera gymnorrhiza
+
+a. Deskripsi spesies Pada praktikum lapang di temukan spesies Bruguiera Sp. pada stasiun
+mangrove. Spesies mangrove ini berciri-ciri: bentuk pohon, akar lutut, bentuk daun eliptical, ujung daun acute, dan daun simple. Bruguiera Sp.juga mempunyai bunga cyme axilay berwarna hijau kemerahan. Tanaman ini biasa hidup di tanah yang berlumpur. Bruguiera Sp.tumbuh hingga 30 meter (100 kaki) tinggi dengan diameter batang hingga 45 cm (18 inci). Kulit batang berwarna abu-abu pucat sampai coklat pucat. Buah-buahan berukuran hingga 4 cm (2 in) panjang. Kayunya kadang digunakan sebagai arang atau kayu bakar
+Bruguiera gymnorrhiza mempunyai ketinggian pohon hingga 20 meter, berakar lutut dan akar papan kecil, atau seperti akar tunjang. Daun tunggal berhadapan, berbentuk bulat panjang. Daun berkulit, berwarna hijau pada lapisan atas dan hija ke kuningan pada bagian bawahnya. Serta pada daun terdapat bercak dan ada juga yang tidak (Anova, 2013).
+
+b. Taksonomi
+
+Menurut World Register of Marine Species (2019), Bruguiera gymnorrhiza
+
+memiliki klasifikasi sebagai berikut:
+
+Kingdom
+
+: Plantae
+
+Filum
+
+: Tracheophyta
+
+Kelas
+
+: Magnoliopsida
+
+Ordo
+
+: Malpighiales
+
+Family
+
+: Rhizophoraceae
+
+Genus
+
+: Bruguiera
+
+19
+
+Spesies
+
+: Bruguiera gymnorrhiza
+
+c. Habitat Pada praktikum botani laut tropis praktikan mengidentifikasi mangrove. Pada
+pengidentifikasi mangrove praktikan menemukan spesies Bruguiera Sp.. Spesies itu di temukan di daerah pasang surut. Mangrove bisa hidup di daerah yang berlumpur, berpasir dan berkerikil. Karena mangrove bisa hidup di daerah yang ekstrim yang di sebabkan kemampuan khusus mangrove.
+Bruguiera gymnorrhiza merupakan jenis yang dominan pada hutan mangrove yang tinggi dan merupakan ciri dari perkembangan tahap akhir dari hutan pantai, serta tahap awal dalam transisi menjadi tipe vegetasi daratan. Tumbuh di areal dengan salinitas rendah dan kering, serta tanah yang memiliki aerasi baik. Jenis ini toleran terhadap daerah yang terlindung maupun mendapat sinar matahari langsung. Substratnya terdiri dari lumpur, pasir dan kadang-kadang juga ditemukan di pinggir sungai yang kurang terpengaruh air laut, hal tersebut karena buah dari tanamannya terbawa arus (Anova,2013).
+
+d. Manfaat Pada praktikum botani laut ditemukan spesies Bruguiera parviflora. Spesies
+ini banyak di manfaatkan oleh masyarakat pesisir. Kayu dari spesies ini bias dimanfaatkan untuk kayu bakar, tiang dan arang. Buahnya bisa digunakan untuk mengobati penyakit. Daunnya juga dipercaya bisa menyembuhkan luka bakar.
+Bagian dalam dari Bruguiera gymnorrhiza dapat dimakan (manisan kandeka), dicampur dengan gula. Kayunya yang berwarna merah dapat digunakan menjadi bahan kayu bakar. Kayu yang berwarna merah tersebut juga dapat digunakan menjadi arang. Buah dari Bruguiera gymnorrhiza dapat dijadikan tanaman baru dan dapat dibentuk juga menjadi alat pemecah ombak alami di daerah pinggir pantai (Anova,2013).
+
+4.2.1.4 Acanthus ilicifolius
+
+(CABI, 2019)
+
+(Dokumentasi pribadi, 2019)
+
+Gambar 13. Acanthus ilicifolius
+
+a. Deskripsi spesies Pada praktikum botani laut tropis di pantai Balekambang pada stasiun
+mangrove telah di identifikasi beberapa spesies. Acanthus ilicifolius salah satu spesies yang diedintifikasi. Spesies ini merupakan mangrove asosiasi. Acanthus ilicifolis adalah tumbuhan semak. Tanaman daruju adalah tanaman magrove yang sering kita jumpai berada disekitar kita. Tanaman daruju biasanya dapat dijumpai berada pada tepi hutan, tepi sungai dan juga terkadang ditanam didekat daerah yang berair. Nama latin tanaman daruju adalah Acanthus Ilicifolius L. Menurut sejarah tanaman daruju ini berasal dari Asia.
+Acanthus ilicifolius mempunyai ketinggian sekitar 2 m dan batang bulat silindris. Daun tunggal bersilangan berhadapan dan bentuk daun lanset lebar panjang lonjong ujungnya meruncing dan berduri tajam pada tepi daun, dengan ukuran daunnya, pertulangan daun menyirip berwarna hijau. Duri pada tepi daun menyerupai gergaji, bervariasi zigzag bergerigi besar agak rata. Daunnya seperti dua sayap, gagang daun yang berduri terletak pada tangkai, permukaan daun halus. Bunganya berwarnya putih keunguan (Anova, 2013).
+
+b. Taksonomi
+
+Menurut World Register of Marine Species (2019), Acanthus ilicifolius
+
+memiliki klasifikasi sebagai berikut:
+
+Kingdom
+
+: Plantae
+
+Filum
+
+: Tracheophyta
+
+Kelas
+
+: Magnoliopsida
+
+Ordo
+
+: Lamiales
+
+21
+
+Family Genus Spesies
+
+: Acanthaceae : Acanthus : Acanthus ilicifolius
+
+c. Habitat Pada praktikum botani laut tropis di stasiun mangrove di temukan spesies
+Acanthus ilicifolius. Spesies jeruju di temukan tumbuh liar di daerah pantai, tepi sungai, serta tempat tempat lain berair payau. Pada saat praktikum di pantai Balekambang Acanthus ilicifolius di temukan di vegetasi mangrove. Jenis ini secara alami ditemukan pada daerah lahan basah. Spesies ini biasanya menempati daerah yang berlumpur.
+Acanthus ilicifolius biasanya menempati daerah pada atau dekat mangrove dan tumbuhan ini sangat jarang tinggal di daratan. Memiliki kekhasan sebagai herba yang tumbuh rendah dan kuat, yang memiliki kemampuan untuk menyebar secara vegetatif karena perakarannya yang berasal dari batang horizontal. Sehingga membentuk bagian yang besar dan juga kokoh. Bunga dari tumbuhan ini kemungkinan diserbuki oleh burung dan serangga, lalu biji tertiup angin sampai sejauh kurang lebih 2m (Anova, 2013).
+
+d. Manfaat Dalam praktikum botani laut tropis di stasiun mangrove. Di temukan spesies
+achantus ilifolius di vegetasi mangrove pantai Balekambang. Fungsi tanaman daruju bagi sebagaian masyarakat digunakan sebagai tanaman hias karena mempunyai bentuk daun yang indah. Namun yang jarang kita tahu tanaman daruju ini ternyata dapat digunakan dalam pengobatan berbagai macam penyakit yang ada ditubuh. Di salah satu daerah jeruju di manfaatkan dengan diolah sebagai bahan pangan seperti the dan kerupuk.
+Hasil penelitian, menunjukkan bahwa daun jeruju mempunyai potensi sebagai antibakteri. Terutama pada ekstrak, fraksi etil asetat, ataupun n-butanol. Ekstrak dan fraksi daun ini, kemungkinan banyak mengandung senyawa fenolik yang mempunyai potensi antibakteri. Sehingga tumbuhan ini bisa dikatakan sebagai tumbuhan herba (Anova, 2013).
+
+4.2.1.5 Xylocarpus granatum
+
+(Wetlands, 2019)
+
+(Dokumentasi pribadi, 2019)
+
+Gambar 14. Xylocarpus granatum
+
+a. Deskripsi spesies Spesies Xylocarpus granatum adalah salah satu spesies mangrove yang
+ditemukan di pantai Balekambang. Spesies ini adalah pohon kecil sampai sedang dengan tinggi hingga 20 m, dan berdiameter 90 cm. Tiang tersebut lurus dan silindris, tanpa cabang hingga 10 m, biasanya dengan penopang kecil. Memiliki akar nafas mengerucut berbentuk cawan. Memiliki Kulit kayu halus, sementara pada batang utama memiliki guratan-guratan permukaan yang tergores dalam.
+Tumbuhan nyiri (Xylocarpus granatum) merupakan salah satu tumbuhan famili Meliaceace yang telah dikenal dan dimanfaatkan sebagai insektisida, antibakterial dan antifungi. Spesies ini adalah pohon kecil sampai sedang dengan tinggi hingga 20 m, dan berdiameter 90 cm. Tumbuhan nyiri batu (Xylocarpus moluccensis) memiliki aktivitas antioksidan dengan termasuk kategori sangat kuat karena nilai IC50 (Putri, 2015).
+
+b. Taksonomi
+
+Menurut World Register of Marine Species (2019), Xylocarpus granatum
+
+memiliki klasifikasi sebagai berikut:
+
+Kingdom
+
+: Plantae
+
+Filum
+
+: Tracheophyta
+
+Kelas
+
+: Magnoliopsida
+
+Ordo
+
+: Sapindales
+
+Family
+
+: Meliaceae
+
+Genus
+
+: Xylocarpus
+
+Spesies
+
+: Xylocarpus granatum
+
+23
+
+c. Habitat Xylocarpus granatum tumbuh di kawasan dekat tepi pantai. Mangrove ini
+hidup di daerah yang sedikit lembab. Xylocarpus granatum hidup di daerah substrat yang berlumpur. Mangrove ini bisa hidup di daerah yang bersalinitas tinggi. Habitat disekeliling mangrove ini adalah jenis mangrove Heritiera littoralis dan Rhizopora Sp.
+Jenis Xylocarpus granatum ini dapat tumbuh dengan baik pada substrat lumpur berpasir. bahkan pada pulau karang yang memiliki substrat berupa pecahan karang, maupun bagian-bagian kerang. Kondisi habitat dengan tanah lumpur berpasir ini mempermudah pertumbuhan permudaan dari jenis ini. Diketahui bahwa jenis ini memiliki buah yang berbentuk panjang dengan ujung pangkal yang runcing. ketika jatuh pada substrat yang lunak, buah tersebut dapat tertancap pada substrat tersebut, dan dapat tumbuh jika kondisi lingkungan memungkinkan. Jenis ini juga memiliki buah yang dapat terapung jika terjatuh di air, sehingga persebarannya dipengaruhi oleh pasang surut (Auri et al., 2008).
+d. Manfaat Xylocarpus granatum memiliki banyak manfaat bagi kehidupan sehari-hari.
+Bagian-bagian tubuhnya dapat dijadikan obat-obat tradisional. Akarnya dapat digunakan untuk obat penyakit diare. Bagian batang yang kuat dapat di gunakan untuk bahan perkakas dan kayu bakar. Buahnya dapat dikonsumsi dan dijadikan hidangan berupa sup dan di dalam habitatnya spesies ini juga sebagai tempat berlindung untuk hewan-hewan kecil dari mangsaan predator.
+Kayu xylocarpus moluccensis dapat dipakai untuk kayu bakar, membuat rumah, perahu dan kadang-kadang untuk gagang keris. Biji digunakan sebagai obat sakit perut. Jamu yang berasal dari buah dipakai untuk obat habis bersalin dan meningkatkan nafsu makan. Tanin kulit kayu digunakan untuk membuat jala serta sebagai obat pencernaan (Wetlands, 2019).
+
+4.2.2 Vegetasi Pantai Pada praktikum lapang botani laut yang dilaksanakan di Pantai
+Balekambang ditemukan beberapa spesies di daerah vegetasi pantai. Spesies yang ditemukan, yaitu:
+4.2.2.1 Thuarea involuta
+
+(GBIF, 2019)
+
+(Dokumentasi pribadi, 2019)
+
+Gambar 15. Thuarea involuta
+
+a. Deskripsi spesies Jenis tumbuhan pelopor yang semakin banyak ditemukan di wilayah garis
+pantai di Sumatera (di lokasi yang banyak mengandung pasir) sebagai formasi Pescaprae. Jenis tumbuhan ini dapat ditemukan di seluruh kepulauan Indonesia dan wilayah Pasifik barat. Nama dari jenis formasi tumbuhan ini berasal dari jenis tumbuhan merambat `Ipomoea pescaprae' yang secara umum tumbuhnya bersifat mendominasi, menarik perhatian mata, diantara berbagai tumbuhan obat-obatan yang rendah, rerumputan dan rumput alang-alang. Semua jenis tumbuhan ini memiliki batang akar yang dalam atau akar melintang yang dapat menyebar dengan cepat bila situasi memungkinkan.
+Habitat pada bagian dalam dari formasi Pes-caprae, seringkali didominasi oleh tanaman spesies Casuarina equisetifolia. Jenis pohon ini dapat berdiri dengan tegak, tetapi tidak dapat berkembang biak sendiri. Sehingga, kecuali daerah pesisir pantai menjadi terakumulasi dan memberikan wilayah baru bagi spesies Casuarina equisetifolia untuk tumbuh subur, maka berbagai pohon ini akan digantikan oleh spesies pohon yang lain (Tuheteru dan Mahfudz, 2012).
+
+25
+
+b. Taksonomi
+
+Menurut GBIF (2019), Klasifikasi Thuarea involuta sebagai berikut :
+
+Kingdom : Plantae
+
+Divisi
+
+: Tracheophyta
+
+Kelas
+
+: Liliopsida
+
+Ordo
+
+: Poales
+
+Famili
+
+: Poaceae
+
+Genus
+
+: Thuarea
+
+Spesies
+
+: Thuarea involuta
+
+c. Habitat Formasi ini terutama terbentuk oleh tetumbuhan menjalar yang tumbuh rapat
+atau renggang menutupi pasir pantai di atas garis pasang tertinggi. Namanya diambil dari nama ilmiah katang-katang (Ipomoea pes-caprae) yang memiliki daun berbentuk serupa teracak kambing(pes, kaki; caprae, kambing), yang merupakan tumbuhan tipikal di area ini. Jenis tumbuhan menjalar lain yang juga sering dijumpai, di antaranya, kekara laut (Canavalia maritima); kacang laut (Vigna marina); rumput lari-lari (Spinifex littoreus); grinting segara (Thuarea involuta). Formasi pes-caprae terbentuk pada pantai yang bertumbuh di mana pasir diendapkan.
+Kerapatan mangrove sangat tergantung pada kondisi lingkungannya seperti salinitas, pasang surut dan faktor struktur sedimen. Jenis ini dapat membantu memantapkan tanah di pantai dan tahan terhadap lingkungan yang miskin hara karena tanaman ini mampu mengikat nitrogen lewat bintil-bintil akar. Pohon ini meliputi jenis-jenis pionir yang tumbuh di pantai berpasir luar yang mengisi komunitas pes paprae antara lainThuarea involuta (Tuheteru dan Mahfudz, 2012).
+
+d. Manfaat Keberadaan lahan pantai yang luas dengan kondisi tanah berpasir yang
+bersifat marjinal dan tandus serta cenderung kritis membutuhkan pengelolaan lahan yang baik. Agar lahan pantai dengan luasan yang besar tersebut dapat produktif ditumbuhi tanaman. Keberadaan tanaman ini diharapkan dapat berfungsi ganda, yaitu untuk mengendalikan erosi (angin). Kesejahteraan masyarakat dengan tetap menjaga kelestarian alam serta konservasi tanah dan air.
+Bentuk penahan angin yang paling efektif dalam mengendalikan laju kecepatan angin pencegah erosi adalah menggunakan model vegetatif yang tidak
+
+terlalu rapat. Sedangkan konservasi tanah yang penting adalah konservasi lengas tanah dan perbaikan agregat tanah lapisan atas atau topsoil yang dapat dilakukan dengan cara penutupan oleh tanaman. Perlakuan tanaman setempat ameliorasi tanah dan juga pada pemilihan jenis-jenis tumbuhan yang sesuai dengan kondisi tanah setempat. Pengendalian kelengasan tanah dilakukan dengan budidaya pohon cemara atau dengan pohon lainnya (Tuheteru dan Mahfudz, 2012).
+4.2.2.2 Crinum asiaticum
+
+(Wetlands, 2019)
+
+(Dokumentasi pribadi, 2019)
+
+Gambar 16. Crinum asiaticum
+
+a. Deskripsi spesies Crinum asiaticum adalah tanaman tahunan yang abadi, menghasilkan roset
+daun berdaging yang tumbuh 100-180 cm dari bola bawah tanah yang dapat berdiameter 5-15cm. Tanaman dipanen dari alam liar untuk penggunaan obat lokal. Umumnya dibudidayakan sebagai tanaman hias di daerah tropisCrinum asiaticum adalah spesies tanaman yang banyak ditanam di banyak daerah hangat sebagai hiasan. Ini adalah bentukan semak yang menghasilkan umbel besar, bunga mencolok yang dihargai oleh tukang kebun. Semua bagian tanaman, bagaimanapun, beracun jika dicerna. Beberapa laporan menunjukkan paparan pada getah dapat menyebabkan iritasi kulit.
+Crinum asiaticum adalah herba tahunan dengan akar yang tebal. Panjang batangnya 5-30 meter dan menjalar, akar tumbuh pada ruas batang. Batang berbentuk bulat, basah dan berwarna hijau kecoklatan. Daunnya tunggal, tebal, licin dan mengkilat. Ujung daunnya membundar membelah dengan ukuran 3-10 x 3-10,5 cm. Bunganya berwarna merah muda, ungu dan agak gelap di bagian pangkal bunga. Bunga membuka penuh sebelum tengah hari, lalu menguncup setelah lewat tengah hari. Letak bunganya terdapat di ketiak daun pada gagang
+
+27
+
+yang panjangnya 3-16 cm. Terdapat buah yang berbentuk kapsul bundar hingga agak datar dengan empat biji berwarna hitam dan berambut(Wetlands ,2019).
+
+b. Taksonomi
+
+Menurut World Register of Marine Species (2019), Crinum asiaticum
+
+memiliki klasifikasi sebagai berikut:
+
+Kingdom
+
+: Plantae
+
+Filum
+
+: Tracheophyta
+
+Kelas
+
+: Liliopsida
+
+Ordo
+
+: Liliales
+
+Family
+
+: Goodeniaceae
+
+Genus
+
+: Crinum
+
+Spesies
+
+: Crinum asiaticum
+
+c. Habitat Crinum asiaticum banyak ditemukan dipantai berpasir, asosiasi mangrove,
+dan tepi sungai. Bisa juga di danau didaerah subtropis di seluruh dunia. Tumbuhan ini kebanyakan di kembangbiakan sebagai tanaman hias. Spesies ini dapat ditemukan di daerah yang bersubstrat pasir. Biota yang hidup disekitar spesies ini adalah semut, kepiting, dan nyamuk.
+kawasan habitat Crinum asiaticum adalah tumbuh liar mulai di permukaan laut hingga 600 meter. Biasanya terdapat di pantai berpasir, tetapi juga terdapat pada garis pantai. Dapat juga berada di saluran air. Penyebarannya adalah di daerah yang beriklim tropis. Banyak ditemukan di Indonesia. Dan kelimpahan tumbuhan ini sangat umum(Wetlands,2019).
+
+d. Manfaat
+
+Sifat kimiawi dari bakung putih ini rasanya pedas, tajam, dingin, dan agak
+
+beracun. Efek farmakologisnya berkhasiat sebagai perangsang
+
+muntah (emetikum), penetral racun (antidotum), peluruh keringat (diaforetik), obat
+
+cacing (antalminitik), merangsang masaknya bisul, menghilangkan
+
+pembengkakkan (antiswelling), dan
+
+menghilangkan
+
+rasa
+
+sakit (analgesik). Kandungan kimia dari bakung putih ini umbinya
+
+mengandung alkaloid berupa likorin, krinin dan asetilkorin, ibulin, dan
+
+methylanthanilate. Dan bagian yang dipakai adalah umbi lapis, daun, akar, atau
+
+seluruh herba. Pemakaian segar atau kering. Untuk dosis pemakaian luar, herba segar dicuci dan dihaluskan lalu ditempelkan pada bagian tubuh yang sakit.
+Bijinya dilaporkan sebagai obat yang baik untuk sakit perut dan kram. Daunnya untuk obat reumatik/nyeri persendian/pegal-pegal, wasir dan korengan, sedangkan akarnya sebagai obat sakit gigi dan eksim. Cairan dari batangnya digunakan untuk mengobati gigitan dan sengatan binatang. Wanita hamil dilarang memakai tanaman obat ini (Noor,1999)
+4.2.2.3 Terminalia cattapa
+
+(CABI, 2019)
+
+(Dokumentasi pribadi, 2019)
+
+Gambar 17. Terminalia catappa
+
+a. Deskripsi spesies Tinggi dari Tumbuhan Terminalia catappa dapat mencapai 35 meter. Daun
+ketapang lebar dan memiliki bentuk bulat telur. Bunga Ketapang berukuran kecil dan terkumpul dalam bulir dekat ujung ranting berwarna kuning kehijauan. Buahnya batu berbentuk bulat telur agak gepeng dan saat muda berwarna hijau kekuningan, kemudian berubah menjadi ungu kemerahan saat sudah matang.
+Tumbuhan Terminalia catappa memiliki batang bertajuk rindang dengan cabang-cabang yang tumbuh mendatar dan bertingkat-tingkat. Daun tersebar, sebagian besar berjejalan di ujung ranting, bertangkai pendek atau hampir duduk. Helaian daun bulat telur terbalik, dengan panjang 8-38cm dan lebar 5-19cm, dengan ujung lebar dan pangkal yang menyempit, helaian di pangkal berbentuk jantung. Bunga berukuran kecil, terkumpul dalam bulir dekat ujung ranting dengan panjang 4-8cm. Buah berbentuk bulat telur gepeng, dan bersegi atau juga berbentuk bersayap sempit (Juniarto, 2016).
+
+29
+
+b. Taksonomi
+
+Menurut Juniarto (2016), Terminalia catappa memiliki klasifikasi sebagai
+
+berikut :
+
+Kingdom : Plantae
+
+Filum
+
+: Magnoliophyta
+
+Kelas
+
+: Magnoliopsida
+
+Ordo
+
+: Myrtales
+
+Famili
+
+: Combretaceae
+
+Genus
+
+: Terminalia
+
+Spesies : Terminalia catappa
+
+c. Habitat Habitat yang disukai oleh pohon ketapang adalah daerah dataran rendah
+termasuk daerah pantai hingga ketinggian 500 meter dpl. Pohon yang biasa disebut ketapang atau Terminalia Catappa mampu menghadapi kondisi ekstrim. Pohon ini menggugurkan daunnya hingga dua kali dalam setahun.Sehingga tanaman ini mampu bertahan menghadapi bulan-bulan yang kering.
+Terminalia catappa dapat tumbuh pada dataran rendah sampai dataran tinggi, di hutan primer maupun sekunder, hutan campuran, hutan pantai, atau sepanjang sungai. Selain tumbuh secara liar di pantai, tumbuhan ketapang merupakan tumbuhan yang sering dijumpai tumbuh liar di daratan. Pohon ini sering ditanam sebagai pohon peneduh di dataran rendah. Oleh karena itu, pohon ketapang juga ditanam sebagai pohon hias di kota-kota (Juniarto, 2016).
+
+d. Manfaat Daun-daun Ketapang dimanfaatkan orang untuk menyamak kulit sebagai
+bahan pewarna hitam, dan juga untuk membuat tinta. Pepagan menghasilkan zat pewarna kuning kecoklatan sampai warna zaitun, dan mengandung 11­ 23% tanin. sementara daun-daunnya mengandung 12 macam tanin yang dapat dihidrolisis. Dalam pada itu populer keyakinan di kalangan penggemar ikan hias bahwa menaruh daun-daun ketapang kering di akuarium, khususnya ikan cupang (Betta spp.), dapat memperbaiki kesehatan dan memperpanjang umur ikan.
+Daun ketapang dijadikan ekstrak memiliki berbagai manfaat untuk kesehatan digunakan sebagai obat luar. Berguna untuk mengobati sakit pinggang,
+
+keseleo, kudis, gatal-gatal, dan luka bernanah.Obat dalam, ekstrak daun ketapang berguna mengobati gangguan saluran pencernaan, pernafasan, dan insomnia. Selain itu ekstrak daun ketapang digunakan dalam bidang kosmetik karena memiliki aktivitas anti UV dan antioksidan (Juniarto, 2016)
+4.2.2.4 Hernandia peltata
+
+(GBIF, 2019)
+
+(Dokumentasi pribadi, 2019)
+
+Gambar 18. Hernandia peltata
+
+a. Deskripsi spesies Kampis cina atau bengkak (Hernandia peltata) adalah sejenis pohon dari
+hutan pantai, anggota suku Hernandiaceae. Berbentuk pohon, dengan tinggi hingga 20 m dan gemang batang hingga 60 cm. Daunnya tersebar, tersusun tunggal, bertangkai panjang, tanpa daun penumpu. Helaian daun bentuk perisai (peltata), bundar telur, bertepi rata, berujung runcing, gundul, seperti kulit.
+H. peltata merupakan pohon besar dengan kulit batang halus, tinggi antara 20-30 m. Pohon berumah satu, yang berarti bahwa ada bunga jantan dan betina terpisah pada pohon yang sa-ma. Batang tegak, kulit batang berwarna putih suram. Daun tunggal, kedudukan daun tersebar, berwarna hijau, berbentuk perisai atau berbentuk jantung berukuran panjang 15-22 cm, lebar 9-15 cm, tepi daun rata, ujung daun runcing. Panjang tangkai daun 7-20 cm yang menempel pada bagian dalam pinggir daun (peltatus). Pembungaan pada tumbuhan ini terjadi dalam sepanjang tahun (Kalima, 2013).
+
+b. Taksonomi Menurut GBIF (2019), klasifikasi dari Hernandia peltata adalah sebagai
+berikut : Kingdom: Plantae
+
+31
+
+Divisi : Tracheophyta Kelas : Magnoliopsida Ordo : Laurales Famili : Hernandiaceae Genus : Hernandia Spesies : Hernandia peltata
+c. Habitat Pada praktikum Botani Laut Tropis, terdapat beberapa spesies vegetasi
+pantai yang ditemukan, salah satunya adalah Hernandia peltata. Spesies ini dapat ditemukan di daerah yang bersubstrat pasir. Biota yang hidup disekitar spesies ini adalah semut, kepiting, dan nyamuk.
+Tempat tumbuh Hernandia peltata tumbuh alami di daerah hutan pantai di Indonesia. Contohnya pada kawasan di daerah hutan-hutan littoral, atau hutan mangrove. Dan dapat ditemukan juga pada daerah rawa-rawa pesisir. Tempattempat tersebut cocok untuk menjadi habitat mereka (Kalima, 2013).
+d. Manfaat Kayu kampis cina ringan dan kurang awet. Penduduk pulau-pulau di Pasifik
+Selatan memanfaatkannya untuk perkakas ringan seperti terompah kayu, gagang kipas, papan tulis, pelampung jaring, bagian dari sampan dan lain-lain. Akarnya dikunyah bersama buah pinang untuk mengatasi keracunan akibat makan kepiting atau yang sebangsanya. Bijinya mengandung 51% minyak lemak yang kental, dan mengandung alkaloid.
+Kayu kampis cukup banyak dimanfaatkan untuk berbagai keperluan. Sebagai contoh, di kepulauan Pasifik Selatan, kayu jenis ini digunakan untuk tangkai pemancing, sandal, kipas tangan, papan gambar, asesoris, perabot, dan kayu bakar. Adapun bijinya setelah dipernis dapat dibuat sebagai perhiasan kalung, remasan daun dicampur dengan air mandi dapat menyembuhkan sakit kepala pada anak-anak (Kalima, 2013).
+
+4.2.2.5 Barringtonia asiatica
+
+(CABI, 2019)
+
+(Dokumentasi pribadi, 2019)
+
+Gambar 19. Barringtonia asiatica
+
+a. Deskripsi spesies Barringtonia asiatica adalah pohon tumbuh tegak dengan batang tampak
+bekas tempelan daun yang besar. Daun membulat telur sungsang atau lonjong membulat telur sungsang. Perbungaannya berbentuk tandan dan letaknya diujung, jarang diketiak, kelopak bunga hijau seperti tabung panjang, daun mahkota putih, menjorong, benang sari memerah di ujung, putik memerah diujungnya. Buahnya berbentuk bundar seperti telur, menirus keujung, menetragonal tajam ke pangkal yamg menggubang, bila muda berwarna hijau setelah tua berwarna coklat.
+Nama setempat Barringtonia asiatica adalah sea putat, bogem, butong, butun, pertun, putat laut, bitung, talise, hutun. Pohon berukuran kecil hingga sedang dengan ketinggian 7-20 (-30) m dan diameter 25-100 cm. Mahkota pohon berdaun besar dan rimbun. Kulit kayu abu-abu agak merah muda dan halus. Ranting tebal. Daun berwarna hijau tua, agak tebal, berkulit dan urat daun nampak jelas. Ketika masih muda daun berwarna agak merah muda, ketika tua berwarna kuning atau merah muda pucat. Unit dan Letak sederhana dan bersilangan. Bentuk bulat telur terbalik(Noor ,1999)
+
+b. Taksonomi
+
+Menurut World Register of Marine Species (2019), Barringtonia asiatica
+
+memiliki klasifikasi sebagai berikut:
+
+Kingdom
+
+: Plantae
+
+33
+
+Filum Kelas Ordo Family Genus Spesies
+
+: Tracheophyta : Magnoliopsida : Ericales : Lecythidaceae : Barringtonia : Barringtonia asiatica
+
+c. Habitat Habitat tumbuhan Barringtonia asiatica merupakan kawasan litoral yang
+hampir ekslusif. Pada beberapa daerah pohonnya dapat tumbuh jauh ke daratan pada bukit atau jurang berkapur. Biasanya tumbuh pada pantai berpasir atau koral pasir. Disepanjang pantai atau rawa mangrove pada ketinggian 0-350 m di atas permukaan laut.
+B. asiatica tumbuh sebagai rekan mangrove di lokasi pantai termasuk pantai berpasir dan berpasir, dataran karang, dan rawa bakau dari permukaan laut hingga ketinggian 350 m. Ini adalah tanaman umum di hutan bakau dan lahan basah di pulau-pulau di samudra Hindia dan Pasifik. Ini juga dapat ditemukan di taman dan taman kota di mana ia tumbuh di sepanjang jalan untuk tujuan dekoratif dan bayangan. Bahkan ketika B. asiatica adalah spesies litoral yang hampir eksklusif, di beberapa lokasi pohon tumbuh lebih jauh ke daratan di bukit-bukit atau tebingtebing yang berkapur (Cabi, 2019).
+
+d. Manfaat Kadang-kadang ditanam sebagai tanaman hias. Pohon dan bijinya
+mengandung saponin yang dapat digunakan sebagai racun ikan. Biji yang digunakan sebagai racun ikan seringkali dicampur dengan tuba. Minyak yang berwarna kemerahan dapat diperoleh dengan memanaskan dan memeras bijinya. Di Jawa, cairan yang diperoleh dari bijinya dapat digunakan sebagai perekat dalam pembuatan payung, serta untuk membunuh ekto-parasit, seperti lintah.
+Di Filipina, daun B. asiatica dipanaskan dan diaplikasikan secara eksternal untuk sakit perut. Daun segar diaplikasikan secara topikal terhadap rematik, dan bijinya digunakan sebagai vermifuge. Di Indonesia dan Filipina, buah atau biji digunakan sebagai racun ikan. Di Kepulauan Bismarck, kacang segar dikikis dan dioleskan langsung ke luka. Di Fiji, rebusan daun digunakan untuk mengobati hernia dan rebusan kulit untuk mengobati sembelit dan epilepsi. Di Australia,
+
+penduduk asli menggunakan tanaman sebagai racun ikan dan kadang-kadang untuk mengurangi sakit kepala (Cabi, 2019).
+4.2.3 Rumput Laut Pada praktikum lapang botani laut yang dilaksanakan di Pantai
+Balekambang ditemukan spesies rumput laut. Spesies yang ditemukan, yaitu:
+4.2.3.2 Grateloupia doryphora.
+
+(GBIF, 2019)
+
+(Dokumentasi pribadi, 2019)
+
+Gambar 20. Grateloupia doryphora
+
+a. Deskripsi Beberapa entitas di seluruh dunia saat ini ditempatkan di bawah nama
+spesies Grateloupia doryphora, analisis morfologis, molekuler, dan nomenklatur yang cermat diperlukan untuk mengklarifikasi identitas sampel iniskripsi spesies. Secara morfologis, G. doryphora memiliki pengaturan antiklin dari filamen meduler. akorteks yang lebih tipis dari sel-sel bulat dan tiba-tiba transisi antara korteks dan medula di bekas.
+Spesies Grateloupia doryphora banyak ditemukan hidup di daerah intertidal. Spesies ini memiliki blade warna cabang daun ungu kemerahan, dan warna kepucatan yang berada di dekat thallus. Memiliki karakteristik stipe yang panjang dan proliferasi marginal. Thallus bersifat multiaxial dan terdiri dari korteks seluler dan filamen yang longgar (Williams dan Grosholz, 2002).
+
+b. Taksonomi
+
+Menurut GBIF (2019), Grateloupia doryphora memiliki klasifikasi sebagai
+
+berikut :
+
+Kingdom : Plantae
+
+Filum
+
+: Rhodophyta
+
+35
+
+Kelas Ordo Famili Genus Spesies
+
+: Florideophyceae : Halymeniales : Halymeniaceae : Grateloupia : Grateloupia doryphora (GBIF, 2019).
+
+c. Habitat Grateloupia doryphora adalah alga intertidal yang umum dilaporkan di
+seluruh Pasifik Amerika Selatan. Telah berulang kali dilaporkan sebagai spesies yang menginvasi di perairan Atlantik dan Mediterania. Berbagai upaya untuk menjelaskan rute pengenalan spesies ini telah dilakukan tidak memuaskan. Spesies ini biasanya hidup di daerah perairan dangkal sampai perairan dalam.
+Rhodophyta adalah organisme akuatik yang ada di habitat air tawar dan laut, meskipun sebagian besar laut. Mereka ditemukan di lingkungan tropis, sedang, dan air dingin. Rhodophyta cenderung hidup pada kedalaman air yang lebih besar daripada Charophyta dan Chlorophyta. Ini karena pigmen Rhodophyta menyerap cahaya biru, yang menembus air ke kedalaman yang lebih besar daripada panjang gelombang lainnya. Rhodophyta adalah produsen utama. Mereka menyediakan habitat bagi organisme air lainnya. Selain itu, Rhodophyta memainkan peran penting dalam pembentukan dan pemeliharaan terumbu karang. Spesies-spesies yang ditemukan di terumbu karang disebut alga coralline; mereka mengeluarkan cangkang karbonit di sekitar mereka (Williams dan Grosholz, 2002).
+
+d. Manfaat Manfaat dari Grateloupia doryphora adalah berfotosintes dan dapat hidup di
+kedalaman. Manfaat rumput laut yang tak kalah penting adalah membantu luka agar cepat sembuh. Kandungan yodium yang ada pada rumput laut ini merupakan sesuatu yang cukup jarang ditemukan pada makanan lainnya. Mengonsumsi level yodium yang sehat penting untuk mempertahankan tiroid yang sehat. Terlalu banyak mengonsumsi rumput laut dapat menyebabkan yodium berlebihan dan menstimulasi tiroid.
+Pigmen alga ini memungkinkan ganggang merah untuk berfotosintesis dan hidup pada kedalaman yang agak lebih besar daripada kebanyakan "ganggang" lainnya. Beberapa rhodofita memiliki sedikit phycoerythrin, dan mungkin tampak hijau atau kebiru-biruan dari klorofil dan pigmen lain yang ada di dalamnya. Di Asia, rhodofita adalah sumber makanan penting, seperti nori. Kandungan vitamin
+
+dan protein yang tinggi dari makanan ini membuatnya menarik, seperti halnya kesederhanaan relatif dari budidaya, yang dimulai di Jepang lebih dari 300 tahun yang lalu. Beberapa rhodofita juga penting dalam pembentukan terumbu tropis, suatu kegiatan yang melibatkan mereka selama jutaan tahun; di beberapa atol Pasifik, ganggang merah telah memberikan kontribusi lebih banyak pada struktur terumbu daripada organisme lain, bahkan lebih dari karang. Rhodophytes pembentuk terumbu ini disebut juga sebagai alga coralline, karena mereka mengeluarkan cangkang keras karbonat, (Williams dan Grosholz, 2002).
+4.2.4 Lamun Pada praktikum lapang botani laut yang dilaksanakan di Pantai
+Balekambang ditemukan spesies lamun. Spesies yang ditemukan, yaitu:
+4.2.4.1 Thalassia hemprichii
+
+(CABI, 2019)
+
+(Dokumentasi pribadi, 2019)
+
+Gambar 21. Thalassia hemprichii
+
+a. Deskripsi spesies Dalam praktikum botani laut tropis ditemukan satu jenis lamun. Lamun yang
+di temukan telah di identifikasi. Hasil identifikasi menyatakan bahwa spesies dari lamun itu adalah Thalassia hemprichii. Lamun ini di temukan di pinggiran pantai Balekambang di perairan yang dangkal. Lamun ini mempunyai warna hijau pada daunnya. Lamun ini di temukan di substrat yang lembek, seperti berpasir halus. Tumbuhan ini memiliki daun batang dan akar sejati.
+Lamun dugong (Thalassia hemprichii) merupakan jenis lamun (seagrass) yang tradisional telah dimanfaatkan sebagai obat dan makanan kesehatan. Lamun dugong telah diketahui memiliki beberapa komponen fitokimia seperti
+
+37
+
+steroid/triterpenoid, flavonoid, saponin, dan tannin. Komponen fitokimia tersebut diduga memiliki aktivitas sebagai antioksidan (Putri, 2011).
+
+b. Taksonomi
+
+World Register of Marine Species (2019), Thalassia hemprichii memiliki
+
+klasifikasi sebagai berikut:
+
+Kingdom
+
+: Plantae
+
+Filum
+
+: Tracheophyta
+
+Kelas
+
+: Magnoliopida
+
+Ordo
+
+: Alismatales
+
+Family
+
+: Hydrocharitaceae
+
+Genus
+
+: Thalassia
+
+Spesies
+
+: Thalassia hemprichii
+
+c. Habitat Pada praktikum lapang botani laut tropis kemarin. Di pantai Balekambang
+banyak di temukan spesies Thalassia hemprichii. Lamun ini mendominasi pantai Balekambang karena pantai Balekambang termasuk ekosistem yg baik bagi Thalassia hemprichii. Lamun ini dapat di temukan di perairan dangkal pasang surut, pesisir pantai Balekambang. Biasanya lamun ini menempati substrat berpasir di pantai Balekambang. Karena lamun biasanya menempati substrat yang lembek atau halus tidak seperti rumput laut yang menempati substrat keras.
+Thalassia hemprichii dapat ditemukan di semua lokasi karena lamun ini termasuk dalam kelompok Magnozosterid. Salah satu ciri dari kelompok Magnozosterid adalah kemampuannya untuk hidup di berbagai macam jenis substrat, terutama di daerah 38ystem38tozo yang masih terendam air pada saat air surut. Spesies ini memiliki kisaran karakteristik habitat yang cukup luas, dari tingkat kecerahan air jernih sampai keruh, dari vegetasi tunggal sampai campuran, dan komposisi substrat yang bervariasi. Lamun tumbuh dengan komposisi jenis tertinggi di Dullah Darat yang memiliki substrat berupa pasir dengan tingkat kecerahan air jernih (Hernawan, 2006).
+
+d. Manfaat Lamun dugong (Thalassia hemprichii) merupakan salah satu jenis lamun
+(seagrass) yang secara tradisional telah dimanfaatkan sebagai obat dan makanan kesehatan. Lamun dugong telah diketahui memiliki beberapa komponen fitokimia
+
+seperti steroid/triterpenoid, flavonoid, saponin, dan tannin. Komponen-komponen fitokimia tersebut diduga memiliki aktivitas sebagai antioksidan.
+Thalassia hemprichii yang dikoleksi dari Pamban, Tamil Madu, India diketahui mengandung senyawa bioaktif potensial sebagai antibakteri, antifungi, 39ystem39tozoal, antiviral, antifertility, dan bahan obat-obatan yang berpengaruh pada 39ystem cardiovascular. Thalassia hemprichii juga memiliki potensi bioaktif sebagai antioksidan dan mengandung senyawa golongan fenolik. Sehubungan dengan kandungan senyawa bioaktif yang terkandung dalam Enhalus acoroides dan Thalassia hemprichii yang kaya dan potensial sebagai bahan kecantikan, obat, dan bidang farmasi lain (Dewi et al., 2012).
+4.2.5 Fitoplankton Pada praktikum lapang botani laut yang dilaksanakan di Pantai
+Balekambang ditemukan beberapa spesies di daerah fitoplankton. Spesies yang ditemukan, yaitu:
+4.2.5.1 Cerataulina pelagica
+
+(Algaebase, 2019).
+
+(Dokumentasi Pribadi, 2019)
+
+Gambar 22. Cerataulina pelagica
+
+a. Deskripsi spesies Seperti tanaman darat, Cerataulina pelagica memiliki klorofil untuk
+menangkap sinar matahari, dan mereka menggunakan fotosintesis untuk mengubahnya menjadi energi kimia. Mereka mengonsumsi karbon dioksida, dan melepaskan oksigen. Semua fitooplankton berfotosintesis, tetapi beberapa mendapatkan energi tambahan dengan mengonsumsi organisme lain. Pertumbuhan fitoplankton tergantung pada ketersediaan karbon dioksida, sinar matahari, dan nutrisi. Fitoplankton, seperti tanaman darat, membutuhkan nutrisi
+
+39
+
+seperti nitrat, fosfat, silikat, dan kalsium pada berbagai tingkatan tergantung pada spesies.
+Cerataulina pelagica memiliki sel dua proyeksi tumpul pada setiap katup, terletak di dekat pinggirnya. Sel dipelintir mengenai sumbunya, menghasilkan posisi proses yang bergantian. Mereka mampu memproses karbondioksida dan melepaskannya menjadi oksigen (menghasilkan oksigen) dengan bantuan sinar matahari. Pertumbuhan dari Cerataulina pelagica bergantung pada karbondioksida,sinar matahari dan nutrisi (Algaebase,2019).
+
+b. Taksonomi
+
+Menurut Algaebase (2019), Klasifikasi Cerataulina pelagica memiliki klasifikasi sebagai berikut :
+
+Kingdom Phylum Class Ordo Familly Genus Spesies
+
+: Chromista : Bacillariophyta : Mediophyceae : Hemiaulales : Hemiaulaceae : Cerataulina : Cerataulina pelagica
+
+c. Habitat Fitoplankton kebanyakan hidup pada bagian permukaan laut yang terkena
+sinar cahaya matahari. Ketika permukaan lautan dingin, bagian-bagian lautan yang lebih dalam membawa nutrisi ini ke permukaan dan plankton hidup. Tetapi, ketika permukaan lautan hangat, seperti di El Nino, lautan tidak membawa banyak nutrisi penting ini dan fitoplankton mati. Itu menyebabkan masalah besar karena fitoplankton berada di dasar rantai makanan. Jadi, ketika populasi fitoplankton berkurang hampir seluruh rantai makanan terpengaruh.
+Menurut Earthobservatory (2019), Fitoplankton hidup di dekat permukaan laut karena mereka membutuhkan sinar matahari seperti semua tanaman hijau. Mereka juga membutuhkan air dan nutrisi untuk hidup. Fitoplankton menggunakan air dan CO2 untuk tumbuh, tetapi fitoplankton masih membutuhkan vitamin dan mineral lain, seperti zat besi untuk bertahan hidup. Fitoplankton dapat berfotosintesis menggunakan CO2 dengan bantuan sinar matahari
+
+d. Manfaat Cerataulina pelagica mempunyai peran dalam mensintesa bahan organik
+dalam lingkungan perairan. Dalam metabolisme perairan fitoplankton juga berperan sebagai pendaur ulang nutrien. Fitoplankton memberikan fungsi ekologis penting untuk semua kehidupan air dengan melayani sebagai dasar dari jaring makanan di air. Mereka juga menyediakan fungsi untuk hampir semua kehidupan di bumi, karena fitoplankton yang bertanggung jawab untuk sebagian besar oksigen yang terdapat di atmosfer bumi.
+Menurut Earthobservatory (2019), Fitoplankton adalah dasar dari jaring makanan akuatik, produsen utama, memberi makan segala sesuatu dari mikroskopis, zooplankton seperti hewan hingga paus multi-ton. Ikan kecil dan invertebrata juga merumput di organisme mirip tumbuhan, dan kemudian hewanhewan kecil dimakan oleh yang lebih besar. Fitoplankton juga bisa menjadi pertanda kematian atau penyakit. Melalui fotosintesis, fitoplankton mengonsumsi karbon dioksida pada skala yang setara dengan hutan dan tanaman darat lainnya. Sebagian karbon ini dibawa ke laut dalam ketika fitoplankton mati, dan sebagian dipindahkan ke lapisan samudera yang berbeda ketika fitoplankton dimakan oleh makhluk lain, yang dengan sendirinya mereproduksi, menghasilkan limbah, dan mati.
+4.2.5.2 Pleurotaenium ehrenbergii
+
+(INPN, 2019)
+
+(Desmids, 2019)
+
+Gambar 23. Pleurotaenium ehrenbergii
+
+a. Deskripsi spesies Jenis Pleurotaenium ehrenbergii bersifat autotrof untuk berfotosintesis. Jenis
+ini memiliki klorofil untuk memproses sinar matahari dan mengubahnya menjadi energi kimia. Fitoplankton sendiri membutuhkan nutrisi untuk terus tumbuh dan
+
+41
+
+hidup pada perairan. Fitoplankton juga berperan dalam sintesa bahan oragnik di suatu perairan.
+Menurut Earthobservatory (2019), Seperti tanaman darat, Pleurotaenium ehrenbergii memiliki klorofil untuk menangkap sinar matahari, dan mereka menggunakan fotosintesis untuk mengubahnya menjadi energi kimia. Mereka mengonsumsi karbon dioksida, dan melepaskan oksigen. Semua fitooplankton berfotosintesis, tetapi beberapa mendapatkan energi tambahan dengan mengonsumsi organisme lain. Pertumbuhan fitoplankton tergantung pada ketersediaan karbon dioksida, sinar matahari, dan nutrisi. Fitoplankton, seperti tanaman darat, membutuhkan nutrisi seperti nitrat, fosfat, silikat, dan kalsium pada berbagai tingkatan tergantung pada spesies.
+
+b. Taksonomi
+
+Menurut INPN (2019), klasifikasi Pleurotaenium erhenbergii adalah sebagai
+
+berikut.
+
+Kingdom
+
+: Protista
+
+Phylum
+
+: Chlorophyta
+
+Class
+
+: Chlorophyceae
+
+Ordo
+
+: Zygnematales
+
+Genus
+
+: Pleurotaenium
+
+Spesies
+
+: Pleurotaenium erhenbergii
+
+c. Habitat Fitoplankton hidup di dekat permukaan laut karena mereka membutuhkan
+sinar matahari seperti semua tanaman hijau. Mereka juga membutuhkan air dan nutrisi untuk hidup. Fitoplankton menggunakan air dan CO2 untuk tumbuh, tetapi fitoplankton masih membutuhkan vitamin dan mineral lain, seperti zat besi untuk bertahan hidup.Ketika permukaan lautan dingin, bagian-bagian lautan yang lebih dalam membawa nutrisi ini ke permukaan dan plankton hidup. Tetapi, ketika permukaan lautan hangat, seperti di El Nino, lautan tidak membawa banyak nutrisi penting ini dan fitoplankton mati. Itu menyebabkan masalah besar karena fitoplankton berada di dasar rantai makanan. Jadi, ketika populasi fitoplankton berkurang hampir seluruh rantai makanan terpengaruh.
+Pleurotaenium erhenbergii dapat ditemukan pada air tawar dan air laut. Spesies ini biasanya dapat ditemukan pada bagian permukaan kolom perairan. Jenis Pleurotaenium erhenbergii memiliki toleransi yang cukup besar terhadap
+
+perubahan pH perairan yang bervariasi. Selain itu Fitoplankton ini dapat bertoleransi dengan perubahan suhu dan oksigen terlarut (Harmoko et al., 2017).
+d. Manfaat Fitoplankton adalah dasar dari jaring makanan akuatik, produsen utama,
+memberi makan segala sesuatu dari mikroskopis, zooplankton seperti hewan hingga paus multi-ton. Ikan kecil dan invertebrata juga merumput di organisme mirip tumbuhan, dan kemudian hewan-hewan kecil dimakan oleh yang lebih besar. Fitoplankton juga bisa menjadi pertanda kematian atau penyakit. Melalui fotosintesis, fitoplankton mengonsumsi karbon dioksida pada skala yang setara dengan hutan dan tanaman darat lainnya. Sebagian karbon ini dibawa ke laut dalam ketika fitoplankton mati, dan sebagian dipindahkan ke lapisan samudera yang berbeda ketika fitoplankton dimakan oleh makhluk lain, yang dengan sendirinya mereproduksi, menghasilkan limbah, dan mati.
+Perairan sungai merupakan tempat yang memiliki peranan penting bagi semua makhluk hidup. Pleurotaenium erhenbergii termasuk makhluk hidup autotrof dan dapat berfotosintesis. mempunyai peran dalam mensintesa bahan organik dalam lingkungan perairan. Dalam metabolisme perairan fitoplankton juga berperan sebagai pendaur ulang nutrien (Harmoko et al., 2017).
+4.2.5.3 Ankistrodesmus spiralis
+
+(Protist, 2019)
+
+(Dokumentasi pribadi, 2019)
+
+Gambar 24. Ankistrodesmus spiralis
+
+a. Deskripsi spesies Seperti tanaman darat, Ankistrodesmus spiralis memiliki klorofil untuk
+menangkap sinar matahari, dan mereka menggunakan fotosintesis untuk mengubahnya menjadi energi kimia. Mereka mengonsumsi karbon dioksida, dan
+
+43
+
+melepaskan oksigen. Semua fitooplankton berfotosintesis, tetapi beberapa mendapatkan energi tambahan dengan mengonsumsi organisme lain. Pertumbuhan fitoplankton tergantung pada ketersediaan karbon dioksida, sinar matahari, dan nutrisi. Fitoplankton, seperti tanaman darat, membutuhkan nutrisi seperti nitrat, fosfat, silikat, dan kalsium pada berbagai tingkatan tergantung pada spesies.
+Menurut John, et al. (2005), Ankistrodesmus spiralis umumnya hidup berkoloni 4, 8, sampai 16 sel. Tubuh dari Ankistrodesmus spiralis tertutup oleh selubung lendir. 1 sel biasanya berukuran lebar 1-3,5 µm dan panjang 20-45 µm. Bentuk tubuhnya yaitu seperti paku dan meruncing di ujungnya.
+
+b. Taksonomi
+
+Menurut Algaebase (2019), klasifikasi Ankistrodesmus spiralis
+
+sebagai berikut.
+
+Kingdom
+
+: Plantae
+
+Phylum
+
+: Chlorophyta
+
+Class
+
+: Chlorophyceae
+
+Order
+
+: Chlorococcales
+
+Family
+
+: Oocystaceae
+
+Genus
+
+: Ankistrodesmus
+
+Species
+
+: Ankistrodesmus spiralis
+
+adalah
+
+c. Habitat Ketika permukaan lautan dingin, bagian-bagian lautan yang lebih dalam
+membawa nutrisi ini ke permukaan dan plankton hidup. Tetapi, ketika permukaan lautan hangat, seperti di El Nino, lautan tidak membawa banyak nutrisi penting ini dan fitoplankton mati. Itu menyebabkan masalah besar karena fitoplankton berada di dasar rantai makanan. Jadi, ketika populasi fitoplankton berkurang hampir seluruh rantai makanan terpengaruh. Fitoplankton hidup di dekat permukaan laut karena mereka membutuhkan sinar matahari seperti semua tanaman hijau. Mereka juga membutuhkan air dan nutrisi untuk hidup. Fitoplankton menggunakan air dan CO2 untuk tumbuh, tetapi fitoplankton masih membutuhkan vitamin dan mineral lain, seperti zat besi untuk bertahan hidup.
+Menurut John, et al. (2005), Ankistrodesmus spiralis merupakan spesies yang kosmopolit. Di perairan Britania, Ankistrodesmus spiralis dapat ditemukan paling umum di perairan yang lebih asam di Skotlandia dan Wales. Alga ini
+
+merupakan alga yang hidup di air tawar. Persebarannya mencakup seluruh dunia kecuali kutub utara dan selatan.
+d. Manfaat Fitoplankton adalah dasar dari jaring makanan akuatik, produsen utama,
+memberi makan segala sesuatu dari mikroskopis, zooplankton seperti hewan hingga paus multi-ton. Ikan kecil dan invertebrata juga merumput di organisme mirip tumbuhan, dan kemudian hewan-hewan kecil dimakan oleh yang lebih besar. Fitoplankton juga bisa menjadi pertanda kematian atau penyakit. Melalui fotosintesis, fitoplankton mengonsumsi karbon dioksida pada skala yang setara dengan hutan dan tanaman darat lainnya. Sebagian karbon ini dibawa ke laut dalam ketika fitoplankton mati, dan sebagian dipindahkan ke lapisan samudera yang berbeda ketika fitoplankton dimakan oleh makhluk lain, yang dengan sendirinya mereproduksi, menghasilkan limbah, dan mati.
+Menurut Haninuna, et al. (2015), kelimpahan fitoplankton memiliki hubungan positif dengan kesuburan perairan. Apabila kelimpahan fitoplankton di suatu perairan tinggi maka perairan tersebut cenderung memiliki produktifitas yang tinggi pula. Ankistrodesmus spiralis merupakan fitoplankton jenis diatom. Jenis ini terkanal dengan ketahanan tubuhnya dan juga dapat menyimpan polutan seperti minyak, fosfat, dan nitrat dalam tubuhnya.
+4.2.5.4 Coelastrum cambricum
+
+(Protist, 2019)
+
+(UTEX, 2019)
+
+Gambar 25. Coelastrum cambrium
+
+a. Deskripsi spesies Coelastrum cambricum memiliki klorofil untuk menangkap sinar matahari,
+dan mereka menggunakan fotosintesis untuk mengubahnya menjadi energi kimia. Mereka mengonsumsi karbon dioksida, dan melepaskan oksigen. Semua
+
+45
+
+fitooplankton berfotosintesis, tetapi beberapa mendapatkan energi tambahan dengan mengonsumsi organisme lain. Pertumbuhan fitoplankton tergantung pada ketersediaan karbon dioksida, sinar matahari, dan nutrisi. Fitoplankton, seperti tanaman darat, membutuhkan nutrisi seperti nitrat, fosfat, silikat, dan kalsium pada berbagai tingkatan tergantung pada spesies.
+Menurut John, et al. (2005), Coelastrum cambricum memiliki bentuk tubuh yang spherical, tetrahedral, atau cuboidal. Satu koloni terdapat 8-16 sel dan terdapat rongga interselular sebesar setengah lebar dari selnya. Setiap sel terhubung oleh 5-6 cabang lateral ke sel tetangga. Coelastrum cambricum memiliki pigmen klorofil untuk fotosintesis, oleh sebab itu termasuk ke dalam divisi chlorophyta.
+
+b. Taksonomi
+
+Menurut EOL (2019), Coelastrum cambricum memiliki klasifikasi sebagai
+
+berikut:
+
+Kingdom
+
+: Plantae
+
+Divisio
+
+: Chlorophyta
+
+Kelas
+
+: Chlorophyceae
+
+Ordo
+
+: Sphaeropleales
+
+Family
+
+: Scenedesmaceae
+
+Genus
+
+: Coelastrum
+
+Spesies
+
+: Coelastrum cambricum
+
+c. Habitat Jenis Coelastrum cambricum dapat hidup dimana saja dan bersifat
+kosmopolit. Terlebih karena spesies ini hidup di air tawar dan juga air laut. Coelastrum cambricum biasanya ditemukan di daerah permukaan kolom perairan yang terkena sinar matahari. Penelitian untuk Habitat dari spesies ini masihlah sangat sedikit.
+Menurut John, et al. (2005), Coelastrum cambricum memiliki kemungkinan bersifat kosmopolit, yaitu dapat ditemukan di mana saja. Di Britania, spesies ini jarang ditemukan kolam-kolam atau danau di wilayah yang berbeda-beda. Alga ini juga merupakan spesies yang hidup di air tawar. Masih sedikit data yang ditemukan mengenai habitat spesies ini.
+
+d. Manfaat Mikroalga terutama chlorophyta kaya akan sumber makro nutrien seperti
+protein, karbohidrat dan khususnya asam lemak esensial. Dalam proses metabolisme perairan fitoplankton juga mempunyai peran sebagai pendaur ulang nutrien. Untuk ikan pada perairan mikroalga menghasilkan semacam antibiotik atau dalam proses metabolismenya menghasilkan zat anti bacterial. Chlorophyta merupakan produsen utama dalam ekosistem perairan.
+Menurut Fauziah dan Laily (2015), Alga berperan sebagai produsen dalam ekosistem. Berbagai jenis alga yang hidup di air terutama yang tubuhnya bersel satu dan dapat bergerak aktif merupakan penyusun fitoplankton. Sebagian besar dari fitoplankton merupakan anggota dari divisi Chlorophyta (alga hijau). Chlorophyta merupakan produsen utama dalam ekosistem perairan karena sebagian besar fitoplankton (bersel satu dan motil) merupakan anggota chlorophyta yang memiliki pigmen klorofil sehingga efektif untuk melakukan fotosintesis.
+47
+
+V. PENUTUP
+
+5.1 Kesimpulan
+
+Setelah melakukan praktikum Botani laut Tropis, seluruh praktikan Botani
+
+Laut Tropis diharapkan dapat :
+
+1. Pada praktikum lapang Botani Laut Tropis, telah dilakukan
+
+pengamatan
+
+di stasiun mangrove ditemukan spesies
+
+Rhizopora sp., Heritiera littoralis, Brugueira sp., Acanthus
+
+ilicifolius, dan Xylocarpus sp. Di stasiun vegetasi pantai,
+
+ditemukan spesies
+
+Barringtonia asiatica, Crinum
+
+asiaticum, Thurea involuta, Pandanus tectorius, Hernandia
+
+peltata, Terminalia cattapa, dan Hibiscus tiliaceus. Di stasiun
+
+lamun, ditemukan spesies Thalassia hemprichii. Dan di stasiun
+
+rumput laut, ditemukan spesies Grateloupia doryphora.
+
+2. Pada praktikum lapang Botani laut Tropis, telah dilakukan
+
+pengukuran
+
+parameter air yakni Ph, salinitas dn suhu di
+
+Pantai Balekambang.
+
+Pengukuran pH menggunakan
+
+pHmeter menghasilkan angka 6,69.
+
+Pengukuran
+
+salinitas menggunakan refraktometer menghasilkan angka 30
+
+ppt. Dan pengukuran suhu menggunakan thermometer
+
+menghasilkan angka 33oC. Mangrove memiliki fungsi yaitu
+
+menjaga garis pantai,
+
+melindungi pantai dari erosi (abrasi),
+
+sebagai kawasan pemijah atau asuhan bagi komunitas
+
+biota bakau. Rumput laut sudah sejak lama dikenal di Indonesia
+
+sebagai bahan makanan tambahan, sayuran dan obat
+
+tradisional. Lamun berperan menjadi habitat berbagai biota laut
+
+termasuk menjadi tempat mencari makan (feeding ground).
+
+5.2 Saran Dalam pelaksanaan praktikum botani laut tropis diharapkan baik praktikan
+mampu datang tepat waktu baik itu ketika simulasi praktikum, praktikum lapang, maupun praktikum laboratorium. Secara keseluruhan praktikum lapang yang dilaksanakan di Pantai Balekambang pada tanggal berjalan lancar. Praktikum laboratorium pengamatan fitoplankton yang dilaksanakan di laboratorium hidrobiologi pada tanggal 16 Februari 2019 berjalan dengan kondusif, namun
+
+waktu yang diberikan dalam pengamatan spesies fitoplankton terlalu sedikit. Dalam proses pengerjaan laporan dan asistensi berjalan sebagaimana mestinya. Namun karena praktikan terlalu dibebani dengan banyaknya literature yang harus dicari sehingga praktikan lebih memahami mengenai format pengetikannya dibandingkan dengan materi mengenai botani laut tropis.
+49
+
+DAFTAR PUSTAKA
+Algaebase. 2019. http://www.algaebase.org Ankistrodesmus spiralis diakses pada Senin, 4 Maret 2019.
+Algaebase. 2019. http://www.algaebase.org Cerataulina pelagica diakses pada Senin, 4 Maret 2019
+Amirudin,A. 2015. Pengembangan Aplikasi Sistem Pembelajaran Klasifikasi (Taksonomi) dan Tata Nama Ilmiah (Binomial Nomenklatur) pada Kingdom Plantae (Tumbuhan) Berbasis Android. Universitas Lampung. Skripsi.
+Andayani,S.M.R.Anwar dan Antariksa. 2012. Pengembangan Kawasan Wisata Balekambang Kabupaten Malang. Jurnal Rekayasa Sipil. Vol.6(2) 2012.
+Annisa, R., Priosambodo, D., Salam, M. A., & Santosa, S.2017. Struktur Komunitas Mangrove Asosiasi Di Sekitar Area Tambak Desa Balandatu Kepulauan Tanakeke Kabupaten Takalar Sulawesi Selatan. 2(1).
+Anova,Y.M.A. 2013. Keanekaragaman Mangrove di Pantai Kecamatan Panggungrejo Kota Pasuruan. Universitas Islam Negeri Maulana Malik Ibrahim Malang. Skripsi.
+Auri, Y. F., Nunaki, J. H., & Sadsoeitoeboen, M. J. (2008). Analisis Vegetasi Mangrove Dan Pemanfaatannya Oleh Masyarakat Kampung Isenebuai Distrik Rumberpon Kabupaten Teluk Wondama. Jurusan Biologi-Fmipa
+Buwono,Y.R. 2017. Identifikasi dan Kerapatan Ekosistem Mangrove di Kawasan Teluk Pangpang Kabupaten Banyuwangi. Jurnal Ilmu Perikanan. Vol.8(1) April 2017.
+CABI. 2019. Acanthus ilicifolius. Diakses pada Senin, 4 Maret 2019 di http://www.cabi.org
+CABI. 2019. Baringtonia asiatica. Diakses pada Senin, 4 Maret 2019 di http://www.cabi.org
+CABI. 2019. Bruguiera gymnorrhiza. Diakses pada Senin, 4 Maret 2019 di http://www.cabi.org
+CABI. 2019. Heritiera littoralis. Diakses pada Rabu, 10 Oktober 2018 di http://www.cabi.org
+CABI. 2019. Rizhopora mucronata. Diakses pada Senin, 4 Maret 2019 di http://www.cabi.org
+CABI. 2019. Terminalia catappa. Diakses pada Senin, 4 Maret 2019 di http://www.cabi.org
+CABI. 2019. Thalassia hemprachii. Diakses pada Senin, 4 Maret 2019 di http://www.cabi.org
+
+Desmids. 2019. http://www.desmids.nl/. Diakses pada 7 Maret 2019.
+Dewi, C. S., Soedharma, D., & Kawaroe, M. (2012). Komponen Fitokimia Dan Toksisitas Senyawa Bioaktif Dari Lamun Enhalus Acoroides Dan Thalassia Hemprichii Dari Pulau Pramuka, Dki Jakarta. Jurnal Teknologi Perikanan Dan Kelautan, 3(2), 23-27.
+Dhaniaputri,R. 2017. Ilmu Botani Sebagai Dasar Keanekaragaman Jenis Tumbuhan Dalam Pelestarian Lingkungan. Universitas Sebelas Maret Surakarta. SNPS 2017.
+Earthobservatory. 2019. https://www.earthobservatory.nasa.gov/Cerataulina pelagica Diakses pada Senin, 4 Maret 2019
+Earthobservatory. 2019. https://www.earthobservatory.nasa.gov/Pleurotaenium ehrenbergii Diakses pada Senin, 4 Maret 2019
+EOL. 2019. https//www.eol.org/ coelastrum cambricum diakses pada Senin, 4 maret 2019
+Erlania dan I.N.Radiarta. 2015. Distribusi Rumput Laut Alam Berdasarkan Karakteristik Dasar Perairan di Kawasan Rataan Terumbu Labuhanbua, Nusa Tenggara Barat : Strategi Pengelolaan Untuk Pengembangan Budidaya. Jurnal Riset Akuakultur. Vol.10(3)2015.
+Erniati,F.R.Zakaria,E.Prangdimurti, dan D.R.Adawiyah. 2016. Potensi Rumput Laut : Kajian Komponen Bioaktif dan Pemanfaatannya Sebagai Pangan Fungsional. Acta Aquatica Aquatic Science Journal. Vol.3(1) April 2016:12-17.
+Fauziah,S.M. dan A.N.Laily. 2015. Identifikasi Mikroalga dari Divisi chlorophyta di Waduk Sumber Air Jaya Dusun Krebet Kecamatan Bululawang Kabupaten Malang. Jurnal BIOEDUKASI. Vol.8(1) : 20-22.
+Fitriah,E.,Y.Maryuningsih,E.Chandra, dan A.Mulyani. 2013. Studi Analisis Pengelolaan Hutan Mangrove Kabupaten Cirebon. Jurnal Scientiae Educatia. Vol.2(2) November 2013.
+GBIF. 2019. http://www.GBIF.org Diakses pada Senin, 4 Maret 2019 spesies Hernandia peltata
+GBIF. 2019. http://www.GBIF.org Grateloupia doryphora Diakses pada senin, 4 maret 2019
+GBIF. 2019. http://www.GBIF.org/Thuarea-involuta. Diakses pada Senin, 4 Maret 2019
+Gosari,B.A.J. dan A.Haris. 2012. Studi Kerapatan dan Penutupan Jenis Lamun di kepulauan Spermonde. Jurnal Ilmu Kelautan dan Perikanan. Vol.22(3) Desember 2012 :156-162.
+Hamid,A. 2013. Keanekaragaman Fitoplankton di Perairan Pantai Lekok Kabupaten Pasuruan. Universitas Islam Negeri Maulana Malik Ibrahim Malang. Skripsi.
+51
+
+Haninuna,E.D.N.,R.Gimin, dan L.M.R.Kaho. 2015. Utilization Of Phytoplankton as bio-indicator Of Various Types of Pollutants in Intertidal Waters Of Kupang City. Jurnal Ilmu Kelautan. Vol.13(2) : 72-85.
+Harmoko,E.Lokaria dan S.Misra. 2017. Eksplorasi Mikroalga di Air Terjun Watervang Kota Lubuklinggau. Jurnal Pendidikan Biologi.Vol.8(1) Mei 2017.
+Hernawan, U. E. (2006). Struktur Komunitas Padang Lamun Di Perairan Kei Kecil, Maluku Tenggara, Provinsi Maluku. Upt Loka Konservasi Biota Laut-Lipi Tual, Maluku Tenggara, 305-311.
+INPN. 2019. https://www.inpn.mnhn/Pleurotaenium ehrenbergii Diakses pada Senin, 4 Maret 2019
+John,D.M.,B.A.Whitton dan A.J.Brook. 2005. The Freshwater Algal Flora Of the British Isles : An Identification Guide to Freshwater and Terrestrial Algae. Cambridge press.
+Juniarto. 2016. Pengaruh Ekstrak Daun Ketapang Terhadap Kesintasan Ikan Mas yang Terinfeksi Bakteri Sebagai Sumber Belajar Biologi. Universitas Muhammadiah Malang. Skripsi.
+Kamaruddin,Z.S.,S.B.Rondonuwu, dan P.V.Maabuat. 2016. Keragaman Lamun (Seagrass) di Pesisir Desa Lihunu Pulau Bangka Kecamatan Likupang Kabupaten Minahasa Utara, Sulawesi Utara. Jurnal MIPA UNSRAT. Vol.5(1):20-24.
+Kamila,T. 2013. Populasi dan Habitat Kampis di Hutan Ujung Genteng. Jurnal Penelitian Hutan dan Konservasi Alam. Vol.1(10) 2013.
+Khazmi,A.U. 2014. Jenis-jenis Fitoplankton Pada Zona Litoral (Studi Kasus di Telogo Warno dan Telogo Pengilon Dieng Plateu Wonosobo). Institut Agama Islam Negeri Walisongo Semarang. Skripsi.
+Kurniawan,D.,Aristoteles dan A. Amirudin. 2015. Pengembangan Aplikasi Sistem Pembelajaran Klasifikasi (Taksonomi) dan Tata Nama Ilmiah (Binomial Nomenklatur) pada Kingdom Plantae (Tumbuhan) Berbasis Android. Jurnal Komputasi. Vol.3(2) 2015.
+Maresi,S.R.P.,Priyanti, dan E. Yunita. 2015. Fitoplankton Sebagai Bioindikator Saprobitas Perairan di Situ Bulakan Kota Tangerang. Jurnal Biologi. Vol.8(2) Oktober 2015.
+Mateka,J.A.,E.Indrayani, dan N.Harahap. 2013. Obyek Wisata Pantai Balekambang Kabupaten Malang Jawa Timur. Api STUDENT JOURNAL. Vol.1(1) : 12-22.
+Noor, Yus Rusila, M. Khazali, Dan I N.N. Suryadiputra. 1999. Panduan pengenalan mangrove di indonesia. PHKA/WI-IP, bogor Universitas Negeri Papua, 7(1), 21-27.
+Patty,S.I. 2013. DISTRIBUSI SUHU, SALINITAS DAN OKSIGEN TERLARUT DI PERAIRAN KEMA, SULAWESI UTARA. Jurnal Ilmiah Platax. 1 (3)
+
+Protist. 2019. https://www.protist.i.hosei.ac.jp Ankistrodesmus spiralis diakses pada Senin, 4 Maret 2019
+Protist. 2019. https://www.protist.i.hosei.ac.jp Coelastrum cambricum diakses pada Senin, 4 Maret 2019
+Putri, A. A., & Hidajati, N. 2015. Uji Aktivitas Antioksidan Senyawa Fenolik Ekstrak Metanol Kulit Batang Tumbuhan Nyiri Batu (Xylocarpus Moluccensis). Unesa Journal Of Chemistry, 4(1), 37-42.
+Putri, A. P. (2011). Kandungan Fenol, Komponen Fitokimia Dan Aktivitas Antioksidan Lamun Dugong (Thalassia Hemprichii). Departemen Teknologi Hasil Perairan Fakultas Perikanan Dan Ilmu Kelautan Institut Pertanian Bogor.
+Sepawan,M. 2017. Pengaruh Struktur dan Komposisi Vegetasi Pantai Terhadap Pendaratan Penyu (Chelonioidea) di Pekon Muara Tembulih Kecamatan Ngambur Kabupaten Pesisir Barat. Universitas Islam Negeri Raden Intan Lampung. Skripsi.
+Simanjuntak,M. Dan Y.Kamlasi. 2012. Sebaran Horizontal Zat Hara di Perairan Lamalera, Nusa Tenggara Timur. Ilmu Kelautan.LIPI. Vol.17(2) Juni 2012 : 99-108.
+Sudarmadji. (2003). Deskripsi Jenis-Jenis Anggota Suku Rhizophoraceae Di Hutan Mangrove Taman Nasional Baluran Jawa Timur. B I O D I V E R S I T A S, 5(2), 66-70.
+Tuheteru,F.D dan Mahfudz. 2012. Ekologi, Manfaat dan Rehabilitasi Hutan Pantai Indonesia. Balai Penelitian Kehutanan : Manado.
+UTEX. 2019. https://utex.org/. Diakses pada 7 Maret 2019.
+Warpur, M. (2016). Struktur Vegetasi Hutan Mangrove Dan Pemanfaatannya Di Kampung Ababiaidi Distrik Supiori Selatan Kabupaten Supiori. Jurnal Biodjati, 1(1), 19-26.
+Wetlands. 2019. http://www.wetlands.or.id/. Crinum asiaticum Diakses pada tanggal 4 Maret 2019.
+Wetlands. 2019. http://www.wetlands.or.id/. Xylocarpus granatum Diakses pada tanggal 4 Maret 2019.
+Williams,S.L. and E.D.Grosholz. 2002. Preliminary Reports From the Caulerpa taxifolia Invasion in Southern California. Mar. Ecol. Prog. Ser. 233:307-10
+World Register of Marine Species. 2019. Acanthus ilicifolius. Diakses pada Senin, 4 Maret 2019 di http://www.marinespecies.org
+World Register of Marine Species. 2019. Barringtonia asiatica. Diakses pada Senin, 4 Maret 2019 di http://www.marinespecies.org
+World Register of Marine Species. 2019. Bruguiera gymnorrhiza. Diakses pada Senin, 4 Maret 2019 di http://www.marinespecies.org
+53
+
+World Register of Marine Species. 2019. Crinum asiaticum. Diakses pada Senin, 4 Maret 2019 di http://www.marinespecies.org
+World Register of Marine Species. 2019. Heritiera littoralis. Diakses pada Senin, 4 Maret 2019 di http://www.marinespecies.org
+World Register of Marine Species. 2019. Rhizopora lamarkcii. Diakses pada Senin, 4 Maret 2019 di http://www.marinespecies.org
+World Register of Marine Species. 2019. Xylocarpus granatum . Diakses pada Senin, 4 Maret 2019 di http://www.marinespecies.org
+
+LAMPIRAN
+
+Lampiran 1. Tabel Identifikasi Fitoplankton
+
+No
+
+Nama Spesies
+
+Stasiun
+
+Gambar
+
+1.
+
+Synedra sp.
+
+20 m
+
+TABEL DATA SAMPEL FITOPLANKTON
+
+55
+
+Lampiran 2. Logbook Mangrove
+
+57
+
+Lampiran 3. Logbook Vegetasi Pantai
+
+59

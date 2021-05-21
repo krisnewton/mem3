@@ -1,0 +1,1238 @@
+Human Vaccines & Immunotherapeutics 8:9, 1­16; September 2012; G 2012 Landes Bioscience
+
+REVIEW
+
+Poxvirus vectors as HIV/AIDS vaccines in humans
+
+Carmen Elena Gómez, Beatriz Perdiguero, Juan García-Arriaza and Mariano Esteban*
+Department of Molecular and Cellular Biology, Centro Nacional de Biotecnología, Consejo Superior de Investigaciones Científicas (CSIC); Madrid, Spain
+Keywords: HIV, NYVAC, MVA, Fowlpox, ALVAC, clinical trials
+
+The RV144 phase III clinical trial with the combination of the poxvirus vector ALVAC and the HIV gp120 protein has taught us that a vaccine against HIV/AIDS is possible but further improvements are still needed. Although the HIV protective effect of RV144 was modest (31.2%), these encouraging results reinforce the use of poxvirus vectors as HIV/AIDS vaccine candidates. In this review we focus on the prophylactic clinical studies thus far performed with the more widely studied poxvirus vectors, ALVAC, MVA, NYVAC and fowlpox expressing HIV antigens. We describe the characteristics of each vector administered either alone or in combination with other vectors, with emphasis on the immune parameters evaluated in healthy volunteers, percentage of responders and triggering of humoral and T cell responses. Some of these immunogens induced broad, polyfunctional and long-lasting CD4+ and CD8+ T cell responses to HIV-1 antigens in most volunteers, with preference for effector memory T cells, and neutralizing antibodies, immune parameters that might be relevant in protection. Finally, we consider improvements in immunogenicity of the poxvirus vectors by the selective deletion of viral immunomodulatory genes and insertion of host range genes in the poxvirus genome. Overall, the poxvirus vectors have proven to be excellent HIV/AIDS vaccine candidates, with distinct behavior among them, and the future implementation will be dictated by their optimized immune profile in clinical trials.
+Introduction
+At the end of 2010, an estimated 34 million people were living with human immunodeficiency virus (HIV) worldwide. The number of people dying of acquired immune deficiency syndrome (AIDS)-related causes fell to 1.8 million, down from a peak of 2.2 million in the mid-2000s. There were 2.7 million new HIV infections and the HIV incidence has fallen in 33 countries, 22 of them in sub-Saharan Africa, the region most affected by the AIDS epidemic (www.unaids.org). Much of that success has come in the past two years after the rapid scale-up of access to antiretroviral treatment and the implementation of HIV prevention approaches. Male condoms are highly effective for HIV prevention, but consistent use is hindered by issues of consumer dissatisfaction, adherence, slippage/breakage, and lack of receptive-partner
+*Correspondence to: Mariano Esteban; Email: mesteban@cnb.csic.es Submitted: 03/15/12; Revised: 05/09/12; Accepted: 05/16/12 http://dx.doi.org/10.4161/hv.20778
+
+control. Other interventions including treatment of sexually transmitted infections (STIs),1 male circumcision,1 and use of a tenofovir (TFV) 1% microbicide vaginal gel2 have shown clinical efficacy in reducing HIV acquisition. Despite the proven effectiveness of existing prevention approaches, less than one out of five people at high risk for HIV has access, and current prevention approaches are not practical for everyone, especially women.
+For these reasons, the development of an effective HIV/AIDS vaccine represents the best long-term solution to eradicate the pandemic. We have known since the mid-1980s that the body's natural immune response to HIV infection is completely inadequate, but we still lack fundamental knowledge regarding the nature, quality, quantity and durability of immune responses that should be induced, the ideal antigens to include, how to overcome the sequence variability engendered by the error-prone HIV reverse transcriptase, or even whether preventive vaccine strategies should focus on protection from infection or from disease progression. In spite of all these gaps in understanding the correlates of protection in HIV infection, advances have been made on many fronts with the development of novel vectors, adjuvants and antigen design strategies as components of an HIV vaccine.
+HIV Efficacy Trials
+During the 32 y since the discovery of HIV, only four efficacy trials have been performed. Two phase 3 gp120 vaccine trials were conducted, each with a bivalent combination of two strains of HIV gp120 protein formulated in Alum. The VAX004 and VAX003 studies were initiated in 1998 and 1999, respectively, and the results were reported in 2003. These gp120 subunit vaccines showed no significant impact on acquisition of HIV-1 infection and had no impact on plasma viremia or peripheral CD4 T cell count.3,4 The Step trial was a phase IIb proof-of-concept study of MERCK´s Adenovirus 5 (Ad5)-vectored gag/pol/nef vaccine in a three-dose regimen in 3000 volunteers with varying levels of pre-existing immunity to Ad5. Whereas the vaccine was shown to stimulate strong T cell responses, it failed either to protect volunteers from acquisition of infection or to reduce viral load after infection. Post-hoc analyses of men enrolled in the study showed a larger number of HIV infections in the sub-group of vaccinated men who were Ad5 seropositive and uncircumcised compared with a comparable placebo group.5-7 However, the lack of efficacy in the Step trial may be attributed to insufficient potency, antiviral activities and breadth of epitope recognition.
+The last phase 3 trial conducted was the RV144. This study involved 16402 healthy volunteers at low risk of HIV infection in Thailand and evaluated the efficacy of a prime-boost regimen
+
+www.landesbioscience.com
+
+Human Vaccines & Immunotherapeutics
+
+1
+
+using four doses of a recombinant canarypoxvirus (ALVAC) expressing the HIV gag, pro and env genes (vCP1521) along with recombinant gp120 protein with Alum adjuvant at the last two doses (the same gp120 used in the VAX003 study). The results of this study, released in 2009, showed that volunteers in the vaccine group acquired 31.2% fewer HIV-1 infections than those in the placebo group after three years of follow-up.8 This modest efficacy, although not deemed adequate for licensing, was the first indication that a vaccine could protect against HIV-1 infection.
+The prime-boost strategy used in the RV144 trial induced neither broadly neutralizing anti-serum nor broadly reactive cytotoxic T cell responses against HIV. Preliminary analyses of the immune responses demonstrated that binding antibodies to HIV-1 clade B and E gp120s were present in 99% of vaccinated subjects but titers waned approximately 90% over 20 weeks. Antibody-dependent cell-mediated cytotoxicity (ADCC) with HIV-1 clade B and E gp120-coated targets was detected in about 75% of vaccinees for clade B and 25% for clade E. As with binding antibodies, titers were not stable and waned over 20 weeks. Neutralizing antibodies (NAb) targeted a subset of HIV Tier 1 and 2 viruses but were less potent than the failed VAX003 and VAX004 trials.9 Recently, it was reported that the lack of response to a vaccine designed to induce clade-specific NAb to HIV-1 was associated with the presence of certain HLA class II alleles and heterodimers in some Southeast Asians.10 In addition, vaccineinduced CD4+ lymphoproliferation was the most substantial detectable T cell response elicited by the vaccine regimen.9
+At present, only two correlates of risk of infection have been derived from the RV144 study. The first statistically significant correlate was IgG antibodies that bind to HIV-1 V1/V2 region grafted on MuLv gp70 protein. This parameter correlated inversely with the rate of HIV-1 infection and may have contributed to protection. The second was plasma IgA antibodies that bind HIV-1 Env. These IgA antibody responses correlated directly with a 54% increased risk in HIV infection rate among vaccinated volunteers, suggesting that these antibody responses may mitigate the effects of potentially protective antibodies reducing the protective effect of the vaccine regimen.11,12 Overall the results of the RV144 indicated that this vaccine combination was effective in preventing infection but it showed no effect on the levels of viremia and/or CD4 T cell count in vaccinated subjects in whom HIV-1 infection was subsequently diagnosed.
+The results of three failed and one marginally successful trial could be interpreted to mean that antibodies alone or CD8 T cells alone are not effective, and that a combination of B cell, CD4 and CD8 T cell responses need to be elicited by the future vaccine candidates.
+Poxviruses as HIV/AIDS Vaccines
+The RV144 trial provided for the first time evidence that an HIV/AIDS vaccine can prevent HIV-1 infection and highlight that poxvirus vectors should be considered as one of the future HIV/AIDS vaccine candidate vectors.
+Poxviruses, and in particular vaccinia virus (VACV), were among the first animal viruses to be investigated as gene transfer
+
+vectors. Recombinant gene expression by VACV was first demonstrated in 1982.13,14 Since then, poxviruses have been successfully used for molecular biology studies of virus-host cell interactions, for in vitro production and functional characterization of proteins, as well as live vaccines and tools for vaccine research.15,16 Several unique features make poxvirus recombinants excellent candidates as vaccine vectors: (1) The stability of freezedried vaccine,17 its low cost, ease of manufacture and administration; (2) The cytoplasmic site of gene expression; (3) The packing flexibility of the genome, which allows large amounts of the genome to be lost or deleted and foreign DNA to be integrated (at least 25 Kb) without loss of infectivity18; (4) The ability to induce both antibody and cytotoxic T cell responses against foreign antigens with long-lasting immunity after a single inoculation; (5) The extensive preclinical and clinical experience reached and (6) the diminishing prevalence of vaccinia-experienced population due to the interruption of smallpox vaccination in the 1970s following its eradication. Despite these advantages, complications observed in young children and immunocompromised individuals during the Smallpox Eradication Program brought forth concerns regarding the safety of reintroduction of VACV as immunizing agent.19,20 Therefore, one of the approaches undertaken to enhance the safety of VACV has been the development of highly attenuated strains, like modified vaccinia virus Ankara (MVA) or the Copenhagen-derived NYVAC, or the use of members of the genus avipoxvirus such as canarypox (CNPV) and fowlpox (FWPV) viruses. These live viral vector vaccines mimic viral infections hereby eliciting the appropriate innate danger signals to the adaptive immune system.21 Additionally, these replicationdefective viruses provide unique forms of viral vaccines that combine the safety of a killed virus vaccine with the immunogenicity of a live virus vaccine by expressing gene products within cells so the antigens can be presented efficiently by both MHC class I and class II pathways.22 Hence, and because of their safety profile, the attenuated poxvirus strains are prime candidates for generation of recombinant virus-based vaccines against infectious diseases and cancer.23-26 Next, we will describe the specific features of the most widely studied attenuated poxvirus vectors MVA, NYVAC, CNPV (ALVAC) and FWPV and we will summarize their use as HIV/AIDS vaccine candidates in different prophylactic clinical trials in humans.
+MVA
+MVA is a highly attenuated vaccinia virus derived from the chorioallantoid vaccinia virus Ankara (CVA), a Turkish smallpox vaccine, after more than 570 serial passages in primary chicken embryo fibroblasts (CEF).27 The MVA genome has lost about 30 kb of DNA compared with the parental virus strain, with most of the deletions located at both ends of the viral genome, including deletions in genes nonessential for replication, such as genes encoding for immunomodulatory proteins that counteract host immune responses.28 Therefore, MVA has a limited replication capacity in human and most mammalian cell types, where it can replicate, but infectious particles are not formed and therefore the infection does not spread to other cells.21,29 Only in
+
+2
+
+Human Vaccines & Immunotherapeutics
+
+Volume 8 Issue 9
+
+some cell lines, as BHK-21 and CEF, MVA can produce viral progeny.30 The main features of MVA are a highly attenuated phenotype, a safety profile, the capacity to express efficiently foreign genes and the ability to trigger specific strong immune responses to the heterologous antigens, as it was determined in different animal models and in humans.21,23-25
+MVA vectors expressing different HIV-1 antigens have been tested in several clinical trials in humans to determine the safety, efficacy and immunogenicity profiles.23-25 Nowadays, more than 30 prophylactic phase I/II clinical trials have been performed or are ongoing with MVA-based HIV vaccines administered alone or in a prime/boost combination with DNA vectors, as it is summarized in Table 1 (see also: www.iavireport.org). In general, MVA-based HIV vaccines are safe and highly immunogenic. However, the immunogenicity results observed are quite heterogeneous and these differences depend on many parameters, such as the type and number of HIV-1 antigens expressed, the doses of vaccine used, the route of administration, the immunization protocol and the techniques used to analyze the vaccine-induced humoral and T cell responses.
+The first phase 1 clinical trial with an MVA-based HIV vaccine candidate used MVA-HIVA (MVA expressing Gag from HIV-1 clade A and different immunodominant CD8 T cell epitopes), in a DNA prime/MVA boost immunization protocol, and the results obtained showed a modest immunogenicity against HIV-1 antigens, with low percentages of vaccinees with positive IFNc ELISPOT responses,31-35 although higher doses of the same vaccine elicited an increase in the immunogenicity.35 However, new phase 1/2 clinical trials using other different MVA-based HIV vaccine candidates have demonstrated that MVA vaccines are highly immunogenic. For example, vaccination with three doses of MVA-B (MVA expressing Env and Gag-Pol-Nef as a fusion protein of clade B) in healthy volunteers induced broad, polyfunctional and long-lasting CD4+ and CD8+ T cell responses to HIV-1 antigens in most vaccinees, with preference for effector memory T cells and elicited Env-specific antibody responses in 95% of the volunteers.36,37 Moreover, prime/boost immunization regimens using DNA (encoding Env of HIV-1 clades A, B and C; Gag of clades A and B and RT and Rev of clade B) and MVACMDR (expressing Env of HIV-1 clade E and Gag-Pol of clade A) induced strong HIV-specific T cell immune responses in 90­100% of the immunized volunteers,38-40 in spite of preexisting immunity to VACV.41 The same prime/boost immunization regimen, but with two doses of MVA-CMDR, showed also high HIV-specific T cell immune responses in about 86­100% of the vaccinees.39
+With the use of the most advanced methodologies in the characterization of the immune responses triggered by the vaccine candidates, as the polychromatic intracellular cytokine staining (ICS) assay, it has been shown that some MVA-based vaccines elicited mainly CD4+ T cell responses,38,40,42-45 while others induced preferentially CD8+ T cell responses.36,37,39 Furthermore, the specific responses detected against the HIV antigens included in the vaccines also differed, with some MVA-based vectors inducing preferentially Env responses, while others triggered Gag or GPN-specific responses.36,37,42,45 Finally, most of the
+
+MVA-based HIV vaccines were able to induce antibodies against Env in a high number of vaccinees, some with neutralizing capacity.
+NYVAC
+The attenuated NYVAC strain was derived from a plaque-cloned isolate of the Copenhagen vaccine strain (VACV-COP) by the precise deletion of 18 Open Reading Frames (ORFs) implicated in the pathogenicity and virulence of Orthopoxviruses as well as in host-range regulatory functions governing the replication competency of this virus on cells derived from certain species. The resultant vector was proven to be highly attenuated since it failed to disseminate in immunodeficient mice, displayed a dramatically reduced ability to replicate on a variety of human tissue culture cells and was unable to produce infectious virus in humans.49 Despite its limited replication in human and most mammalian cell types, NYVAC provides a high level of gene expression and triggers antigen-specific immune responses when delivered in animals and humans.24
+The potential of recombinants based on NYVAC strain as vaccine carriers against HIV has been studied in some clinical trials using different administration approaches that are summarized in Table 2. Although various protocols have been applied to induce effective immune responses, the prime/boost strategy with heterologous vectors, but using NYVAC recombinants as the boosting immunogen, has proven to be the best choice to elicit high quality antigen-specific immune responses in healthy volunteers.50-52 Combination of DNA and NYVAC recombinants, both expressing the HIV Env, Gag, Pol and Nef antigens from clade C, elicited antigen-specific T cell responses in 90% of vaccinees in contrast with the 33% of response obtained using NYVAC alone. The vaccine-induced T cell responses in volunteers that received the DNA prime/NYVAC boost regimen were broad, polyfunctional, durable and mostly directed against Env antigen. Moreover, this experimental protocol induced the homing of potentially protective HIV-specific CD4+ and CD8+ T cells in the gut, the port of entry of HIV and one of the major sites for HIV spreading and depletion of CD4 T cells.53
+Avipoxviruses
+Avipoxviruses (APVs) belong to the Chordopoxvirinae subfamily of the Poxviridae family. Although APV infections have been reported to affect over 232 species in 23 orders of birds, the knowledge of the molecular and biological properties of APV is largely restricted to canarypox virus (CNPV) and fowlpox virus (FWPV) for which full genome sequences are available.55,56 Molecular comparisons indicate that CNPV and FWPV share 55­71% amino acid identity, with the shorter size of the FWPV genome due to the partial loss of genes, which may reflects its milder virulence. They both express homologous cellular genes with immunomodulatory functions, which might be responsible for their different virulence and host-range,55 but CNPV shows a broader tissue tropism in the permissive avian hosts, generally associated with higher mortality rates57 than FWPV. Both viruses
+
+www.landesbioscience.com
+
+Human Vaccines & Immunotherapeutics
+
+3
+
+4
+
+Table 1. Prophylactic clinical trials using MVA as an HIV/AIDS vaccine candidate. P: Prime; B: Boost; ICS: Intracellular cytokine staining; ND: Non-determined; NAb: Neutralizing antibodies; LPR: Lymphoprolipherative response
+
+Phase
+
+Vaccine
+
+Antigen
+
+Humoral Responses
+
+Cellular Responses
+
+Ref.
+
+I P: 2 x DNA-HIVA Gag p24 and p17 fused to 25 overlapping
+
+B: 2 x MVA-HIVA
+
+CD8+ T cell epitopes (clade A)
+
+Antibodies against p24 in 11% of vaccinees.
+
+ELISPOT: Vaccine induced T cell responses in 89% of vaccinees. 31,34
+
+I
+
+2 x MVA-HIVA Gag p24 and p17 fused to 25 overlapping
+
+CD8+ T cell epitopes (clade A)
+
+I P: 2 x DNA-HIVA Gag p24 and p17 fused to 25 overlapping
+
+B: 1 x MVA-HIVA
+
+CD8+ T cell epitopes (clade A)
+
+2 x MVA-HIVA
+
+Not detected ND
+
+ELISPOT: Vaccine-induced T cell responses in 88% of vaccinees. Low magnitude.
+
+31,34
+
+ELISPOT: Vaccine-induced T cell responses in 50­100% of vaccinees.
+
+46
+
+Short-lived. CD4+ T cell responses . CD8+ T cell responses (91% vs. 31%).
+
+LPR in 25­62% of vaccinees received prime/boost regimen.
+
+I
+
+2 x MVA-HIVA Gag p24 and p17 fused to 25 overlapping
+
+CD8+ T cell epitopes (clade A)
+
+IIa P: 2 x DNA-HIVA Gag p24 and p17 fused to 25 overlapping
+
+B: 2 x MVA-HIVA
+
+CD8+ T cell epitopes (clade A)
+
+I P: 1 x DNA-HIVA Gag p24 and p17 fused to 25 overlapping
+
+B: 1 x MVA-HIVA
+
+CD8+ T cell epitopes (clade A)
+
+ND ND Not detected
+
+ELISPOT: Vaccine-induced T cell responses in 8% of vaccinees.
+
+35
+
+ELISPOT: Vaccine-induced T cell responses in 3­5% of vaccinees.
+
+35
+
+ELISPOT: Vaccine-induced T cell responses in 10­25% of vaccinees. 33
+
+Human Vaccines & Immunotherapeutics
+
+I/II P: 1 x DNA-HIVA Gag p24 and p17 fused to 25 overlapping
+
+ND
+
+B: 1 x MVA-HIVA
+
+CD8+ T cell epitopes (clade A)
+
+ELISPOT: Vaccine-induced T cell responses in 10% of vaccinees.
+
+32
+
+I P: 3 x DNA-HIVIS
+
+P: Env (clades A, B and C);
+
+Antibodies against Env and p24 in 2%
+
+B: 1 x MVA-CMDR Gag (clades A and B); RT and Rev (clade B) and 56% of vaccinees, respectively.
+
+B: Env (clade E);
+
+Gag-Pol (clade A)
+
+ELISPOT: Vaccine-induced T cell responses in 92% of vaccinees (86% to 40 Gag and 65% to Env). CD4+ T cell responses . CD8+ T cell responses.
+LPR in 92% of vaccinees.
+
+I P: 3 x DNA-HIVIS
+
+P: Env (clades A, B and C);
+
+Antibodies against Gag in 40% and
+
+B: 1 x MVA-CMDR Gag (clades A and B); RT and Rev (clade B) 76.4% of vaccinees, with and without
+
+B: Env (clade E);
+
+pre-existing immune responses
+
+Gag-Pol (clade A)
+
+to VACV, respectively.
+
+Antibodies against Env in 2.7% of
+
+vaccinees.
+
+I P: 3 x DNA-HIVIS
+
+P: Env (clades A, B and C);
+
+ND
+
+B: 1 x MVA-CMDR Gag (clades A and B); RT and Rev (clade B)
+
+B: Env (clade E);
+
+Gag-Pol (clade A)
+
+ELISPOT: Vaccine-induced T cell responses in 100% of vaccinees,
+
+41
+
+with and without pre-existing immune responses to VACV. Moderately
+
+lower magnitude of vaccine-induced T cell responses in vaccinees
+
+with pre-existing immune responses to VACV.
+
+LPR in 95% and 100% of vaccinees, with and without pre-existing
+
+immune responses to VACV, respectively. Higher magnitude of LPR
+
+in vaccinees without pre-existing immune responses to VACV.
+
+LPR in 100% of vaccinees (CD4+ . CD8+; 86.8% vs. 21%).
+
+38
+
+I 3 x MVA-CMDR
+
+Env (clade E); Gag-Pol (clade A)
+
+I/II P: 3 x DNA-HIVIS B: 2 x MVA-CMDR
+
+P: Env (clades A, B and C); Gag (clades A and B); RT and Rev (clade B) B: Env (clade E); Gag-Pol (clade A)
+
+Antibodies against Env and p24 in 90% and 100% of vaccinees,
+respectively.
+Antibodies against Env in 90% of vaccinees.
+HIV-1 NAb in 31% (against clade B) and 83% (against clade CRF01_AE)
+of vaccinees.
+
+ELISPOT: Vaccine-induced T cell responses in 90% of vaccinees
+
+42
+
+(Env . Gag; 90% vs. 40%). Low magnitude.
+
+ICS: Polyfunctional CD8+ and CD4+ T cell responses in 30% and 90%
+
+of vaccinees, respectively. Mainly directed against Env. Memory T cell
+
+responses in 60% of vaccinees.
+
+LPR in 100% of vaccinees.
+
+ELISPOT: Vaccine-induced T cell responses in 97% of vaccinees (Gag . Env). 39 ICS: CD8+ and CD4+ T cell responses in 59% and 55% of vaccinees, respectively.
+LPR in 100% of vaccinees.
+
+Volume 8 Issue 9
+
+www.landesbioscience.com
+
+Table 1. Prophylactic clinical trials using MVA as an HIV/AIDS vaccine candidate. P: Prime; B: Boost; ICS: Intracellular cytokine staining; ND: Non-determined; NAb: Neutralizing antibodies; LPR: Lymphoprolipherative response (continued)
+
+Phase I
+
+Vaccine 3 x TBC-M4
+
+Antigen
+Env, Gag, Tat-Rev and nef-RT (clade C)
+
+Humoral Responses
+Antibodies against Env in 100% of vaccinees. No HIV-1 NAb.
+
+Cellular Responses
+
+Ref.
+
+ELISPOT: Vaccine-induced T cell responses in 87­91% of vaccinees 47 (mainly against Env and Gag). Modest magnitude.
+
+I
+
+3 x ADMVA
+
+I
+
+P: 2 x DNA
+
+B: 2 x MVA/HIV62
+
+(DDMM)
+
+P: 1 x DNA
+
+B: 2 x MVA/HIV62
+
+(DMM)
+
+3 x MVA/HIV62
+
+(MMM)
+
+Env, Gag-Pol, Nef-Tat (clade B/C)
+P: Gag, PR, RT, Env, Tat, Rev and Vpu (clade B)
+B: Gag, PR, RT, Env (clade B)
+
+Antibodies against Env in 77% of vaccinees.
+HIV-1 NAb in 83% of vaccinees.
+
+ELISPOT: Vaccine-induced T cell responses in 62% of vaccinees
+
+45
+
+(Env . Pol and Nef-Tat). Low magnitude.
+
+ICS: HIV-specific T cell responses undetectable.
+
+Antibodies against Env in 73% (DDMM)
+
+DDMM: CD4+ T cell responses in 77% of vaccinees (evenly
+
+43
+
+and 96.6% (MMM) of vaccinees.
+
+distributed between Env and Gag). CD8+ T cell responses
+
+HIV-1 NAb in 7% (DDMM) and 30%
+
+in 42% of vaccinees. Long-lasting CD4+ and CD8+ T cell
+
+(MMM) of vaccinees.
+
+responses in 38% of vaccinees.
+
+MMM: CD4+ T cell responses in 43% of vaccinees (directed against Gag).
+
+CD8+ T cell responses in 17% of vaccinees. Long-lasting CD4+ and
+
+CD8+ T cell responses in 8% and 4% of vaccinees, respectively.
+
+Polyfunctional responses (DDMM similar to MMM).
+
+I
+
+3 x MVA-B
+
+Env, Gag-Pol-Nef (clade B)
+
+Antibodies against Env in 95% of vaccinees.
+HIV-1 NAb in 33% of vaccinees.
+
+ELISPOT: Vaccine-induced T cell responses in 75% of vaccinees, (Env . GPN . Gag).
+ICS: Polyfunctional CD8+ and CD4+ T cell responses in 92.3% and 69.2% of vaccinees, respectively. Memory T cell responses in 84.6%
+of vaccinees, with effector memory phenotype.
+
+36,37
+
+I P: 2 x DNA-EP-1233 21 cytotoxic T lymphocyte (CTL) and
+
+ND
+
+B: 2 x MVA-mBN32 18 helper T lymphocyte (HTL) epitopes
+
+from Gag, Pol, Vpr, Nef, Rev and Env.
+
+ELISPOT: Vaccine-induced T cell responses in 4% of vaccinees.
+
+48
+
+ICS: Vaccine-induced T cell responses in 12% of vaccinees.
+
+Human Vaccines & Immunotherapeutics
+
+Table 2. Prophylactic clinical trials using NYVAC as an HIV/AIDS vaccine candidate. P: Prime; B: Boost; NAb: Neutralizing antibodies. ICS: Intracellular cytokine staining; -: No data available
+
+Phase Vaccine
+
+Antigen
+
+Humoral Responses
+
+Cellular Responses
+
+Ref.
+
+I
+
+2 x NYVAC-C Env, Gag-Pol-Nef (clade C)
+
+Low levels of anti-gp140 antibodies in 15% of vaccinees.
+
+ELISPOT: Vaccine-induced T cell responses in 50% of vaccinees.
+
+52
+
+Not durable and mainly against Env.
+
+I/II 2 x NYVAC-C Env, Gag-Pol-Nef (clade C)
+
+Low levels of IgG anti-gp140 antibodies in 27% of volunteers. Short-lived. No NAb.
+
+ELISPOT: Vaccine-induced T cell responses in 33% of vaccinees. Not durable. ICS: HIV-specific T cell responses mediated by CD4+ T cells and mainly directed against Env.
+
+50,51
+
+P: 2 x DNA-C B: 2 x NYVAC-C
+
+High levels of IgG anti-gp140 antibodies in 75% of vaccinees. Short-lived. No NAb.
+
+ELISPOT: Vaccine-induced T cell responses in 90% of vaccinees. ICS: HIV-specific T cell responses mainly mediated by CD4+ T cells and mostly against Env. Vigorous, broad, polyfunctional and durable.
+
+I/II P: 3 x DNA-C Env, Gag-Pol-Nef (clade C)
+
+-
+
+B: 1 x NYVAC-C
+
+ELISPOT: Vaccine-induced T cell responses in 91% of vaccinees.
+
+54
+
+P: 2 x DNA-C B: 2 x NYVAC-C
+
+-
+
+ELISPOT: Vaccine-induced T cell responses in 80% of vaccinees.
+
+5
+
+have been described as unable to replicate and disseminate infection in non-human and human primates,58 but some studies have shown replication of FWPV in non-permissive mammalian cell cultures by the presence of infectious viral particles59 or the occasional presence of immature forms and mature intracellular virus in infected cells.60 However, a recent work demonstrated that despite the complete replication and detection of poxvirus mature virions by electron microscopy in FWPV-infected Vero cells, the new progeny was not infectious.61 Although they do not replicate in mammals, CNPV and FWPV correctly express heterologous genes in human cells when used as recombinant vaccine vectors. However, the more advanced replication cycle, the longer transgene expression in human cells and the more balanced Th1/Th2 cytokine induction might confer to the FWPV-based recombinant vaccines the ability to induce a more effective immune response.61
+Several APV-vectored vaccines have been licensed for commercial veterinary use against some animal infections,26 demonstrating their efficacy as vaccine vectors. The following sections will address the use of CNPV and FWPV-vectored vaccines in the HIV/AIDS field.
+Canarypox Virus (ALVAC)
+ALVAC, a plaque-purified clone derived from an attenuated canarypox virus obtained from the wild-type strain after 200 passages in chick embryo fibroblasts, has been extensively evaluated in preclinical studies with non-human and human primates62-66 and widely used in human clinical trials as an HIV/AIDS vaccine candidate.67,68 Canarypox (ALVAC) vectors, the most extensively studied viral-based HIV vaccine followed by MVA, NYVAC and fowlpox, have been reported to be well tolerated and safe for humans69,70 and to effectively prime the immune system for induction of antibodies and CD8 cell-mediated cytotoxicity by protein antigens. Several clinical trials using ALVAC-based HIV-1 recombinants expressing different HIV-1 antigens and administered alone or in a prime/boost combination with subunit protein vaccines or lipopeptides have been performed or are ongoing (Table 3; see also: www.iavireport.org).
+Initial efforts have focused on products based on the HIV-1 envelope protein, since several Env epitopes have been described to induce NAb and cell-mediated immune responses. However, phase I clinical trials of candidate HIV/AIDS vaccines have confirmed that envelope subunit vaccines, although capable of inducing high titers of antibodies, were extremely inefficient in eliciting CD8+ cytotoxic T lymphocytes (CTLs).71-78 Second generation vaccines using live, recombinant, poxvirus constructs have proven to be far more potent CTL immunogens,79-81 emphasizing the essential role of priming with a live recombinant vector for the induction of a CTL response. A number of trials of various subtype B canarypox-HIV vector primes and boosters with subunits gp120 or gp160 established the prime-boost strategy as a candidate for advanced testing.71,82-85 Canarypoxbased prime-boost regimens induced both cellular and humoral responses but CD8+ responses on ELISPOT assay were low84 and the presence of primary isolate neutralizing antibodies was not
+
+consistently detected.86-90 These preliminary studies led to efficacy testing of this prime-boost regimen in a large (. 16,000 persons) trial initiated in October 2003 in Thailand. The phase III RV144 trial demonstrated a modest efficacy (31.2%) for prevention of HIV acquisition compared with placebo in a modified intentionto-treat analysis.8 The results of this RV144 clinical trial indicated that the vaccine combination was effective in preventing infection but there was no significant difference in the mean viral load and/or in post-infection CD4 T cell counts among subjects who were found to have HIV infection in the vaccine group, as compared with those in the placebo group. Great efforts are being made into the deep characterization of the immune response generated by this vaccine regimen and in the identification of correlates of protection that could be further incorporated in the optimization of new poxvirus-HIV-based vaccine candidates.
+Fowlpox Virus
+FWPV-based vaccine candidates expressing HIV or SIV antigens have been successfully tested in different animal models using diverse immunization approaches. However, the best immune responses have been elicited in prime-boost combinations.103-109 At present, only limited data are available on the use of FWPVbased HIV prophylactic vaccines in humans (Table 4). The conducted clinical trials have shown a good safety profile of the vector, but contrasting data have been obtained in humans, where their safety has not always been paralleled by high immunogenicity, as in macaques. The use of DNA prime expressing 65% of the HIV-1 genome including gag, pol, env, tat and rev, and recombinant FWPV boost contained gag and pol, all from clade B, was no immunogenic when tested in healthy volunteers enrolled in a phase I/IIa clinical trial.110 The same results were obtained using identical immunization regimen, but with higher doses of DNA and FWPV vectors containing homologous HIV-1 clade A/E sequences.111 Interestingly, these vaccines elicited both CD4+ and CD8+ T cell responses in non-human primate models.104-106 Better immunogenic profiles were obtained recently in a phase I trial using different combinations of recombinant MVA and FWPV vectors containing matching HIV-1 inserts.44 Although FWPV-HIV was poorly immunogenic when given alone, it significantly induced HIV-specific CD4+ and CD8+ T cell responses when used as a booster after two MVA-HIV doses. These results better correlated with the preclinical data in monkeys109 and highlight that future evaluation of FWPVvectored vaccines should be addressed in prime-boost regimens.
+Preexisting immunity to viral vectors is a major issue for the development of viral-vectored vaccines. In addition to the general features of poxviruses, CNPV and FWPV do not elicit high levels of NAb against themselves, which allows the use of multiple doses of the vectors without affecting their potency. Moreover, CNPV and FWPV do not immunologically cross-react with orthopoxviruses and can be used in previously vaccinia-experienced individuals or in combination with other poxvirus strains, circumventing the potential neutralization of the vector.91 In the context of preexisting immunity to poxvirus vectors, longterm persistence of vaccinia-specific memory T cells in vaccinated
+
+6
+
+Human Vaccines & Immunotherapeutics
+
+Volume 8 Issue 9
+
+www.landesbioscience.com
+
+Table 3. Prophylactic clinical trials using ALVAC as an HIV/AIDS vaccine candidate. P: Prime; B: Boost; ADCC: Antibody-dependent cell-mediated cytotoxicity; LPR: Lymphoprolipherative response; CTL: Cytotoxic T lymphocyte; ICS: Intracellular cytokine staining; NAb: Neutralizing antibodies; TM: Transmembrane; MN, LAI, SF-2, GNE8 and IIIB strains all from clade B
+
+Phase I
+
+Vaccine
+P: 2 x ALVAC-HIV (vCP125)
+B: 2 x rgp160
+
+Antigen
+P: gp160 (HIV-1MN) B: rgp160 (HIV-1 MN/LAI)
+
+Humoral Responses
+vCP125 alone did not elicit antibodies. NAb against MN isolate in 65% and 90% of the subjects after 1st and 2nd rgp160 boosters, respectively. Six months after the last boost,
+only 55% were still positive.
+
+Cellular Responses
+
+Ref.
+
+LPR: gp160-specific LPR in 25% of subjects after vCP125 injections and in 100% of volunteers after 1st booster and
+12 mo after 1st injection. CTL: Env-specific CD8+ CTL activity in 39% of volunteers and still present 2 y after initial immunization in 2/3 of subjects tested.
+
+79,81
+
+Human Vaccines & Immunotherapeutics
+
+I P: (2, 4) x ALVAC-HIV (vCP125) (effect of dose) B: (0, 2) x SF-2 rgp120
+
+P: gp160 (HIV-1MN) B: rgp120 (HIV-1SF-2)
+
+vCP125 + rgp120 regimen elicited more frequent (. 85%) HIV-1MN and HIV-1SF-2
+V3-specific antibodies.
+Fusion-inhibition antibodies to both HIV-1MN and HIV-1SF-2 only in vCP125 + rgp120 recipients (. 30%). HIV-1MN and HIV-1SF-2 NAb in 100% of vCP125 + rgp120 recipients, in , 65%
+of vCP125 alone recipients and in . 55% of rgp120 alone recipients.
+
+ADCC: Responses to HIV-1MN and HIV-1SF-2 rgp120 targets 80,91,92 more often (70%) in vCP125 high dose + rgp120 recipients
+after 4th injection. LPR: HIV-1LAI or HIV-1MN rgp160-specific LPR more often in vCP125 + rgp120 recipients 2 weeks after 4th immunization. CTL: For low-dose regimen, Env-specific CTL responses in 25% of subjects immunized with 2 or 3 injections of vCP125. For high-dose regimen, vCP125 + rgp120 regimen elicited
+CD8+ CTL activity more often (37%) than immunization with vCP125 (22%) or rgp120 (10%) alone. Memory CD8+ T cell response against HIV-1MN rgp160 in 22% of vCP125 + rgp120
+recipients. Reported cross-clade CTL reactivities.
+
+I
+
+P: 4 x ALVAC-HIV
+
+(vCP205)
+
+B: 2 x SF-2 rgp120
+
+P: gp120 (HIV-1MN) linked to
+
+vCP205 injections did not result in detectable V3 Env/Gag-specific CD8+ CTLs induced at least once in 64%
+
+83
+
+TM domain of gp41 (HIV-1LAI);
+
+peptide binding or NAb to HIV-1MN or HIV-1SF-2.
+
+of volunteers.
+
+Gag and protease (HIV-1LAI)
+
+rgp120 additional boosts resulted in 100%
+
+B: rgp120 (HIV-1SF-2)
+
+volunteers exhibiting binding or NAb to both
+
+V3 peptides MN and SF-2. 87.5% volunteers
+
+developed NAb to the primary isolate BZ167
+
+but to none of 8 other primary isolates.
+
+I P: (0, 3, 5) x ALVAC-HIV
+
+P: gp120 (HIV-1MN) linked to
+
+(vCP205)
+
+TM domain of gp41 (HIV-1LAI);
+
+B: (0, 3) x CLTB-36
+
+Gag and protease (HIV-1LAI)
+
+B: p24E-V3 MN synthetic peptide
+
+vCP205 induced low levels of NAb against MN CTL activity in 33% of volunteers immunized with vCP205,
+
+93
+
+strain in 33% of volunteers after 4th injection. mainly after 4th injection and directed against Env, Gag and Pol.
+
+NAb against a non-syncytium-inducing
+
+CLTB-36 peptide induced no CTLs.
+
+clade B primary isolate (Bx08) not detected.
+
+CLTB-36 peptide induced no NAb.
+
+I P: (3­6) x ALVAC-HIV (vCP205)
+B: 2 x SF-2 rgp120
+
+P: gp120 (HIV-1MN) linked to TM domain of gp41 (HIV-1LAI);
+Gag and protease (HIV-1LAI) B: rgp120 (HIV-1SF-2)
+
+vCP205 + rgp120 regimen resulted in NAb to MN strain in 91% of subjects (rgp120 boost
+enhanced titer and frequency of NAb to HIV-1MN from 70% to 91%).
+
+vCP205 + rgp120 regimen elicited durable Env/Gag-specific CD8+ T cell responses in 62% of subjects (rgp120 boost did not increase Env-CD8+ CTL response). Cross-clade CTL reactivities reported.
+
+85,92
+
+II
+
+P: 4 x ALVAC-HIV
+
+P: gp120 (HIV-1MN) linked to
+
+Binding antibodies to SF-2 antigen 2 weeks after
+
+LPR: Proliferative responses in 28% of volunteers.
+
+94
+
+(vCP205)
+
+TM domain of gp41 (HIV-1LAI);
+
+2nd, 3rd and 4th vaccinations in , 5% of vCP205
+
+Significantly more frequent Env-specific LPR among
+
+B: (0, 4) x SF-2 rgp120
+
+Gag and protease (HIV-1LAI)
+
+alone recipients at all times and in 53%, 92%
+
+recipients of the combination vCP205 + rgp120 than
+
+B: rgp120 (HIV-1SF-2)
+
+and 93% of vCP205 + gp120 recipients, respectively. NAb to MN strain in 94% of vCP205 + gp120
+
+among recipients of vCP205 alone. CTL: Env/Gag-specific CD8+ CTLs in 33% of vaccinees
+
+recipients and in 56% of subjects given vCP205 alone.
+
+at some time point.
+
+I P: (3­6) x ALVAC-HIV
+
+P: gp120 (HIV-1MN) linked to
+
+NAb to MN strain in 87% of vaccinees. rgp120
+
+Number of doses of vCP205 as a significant predictor of
+
+95
+
+(vCP205) (high dose)
+
+TM domain of gp41 (HIV-1LAI); boost as the strongest predictor of NAb response. CTL response. Frequency of CTL responses after 2, 3, 4, 5
+
+B: (0­6) x SF-2 rgp120
+
+Gag and protease (HIV-1LAI)
+
+Significant increased NAb response in volunteers
+
+and 6 doses was 19%, 30%, 42%, 42% and 18%,
+
+B: rgp120 (HIV-1SF-2)
+
+who received vCP205 followed by rgp120
+
+respectively. rgp120 boost did not affect CTL response.
+
+compared with volunteers who received
+
+Vaccine regimen induced a durable CTL response.
+
+both vaccines simultaneously.
+
+7
+
+8
+
+Table 3. Prophylactic clinical trials using ALVAC as an HIV/AIDS vaccine candidate. P: Prime; B: Boost; ADCC: Antibody-dependent cell-mediated cytotoxicity; LPR: Lymphoprolipherative response; CTL: Cytotoxic T lymphocyte; ICS: Intracellular cytokine staining; NAb: Neutralizing antibodies; TM: Transmembrane; MN, LAI, SF-2, GNE8 and IIIB strains all from clade B (continued)
+
+Phase
+
+Vaccine
+
+Antigen
+
+Humoral Responses
+
+Cellular Responses
+
+Ref.
+
+I
+
+4 x ALVAC-HIV
+
+(vCP205)
+
+gp120 (HIV-1MN) linked to TM domain of gp41 (HIV-1LAI); Gag and protease (HIV-1LAI)
+
+NAb to primary and cell line-adapted clade B CTL: Clade B Env/Gag-specific CTL responses in 20% of vaccinees. 96
+
+strains in 10% and 15% of vaccinees,
+
+ELISPOT: Clade B Env/Gag-specific CD8+ T cell responses
+
+respectively. NAb responses against
+
+in 45% of vaccinees.
+
+clades A and D not detected.
+
+Cross-reactivity against clade A or D antigens reported.
+
+I 4 x ALVAC-HIV (vCP205) subcutaneously via ex vivo transfected
+autologous DCs (DC arm) 4 x ALVAC-HIV (vCP205) intradermally (i.d. arm) 4 x ALVAC-HIV (vCP205) intramuscularly (i.m. arm)
+
+gp120 (HIV-1MN) linked to TM domain of gp41 (HIV-1LAI); Gag and protease (HIV-1LAI)
+
+ALVAC vector elicited strong responses in all
+
+LPR: Mainly mediated by CD4 T cells and most frequent in
+
+97
+
+vaccination groups. This response decreased
+
+DC arm (57% of subjects responded to at least one of
+
+but remained positive 18 mo after vaccination.
+
+the HIV-1 antigens tested with 43% responding to
+
+gp160 responses were highest in i.m. arm
+
+all 3 antigens, AT-2 HIV, gp160 and p24) with at least
+
+and comparable in i.d. and DC arms, decreased
+
+18-mo durability after the final vaccination.
+
+over time and not detected 18 mo after CTL: Env-specific CD8 CTL responses in 25% of subjects in i.m. arm.
+
+vaccination. gag p24 responses were lowest ELISPOT: Modest cellular CD8 responses in 29% of subjects in DC
+
+in magnitude and not detected in DC arm. arm (gag-specific) and in 12.5% of subjects in i.m. arm (env-specific).
+
+Human Vaccines & Immunotherapeutics
+
+I
+
+4 x ALVAC-HIV
+
+gp120 (HIV-1MN) linked to TM domain 46% of the high-dose recipients had low titers Env/Gag-specific CTL responses in 8% of high-dose recipients 98
+
+(vCP1452)
+
+of gp41 (HIV-1LAI); Gag and protease of binding antibodies to Gag compared with
+
+and in 16% of regular-dose recipients.
+
+(high vs. regular dose) (HIV-1LAI); synthetic polypeptide
+
+14% observed in the regular-dose recipients.
+
+encompassing several human nef
+
+Six months after last vaccination antibody
+
+and pol epitopes; E3 and K3 VACV responses had decreased significantly (7% and
+
+proteins
+
+4% for high- and regular-doses, respectively).
+
+In both high- and regular-dose groups, low titers
+
+of NAb against HIV-1MN in 92% of subjects.
+
+II
+
+P: 4 x ALVAC-HIV
+
+P: gp120 (HIV-1MN) linked to TM
+
+Peak of anti-gag p24 and anti-gp120 binding Cellular immune responses did not differ between vaccinees 99
+
+(vCP1452)
+
+domain of gp41 (HIV-1LAI);
+
+antibodies in both vaccine groups after 4th and placebos. The only exception was LPR after 4th vaccination,
+
+B: (0, 2) x MN rgp120
+
+Gag and protease (HIV-1LAI);
+
+vaccination. Anti-gag p24 responses between for which the net response rate to rgp120 in vCP1452 + rgp120
+
+synthetic polypeptide encompassing 2 vaccine groups not significantly different
+
+was statistically significant (26%).
+
+several human nef and pol epitopes;
+
+(60% in vCP1452 recipients vs. 47% in
+
+E3 and K3 VACV proteins
+
+vCP1452 + rgp120 recipients). Combination
+
+B: rgp120 (HIV-1MN)
+
+regimen statistically significant higher responses to anti-gp120 (95% vs. 70% in vCP1452 alone).
+
+vCP1452 + rgp120 group had higher titers of
+
+NAb against MN strain than vCP1452 alone. In this
+
+group, NAb titers higher after 1 protein boost than
+
+after 2 boosts. Very weak neutralization activity
+
+against heterologous reference strains.
+
+II
+
+P: 4 x ALVAC-HIV
+
+(vCP1452)
+
+P: gp120 (HIV-1MN) linked to TM domain of gp41 (HIV-1LAI);
+
+Anti-gag p24 binding antibodies detected
+
+Net cumulative HIV-specific CD8+ IFN-c ELISPOT assay
+
+84
+
+2 weeks after the final vaccination in all vaccine responses (against env, gag, pol or nef) in 13% of vCP1452
+
+B: (0, 2,3) x AIDSVAX B/B Gag and protease (HIV-1LAI);
+
+groups with response rates ranging from 23% to alone recipients and in 16% of vCP1452 + rgp120 recipients.
+
+synthetic polypeptide encompassing 36% (no significant difference between vaccine
+
+several human nef and pol epitopes; groups). NAb to MN strain detected in all vaccine
+
+E3 and K3 VACV proteins
+
+groups, with net responses ranging from 57% to
+
+B: rgp120 (HIV-1MN) + rgp120
+
+94%. Magnitude and frequency of NAb titers to
+
+(HIV-1GNE8)
+
+HIV-1MN higher in groups receiving rgp120
+
+compared with vCP1452 alone.
+
+Volume 8 Issue 9
+
+www.landesbioscience.com
+
+Table 3. Prophylactic clinical trials using ALVAC as an HIV/AIDS vaccine candidate. P: Prime; B: Boost; ADCC: Antibody-dependent cell-mediated cytotoxicity; LPR: Lymphoprolipherative response; CTL: Cytotoxic T lymphocyte; ICS: Intracellular cytokine staining; NAb: Neutralizing antibodies; TM: Transmembrane; MN, LAI, SF-2, GNE8 and IIIB strains all from clade B (continued)
+
+Phase
+
+Vaccine
+
+Antigen
+
+Humoral Responses
+
+Cellular Responses
+
+Ref.
+
+I P: (2, 4) x ALVAC-HIV P: gp120 (HIV-1MN); TM domain of
+
+Binding (MN gp120, MN V3 loop, SF-2 gp120,
+
+CD8+ CTL responses in 61% of volunteers at any time point 100
+
+(vCP300)
+
+gp41 (HIV-1IIIB); Gag and protease
+
+SF-2 gp120 V3 loop) or NAb (MN and SF-2
+
+during the trial. 3­6 mo after last immunization (12 mo),
+
+B: (0, 2, 4) x SF-2 rgp120 (HIV-1IIIB); 3 CTL-dense regions of
+
+strains) more frequent and of higher titer in 39% of all vaccinees had CD8+ CTLs against at least 1 antigen.
+
+pol (HIV-1LAI); 2 CTL-dense regions
+
+vCP300 + rgp120 recipients compared with
+
+Durable response rates at the 12-mo time point were:
+
+of nef (HIV-1LAI)
+
+vCP300 alone recipients. Simultaneous vaccination
+
+32% to gag, 22% to env, 19% to pol and 16% to nef.
+
+B: rgp120 (HIV-1SF-2)
+
+with vCP300 + rgp120 led to earlier development
+
+of an antibody response than sequential vaccination.
+
+I/II
+
+P: 4 x ALVAC-HIV P: CRF01_AE gp120 (92TH023) linked 95% of group 1 vaccinees (200 mg AIDSVAX B/E) ADCC: Activity to subtype B and to CRF01_AE in 96% and
+
+(vCP1521)
+
+to TM domain of gp41 (HIV-1LAI);
+
+had anti-MN and 86% had anti-A244 binding
+
+84% of vCP1521 + AIDSVAX B/E volunteers, respectively
+
+B: (0, 2) x AIDSVAX B/E
+
+Gag and protease (HIV-1LAI)
+
+antibodies 2 weeks after 4th vaccination.
+
+(2 different doses)
+
+B: CRF01_AE rgp120 (HIV-1A244) + 100% of group 2 vaccinees (600 mg AIDSVAX B/E)
+
+(11% and 7% in placebo group). LPR: Responses to gp120 clade E or gp120 MN in 63%
+
+rgp120 (HIV-1MN)
+
+had anti-MN and 96% had anti-A244 binding antibodies at the same time.
+
+or 61% of volunteers, respectively. CTL: HIV-specific CD8+ CTL responses against both
+
+47% of vCP1521 recipients positive for
+
+subtype B gag/pol antigens and subtype E gp120 in
+
+anti-p24 binding antibodies.
+
+24% of the subjects.
+
+NAb to MN or E strains in 98% or 71%, respectively,
+
+of vCP1521 + AIDSVAX B/E (high dose) subjects
+
+and in 100% or 47% of vCP1521 + AIDSVAX B/E
+
+(low dose) recipients.
+
+89,101
+
+Human Vaccines & Immunotherapeutics
+
+I/II P: 4 x ALVAC-HIV P: CRF01_AE gp120 (92TH023) linked
+
+Binding antibodies to CRF01_AE gp120
+
+LPR: HIV-specific responses in 84% of subunit-boosted recipients 90
+
+(vCP1521)
+
+to TM domain of gp41 (HIV-1LAI);
+
+(92TH023) in 100% prime-boost subjects. (10% of placebo subjects). 93%, 84% and 87% of gp160-boosted
+
+B: 2 x oligomeric
+
+Gag and protease (HIV-1LAI)
+
+Binding antibodies to p24 in 38% and 33% of recipients developed specific responses to CM235, SF-2 and
+
+gp160 (ogp160) or B: oligomerc gp160 (CRF01_AE gp120 gp120- or gp160-boosted subjects, respectively. 92TH023, respectively; 68%, 75% and 55% of gp120 recipients
+
+2 x bivalent gp120 strain 92TH023 + subtype B gp41 NAb to CRF01_AE and subtype B laboratory strains proliferated to CM235, SF-2 and 92TH023, respectively.
+
+strain LAI) or bivalent gp120
+
+in 95% of ogp160-boosted recipients and in CTL: Cumulative HIV-specific CD8+ CTL responses not statistically
+
+(subtype B gp120 strain SF2 +
+
+100% of gp120-boosted vaccinees, respectively.
+
+significant compared with those in placebo recipients.
+
+CRF01_AE gp120 strain CM235)
+
+III
+
+P: 4 x ALVAC-HIV P: CRF01_AE gp120 (92TH023) linked
+
+(vCP1521) B: 2 x AIDSVAX B/E
+
+to TM domain of gp41 (HIV-1LAI); Gag and protease (HIV-1LAI) B: bivalent gp120 (subtype B
+
+gp120 strain MN + CRF01_AE
+
+gp120 strain A244)
+
+Binding antibodies to gp120 MN or gp120 A244 in 98.6% of vaccinees 6 mo after last immunization. Anti-p24 binding antibodies
+in 52.1% of vaccinees at the same time.
+
+LPR: Proliferative responses against gp120 MN, gp120 A244 or p24 in 87.3%, 90.1% and 49.3% of vaccinees, respectively,
+6 mo after the final dose. ELISPOT: Env/Gag-specific T cell responses in 19.7% of
+vaccinees 6 mo after the last immunization. ICS: Env-specific CD4+ T cells in 34% of vaccinees.
+
+8,102
+
+9
+
+ELISPOT: Vaccine-induced T cell responses in 46% of vaccinees. ICS: Polyfunctional CD4+ and CD8+ T cell responses in 40% and
+21% of vaccinees, respectively, after 4 doses. Long-lasting CD4+ and CD8+ T cell responses in 14% of vaccinees.
+
+ELISPOT: Vaccine-induced T cell responses in 65% of vaccinees. ICS: Polyfunctional CD4+ and CD8+ T cell responses in about 50%
+of vaccinees after 4 doses. Long-lasting CD4+ and CD8+ T cell responses in 29% and 42% of vaccinees, respectively.
+
+Binding anti-p24 antibodies in 14.3% of vaccinees ICS: Poorly immunogenic. The highest HIV-specific T cell response 44 only after 3 doses. No anti-gp120 response. Short-lived. rate detected after 3 doses (17% in CD4+ T cells). Short-lived.
+
+111
+
+ICS : No vaccine-induced CD4+ or CD8+ T cell responses.
+
+ICS : No differences between vaccine and placebo recipients 110 for Gag or Pol-specific T cell immune responses.
+
+Ref.
+
+Cellular Responses
+
+Binding anti-p24 and anti-gp120 antibodies in about 20% and 67% of vaccinees, respectively, after 3 and 4 doses. Rarely detected at the end
+of the study.
+
+Binding anti-p24 and anti-gp120 antibodies in about 37% and 17% of vaccinees, respectively, after 3 and 4 doses. Rarely detected at the end
+of the study.
+
+Humoral Responses ND
+No detected
+
+Table 4. Prophylactic clinical trials using FWPV as an HIV/AIDS vaccine candidate. P: Prime; B: Boost; ND: Non-determined
+
+individuals has been reported.112 This study showed that proliferative vaccinia-specific memory responses persisted in 72.5% of the vaccinees and are not influenced by the time since priming or vaccine recalls. IFN-c vaccinia-specific effector memory responses were detected in only 20% of the subjects, declined 45 y after priming independently of recalls and are always associated with a proliferative memory response. It has also been demonstrated that re-vaccination boosted both IFN-c and proliferative responses independently of the time since priming.112 However, the key issue is to determine the effect of such preexisting immunity to the vaccinia vector on the immunogenicity and efficacy of a poxvirus-based HIV vaccine. In this regard, it has been recently reported that preexisting immunity to vaccinia vector decreased SIV-specific CD8 and CD4 T cell responses but preserved SIV-specific humoral immunity and efficacy of a DNA/MVA vaccine in the rhesus macaque model using a pathogenic intrarectal SIV251 challenge.113 The impact of preexisting immunity to vaccinia virus on the immunogenicity against HIV-1 antigens has also been evaluated after immunization of healthy volunteers with an HIV-1 DNA prime/MVA boost vaccine.41 The results of this study showed that preexisting immunity to vaccinia vector decreased the magnitude of the responses but not the proportion of HIV-1 responders.41
+Optimization of Poxvirus Vector-Based HIV/AIDS Vaccine Candidates: Deletion of Immunomodulatory Genes and Attenuated Replication Competent Vectors
+The phase III RV144 clinical trial in Thailand using poxvirus vector ALVAC plus AIDSVAX (two gp120 proteins) showed for the first time that an HIV vaccine can prevent HIV infection.8 Although the protective effect was modest (31.2%), these encouraging results reinforce the use of poxvirus vectors as HIV/AIDS vaccine candidates. However, novel, more efficient and optimized poxvirus vector-based HIV vaccines with the ability to enhance the magnitude, breadth, polyfunctionality and durability of the immune responses to HIV-1 antigens, together with an induction of NAb, are desirable. Thus, in an effort to generate optimized poxvirus vector-based HIV vaccines, several approaches are followed. Among them, we will focus in the removal of selected immunomodulatory genes in the VACV genome of MVA and NYVAC and in the generation of attenuated replication competent viruses.23-25
+Although attenuated poxvirus vectors, as MVA and NYVAC, have deletions in several genes compared with their parental strains,28,49 they still retain several immunomodulatory genes encoding proteins that can interfere with host immune responses, whose deletion may result in an increased immunogenicity against the foreign antigens.114,115 The deletion of these genes would improve vaccine safety and immunogenicity because the immune system will now be activated more readily and will be able to detect and eliminate virions and virus-infected cells more efficiently. Therefore, MVA and NYVAC poxvirus vector-based HIV vaccines with deletions in single and multiple immunomodulatory VACV genes which antagonize host specific immune responses have been generated and the overall results obtained in
+
+Antigen P: Gag, Pol, Env, Vpu, Tat and Rev (clade B) B: Gag and Pol (clade B) P: Gag, Pol, Rev, Tat, Env and Nef (clade A/E) B: Gag/Pol, Env, Tat/Rev
+(clade A/E) Env/Gag, Tat/Rev/Nef-RT
+(clade B)
+
+5 x MVA-HIV
+
+P: 2 x MVA-HIV B: 3 x FPV-HIV
+
+5 x FPV-HIV
+
+I/IIa P: 3 x DNA-HIV-AE B: 1 x FPV-HIV-AE
+
+Vaccine P: 2 x DNA-HIV-B B: 1 x FPV-HIV-B
+
+I
+
+Phase I/IIa
+
+10
+
+Human Vaccines & Immunotherapeutics
+
+Volume 8 Issue 9
+
+preclinical studies showed an important immunological benefit with a significant enhancement in the immunogenicity against HIV antigens compared with their parental poxvirus-based HIV vaccines.116-119 For example, new optimized MVA-B HIV/AIDS vaccine candidates with single or multiple deletions in certain VACV immunomodulatory genes were able to induce in mice after a DNA prime/poxvirus boost immunization protocol a significant increase in the magnitude, quality and durability of CD4+ and CD8+ HIV-specific T cell responses, and in the antibody responses against gp120, when compared with the parental MVA-B.116,117 Interestingly, these MVA-B deletion mutants induced CD8+ T cell responses mainly directed against GPN, compared with the parental MVA-B in which CD8+ T cell responses were mainly directed against Env and Gag. A more evenly distributed immune response has been reported with an MVA-C recombinant expressing Env and GPN of HIV clade C with a deletion of the viral gene encoding IL-18 binding protein.120
+Regarding NYVAC-based vectors, NYVAC-C HIV/AIDS vaccine candidates (expressing clade C HIV antigens) with single or multiple deletions in certain VACV immunomodulatory genes that antagonize the IFN system, also showed enhanced immunogenicity in mice and expression of IFN and IFN-induced genes in DCs.118,119,121 In addition, re-insertion of host-range genes K1L and C7L into the NYVAC-C vector-based HIV vaccine (termed NYVAC-C-KC) restores replication competence in human cells, but still retains a highly attenuated phenotype.118,119 Finally, the HIV/AIDS vaccine candidate NYVAC-C with a combination of replication capacity in human cells and deletion of immunomodulatory genes that antagonize the IFN system has also been generated, with improved immunological features.118,119
+Deletion of other VACV genes present in the genomes of MVA and NYVAC are being analyzed for further improvements in immunogenicity of these poxvirus vectors. It will be important to establish in future studies highly optimized MVA and NYVACbased vectors that could be used alone or in combination with other immunogens as more potent vaccines.
+Which Poxvirus Vector?
+Taking into consideration all of the background information and the detailed characterization described in this review for the different poxvirus vectors, the results thus far obtained from many clinical trials in humans showed that poxviruses are on top of the iceberg to be considered as candidate immunogens in a future HIV/AIDS vaccine. However, not all the different poxvirus vectors behaved in a similar way or induced the same immunogenicity profile. These important differences have to be considered, and a critical analysis is necessary when selecting the right vector based on different criteria, such as safety, clinical benefits, immunogenicity profiles, and vector production for mass coverage, among other features. Further results obtained from new clinical trials will help to define which vector has more advantages as a final HIV/AIDS vaccine. Regarding safety, it is well established that all the different poxvirus vectors currently tested in clinical trials are safe, with minimal side effects
+
+particularly after receiving the first immunizing dose. Regarding clinical benefits, ALVAC is the poxvirus vector which has been used more times in clinical trials in humans, and until now it is the only one that has been tested in a phase III clinical trial (RV144) showing some efficacy. The results obtained from the RV144 trial are highly valuable, and some important correlates of protection have now been established. MVA is the next poxvirus vector more times analyzed in clinical trials, using different MVAbased HIV/AIDS vaccines. On the other hand, only one NYVAC-based HIV/AIDS vaccine (NYVAC-C) has been tested in prophylactic clinical trials, and few fowlpox-based HIV/AIDS vaccines are also available.
+The immunogenicity profile elicited by the different poxvirusbased HIV/AIDS vaccine is one of the most important parameters to be considered in the choice of a future vaccine. Thus, are all poxvirus vectors activating similar immune mechanisms? From cell signaling studies, host cell gene activation pathways and type of immune responses induced by the poxvirus vectors, it is clear that each poxvirus vector triggers somehow similar but also distinct host cell signals and immune responses compared with the other vectors. The in vitro and in vivo properties of each vector must be taken into consideration when the choice of a poxvirus vector for clinical studies is under evaluation. Undoubtedly, there is a benefit when considering the poxvirus activation of long-term T cell memory responses and neutralizing capacity against HIV isolates. From the RV144 trial these immune parameters wane more rapidly than what has been observed in other clinical studies with MVA and NYVAC vectors. Since these vectors when administered as booster in combination with other vaccine candidates elicit broad immune responses against the target HIV antigen, the question is if we can improve the quantity and quality of both humoral and cellular immune responses by the type of protocol employed. Indeed, the efficacy observed in the RV144 trial strongly suggests that activation of both arms of the immune system will be needed for protection and that improved poxvirus vectors should be developed.
+A question pending is the use of the poxvirus vectors to enhance antibody responses to HIV, which should be further explored. In fact, most studies with poxvirus vectors have been planned for activation of T cell responses to different HIV antigens, including Env. New forms of Env, with various degrees of glycosylation, containing all possible human B and T cell epitopes and/or directing them to activate B cells, can be engineered in the poxvirus genome and tested in animal models. Finding a form of Env capable of triggering broadly and sustainable neutralizing antibody responses against HIV should be the goal.
+Overall, in view of the results obtained thus far with the different clinical trials involving poxvirus vectors, it is clear that these vectors fulfill many of the requirements we can consider important for an HIV/AIDS vaccine, like activating potent immune responses (humoral and cellular) that are broad, polyfunctional and durable of an effector phenotype. Moreover, the combination of ALVAC/gp120 induced antibodies of high avidity directed to the V1/V2 loop of Env. Therefore, which poxvirus vector will be used as a future HIV/AIDS vaccine will
+
+www.landesbioscience.com
+
+Human Vaccines & Immunotherapeutics
+
+11
+
+depend on different immune parameters. While at present we cannot recommend one over another poxvirus vector, the immunological differences and similarities between MVA, NYVAC, ALVAC and Folwpox should be taking into consideration. Studies should aim to find out the best poxvirus vector or its combination with other immunogens, resulting on immune characteristics relevant for the control of HIV infection.
+Concluding Remarks
+The RV144 phase III clinical trial and its follow-up study in vaccinees has been instrumental for expansion of the HIV vaccine field, as the pursuit of an effective vaccine against HIV/AIDS is now regarded as a reachable goal within the next 10 y. Although we are still limited in the number of correlates of protection that are found associated with reduced incidence of infection in RV144 participants, current research with monkey models and clinical trials indicate that certain immune parameters, as activation of cellular (polyfunctional and effector memory CD4+ and CD8+ T cells) and humoral responses (binding antibodies to V1V2-loops and NAb against Tier 1 and 2 viruses) are good indicators for potential protective efficacy of a vaccine against HIV infection.
+What have we achieved thus far? As reviewed here, new information on activation of specific immune responses to HIV antigens in various phase I/II clinical trials has emerged with the use of poxvirus vectors, either alone or in combination with other vectors. The different poxvirus platforms (ALVAC, MVA, NYVAC and fowlpox) are being intensively studied and we will learn more from the ongoing and planned clinical trials. It should be pointed out that in this review we only cover prophylactic and not therapeutic clinical trials with the poxvirus vectors, as more emphasis has been played in the HIV field in prophylactic vaccines.
+Considering the immune responses triggered by the poxvirus vectors MVA and NYVAC in clinical trials, it becomes evident
+
+that these vectors are excellent HIV/AIDS vaccine candidates but further exploration is needed. In fact, improvements on the immune characteristics of these vectors have been achieved by the selective deletion of viral immunomodulatory genes still present in the genome of these viruses and by the incorporation of host range viral genes, giving them replication capacity in human cultured cells while maintaining the highly attenuated phenotype. The role of these genetic improvements in MVA and NYVAC will be known in the planned clinical trials.
+In summary, in prophylactic clinical trials, the attenuated poxvirus vectors ALVAC, MVA, NYVAC and fowlpox have proven to be good activators of specific immune responses, and while the immune efficiency of each vector shows similarities and differences between them, in general both MVA and NYVAC are given higher immune response parameters than the other vectors. In the years ahead, we will see how these vectors gained further recognition as candidate HIV/AIDS vaccines. Which of the poxvirus vectors will be selected for future use, either alone or in combination with other vectors, protein components and/or adjuvants, will be defined in the next few years from results of the clinical trials. It will not be surprising if depending on the protocol of immunization and benefits, the selection of one vs. another of the poxvirus vectors described here is preferentially used in future HIV/AIDS vaccination programs.
+Acknowledgments
+The investigation in the laboratory of Mariano Esteban was supported by grants from the Ministry of Science and Innovation of Spain (SAF2008­02036), FIPSE (360731/09), EU (LSHPCT-2006­037536) and PTVDC/CAVD program with support from the Bill and Melinda Gates Foundation. We are grateful to the members of the lab for their help in the day-to-day activities and comments.
+
+References
+1. Bailey RC, Moses S, Parker CB, Agot K, Maclean I, Krieger JN, et al. Male circumcision for HIV prevention in young men in Kisumu, Kenya: a randomised controlled trial. Lancet 2007; 369:643-56; PMID:17321310; http://dx.doi.org/10.1016/S01406736(07)60312-2
+2. Abdool Karim Q, Abdool Karim SS, Frohlich JA, Grobler AC, Baxter C, Mansoor LE, et al. CAPRISA 004 Trial Group. Effectiveness and safety of tenofovir gel, an antiretroviral microbicide, for the prevention of HIV infection in women. Science 2010; 329:1168-74; PMID:20643915; http://dx.doi.org/10.1126/science. 1193748
+3. Flynn NM, Forthal DN, Harro CD, Judson FN, Mayer KH, Para MF, rgp120 HIV Vaccine Study Group. Placebo-controlled phase 3 trial of a recombinant glycoprotein 120 vaccine to prevent HIV-1 infection. J Infect Dis 2005; 191:654-65; PMID: 15688278; http://dx.doi.org/10.1086/428404
+4. Gilbert PB, Peterson ML, Follmann D, Hudgens MG, Francis DP, Gurwith M, et al. Correlation between immunologic responses to a recombinant glycoprotein 120 vaccine and incidence of HIV-1 infection in a phase 3 HIV-1 preventive vaccine trial. J Infect Dis 2005; 191:666-77; PMID:15688279; http://dx.doi. org/10.1086/428405
+
+5. Buchbinder SP, Mehrotra DV, Duerr A, Fitzgerald DW, Mogg R, Li D, et al. Step Study Protocol Team. Efficacy assessment of a cell-mediated immunity HIV-1 vaccine (the Step Study): a double-blind, randomised, placebo-controlled, test-of-concept trial. Lancet 2008; 372:1881-93; PMID:19012954; http:// dx.doi.org/10.1016/S0140-6736(08)61591-3
+6. McElrath MJ, De Rosa SC, Moodie Z, Dubey S, Kierstead L, Janes H, et al. Step Study Protocol Team. HIV-1 vaccine-induced immunity in the test-ofconcept Step Study: a case-cohort analysis. Lancet 2008; 372:1894-905; PMID:19012957; http://dx.doi. org/10.1016/S0140-6736(08)61592-5
+7. Gray G, Buchbinder S, Duerr A. Overview of STEP and Phambili trial results: two phase IIb test-of-concept studies investigating the efficacy of MRK adenovirus type 5 gag/pol/nef subtype B HIV vaccine. Curr Opin HIV AIDS 2010; 5:357-61; PMID:20978374; http:// dx.doi.org/10.1097/COH.0b013e32833d2d2b
+8. Rerks-Ngarm S, Pitisuttithum P, Nitayaphan S, Kaewkungwal J, Chiu J, Paris R, et al. MOPHTAVEG Investigators. Vaccination with ALVAC and AIDSVAX to prevent HIV-1 infection in Thailand. N Engl J Med 2009; 361:2209-20; PMID:19843557; http://dx.doi.org/10.1056/NEJMoa0908492
+
+9. McElrath MJ, Haynes BF. Induction of immunity to human immunodeficiency virus type-1 by vaccination. Immunity 2010; 33:542-54; PMID:21029964; http:// dx.doi.org/10.1016/j.immuni.2010.09.011
+10. Paris R, Bejrachandra S, Thongcharoen P, Nitayaphan S, Pitisuttithum P, Sambor A, et al. Thai AIDS Vaccine Evaluation Group. HLA class II restriction of HIV-1 clade-specific neutralizing antibody responses in ethnic Thai recipients of the RV144 prime-boost vaccine combination of ALVAC-HIV and AIDSVAX(1) B/E. Vaccine 2012; 30:832-6; PMID:22085554; http://dx. doi.org/10.1016/j.vaccine.2011.11.002
+11. Haynes BF, Gilbert PB, McElrath MJ, Zolla-Pazner S, Tomaras GD, Alam SM, et al. Immune-correlates analysis of an HIV-1 vaccine efficacy trial. N Engl J Med 2012; 366:1275-86; PMID:22475592; http://dx. doi.org/10.1056/NEJMoa1113425
+12. Kresge KJ. A Bangkok surprise. IAVI Rep 2011; 15:48; PMID:22111192
+13. Mackett M, Smith GL, Moss B. Vaccinia virus: a selectable eukaryotic cloning and expression vector. Proc Natl Acad Sci U S A 1982; 79:7415-9; PMID: 6296831; http://dx.doi.org/10.1073/pnas.79.23.7415
+
+12
+
+Human Vaccines & Immunotherapeutics
+
+Volume 8 Issue 9
+
+14. Panicali D, Paoletti E. Construction of poxviruses as cloning vectors: insertion of the thymidine kinase gene from herpes simplex virus into the DNA of infectious vaccinia virus. Proc Natl Acad Sci U S A 1982; 79: 4927-31; PMID:6289324; http://dx.doi.org/10.1073/ pnas.79.16.4927
+15. Mackett M, Smith GL. Vaccinia virus expression vectors. J Gen Virol 1986; 67:2067-82; PMID:3531399; http:// dx.doi.org/10.1099/0022-1317-67-10-2067
+16. Moss B. Vaccinia virus: a tool for research and vaccine development. Science 1991; 252:1662-7; PMID: 2047875; http://dx.doi.org/10.1126/science.2047875
+17. Collier LH. The development of a stable smallpox vaccine. J Hyg (Lond) 1955; 53: 76-101; PMID:14367805; http://dx.doi.org/10.1017/ S002217240000053X
+18. Pastoret PP, Vanderplasschen A. Poxviruses as vaccine vectors. Comp Immunol Microbiol Infect Dis 2003; 26:343-55; PMID:12818621; http://dx.doi.org/10. 1016/S0147-9571(03)00019-5
+19. Lane JM, Ruben FL, Neff JM, Millar JD. Complications of smallpox vaccination, 1968. N Engl J Med 1969; 281:1201-8; PMID:4186802; http://dx.doi.org/10.1056/NEJM196911272812201
+20. Redfield RR, Wright DC, James WD, Jones TS, Brown C, Burke DS. Disseminated vaccinia in a military recruit with human immunodeficiency virus (HIV) disease. N Engl J Med 1987; 316:673-6; PMID:3821799; http:// dx.doi.org/10.1056/NEJM198703123161106
+21. Sutter G, Staib C. Vaccinia vectors as candidate vaccines: the development of modified vaccinia virus Ankara for antigen delivery. Curr Drug Targets Infect Disord 2003; 3:263-71; PMID:14529359; http://dx. doi.org/10.2174/1568005033481123
+22. Dudek T, Knipe DM. Replication-defective viruses as vaccines and vaccine vectors. Virology 2006; 344:2309; PMID:16364753; http://dx.doi.org/10.1016/j.virol. 2005.09.020
+23. Esteban M. Attenuated poxvirus vectors MVA and NYVAC as promising vaccine candidates against HIV/ AIDS. Hum Vaccin 2009; 5:867-71; PMID:19786840
+24. Gómez CE, Nájera JL, Krupa M, Perdiguero B, Esteban M. MVA and NYVAC as vaccines against emergent infectious diseases and cancer. Curr Gene Ther 2011; 11:189-217; PMID:21453284; http://dx. doi.org/10.2174/156652311795684731
+25. Pantaleo G, Esteban M, Jacobs B, Tartaglia J. Poxvirus vector-based HIV vaccines. Curr Opin HIV AIDS 2010; 5:391-6; PMID:20978379; http://dx.doi.org/ 10.1097/COH.0b013e32833d1e87
+26. Weli SC, Tryland M. Avipoxviruses: infection biology and their use as vaccine vectors. Virol J 2011; 8:49; PMID:21291547; http://dx.doi.org/10.1186/1743422X-8-49
+27. Mayr A, Stickl H, Müller HK, Danner K, Singer H. [The smallpox vaccination strain MVA: marker, genetic structure, experience gained with the parenteral vaccination and behavior in organisms with a debilitated defence mechanism (author's transl)]. Zentralbl Bakteriol B 1978; 167:375-90; PMID:219640
+28. Antoine G, Scheiflinger F, Dorner F, Falkner FG. The complete genomic sequence of the modified vaccinia Ankara strain: comparison with other orthopoxviruses. Virology 1998; 244:365-96; PMID:9601507; http:// dx.doi.org/10.1006/viro.1998.9123
+29. Sutter G, Moss B. Nonreplicating vaccinia vector efficiently expresses recombinant genes. Proc Natl Acad Sci U S A 1992; 89:10847-51; PMID:1438287; http://dx.doi.org/10.1073/pnas.89.22.10847
+30. Drexler I, Heller K, Wahren B, Erfle V, Sutter G. Highly attenuated modified vaccinia virus Ankara replicates in baby hamster kidney cells, a potential host for virus propagation, but not in various human transformed and primary cells. J Gen Virol 1998; 79:347-52; PMID:9472619
+
+31. Cebere I, Dorrell L, McShane H, Simmons A, McCormack S, Schmidt C, et al. Phase I clinical trial safety of DNA- and modified virus Ankara-vectored human immunodeficiency virus type 1 (HIV-1) vaccines administered alone and in a prime-boost regime to healthy HIV-1-uninfected volunteers. Vaccine 2006; 24:417-25; PMID:16176847; http:// dx.doi.org/10.1016/j.vaccine.2005.08.041
+32. Guimarães-Walker A, Mackie N, McCormack S, Hanke T, Schmidt C, Gilmour J, et al. IAVI-006 Study Group. Lessons from IAVI-006, a phase I clinical trial to evaluate the safety and immunogenicity of the pTHr.HIVA DNA and MVA.HIVA vaccines in a prime-boost strategy to induce HIV-1 specific T-cell responses in healthy volunteers. Vaccine 2008; 26: 6671-7; PMID:18812202; http://dx.doi.org/10.1016/ j.vaccine.2008.09.016
+33. Jaoko W, Nakwagala FN, Anzala O, Manyonyi GO, Birungi J, Nanvubya A, et al. Safety and immunogenicity of recombinant low-dosage HIV-1 A vaccine candidates vectored by plasmid pTHr DNA or modified vaccinia virus Ankara (MVA) in humans in East Africa. Vaccine 2008; 26:2788-95; PMID: 18440674; http://dx.doi.org/10.1016/j.vaccine.2008. 02.071
+34. Mwau M, Cebere I, Sutton J, Chikoti P, Winstone N, Wee EG, et al. A human immunodeficiency virus 1 (HIV-1) clade A vaccine in clinical trials: stimulation of HIV-specific T-cell responses by DNA and recombinant modified vaccinia virus Ankara (MVA) vaccines in humans. J Gen Virol 2004; 85:911-9; PMID:15039533; http://dx.doi.org/10.1099/vir.0. 19701-0
+35. Peters BS, Jaoko W, Vardas E, Panayotakopoulos G, Fast P, Schmidt C, et al. Studies of a prophylactic HIV-1 vaccine candidate based on modified vaccinia virus Ankara (MVA) with and without DNA priming: effects of dosage and route on safety and immunogenicity. Vaccine 2007; 25:2120-7; PMID:17250931; http://dx.doi.org/10.1016/j.vaccine.2006.11.016
+36. García F, Bernaldo de Quirós JC, Gómez CE, Perdiguero B, Nájera JL, Jiménez V, et al. Safety and immunogenicity of a modified pox vector-based HIV/ AIDS vaccine candidate expressing Env, Gag, Pol and Nef proteins of HIV-1 subtype B (MVA-B) in healthy HIV-1-uninfected volunteers: A phase I clinical trial (RISVAC02). Vaccine 2011; 29:8309-16; PMID: 21907749; http://dx.doi.org/10.1016/j.vaccine.2011. 08.098
+37. Gómez CE, Nájera JL, Perdiguero B, García-Arriaza J, Sorzano CO, Jiménez V, et al. The HIV/AIDS vaccine candidate MVA-B administered as a single immunogen in humans triggers robust, polyfunctional, and selective effector memory T cell responses to HIV-1 antigens. J Virol 2011; 85:11468-78; PMID:21865377; http:// dx.doi.org/10.1128/JVI.05165-11
+38. Aboud S, Nilsson C, Karlén K, Marovich M, Wahren B, Sandström E, et al. Strong HIV-specific CD4+ and CD8+ T-lymphocyte proliferative responses in healthy individuals immunized with an HIV-1 DNA vaccine and boosted with recombinant modified vaccinia virus ankara expressing HIV-1 genes. Clin Vaccine Immunol 2010; 17:1124-31; PMID:20463104; http://dx.doi.org/10.1128/CVI.00008-10
+39. Bakari M, Aboud S, Nilsson C, Francis J, Buma D, Moshiro C, et al. Broad and potent immune responses to a low dose intradermal HIV-1 DNA boosted with HIV-1 recombinant MVA among healthy adults in Tanzania. Vaccine 2011; 29:8417-28; PMID:21864626; http://dx.doi.org/10.1016/j.vaccine.2011.08.001
+40. Sandström E, Nilsson C, Hejdeman B, Bråve A, Bratt G, Robb M, et al. HIV Immunogenicity Study 01/02 Team. Broad immunogenicity of a multigene, multiclade HIV-1 DNA vaccine boosted with heterologous HIV-1 recombinant modified vaccinia virus Ankara. J Infect Dis 2008; 198:1482-90; PMID:18808335; http://dx.doi.org/10.1086/592507
+
+41. Gudmundsdotter L, Nilsson C, Brave A, Hejdeman B, Earl P, Moss B, et al. Recombinant Modified Vaccinia Ankara (MVA) effectively boosts DNA-primed HIV-specific immune responses in humans despite pre-existing vaccinia immunity. Vaccine 2009; 27: 4468-74; PMID:19450644; http://dx.doi.org/10.1016/ j.vaccine.2009.05.018
+42. Currier JR, Ngauy V, de Souza MS, Ratto-Kim S, Cox JH, Polonis VR, et al. Phase I safety and immunogenicity evaluation of MVA-CMDR, a multigenic, recombinant modified vaccinia Ankara-HIV-1 vaccine candidate. PLoS One 2010; 5:e13983; PMID: 21085591; http://dx.doi.org/10.1371/journal.pone. 0013983
+43. Goepfert PA, Elizaga ML, Sato A, Qin L, Cardinali M, Hay CM, et al. National Institute of Allergy and Infectious Diseases HIV Vaccine Trials Network. Phase 1 safety and immunogenicity testing of DNA and recombinant modified vaccinia Ankara vaccines expressing HIV-1 virus-like particles. J Infect Dis 2011; 203:610-9; PMID:21282192; http://dx.doi.org/ 10.1093/infdis/jiq105
+44. Keefer MC, Frey SE, Elizaga M, Metch B, De Rosa SC, Barroso PF, et al. NIAID HIV Vaccine Trials Network. A phase I trial of preventive HIV vaccination with heterologous poxviral-vectors containing matching HIV-1 inserts in healthy HIV-uninfected subjects. Vaccine 2011; 29:1948-58; PMID:21216311; http:// dx.doi.org/10.1016/j.vaccine.2010.12.104
+45. Vasan S, Schlesinger SJ, Chen Z, Hurley A, Lombardo A, Than S, et al. Phase 1 safety and immunogenicity evaluation of ADMVA, a multigenic, modified vaccinia Ankara-HIV-1 B'/C candidate vaccine. PLoS One 2010; 5:e8816; PMID:20111599; http://dx.doi. org/10.1371/journal.pone.0008816
+46. Goonetilleke N, Moore S, Dally L, Winstone N, Cebere I, Mahmoud A, et al. Induction of multifunctional human immunodeficiency virus type 1 (HIV-1)-specific T cells capable of proliferation in healthy subjects by using a prime-boost regimen of DNA- and modified vaccinia virus Ankara-vectored vaccines expressing HIV-1 Gag coupled to CD8+ T-cell epitopes. J Virol 2006; 80:4717-28; PMID: 16641265; http://dx.doi.org/10.1128/JVI.80.10.47174728.2006
+47. Ramanathan VD, Kumar M, Mahalingam J, Sathyamoorthy P, Narayanan PR, Solomon S, et al. A Phase 1 study to evaluate the safety and immunogenicity of a recombinant HIV type 1 subtype C-modified vaccinia Ankara virus vaccine candidate in Indian volunteers. AIDS Res Hum Retroviruses 2009; 25:1107-16; PMID:19943789; http://dx.doi. org/10.1089/aid.2009.0096
+48. Gorse GJ, Newman MJ, Decamp A, Hay CM, De Rosa SC, Noonan E, et al. the NIAID HIV Vaccine Trials Network. DNA and Modified Vaccinia Virus Ankara Vaccines Encoding Multiple Cytotoxic and Helper T-Lymphocyte Epitopes of Human Immunodeficiency Virus Type 1 (HIV-1) Are Safe but Weakly Immunogenic in HIV-1-Uninfected, Vaccinia VirusNaive Adults. Clin Vaccine Immunol 2012; 19:64958; PMID:22398243; http://dx.doi.org/10.1128/CVI. 00038-12
+49. Tartaglia J, Cox WI, Taylor J, Perkus M, Riviere M, Meignier B, et al. Highly attenuated poxvirus vectors. AIDS Res Hum Retroviruses 1992; 8:1445-7; PMID: 1466978
+50. Harari A, Bart PA, Stöhr W, Tapia G, Garcia M, Medjitna-Rais E, et al. An HIV-1 clade C DNA prime, NYVAC boost vaccine regimen induces reliable, polyfunctional, and long-lasting T cell responses. J Exp Med 2008; 205:63-77; PMID:18195071; http:// dx.doi.org/10.1084/jem.20071331
+
+www.landesbioscience.com
+
+Human Vaccines & Immunotherapeutics
+
+13
+
+51. McCormack S, Stöhr W, Barber T, Bart PA, Harari A, Moog C, et al. EV02: a Phase I trial to compare the safety and immunogenicity of HIV DNA-C primeNYVAC-C boost to NYVAC-C alone. Vaccine 2008; 26:3162-74; PMID:18502003; http://dx.doi.org/10. 1016/j.vaccine.2008.02.072
+52. Bart PA, Goodall R, Barber T, Harari A, GuimaraesWalker A, Khonkarly M, et al. EuroVacc Consortium. EV01: a phase I trial in healthy HIV negative volunteers to evaluate a clade C HIV vaccine, NYVAC-C undertaken by the EuroVacc Consortium. Vaccine 2008; 26:3153-61; PMID:18502002; http:// dx.doi.org/10.1016/j.vaccine.2008.03.083
+53. Perreau M, Welles HC, Harari A, Hall O, Martin R, Maillard M, et al. DNA/NYVAC vaccine regimen induces HIV-specific CD4 and CD8 T-cell responses in intestinal mucosa. J Virol 2011; 85:9854-62; PMID: 21775454; http://dx.doi.org/10.1128/JVI.00788-11
+54. Levy Y, Ellefsen K, Stöehr W, Bart PA, Lelièvere JD, Launay O, et al. Optimal priming of poxvirus vector (NYVAC)-based HIV vaccine regimens requires 3 DNA injections. Results of the randomized multicentre EV03/ ANRS Vac20 Phase I/II Trial. 2010:CROI.
+55. Tulman ER, Afonso CL, Lu Z, Zsak L, Kutish GF, Rock DL. The genome of canarypox virus. J Virol 2004; 78:353-66; PMID:14671117; http://dx.doi.org/ 10.1128/JVI.78.1.353-366.2004
+56. Afonso CL, Tulman ER, Lu Z, Zsak L, Kutish GF, Rock DL. The genome of fowlpox virus. J Virol 2000; 74:3815-31; PMID:10729156; http://dx.doi.org/10. 1128/JVI.74.8.3815-3831.2000
+57. Sadasiv EC, Chang PW, Gulka G. Morphogenesis of canary poxvirus and its entrance into inclusion bodies. Am J Vet Res 1985; 46:529-35; PMID:2986493
+58. Taylor J, Paoletti E. Fowlpox virus as a vector in nonavian species. Vaccine 1988; 6:466-8; PMID:2854335; http://dx.doi.org/10.1016/0264-410X(88)90091-6
+59. Weli SC, Nilssen O, Traavik T. Avipoxvirus multiplication in a mammalian cell line. Virus Res 2005; 109:39-49; PMID:15826911; http://dx.doi.org/10. 1016/j.virusres.2004.10.009
+60. Somogyi P, Frazier J, Skinner MA. Fowlpox virus host range restriction: gene expression, DNA replication, and morphogenesis in nonpermissive mammalian cells. Virology 1993; 197:439-44; PMID:8212580; http:// dx.doi.org/10.1006/viro.1993.1608
+61. Zanotto C, Pozzi E, Pacchioni S, Volonté L, De Giuli Morghen C, Radaelli A. Canarypox and fowlpox viruses as recombinant vaccine vectors: a biological and immunological comparison. Antiviral Res 2010; 88: 53-63; PMID:20643163; http://dx.doi.org/10.1016/j. antiviral.2010.07.005
+62. Van Rompay KK, Abel K, Lawson JR, Singh RP, Schmidt KA, Evans T, et al. Attenuated poxvirus-based simian immunodeficiency virus (SIV) vaccines given in infancy partially protect infant and juvenile macaques against repeated oral challenge with virulent SIV. J Acquir Immune Defic Syndr 2005; 38:124-34; PMID:15671796; http://dx.doi.org/10.1097/00126334200502010-00002
+63. Pal R, Venzon D, Letvin NL, Santra S, Montefiori DC, Miller NR, et al. ALVAC-SIV-gag-pol-env-based vaccination and macaque major histocompatibility complex class I (A*01) delay simian immunodeficiency virus SIVmac-induced immunodeficiency. J Virol 2002; 76:292-302; PMID:11739694; http://dx.doi. org/10.1128/JVI.76.1.292-302.2002
+64. Pal R, Venzon D, Santra S, Kalyanaraman VS, Montefiori DC, Hocker L, et al. Systemic immunization with an ALVAC-HIV-1/protein boost vaccine strategy protects rhesus macaques from CD4+ T-cell loss and reduces both systemic and mucosal simianhuman immunodeficiency virus SHIVKU2 RNA levels. J Virol 2006; 80:3732-42; PMID:16571790; http://dx.doi.org/10.1128/JVI.80.8.3732-3742.2006
+
+65. Andersson S, Mäkitalo B, Thorstensson R, Franchini G, Tartaglia J, Limbach K, et al. Immunogenicity and protective efficacy of a human immunodeficiency virus type 2 recombinant canarypox (ALVAC) vaccine candidate in cynomolgus monkeys. J Infect Dis 1996; 174:977-85; PMID:8896498; http://dx.doi.org/10. 1093/infdis/174.5.977
+66. Girard M, van der Ryst E, Barré-Sinoussi F, Nara P, Tartaglia J, Paoletti E, et al. Challenge of chimpanzees immunized with a recombinant canarypox-HIV-1 virus. Virology 1997; 232:98-104; PMID:9185593; http://dx.doi.org/10.1006/viro.1997.8560
+67. Marovich MA. ALVAC-HIV vaccines: clinical trial experience focusing on progress in vaccine development. Expert Rev Vaccines 2004; 3(Suppl):S99-104; PMID: 15285709; http://dx.doi.org/10.1586/14760584.3.4. S99
+68. Franchini G, Gurunathan S, Baglyos L, Plotkin S, Tartaglia J. Poxvirus-based vaccine candidates for HIV: two decades of experience with special emphasis on canarypox vectors. Expert Rev Vaccines 2004; 3(Suppl):S75-88; PMID:15285707; http://dx.doi.org/ 10.1586/14760584.3.4.S75
+69. de Bruyn G, Rossini AJ, Chiu YL, Holman D, Elizaga ML, Frey SE, et al. Safety profile of recombinant canarypox HIV vaccines. Vaccine 2004; 22:704-13; PMID:14741163
+70. Plotkin SA, Cadoz M, Meignier B, Méric C, Leroy O, Excler JL, et al. The safety and use of canarypox vectored vaccines. Dev Biol Stand 1995; 84:165-70; PMID:7796950
+71. Belshe RB, Graham BS, Keefer MC, Gorse GJ, Wright P, Dolin R, et al. NIAID AIDS Vaccine Clinical Trials Network. Neutralizing antibodies to HIV-1 in seronegative volunteers immunized with recombinant gp120 from the MN strain of HIV-1. JAMA 1994; 272:475-80; PMID:7913731; http://dx.doi.org/10. 1001/jama.1994.03520060075035
+72. Dolin R, Graham BS, Greenberg SB, Tacket CO, Belshe RB, Midthun K, et al. NIAID AIDS Vaccine Clinical Trials Network. The safety and immunogenicity of a human immunodeficiency virus type 1 (HIV-1) recombinant gp160 candidate vaccine in humans. Ann Intern Med 1991; 114:119-27; PMID:1984386
+73. Graham BS, Matthews TJ, Belshe RB, Clements ML, Dolin R, Wright PF, et al. The NIAID AIDS Vaccine Clinical Trials Network. Augmentation of human immunodeficiency virus type 1 neutralizing antibody by priming with gp160 recombinant vaccinia and boosting with rgp160 in vaccinia-naive adults. J Infect Dis 1993; 167:533-7; PMID:8095059; http://dx.doi. org/10.1093/infdis/167.3.533
+74. Kovacs JA, Vasudevachari MB, Easter M, Davey RT, Falloon J, Polis MA, et al. Induction of humoral and cell-mediated anti-human immunodeficiency virus (HIV) responses in HIV sero-negative volunteers by immunization with recombinant gp160. J Clin Invest 1993; 92:919-28; PMID:7688766; http://dx.doi.org/ 10.1172/JCI116667
+75. Belshe RB, Clements ML, Dolin R, Graham BS, McElrath J, Gorse GJ, et al. National Institute of Allergy and Infectious Diseases AIDS Vaccine Evaluation Group Network. Safety and immunogenicity of a fully glycosylated recombinant gp160 human immunodeficiency virus type 1 vaccine in subjects at low risk of infection. J Infect Dis 1993; 168:1387-95; PMID:8245523; http://dx.doi.org/10.1093/infdis/ 168.6.1387
+76. Montefiori DC, Graham BS, Zhou J, Zhou J, Bucco RA, Schwartz DH, et al. NIH-NIAID AIDS Vaccine Clinical Trials Network. V3-specific neutralizing antibodies in sera from HIV-1 gp160-immunized volunteers block virus fusion and act synergistically with human monoclonal antibody to the conformation-dependent CD4 binding site of gp120. J Clin Invest 1993; 92:840-7; PMID:8349820; http://dx.doi. org/10.1172/JCI116658
+
+77. Schwartz DH, Gorse G, Clements ML, Belshe R, Izu A, Duliege AM, et al. Induction of HIV-1-neutralising and syncytium-inhibiting antibodies in uninfected recipients of HIV-1IIIB rgp120 subunit vaccine. Lancet 1993; 342:69-73; PMID:8100910; http://dx. doi.org/10.1016/0140-6736(93)91283-R
+78. Kahn JO, Sinangil F, Baenziger J, Murcar N, Wynne D, Coleman RL, et al. Clinical and immunologic responses to human immunodeficiency virus (HIV) type 1SF2 gp120 subunit vaccine combined with MF59 adjuvant with or without muramyl tripeptide dipalmitoyl phosphatidylethanolamine in non-HIVinfected human volunteers. J Infect Dis 1994; 170: 1288-91; PMID:7963729; http://dx.doi.org/10.1093/ infdis/170.5.1288
+79. Pialoux G, Excler JL, Rivière Y, Gonzalez-Canali G, Feuillie V, Coulaud P, et al. A prime-boost approach to HIV preventive vaccine using a recombinant canarypox virus expressing glycoprotein 160 (MN) followed by a recombinant glycoprotein 160 (MN/ LAI). The AGIS Group, and l'Agence Nationale de Recherche sur le SIDA. AIDS Res Hum Retroviruses 1995; 11:373-81; PMID:7598771; http://dx.doi.org/ 10.1089/aid.1995.11.373
+80. Egan MA, Pavlat WA, Tartaglia J, Paoletti E, Weinhold KJ, Clements ML, et al. Induction of human immunodeficiency virus type 1 (HIV-1)specific cytolytic T lymphocyte responses in seronegative adults by a nonreplicating, host-range-restricted canarypox vector (ALVAC) carrying the HIV-1MN env gene. J Infect Dis 1995; 171:1623-7; PMID: 7769304; http://dx.doi.org/10.1093/infdis/171.6.1623
+81. Fleury B, Janvier G, Pialoux G, Buseyne F, Robertson MN, Tartaglia J, et al. Memory cytotoxic T lymphocyte responses in human immunodeficiency virus type 1 (HIV-1)-negative volunteers immunized with a recombinant canarypox expressing gp 160 of HIV-1 and boosted with a recombinant gp160. J Infect Dis 1996; 174:734-8; PMID:8843210; http:// dx.doi.org/10.1093/infdis/174.4.734
+82. Tartaglia J, Excler JL, El Habib R, Limbach K, Meignier B, Plotkin S, et al. Canarypox virus-based vaccines: prime-boost strategies to induce cellmediated and humoral immunity against HIV. AIDS Res Hum Retroviruses 1998; 14(Suppl 3):S291-8; PMID:9814957
+83. Belshe RB, Gorse GJ, Mulligan MJ, Evans TG, Keefer MC, Excler JL, et al. NIAID AIDS Vaccine Evaluation Group. Induction of immune responses to HIV-1 by canarypox virus (ALVAC) HIV-1 and gp120 SF-2 recombinant vaccines in uninfected volunteers. AIDS 1998; 12:2407-15; PMID:9875578; http://dx.doi.org/ 10.1097/00002030-199818000-00009
+84. Russell ND, Graham BS, Keefer MC, McElrath MJ, Self SG, Weinhold KJ, et al. National Institute of Allergy and Infectious Diseases HIV Vaccine Trials Network. Phase 2 study of an HIV-1 canarypox vaccine (vCP1452) alone and in combination with rgp120: negative results fail to trigger a phase 3 correlates trial. J Acquir Immune Defic Syndr 2007; 44:203-12; PMID:17106277; http://dx.doi.org/10. 1097/01.qai.0000248356.48501.ff
+85. Team TAVEGP, AIDS Vaccine Evaluation Group 022 Protocol Team. Cellular and humoral immune responses to a canarypox vaccine containing human immunodeficiency virus type 1 Env, Gag, and Pro in combination with rgp120. J Infect Dis 2001; 183: 563-70; PMID:11170981; http://dx.doi.org/10.1086/ 318523
+86. Mascola JR, Snyder SW, Weislow OS, Belay SM, Belshe RB, Schwartz DH, et al. The National Institute of Allergy and Infectious Diseases AIDS Vaccine Evaluation Group. Immunization with envelope subunit vaccine products elicits neutralizing antibodies against laboratory-adapted but not primary isolates of human immunodeficiency virus type 1. J Infect Dis 1996; 173:340-8; PMID:8568294; http://dx.doi.org/ 10.1093/infdis/173.2.340
+
+14
+
+Human Vaccines & Immunotherapeutics
+
+Volume 8 Issue 9
+
+87. Verrier F, Burda S, Belshe R, Duliege AM, Excler JL, Klein M, et al. A human immunodeficiency virus prime-boost immunization regimen in humans induces antibodies that show interclade cross-reactivity and neutralize several X4-, R5-, and dualtropic clade B and C primary isolates. J Virol 2000; 74:10025-33; PMID: 11024131; http://dx.doi.org/10.1128/JVI.74.21.1002510033.2000
+88. Zolla-Pazner S, Xu S, Burda S, Duliege AM, Excler JL, Clements-Mann ML. Neutralization of syncytiuminducing primary isolates by sera from human immunodeficiency virus (HIV)-uninfected recipients of candidate HIV vaccines. J Infect Dis 1998; 178: 1502-6; PMID:9780275; http://dx.doi.org/10.1086/ 314452
+89. Nitayaphan S, Pitisuttithum P, Karnasuta C, Eamsila C, de Souza M, Morgan P, et al. Thai AIDS Vaccine Evaluation Group. Safety and immunogenicity of an HIV subtype B and E prime-boost vaccine combination in HIV-negative Thai adults. J Infect Dis 2004; 190:702-6; PMID:15272397; http://dx.doi.org/10. 1086/422258
+90. Thongcharoen P, Suriyanon V, Paris RM, Khamboonruang C, de Souza MS, Ratto-Kim S, et al. for the Thai AIDS Vaccine Evaluation Group. A phase 1/2 comparative vaccine trial of the safety and immunogenicity of a CRF01_AE (subtype E) candidate vaccine: ALVAC-HIV (vCP1521) prime with oligomeric gp160 (92TH023/LAI-DID) or bivalent gp120 (CM235/SF2) boost. J Acquir Immune Defic Syndr 2007; 46:48-55; PMID:17909315
+91. Clements-Mann ML, Weinhold K, Matthews TJ, Graham BS, Gorse GJ, Keefer MC, et al. NIAID AIDS Vaccine Evaluation Group. Immune responses to human immunodeficiency virus (HIV) type 1 induced by canarypox expressing HIV-1MN gp120, HIV-1SF2 recombinant gp120, or both vaccines in seronegative adults. J Infect Dis 1998; 177:1230-46; PMID:9593008; http://dx.doi.org/10.1086/515288
+92. Ferrari G, Humphrey W, McElrath MJ, Excler JL, Duliege AM, Clements ML, et al. Clade B-based HIV-1 vaccines elicit cross-clade cytotoxic T lymphocyte reactivities in uninfected volunteers. Proc Natl Acad Sci U S A 1997; 94:1396-401; PMID:9037064; http://dx.doi.org/10.1073/pnas.94.4.1396
+93. Salmon-Céron D, Excler JL, Finkielsztejn L, Autran B, Gluckman JC, Sicard D, et al. Safety and immunogenicity of a live recombinant canarypox virus expressing HIV type 1 gp120 MN MN tm/gag/ protease LAI (ALVAC-HIV, vCP205) followed by a p24E-V3 MN synthetic peptide (CLTB-36) administered in healthy volunteers at low risk for HIV infection. AGIS Group and L'Agence Nationale de Recherches sur Le Sida. AIDS Res Hum Retroviruses 1999; 15:633-45; PMID:10331442; http://dx.doi.org/ 10.1089/088922299310935
+94. Belshe RB, Stevens C, Gorse GJ, Buchbinder S, Weinhold K, Sheppard H, et al. National Institute of Allergy and Infectious Diseases AIDS Vaccine Evaluation Group and HIV Network for Prevention Trials (HIVNET). Safety and immunogenicity of a canarypox-vectored human immunodeficiency virus Type 1 vaccine with or without gp120: a phase 2 study in higher- and lower-risk volunteers. J Infect Dis 2001; 183:1343-52; PMID:11294665; http://dx.doi.org/10. 1086/319863
+95. Gupta K, Hudgens M, Corey L, McElrath MJ, Weinhold K, Montefiori DC, et al. AIDS Vaccine Evaluation Group. Safety and immunogenicity of a high-titered canarypox vaccine in combination with rgp120 in a diverse population of HIV-1-uninfected adults: AIDS Vaccine Evaluation Group Protocol 022A. J Acquir Immune Defic Syndr 2002; 29:25461; PMID:11873074
+
+96. Cao H, Kaleebu P, Hom D, Flores J, Agrawal D, Jones N, et al. HIV Network for Prevention Trials. Immunogenicity of a recombinant human immunodeficiency virus (HIV)-canarypox vaccine in HIVseronegative Ugandan volunteers: results of the HIV Network for Prevention Trials 007 Vaccine Study. J Infect Dis 2003; 187:887-95; PMID:12660934; http://dx.doi.org/10.1086/368020
+97. Eller MA, Slike BM, Cox JH, Lesho E, Wang Z, Currier JR, et al. A double-blind randomized phase I clinical trial targeting ALVAC-HIV vaccine to human dendritic cells. PLoS One 2011; 6:e24254; PMID: 21949699; http://dx.doi.org/10.1371/journal.pone. 0024254
+98. Goepfert PA, Horton H, McElrath MJ, Gurunathan S, Ferrari G, Tomaras GD, et al. NIAID HIV Vaccine Trials Network. High-dose recombinant Canarypox vaccine expressing HIV-1 protein, in seronegative human subjects. J Infect Dis 2005; 192:1249-59; PMID:16136469; http://dx.doi.org/10.1086/432915
+99. Cleghorn F, Pape JW, Schechter M, Bartholomew C, Sanchez J, Jack N, et al. 026 Protocol Team and the NIAID HIV Vaccine Trials Network. Lessons from a multisite international trial in the Caribbean and South America of an HIV-1 Canarypox vaccine (ALVACHIV vCP1452) with or without boosting with MN rgp120. J Acquir Immune Defic Syndr 2007; 46:22230; PMID:17693888; http://dx.doi.org/10.1097/QAI. 0b013e318149297d
+100. Evans TG, Keefer MC, Weinhold KJ, Wolff M, Montefiori D, Gorse GJ, et al. A canarypox vaccine expressing multiple human immunodeficiency virus type 1 genes given alone or with rgp120 elicits broad and durable CD8+ cytotoxic T lymphocyte responses in seronegative volunteers. J Infect Dis 1999; 180:290-8; PMID:10395842; http://dx.doi.org/10.1086/314895
+101. Karnasuta C, Paris RM, Cox JH, Nitayaphan S, Pitisuttithum P, Thongcharoen P, et al. Thai AIDS Vaccine Evaluation Group, Thailand. Antibody-dependent cell-mediated cytotoxic responses in participants enrolled in a phase I/II ALVAC-HIV/AIDSVAX B/E prime-boost HIV-1 vaccine trial in Thailand. Vaccine 2005; 23:2522-9; PMID:15752839; http://dx.doi.org/ 10.1016/j.vaccine.2004.10.028
+102. Pitisuttithum P, Rerks-Ngarm S, Bussaratid V, Dhitavat J, Maekanantawat W, Pungpak S, et al. Safety and reactogenicity of canarypox ALVAC-HIV (vCP1521) and HIV-1 gp120 AIDSVAX B/E vaccination in an efficacy trial in Thailand. PLoS One 2011; 6:e27837; PMID:22205930; http://dx.doi.org/ 10.1371/journal.pone.0027837
+103. Coupar BE, Purcell DF, Thomson SA, Ramshaw IA, Kent SJ, Boyle DB. Fowlpox virus vaccines for HIV and SHIV clinical and pre-clinical trials. Vaccine 2006; 24:1378-88; PMID:16257479; http://dx.doi.org/10. 1016/j.vaccine.2005.09.044
+104. Dale CJ, De Rose R, Wilson KM, Croom HA, Thomson S, Coupar BE, et al. Australian Thai HIV Vaccine Consortium. Evaluation in macaques of HIV-1 DNA vaccines containing primate CpG motifs and fowlpoxvirus vaccines co-expressing IFNgamma or IL-12. Vaccine 2004; 23:188-97; PMID:15531036; http://dx.doi.org/10.1016/j.vaccine.2004.05.024
+105. De Rose R, Batten CJ, Smith MZ, Fernandez CS, Peut V, Thomson S, et al. Comparative efficacy of subtype AE simian-human immunodeficiency virus priming and boosting vaccines in pigtail macaques. J Virol 2007; 81:292-300; PMID:17050602; http://dx.doi. org/10.1128/JVI.01727-06
+106. De Rose R, Chea S, Dale CJ, Reece J, Fernandez CS, Wilson KM, et al. Subtype AE HIV-1 DNA and recombinant Fowlpoxvirus vaccines encoding five shared HIV-1 genes: safety and T cell immunogenicity in macaques. Vaccine 2005; 23:1949-56; PMID: 15734067; http://dx.doi.org/10.1016/j.vaccine.2004. 10.012
+
+107. Radaelli A, Bonduelle O, Beggio P, Mahe B, Pozzi E, Elli V, et al. Prime-boost immunization with DNA, recombinant fowlpox virus and VLP(SHIV) elicit both neutralizing antibodies and IFNgamma-producing T cells against the HIV-envelope protein in mice that control env-bearing tumour cells. Vaccine 2007; 25: 2128-38; PMID:17241705; http://dx.doi.org/10.1016/ j.vaccine.2006.11.009
+108. Radaelli A, Zanotto C, Perletti G, Elli V, Vicenzi E, Poli G, et al. Comparative analysis of immune responses and cytokine profiles elicited in rabbits by the combined use of recombinant fowlpox viruses, plasmids and virus-like particles in prime-boost vaccination protocols against SHIV. Vaccine 2003; 21:2052-64; PMID:12706695; http://dx.doi.org/10. 1016/S0264-410X(02)00773-9
+109. Santra S, Sun Y, Parvani JG, Philippon V, Wyand MS, Manson K, et al. Heterologous prime/boost immunization of rhesus monkeys by using diverse poxvirus vectors. J Virol 2007; 81:8563-70; PMID:17553898; http://dx.doi.org/10.1128/JVI.00744-07
+110. Kelleher AD, Puls RL, Bebbington M, Boyle D, Ffrench R, Kent SJ, et al. A randomized, placebocontrolled phase I trial of DNA prime, recombinant fowlpox virus boost prophylactic vaccine for HIV-1. AIDS 2006; 20:294-7; PMID:16511428; http://dx. doi.org/10.1097/01.aids.0000199819.40079.e9
+111. Hemachandra A, Puls RL, Sirivichayakul S, Kerr S, Thantiworasit P, Ubolyam S, et al. An HIV-1 clade A/E DNA prime, recombinant fowlpox virus boost vaccine is safe, but non-immunogenic in a randomized phase I/IIa trial in Thai volunteers at low risk of HIV infection. Hum Vaccin 2010; 6:835-40; PMID: 20864808; http://dx.doi.org/10.4161/hv.6.10.12635
+112. Combadiere B, Boissonnas A, Carcelain G, Lefranc E, Samri A, Bricaire F, et al. Distinct time effects of vaccination on long-term proliferative and IFNgamma-producing T cell memory to smallpox in humans. J Exp Med 2004; 199:1585-93; PMID: 15184506; http://dx.doi.org/10.1084/jem.20032083
+113. Kannanganat S, Nigam P, Velu V, Earl PL, Lai L, Chennareddi L, et al. Preexisting vaccinia virus immunity decreases SIV-specific cellular immunity but does not diminish humoral immunity and efficacy of a DNA/MVA vaccine. J Immunol 2010; 185:7262-73; PMID:21076059; http://dx.doi.org/10. 4049/jimmunol.1000751
+114. Alcami A. Viral mimicry of cytokines, chemokines and their receptors. Nat Rev Immunol 2003; 3:36-50; PMID:12511874; http://dx.doi.org/10.1038/nri980
+115. Perdiguero B, Esteban M. The interferon system and vaccinia virus evasion mechanisms. J Interferon Cytokine Res 2009; 29:581-98; PMID:19708815; http://dx.doi.org/10.1089/jir.2009.0073
+116. García-Arriaza J, Nájera JL, Gómez CE, Sorzano CO, Esteban M. Immunogenic profiling in mice of a HIV/AIDS vaccine candidate (MVA-B) expressing four HIV-1 antigens and potentiation by specific gene deletions. PLoS One 2010; 5:e12395; PMID: 20811493; http://dx.doi.org/10.1371/journal.pone. 0012395
+117. García-Arriaza J, Nájera JL, Gómez CE, Tewabe N, Sorzano CO, Calandra T, et al. A candidate HIV/ AIDS vaccine (MVA-B) lacking vaccinia virus gene C6L enhances memory HIV-1-specific T-cell responses. PLoS One 2011; 6:e24244; PMID:21909386; http://dx.doi. org/10.1371/journal.pone.0024244
+118. Kibler KV, Gomez CE, Perdiguero B, Wong S, Huynh T, Holechek S, et al. Improved NYVAC-based vaccine vectors. PLoS One 2011; 6:e25674; PMID:22096477; http://dx.doi.org/10.1371/journal.pone.0025674
+119. Quakkelaar ED, Redeker A, Haddad EK, Harari A, McCaughey SM, Duhen T, et al. Improved innate and adaptive immunostimulation by genetically modified HIV-1 protein expressing NYVAC vectors. PLoS One 2011; 6:e16819; PMID:21347234; http://dx.doi.org/ 10.1371/journal.pone.0016819
+
+www.landesbioscience.com
+
+Human Vaccines & Immunotherapeutics
+
+15
+
+120. Falivene J, Del Médico Zajac MP, Pascutti MF, Rodríguez AM, Maeto C, Perdiguero B, et al. Improving the MVA vaccine potential by deleting the viral gene coding for the IL-18 binding protein. PLoS One 2012; 7:e32220; PMID:22384183; http:// dx.doi.org/10.1371/journal.pone.0032220
+
+121. Gómez CE, Perdiguero B, Nájera JL, Sorzano CO, Jiménez V, González-Sanz R, et al. Removal of vaccinia virus genes that block interferon type I and II pathways improves adaptive and memory responses of the HIV/ AIDS vaccine candidate NYVAC-C in mice. J Virol 2012; 86:5026-38; PMID:22419805; http://dx.doi. org/10.1128/JVI.06684-11
+
+16
+
+Human Vaccines & Immunotherapeutics
+
+Volume 8 Issue 9

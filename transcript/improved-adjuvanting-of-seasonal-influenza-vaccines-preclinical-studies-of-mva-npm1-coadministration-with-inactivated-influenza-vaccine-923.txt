@@ -1,0 +1,596 @@
+Accepted Article
+
+Improved adjuvanting of seasonal influenza vaccines: Pre-clinical studies of MVA-NP+M1 co-administration with inactivated influenza vaccine Caitlin E. Mullarkey1, Amy Boyd1, Arjan van Laarhoven1, Eric A. Lefevre2, B. Veronica Carr2, Massimiliano Baratelli3, Eleonora Molesti4, Nigel J. Temperton4 Colin Butter2, Bryan Charleston2, Teresa Lambe1, Sarah C. Gilbert1
+1Jenner Institute, Old Road Campus Research Building, Oxford, UK; 2Pirbright Institute, Compton laboratory, UK 3Centre de Recerca en Sanitat Animal (CReSA), Barcelona, Spain 4 Viral Pseudotype Unit, Medway School of Pharmacy, University of Kent, Chatham Maritime, Kent, UK
+Key words: adjuvants, Influenza vaccines,T cells, Vaccination
+Abbreviations AdHu5, human adenovirus serotype 5; ChAdOx1, chimpanzee adenoviral vector; CTL, cytotoxic T lymphocyte; EU, ELISA unit; HAI, hemagglutination inhibition; HPAI, Highly pathogenic avian influenza; M1, matrix protein; MVA, modified vaccinia Ankara; NP, nucleoprotein; OVA, ovalbumin; PBMC, peripheral blood mononuclear cell; PFU, plaque forming units; RT, Room Temperature; SFUs, spot forming units; TIV, trivalent inactivated vaccine; io; in ovo.
+Corresponding address: Caitlin E. Mullarkey, The Jenner Institute, Old Road Campus Research Building, Oxford, Ox3 7DQ, United Kingdom Telephone +44- 1865617639
+Fax +44-1865617608 e-mail: caitlin.mullarkey@ndm.ox.ac.uk
+Received: August 16, 2012; Revised: February 26, 2013; Accepted: April 10, 2013
+This article has been accepted for publication and undergone full peer review but has not been through the copyediting, typesetting, pagination and proofreading process, which may lead to differences between this version and the Version of Record. Please cite this article as an `Accepted Article', doi: 10.1002/eji.201242922
+
+© 2013 This article is protected by copyright. All rights reserved.
+
+1
+
+Accepted Article
+
+Summary Licensed seasonal influenza vaccines induce antibody responses against influenza hemagglutinin that are limited in their ability to protect against different strains of influenza. Cytotoxic T lymphocytes (CTLs) recognizing the conserved internal nucleoprotein (NP) and matrix protein (M1) are capable of mediating a crosssubtype immune response against influenza. Modified vaccinia virus Ankara encoding NP and M1 (MVA-NP+M1) is designed to boost pre-existing T-cell responses in adults in order to elicit a cross-protective immune response. We examined the co-administration of hemagglutinin (HA) protein formulations and candidate MVA-NP+M1 influenza vaccines in murine, avian, and swine models. Antibody responses post-immunization were measured by ELISA and pseudotype neutralization assays. Here we demonstrate that MVA-NP+M1 can act as an adjuvant enhancing antibody (Ab) responses to HA while simultaneously inducing potent T-cell responses to conserved internal antigens. We show that this regimen leads to the induction of cytophilic Ab isotypes that are capable of inhibiting hemagglutination and in the context of H5 exhibit cross-clade neutralization. The simultaneous induction of T cells and antibody responses has the potential to improve seasonal vaccine performance and could be employed in pandemic situations.
+Introduction For the past 60 years vaccination has and continues to be the main method
+to combat both seasonal and pandemic influenza. While the strains included in
+
+© 2013 This article is protected by copyright. All rights reserved.
+
+2
+
+Accepted Article
+
+seasonal influenza vaccines are updated regularly, in over half a century there have been few changes in the overall vaccination strategy. It is well established that licensed influenza vaccines work by eliciting neutralizing antibodies against the surface hemagglutinin (HA) protein, yet these antibodies confer little or no protection against distinct subtypes [1]. Subsequently the efficacy of existing vaccines is highly dependent on correctly matching vaccine strains with circulating influenza strains [2]. Protection rates vary year-to-year and are estimated in healthy adults to be between 60-90% when the strains are correctly matched [3]. However, a recent meta-analysis assessing the efficacy and effectiveness of seasonal influenza vaccines suggests that protection rates may be overestimated [4]. Moreover, protection rates in the elderly are even lower despite the fact that this demographic accounts for 90% of influenza-related mortality and is a key target in vaccination campaigns [4]. There is a vital need to develop more effective influenza vaccines and to re-evaluate influenza vaccination strategies especially in regards to pandemic preparedness.
+"Universal flu vaccines" that elicit cross-protective immunity have long been the goal of researchers [5]. There is abundant evidence, in animal models, that CD8+ T cells can mediate cross-protective influenza immunity. While there is substantially less evidence in humans, a study published in 1983 by McMichael et al. demonstrated that CTL activity correlates with reduced influenza viral shedding in the absence of antibodies to HA and NA [6]. More recently the results from a study by Wilkinson et al indicated that pre-existing CD4+ T-cell responses to influenza internal proteins were associated with lower viral shedding and less
+
+© 2013 This article is protected by copyright. All rights reserved.
+
+3
+
+Accepted Article
+
+severe illness in a human challenge model [7]. Natural influenza infection does induce some cross-protective immunity, yet this CD8+ T-cell-mediated immunity has been shown to be short-lived [8]. Together these studies suggest that a vaccine capable of boosting cross-reactive T-cell responses to conserved internal antigens of influenza has the potential to modify or prevent disease. modified vaccinia Ankara encoding NP and M1 (MVA-NP+M1) is a novel candidate influenza vaccine. A Phase I study demonstrated the viral vectored vaccine to be safe, immunogenic, and capable of boosting antigen specific CD8+ T cells [9]. In a Phase IIa vaccination and influenza challenge study, MVA-NP+M1 additionally demonstrated clinical efficacy in healthy adult volunteers [10]. A coadministration regimen could have the advantage of simultaneously inducing cellmediated and humoral immunity. Using three animal models, we explored coadministration of MVA-NP+M1 with various HA protein formulations and characterized the immunogenicity of this regimen in mice, chickens, and pigs. Our data suggests that MVA-NP+M1 acts as an adjuvant, enhancing Ab responses to HA while simultaneously inducing T-cell response to NP and M1.
+Results
+MVA-NP+M1 improves the immunogenicity of trivalent inactivated vaccine (TIV) in a murine model.
+To address the limitations of current vaccines, we evaluated the coadministration of licensed TIV with our candidate T-cell vaccine MVA-NP+M1 as a clinically relevant vaccination strategy to enhance the immune response to
+
+© 2013 This article is protected by copyright. All rights reserved.
+
+4
+
+Accepted Article
+
+influenza and improve vaccine efficacy. Mice were immunized i.m. with 0.2 g TIV with or without 106 plaque forming units (PFU) MVA-NP+M1. Serum IgG titers were assayed 2 weeks post-immunization (i.m.x) in response to TIV by ELISA. After a single vaccination, mice receiving TIV+MVA-NP+M1 possessed significantly higher anti-TIV titers (median 1966 Relative Elisa Units (EUs)) than mice receiving TIV alone (median 260 EUs Fig. 1A). This represents > 7-fold increase in antibody-titers (Fig. 1A). To ensure that co-administration did not interfere with T-cell responses, ex vivo IFN- ELISPOT responses to a pool of NP peptides were measured using splenocytes at 2 weeks post-immunization All mice had measurable responses to NP but no significant differences were observed between mice receiving MVA-NP+M1 alone (median 160 spot forming units (SFUs)) and mice receiving TIV+MVA-NP+M1 (median 154 SFUs, Fig. 1B). Together these data suggested that co-administration enhances humoral responses to TIV while eliciting potent cellular responses to conserved internal antigens.
+Having observed a clear difference in the magnitude of the antibody response when TIV is co-administered with MVA-NP+M1, dose escalation and de-escalation experiments were carried out. C57BL/6 mice were immunized i.m. with a range of TIV doses and serum IgG titers were assayed 2 weeks postimmunization to TIV by ELISA. At all doses of TIV mice receiving TIV+MVANP+M1 possessed significantly higher anti-TIV antibody titers than mice receiving TIV alone (Fig. 1C). Moreover, an increased dose of TIV in the coadministration group lead to increased antibody titers (1 g and 1.5 g TIV+MVA-NP+M1 median titers 2811 and 5904 EUs). Responses to
+
+© 2013 This article is protected by copyright. All rights reserved.
+
+5
+
+Accepted Article
+
+recombinant H1 HA (A/California/04/09) measured by ELISAs mirrored those observed with TIV indicating that serum antibody responses were specific to HA components of TIV (data not shown).
+Longevity of Ab responses To further investigate the immunogenicity of TIV+MVA-NP+M1 co-
+administration, we sought to establish whether enhanced Ab responses are maintained over time. Ab responses induced by co-administration were measured at 2, 8, 16, and 24 weeks post-immunization for 4 doses of TIV. For all treatment groups peak Ab response was seen at 8 weeks post-immunization (Fig. 2A-D). For mice immunized with 0.2 g, 1 g, and 1.5 g TIV Ab responses in mice receiving TIV+MVA-NP+M1 were significantly higher than mice receiving TIV alone at all time points (Fig. 2B-D). Taken together these data suggest that MVANP+M1 co-administration adjuvants the Ab response to TIV and this enhanced Ab response persists up to 6 months post-immunization At 2 weeks postimmunization, anti-TIV Ab titers for 1.5 g TIV+MVA-NP+M1 (median 5904 EUs, Fig. 2D) were significantly higher than both 0.2 g TIV+MVA-NP+M1 (median 3030 EUs, Fig. 2B) and 1 g TIV+MVA-NP+M1 (median 2811 EUs, Fig. 2C). However, there was no significant difference in peak Ab titers achieved at 8 weeks at these 3 doses (medians 5087, 6755, 5574 EUs respectively, Fig. 2BD). This observation also held at 16 weeks and 24 weeks post-immunization (Fig. 2B-D). These results indicate that we have reached maximal titers achievable with a single vaccination and suggest that MVA-NP+M1 reduces the amount of
+
+© 2013 This article is protected by copyright. All rights reserved.
+
+6
+
+Accepted Article
+
+antigen needed to achieve high Ab titers. To evaluate IgG Ab isotypes induced by TIV+MVA-NP+M1 co-administration, isotype ELISAs were carried out using the serum of mice immunized with two different doses of TIV or TIV+MVA-NP+M1 at 8 weeks post-immunization when peak Ab titers are observed. IgG2a/IgG1 ratios were calculated and mice immunized with TIV+MVA-NP+M1 had significantly higher ratios of IgG2a/IgG1 as compared to mice immunize with TIV alone (Supporting Information Fig. S1).
+The adjuvanting effect of the candidate vaccine MVA-NP+M1 relies on both local and systemic factors
+In the data presented thus far, TIV and MVA-NP+M1 were mixed and administered in the same syringe. In order to dissect the underlying mechanism it is useful to examine whether this co-formulation is necessary for co-induction of cellular and humoral responses. To determine the optimal administration regimen we employed 3 different administration routes: mixed, separate flank, and adjacent (Materials and Methods). Serum IgG titers were assayed in response to TIV by ELISA at 2 weeks post-immunization Mice immunized with 0.2 g TIV+ MVA-NP+M1 in separate flanks possessed significantly higher titers of anti-TIV Ab than mice immunized with 0.2 g TIV alone (medians 596 and 178 EUs respectively, Fig.3A). Similarly, mice immunized with both TIV+MVA-NP+M1 via the adjacent route (Materials and Methods) possessed significantly higher titers of anti-TIV Ab than mice immunized with 0.2 µg TIV alone (medians 1857 and 178 EUs respectively, Fig.3A). When Ab titers are compared across all three
+
+© 2013 This article is protected by copyright. All rights reserved.
+
+7
+
+Accepted Article
+
+regimens at 2 weeks post-immunization there was no significant difference in titers between the adjacent and mixed administration route (medians 1857 and 1880 EUs respectively, Fig.3A). However, Ab titers for mice immunized with TIV+MVA-NP+M1 in separate flanks were significantly lower than mice immunized adjacently (medians 596 and 1857 EUs respectively, Fig.3A) and via the mixed regimen (medians 596 and 1880 EUs respectively, Fig.3A). Therefore while an enhanced Ab response was observed when mice received both vaccines in separate flanks (Fig.3A) these titers were 3-fold lower than the titers reached when mice received both vaccines in the same flank (Fig.3A). Therefore magnitude of the Ab response is influenced not only by local, but additionally by systemic factors.
+Class-switched antibody responses can be initiated through the extrafollicular or the germinal center pathway[11]. Having determined that TIV+MVA-NP+M1 co-administration leads to an enhanced Ab response that persists over time, we next evaluated differences in vaccination regimens at the germinal center level. Mice immunized with TIV or TIV+MVA-NP+M1 were sacrificed at days 7, 9, and 11; lymph nodes were isolated and single cells were surfaced stained for germinal center B cells (defined as B220+, CD-95+ GL-7+, Supporting Information Fig. S5). There were significantly higher percentages of germinal center B cells in mice receiving TIV+MVA-NP+M1 as compared to TIV only at all time points in inguinal draining lymph nodes (Fig.3B).
+
+© 2013 This article is protected by copyright. All rights reserved.
+
+8
+
+Accepted Article
+
+Hemagglutination Inhibition Assay and Challenge Studies With evidence that our co-administration regimen induces high levels of
+serum IgG antibodies specific to the homologous TIV components, we additionally sought to evaluate whether these serum antibodies exhibited hemagglutination inhibition (HAI) activities. The ability of serum antibodies to inhibit hemagglutination is considered a functional antibody response. We determined homologous HAI titers against all three influenza virus components of the 2010-2011 TIV using serum samples collected at 2 weeks post-immunization (Table 1). More serum samples from mice receiving TIV+MVA-NP+M1 displayed intact HAI responses than mice receiving TIV alone (Table 1, where an intact response is defined as HAI 20). Most serum samples failed to react with B component (B/Brisbane/60/08) (Table 1). When geometric mean titers were calculated against each individual virus, HAI titers for mice receiving TIV+MVANP+M1 were significantly higher than mice receiving TIV alone for A/California/07/09 and A/Perth/16/09 viruses (Table 2). These results demonstrate that functional antibodies are induced by the co-administration regimen and serum antibodies from mice receiving TIV+MVA-NP+M1 vaccines display greater HAI activities. We then went on to conduct homologous influenza virus challenge experiments to determine the relative protective efficacy of the coadministration regimen. Mice were immunized with 0.2 µg TIV or 0.2 µg TIV+MVA-NP+M1 and challenged by intranasal administration with A/England/195/09 (H1N1) six months after vaccination. Mice receiving TIVMVA-NP+M1 lost less body weight than mice in the naïve and TIV only groups
+
+© 2013 This article is protected by copyright. All rights reserved.
+
+9
+
+Accepted Article
+
+(Fig.3C). Survival rates for naïve mice were identical to mice immunized with TIV only (n=3), and while the co-administration group trended toward increased survival (n=6) the difference was not statistically significant (Fig.3D).
+Co-administration with H5 HA in Mice Human infections with highly pathogenic avian influenza (HPAI) viruses are associated with a high risk of death and considering that most of the world's population is immunologically naïve, there is a pressing requirement to develop an H5N1 vaccine [12]. Many difficulties have been encountered in the advancement of H5N1 vaccines. Protein based vaccines have proven to be poorly immunogenic and potent adjuvants or high doses of protein are needed to elicit sufficient antibody titers [13-16]. Moreover, H5N1 viruses have diverged considerably into distinct clades and subclades, making cross-clade protection an important criterion for a potential vaccine candidate [17]. The results presented here suggest that MVA-NP+M1 co-administration can enhance antibody responses and reduce the amount of antigen required to induce maximal antibody titers, making it a promising vaccine candidate in the context of H5N1 vaccine initiatives. We sought to assess whether MVA-NP+M1 could improve the immunogenicity of recombinant H5 HA protein. C57BL/6 mice were immunized i.m. twice with either 10 µg of H5 A/Vietnam/1203/04 (A/VN/1203/04) or 10 µg H5 and 106 PFU MVA-NP+M1. Serum IgG titers were assessed 2 weeks after each immunization and at 8 weeks following the second i.m.x to H5 HA derived from A/VN/1203/04 by ELISA. At all time points, mice receiving H5+MVA-
+
+© 2013 This article is protected by copyright. All rights reserved.
+
+10
+
+Accepted Article
+
+NP+M1 possessed significantly higher titers of antibodies as compared with mice vaccinated with H5 only (Fig.4A), indicating that MVA-NP+M1 coadministration is capable of enhancing Ab responses to poorly immunogenic H5 HA. We next sought to evaluate the functional capacity of these antibodies and the breadth of response. One way to achieve this in the context of HPAI viruses is utilization of pseudotype virus neutralization assays. This technique has been used extensively to study and quantify neutralizing antibodies targeting HAs and is particularly advantageous as it is able to assess antibodies directed to both the globular head and conserved stem regions of HA[5]. We tested the homologous and cross-clade neutralization activity of mouse antisera using H5 lentiviral pseudotypes at the peak of the Ab response. Mice immunized with H5+MVANP+M1 generated significantly higher titers of neutralizing antibodies against A/VN/1203/04 than mice immunized with H5 protein alone (Table 3). Moreover, this co-administration regimen resulted in significantly higher titers of cross-clade neutralizing Abs, suggesting an increase in the breadth of the humoral response (Table 3). Enhanced antigen-specific T-cell responses offer one possible explanation for the observed increase in the magnitude and breadth of the humoral response. To test this hypothesis ex vivo IFN- ELISPOT responses to H5 HA were measured using splenocytes at 2 weeks post-1st immunization Mice receiving H5+MVA-NP+M1 displayed significantly higher response to H5 HA than animals immunized with H5 only (medians 170 and 13 SFUs respectively, Fig.4B). Surface and intracellular staining indicated the majority of IFN- producing T cells to be CD4+ (Supporting Information Fig. S2-S4).
+
+© 2013 This article is protected by copyright. All rights reserved.
+
+11
+
+Accepted Article
+
+Co-administration with H7 HA in Chickens We next sought to test this vaccine in relevant animal species. HPAI of the H5 and H7 subtypes remain a constant concern in the world poultry industry. This has lead the World Organization for Animal Health and the Food and Agricultural Organization of the United Nations to recommend vaccination of poultry [18, 19]. Several viral vectors expressing HA constructs have been shown to be immunogenic and protective against HPAI challenge [18]. To investigate this regimen and MVA-NP+M1 co-administration, specific pathogen free (SPF) outbred Light Sussex chickens were vaccinated in ovo (io) with 1x109 infectious units (IU) of AdHu5-NP+M1 (Materials and Methods). At 3 weeks post-hatch chickens were boosted with either 10 µg A/Netherlands/219/03 (H7) HA or 10 µg H7 HA + 1x107 PFU MVA-NP+M1. One group was not primed io and only received 10 µg H7 HA + 1x107 PFU MVA-NP+M1 at 3 weeks post-hatch. Naïve birds served as negative controls. Serum IgG titers were measured at 3 weeks post-prime, and 1, 2, 3 and 4 weeks post-boost against H7N7 HA by ELISA. Serum from individual birds was pooled according to administration group. Postboost, chickens receiving AdHu5-NP+M1 prime and H7 HA+MVA-NP+M1 boost displayed the highest Ab titers (Fig.4C). Interestingly, chickens receiving only one H7 HA+MVA-NP+M1 boost displayed higher Ab titers than birds receiving AdHu5-NP+M1 prime followed by an H7 HA protein boost (Fig.4C). Ex vivo IFN- ELISPOT responses to a pool of NP+M1 peptides were measured using splenocytes at 10 days post-boost. Chickens receiving AdHu5-NP+M1 io
+
+© 2013 This article is protected by copyright. All rights reserved.
+
+12
+
+Accepted Article
+
+and H7 HA +MVA-NP+M1 boost had significantly higher T cell responses compared to AdHu5-NP+M1/HA and nil io/MVA-NP+M1+H7 HA (medians 805, 29, 178 SFUs respectively; Fig.4D). Taken together these data provide preliminary evidence in chickens MVA-NP+M1 co-administration is capable of eliciting potent T-cell responses and simultaneously increasing Ab responses to H7 HA.
+Co-administration with H5 in Pigs Although swine are utilized as an influenza animal model less frequently than mice and ferrets, pigs are a clinically relevant large animal species for studying human influenza viruses as they are natural reservoirs for H1N1 and H3N2 viruses[20]. To test our MVA-NP+M1 co-administration regimen outbred pigs (Sus scrofa, n=18 total, 6 per group) were immunized i.m. in a heterologous prime-boost regimen with a 4 weeks interval between immunization Animals were randomly allocated to one of three groups: (i) were primed with 10 µg H5 HA (A/duck/Hunan/795/02) and boosted with an identical amount of protein; (ii) primed with ChAdOx1-NP+M1 and boosted with MVA-NP+M1; or (iii) primed with 10 µg H5 HA and ChAdOx1-NP+M1 and boosted with H5 HA and MVANP+M1. Serum IgG titers were measured at D0, D28, D35, D42 and D56 by ELISA. The peak antibody response was observed on D42 (2 weeks post-boost) and we assessed neutralization activity of antisera from this time point in pseudotype neutralization assays. Although no significant differences were observed in the ELISA titers between groups receiving H5 protein only and
+
+© 2013 This article is protected by copyright. All rights reserved.
+
+13
+
+Accepted Article
+
+H5HA+ChAdOx1/H5HA+MVA (Fig.4E), animals in the co-administration group displayed significantly higher titers of neutralizing Abs against 4 out of 5 lentiviral pseudotypes tested (Table 4). As with the H5 HA co-administration data in mice, these results indicate that co-administration with viral vectors increases the breadth of the Ab response. Peripheral blood mononuclear cell (PBMC) responses to NP and M1 were measured by IFN- ELISPOT. All pigs displayed measurable responses to NP and M1 peptide pools following boost and peak Tcell responses were observed 7 days post-boost (D35). At the peak of the response the two groups of animals immunized with viral vectors possessed significantly higher T-cell responses than animals immunized with protein only (Median 134, 177 and 1 SFUs respectively; Fig.4F).
+Discussion Innovative vaccination strategies offer a promising way forward in the
+global effort to manage seasonal and pandemic influenza infections. In this study we investigated the administration of our candidate MVA-NP+M1 vaccine with various HA protein formulations in three animal species. With the exception of live attenuated influenza vaccines (LAIV), almost all seasonal vaccines are preparations of inactivated antigen which are limited in their ability to protect against different subtypes and strains of influenza. The morbidity and mortality associated with influenza make the improvement of preventative health-care measures a significant public health priority. There is an increasing body of
+
+© 2013 This article is protected by copyright. All rights reserved.
+
+14
+
+Accepted Article
+
+evidence, in humans, that T cells can limit the severity of influenza-associated illness and reduce viral shedding [7, 10]. Poxviral vectors are known to generate potent T-cell responses and MVA-NP+M1 has proven to be highly immunogenic in Phase I and Phase IIa trials [9, 10]. An influenza vaccination platform capable of generating both cellular and humoral responses has the potential to improve vaccine efficacy and provide protection in pandemic situations. The use of poxviruses as an adjuvant for protein has previously been reported in a hepatitis B mouse model [21]. We assessed a similar strategy in the context of influenza vaccine. Although previous reports have demonstrated that priming with internal antigens can increase anti-HA responses up subsequent influenza infection [22, 23], here we employed a distinct vaccination strategy. The present analysis establishes that a single co-administration of MVA-NP+M1 in influenza naïve animals is able to improve the immunogenicity of licensed influenza vaccines by simultaneously enhancing Ab responses against surface proteins and generating cellular responses to conserved internal antigens.
+We have shown that co-administration of TIV and MVA-NP+M1 in mice leads to the induction of Ab responses that are maintained over time. Protein-inadjuvant vaccine formulations are often used to induce high and sustained Ab responses and we suggest that MVA-NP+M1 acts as an adjuvant by enhancing the humoral response while limiting the amount of antigen needed to achieve maximal Ab titers (Fig. 2B-D).
+Having established that MVA-NP+M1 enhances B-cell responses we investigated whether co-administration increases the magnitude of the response or
+
+© 2013 This article is protected by copyright. All rights reserved.
+
+15
+
+Accepted Article
+
+induces a qualitatively distinct humoral response. We examined B-cell responses at the germinal center level in draining lymph nodes and went on to characterize anti-TIV antibodies. Mice immunized with TIV+MVA-NP+M1 showed significantly higher percentages of germinal center B cells in the draining lymph nodes (Fig.3B), suggesting that the observed difference in serum antibody titers may be due to enhancement of the germinal center pathway. Interestingly an increased antibody response was observed when MVA-NP+M1 and TIV were administered in separate limbs, although the highest antibody titers were achieved when the two vaccines were given in the same limb (Fig.3A).
+Consistent with previous reports on viral vector vaccination regimens, our results indicated a trend toward increased titers of IgG2a in mice receiving TIV+MVA-NP+M1 as opposed to TIV alone (Supporting Information Fig. S1). Moreover, IgG2a/IgG1 ratios were significantly higher in mice receiving MVANP+M1 than mice receiving TIV alone (Supporting Information Fig. S1). In mice Th-1 responses are dominated by IgG2a and this isotype is thought to exert the strongest effector functions by activating complement, participating in Abdependent cellular inhibition and phagocytosis [24]. We employed HAI assays and challenge experiments to assess the functional and protective capacity of antibodies induced by the co-administration regimen. Mice vaccinated with TIV+MVA-NP+M1 displayed greater HAI activity (Tables 1&2), and showed a trend toward increased survival following a homologous challenge (Fig.3D). These findings provide evidence that this approach potentiates a functional antibody response and offers preliminary indications of enhanced efficacy.
+
+© 2013 This article is protected by copyright. All rights reserved.
+
+16
+
+Accepted Article
+
+HPAI outbreaks remain a challenge for both animal and public health. To assess the ability of MVA-NP+M1 to increase responses to H5 and H7 subtypes we examined co-administration of MVA-NP+M1 with H5 A/VN/1203/04 in mice, H7 A/Netherlands/219/03 in chickens, and H5 A/duck/Hunan/795/02 in pigs. Co-administration of H5 in mice was capable of significantly increasing Ab responses over protein vaccination alone (Fig.4A). A crucial requirement of H5 vaccines is the ability to induce cross-clade protection against divergent H5N1 strains. Previous studies with H5-based vaccine report the induction of cross-cross clade neutralizing antibodies [13, 15, 16]. We utilized pseudotype neutralization assays to evaluate the functional capacity of antibodies. This technique has proven to be a powerful tool that allows for the assessment of antibodies directed to both the head and stem regions of HA. We observed cross-clade neutralizing antibodies in mice immunized with MVA-NP+M1 at significantly higher titers than animals immunized with protein alone (Table 3). To gain further insight into the underlying mechanism responsible for the adjuvant effect, we examined T-cell responses to HA and found co-administration significantly increased the frequency of HA-specific T cells (Fig.4B). Vaccination of poultry offers one approach for control of avian influenza viruses and several studies have examined the use of viral vectors in this context. In chickens, Adenoviruses expressing H5 HA or H7 HA have demonstrated protection from HPAI challenge when administered io and in a homologous prime-boost regimen [18, 19]. Similarly a single immunization with MVA expressing H5 HA also conferred protection against lethal challenge in chickens [25]. We evaluated the ability of a
+
+© 2013 This article is protected by copyright. All rights reserved.
+
+17
+
+Accepted Article
+
+heterologous prime-boost regimen to increase responses to H7 HA for the first time in chickens. Although this study did not go on to challenge the vaccinated chickens, a recent challenge study evaluating an identical prime-boost regimen administered without protein demonstrated reduced cloacal virus shedding [26]. Our data indicated a trend toward increased Ab responses in birds receiving H7 +MVA-NP+M1 (Fig.4C) and a robust T-cell response to conserved internal antigens (Fig.4D). While further studies will be necessary to assess the ability of these regimens in a challenge model, our data in combination with the recent proof of concept study suggest that this vaccination regimen could be efficacious in chickens.
+Despite being infrequently utilized in influenza studies, pigs are a valuable animal model as influenza viruses are enzootic in pigs [27]. In this study we assessed the immune response in outbred pigs following a heterologous primeboost regimen. In one treatment group, H5 HA protein was administered with viral vectors at both prime and boost immunizations. After boosting, we detected T-cell responses to NP+M1 peptide pools in PBMCs in the two treatment groups that received viral vectors (Fig.4F). These T-cell responses peaked 7 days postboost and were significantly higher than in animals that received two inoculations of protein only (Fig.4F). Similar to the data in chickens, pigs in the coadministration group (H5HA+ChAdOx1/H5HA+MVA) displayed a trend toward increased Ab titers at the peak of the response (D42, Fig.4E). While the difference between this group and animals receiving H5 HA protein only was not significant, the co-administration group generated significantly higher titers of neutralizing
+
+© 2013 This article is protected by copyright. All rights reserved.
+
+18
+
+Accepted Article
+
+antibodies against four H5 lentiviral pseudotypes (Table 4). Thus in both swine and murine models we found Abs that exhibited broad patterns of neutralization against different H5 pseudotypes representative of antigenically divergent clades.
+The main finding of this study is that that co-administration of HA protein and MVA-NP+M1 can simultaneously induce both strong humoral and cellular responses in a mouse model. Our results provide preliminary evidence that MVANP+M1 also acts in chickens and pigs as an adjuvant to boost B-cell responses. The improved immunogenicity of co-administration is especially promising as the efficacy of licensed vaccines is particularly poor in the elderly and immunocompromised individuals, whereas MVA-NP+M1 is highly immunogenic in older adults [28]. This approach of combining poxviral vectors with licensed vaccines could improve the efficacy of seasonal influenza vaccines and play an important role in limiting the severity of global pandemics.
+Materials and Methods
+Murine immunizations All procedures were performed in accordance with the terms of the United Kingdom Animals (Scientific Procedures) Act Project License and were approved by the University of Oxford Animal Care and Ethical Review Committee. Sixweek-old C57BL/6 (H-2b) mice (Harlan Laboratories, Oxfordshire, UK) were anesthetized prior to immunization with Isoflo (Abbot Animal Health). All immunizations were administered i.m. into the musculus tibialis. Three separate
+
+© 2013 This article is protected by copyright. All rights reserved.
+
+19
+
+Accepted Article
+
+administration routes were used in the experiments described in this study. For the regimen designated "Mixed" TIV and MVA-NP+M1 were co-formulated prior to injection and administered in the same syringe. In the "Separate flank" regimen, mice received TIV in one flank and MVA-NP+M1 was administered in the opposite flank. Finally, in the "Adjacent' administration route TIV and MVANP+M1 were administered in the same flank but in separate syringes (i.e. side-byside). Immunization doses and intervals are explained in the text and figure legends. With the exception of the germinal center staining, immune responses were assayed at 2, 8, 16, and 24 weeks post-immunization. Pig immunizations Outbred male (Sus scrofa) pigs were conventionally reared at the Central Veterinary Institute, part of Wageningen University & Research (Lelystad, The Netherlands). Pigs were 8 weeks of age at the initiation of the study, weighing approximately 20±5kg. Prior to the study, all pigs were bled and shown to be negative for influenza exposure by an NP ELISA. The pigs (n=6 per group, 3 groups) received two immunizations 4 weeks apart (D0 and D28). On D0 pigs received H5 HA only (A/duck/Hunan/795/02) (group 1), ChAdOx1-NP+M1 (group 2), or H5 HA and ChAdOx1-NP+M1 (group 3). Four weeks later groups were boosted with either H5 HA (A/duck/Hunan/795/02) (group 1), MVANP+M1 (group 2), or H5 HA and MVA-NP+M1 (group 3). The vaccines were supplied separately and in the group receiving both H5 HA and a viral vector the two injections were administered adjacently in the same limb. Blood samples were taken at days 0, 28, 35, and 42 post-immunization Blood samples collected
+
+© 2013 This article is protected by copyright. All rights reserved.
+
+20
+
+Accepted Article
+
+at Lelystad were kept at room temperature (RT) and shipped overnight to the Pirbright Institute (Compton Laboratory, UK). All animals were sacrificed on D56 and post-mortem spleen and bronchiolar lavage samples were collected. Swine experiments were approved by the experimental commission of CVI. CVI is authorized to perform animal studies by permission of the Dutch Ministry of Agriculture. Chicken immunizations Specific pathogen free (SPF) outbred Light Sussex chickens were supplied as 19day-old embryos by the Poultry Production Unit of the Pirbright Institute. Birds were maintained post-hatch in SPF containment and experimental procedures were carried out in accordance with IAH Ethical Review and UK Home Office requirements. Vaccination regimens were: Ad-NP+M1 io, HA post-hatch (n=5); no treatment io, MVA-NP+M1 and HA post-hatch (n=5); Ad-NP+M1 io, MVANP+M1 and HA post hatch (n=5). Naïve birds served as controls (n=4). At 3 weeks post-hatch MVA-NP+M1 was administered into the pectoral muscle, with or without H7 HA (A/Netherlands/219/03). For the co-administration group MVA-NP+M1 and HA were mixed prior to administration. Blood samples were taken by wing vein puncture pre-boost and at weekly intervals post-boost for 4 weeks.
+Viral vectors and protein vaccines The poxviral vector administered in this study is a recombinant Modified Vaccinia Virus Ankara (MVA-NP+M1) expressing influenza A NP fused to matrix protein M1 via a flexible linker (GGGPGGG) to form a single open
+
+© 2013 This article is protected by copyright. All rights reserved.
+
+21
+
+Accepted Article
+
+reading frame (NP+M1). The design and manufacturing of MVA-NP+M1 has been previously described [9]. MVA-NP+M1 was administered at 106 PFU i.m. in mice, 1.5 x 108 PFU in pigs and 107 PFU in chickens. Pigs received 10 g of H5 HA A/duck/Hunan/795/02 (NIH Biodefense and Emerging Infection Research Resource Repository, NIAID, NIH). Chickens were immunized with 10 g of recombinant H7 HA from A/Netherlands/219/03 (H7) per bird (BEI Resources, Manassas, VA). Mice in H5 HA co-administration studies were immunized twice with 10 g of recombinant A/VN/1203/04 (BEI Resources, Manassas, VA), with a 3 weeks interval between each administration. Recombinant AdHu5 and ChAdOx1 expressing the NP+M1 constructs were generated in an identical manner to previously described recombinant adenoviral vectors [29, 30]. For chicken immunization, AdHu5-NP+M1 was administered io at 1 x 109 infectious units (IU) per embryo at day 19 of embryonic development. Pigs received 5 x 1010 vp ChAdOX1-NP+M1 in the hind leg i.m.. Unadjuvanted Fluarix (GSK, Dresden,Germany) or Fluzone (Sanofi-Pasteur) were used for all TIV vaccinations at the doses described in the text and figure legends.
+Standardized ELISA To detect total IgG to TIV, Nunc Maxisorp plates were coated at a concentration of 0.75 g/mL TIV and left overnight at 4 C. For H5 and H7 HA ELISAs plates were coated at a concentration of 2 g/mL with H5 HA (A/Vietnam/1203/04) or H7 HA (A/Netherlands/219/03). The following day, plates were washed 6x with PBS containing 0.05% Tween 20 (PBS/T). Plates were blocked with 100 L/well of Casein block solution (Pierce) for 2 h at RT followed by another wash step.
+
+© 2013 This article is protected by copyright. All rights reserved.
+
+22
+
+Accepted Article
+
+Dilution series of serum samples (2-fold from 1:500) were added to the plates for 2 h at RT. A reference serum was used to generate at standard curve. The reference sera for mice consisted of pooled sera from mice immunized with TIV+MVA-NP+M1. For chickens, sera from birds previously infected with A/turkey/England/1977 H7N7 were used. A standard positive serum sample and a naïve serum sample were added as controls for each assay. Plates underwent a further wash step before the addition of the either alkaline phosphatase conjugated goat anti-mouse IgG (1:5000, Sigma), or rabbit anti-chicken IgY (1:5000; Sigma) for 1 h at RT. Bound antibodies were detected by adding p -nitrophenylphosphate substrate (pNPP, Sigma) diluted in diethanolamine buffer (Fisher Scientific). Plates were allowed to develop until the 5th dilution of standard reference serum (1:1600) reached an OD405 of 1 using an ELx800 microplate reader (Biotek). This point was defined as 1 relative antibody unit and units were read off of the standard curve similar to published methodology[31]. Samples were diluted to fall on the linear part of the standard curve. Swine Endpoint Titers ELISAs To determine H5 HA-specific IgG titers, 96 well plates were coated for 1 hr at RT with H5 HA from A/duck/Hunan/795/02 (1 µg/ml in carbonate buffer, pH 9.6). Plates were washed 5 times with PBS/T and blocked with PBS containing 0.5% Tween 20 and 4% skimmed milk (blocking buffer) for 1 hr. After five washes, 100 l per well blocking buffer or 1:3 serial dilutions of sera (starting from 1:50) were added and incubated for 1 h at RT. Plates were subsequently washed before the addition of goat anti-pig IgG coupled to horseradish peroxidase (1:100,000)
+
+© 2013 This article is protected by copyright. All rights reserved.
+
+23
+
+Accepted Article
+
+for 1 hr at RT. After washing, 100 l 3,3',5,5-tetra-methyl benzidine (TMB) substrate was added and the reaction was stopped after 10 min by the addition of 50 l of 1.2M H2SO4. The optical density (OD) values at both 450 and 630 nm were read for each well on a SpectraMAX 250 plate reader at dual wavelength. Anti-ovalbumin IgG titers (mean of duplicates) were calculated as follows: the log10 OD against log10 sample dilution was plotted and a regression analysis of the linear part of this curve allowed calculation of the endpoint titer with an OD of twice the background. Mouse Challenge Model Six months following immunization with either 0.2 g TIV (n=7) or 0.2 g TIV+MVA-NP+M1 (n=7) mice were challenged with A/England/195/2009 (H1N1) influenza virus along with naïve controls (n=7). Mice were anesthetized with 100 µL of ketamine/dormitor® administered via intraperitoneal injection (i.p.). Virus was inoculated intranasally in a volume of 50 µL and each mouse received 1x104 PFU. Mice were monitored daily for 14 days for clinical disease, symptoms including weight loss, piloerection, and reduced motility; animals with no weight loss were considered to have failed challenge. A 25% reduction in bodyweight was defined as a humane endpoint and animals meeting this criterion were euthanized. Pseudotype Neutralization Assay Influenza lentiviral pseudotypes for H5N1A/Vietnam/1203/2004 (A/VN/1203/04), A/Hong Kong/213/2003 (A/HK/213/03), A/turkey/Turkey/1/2005 (A/tk/Tk/1/05), A/Indonesia/5/2005 (A/IN/5/05), and
+
+© 2013 This article is protected by copyright. All rights reserved.
+
+24
+
+Accepted Article
+
+A/Anhui/1/2005 (A/AN/1/05), expressing firefly luciferase were produced at the Viral Pseudotype Unit. Pseudotype neutralization assays [32] . Briefly, mouse and pig serum samples were serially diluted twofold from 1:40 in a 96-well flat bottom plate. A comparable amount of each pseudotype (giving an output of 500,000 Relative Light Units) was incubated with sera for 1 h at 37°C before the addition of 1x104 293T cells per well. Luciferase activity was measured 48 h later and IC50 neutralization titer was determined as the serum dilution yielding a 50% reduction in luciferase activity as compared to control wells with virus alone.
+Hemagglutinin Inhibition Assay The HAI assays were performed in V-bottom microtiter plates with 0.75% turkey erythrocytes as previously described [33]. To assess the geometric mean titers, negative samples were assigned a value of half the minimum detectable amount.
+Murine Ex-vivo IFN- ELISPOT IFN- ELISPOTs were carried out using splenocytes as previously described[34]. To gauge NP+M1 responses, 15-20-mer peptides overlapping by 10 amino acids spanning the carboxy-terminal half of the NP insert were used to stimulate splenocytes at a final concentration of 5 g/ml. Previous experiments using peptides spanning the entire NP+M1 insert determined that the majority of responses were directed against the carboxy-terminal half of NP. To measure HA responses, 20-mer peptides overlapping by 10 amino acids spanning the entire length of H5 HA (VN/1203/04 Accession ABW90125.1) were used to stimulate splenocytes at a final concentration of 5 g/ml.
+
+© 2013 This article is protected by copyright. All rights reserved.
+
+25
+
+Accepted Article
+
+Pig ex vivo IFN- ELISPOT IFN- ELISPOTs were completed using PBMCs as previously described [27]. 15- 20-mer peptides overlapping by 10 amino acids spanning the entire NP+M1 insert were used to stimulate PBMCs at a final concentration of 10 g/ml. Chicken ex vivo IFN- ELISPOT Post mortem spleens were prepared and IFN- ELISPOT was carried out as described previously [26]. Overlapping pools of 15- to 20-mer peptides spanning the entire NP+M1 insert were used to measure T cell responses. Pools of irrelevant peptides were used to control for background responses.
+Preparation of cell suspensions for Germinal Center Staining Draining inguinal lymph nodes were harvested on days 7, 9, and 11 postimmunization. Lymph nodes were passed through a 70 m cell strainer (Falcon) in PBS. Cells were spun down and resuspended at 107 cells/mL, before 100 L were plated in a round bottom 96-well plate.
+Flow Cytometry and Germinal B Cell Center Staining Conjugated Abs anti-mouse B220 PerCP-Cy7, CD95-PE and GL-7-FITC were obtained from eBioscience. C57BL/6 mice were immunized as previously described. On days 7, 9, and 11 inguinal draining lymph nodes were harvested and processed as described above. Surface staining was carried out for 30 min at 4 C in the dark on 1x106 cells in PBS/BSA (0.05% BSA). Cells were spun down and washed twice. Fluorescence was immediately analyzed on an LSRII (BD
+
+© 2013 This article is protected by copyright. All rights reserved.
+
+26
+
+Accepted Article
+
+Sciences, Franklin Lakes, NJ) and analyzed with FlowJo software (Treestar, Inc. Ashland,OR)
+Statistical Analysis Statistical analysis was carried out using Prism 5 software (GraphPad, La Jolla, CA, USA). For nonparametric data, a Mann-Whitney U test was used to compare two groups. One-way ANOVA or Kruskal-Wallis tests were used to compare 2 or more groups. A p value <0.05 was considered significant throughout.
+Acknowledgements The research leading to these results has received funding from the European Community's Seventh Framework Programme (FP7, 2007-2013), Research Infrastructures action, under the grant agreement No. FP7-228393 (NADIR project). The following reagents were obtained through BEI Resources, NIAID, NIH: H7 Hemagglutinin Protein from A/Netherlands/219/03 (H7N7) and H5 Hemagglutinin from A/VN/1203/04 (H5N1) Recombinant from Baculovirus, NR2633 and NR-10510 respectively. The following reagent was obtained through the NIH Biodefense and Emerging Infection Research Resources Repository, NIAID, NIH: H5 Hemagglutinin Protein from Influenza Virus, A/duck/Hunan/795/02 (H5N1), Recombinant from Baculovirus, NR-15631. We thank John McCauley at the National Institute of Medical Resource for the provision of virus used in HAI assays and Wendy Barclay at Imperial College London for the influenza virus used in challenges. TL is a James Martin fellow and SCG and BC are Jenner
+
+© 2013 This article is protected by copyright. All rights reserved.
+
+27
+
+Institute Investigators. SCG is named as an inventor on patents relating to methods of vaccination, including influenza vaccination.
+Conflict of interest The authors declare no financial or commercial conflict of interest.
+
+Accepted Article
+
+© 2013 This article is protected by copyright. All rights reserved.
+
+28
+
+Accepted Article
+
+References
+1 Grebe, K. M., Yewdell, J. W. and Bennink, J. R., Heterosubtypic immunity to influenza A virus: where do we stand? Microbes and Infection 2008. 10: 1024-1029.
+2 Ellebedy, A. H. and Webby, R. J., Influenza vaccines. Vaccine 2009. 27: D65-D68.
+3 Petrie, J. G., Ohmit, S. E., Johnson, E., Cross, R. T. and Monto, A. S., Efficacy Studies of Influenza Vaccines: Effect of End Points Used and Characteristics of Vaccine Failures. Journal of Infectious Diseases 2011. 203: 1309-1315.
+4 Osterholm, M. T., Kelley, N. S., Sommer, A. and Belongia, E. A., Efficacy and effectiveness of influenza vaccines: a systematic review and meta-analysis. Lancet Infect Dis 2012. 12: 36-44.
+5 Wei, C. J., Boyington, J. C., McTamney, P. M., Kong, W. P., Pearce, M. B., Xu, L., Andersen, H. et al., Induction of Broadly Neutralizing H1N1 Influenza Antibodies by Vaccination. Science 2010. 329: 10601064.
+6 McMichael, A. J., Gotch, F. M., Noble, G. R. and Beare, P. A. S., CytoToxic T-Cell Immunity To Influenza. New England Journal of Medicine 1983. 309: 13-17.
+7 Wilkinson, T. M., Li, C. K. F., Chui, C. S. C., Huang, A. K. Y., Perkins, M., Liebner, J. C., Lambkin-Williams, R. et al., Preexisting influenza-specific CD4+ T cells correlate with disease protection against influenza challenge in humans. Nat Med 2012. 18: 274-280.
+8 McMichael, A. J., Dongworth, D. W., Gotch, F. M., Clark, A. and Potter, C. W., Declining T-Cell Immunity To Influenza, 1977-82. The Lancet 1983. 322: 762-764.
+9 Berthoud, T. K., Hamill, M., Lillie, P. J., Hwenda, L., Collins, K. A., Ewer, K. J., Milicic, A. et al., Potent CD8+ T-Cell Immunogenicity in Humans of a Novel Heterosubtypic Influenza A Vaccine, MVA-NP+M1. Clinical Infectious Diseases 2011. 52: 1-7.
+10 Lillie, P. J., Berthoud, T. K., Powell, T. J., Lambe, T., Mullarkey, C., Spencer, A. J., Hamill, M. et al., Preliminary assessment of the efficacy of a T-cell-based influenza vaccine, MVA-NP+M1, in humans. Clin Infect Dis 2012. 55: 19-25.
+11 Kasturi, S. P., Skountzou, I., Albrecht, R. A., Koutsonanos, D., Hua, T., Nakaya, H. I., Ravindran, R. et al., Programming the magnitude and persistence of antibody responses with innate immunity. Nature 2011. 470: 543-U136.
+12 Powell, T. J., Fox, A., Peng, Y., Le Thi Quynh, M., Lien, V. T. K., Hang, N. L. K., Wang, L. et al., Identification of H5N1-Specific T-Cell Responses in a High-risk Cohort in Vietnam Indicates the Existence of Potential Asymptomatic Infections. Journal of Infectious Diseases 2012. 205: 20-27.
+
+© 2013 This article is protected by copyright. All rights reserved.
+
+29
+
+Accepted Article
+
+13 Nolan, T. M., Richmond, P. C., Skeljo, M. V., Pearce, G., Hartel, G., Formica, N. T., Höschler, K. et al., Phase I and II randomised trials of the safety and immunogenicity of a prototype adjuvanted inactivated splitvirus influenza A (H5N1) vaccine in healthy adults. Vaccine 2008. 26: 4160-4167.
+14 Stephenson, I., Bugarini, R., Nicholson, K. G., Podda, A., Wood, J. M., Zambon, M. C. and Katz, J. M., Cross-Reactivity to Highly Pathogenic Avian Influenza H5N1 Viruses after Vaccination with Nonadjuvanted and MF59-Adjuvanted Influenza A/Duck/Singapore/97 (H5N3) Vaccine: A Potential Priming Strategy. Journal of Infectious Diseases 2005. 191: 1210-1215.
+15 Leroux-Roels, I., Borkowski, A., Vanwolleghem, T., Dramé, M., Clement, F., Hons, E., Devaster, J.-M. et al., Antigen sparing and crossreactive immunity with an adjuvanted rH5N1 prototype pandemic influenza vaccine: a randomised controlled trial. The Lancet. 370: 580589.
+16 Nakayama, T., Kashiwagi, Y., Kawashima, H., Kumagai, T., Ishii, K. J. and Ihara, T., Alum-adjuvanted H5N1 whole virion inactivated vaccine (WIV) enhanced inflammatory cytokine productions. Vaccine 2012. 30: 3885-3890.
+17 Kreijtz, J. H. C. M., Suezer, Y., de Mutsert, G., van Amerongen, G., Schwantes, A., van den Brand, J. M. A., Fouchier, R. A. M. et al., MVA-Based H5N1 Vaccine Affords Cross-Clade Protection in Mice against Influenza A/H5N1 Viruses at Low Doses and after Single Immunization. PLoS ONE 2009. 4: e7790.
+18 Toro, H., van Ginkel, F. W., Tang, D.-c. C., Schemera, B., Rodning, S. and Newton, J., Avian Influenza Vaccination in Chickens and Pigs with Replication-Competent Adenovirus Free Human Recombinant Adenovirus 5. Avian Diseases 2010. 54: 224-231.
+19 Toro, H., Suarez, D. L., Tang, D.-c. C., van Ginkel, F. W. and Breedlove, C., Avian Influenza Mucosal Vaccination in Chickens with Replication-Defective Recombinant Adenovirus Vaccine. Avian Diseases 2011. 55: 43-47.
+20 Brown, I. H., The epidemiology and evolution of influenza viruses in pigs. Veterinary Microbiology 2000. 74: 29-46.
+21 Hutchings, C. L., Gilbert, S. C., Hill, A. V. S. and Moore, A. C., Novel Protein and Poxvirus-Based Vaccine Combinations for Simultaneous Induction of Humoral and Cell-Mediated Immunity. The Journal of Immunology 2005. 175: 599-606.
+22 Russell, S. M., Liew, F. Y., T cells primed by influenza virion internal components can cooperate in the antibody response to haemagglutinin. Nature 1979. 280: 147-148.
+23 Russell, S. M. and Liew, F. Y., Cell cooperation in antibody responses to influenza virus. I. Priming of helper T cells by internal components of the virion. European Journal of Immunology 1980. 10: 791-796.
+
+© 2013 This article is protected by copyright. All rights reserved.
+
+30
+
+Accepted Article
+
+24 Schmitz, N., Beerli, R. R., Bauer, M., Jegerlehner, A., Dietmeier, K., Maudrich, M., Pumpens, P. et al., Universal vaccine against influenza virus: Linking TLR signaling to anti-viral protection. European Journal of Immunology 2012. 42: 863-869.
+25 Veits, J., Römer-Oberdörfer, A., Helferich, D., Durban, M., Suezer, Y., Sutter, G. and Mettenleiter, T. C., Protective efficacy of several vaccines against highly pathogenic H5N1 avian influenza virus under experimental conditions. Vaccine 2008. 26: 1688-1696.
+26 Boyd, A. C., Ruiz-Hernandez, R., Peroval, M. Y., Carson, C., Balkissoon, D., Staines, K., Turner, A. V. et al., Towards a universal vaccine for avian influenza: Protective efficacy of modified Vaccinia virus Ankara and Adenovirus vaccines expressing conserved influenza antigens in chickens challenged with low pathogenic avian influenza virus. Vaccine 2013. 31: 670-675.
+27 Lefevre, E. A., Carr, B. V., Inman, C. F., Prentice, H., Brown, I. H., Brookes, S. M., Garcon, F. et al., Immune Responses in Pigs Vaccinated with Adjuvanted and Non-Adjuvanted A(H1N1)pdm/09 Influenza Vaccines Used in Human Immunization Programmes. Plos One 2012. 7.
+28 Antrobus, R. D., Lillie, P. J., Berthoud, T. K., Spencer, A. J., McLaren, J. E., Ladell, K., Lambe, T. et al., A T Cell-Inducing Influenza Vaccine for the Elderly: Safety and Immunogenicity of MVANP+M1 in Adults Aged over 50 Years. PLoS ONE 2012. 7.
+29 Draper, S. J., Moore, A. C., Goodman, A. L., Long, C. A., Holder, A. A., Gilbert, S. C., Hill, F. et al., Effective induction of high-titer antibodies by viral vector vaccines. Nat Med 2008. 14: 819-821.
+30 Dicks, M. D. J., Spencer, A. J., Edwards, N. J., Wadell, G., Bojang, K., Gilbert, S. C., Hill, A. V. S. et al., A Novel Chimpanzee Adenovirus Vector with Low Human Seroprevalence: Improved Systems for Vector Derivation and Comparative Immunogenicity. PLoS ONE 2012. 7: e40385.
+31 Miura, K., Orcutt, A. C., Muratova, O. V., Miller, L. H., Saul, A. and Long, C. A., Development and characterization of a standardized ELISA including a reference serum on each plate to detect antibodies induced by experimental malaria vaccines. Vaccine 2008. 26: 193-200.
+32 Temperton, N. J., Hoschler, K., Major, D., Nicolson, C., Manvell, R., Hien, V. M., Ha, D. Q. et al., A sensitive retroviral pseudotype assay for influenza H5N1-neutralizing antibodies. Influenza and Other Respiratory Viruses 2007. 1: 105-112.
+33 Global Influenza Programme, W., WHO Manual on Animal Influenza Diagnosis and Surveillance 2002
+34 de Cassan, S. C., Forbes, E. K., Douglas, A. D., Milicic, A., Singh, B., Gupta, P., Chauhan, V. S. et al., The Requirement for Potent Adjuvants To Enhance the Immunogenicity and Protective Efficacy of Protein Vaccines Can Be Overcome by Prior Immunization with a Recombinant Adenovirus. The Journal of Immunology 2011. 187: 2602-2616.
+
+© 2013 This article is protected by copyright. All rights reserved.
+
+31
+
+Accepted Article
+
+Figure 1. Co-administration of MVA-NP+M1 can affect the immune response to
+inactivated influenza vaccine. Mice were immunized i.m. with 0.2 µg TIV MVA-NP+M1 via the mixed administration route (Material and Methods). Total IgG titers in the serum were measured to TIV by standardized ELISA. "MVA" is used to abbreviate "MVA-NP+M1". (A) IgG titers measured at 2 weeks postimmunization. *** p<0.001 by Mann-Whitney test. (B) T-cell responses assayed by ex vivo IFN- ELISPOT in splenocytes at 2 weeks post-immunization are shown. Cells were stimulated with NP peptide pools. ** p<0.01 ***p<0.001 by Kruskal-Wallis test. (A, B) Symbols represent individual mice and bars represent medians. (C) Dose escalation study. Total IgG titers in the serum were measured to TIV by standardized ELISA. The dotted line indicates threshold for responses above background. Data are shown as median + interquartile range of 5 (0.004, 0.02, 0.1 and 1 g doses), 10 (1.5 g dose), 15 (0.04 g dose) and 20 (0.2 g dose) mice per group. (A-C) Data shown are pooled from three independent experiments. *p<0.05, **p<0.01,***p<0.001 by Mann-Whitney test.
+
+© 2013 This article is protected by copyright. All rights reserved.
+
+32
+
+Figure 2. Longevity of vaccine induced IgG responses. Mice were immunized i.m.
+with TIV MVA-NP+M1. For mice receiving TIV+MVA-NP+M1, vaccines were mixed prior to administration. Total IgG titers in the serum were measured to TIV by standardized ELISA at 2, 8, 16, and 24 weeks post-immunization for (A) 0.04 µg TIV ± MVA-NP+M1, (B) 0.2 µg TIV ± MVA-NP+M1, (C) 1 µg ± MVANP+M1. and Panel C(D): 1.5 µg ± MVA-NP+M1. The dotted line indicates threshold for responses above background. Data are shown as median + interquartile range for 5 mice per group and are representative of one experiment. *p<0.05, **p<0.01, ***p<0.001 by Mann-Whitney test.
+
+Accepted Article
+
+© 2013 This article is protected by copyright. All rights reserved.
+
+33
+
+Accepted Article
+
+Figure 3. Optimizing the co-administration regimen and homologous challenge. Mice were immunized i.m. with 0.2 g TIV+ MVA-NP+M1 via three separate administration routes (Separate flank, Adjacent, and Mixed as described in Materials and Methods). Total IgG titers were measured in the serum in response to TIV by ELISA at 2 weeks post-immunization. (A) Comparison of median IgG levels in response to TIV by ELISA at 2 weeks. Each symbol represents individual mice and the bars represent medians; data shown are pooled from three experiments performed. The dotted line indicates threshold for responses above background. A Kruskal-Wallis test with Dunn's multiple comparison posttest was used to determine statistical significance *p<0.05, ***p<0.001(B) Mixed coadministration of TIV and MVA-NP+M1 affects the percentage of germinal center B cells in the draining lymph node. Germinal center B cells in the draining inguinal lymph nodes were examined at 7, 9, and 11 days post-immunization by flow cytometry. Lymphocytes were gated on B220hi cells and subsequently analyzed for expression of CD95-PE and GL-7-FITC. Data are shown as median + interquartile range of 4 mice per time point and are from one experiment representative of two performed. *p<0.05 by Mann Whitney test. (C, D) Morbidity and mortality after homologous influenza challenge. Groups of C56BL/6 mice were immunized with either 0.2 g TIV, 0.2 g TIV+ MVANP+M1, or left unvaccinated. Six months following immunization animals were challenged intranasally with 1x104 PFU of A/England/195/09 and monitored for weight loss and survival. (C) The average % weight loss per day per treatment group and (D) the survival curves up to day 14 post-challenge are shown. Curves are offset by 0.2 units to allow for ease of viewing. Data are shown as mean of 7 mice per group and are representative of one experiment.
+
+© 2013 This article is protected by copyright. All rights reserved.
+
+34
+
+Accepted Article
+
+Figure 4. Ab responses to HA in mice, chickens, and pigs following MVANP+M1 co-administration. Mice were immunized i.m. twice with either 10 µg H5 HA A/Vietnam/1203/04 alone (H5 only) or H5 HA+ MVA-NP+M1 (H5+MVA). Vaccinations were administered via the mixed route three weeks apart. For chicken experiments, birds were either not primed (nil io) or primed io with AdHu5-NP+M1 1x109 infectious units (Ad io) and boosted with either H7 HA A/Netherlands/219/03 alone (HA only), or H7 HA+MVA-NP+M1 (MVA+HA) at three weeks post-hatch. Naïve animals receiving no treatment served as controls (no treatment). Pigs were primed i.m. with 10 µg H5 HA (A/duck/Hunan/795/02), 5 x1010 vp ChAdOx1-NP+M1, or 10 µg H5 HA+ ChAdOx1-NP+M1 (adjacent administration route). Four weeks later animals were boosted with either 10 µg H5 HA, 1.5 x 108 PFU MVA-NP+M1, or 10 µg H5 HA+ MVA-NP+M1. For mice and pigs, total IgG titers were measured in the serum in response to H5 HA by ELISA. Total IgY titers were measured to H7 HA by ELISA in chicken serum samples. (A) Time course of median IgG titers in mice for each treatment group. Data are shown as median + interquartile range for 5 animals and are representative of one experiment. The dotted line indicates threshold for responses above background. *p<0.05, **p<0.01 by Mann-Whitney test. (B) Tcell responses assayed by ex vivo IFN- ELISPOT in mouse splenocytes at 2 weeks post 1st immunization Cells were stimulated with H5 HA peptides; each symbol represents an individual mouse and bars represent medians. Data shown are representative of one experiment. **p<0.01 by Mann-Whitney test. (C) Median IgY levels in chickens against H7 HA by ELISA at all time points for all groups. Sera was pooled from 5 birds per immunization group. The dotted line indicates threshold for responses above background. (D) T-cell responses assayed by ex vivo IFN- ELISPOT in chicken splenocytes at 10 days post-boost. Cells were stimulated with overlapping NP+M1 peptide pools. Each symbol represents an individual chicken and bars represent means. Data shown are representative of one experiment *p<0.05 by one-way ANOVA with Tukey's multiple comparison posttest. (E) Median H5 HA IgG titers in pigs at day 42 post-prime immunization. (F) T-cell responses assayed by ex vivo IFN- ELISPOT in pig PBMCs at the peak of the T-cell response (day 35 post-prime immunization). Cells were stimulated with overlapping NP+M1 peptide pools and responses to individual pools were summed for each animal. Each symbol represents an individual pig and bars represent medians. Data shown are representative of one experiment. *p<0.05 **p<0.01 by Kruskal-Wallis test.
+
+© 2013 This article is protected by copyright. All rights reserved.
+
+35
+
+Accepted Article
+
+© 2013 This article is protected by copyright. All rights reserved.
+
+36
+
+Accepted Article
+
+Table 1 HAI responses to homologous TIV components at 2 weeks postimmunization.
+
+0.2 ug TIV A/CA/07/09
+A/Perth/16/09 B/Brisbane/60/08
+
+HI Titer  20
+
+n
+
+%
+
+4/10
+
+40
+
+0/10
+
+0
+
+0/10
+
+0
+
+0.2 ug TIV +MVA
+
+A/CA/07/09
+
+7/10
+
+70
+
+A/Perth/16/09
+
+9/10
+
+90
+
+B/Brisbane/60/08
+
+0/10
+
+0
+
+HI Titer 40
+
+n
+
+%
+
+0/10
+
+0
+
+0/10
+
+0
+
+0/10
+
+0
+
+4/10
+
+40
+
+6/10
+
+60
+
+0/10
+
+0
+
+© 2013 This article is protected by copyright. All rights reserved.
+
+37
+
+Accepted Article
+
+Table 2 HAI titers to influenza virus at 2 weeks postimmunization.
+
+HAI titer, geometric mean (95%
+
+CI)
+
+0.2 ug TIV
+
+0.2 ug TIV
+
++MVA
+
+A/CA/07/09 A/Perth/16/09 B/Brisbane/60/08
+
+13.2 (10.217.7)
+15.2 (8.9-25.8) N/A
+
+34.8a(16.275.07)
+52.8b (26-107.2)
+N/A
+
+a Significantly different between 0.2 g TIV and 0.2 ug TIV+MVA (p< 0.05 by Mann-Whitney U test) b Significantly different between 0.2 g TIV and 0.2 ug TIV+MVA (p<0.01 by Mann-Whitney U test)
+N/A insufficient responses to calculate GM
+
+© 2013 This article is protected by copyright. All rights reserved.
+
+38
+
+Accepted Article
+
+Table 3 Median inhibitory concentration (IC50) titers of mouse antisera against H5N1 lentiviral pseudotypes at 2 week post 2nd immunization.
+Mice were immunized twice with H5 HA from A/VN/1203/04 (clade 1) +/- MVA-NP+M1 (MVA)
+
+Homology
+
+IC50 Titers
+
+Lentiviral Pseudotype A/VN/1203/04
+
+Clade 1
+
+% Amino Acid sequence identity
+100
+
+H5 protein only 70
+
+H5+MVA 799a
+
+A/IN/5/05
+
+2.1.3.2
+
+96.6
+
+160
+
+714a
+
+A/AN/1/05
+
+2.3.4
+
+96.3
+
+134
+
+1372a
+
+A/tk/Tk/1/05
+
+2.2.1
+
+96.1
+
+188
+
+1711a
+
+a Significantly different between H5 only and H5+MVA (p< 0.01 by Mann-Whitney U test)
+
+© 2013 This article is protected by copyright. All rights reserved.
+
+39
+
+Accepted Article
+
+Table 4 Median inhibitory concentration (IC50) titers of pig antisera against H5N1 lentiviral pseudotypes at day 42 post-prime immunization Pigs were immunized twice with H5 HA from A/duck/Hunan/795/03 (Clade 2.1) +/- ChAdOx1-NP+M1 (ChAdOx1) or MVA-NP+M1 (MVA)
+
+Homology
+
+IC50 Titers
+
+Lentiviral Pseudotype
+
+Clade
+
+% Amino acid sequence identity
+
+H5 protein only H5HA+ChAdOx1/H5HA+MVA
+
+A/IN/5/05
+
+2.1.3.2
+
+98
+
+918
+
+2522a
+
+A/HK/213/03
+
+1
+
+98
+
+3533
+
+8507a
+
+A/tk/Tk/1/05
+
+2.2.1
+
+97.3
+
+2964
+
+8080a
+
+A/VN/1203/04
+
+1
+
+97.1
+
+1066
+
+3076b
+
+A/AN/1/05
+
+2.3.4
+
+97
+
+1324
+
+2944
+
+a Significantly different between H5 only and H5HA+ChAdOX1/H5HA+MVA (p< 0.05 by Mann-Whitney U test) b Significantly different between H5 only and H5HA+ChAdOx/H5HA+MVA (p< 0.01 by Mann-Whitney U test)
+
+© 2013 This article is protected by copyright. All rights reserved.
+
+40

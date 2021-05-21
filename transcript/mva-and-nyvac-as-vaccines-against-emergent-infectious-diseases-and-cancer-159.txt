@@ -1,0 +1,2601 @@
+Current Gene Therapy, 2011, 11, 189-217
+
+189
+
+MVA and NYVAC as Vaccines against Emergent Infectious Diseases and Cancer
+
+Carmen E. Gómez, José L. Nájera, Magdalena Krupa, Beatriz Perdiguero and Mariano Esteban*
+
+Department of Molecular and Cellular Biology, Centro Nacional de Biotecnología, CSIC, Ciudad Universitaria Cantoblanco, 28049, Madrid, Spain
+Abstract: Recombinants based on poxviruses have been used extensively as gene delivery systems to study many biological functions of foreign genes and as vaccines against many pathogens, particularly in the veterinary field. Based on safety record, efficient expression and ability to trigger specific immune responses, two of the most promising poxvirus vectors for human use are the attenuated modified vaccinia virus Ankara (MVA) and the Copenhagen derived NYVAC strains. Because of the scientific and clinical interest in these two vectors, here we review their biological characteristics, with emphasis on virus-host cell interactions, viral immunomodulators, gene expression profiling, virus distribution in animals, and application as vaccines against different pathogens and tumors.
+Keywords: Poxvirus vectors, mva and nyvac, vaccines, pathogens, tumours, preclinical, clinical.
+
+INTRODUCTION
+Poxviruses, and in particular vaccinia virus (VACV), were among the first animal viruses to be investigated as gene transfer vectors. Recombinant gene expression by VACV was first demonstrated in 1982 [1, 2]. Since then, poxviruses have been successfully used for molecular biology studies, for in vitro production and functional characterization of proteins, as well as live vaccines and tools for vaccine research [3-5].
+Several unique features make poxvirus recombinants excellent candidates as vaccine vectors: (i) The stability of freeze-dried vaccine [6], its low cost, ease of manufacture and administration. (ii) The cytoplasmic site of gene expression. (iii) The packing flexibility of the genome, which allows large amounts of the genome to be lost or deleted and foreign DNA to be integrated (at least 25 Kb) without loss of infectivity [5] and (iv) the ability to induce both antibody and cytotoxic T cell responses against foreign antigen with long lasting immunity after a single inoculation. Despite these advantages, complications observed in young children and immune compromised individuals during the Smallpox Eradication Program brought forth concerns regarding the safety of reintroduction of VACV as immunizing agent [7, 8]. Therefore, one of the approaches undertaken to enhance the safety of VACV has been the development of highly attenuated strains, like MVA or NYVAC.
+The attenuated MVA virus was derived from chorioallantoid vaccinia Ankara (CVA), a Turkish smallpox vaccine strain that, after more than 570 passages in primary chicken embryo fibroblast cells (CEFs) became defective for replication in human cells and avirulent in test animals [9]. In the last decades of smallpox eradication campaign (1968­
+*Address correspondence to this author at the Department of Molecular and Cellular Biology, Centro Nacional de Biotecnología, CSIC, Ciudad Universitaria Cantoblanco, 28049, Madrid, Spain; Tel: 34-91-5854553; Fax: 3491-5854506; E-mail: mesteban@cnb.csic.es
+1566-5232/11 $58.00+.00
+
+1980), MVA was inoculated into more than 120,000 individuals in Germany with no reported adverse side effects [10, 11] and it is now considered to be a suitable platform for the next generation of safer smallpox vaccines and recombinant poxvirus vectors [12, 13]. Genomic mapping and sequencing studies have revealed that MVA lost nearly 30 Kb of genomic information during its extended passage in CEF cells and has multiple deletions and mutations compared with the parental CVA strain [14]. Many of these genetic alterations are in genes implicated in the modulation of host response, and it is assumed that these deletions render MVA unable to complete its replication cycle in human cells [15, 16].
+The attenuated NYVAC strain was derived from a plaque-cloned isolate of the Copenhagen vaccine strain (VACV-COP) by the precise deletion of 18 Open Reading Frames (ORFs) implicated in the pathogenicity and virulence of Orthopoxviruses, as well as host-range regulatory functions governing the replication competency of these viruses on cells derived from certain species. The resultant vector was proven to be highly attenuated since it failed to disseminate in immunodeficient mice, displayed a dramatically reduced ability to replicate on a variety of human tissue culture cells, and was unable to produce infectious virus in humans [17].
+The main advantage of attenuated MVA and NYVAC strains is the safety record. Despite their limited replication in human and most mammalian cell types, both viruses provide a high level of gene expression and trigger strong immune responses when delivering foreign antigens in animals and humans [9, 18-20].
+Due to the high interest in the clinical application of the poxvirus vectors, this review focus on the progress that has been made during the last few years in the biological characterization of MVA and NYVAC strains. The principal features of both vectors that might impact their ability to trigger
+© 2011 Bentham Science Publishers Ltd.
+
+190 Current Gene Therapy, 2011, Vol. 11, No. 3
+specific immune responses are discussed. We also describe the use of MVA and NYVAC recombinants as candidate vaccines against viral, parasitic and bacterial diseases, as well as gene delivery systems in the prevention and treatment of cancer.
+THE VECTORS MVA AND NYVAC: SIMILARITIES AND DIFFERENCES
+Genomic Organization
+The members of the poxvirus family have large doublestranded DNA genomes (167 to 224 Kb) encoding several hundred proteins. To date, there are more than 100 complete poxvirus genomes deposited in sequence databases (see: www.poxvirus.org), including the vaccinia virus Copenhagen strain (VACV-COP), used for the generation of NYVAC, encompassing 192 Kb [21] and MVA with 178 Kb [14].
+Because of the cytoplasmic site of virus replication, VACV mRNAs are not spliced, and therefore vaccinia genes do not contain introns. Genes are closely spaced on the genome, and each gene appears to be controlled by its own transcriptional promoter. There are about 100 genes specifically conserved among the various poxviruses that are required for virus replication and morphogenesis. The remaining non-conserved genes, many of which are non-essential
+
+Gómez et al.
+for replication in culture cells, dictate individual virus characteristics of host range and pathogenicity [22].
+During the generation of the attenuated MVA and NYVAC strains, several non-essential genes were lost. A sequence comparison between MVA and NYVAC genomes revealed that there are multiple ORFs, (i) fragmented in MVA and intact in NYVAC, (ii) deleted in NYVAC and intact in MVA and, (iii) deleted in both diagram shown in Fig. (1). MVA and NYVAC share common deleted or nonfunctional ORFs including the 6 ORFs within the deletion d4817 (C5L-N1L), B13R (MVA181R) and B14R (MVA 182R) encoding the ICE inhibitor, the ATI remnant A26L and the K1L (MVA022L) host range gene. The MVA strain has a functional thymidine kinase gene (TK) (MVA086R), an intact C7L (MVA018L) host range gene and an intact C6L (MVA019L), A56R (MVA165R), N2L (MVA021L) and I4L (MVA065L) ORFs which are not present in NYVAC strain [14]. These differences in the genome are likely responsible for the distinct behaviour exhibited by MVA and NYVAC, both in vitro and in vivo systems [23, 24]. In fact, the C7L ORF was recently defined as a gene implicated in the control of viral protein synthesis and apoptosis [23]. Both host range genes C7L and K1L inhibit protein kinase (PKR) activation [23, 25-27] and have also been recently reported to inhibit antiviral activities induced by type I interferons [28].
+
+Left Terminal Region
+C NM K F
+
+Central Conserved Region
+
+E PO I G L J
+
+H
+
+C16L C1L N1L F11L C17L C2L M1L C18L C3L M2L C19L C4L K1L C20L C5L K6L C21L C9L C22L C8L C23L
+
+F5L O1L
+
+Right Terminal Region
+
+D
+
+A
+
+B
+
+A26L A39R
+
+A52R A53R A55R A56R
+
+B2R B4R B8R B13R B14R B19R B20R B21R
+
+MVA
+aprox. 30 Kb
+
+C NM K F
+C1L N1L C2L N2L C3L M1L C4L M2L C5L K1L C6L C7L
+
+E PO I G L J
+
+H
+
+I4L J2R
+
+D
+
+A
+
+B
+
+A26L
+
+A56R
+
+B13R B14R
+
+NYVAC
+aprox. 15 Kb
+
+Genes deleted or disrupted in MVA and present in NYVAC genome Genes deleted in both MVA and NYVAC genomes Genes deleted in NYVAC and present in MVA genome
+
+Fig. (1). Scheme of deleted genes in MVA and NYVAC genomes. Genome maps of MVA and NYVAC strains adapted from Antoine et al. [14] are represented. The deleted or fragmented genes in each genome are indicated.
+
+MVA and NYVAC as Vaccines against Emergent Infectious Diseases
+Virus Replication and Morphogenesis
+Unlike most other DNA viruses, the poxvirus replicate in the cytoplasm of the target cell. Viral gene expression is stringently regulated by a cascade mechanism and virion assembly is a complex process that involves the production of multiple viral forms [29]. After virus entry, early genes are transcribed, leading to the expression of a number of molecules implicated in host-cell interactions as well as in viral DNA synthesis, which occurs in a juxtanuclear factory area, or replication centre, enclosed by rough endoplasmic reticulum [30]. Intermediate and late viral genes, including structural proteins, enzymes, and early transcription factors, are then transcribed. Viral DNA is incorporated into immature virions (IV) that mature into infectious intracellular mature virions (MV), which represent the first infectious particles produced during the viral life cycle. Some of MVs are wrapped by a double membrane derived from the trans-Golgi to form intracellular enveloped virions (WV). At the cell surface, WV fuse with the host cell membrane, lose their outer membrane, and form cell-associated enveloped virions (CEV). CEV become extracellular enveloped virions (EV) by detaching from the cell membrane directly or by inducing actin polymerization and detaching from the tips of actinfilled microvilli [31].
+Although it has been described that MVA and NYVAC have lost the ability to replicate and to produce infectious particles in human cells and in a majority of mammalian cells [32-35], the knowledge about their cellular and biochemical properties is sparse. A head-to-head comparison of MVA and NYVAC infection under non-permissive conditions demonstrated that both viruses are unable to grow in cells from human origin, but there are clear differences among them in both the replication cycle and the morphogenetic program. As it has been previously reported, the MVA life cycle in HeLa cells is inhibited at late times postinfection, when only 4 % of MV are formed due to a block in virion assembly, but early and late viral proteins are produced like in permissive cells [15, 16, 36]. By contrast, in NYVAC infected human cells there is a translational block,
+
+Current Gene Therapy, 2011, Vol. 11, No. 3 191
+with enhanced phosphorylation of the initiation factor eIF-2 alpha, that affects the synthesis of certain late viral proteins, some of them required in the maturation of virions. As a result, the block in morphogenesis occurs at or prior to the formation of IVs [23] Fig. (2). The inhibition in the synthesis of late viral proteins might also correlate with the potent apoptosis induced by NYVAC in infected HeLa cells, a phenomenon that is not observed after MVA infection [37]. As it has been recently proposed, the induction of apoptosis in cells, such as APC, that only express early viral genes may be related to the inability of the virus to express late viral proteins that interfere with host functions. It may be that to gain time to replicate, the virus expresses both early and late antiapoptotic factors, thereby circumventing a host-mediated proapoptotic response after viral infection [38]. A comparative analysis of expression profiles obtained by cDNA microarray screening of over 15,000 human genes, revealed in HeLa cells host genes differentially expressed in MVA versus NYVAC-infected cells [37, 39], that might also affect extend of virus maturation.
+Virus Distribution in Tissues
+Poxviruses, and in particular VACV, may disseminate within the host by (i) direct cell to cell spread using actin tails, (ii) as free virus, (iii) infected leukocytes, and/or (iv) virus-induced cell motility. It is thought that the CEV and EV forms are particularly important for rapid cell to cell spread in vivo, whereas the MV form probably contributes to virus dissemination at distant sites only after late stage cell death and membrane rupture [40, 41]. In contrast to the replication competent VACV strain WR, the attenuated viruses MVA and NYVAC are unable to produce virus progeny in most mammalian cells. Hence, it is important to define how these viruses are distributed in vivo and the kinetics of expression of virus-encoded genes in different tissues. This concern was addressed for MVA [42, 43], but the comparative dissemination of MVA versus NYVAC in vivo was recently assayed by bioluminescence imaging using recombinants expressing the luciferase gene [24]. The study showed
+
+MVA
+
+NYVAC
+
+Fig. (2). Electron microscopy of MVA and NYVAC morphogenesis in HeLa cells. Electron micrographs of HeLa cells infected with 5 PFU/cell of either MVA or NYVAC strains at 16 h p.i. The magnification of each panel is indicated by bars in the lower right corner. All Bars = 500 nm. The EM images correspond to Fig. 5, panels A and B from reference [23], with permission.
+
+192 Current Gene Therapy, 2011, Vol. 11, No. 3
+that both attenuated viruses expressed transiently the reporter gene and were unable to produce infectious particles, demonstrating their restricted replication capacity. In NYVAC infected mice the heterologous antigen persisted longer than when expressed from MVA Fig. (3). Both viruses have the ability to reach and infect target tissues other than the site of inoculation; however, shortly after infection the efficiency of virus gene expression was higher for MVA than for NYVAC. In a recent study in macaques, aerosolized and radiolabeled MVA and NYVAC recombinants expressing HIV and HPV antigens gave safe and successful immunogenic responses to the foreign antigens that lasted for at least six months. In addition, in vivo scintigraphic imaging studies in the macaque model demonstrated that both viruses were absorbed primarily in the mucosal tissues of the lungs and
+
+Gómez et al.
+respiratory tract, but not in the brain or eyes [44]. Thus, for vaccination purposes the systemic and mucosal routes are efficient ways to deliver MVA and NYVAC.
+Virus-Host Cell Interaction
+The damage incurred by cells and tissues following viral infection stimulates a series of non-specific events that collectively make up the early inflammatory response. As it has been reported, mammalian cells are able to resolve virus infection by production of inflammatory cytokines and interferons (IFNs), a response that is mediated through virusspecific activation of Toll-like receptors (TLRs). These cytokines have been shown to be key elements of innate immune response and prevention of pathogenesis of virus-
+
+Fig. (3). Bioluminescence image distribution of WRluc, MVAluc and NYVACluc in mice inoculated by intraperitoneal (i.p) or intramuscular (i.m) route. In the right panel the mock-infected mice (CTRL) are shown. The images shown correspond to Fig. 1 panels A and C from reference [24], with permission.
+
+MVA and NYVAC as Vaccines against Emergent Infectious Diseases
+induced diseases [45]. Immune sensing of MVA is mediated by TLR2-TLR6, MDA-5 and the NALP3 inflammasome, and MyD88 is critical in the production of IFNs [46]. VACV and other poxviruses express a variety of proteins which are non-essential for virus replication in culture cells but help the virus to evade the antiviral host response [47-50]. At present several genes involved in the immune evasion have been described for VACV strains including VACV-WR, MVA and VACV-COP (Table 1). These viral immunomodulators mainly target the complement, cytokines, chemokines and TLR­signalling pathways, which are important host defence mechanisms activated in response to infection [50]. The viral genes involved in immune evasion mechanisms and specific site of action in the cell are shown in Fig. (4). The wide range of viral genes antagonizing selective pathways and host cell immune responses, highlight the multiple strategies that poxviruses used through evolution to escape immune surveillance and might help to explain why these viruses have caused animal and human diseases, some devastating like smallpox.
+During the generation of the attenuated NYVAC and MVA strains some of those immunomodulatory genes were deleted or disrupted and this might explain why both viruses are highly immunogenic despite their restricted replication capacity. However, MVA has lost more immunomodulators than NYVAC. This fact correlates with the timing and strength of the inflammatory response induced by both viruses in vivo. MVA disseminates and induces faster than NYVAC the antiviral response, followed by rapid viral clearance (after 48 hours), whereas the NYVAC vector induces a delayed antiviral response and stays about 24 hours longer than MVA within tissues of the infected animal [24].
+Another significant distinction between MVA and NYVAC is the marked difference in the ability to modulate host immune responses after infection of immature human monocyte-derived dendritic cells (mDCs) [124]. Compared to uninfected mDCs, these vectors have a profound impact on host gene expression profiles, upregulating 195 of the same genes, while differing in 359 genes that were specifically upregulated by MVA and 165 by NYVAC. At the mRNA level, although IL-12, IFN- , and TNF- were upregulated by both strains, they were increased to higher levels by MVA, whereas type I IFNs, IL-6 and Toll-like receptor pathways were selectively induced after MVA infection. The impact of such differences on the immune response generated by both vectors will be discussed in the following section.
+Immunogenic Differences between the Vectors in Preclinical Studies
+Although the capacity of MVA and NYVAC vectors to produce similar levels of recombinant antigens as replication-competent viruses, and to elicit a potent specific immune response when administered by systemic and mucosal routes against multiple infectious disorders has been demonstrated [9, 13, 19, 32, 125, 126], only few preclinical studies have compared head-to-head the immune response induced by recombinants based on these strains.
+This issue was originally addressed in Balb/c and transgenic HHD mice infected with MVA and NYVAC recombi-
+
+Current Gene Therapy, 2011, Vol. 11, No. 3 193
+nants, both expressing four HIV-1 antigens (Env/Gag-PolNef) from clades B and C [127, 128]. The MVA and NYVAC recombinants were able to induce potent cellular immune responses against peptide pools representing the HIV antigens included in the immunogen, but the magnitude and breath of such response differed between the poxvirus vectors depending on both the protocol and the animal model used.
+A more detailed comparison between MVA and NYVAC vectors was recently performed in Rhesus macaques (Macaca mulatta of Indian origin) inoculated with recombinants expressing SIV/HIV-1 gene inserts and challenged with a pathogenic SHIV89.6P [129]. Although both vaccine candidates induced similar protective efficacy after virus challenge, the immune response was apparently exerted through different mechanisms. The MVA vector tended to induce specific CD8+ T cell responses in addition to CD4+, while the NYVAC vector boosted CD4+ T cells to a greater level than MVA. These findings highlight the differences in cellular responses triggered by MVA and NYVAC, which are likely to impact vaccine efficacy.
+It is generally accepted that CD8+ T cells, in addition to antigen and costimulation, require a `third signal' cytokines, that can be provided by either IL-12 and/or type I IFN (IFN / ) produced by mature DC, which support strong clonal expansion, development of effector functions, or establishment of a long-lived, responsive memory population [130, 131]. The gene profiling data obtained from MVAinfected DCs revealed a severe upregulation at the mRNA level of IL-12, IFN- and IFN- , as well as interferon regulatory factor (IRF-7) and proteins implicated in the type I IFN production (MDA5, RIG) [124]. Consequently, interferon stimulated genes (ISGs) such as IFIT1 (ISG56), IFIT4 (ISG60) and SCYB10 were also upregulated. Furthermore, the differentiation programme initiated in common by IL-12 and IFN / regulate numerous genes involved in several functions. Among them, genes relevant for effector cell regulation of gene expression such as GADD45B [132] and the transcription factor NFAT5 [133], genes involved in signal transduction (MAP2K5) and cell cycle regulation (cyclin B1) [130], or members of the TNF family [134] were consistently upregulated shortly after MVA infection. Genes encoding for pro-inflammatory cytokines as TNF and IL-6, and for CC-chemokines as SCYA3 (MIP-1A), SCYA4 (MIP-1B) or SCYA5 (RANTES), which are involved in the modulation of the immune response, were differentially expressed between MVA and NYVAC. All these data support the preferential stimulation of CD8+ T cells by MVA.
+It is noteworthy that in NYVAC infected mDCs all of the above CD8+ T cell stimulatory genes are markedly reduced. Additionally, the longer viral gene expression exhibited by NYVAC in vivo [24] may influence the preferential CD4+ T cell response induced by the vector, since it is described that to drive clonal expansion and differentiation of this T cell subset is required the persistence of the antigen throughout their expansion phase [135].
+While it will be necessary to conduct more comparative studies between MVA and NYVAC expressing the same antigens, it is clear that both strains behave differently in vitro and in vivo. These observations have implications for
+
+194 Current Gene Therapy, 2011, Vol. 11, No. 3
+
+Gómez et al.
+
+Table 1.
+
+Immunomodulatory Genes Described for Vaccinia Virus Strains VACV-Cop, VACV-WR, MVA and NYVAC. Genes Deleted, Disrupted or Non-Functional are in Brackets. ORF Nomenclature from VACV-Cop Strain. V: VACV-WR; M: Modified Ankara Virus and N: NYVAC Virus. * Are Not Present in the Parental VACV-Cop Strain
+
+ORF C23L/ B29R C21L
+C10L C7L C3L C2L N1L M2L K1L K3L K7R
+F1L
+F3L
+E3L
+H1L H5R
+A39R
+A40R A41L A44L
+
+V C23L/ B29R C21L C12L C10L C7L C3L C2L N1L M2L K1L K3L K7R
+F1L
+F3L
+E3L
+H1L H5R
+(A39R)
+A40R A41L A44L
+
+M
+
+N
+
+Function
+
+References
+
+(001L/ 193R)
+(-) 008L 006L 018L
+(-) (-) (020L) (-) (022L) 024L 028R
+029L
+031L
+050L
+091L 095R
+(150R/ 151R) 152R 153L 157L
+
+C23L/ B29R C21L (C12L*) C10L
+(-) (-) (-) (-) (-) (-) K3L K7R
+F1L
+F3L
+E3L
+H1L H5R
+A39R
+A40R A41L A44L
+
+Secreted type II CBP; binds CC-chemokines with high affinity, anti-inflammatory properties
+Secreted; binds C3b and C4b, inhibits classical and alternative complement pathways
+Secreted; binds IL-18 and inhibits IL-18 induced IFN- production and NK response
+Secreted; IL-1 receptor antagonist (IL-1Ra) homologue. Blocks IL-1 receptor
+Inhibits eIF2- phosphorylation and apoptosis. Prevents PKR activation and inhibits antiviral activities induced by type I interferons
+Secreted; functional complement 4b binding protein
+Kelch-like protein, anti-inflammatory properties
+Inhibits TRAF6-induced NF- B activation at the level of TRAF6 or downstream proteins preceding the IKK complex, inhibiting signalling to NF- B by the TNF su-
+perfamily or by TLR. Recently described as a Bcl2-like anti-apoptotic protein
+Prevents phosphorylation of the ERK2 protein and subsequent NF- B activation
+Inhibits host NF B activation by preventing I B degradation. Prevents PKR activation
+Mimics the host factor eIF2- . Blocks eIF2- phosphorylation and PKR autophosphorylation, inhibiting translational arrest
+Inhibits PRR-mediated induction of IFN by preventing TBK1/Ikki-mediated IRF activation owing to its ability to target human DEAD box protein 3 (DDX3)
+Regulates mitochondria-mediated apoptosis: functions both as a suppressor of proapoptotic Bcl-2 family proteins (inhibits Bak and Bax activation via Bakindependent mechanism interacting with BH3-only protein BimL) and as an inhibitor
+of caspase-9
+Kelch-like protein, affects the innate immune response
+Binds dsRNA and prevents PKR activation; inhibits PKR activity by direct binding; reduces the adenosine-to-inosine editing activity of IFN-induced ADAR: inhibits IRF3/7 activation; binds to and disables ISG15 function; binds dsRNA and prevent activation of 2´5´OAS/RnaseL; modulates expression of host cellular genes at the transcriptional level and inhibits apoptosis of host cell through Z-DNA binding
+Viral phosphatase that reverses STAT1 activation
+Multifunctional protein involved in viral DNA replication, postreplicative gene transcription and virion morphogenesis; Transcription factor phosphorylated by B1R kinase; mediates the inhibition of CD1d1-mediated antigen presentation
+Secreted; semaphorin, binds Plexin C1and induces actin cytoskeleton rearrangement and inhibits integrin-mediated adhesion and chemokine-induced migration. Inhibits
+phagocytosis by dendritic cells and neutrophils imparing the cross-priming
+Type II integral membrane protein related to C-type lectins, including NK cell receptors. Ligand unknown
+Secreted; vCKBP2 homologue. Ligands: CCL21, CCL25, CCL26 and CCL28, antiinflammatory properties
+3 -hidroxysteroid dehydrogenase that synthesized steroids. Anti-inflammatory properties
+
+[47] [51] [52, 53] [54] [23, 25, 28] [17] [55] [56, 57] [58, 59] [26, 27, 60] [61-64] [65]
+[66-71]
+[72]
+[64, 73-85]
+[86] [87, 88]
+[89-92]
+[93, 94] [95, 96]
+[97]
+
+MVA and NYVAC as Vaccines against Emergent Infectious Diseases
+
+Current Gene Therapy, 2011, Vol. 11, No. 3 195
+
+(Table 1) contd.....
+
+ORF
+
+V
+
+M
+
+N
+
+Function
+
+References
+
+A46R A52R A53R A55R B1R B7R B8R B13R/ B14R B15R
+B19R
+
+A46R A52R (A53R) A55R B1R B7R B8R
+B13R
+B14R B15R B18R
+(B22R)
+
+159R (-) (-) (-)
+167R 175R (176R) (181R/ 182R) 183R 184R (187R)
+(-)
+
+A46R A52R (A53R) A55R B1R B7R B8R
+(-)
+B15R (B16R*)
+B19R
+(B22R*)
+
+Targets TLR adaptors inhibiting both MyD88 and TRIF dependent pathways
+Targets IRAK-2 and TRAF-6 to block the NF- B activation pathway by various TLRs. Enhances TLR-induced IL-10 production by binding TRAF6
+Secreted; soluble virus TNF receptor homologue
+Kelch-like protein, anti-inflammatory properties, affects the outcome of infection in a murine intradermal model
+Virus encoded kinase. Inhibits the CD1d1-mediated antigen presentation. Modulates the c-Jun-dependent signalling
+Resident in ER, might have a role in intracellular trafficking of proteins. Contains a CC-binding domain
+Secreted protein that binds IFN- from various species but not mouse inhibiting binding of IFN- to its receptor
+Serine protease inhibitor SPI-2. Inhibits the proteolitic activity of IL-1 converting enzyme (ICE) that cleaves pro-IL-1 and pro-IL-18 precursors to produce IL-1 and
+IL-18. Inhibits apoptosis triggered by TNF- and FasL
+Inhibits the phosphorylation and subsequent degradation of I B , the inhibitor of NFB, by its interaction with IKK ;affects the infiltration and inflammatory response
+Secreted, binds IL-1 and blocks febrile response
+Secreted and cell surface protein that binds type I IFN from various species (the affinity for mouse type I IFN is considerably lower than for the other species tested) inhib-
+iting binding of type I IFNs to its receptor; virulence factor in VACV
+Serine protease inhibitor SPI-1. Inhibits apoptosis through the serine protease Granzyme B and reduces killing by CTLs
+
+[48, 98] [98-100]
+[101] [102] [88, 103] [104, 105] [106-111] [49, 112, 113] [114, 115] [116, 117] [118-122]
+[123]
+
+vaccination purposes, as it may be possible to combine the two pox vectors in a prime/boost protocol to elicit broader cellular immune responses, like it has been described for HIV antigens in vaccinated mice [127, 128].
+MVA AND NYVAC AS VACCINE CANDIDATES AGAINST VIRAL, PARASITIC AND BACTERIAL DISEASES
+During the last years the emergence of new pathogens such as HIV, the severe acute respiratory syndrome associated coronavirus (SARS-CoV), henipaviruses (Hendra and Nipah) and most recently avian influenza viruses, has profoundly impact on the public health worldwide. In addition, historically established infectious diseases, such as West Nile fever, human monkeypox, dengue, tuberculosis, and malaria have emerged or resurged. Strains of common microbes such as Staphilococcus aureus and Mycobacterium tuberculosis have continued to develop resistance to the drugs that once were effective against them [136, 137]. All these evidences highlight the need for a robust pipeline of new antimicrobial agents based on innovative therapeutic strategies, new vaccines, and other preventive measures.
+Poxviruses are useful tool for research and vaccine development. They have attractive properties for the generation of highly stable recombinants that may be able to respond promptly to these emerging diseases [3, 138, 139]. These
+
+live viral vector vaccines mimic viral infections hereby eliciting the appropriate innate "danger signals" to the adaptive immune system [9]. Additionally, the replication-defective viruses provide unique form of viral vaccines that combine the safety of a killed virus vaccine and the immunogenicity of a live virus vaccine by expressing gene products within cells so the antigens can be presented efficiently by both MHC class I and class II pathways [140]. Hence, and because of their safety profile, the poxvirus MVA and NYVAC strains are prime candidates for generation of recombinant virusvaccines against infectious diseases and cancer [13, 32].
+The potential of MVA and NYVAC vectors as vaccine carriers against infectious diseases have been extensively studied in several pre-clinical and clinical trials using different administration approaches that are summarized in Table 2. Several protocols have been applied to induce effective immune responses. The prime/boost strategy with heterologous vectors, but using poxvirus recombinants as the boosting immunogen, has proved to be an excellent regimen to elicit antigen-specific cellular immune responses with protection in animal model systems [141]. Different immunization protocols have demonstrated the efficacy of combining recombinants based on MVA or NYVAC with themselves, with DNA or with other recombinant viruses based on SFV or influenza, showing their capacity to modulate the quality of the immune response [127, 128, 142-144].
+
+196 Current Gene Therapy, 2011, Vol. 11, No. 3
+
+Gómez et al.
+
+Fig. (4). Diagram showing immunomodulatory genes of MVA and NYVAC. Circles represent VACV genes that have been characterized as specific inhibitors of distinct pathways and are either present or absent in MVA or NYVAC, or are deleted in both viruses. The distinct behaviour of MVA versus NYVAC is likely to be determined by the absence of function in some of the indicated genes.
+
+MVA and NYVAC expressing antigens derived from viruses, bacteria and parasites have being widely assayed in different animal models. Some preclinical studies that have being carried out are indicated in Table 2A. These immunogens are able to induce humoral and/or cell-mediated immunity, which in some cases correlate with protection. Based on these preclinical findings, a wide range of recombinants based on MVA and NYVAC have being tested in clinical trials (Table 2B).
+In the last two years, attenuated MVA and NYVAC vectors have being used as vaccine candidates against disorders such as HIV/AIDS, influenza or tuberculosis. In the HIV-1 vaccine field the recent observation of about 31% protection against HIV-1 infection in a phase III Thai trial (RV144) using a combination of the recombinant poxvirus vector ALVAC and the protein gp120 [145], highlighted that improved poxvirus recombinants should be considered as components of an effective HIV/AIDS vaccine [146]. In fact, to date several clinical trials including MVA and NYVAC have been conducted using different combination approaches with encouraging results [147-151], and plans are to advance these vectors to phase II/III trials in the next few years.
+Another emergent disease that severely affects the global public health is caused by influenza virus. The first pan-
+
+demic of influenza virus this century has experienced, for which a vaccine was not available, was caused by a new influenza of swine-origin H1N1 strain, first detected in humans in April 2009. The global spread of the novel H1N1 influenza subtype has accelerated the prompt development of vaccines as a worldwide priority. Several strategies have being implemented to produce pandemic vaccines. One vaccine tested in humans includes the use of recombinant MVA vector expressing influenza viral antigens [152].
+Despite of being an ancient disease, tuberculosis (TB) remains one of the most devastating causes of morbidity and mortality worldwide. In recent years, control of TB has been exacerbated by the deadly intersection of the HIV and TB epidemics and the emergence of multiple-drug-resistant tuberculosis. The failure of current TB immunization procedures to adequately protect against M. tuberculosis infections is largely responsible for the unsuccessful global control of this disease. The inadequacy of BCG (Bacillus CalmetteGuérin) immunization to control the TB epidemic has stimulated a worldwide effort to develop more-effective TB vaccination strategies. Some of these immunization approaches include the use of MVA expressing TB genes [153-155].
+Finally, malaria parasite infections by Plasmodium are responsible for the loss of more young lives than any other
+
+MVA and NYVAC as Vaccines against Emergent Infectious Diseases
+
+Current Gene Therapy, 2011, Vol. 11, No. 3 197
+
+Table 2. Summary of Preclinical (A) and Clinical (B) Studies Using Attenuated MVA and NYVAC Vectors as Vaccine Candidates Against Viral, Bacterial and Parasitic Diseases
+
+A: Preclinical Studies
+
+Target Disease
+
+Animal Model
+
+Vaccine
+
+Antigen
+
+Immune Response
+
+Efficacy
+
+References
+
+Viral Infections
+
+Rabies
+
+Mice Mice
+
+HLA-I transgenic mice
+
+HCV
+
+Chimpanzees
+
+SARS Measles
+
+HLA.A2.1 mice Mice and rabbits Rhesus monkeys
+Ferrets Mice Mice and rat Newborn macaques Macaques
+
+Dengue
+
+Rhesus monkeys
+
+Horses EIV
+Horses
+HLA.A2.1 mice
+
+CMV
+
+Mice Tx recipient
+
+Mice
+
+MVA-RG
+
+RG (rabies glycoprotein)
+
+Neutralizing Ab
+
+Protection
+
+NYVAC-RG
+
+RG
+
+ND
+
+Protection
+
+MVA-HCV TG4040
+
+NS3, NS4, NS5B
+
+Potent and longlasting CD4+ and CD8+ T cell responses
+
+Cross-protection
+
+P: DNA-CE1E2 + DNA-NS3
+B: MVA-CE1E2 + MVA-NS3
+
+C (core), E1, E2, NS3
+
+Robust HCV-specific immune responses
+
+Protection during the acute period but not in
+the chronic phase
+
+Native and modified
+
+MVA-E1E2
+
+Th1 response
+
+ND
+
+E1 and E2
+
+P: MVA-S
+
+S (spike glycoprotein) Neutralizing Ab
+
+ND
+
+B: Ad-S
+
+MVA-S
+
+S
+
+Neutralizing Ab
+
+Protection
+
+S or N (nucleocapsid MVA-S or MVA-N
+protein)
+
+Neutralizing Ab
+
+No protection
+
+MVA-S
+
+S
+
+Neutralizing Ab
+
+Protection
+
+MVA-H
+
+H (hemagglutinin glycoprotein)
+
+Th1 and neutralizing Ab
+
+Protection
+
+MVA-FH
+
+F (fusion protein) and H
+
+CTL and neutralizing Ab
+
+Protection
+
+MVA-FH
+
+F and H
+
+CTL and neutralizing Ab
+
+Protection
+
+MVA-DEN2 or MVA-DEN4
+
+C-terminally truncated envelope protein from dengue type 2 (DEN2)
+or type 4 (DEN4) virus
+
+Neutralizing Ab (MVA-DEN2)
+
+Protection (MVA-DEN2)
+
+MVA-HA or NP
+
+HA (hemagglutinin), NP (nucleoprotein)
+
+Ab and cellular responses
+
+Protection
+
+Ab and cellular re-
+
+MVA-HA or NP
+
+HA, NP
+
+ND
+
+sponses
+
+pp65 (tegument protein)
+
+pp65-IE1-MVA
+
+and IE1 (immediate Robust primary CMI
+
+ND
+
+early gene product)
+
+UL55 (surface glycopro-
+
+MVA-CMV
+
+tein), UL83 (tegument Humoral and cellular
+
+ND
+
+protein) and UL123/e4
+
+responses
+
+(nuclear protein)
+
+MVA-gB680
+
+gB (soluble glycopro- Neutralizing Ab and
+
+ND
+
+tein B)
+
+CTLs
+
+[171] [32] [172]
+[173]
+[174] [175] [176] [177] [178] [179] [180] [181]
+[182]
+[183] [184] [185]
+[186]
+[187]
+
+198 Current Gene Therapy, 2011, Vol. 11, No. 3
+
+(Table 2) contd.... A: Preclinical Studies
+
+Target Disease
+
+Animal Model
+
+Vaccine
+
+Antigen
+
+Immune Response
+
+Efficacy
+
+Viral Infections
+
+CDV
+
+Ferrets
+
+NYVAC-CDV
+
+F and HA
+
+Neutralizing Ab
+
+Horses
+
+NYVAC-64
+
+gene 64
+
+CMI
+
+EHV
+
+Hamsters
+
+MVA-gC
+
+Complement receptor Humoral and cellular
+
+glycoprotein C
+
+responses
+
+Ponies
+
+Immediate early (IE)
+
+MVA-IE
+
+CMI
+
+gene
+
+Mice
+
+MVA-F and MVA-G F (fusion protein) and Humoral and Th1
+
+G (attachment protein)
+
+responses
+
+Infant macaques MVA-F and MVA-G
+
+F and G
+
+RSV
+
+Mice
+
+MVA-RSV
+
+F and G
+
+Low Ab levels Humoral response
+
+Calves
+
+MVA-bRSV
+
+F and G
+
+Humoral and cellular responses
+
+Mice
+
+MVA-JEV + (DNAB7.1 or DNA-B7.2)
+
+prM (precursor of the membrane) and E (envelope protein)
+
+Specific JEV-immune responses
+
+Swine
+
+MVA-JEV
+
+prM and E
+
+Neutralizing Ab
+
+JEV
+
+Mice
+
+MVA-JEV
+
+prM and E
+
+Neutralizing Ab
+
+Rhesus monkeys
+
+NYVAC-JEV
+
+prM, E, NS1
+
+Neutralizing Ab
+
+Swine
+
+NYVAC-JEV
+
+prM, E, NS1
+
+Neutralizing Ab
+
+Mice
+
+MVA-HA
+
+HA (H5N1)
+
+Ab and CTL responses
+
+Mice
+
+MVA-HA-NP
+
+HA and NP (H1N1)
+
+Ab and CTL responses
+
+Mice
+
+MVA-HA, NP
+
+HA, NP
+
+Ab and CTL responses
+
+Influenza
+
+Cynomolgus macaque MVA-HA-VN/04
+
+HA (H5N1)
+
+Cross-reactive Ab response
+
+Pigs
+
+NYVAC-HA
+
+HA (H5N1)
+
+Ab response
+
+Bacterial Diseases
+
+Mice Ferrets
+
+Guinea pigs
+
+Tuberculosis
+
+Cattle
+
+Mice
+
+MVA-H1-Ca MVA-N1-Ca
+MVA-HA
+
+HA and NA (H1N1) HA (H1N1)
+
+Ab and CTL responses
+Robust Ab response
+
+P: BCG B: MVA-85A
+P: BCG B: MVA-85A
+P: BCG B: MVA-85A
+
+Mycobacterial mycolyltransferase antigen
+85A
+
+Cellular response
+
+85A
+
+Cellular response
+
+Specific CD4+ and 85A
+CD8+ T cell responses
+
+Protection No protection
+ND Protection No protection No protection Protection Protection
+ND Protection Protection Protection Protection Protection Protection Protection Protection Partial protection
+(19/21) Protection Protection
+Protection
+ND Protection
+
+Gómez et al.
+References
+[188] [189] [190] [191] [192] [193] [194] [195]
+[196] [197] [198] [199] [200] [201] [202] [203] [204, 205] [206] [207] [208]
+[209]
+[210] [211]
+
+MVA and NYVAC as Vaccines against Emergent Infectious Diseases
+
+Current Gene Therapy, 2011, Vol. 11, No. 3 199
+
+A: Preclinical Studies
+
+(Table 2) contd....
+
+Target Disease
+
+Animal Model
+
+Vaccine
+
+Antigen
+
+Immune Response
+
+Efficacy
+
+References
+
+Bacterial Diseases
+
+Mice
+
+Tuberculosis
+
+Rhesus macaques Cattle
+
+Parasitic Diseases Toxoplasmosis
+Leishmaniosis B: Clinical Studies
+
+Mice
+Mice Mice Mice Mice Mice Dogs Dogs
+
+MVA-64
+
+Early secreted protein MPT64
+
+Ab and CTL responses
+
+P: BCG B: MVA-85A
+
+85A
+
+Cellular response
+
+P: BCG B: MVA-85A
+
+Long lasting cellular 85A
+response
+
+P : ESAT6-85B fusion protein
+B : MVA/IL15/5Mtb
+
+85A, 85B, ESAT6, HSP60 and Mtb39
+
+Long lasting cellular immune response
+
+ND Protection Protection Protection
+
+MVA-ROP2
+P: DNA-GRA4 B: MVA-GRA4
+P: DNA-TRYP B: MVA-TRYP
+P: DNA-LACK B: MVA-LACK
+P: DNA-LACK B: MVA-LACK
+P: DNA-LACK B: MVA-LACK
+P: DNA-TRYP B: MVA-TRYP
+
+ROP2 (transmem-
+
+brane protein of
+
+Ab response
+
+ND
+
+PVM)
+
+GRA4 (dense granule Ab and cellular res-
+
+antigen 4)
+
+ponses
+
+Protection
+
+TRYP (tryparedoxin peroxidase)
+
+Cellular response
+
+Protection
+
+LACK (p36)
+
+Cellular response
+
+Protection against Leishmania major
+
+LACK (p36)
+
+Cellular response
+
+Protection against Leishmania infantum
+
+LACK (p36)
+
+Cellular response
+
+Protection against Leishmania infantum
+
+TRYP (tryparedoxin Th1 and memory cellu-
+
+peroxidase)
+
+lar immune responses
+
+Protection
+
+[212] [213] [214] [215]
+[216] [217] [218] [219] [220] [221] [222]
+
+Target Disease
+
+Clinical Trials
+
+Vaccine
+
+Antigen
+
+Immune Response
+
+Efficacy
+
+References
+
+HIV-1
+
+HIV-1 clade A gag
+
+Safe and well toler-
+
+MVA-HIVA +/-
+
+p24 and p17 fused to
+
+Phase I
+
+ated. Infrequent im-
+
+-
+
+DNA-HIVA prime 25 overlapping CD8+
+
+mune response
+
+T cell epitopes
+
+HIV-1 clade A gag
+
+Phase I
+
+P: DNA-HIVA
+
+p24 and p17 fused to Multifunctional cellu-
+
+-
+
+B: MVA-HIVA 25 overlapping CD8+
+
+lar responses
+
+T cell epitopes
+
+Phase I
+
+Env, Gag-Pol-Nef Anti-HIV T cell res-
+
+NYVAC-C
+
+-
+
+(clade C)
+
+ponse (5/12)
+
+Phase I
+
+P: DNA-C
+
+Env, Gag-Pol-Nef Specific HIV-immune
+
+-
+
+B: NYVAC-C
+
+(clade C)
+
+responses (19/20)
+
+P:Env, Gag, Rev, RT
+
+P: DNA HIVIS
+
+(clade A, B) B: Env, Specific HIV immune
+
+Phase I/II
+
+-
+
+B: MVA-CMDR Gag, Pol (clade C, A, response (37/38)
+
+E)
+
+[223, 224]
+[225, 226] [227]
+[149, 150] [148, 228]
+
+200 Current Gene Therapy, 2011, Vol. 11, No. 3
+
+Gómez et al.
+
+(Table 2) contd.... B: Clinical Studies
+Phase I
+
+HIV-1
+
+Phase I
+
+Phase I
+
+Influenza HCV
+Smallpox JEV
+Malaria
+
+Phase I Phase I Phase I/IIb Phase I Phase IIb Phase II Phase II Phase II Phase II Phase II Phase II Phase II
+Phase I/IIa
+
+Tuberculosis
+
+Phase I Phase I
+
+Durable cell mediated
+
+Env, Gag and Pol
+
+MVA-CMRD
+
+and humoral immune
+
+-
+
+[229]
+
+(CRF01-AE)
+
+responses
+
+Neutalizing Ab and
+
+specific HIV immune
+
+Env, Gag, Pol, Nef response depending on
+
+ADMVA
+
+-
+
+[147]
+
+andTat (clade B´/C) the dose: LD (3/12),
+
+MD (6/12) and HD
+
+(8/13)
+
+HIV immune response
+
+depending on the
+
+Env, Gag, Tat-Rev,
+
+MVA (TBC-M4)
+
+dose: LD (9/11) and
+
+-
+
+[230]
+
+Nef-RT (Clade C)
+
+HD (12/12). Ab re-
+
+sponse
+
+NP (Nucleoprotein) and High specific T cell
+
+MVA-NP+M1
+
+-
+
+[152]
+
+M1 (Matrix protein 1)
+
+responses
+
+MVA-HCV (TG4040) NS3, NS4, NS5B
+
+Safe and well tolerated
+
+www.clinicaltr -
+ials.org
+
+MVA-BN
+
+Cellular and humoral
+
+-
+
+Protection
+
+[231-233]
+
+responses
+
+NYVAC-JEV
+
+prM, E, NS1
+
+Humoral and CTL responses
+
+-
+
+[234, 235]
+
+P: FP9 B: MVA-ME-TRAP
+
+ME.TRAP
+
+Cellular response
+
+No protection
+
+[236]
+
+P: FP9 B: MVA-CS
+
+CS
+
+Low cellular response
+
+No protection
+
+[237]
+
+P: RTS,S/AS02A B: MVA-CS
+
+CS
+
+High Ab levels but Partial efficacy (33%)
+
+[238]
+
+low cellular response
+
+P: DNA B: MVA
+
+ME.TRAP CS
+
+Cellular and humoral responses
+
+Protection
+
+[239]
+
+P: FP9 B: MVA
+
+ME.TRAP
+
+Cellular response
+
+Protection
+
+[144]
+
+P: DNA B: MVA + FP9
+
+ME.TRAP
+
+Cellular response
+
+No protection
+
+[144]
+
+P: DNA B: MVA
+
+ME.TRAP
+
+Cellular response
+
+No protection
+
+[240]
+
+P: DNA B: MVA
+
+ME.TRAP
+
+Cellular response
+
+No protection
+
+[241]
+
+NYVAC-Pf7
+
+7 Ag from P. falciparum (CS, SSP2,
+LSA1, MSP1, SERA, AMA1, Pfs25)
+
+Poor Ab levels and cellular response
+
+No protection
+
+[242]
+
+Excellent safety pro-
+
+P: BCG
+
+Mycobacterial mycolyl-
+
+file and highly
+
+ND
+
+[243, 244]
+
+B: MVA-85A transferase antigen 85A
+
+immunogenic
+
+Mycobacterial myco-
+
+Potent and durable T
+
+MVA-85A
+
+lyltransferase antigen
+
+ND
+
+cell responses
+
+85A
+
+[153-155]
+
+infection. Ways to enhance cellular immunity to malaria have been developed and clinical trials are underway, specially a phase III trial in Africa with the CS-hepatitis B fused
+
+antigen in combination with an adjuvant [156]. Recombinant MVA has been used in heterologous immunization regimens with promising results [157].
+
+MVA and NYVAC as Vaccines against Emergent Infectious Diseases
+As yet none of the MVA and NYVAC vectors have reached phase III, but as clinical studies progress it is feasible to foresee that these vectors will provide a clinical human benefit. Indeed, these vectors are used as effective vaccines against veterinary diseases, and parental MVA is currently being pursuit as an alternative human vaccine against smallpox, should a bioterrorism attack occur.
+RECOMBINANTS BASED ON MVA AND NYVAC AS PROPHYLACTIC AND THERAPEUTIC VACCINES AGAINST CANCER
+Cancers arise through a multistage process involving sequential accumulation of molecular alterations such as the loss of tumor suppressor genes and gain of dominant oncogenes. These abnormalities drive neoplastic processes through different mechanisms including stimulation of cell proliferation, inhibition of cell death, cell-cycle arrest or enhanced angiogenesis in tumor environment as well as inactivation of DNA repair genes which increase mutation rate in other genes [158-160]. Additionally, cancer cells successfully evade the usual immunosurveillance mechanisms by altering the expression of MHC molecules [161, 162], defects in antigen processing and presentation machinery [163, 164], secretion of immunosuppressive soluble factors [165] and induction of T cell dysfunction [166] leading to an inability of the immune system to recognize and eliminate them. The failure of immune system surveillance is an integral component of tumor development.
+The increasing knowledge of the molecular mechanisms underlying carcinogenesis has contributed to advance in the development of various gene therapy approaches that attempt to remedy these alterations. Current gene therapy strategies include corrective gene therapy (tumor suppressor gene and anti-oncogene gene approaches), cytoreductive gene therapy (suicide, pro-apoptotic, and anti-angiogenic gene therapy) and immunomodulation gene therapy.
+Immunotherapy is considered one of the most promising approaches for cancer treatment. Recent insights on tumor evasion and tolerance mechanisms suggest that with proper stimulation of the immune cells and the local cytokine milieu it should be possible to induce an immune response to tumor cells. The use of vectors expressing genes to stimulate the host immune system or genes that attempt to bypass some of the defects that help cancer cells to evade its surveillance is an attractive anti-cancer strategy.
+The efficient delivery of therapeutic genes and their appropriate expression are crucial issues for clinically relevant gene therapy. Viruses have been selected as gene delivery vehicles because their natural cell tropism, high efficiency at gene transfer and expression as well as their biological characteristics that can significantly enhance the immunogenicity of antigens carry within them. Numerous viral vectors systems have been developed, however the poxviruses are one of the most studied vectors for gene delivery and stimulation of immunity.
+A variety of recombinant poxvirus vectors have been extensively used to express a multitude of foreign genes in preclinical studies and in clinical trials of cancer immunotherapy. Among them, attenuated strains of vaccinia virus
+
+Current Gene Therapy, 2011, Vol. 11, No. 3 201
+MVA and NYVAC have been demonstrated as excellent vaccine candidates because of the high levels of recombinant protein expression, strong immunogenicity and their safety profile. Moreover, administration of VACV vectors provides a "danger signal" to the host that helps to prime T cell responses effectively [167, 168] and break immune tolerance to tumor associated antigens [169, 170].
+The MVA and NYVAC vectors currently used in preclinical and clinical settings for cancer immunotherapy have been designed to trigger and/or enhance immune response to tumor cells by the delivery of tumor associated antigens (TAA). The data regarding efficacy and immune responses ind-uced by these attenuated strains are summarized in Table 3.
+Among TAA, viral antigens in virus-associated cancers are attractive targets for immunotherapy, since the cells capable of responding to these antigens should not be removed from the repertoire by central tolerance-inducing mechanisms. The MVA vectors expressing E2 or E6 and/or E7 viral antigens have shown therapeutic benefit in preclinical studies and clinical trials against HPV associated malignancies (Table 3A and 3B). Moreover, MVA recombinants expressing melanoma-specific differentiation antigens such as tyrosinase and melan-A as well as cancer/testis specific antigens MAGE1, MAGE3 and NY-ESO-1 have been used in HLA-A2 transgenic mice [286] and melanoma patients [267]. Additionally, MVA vector has been used to deliver oncofetal antigens such as MUC1, 5T4 and CEA and oncogene products like Her-2/neu and p53 to host immune system in transplantable tumor models and in clinical trials for immunotherapy of various types of cancer showing encouraging results (Table 3). Since tumor-associated antigens are by definition weakly immunogenic, several strategies using MVA recombinants have been employed to improve immune response to TAAs including diversified prime/boost vaccination regimens [248, 249, 253, 267, 287] and expression of T cell costimulatory molecules or cytokines alongside with antigen [249, 288-290].
+The poxviruses, including MVA and NYVAC vectors have been also used to transduce in vitro dendritic and tumor cells with genes for relevant tumor antigens or immunomodulatory products for whole cell vaccination providing feasible strategy for augmenting immune responses to tumor cells [256, 264, 266, 291].
+In addition to the use of poxvirus vectors to deliver TAA and immunomodulatory molecules, members of this virus family have been explored as a potential oncolytic agents [292, 293]. Recently, an MVA vector has been used successfully for the transfer of suicide genes to cancer cells in preclinical tumor model showing therapeutic efficacy [261]. Overall, the use of MVA and NYVAC vectors as tumor vaccines represents a promising strategy to reduce tumor burden through activation of specific T cell immune responses. Considering that these vectors trigger a low immune response against themselves, several immunizations with the same vector could be applied. In addition, other attenuated poxvirus vectors that do not cross-react between them could be used in diversified prime/boost vaccination protocols. Furthermore, combination of tumor vaccines based on MVA or NYVAC vectors in multi-nodal strategies with other imm-
+
+202 Current Gene Therapy, 2011, Vol. 11, No. 3
+
+Gómez et al.
+
+Table 3. Gene Therapy Strategies Using MVA and NYVAC Vectors for Prevention and Treatment of Cancer in Preclinical (A) and Clinical (B) Settings
+
+A: Preclinical studies
+
+Cancer Type
+
+Animal Model
+
+Vaccine
+
+Antigen
+
+Reported Immune Responses
+
+Result
+
+References
+
+Sarcoma
+
+Balb/c mice
+
+Tumors overexpressing mutated
+p53
+
+Balb/c and C57BL/6 mice
+
+MVA-p53
+MVA-p53 + CTLA-4 mAb
+MVA-p53 + CpG ODN
+MVA-p53 + CTLA-4 mAb
+
+p53-specific CTL response
+
+Murine tumor protein p53
+
+Vaccine effect was CD8+ dependent and
+partially CD4+
+dependent
+
+Tumor rejection (12/16)
+Tumor rejection (11/14)
+
+Murine tumor protein p53
+
+Vaccine effect CD8+ dependent and
+partially NK dependent
+Vaccine effect CD8+ dependent and
+partially CD4+ dependent
+
+Tumor rejection and prolonged survival in the majority of treated
+animal
+
+MVA-p53 + CpG ODN + CTLA-4 mAb
+
+Enhanced p53specific CTL re-
+sponse
+
+Mammary carcinoma (hp53)
+
+Hupki (Balb/cJ
+hp53 knock-in)
+
+MVA-p53 + CpG ODN
+
+Human tumor protein p53
+
+p53-specific CD8+ and CD4+ T cell
+responses
+
+Tumor rejection in 50 % of animals
+
+Mammary carcinoma (hup53)
+
+Hupki (Balb/cJ hup53 knock in)
+
+Prime: MVA-p53 Boost: Listeria mono-
+cytogenes-p53 (LmddA-LLO-p53) +/- Poly (I:C), CpG-
+ODN
+
+Human tumor protein p53
+
+TLR agonists
+
+p53-specific CD8+ enhance antitumor
+
+and CD4+ T cell effect of vaccine.
+
+responses
+
+Potent antitumor
+
+effect and im-
+
+TLR agonists did not proved survival.
+
+augment T cell
+
+50% complete
+
+responses
+
+regression of estab-
+
+lished tumors
+
+Colon carcinoma (hCEA)
+
+hCEA-Tg C57BL/6 mice
+
+P: MVACEA/TRICOM B: F-CEA/TRICOM
++ GM-CSF + IL-2
+
+Human carcinoembryonic antigen
+
+CEA-specific CD8+ and CD4+ T cells
+responses
+
+Increased survival (5/7)
+
+Melanoma (h5T4)
+
+C57BL/6 mice
+
+Colorectal carcinoma (h5T4)
+
+Balb/c mice
+
+MVA-5T4
+
+Human trophoblast glycoprotein
+
+No h5T4-specific CTL activity. Pres-
+ence of anti-5T4 IgG2a, IgG2b and
+IgG1
+
+Delayed tumor development and increased survival
+Reduction in the number of tumor nodules in the lungs
+and increased survival
+
+Melanoma (m5T4)
+
+C57BL/6 mice
+
+MVA-5T4
+
+Murine trophoblast glycoprotein
+
+No m5T4-specific CTL activity. Pres-
+ence of anti-5T4 IgG2a, IgG2b and
+IgG1
+
+Delayed tumor development and increased survival
+
+[245] [246] [247]
+[249] [250] [250]
+
+MVA and NYVAC as Vaccines against Emergent Infectious Diseases
+
+Current Gene Therapy, 2011, Vol. 11, No. 3 203
+
+A: Preclinical studies Cancer Type
+
+Animal Model
+
+Colorectal carcinoma (h5T4)
+
+Balb/c mice
+
+Pancreatic cancer
+
+C57BL/6 mice
+
+Prostate Cancer
+
+TRAMP mice C57BL/6 mice
+
+Cervical carcinoma
+
+Nude mice
+
+Transplantable papilloma carcinoma
+
+Rabbits
+
+Tumor cells expressing E6/E7 proteins of HPV
+16
+
+C57BL/6 mice
+
+Mastocytoma Melanoma
+Renal carcinoma
+
+B6D2 mice
+
+(Table 3) contd....
+
+Vaccine
+
+Antigen
+
+Reported Immune Responses
+
+Result
+
+References
+
+MVA-5T4 (TroVax)
+
+Human trophoblast glycoprotein
+
+Vaccine effect Ab mediated and CD4+
+T cells dependent
+
+Protection against tumor challenge and >90% reduc-
+tion in tumor burden
+
+MVA-survivin +/- gemcitabine
+
+Murine survivin
+
+Survivin-specific CD4+ and CD8+ T
+cell responses. Enhanced CD8+ response in vaccine + gemcitabine group
+
+Vaccine + gemcitabine: significant tumor regression
+and prolonged survival
+
+P: DNA-mPSCA + DNA-mSTEAP1
+B: MVA-mPSCA + MVA-mSTEAP1
+
+Murine prostate stem cell antigen,
+
+Decreased primary tumor burden and suppression of the disease progression
+
+P: DNA-mPSCA or Murine six trans-
+
+ND
+
+DNA-mSTEAP1 or membrane epithelial
+
+combination
+
+antigen of prostate
+
+Delayed TRAMP-
+
+B: MVA-mPSCA or
+
+C1 tumor growth
+
+MVA-mSTEAP1 or
+
+combination
+
+MVA-E2
+
+E2 protein of BPV-1
+
+-
+
+Prolonged life expectancy and reduced tumor
+growth
+
+MVA-E2
+
+E2 protein of BPV-1
+
+No CTL activity against tumor cells. Macrophage Abdependent cytotoxic-
+ity
+
+Tumor regression in 80% of animals
+
+DC/MVASigE7LAMP1
+
+E7 protein of HPV16 fused to the signal and transmembrane
+sequences of LAMP1 (SigE7LAMP1)
+
+Induction of immunity against tumor
+
+Significant inhibition of
+tumor growth
+
+P: CyaA/E7 B: MVASigE7LAMP1
+
+SigE7LAMP1
+
+E7-specific CD8+ T Protection in 100%
+
+cell response
+
+of animals
+
+DNA-E7GGG MVA-GM-CSF
+
+Increased infiltration Significant inhibi-
+
+E7 protein of HPV16 of CD3+ T cell in
+
+tion of tumor
+
+tumor
+
+growth
+
+MVA-CD3 mAb
+
+None (transgenes encode heavy and light chain of anti-mouse CD3 IgG2a and anti-mouse
+TCR / IgG)
+
+Tumor infiltration with CD11c+ DC, CD8+ and CD4+
+lymphocytes
+
+Renal tumor rejection in 60 % of animals.
+No effect in melanoma and mastocy-
+toma model
+
+[251] [252]
+[253]
+[254] [255] [256] [257] [258] [259]
+
+204 Current Gene Therapy, 2011, Vol. 11, No. 3
+
+Gómez et al.
+
+(Table 3) contd.... A: Preclinical studies
+Cancer Type
+Mastocytoma Melanoma
+Renal carcinoma
+Renal carcinoma
+Colon cancer
+Sarcoma Mammary carcinoma
+Fibrosarcoma
+Colon adenocarcinoma B: Clinical studies
+Cancer Type
+Melanoma Stage II
+Melanoma Stage IV
+Melanoma Stage II/III/IV
+Melanoma Stage III/IV
+
+Animal Model B6D2 mice
+B6D2 mice Nude mice Balb/c mice Domestic cats Balb/c mice
+Phase I I I
+II
+
+Vaccine
+
+Antigen
+
+Reported Immune Responses
+
+Result
+
+References
+
+MVA-TCR / mAb
+
+None (transgenes encode heavy and light chain of anti-mouse CD3 IgG2a and anti-mouse
+TCR / IgG)
+
+Tumor infiltration with CD11c+ DC, CD8+ and CD4+
+lymphocytes
+
+Renal and melanoma tumor rejection in 33% and 30% of
+animals, respectively. No effect in mastocy-
+toma model
+
+MVA-CD3 mAb
+
+None
+
++ Ad-IL-2
+
+(transgene encodes
+
+60%-100% tumor
+
++ Ad-IL-12
+
+heavy and light chain
+
+NA
+
+rejection rate and
+
++ Ad-IL-2/Ad-MIP1 of anti-mouse CD3
+
+prolonged survival
+
++ Ad-IL-12/Ad-MIP1
+
+IgG2a)
+
+MVA-FCU1
+
+None (transgene encodes
+FCU1)
+
+Potent suppression
+
+of tumor growth
+
+-
+
+and prolonged
+
+therapeutic levels
+
+of 5-FU in tumors
+
+P: ALVAC-p53 B: NYVAC-p53
+
+Murine tumor protein No p53-CTL specific
+
+p53
+
+response
+
+No effect
+
+NYVAC-IL-2
+
+None (transgene encodes
+human IL-2)
+
+Tumor recurrence ND
+in 39% of animals
+
+None
+
+TC/NYVAC-B7.1 (transgenes encode
+
+NA
+
+TC/NYVAC-IL-2
+
+murine IL-2 and
+
+murine B7.1)
+
+Protection and tumor burden
+reduction
+
+[259]
+[260]
+[261] [262] [263] [264]
+
+Vaccine
+MVA-Tyr
+DC/MVA-Tyr
+P: DNA-Mel3 B: MVA-Mel3 (Hi-8 MEL) P: MVA-Mel3 B: MVA-Mel3
+P: DNA-Mel3 B: MVA-Mel3 (Hi-8 MEL)
+
+Antigen
+
+Reported Immune Responses
+
+Reported Safely/ Clinical Observa-
+tions
+
+Reference
+
+Tyrosinase
+
+No tyrosinasespecific T cell or
+Ab responses
+
+No side effects above grade 2
+
+Tyrosinase
+
+Tyrosinase-specific T cell
+response (4/5)
+
+Well tolerated. PR (1/6)
+
+HLA-A*0201 and HLA-A*01 restricted CTL epitopes from melan-A, NY-ESO-1, MAGE-1, MAGE-3,
+tyrosinase
+
+CTL response specific for epitope melan-A26-35 (2/6)
+CTL response specific for epitope melan-A26-35 (4/7)
+
+Well tolerated. Only grade 1 side
+effects
+
+HLA-A*0201 and HLA-A*01-restricted
+CTL epitopes from melan-A, NY-ESO-1, MAGE-1, MAGE-3,
+tyrosinase
+
+Well tolerated. Melana-A/A2 tetra- PR>24 months
+mer responses (1/39), SD>5 months (24/36). ELISPOT (5/39), MxR (2/39). responses to at least Increased TTP and 1 epitope (11/36) survival in Melan-A
+responders
+
+[265] [266] [267]
+[268]
+
+MVA and NYVAC as Vaccines against Emergent Infectious Diseases
+
+B: Clinical studies Cancer Type
+
+Phase
+
+Vaccine
+
+MUC1-positive solid tumors
+NSCLC Stage IIIb/IV
+
+MVA-MUC1-IL-2 I
+(TG4010)
+MVA-MUC1-IL-2 (TG4010)
+II +/-
+Cisplatin Vinorelbine
+
+Renal cell carcinoma
+
+MVA-MUC1-IL-2
+(TG4010) II
+At progression combination therapy with IFN and IL-2
+
+Prostate cancer
+
+MVA-MUC1-IL2 II
+(TG4010)
+
+Colorectal cancer I/II
+Stage IV
+
+MVA-5T4 (TroVax)
+
+Colorectal
+
+MVA-5T4
+
+II
+
+Cancer
+
+(TroVax)
+
+MVA-5T4
+
+II
+
+(TroVax)
+
+Colorectal cancer
+
++ FOLFOX
+
+Stage IV
+
+MVA-5T4
+
+II
+
+(TroVax)
+
++ chemotherapy
+
+Antigen Mucin 1 Mucin 1
+Mucin 1
+Mucin 1
+Trophoblast glycoprotein Trophoblast glycoprotein Trophoblast glycoprotein Trophoblast glycoprotein
+
+Current Gene Therapy, 2011, Vol. 11, No. 3 205 (Table 3) contd....
+
+Reported Immune Responses
+
+Reported Safely/Clinical Observations
+
+References
+
+MUC1-specific T cell activity (5/12). No MUC1-specific
+Ab response
+
+Well tolerated. SD 6-9 months
+(4/12)
+
+MUC1-specific cellular immune responses in all responding patients
+
+Well tolerated. Vaccine + chemotherapy PR (13/37),
+SD (12/37).
+Favorable OS
+
+No objective clini-
+
+cal responses.
+
+MUC1-specific CD4+ T cell response
+(6/28). MUC1specific CD8+ T cell
+response (4/23) correlated with better
+OS
+
+SD>6 months (5/27)
+TG4010 alone, SD>6 months
+(6/20) TG4010 + cytokines. Overall TTF
+9.3 months.
+
+OS 19.3 months for
+
+all patients
+
+MUC1-specific ELISPOT responses
+(7/34)
+
+Well tolerated. Primary study endpoint (50% decline in PSA) not achieved. Two fold improvement in PSA doubling time (13/40). Stabilized PSA >8 months
+(10/40)
+
+5T4-specificT cell esponse (16/17). 5T4-specific Ab response (14/17)
+
+Well tolerated. SD 3-18 months
+(5/16)
+
+5T4-specific cellular and/or humoral
+immune responses (19/20)
+
+Peripheral 5T4specific responses
+and high CD3+ infiltration at tumor site correlated with improved survival
+
+5T4-specific Ab and Well tolerated. CR
+T cell or PR (6/11)
+responses (10/11)
+
+5T4-specific cellular and/or humoral
+immune responses (12/12)
+
+Safe and well tolerated.
+CR (1/19), PR (6/19), SD (5/19)
+
+[269] [270]
+[271]
+[272] [273] [274] [275] [276]
+
+206 Current Gene Therapy, 2011, Vol. 11, No. 3
+
+Gómez et al.
+
+(Table 3) contd....
+B: Clinical studies Cancer Type
+Metastatic renal cell carcinoma
+Renal cell carcinoma
+Metastatic renal cell carcinoma
+Prostate cancer
+
+Phase II I/II II
+II III II I/II
+
+Vaccine
+
+Antigen
+
+Reported Immune Responses
+
+Reported Safely/Clinical Observations
+
+References
+
+MVA-5T4 (TroVax)
++ IL-2
+MVA-5T4 (TroVax) + IFN-
+MVA-5T4 (TroVax) +/- IFN-
+MVA-5T4 (TroVax)
++ IL-2
+MVA-5T4 (TroVax)
++SOC
+MVA-5T4 (TroVax)
++/GM-CSF
+MVA-BN®-PRO
+
+Trophoblast glycoprotein
+
+5T4-specific Ab responses (23/23), 5T4-specific T cell reponses (13/23)
+
+Well tolerated. No objective tumor responses. SD (12/23)
+
+[277]
+
+Trophoblast glycoprotein
+
+5T4-specific Ab responses (11/11),
+5T4-specific cellular responses (5/11)
+
+Well tolerated. No objective tumor responses. Increased median TTP as compared
+to IFN alone arm.
+
+[278]
+
+Trophoblast glycoprotein
+
+5T4-specific Ab and /or cellular responses
+(22/23) similar in both arms. Magnitude of 5T4-specifc ELISPOT responses
+correlated with increased PFS; 5T4-
+specific humoral responses correlated with improved OS
+
+Vaccine well tolerated in both
+arms. TroVax +IFN : PR>7 months (1 patient); SD 1.7-9.6 months (14 patients, 7 TroVax and 7 TroVax +IFN )
+
+[279]
+
+Trophoblast glycoprotein
+
+5T4-specific Ab responses (21/25). Correlation between magnitude of 5T4-
+specific Ab responses and PFS and
+OS
+
+Safe and well tolerated. CR>24 months (2/25), PR>12 months
+(1/25), SD 6 months (6/25)
+
+[280]
+
+Trophoblast glycoprotein
+
+5T4-specific Ab responses in 56% of
+patients
+High 5T4-specific Ab response correlated with enhanced
+survival
+
+Well tolerated.
+No difference in OS
+
+[281]
+
+Trophoblast glycoprotein
+
+5T4-specific Ab responses (24/24), 5T4-specific ELIS-
+POT responses (9/24). Similar immunological and clinical responses observed in both
+arms
+
+Safe and well tolerated. No objective clinical responses. Increased median TTP in 5T4 ELISPOT responders
+
+[282]
+
+PSA and PAP
+
+PSA and PAPspecific immune
+responses
+T-cell responses to antigens not included
+in vaccine
+
+Well tolerated.
+
+www.bavariannordic.com
+
+MVA and NYVAC as Vaccines against Emergent Infectious Diseases
+
+Current Gene Therapy, 2011, Vol. 11, No. 3 207
+
+B: Clinical studies Cancer Type CIN Grade I, II, III
+CIN Grade II, III
+Flat condyloma
+Breast cancer
+
+(Table 3) contd....
+
+Phase I/II
+II II I/II I/II
+
+Vaccine
+
+Antigen
+
+Reported Immune Responses
+
+Reported Safely/Clinical Observations
+
+References
+
+MVA-E2
+
+E2 protein of BPV-1
+
+Ab and cytotoxic responses against HPV transformed
+cells
+
+Well tolerated. Complete elimina-
+tion of CIN (34/36). No evidence of HPV DNA in 50% of
+patients
+
+[283]
+
+MVA-E2
+
+E2 protein of BPV-1
+
+Ab and cytotoxic responses against HPV transformed
+cells
+
+Elimination of high grade CIN (20/34), lesions reduction
+by 50% (11/34), lesions reduction to CIN II (2/34) and
+to CIN I (1/34). HPV DNA load was significantly
+decreased
+
+[284]
+
+MVA-HPV-IL-2 (TG4001)
+
+E6/E7 proteins of HPV 16
+
+Well tolerated.
+
+No CIN II/III
+
+www.transgene
+
+NA
+
+lesion (10/21).
+
+.fr
+
+No E6/E7 mRNA
+
+detected
+
+MVA-E2
+
+E2 protein of BPV-1
+
+MVA-BN®-HER2 (following chemother-
+apy and Herceptin® treatment or in combi-
+nation with singleagent taxane chemo-
+therapy)
+
+Receptor tyrosineprotein kinase HER-
+2/neu
+
+E2-specific Ab and HPV-transformed cells specific cyto-
+toxic responses
+
+No lesion or presence of HPV
+(28/30). No recurrent disease after 1 year of treatment
+
+[285]
+
+HER2-specific humoral and/or cellular responses
+(12/18)
+
+Well tolerated. No disease progression
+after 6 months www.bavarian(15/30). Vaccine + nordic.com
+chemotherapy
+1 CR and 1 PR
+
+notherapeutic agents, in particular those that aim at blocking immunosuppressive mechanisms, and/or with conventional therapeutic modalities may further improve their efficacy.
+IMMUNOGENIC IMPROVEMENTS OF MVA AND NYVAC VECTORS
+The modest efficacy obtained with the RV144 Thai phase III trial against HIV infection highlights the need to develop improved attenuated poxvirus vectors as vaccines. Several strategies have been used to enhance the immunogenic capacity of MVA and NYVAC vectors. This has been accomplished in MVA after deleting viral genes that antagonize host specific immune responses [294-296], through coexpression of cytokines [297], as well as by combining the vector with adjuvants [298]. The immunogenicity of
+
+NYVAC has been improved by the incorporation of viral host range genes ([299]; Kibler, K. et al, submitted) or by deleting viral genes that antagonize the IFN system (Quakkelaar, ED et al, PLoS ONE, in press). Other viral genes with roles as immunomodulators and still present in the genomes of MVA and NYVAC are being analyzed for further improvements in immunogenicity of the two vectors. It will be important to establish in future studies whether anyone of the modified poxvirus vectors MVA and NYVAC could be used alone or in combination with other immunogens as more potent vaccines.
+CONCLUDING REMARKS
+Undoubtedly, the poxvirus vectors MVA and NYVAC are promising candidates as delivery vehicles of foreign pro-
+
+208 Current Gene Therapy, 2011, Vol. 11, No. 3
+teins to tissues and as recombinant vaccines, as documented thus far by a number of preclinical and clinical studies. The information obtained highlights their safety record, efficient expression of the recombinant product, strong immunogenicity and, in many cases high protective efficacy against a pathogen. Since the two virus strains are derived from VACV the question emerges as if we should consider preferentially one vector over the other. Comparative studies of the two vectors in cultured cells and in animals showed distinct behaviour. In fact, while in HeLa cells MVA expresses all or nearly all of the early and late viral genes and morphogenesis is blocked after IV formation, NYVAC infection in the same cells has a restriction in the synthesis of some of the late viral proteins and morphogenesis is blocked at or before IV formation. In immature human mDCs, the replication of both viruses is largely restricted, but the two viruses differ in the magnitude and extend of induction of host genes. In fact, MVA triggered the expression of higher number of immunomodulatory genes than NYVAC, in particular the type I IFN and its signalling pathways. When inoculated by different routes in mice, the MVA vector expresses a heterologous antigen faster than NYVAC, but this vector stays longer (about 24 more hours) than MVA. Both vectors are cleared by 3 days postinfection. When the two vectors are administered to macaques by aerosol they are absorbed primarily in the mucosal tissues of the lungs and respiratory tract, but not in the brain or eyes, proven their safety. As documented, both systemic and mucosal routes are effective as MVA and NYVAC delivery systems of antigens, but the route to be applied will be selected as a function of the pathogen route of transmission and reservoir.
+When the two vectors are compared head-to-head in preclinical studies with mice and monkeys, both vectors triggered specific immune responses to the foreign antigens and elicit protection in monkeys challenged with a pathogenic SHIV89.6p strain. Significantly, the type of cellular immune response triggered by MVA versus NYVAC differed clearly. While MVA triggers preferentially a CD8+ T cell response, NYVAC favours a CD4+ T cell response. These immunological differences must be taken into account when these vectors are considered as vaccines. Preclinical and clinical studies have been performed with these two vectors against diseases caused by viruses, bacteria, parasites and cancer. The conclusion of these studies is that both of these vectors are promising vehicles to deliver antigens and elicit specific immune responses that in some cases correlate with protection. Since the breath, magnitude and duration of the immune responses might be critical parameters in determining protection, further insights into the biology of MVA and NYVAC and their immune behaviour is needed. An important consideration is that these vectors still contain many other genes that counteract host immune responses, as illustrated in Table 1. Understanding the contribution of these genes in virushost cell interactions and in the immunogenicity of MVA and NYVAC recombinants is also needed. Some progress in this direction is emerging from studies by several groups. Overall, more efficient MVA vectors that enhance the magnitude, breath, polyfunctionality and durability of the immune response to antigens of pathogens are desirable. This is particularly relevant if instead of using combined immunogens a single product is target for mass vaccination purposes
+
+Gómez et al.
+
+to simplify the immunization protocol and reduce manufacture cost. The hope is to know in the years ahead how viral genes antagonize the immune system and to make use of this knowledge in the generation of modified MVA and NYVAC gene delivery systems as newer vaccines and anti-tumor agents.
+
+ACKNOWLEDGEMENTS
+We are grateful to the members of the lab for their help and collaboration in the poxvirus biology. We would like to acknowledge the Spanish Ministry of Science and Education (SAF2008-02036), FIPSE 360731/09, Foundation Botín and the Bill and Melinda Gates (PTVDC) for financial support of our studies cited in this review. We also are thankful to Victoria Jiménez and Rubén González-Sanz for their expert technical assistance.
+
+ABBREVIATIONS
+
+5-FU
+
+= 5-fluorouracil
+
+Ab
+
+= Antibody
+
+Ad
+
+= Adenovirus
+
+Ag
+
+= Antigen
+
+AIDS = Acquired immune deficiency syndrome
+
+AMA1 = Apical membrane antigen 1
+
+APC
+
+= Antigen presenting cell
+
+ATI
+
+= A-type inclusion body
+
+B
+
+= Boost
+
+B7.1
+
+= Co-stimulatory protein B7-1
+
+BPV-1 = Bovine papillomavirus
+
+CBP
+
+= Chemokine-binding protein
+
+CDV
+
+= Canine distemper virus
+
+CEA
+
+= Carcinoembrionic antigen
+
+CIN
+
+= Cervical intraepithelial neoplasia
+
+CMI
+
+= Cell mediated immune response
+
+CMV = Cytomegalovirus
+
+CpG
+
+= Cytosine-phosphate-guanine motifs
+
+CR
+
+= Complete response
+
+CS
+
+= Circumsporozoite protein
+
+CTL
+
+= Cytotoxic T lymphocyte
+
+CTLA-4 = CTL associated antigen 4
+
+CyaA = Bordetella pertussis adenylate cyclase toxoid
+
+DCs
+
+= Dendritic cells
+
+E7GGG = HPV16 E7 gene fused with E. coli glucuronidase gene
+
+EHV
+
+= Equine herpes virus
+
+EIV
+
+= Equine influenza virus
+
+FCU1 = FCY1 and FUR1 fusion gene
+
+FCY1 = S. cerevisiae cytosine deaminase gene
+
+MVA and NYVAC as Vaccines against Emergent Infectious Diseases
+
+FOLFOX = Combination chemotherapy (folinic acid, fluorouracil, oxaliplatin)
+
+FP9
+
+= Fowlpox virus 9
+
+FPV
+
+= Fowlpox virus
+
+FUR1
+
+= S. cerevisiae uracil phosphoribosyltransferase gene
+
+GM-CSF = Granulocyte-macrophage colony-stimulating factor
+
+HCV
+
+= Hepatitis C virus
+
+HIV
+
+= Human immunodeficiency virus
+
+HPV 16 = Human papilloma virus 16
+
+ICAM-1 = Intracellular adhesion molecule-1
+
+ICE
+
+= Interleukin-1 -converting enzyme
+
+IL-12 = Interleukin-12
+
+IL-2
+
+= Interleukin-2
+
+IFN
+
+= Interferon-alfa
+
+JEV
+
+= Japanese encephalitis virus
+
+LACK
+
+= Leishmania analogue of the receptors for activated C kinase
+
+LAMP1 = Lysosomal-associated membrane protein 1
+
+LFA-3 = Lymphocyte-function-associated antigen 3
+
+LSA1 = Liver stage antigen 1
+
+mAb
+
+= Monoclonal antibody
+
+MAGE-1 = Melanoma associated antigen 1
+
+MAGE-3 = Melanoma associated antigen 3
+
+MAP2K5 = Mitogen-activated protein kinase kinase 5
+
+MDA5 = Melanoma-differentiation-associated gene 5
+
+ME.TRAP = Multiepitope thrombospondin related adhesion protein
+
+MIP1
+
+= Macrophage inflammatory protein-1-beta
+
+MR
+
+= PR despite one new lesion
+
+MSP1 = Merozoite surface protein 1
+
+MVA = Modified vaccinia virus Ankara
+
+MVA-BN = MVA Bavarian Nordic
+
+MxR
+
+= Mixed responses
+
+NA
+
+= Not available
+
+ND
+
+= Not determined
+
+NFAT5 = Nuclear factor of activated T cell 5
+
+NK
+
+= Natural killer cell
+
+NSCLC = Non-small cell lung cancer
+
+NY-ESO-1 = Cancer/testis antigen 1B
+
+NYVAC = New York vaccinia virus attenuated from Copenhagen
+
+ODN
+
+= Oligodeoxynucleotide
+
+Current Gene Therapy, 2011, Vol. 11, No. 3 209
+
+OS
+
+= Overall survival
+
+P
+
+= Prime
+
+PAP
+
+= Prostate alkaline phosphatase
+
+Pfs25 = 25 KDa sexual-stage antigen
+
+PFS
+
+= Progression free survival
+
+PFU
+
+= Plaque forming units
+
+PR
+
+= Partial response
+
+PSA
+
+= Prostate specific antigen
+
+PVM
+
+= Parasitephorous vacuole membrane
+
+RIG
+
+= Retinoid acid-inducible gene
+
+RSV
+
+= Respiratory syncitial virus
+
+SARS = Severe acute respiratory syndrome
+
+SCYB10 = Chemokine (C-X-C motif) ligand 10
+
+SD
+
+= Stable disease
+
+SERA = Serine repeat antigen
+
+SFV
+
+= Semliki forest virus
+
+SHIV89.6P = Simian-human immunodeficiency virus 89.6P
+
+SOC
+
+= Standard-of-care
+
+SSP2
+
+= Sporozoite surface protein 2
+
+TC
+
+= Tumor cells
+
+Tg
+
+= Transgenic
+
+TTF
+
+= Time to treatment failure
+
+TTP
+
+= Time to progression
+
+TRICOM = B7.1, ICAM-1, LFA-3
+
+REFERENCES
+[1] Mackett M, Smith GL, Moss B. Vaccinia virus: a selectable eukaryotic cloning and expression vector. Proc Natl Acad Sci USA 1982; 79(23): 7415-9.
+[2] Panicali D, Paoletti E. Construction of poxviruses as cloning vectors: insertion of the thymidine kinase gene from herpes simplex virus into the DNA of infectious vaccinia virus. Proc Natl Acad Sci U S A 1982; 79(16): 4927-31.
+[3] Moss B. Vaccinia virus: a tool for research and vaccine development. Science 1991; 252(5013): 1662-7.
+[4] Mackett M, Smith GL. Vaccinia virus expression vectors. J Gen Virol 1986; 67 ( Pt 10): 2067-82.
+[5] Pastoret PP, Vanderplasschen A. Poxviruses as vaccine vectors. Comp Immunol Microbiol Infect Dis 2003; 26(5-6): 343-55.
+[6] Collier LH. The development of a stable smallpox vaccine. J Hyg (Lond) 1955; 53(1): 76-101.
+[7] Lane JM, Ruben FL, Neff JM, Millar JD. Complications of smallpox vaccination, 1968. N Engl J Med 1969; 281(22): 1201-8.
+[8] Redfield RR, Wright DC, James WD, Jones TS, Brown C, Burke DS. Disseminated vaccinia in a military recruit with human immunodeficiency virus (HIV) disease. N Engl J Med 1987; 316(11): 673-6.
+[9] Sutter G, Staib C. Vaccinia vectors as candidate vaccines: the development of modified vaccinia virus Ankara for antigen delivery. Curr Drug Targets Infect Disord 2003; 3(3): 263-71.
+[10] Hochstein-Mintzel V. [Oral and nasal immunization with Poxvirus vacciniae. I. Criteria for smallpox immunity and immunology of the conventional cutaneous reaction to vaccination]. Zentralbl Bakteriol [Orig B] 1972; 156(1): 1-14.
+
+210 Current Gene Therapy, 2011, Vol. 11, No. 3
+[11] Mayr A, Stickl H, Muller HK, Danner K, Singer H. [The smallpox vaccination strain MVA: marker, genetic structure, experience gained with the parenteral vaccination and behavior in organisms with a debilitated defence mechanism (author's transl)]. Zentralbl Bakteriol [B] 1978; 167(5-6): 375-90.
+[12] McCurdy LH, Larkin BD, Martin JE, Graham BS. Modified vaccinia Ankara: potential as an alternative smallpox vaccine. Clin Infect Dis 2004; 38(12): 1749-53.
+[13] Drexler I, Staib C, Sutter G. Modified vaccinia virus Ankara as antigen delivery system: how can we best use its potential? Curr Opin Biotechnol 2004; 15(6): 506-12.
+[14] Antoine G, Scheiflinger F, Dorner F, Falkner FG. The complete genomic sequence of the modified vaccinia Ankara strain: comparison with other orthopoxviruses. Virology 1998; 244(2): 365-96.
+[15] Sancho MC, Schleich S, Griffiths G, Krijnse-Locker J. The block in assembly of modified vaccinia virus Ankara in HeLa cells reveals new insights into vaccinia virus morphogenesis. J Virol 2002; 76(16): 8318-34.
+[16] Gallego-Gomez JC, Risco C, Rodriguez D, et al. Differences in virus-induced cell morphology and in virus maturation between MVA and other strains (WR, Ankara, and NYCBH) of vaccinia virus in infected human cells. J Virol 2003; 77(19): 10606-22.
+[17] Tartaglia J, Perkus ME, Taylor J, et al. NYVAC: a highly attenuated strain of vaccinia virus. Virology 1992; 188(1): 217-32.
+[18] Perkus ME, Tartaglia J, Paoletti E. Poxvirus-based vaccine candidates for cancer, AIDS, and other infectious diseases. J Leukoc Biol 1995; 58(1): 1-13.
+[19] Paoletti E. Applications of pox virus vectors to vaccination: an update. Proc Natl Acad Sci USA 1996; 93(21): 11349-53.
+[20] Hanke T, McMichael AJ, Dorrell L. Clinical experience with plasmid DNA- and modified vaccinia virus Ankara-vectored human immunodeficiency virus type 1 clade A vaccine focusing on T-cell induction. J Gen Virol 2007; 88(Pt 1): 1-12.
+[21] Goebel SJ, Johnson GP, Perkus ME, Davis SW, Winslow JP, Paoletti E. The complete DNA sequence of vaccinia virus. Virology 1990; 179(1): 247-66, 517-63.
+[22] Upton C, Slack S, Hunter AL, Ehlers A, Roper RL. Poxvirus orthologous clusters: toward defining the minimum essential poxvirus genome. J Virol 2003; 77(13): 7590-600.
+[23] Najera JL, Gomez CE, Domingo-Gil E, Gherardi MM, Esteban M. Cellular and biochemical differences between two attenuated poxvirus vaccine candidates (MVA and NYVAC) and role of the C7L gene. J Virol 2006; 80(12): 6033-47.
+[24] Gomez CE, Najera JL, Domingo-Gil E, Ochoa-Callejero L, Gonzalez-Aseguinolaza G, Esteban M. Virus distribution of the attenuated MVA and NYVAC poxvirus strains in mice. J Gen Virol 2007; 88(Pt 9): 2473-8.
+[25] Backes S, Sperling KM, Zwilling J, et al. Viral host-range factor C7 or K1 is essential for modified vaccinia virus Ankara late gene expression in human and murine cells, irrespective of their capacity to inhibit protein kinase R-mediated phosphorylation of eukaryotic translation initiation factor 2alpha. J Gen Virol 2010; 91(Pt 2): 47082.
+[26] Willis KL, Patel S, Xiang Y, Shisler JL. The effect of the vaccinia K1 protein on the PKR-eIF2alpha pathway in RK13 and HeLa cells. Virology 2009; 394(1): 73-81.
+[27] Willis KL, Langland JO, Shisler JL. Viral dsRNAs from vaccinia virus early or intermediate gene transcripts possess PKR activating function, resulting in NF-{kappa}B activation, when the K1 protein is absent or mutated. J Biol Chem 2011; 286: 7765-7778.
+[28] Meng X, Jiang C, Arsenio J, Dick K, Cao J, Xiang Y. Vaccinia virus K1L and C7L inhibit antiviral activities induced by type I interferons. J Virol 2009; 83(20): 10627-36.
+[29] Moss B. Poxviridae: the viruses and their replication. In Fields Virology , 5th edn Edited by DM Knipe & PM Howley Philadelphia: Wolters Kluwer Health /Lippincott Williams & Wilkins 2007: 2905-46.
+[30] Tolonen N, Doglio L, Schleich S, Krijnse Locker J. Vaccinia virus DNA replication occurs in endoplasmic reticulum-enclosed cytoplasmic mini-nuclei. Mol Biol Cell 2001; 12(7): 2031-46.
+[31] Moss B. Poxvirus entry and membrane fusion. Virology 2006; 344(1): 48-54.
+[32] Tartaglia J, Cox WI, Pincus S, Paoletti E. Safety and immunogenicity of recombinants based on the genetically-engineered vaccinia strain, NYVAC. Dev Biol Stand 1994; 82: 125-9.
+
+Gómez et al.
+[33] Tartaglia J, Cox WI, Taylor J, et al. Highly attenuated poxvirus vectors. AIDS Res Hum Retroviruses 1992; 8(8): 1445-7.
+[34] Drexler I, Heller K, Wahren B, Erfle V, Sutter G. Highly attenuated modified vaccinia virus Ankara replicates in baby hamster kidney cells, a potential host for virus propagation, but not in various human transformed and primary cells. J Gen Virol 1998; 79 ( Pt 2): 347-52.
+[35] Carroll MW, Moss B. Host range and cytopathogenicity of the highly attenuated MVA strain of vaccinia virus: propagation and generation of recombinant viruses in a nonhuman mammalian cell line. Virology 1997; 238(2): 198-211.
+[36] Sutter G, Moss B. Nonreplicating vaccinia vector efficiently expresses recombinant genes. Proc Natl Acad Sci U S A 1992; 89(22): 10847-51.
+[37] Guerra S, Lopez-Fernandez LA, Pascual-Montano A, Najera JL, Zaballos A, Esteban M. Host response to the attenuated poxvirus vector NYVAC: upregulation of apoptotic genes and NF-kappaBresponsive genes in infected HeLa cells. J Virol 2006; 80(2): 98598.
+[38] Chahroudi A, Garber DA, Reeves P, Liu L, Kalman D, Feinberg MB. Differences and similarities in viral life cycle progression and host cell physiology after infection of human dendritic cells with modified vaccinia virus Ankara and vaccinia virus. J Virol 2006; 80(17): 8469-81.
+[39] Guerra S, Lopez-Fernandez LA, Conde R, Pascual-Montano A, Harshman K, Esteban M. Microarray analysis reveals characteristic changes of host cell gene expression in response to attenuated modified vaccinia virus Ankara infection of human HeLa cells. J Virol 2004; 78(11): 5820-34.
+[40] Smith GL, Murphy BJ, Law M. Vaccinia virus motility. Annu Rev Microbiol 2003; 57: 323-42.
+[41] Smith GL, Law M. The exit of vaccinia virus from infected cells. Virus Res 2004; 106(2): 189-97.
+[42] Ramirez JC, Gherardi MM, Esteban M. Biology of attenuated modified vaccinia virus Ankara recombinant vector in mice: virus fate and activation of B- and T-cell immune responses in comparison with the Western Reserve strain and advantages as a vaccine. J Virol 2000; 74(2): 923-33.
+[43] Ramirez JC, Finke D, Esteban M, Kraehenbuhl JP, Acha-Orbea H. Tissue distribution of the Ankara strain of vaccinia virus (MVA) after mucosal or systemic administration. Arch Virol 2003; 148(5): 827-39.
+[44] Corbett M, Bogers WM, Heeney JL, et al. Aerosol immunization with NYVAC and MVA vectored vaccines is safe, simple, and immunogenic. Proc Natl Acad Sci U S A 2008; 105(6): 2046-51.
+[45] Finberg RW, Kurt-Jones EA. Viruses and Toll-like receptors. Microbes Infect 2004; 6(15): 1356-60.
+[46] Delaloye J, Roger T, Steiner-Tardivel QG, et al. Innate immune sensing of modified vaccinia virus Ankara (MVA) is mediated by TLR2-TLR6, MDA-5 and the NALP3 inflammasome. PLoS Pathog 2009; 5(6): e1000480.
+[47] Seet BT, Johnston JB, Brunetti CR, et al. Poxviruses and immune evasion. Annu Rev Immunol 2003; 21: 377-423.
+[48] Stack J, Haga IR, Schroder M, et al. Vaccinia virus protein A46R targets multiple Toll-like-interleukin-1 receptor adaptors and contributes to virulence. J Exp Med 2005; 201(6): 1007-18.
+[49] Kettle S, Alcami A, Khanna A, Ehret R, Jassoy C, Smith GL. Vaccinia virus serpin B13R (SPI-2) inhibits interleukin-1betaconverting enzyme and protects virus-infected cells from TNF- and Fas-mediated apoptosis, but does not prevent IL-1beta-induced fever. J Gen Virol 1997; 78 ( Pt 3): 677-85.
+[50] Perdiguero B, Esteban M. The interferon system and vaccinia virus evasion mechanisms. J Interferon Cytokine Res 2009; 29(9): 58198.
+[51] Isaacs SN, Kotwal GJ, Moss B. Vaccinia virus complement-control protein prevents antibody-dependent complement-enhanced neutralization of infectivity and contributes to virulence. Proc Natl Acad Sci U S A 1992; 89(2): 628-32.
+[52] Symons JA, Adams E, Tscharke DC, Reading PC, Waldmann H, Smith GL. The vaccinia virus C12L protein inhibits mouse IL-18 and promotes virus virulence in the murine intranasal model. J Gen Virol 2002; 83(Pt 11): 2833-44.
+[53] Reading PC, Smith GL. Vaccinia virus interleukin-18-binding protein promotes virulence by reducing gamma interferon production and natural killer and T-cell activity. J Virol 2003; 77(18): 9960-8.
+
+MVA and NYVAC as Vaccines against Emergent Infectious Diseases
+[54] Kluczyk A, Siemion IZ, Szewczuk Z, Wieczorek Z. The immunosuppressive activity of peptide fragments of vaccinia virus C10L protein and a hypothesis on the role of this protein in the viral invasion. Peptides 2002; 23(5): 823-34.
+[55] Pires de Miranda M, Reading PC, Tscharke DC, Murphy BJ, Smith GL. The vaccinia virus kelch-like protein C2L affects calciumindependent adhesion to the extracellular matrix and inflammation in a murine intradermal model. J Gen Virol 2003; 84(Pt 9): 245971.
+[56] DiPerna G, Stack J, Bowie AG, et al. Poxvirus protein N1L targets the I-kappaB kinase complex, inhibits signaling to NF-kappaB by the tumor necrosis factor superfamily of receptors, and inhibits NFkappaB and IRF3 signaling by toll-like receptors. J Biol Chem 2004; 279(35): 36570-8.
+[57] Cooray S, Bahar MW, Abrescia NG, et al. Functional and structural studies of the vaccinia virus virulence factor N1 reveal a Bcl2-like anti-apoptotic protein. J Gen Virol 2007; 88(Pt 6): 1656-66.
+[58] Gedey R, Jin XL, Hinthong O, Shisler JL. Poxviral regulation of the host NF-kappaB response: the vaccinia virus M2L protein inhibits induction of NF-kappaB activation via an ERK2 pathway in virus-infected human embryonic kidney cells. J Virol 2006; 80(17): 8676-85.
+[59] Hinthong O, Jin XL, Shisler JL. Characterization of wild-type and mutant vaccinia virus M2L proteins' abilities to localize to the endoplasmic reticulum and to inhibit NF-kappaB activation during infection. Virology 2008; 373(2): 248-62.
+[60] Shisler JL, Jin XL. The vaccinia virus K1L gene product inhibits host NF-kappaB activation by preventing IkappaBalpha degradation. J Virol 2004; 78(7): 3553-60.
+[61] Kawagishi-Kobayashi M, Silverman JB, Ung TL, Dever TE. Regulation of the protein kinase PKR by the vaccinia virus pseudosubstrate inhibitor K3L is dependent on residues conserved between the K3L protein and the PKR substrate eIF2alpha. Mol Cell Biol 1997; 17(7): 4146-58.
+[62] Davies MV, Elroy-Stein O, Jagus R, Moss B, Kaufman RJ. The vaccinia virus K3L gene product potentiates translation by inhibiting double-stranded-RNA-activated protein kinase and phosphorylation of the alpha subunit of eukaryotic initiation factor 2. J Virol 1992; 66(4): 1943-50.
+[63] Beattie E, Tartaglia J, Paoletti E. Vaccinia virus-encoded eIF-2 alpha homolog abrogates the antiviral effect of interferon. Virology 1991; 183(1): 419-22.
+[64] Davies MV, Chang HW, Jacobs BL, Kaufman RJ. The E3L and K3L vaccinia virus gene products stimulate translation through inhibition of the double-stranded RNA-dependent protein kinase by different mechanisms. J Virol 1993; 67(3): 1688-92.
+[65] Schroder M, Baran M, Bowie AG. Viral targeting of DEAD box protein 3 reveals its role in TBK1/IKKepsilon-mediated IRF activation. EMBO J 2008; 27(15): 2147-57.
+[66] Wasilenko ST, Banadyga L, Bond D, Barry M. The vaccinia virus F1L protein interacts with the proapoptotic protein Bak and inhibits Bak activation. J Virol 2005; 79(22): 14031-43.
+[67] Wasilenko ST, Stewart TL, Meyers AF, Barry M. Vaccinia virus encodes a previously uncharacterized mitochondrial-associated inhibitor of apoptosis. Proc Natl Acad Sci U S A 2003; 100(24): 14345-50.
+[68] Taylor JM, Quilty D, Banadyga L, Barry M. The vaccinia virus protein F1L interacts with Bim and inhibits activation of the proapoptotic protein Bax. J Biol Chem 2006; 281(51): 39728-39.
+[69] Stewart TL, Wasilenko ST, Barry M. Vaccinia virus F1L protein is a tail-anchored protein that functions at the mitochondria to inhibit apoptosis. J Virol 2005; 79(2): 1084-98.
+[70] Fischer SF, Ludwig H, Holzapfel J, et al. Modified vaccinia virus Ankara protein F1L is a novel BH3-domain-binding protein and acts together with the early viral protein E3L to block virusassociated apoptosis. Cell Death Differ 2006; 13(1): 109-18.
+[71] Zhai D, Yu E, Jin C, et al. Vaccinia virus protein F1L is a caspase9 inhibitor. J Biol Chem 2010; 285(8): 5569-80.
+[72] Froggatt GC, Smith GL, Beard PM. Vaccinia virus gene F3L encodes an intracellular protein that affects the innate immune response. J Gen Virol 2007; 88(Pt 7): 1917-21.
+[73] Chang HW, Watson JC, Jacobs BL. The E3L gene of vaccinia virus encodes an inhibitor of the interferon-induced, double-stranded RNA-dependent protein kinase. Proc Natl Acad Sci U S A 1992; 89(11): 4825-9.
+
+Current Gene Therapy, 2011, Vol. 11, No. 3 211
+[74] Romano PR, Zhang F, Tan SL, et al. Inhibition of double-stranded RNA-dependent protein kinase PKR by vaccinia virus E3: role of complex formation and the E3 N-terminal domain. Mol Cell Biol 1998; 18(12): 7304-16.
+[75] Sharp TV, Moonan F, Romashko A, Joshi B, Barber GN, Jagus R. The vaccinia virus E3L gene product interacts with both the regulatory and the substrate binding regions of PKR: implications for PKR autoregulation. Virology 1998; 250(2): 302-15.
+[76] Liu Y, Wolff KC, Jacobs BL, Samuel CE. Vaccinia virus E3L interferon resistance protein inhibits the interferon-induced adenosine deaminase A-to-I editing activity. Virology 2001; 289(2): 37887.
+[77] Smith EJ, Marie I, Prakash A, Garcia-Sastre A, Levy DE. IRF3 and IRF7 phosphorylation in virus-infected cells does not require double-stranded RNA-dependent protein kinase R or Ikappa B kinase but is blocked by Vaccinia virus E3L protein. J Biol Chem 2001; 276(12): 8951-7.
+[78] Xiang Y, Condit RC, Vijaysri S, Jacobs B, Williams BR, Silverman RH. Blockade of interferon induction and action by the E3L double-stranded RNA binding proteins of vaccinia virus. J Virol 2002; 76(10): 5251-9.
+[79] Guerra S, Caceres A, Knobeloch KP, Horak I, Esteban M. Vaccinia virus E3 protein prevents the antiviral action of ISG15. PLoS Pathog 2008; 4(7): e1000096.
+[80] Rivas C, Gil J, Melkova Z, Esteban M, Diaz-Guerra M. Vaccinia virus E3L protein is an inhibitor of the interferon (i.f.n.)-induced 25A synthetase enzyme. Virology 1998; 243(2): 406-14.
+[81] Langland JO, Kash JC, Carter V, Thomas MJ, Katze MG, Jacobs BL. Suppression of proinflammatory signal transduction and gene expression by the dual nucleic acid binding domains of the vaccinia virus E3L proteins. J Virol 2006; 80(20): 10083-95.
+[82] Kwon JA, Rich A. Biological function of the vaccinia virus ZDNA-binding protein E3L: gene transactivation and antiapoptotic activity in HeLa cells. Proc Natl Acad Sci U S A 2005; 102(36): 12759-64.
+[83] Kim YG, Lowenhaupt K, Oh DB, Kim KK, Rich A. Evidence that vaccinia virulence factor E3L binds to Z-DNA in vivo: Implications for development of a therapy for poxvirus infection. Proc Natl Acad Sci U S A 2004; 101(6): 1514-8.
+[84] Garcia MA, Guerra S, Gil J, Jimenez V, Esteban M. Anti-apoptotic and oncogenic properties of the dsRNA-binding protein of vaccinia virus, E3L. Oncogene 2002; 21(55): 8379-87.
+[85] Myskiw C, Arsenio J, van Bruggen R, Deschambault Y, Cao J. Vaccinia virus E3 suppresses expression of diverse cytokines through inhibition of the PKR, NF-kappaB, and IRF3 pathways. J Virol 2009; 83(13): 6757-68.
+[86] Najarro P, Traktman P, Lewis JA. Vaccinia virus blocks gamma interferon signal transduction: viral VH1 phosphatase reverses Stat1 activation. J Virol 2001; 75(7): 3185-96.
+[87] D'Costa SM, Bainbridge TW, Kato SE, Prins C, Kelley K, Condit RC. Vaccinia H5 is a multifunctional protein involved in viral DNA replication, postreplicative gene transcription, and virion morphogenesis. Virology 2010; 401(1): 49-60.
+[88] Webb TJ, Litavecz RA, Khan MA, et al. Inhibition of CD1d1mediated antigen presentation by the vaccinia virus B1R and H5R molecules. Eur J Immunol 2006; 36(10): 2595-600.
+[89] Liu H, Juo ZS, Shim AH, et al. Structural basis of semaphorinplexin recognition and viral mimicry from Sema7A and A39R complexes with PlexinC1. Cell 2010; 142(5): 749-61.
+[90] Gardner JD, Tscharke DC, Reading PC, Smith GL. Vaccinia virus semaphorin A39R is a 50-55 kDa secreted glycoprotein that affects the outcome of infection in a murine intradermal model. J Gen Virol 2001; 82(Pt 9): 2083-93.
+[91] Walzer T, Galibert L, Comeau MR, De Smedt T. Plexin C1 engagement on mouse dendritic cells by viral semaphorin A39R induces actin cytoskeleton rearrangement and inhibits integrinmediated adhesion and chemokine-induced migration. J Immunol 2005; 174(1): 51-9.
+[92] Walzer T, Galibert L, De Smedt T. Poxvirus semaphorin A39R inhibits phagocytosis by dendritic cells and neutrophils. Eur J Immunol 2005; 35(2): 391-8.
+[93] Wilcock D, Duncan SA, Traktman P, Zhang WH, Smith GL. The vaccinia virus A4OR gene product is a nonstructural, type II membrane glycoprotein that is expressed at the cell surface. J Gen Virol 1999; 80 ( Pt 8): 2137-48.
+
+212 Current Gene Therapy, 2011, Vol. 11, No. 3
+
+[94] [95] [96] [97] [98]
+[99] [100]
+[101] [102]
+[103] [104]
+[105]
+[106] [107] [108] [109] [110] [111]
+[112] [113] [114] [115] [116]
+
+Tscharke DC, Reading PC, Smith GL. Dermal infection with vaccinia virus reveals roles for virus proteins not seen using other inoculation routes. J Gen Virol 2002; 83(Pt 8): 1977-86. Bahar MW, Kenyon JC, Putz MM, et al. Structure and function of A41, a vaccinia virus chemokine binding protein. PLoS Pathog 2008; 4(1): e5. Ng A, Tscharke DC, Reading PC, Smith GL. The vaccinia virus A41L protein is a soluble 30 kDa glycoprotein that affects virus virulence. J Gen Virol 2001; 82(Pt 9): 2095-105. Reading PC, Moore JB, Smith GL. Steroid hormone synthesis by vaccinia virus suppresses the inflammatory response to infection. J Exp Med 2003; 197(10): 1269-78. Bowie A, Kiss-Toth E, Symons JA, Smith GL, Dower SK, O'Neill LA. A46R and A52R from vaccinia virus are antagonists of host IL-1 and toll-like receptor signaling. Proc Natl Acad Sci U S A 2000; 97(18): 10162-7. Harte MT, Haga IR, Maloney G, et al. The poxvirus protein A52R targets Toll-like receptor signaling complexes to suppress host defense. J Exp Med 2003; 197(3): 343-51. Maloney G, Schroder M, Bowie AG. Vaccinia virus protein A52R activates p38 mitogen-activated protein kinase and potentiates lipopolysaccharide-induced interleukin-10. J Biol Chem 2005; 280(35): 30838-44. Alcami A, Khanna A, Paul NL, Smith GL. Vaccinia virus strains Lister, USSR and Evans express soluble and cell-surface tumour necrosis factor receptors. J Gen Virol 1999; 80 ( Pt 4): 949-59. Beard PM, Froggatt GC, Smith GL. Vaccinia virus kelch protein A55 is a 64 kDa intracellular factor that affects virus-induced cytopathic effect and the outcome of infection in a murine intradermal model. J Gen Virol 2006; 87(Pt 6): 1521-9. Santos CR, Blanco S, Sevilla A, Lazo PA. Vaccinia virus B1R kinase interacts with JIP1 and modulates c-Jun-dependent signaling. J Virol 2006; 80(15): 7667-75. Price N, Tscharke DC, Hollinshead M, Smith GL. Vaccinia virus gene B7R encodes an 18-kDa protein that is resident in the endoplasmic reticulum and affects virus virulence. Virology 2000; 267(1): 65-79. Alejo A, Ruiz-Arguello MB, Ho Y, Smith VP, Saraiva M, Alcami A. A chemokine-binding domain in the tumor necrosis factor receptor from variola (smallpox) virus. Proc Natl Acad Sci U S A 2006; 103(15): 5995-6000. Alcami A, Smith GL. The vaccinia virus soluble interferon-gamma receptor is a homodimer. J Gen Virol 2002; 83(Pt 3): 545-9. Alcami A, Smith GL. Receptors for gamma-interferon encoded by poxviruses: implications for the unknown origin of vaccinia virus. Trends Microbiol 1996; 4(8): 321-6. Mossman K, Upton C, Buller RM, McFadden G. Species specificity of ectromelia virus and vaccinia virus interferon-gamma binding proteins. Virology 1995; 208(2): 762-9. Symons JA, Tscharke DC, Price N, Smith GL. A study of the vaccinia virus interferon-gamma receptor and its contribution to virus virulence. J Gen Virol 2002; 83(Pt 8): 1953-64. Sroller V, Ludvikova V, Maresova L, Hainz P, Nemeckova S. Effect of IFN-gamma receptor gene deletion on vaccinia virus virulence. Arch Virol 2001; 146(2): 239-49. Verardi PH, Jones LA, Aziz FH, Ahmad S, Yilma TD. Vaccinia virus vectors with an inactivated gamma interferon receptor homolog gene (B8R) are attenuated In vivo without a concomitant reduction in immunogenicity. J Virol 2001; 75(1): 11-8. Dobbelstein M, Shenk T. Protection against apoptosis by the vaccinia virus SPI-2 (B13R) gene product. J Virol 1996; 70(9): 647985. Smith GL, Howard ST, Chan YS. Vaccinia virus encodes a family of genes with homology to serine proteinase inhibitors. J Gen Virol 1989; 70 ( Pt 9): 2333-43. Chen RA, Jacobs N, Smith GL. Vaccinia virus strain Western Reserve protein B14 is an intracellular virulence factor. J Gen Virol 2006; 87(Pt 6): 1451-8. Chen RA, Ryzhakov G, Cooray S, Randow F, Smith GL. Inhibition of IkappaB kinase by vaccinia virus virulence factor B14. PLoS Pathog 2008; 4(2): e22. Spriggs MK, Hruby DE, Maliszewski CR, et al. Vaccinia and cowpox viruses encode a novel secreted interleukin-1-binding protein. Cell 1992; 71(1): 145-52.
+
+Gómez et al.
+
+[117] [118] [119] [120] [121] [122] [123] [124] [125] [126] [127]
+[128] [129]
+[130] [131] [132] [133] [134] [135] [136] [137] [138]
+
+Alcami A, Smith GL. A soluble receptor for interleukin-1 beta encoded by vaccinia virus: a novel mechanism of virus modulation of the host response to infection. Cell 1992; 71(1): 153-67. Waibler Z, Anzaghe M, Frenz T, et al. Vaccinia virus-mediated inhibition of type I interferon responses is a multifactorial process involving the soluble type I interferon receptor B18 and intracellular components. J Virol 2009; 83(4): 1563-71. Ueda Y, Morikawa S, Matsuura Y. Identification and nucleotide sequence of the gene encoding a surface antigen induced by vaccinia virus. Virology 1990; 177(2): 588-94. Colamonici OR, Domanski P, Sweitzer SM, Larner A, Buller RM. Vaccinia virus B18R gene encodes a type I interferon-binding protein that blocks interferon alpha transmembrane signaling. J Biol Chem 1995; 270(27): 15974-8. Alcami A, Symons JA, Smith GL. The vaccinia virus soluble alpha/beta interferon (IFN) receptor binds to the cell surface and protects cells from the antiviral effects of IFN. J Virol 2000; 74(23): 11230-9. Symons JA, Alcami A, Smith GL. Vaccinia virus encodes a soluble type I interferon receptor of novel structure and broad species specificity. Cell 1995; 81(4): 551-60. Moon KB, Turner PC, Moyer RW. SPI-1-dependent host range of rabbitpox virus and complex formation with cathepsin G is associated with serpin motifs. J Virol 1999; 73(11): 8999-9010. Guerra S, Najera JL, Gonzalez JM, et al. Distinct gene expression profiling after infection of immature human monocyte-derived dendritic cells by the attenuated poxvirus vectors MVA and NYVAC. J Virol 2007; 81(16): 8707-21. Gherardi MM, Esteban M. Recombinant poxviruses as mucosal vaccine vectors. J Gen Virol 2005; 86(Pt 11): 2925-36. Franchini G, Gurunathan S, Baglyos L, Plotkin S, Tartaglia J. Poxvirus-based vaccine candidates for HIV: two decades of experience with special emphasis on canarypox vectors. Expert Rev Vaccines 2004; 3(4 Suppl): S75-88. Gomez CE, Najera JL, Jimenez EP, et al. Head-to-head comparison on the immunogenicity of two HIV/AIDS vaccine candidates based on the attenuated poxvirus strains MVA and NYVAC coexpressing in a single locus the HIV-1BX08 gp120 and HIV1(IIIB) Gag-Pol-Nef proteins of clade B. Vaccine 2007; 25(15): 2863-85. Gomez CE, Najera JL, Jimenez V, et al. Generation and immunogenicity of novel HIV/AIDS vaccine candidates targeting HIV-1 Env/Gag-Pol-Nef antigens of clade C. Vaccine 2007; 25(11): 196992. Mooij P, Balla-Jhagjhoorsingh SS, Koopman G, et al. Differential CD4+ versus CD8+ T-cell responses elicited by different poxvirusbased human immunodeficiency virus type 1 vaccine candidates provide comparable efficacies in primates. J Virol 2008; 82(6): 2975-88. Mescher MF, Curtsinger JM, Agarwal P, et al. Signals required for programming effector and memory development by CD8+ T cells. Immunol Rev 2006; 211: 81-92. Mescher MF, Agarwal P, Casey KA, Hammerbeck CD, Xiao Z, Curtsinger JM. Molecular basis for checkpoints in the CD8 T cell response: tolerance versus activation. Semin Immunol 2007; 19(3): 153-61. Lu B. The molecular mechanisms that control function and death of effector CD4+ T cells. Immunol Res 2006; 36(1-3): 275-82. Sundrud MS, Rao A. New twists of T cell fate: control of T cell activation and tolerance by TGF-beta and NFAT. Curr Opin Immunol 2007; 19(3): 287-93. Anel A, Bosque A, Naval J, Pineiro A, Larrad L, Alava MA, et al. Apo2L/TRAIL and immune regulation. Front Biosci 2007; 12: 2074-84. Obst R, van Santen HM, Mathis D, Benoist C. Antigen persistence is required throughout the expansion phase of a CD4(+) T cell response. J Exp Med 2005; 201(10): 1555-65. Morens DM, Folkers GK, Fauci AS. The challenge of emerging and re-emerging infectious diseases. Nature 2004; 430(6996): 2429. Fauci AS. Infectious diseases: considerations for the 21st century. Clin Infect Dis 2001; 32(5): 675-85. Sauter SL, Rahman A, Muralidhar G. Non-replicating viral vectorbased AIDS vaccines: interplay between viral vectors and the immune system. Curr HIV Res 2005; 3(2): 157-81.
+
+MVA and NYVAC as Vaccines against Emergent Infectious Diseases
+
+[139] [140] [141] [142]
+[143]
+[144]
+[145] [146] [147] [148] [149] [150] [151] [152] [153] [154] [155] [156] [157] [158] [159] [160] [161]
+
+Xing Z, Santosuosso M, McCormick S, Yang TC, Millar J, Hitt M, et al. Recent advances in the development of adenovirus- and poxvirus-vectored tuberculosis vaccines. Curr Gene Ther 2005; 5(5): 485-92. Dudek T, Knipe DM. Replication-defective viruses as vaccines and vaccine vectors. Virology 2006; 344(1): 230-9. Zavala F, Rodrigues M, Rodriguez D, Rodriguez JR, Nussenzweig RS, Esteban M. A striking property of recombinant poxviruses: efficient inducers of in vivo expansion of primed CD8(+) T cells. Virology 2001; 280(2): 155-9. Nilsson C, Makitalo B, Berglund P, Bex F, Liljestrom P, Sutter G, et al. Enhanced simian immunodeficiency virus-specific immune responses in macaques induced by priming with recombinant Semliki Forest virus and boosting with modified vaccinia virus Ankara. Vaccine 2001; 19(25-26): 3526-36. Gherardi MM, Najera JL, Perez-Jimenez E, Guerra S, GarciaSastre A, Esteban M. Prime-boost immunization schedules based on influenza virus and vaccinia virus vectors potentiate cellular immune responses against human immunodeficiency virus Env protein systemically and in the genitorectal draining lymph nodes. J Virol 2003; 77(12): 7048-57. Webster DP, Dunachie S, Vuola JM, Berthoud T, Keating S, Laidlaw SM, et al. Enhanced T cell-mediated protection against malaria in human challenges by using the recombinant poxviruses FP9 and modified vaccinia virus Ankara. Proc Natl Acad Sci U S A 2005; 102(13): 4836-41. Rerks-Ngarm S, Pitisuttithum P, Nitayaphan S, Kaewkungwal J, Chiu J, Paris R, et al. Vaccination with ALVAC and AIDSVAX to prevent HIV-1 infection in Thailand. N Engl J Med 2009; 361(23): 2209-20. Pantaleo G, Esteban M, Jacobs B, Tartaglia J. Poxvirus vectorbased HIV vaccines. Curr Opin HIV AIDS 2010; 5(5): 391-6. Vasan S, Schlesinger SJ, Chen Z, et al. Phase 1 safety and immunogenicity evaluation of ADMVA, a multigenic, modified vaccinia Ankara-HIV-1 B'/C candidate vaccine. PLoS One 2010; 5(1): e8816. Sandstrom E, Nilsson C, Hejdeman B, et al. Broad immunogenicity of a multigene, multiclade HIV-1 DNA vaccine boosted with heterologous HIV-1 recombinant modified vaccinia virus Ankara. J Infect Dis 2008; 198(10): 1482-90. McCormack S, Stohr W, Barber T, et al. EV02: a Phase I trial to compare the safety and immunogenicity of HIV DNA-C primeNYVAC-C boost to NYVAC-C alone. Vaccine 2008; 26(25): 3162-74. Harari A, Bart PA, Stohr W, et al. An HIV-1 clade C DNA prime, NYVAC boost vaccine regimen induces reliable, polyfunctional, and long-lasting T cell responses. J Exp Med 2008; 205(1): 63-77. Esteban M. Attenuated poxvirus vectors MVA and NYVAC as promising vaccine candidates against HIV/AIDS. Hum Vaccin 2009; 5(12): 867-71. Berthoud TK, Hamill M, Lillie PJ, et al. Potent CD8+ T-Cell Immunogenicity in Humans of a Novel Heterosubtypic Influenza A Vaccine, MVA-NP+M1. Clin Infect Dis 2011; 52(1): 1-7. Scriba TJ, Tameris M, Mansoor N, et al. Modified vaccinia Ankara-expressing Ag85A, a novel tuberculosis vaccine, is safe in adolescents and children, and induces polyfunctional CD4+ T cells. Eur J Immunol 2010; 40(1): 279-90. Brookes RH, Hill PC, Owiafe PK, et al. Safety and immunogenicity of the candidate tuberculosis vaccine MVA85A in West Africa. PLoS One 2008; 3(8): e2921. Hawkridge T, Scriba TJ, Gelderbloem S, et al. Safety and immunogenicity of a new tuberculosis vaccine, MVA85A, in healthy adults in South Africa. J Infect Dis 2008; 198(4): 544-52. Good MF, Doolan DL. Malaria vaccine design: immunological considerations. Immunity 2010; 33(4): 555-66. Hill AV, Reyes-Sandoval A, O'Hara G, et al. Prime-boost vectored malaria vaccines: progress and prospects. Hum Vaccin 2010; 6(1): 78-83. Lund AH, van Lohuizen M. Epigenetics and cancer. Genes Dev 2004; 18(19): 2315-35. Vogelstein B, Kinzler KW. Cancer genes and the pathways they control. Nat Med 2004; 10(8): 789-99. Hanahan D, Weinberg RA. The hallmarks of cancer. Cell 2000; 100(1): 57-70. Bodmer WF, Browning MJ, Krausa P, Rowan A, Bicknell DC, Bodmer JG. Tumor escape from immune response by variation in
+
+Current Gene Therapy, 2011, Vol. 11, No. 3 213
+
+[162] [163] [164] [165] [166] [167] [168] [169]
+[170] [171] [172] [173] [174]
+[175] [176]
+[177] [178] [179] [180] [181]
+[182]
+
+HLA expression and other mechanisms. Ann N Y Acad Sci 1993; 690: 42-9. Cabrera T, Lopez-Nevot MA, Gaforio JJ, Ruiz-Cabello F, Garrido F. Analysis of HLA expression in human tumor tissues. Cancer Immunol Immunother 2003; 52(1): 1-9. Restifo NP, Esquivel F, Kawakami Y, et al. Identification of human cancers deficient in antigen processing. J Exp Med 1993; 177(2): 265-72. Marincola FM, Jaffee EM, Hicklin DJ, Ferrone S. Escape of human solid tumors from T-cell recognition: molecular mechanisms and functional significance. Adv Immunol 2000; 74: 181-273. Botti C, Seregni E, Ferrari L, Martinetti A, Bombardieri E. Immunosuppressive factors: role in cancer development and progression. Int J Biol Markers 1998; 13(2): 51-69. Kiessling R, Wasserman K, Horiguchi S, et al. Tumor-induced immune dysfunction. Cancer Immunol Immunother 1999; 48(7): 353-62. Gallucci S, Matzinger P. Danger signals: SOS to the immune system. Curr Opin Immunol 2001; 13(1): 114-9. Matzinger P. The danger model: a renewed sense of self. Science 2002; 296(5566): 301-5. Overwijk WW, Lee DS, Surman DR, et al. Vaccination with a recombinant vaccinia virus encoding a "self" antigen induces autoimmune vitiligo and tumor cell destruction in mice: requirement for CD4(+) T lymphocytes. Proc Natl Acad Sci U S A 1999; 96(6): 2982-7. Carroll MW, Restifo NP. Cancer Vaccines and Immunotherapy. Chapter 3. Poxviruses as Vectors for Cancer Immunotherapy. Cambridge, UK: Cambridge University Press; 2000. p. 47-61. Weyer J, Rupprecht CE, Mans J, Viljoen GJ, Nel LH. Generation and evaluation of a recombinant modified vaccinia virus Ankara vaccine for rabies. Vaccine 2007; 25(21): 4213-22. Fournillier A, Gerossier E, Evlashev A, et al. An accelerated vaccine schedule with a poly-antigenic hepatitis C virus MVA-based candidate vaccine induces potent, long lasting and in vivo crossreactive T cell responses. Vaccine 2007; 25(42): 7339-53. Rollier CS, Paranhos-Baccala G, Verschoor EJ, et al. Vaccineinduced early control of hepatitis C virus infection in chimpanzees fails to impact on hepatic PD-1 and chronicity. Hepatology 2007; 45(3): 602-13. Abraham JD, Himoudi N, Kien F, Berland JL, Codran A, Bartosch B, et al. Comparative immunogenicity analysis of modified vaccinia Ankara vectors expressing native or modified forms of hepatitis C virus E1 and E2 glycoproteins. Vaccine 2004; 22(29-30): 3917-28. Ba L, Yi CE, Zhang L, Ho DD, Chen Z. Heterologous MVA-S prime Ad5-S boost regimen induces high and persistent levels of neutralizing antibody response against SARS coronavirus. Appl Microbiol Biotechnol 2007; 76(5): 1131-6. Chen Z, Zhang L, Qin C, Ba L, Yi CE, Zhang F, et al. Recombinant modified vaccinia virus Ankara expressing the spike glycoprotein of severe acute respiratory syndrome coronavirus induces protective neutralizing antibodies primarily targeting the receptor binding region. J Virol 2005; 79(5): 2678-88. Czub M, Weingartl H, Czub S, He R, Cao J. Evaluation of modified vaccinia virus Ankara based recombinant SARS vaccine in ferrets. Vaccine 2005; 23(17-18): 2273-9. Bisht H, Roberts A, Vogel L, Bukreyev A, Collins PL, Murphy BR, et al. Severe acute respiratory syndrome coronavirus spike protein expressed by attenuated vaccinia virus protectively immunizes mice. Proc Natl Acad Sci U S A 2004; 101(17): 6641-6. Weidinger G, Ohlmann M, Schlereth B, Sutter G, Niewiesk S. Vaccination with recombinant modified vaccinia virus Ankara protects against measles virus infection in the mouse and cotton rat model. Vaccine 2001; 19(20-22): 2764-8. Zhu Y, Rota P, Wyatt L, Tamin A, Rozenblatt S, Lerche N, et al. Evaluation of recombinant vaccinia virus--measles vaccines in infant rhesus macaques with preexisting measles antibody. Virology 2000; 276(1): 202-13. Stittelaar KJ, Wyatt LS, de Swart RL, Vos HW, Groen J, van Amerongen G, et al. Protective immunity in macaques vaccinated with a modified vaccinia virus Ankara-based measles virus vaccine in the presence of passively acquired antibodies. J Virol 2000; 74(9): 4236-43. Men R, Wyatt L, Tokimatsu I, Arakaki S, Shameem G, Elkins R, et al. Immunization of rhesus monkeys with a recombinant of modi-
+
+214 Current Gene Therapy, 2011, Vol. 11, No. 3
+
+[183]
+[184] [185] [186] [187] [188]
+[189] [190] [191]
+[192] [193] [194] [195] [196]
+[197] [198]
+[199] [200]
+
+fied vaccinia virus Ankara expressing a truncated envelope glycoprotein of dengue type 2 virus induced resistance to dengue type 2 virus challenge. Vaccine 2000; 18(27): 3113-22. Breathnach CC, Clark HJ, Clark RC, Olsen CW, Townsend HG, Lunn DP. Immunization with recombinant modified vaccinia Ankara (rMVA) constructs encoding the HA or NP gene protects ponies from equine influenza virus challenge. Vaccine 2006; 24(8): 1180-90. Breathnach CC, Rudersdorf R, Lunn DP. Use of recombinant modified vaccinia Ankara viral vectors for equine influenza vaccination. Vet Immunol Immunopathol 2004; 98(3-4): 127-36. Wang Z, La Rosa C, Li Z, et al. Vaccine properties of a novel marker gene-free recombinant modified vaccinia Ankara expressing immunodominant CMV antigens pp65 and IE1. Vaccine 2007; 25(6): 1132-41. Wang Z, La Rosa C, Lacey SF, et al. Attenuated poxvirus expressing three immunodominant CMV antigens as a vaccine strategy for CMV infection. J Clin Virol 2006; 35(3): 324-31. Wang Z, La Rosa C, Maas R, et al. Recombinant modified vaccinia virus Ankara expressing a soluble form of glycoprotein B causes durable immunity and neutralizing antibodies against multiple strains of human cytomegalovirus. J Virol 2004; 78(8): 3965-76. Stephensen CB, Welter J, Thaker SR, Taylor J, Tartaglia J, Paoletti E. Canine distemper virus (CDV) infection of ferrets as a model for testing Morbillivirus vaccine strategies: NYVAC- and ALVACbased CDV recombinants protect against symptomatic infection. J Virol 1997; 71(2): 1506-13. Paillot R, Ellis SA, Daly JM, et al. Characterisation of CTL and IFN-gamma synthesis in ponies following vaccination with a NYVAC-based construct coding for EHV-1 immediate early gene, followed by challenge infection. Vaccine 2006; 24(10): 1490-500. Huemer HP, Strobl B, Nowotny N. Use of apathogenic vaccinia virus MVA expressing EHV-1 gC as basis of a combined recombinant MVA/DNA vaccination scheme. Vaccine 2000; 18(14): 13206. Soboll G, Breathnach CC, Kydd JH, Hussey SB, Mealey RM, Lunn DP. Vaccination of ponies with the IE gene of EHV-1 in a recombinant modified live vaccinia vector protects against clinical and virological disease. Vet Immunol Immunopathol 2010; 135(1-2): 108-17. Olszewska W, Suezer Y, Sutter G, Openshaw PJ. Protective and disease-enhancing immune responses induced by recombinant modified vaccinia Ankara (MVA) expressing respiratory syncytial virus proteins. Vaccine 2004; 23(2): 215-21. de Waal L, Wyatt LS, Yuksel S, et al. Vaccination of infant macaques with a recombinant modified vaccinia virus Ankara expressing the respiratory syncytial virus F and G genes does not predispose for immunopathology. Vaccine 2004; 22(8): 923-6. Wyatt LS, Whitehead SS, Venanzi KA, Murphy BR, Moss B. Priming and boosting immunity to respiratory syncytial virus by recombinant replication-defective vaccinia virus MVA. Vaccine 1999; 18(5-6): 392-7. Antonis AF, van der Most RG, Suezer Y, et al. Vaccination with recombinant modified vaccinia virus Ankara expressing bovine respiratory syncytial virus (bRSV) proteins protects calves against RSV challenge. Vaccine 2007; 25(25): 4818-27. Nam JH, Bang HS, Cho HW, Chung YH. Different contribution of co-stimulatory molecules B7.1 and B7.2 to the immune response to recombinant modified vaccinia virus ankara vaccine expressing prM/E proteins of Japanese encephalitis virus and two hepatitis B virus vaccines. Acta Virol 2007; 51(2): 125-30. Nam JH, Cha SL, Cho HW. Immunogenicity of a recombinant MVA and a DNA vaccine for Japanese encephalitis virus in swine. Microbiol Immunol 2002; 46(1): 23-8. Nam JH, Wyatt LS, Chae SL, Cho HW, Park YK, Moss B. Protection against lethal Japanese encephalitis virus infection of mice by immunization with the highly attenuated MVA strain of vaccinia virus expressing JEV prM and E genes. Vaccine 1999; 17(3): 2618. Raengsakulrach B, Nisalak A, Gettayacamin M, et al. Safety, immunogenicity, and protective efficacy of NYVAC-JEV and ALVAC-JEV recombinant Japanese encephalitis vaccines in rhesus monkeys. Am J Trop Med Hyg 1999; 60(3): 343-9. Konishi E, Pincus S, Paoletti E, Laegreid WW, Shope RE, Mason PW. A highly attenuated host range-restricted vaccinia virus strain, NYVAC, encoding the prM, E, and NS1 genes of Japanese en-
+
+Gómez et al.
+
+[201] [202] [203] [204] [205] [206]
+[207] [208] [209] [210] [211]
+[212] [213] [214] [215]
+[216] [217] [218]
+
+cephalitis virus prevents JEV viremia in swine. Virology 1992; 190(1): 454-8. Kreijtz JH, Suezer Y, van Amerongen G, d et al. Recombinant modified vaccinia virus Ankara-based vaccine induces protective immunity in mice against infection with influenza virus H5N1. J Infect Dis 2007; 195(11): 1598-606. Bender BS, Rowe CA, Taylor SF, Wyatt LS, Moss B, Small PA, Jr. Oral immunization with a replication-deficient recombinant vaccinia virus protects mice against influenza. J Virol 1996; 70(9): 6418-24. Sutter G, Wyatt LS, Foley PL, Bennink JR, Moss B. A recombinant vector derived from the host range-restricted and highly attenuated MVA strain of vaccinia virus stimulates protective immunity in mice to influenza virus. Vaccine 1994; 12(11): 1032-40. Kreijtz JH, Suezer Y, de Mutsert G, et al. Preclinical evaluation of a modified vaccinia virus Ankara (MVA)-based vaccine against influenza A/H5N1 viruses. Vaccine 2009; 27(45): 6296-9. Kreijtz JH, Suezer Y, de Mutsert G, et al. Recombinant modified vaccinia virus Ankara expressing the hemagglutinin gene confers protection against homologous and heterologous H5N1 influenza virus infections in macaques. J Infect Dis 2009; 199(3): 405-13. Kyriakis CS, De Vleeschauwer A, Barbe F, Bublot M, Van Reeth K. Safety, immunogenicity and efficacy of poxvirus-based vector vaccines expressing the haemagglutinin gene of a highly pathogenic H5N1 avian influenza virus in pigs. Vaccine 2009; 27(16): 2258-64. Hessel A, Schwendinger M, Fritz D, et al. A pandemic influenza H1N1 live vaccine based on modified vaccinia Ankara is highly immunogenic and protects mice in active and passive immunizations. PLoS One 2010; 5(8): e12217. Kreijtz JH, Suzer Y, Bodewes R, et al. Evaluation of a modified vaccinia virus Ankara (MVA)-based candidate pandemic influenza A/H1N1 vaccine in the ferret model. J Gen Virol 2010; 91(Pt 11): 2745-52. Williams A, Goonetilleke NP, McShane H, et al. Boosting with poxviruses enhances Mycobacterium bovis BCG efficacy against tuberculosis in guinea pigs. Infect Immun 2005; 73(6): 3814-6. Vordermeier HM, Rhodes SG, Dean G, et al. Cellular immune responses induced in cattle by heterologous prime-boost vaccination using recombinant viruses and bacille Calmette-Guerin. Immunology 2004; 112(3): 461-70. Goonetilleke NP, McShane H, Hannan CM, Anderson RJ, Brookes RH, Hill AV. Enhanced immunogenicity and protective efficacy against Mycobacterium tuberculosis of bacille Calmette-Guerin vaccine using mucosal administration and boosting with a recombinant modified vaccinia virus Ankara. J Immunol 2003; 171(3): 1602-9. Feng CG, Blanchard TJ, Smith GL, Hill AV, Britton WJ. Induction of CD8+ T-lymphocyte responses to a secreted antigen of Mycobacterium tuberculosis by an attenuated vaccinia virus. Immunol Cell Biol 2001; 79(6): 569-75. Verreck FA, Vervenne RA, Kondova I, et al. MVA.85A boosting of BCG and an attenuated, phoP deficient M. tuberculosis vaccine both show protective efficacy against tuberculosis in rhesus macaques. PLoS One 2009; 4(4): e5264. Vordermeier HM, Villarreal-Ramos B, Cockle PJ, et al. Viral booster vaccines improve Mycobacterium bovis BCG-induced protection against bovine tuberculosis. Infect Immun 2009; 77(8): 3364-73. Kolibab K, Yang A, Derrick SC, Waldmann TA, Perera LP, Morris SL. Highly persistent and effective prime/boost regimens against tuberculosis that use a multivalent modified vaccine virus Ankarabased tuberculosis vaccine with interleukin-15 as a molecular adjuvant. Clin Vaccine Immunol 2010; 17(5): 793-801. Roque-Resendiz JL, Rosales R, Herion P. MVA ROP2 vaccinia virus recombinant as a vaccine candidate for toxoplasmosis. Parasitology 2004; 128(Pt 4): 397-405. Zhang G, Huong VT, Battur B, et al. A heterologous prime-boost vaccination regime using DNA and a vaccinia virus, both expressing GRA4, induced protective immunity against Toxoplasma gondii infection in mice. Parasitology 2007; 134(Pt 10): 1339-46. Stober CB, Lange UG, Roberts MT, Alcami A, Blackwell JM. Heterologous priming-boosting with DNA and modified vaccinia virus Ankara expressing tryparedoxin peroxidase promotes longterm memory against Leishmania major in susceptible BALB/c Mice. Infect Immun 2007; 75(2): 852-60.
+
+MVA and NYVAC as Vaccines against Emergent Infectious Diseases
+
+[219] [220] [221] [222] [223] [224] [225]
+[226] [227] [228] [229] [230] [231] [232] [233] [234] [235] [236]
+
+Perez-Jimenez E, Kochan G, Gherardi MM, Esteban M. MVALACK as a safe and efficient vector for vaccination against leishmaniasis. Microbes Infect 2006; 8(3): 810-22. Dondji B, Perez-Jimenez E, Goldsmith-Pestana K, Esteban M, McMahon-Pratt D. Heterologous prime-boost vaccination with the LACK antigen protects against murine visceral leishmaniasis. Infect Immun 2005; 73(8): 5286-9. Ramos I, Alonso A, Marcen JM, et al. Heterologous prime-boost vaccination with a non-replicative vaccinia recombinant vector expressing LACK confers protection against canine visceral leishmaniasis with a predominant Th1-specific immune response. Vaccine 2008; 26(3): 333-44. Carson C, Antoniou M, Ruiz-Arguello MB, et al. A prime/boost DNA/Modified vaccinia virus Ankara vaccine expressing recombinant Leishmania DNA encoding TRYP is safe and immunogenic in outbred dogs, the reservoir of zoonotic visceral leishmaniasis. Vaccine 2009; 27(7): 1080-6. Cebere I, Dorrell L, McShane H, et al. Phase I clinical trial safety of DNA- and modified virus Ankara-vectored human immunodeficiency virus type 1 (HIV-1) vaccines administered alone and in a prime-boost regime to healthy HIV-1-uninfected volunteers. Vaccine 2006; 24(4): 417-25. Peters BS, Jaoko W, Vardas E, et al. Studies of a prophylactic HIV-1 vaccine candidate based on modified vaccinia virus Ankara (MVA) with and without DNA priming: effects of dosage and route on safety and immunogenicity. Vaccine 2007; 25(11): 2120-7. Goonetilleke N, Moore S, Dally L, et al. Induction of multifunctional human immunodeficiency virus type 1 (HIV-1)-specific T cells capable of proliferation in healthy subjects by using a primeboost regimen of DNA- and modified vaccinia virus Ankaravectored vaccines expressing HIV-1 Gag coupled to CD8+ T-cell epitopes. J Virol 2006; 80(10): 4717-28. Mwau M, Cebere I, Sutton J, et al. A human immunodeficiency virus 1 (HIV-1) clade A vaccine in clinical trials: stimulation of HIV-specific T-cell responses by DNA and recombinant modified vaccinia virus Ankara (MVA) vaccines in humans. J Gen Virol 2004; 85(Pt 4): 911-9. Bart PA, Goodall R, Barber T, et al. EV01: a phase I trial in healthy HIV negative volunteers to evaluate a clade C HIV vaccine, NYVAC-C undertaken by the EuroVacc Consortium. Vaccine 2008; 26(25): 3153-61. Aboud S, Nilsson C, Karlen K, et al. Strong HIV-specific CD4+ and CD8+ T-lymphocyte proliferative responses in healthy individuals immunized with an HIV-1 DNA vaccine and boosted with recombinant modified vaccinia virus ankara expressing HIV-1 genes. Clin Vaccine Immunol 2010; 17(7): 1124-31. Currier JR, Ngauy V, de Souza MS, et al. Phase I safety and immunogenicity evaluation of MVA-CMDR, a multigenic, recombinant modified vaccinia Ankara-HIV-1 vaccine candidate. PLoS One 2010; 5(11): e13983. Ramanathan VD, Kumar M, Mahalingam J, et al. A Phase 1 study to evaluate the safety and immunogenicity of a recombinant HIV type 1 subtype C-modified vaccinia Ankara virus vaccine candidate in Indian volunteers. AIDS Res Hum Retroviruses 2009; 25(11): 1107-16. Vollmar J, Arndtz N, Eckl KM, et al. Safety and immunogenicity of IMVAMUNE, a promising candidate as a third generation smallpox vaccine. Vaccine 2006; 24(12): 2065-70. Cosma A, Nagaraj R, Staib C, et al. Evaluation of modified vaccinia virus Ankara as an alternative vaccine against smallpox in chronically HIV type 1-infected individuals undergoing HAART. AIDS Res Hum Retroviruses 2007; 23(6): 782-93. Frey SE, Newman FK, Kennedy JS, et al. Clinical and immunologic responses to multiple doses of IMVAMUNE((R)) (Modified Vaccinia Ankara) followed by Dryvax((R)) challenge. Vaccine 2007. Konishi E, Kurane I, Mason PW, et al. Induction of Japanese encephalitis virus-specific cytotoxic T lymphocytes in humans by poxvirus-based JE vaccine candidates. Vaccine 1998; 16(8): 842-9. Kanesa-thasan N, Smucny JJ, Hoke CH, et al. Safety and immunogenicity of NYVAC-JEV and ALVAC-JEV attenuated recombinant Japanese encephalitis virus--poxvirus vaccines in vaccinianonimmune and vaccinia-immune humans. Vaccine 2000; 19(4-5): 483-91. Bejon P, Mwacharo J, Kai OK, et al. Immunogenicity of the candidate malaria vaccines FP9 and modified vaccinia virus Ankara en-
+
+Current Gene Therapy, 2011, Vol. 11, No. 3 215
+
+[237]
+[238] [239]
+[240] [241] [242] [243] [244] [245] [246] [247] [248] [249]
+[250] [251]
+[252]
+[253] [254]
+
+coding the pre-erythrocytic antigen ME-TRAP in 1-6 year old children in a malaria endemic area. Vaccine 2006; 24(22): 4709-15. Walther M, Thompson FM, Dunachie S, et al. Safety, immunogenicity, and efficacy of prime-boost immunization with recombinant poxvirus FP9 and modified vaccinia virus Ankara encoding the full-length Plasmodium falciparum circumsporozoite protein. Infect Immun 2006; 74(5): 2706-16. Dunachie SJ, Walther M, Vuola JM, et al. A clinical trial of primeboost immunisation with the candidate malaria vaccines RTS,S/AS02A and MVA-CS. Vaccine 2006; 24(15): 2850-9. Dunachie SJ, Walther M, Epstein JE, et al. A DNA prime-modified vaccinia virus ankara boost vaccine encoding thrombospondinrelated adhesion protein but not circumsporozoite protein partially protects healthy malaria-naive adults against Plasmodium falciparum sporozoite challenge. Infect Immun 2006; 74(10): 5933-42. Moorthy VS, Imoukhuede EB, Milligan P, et al. A randomised, double-blind, controlled vaccine efficacy trial of DNA/MVA METRAP against malaria infection in Gambian adults. PLoS Med 2004; 1(2): e33. McConkey SJ, Reece WH, Moorthy VS, et al. Enhanced T-cell immunogenicity of plasmid DNA vaccines boosted by recombinant modified vaccinia virus Ankara in humans. Nat Med 2003; 9(6): 729-35. Ockenhouse CF, Sun PF, Lanar DE, et al. Phase I/IIa safety, immunogenicity, and efficacy trial of NYVAC-Pf7, a pox-vectored, multiantigen, multistage vaccine candidate for Plasmodium falciparum malaria. J Infect Dis 1998; 177(6): 1664-73. McShane H, Pathan AA, Sander CR, et al. Recombinant modified vaccinia virus Ankara expressing antigen 85A boosts BCG-primed and naturally acquired antimycobacterial immunity in humans. Nat Med 2004; 10(11): 1240-4. Ibanga HB, Brookes RH, Hill PC, et al. Early clinical trials with a new tuberculosis vaccine, MVA85A, in tuberculosis-endemic countries: issues in study design. Lancet Infect Dis 2006; 6(8): 5228. Espenschied J, Lamont J, Longmate J, et al. CTLA-4 blockade enhances the therapeutic effect of an attenuated poxvirus vaccine targeting p53 in an established murine tumor model. J Immunol 2003; 170(6): 3401-7. Daftarian P, Song GY, Ali S, et al. Two distinct pathways of immuno-modulation improve potency of p53 immunization in rejecting established tumors. Cancer Res 2004; 64(15): 5407-14. Song GY, Gibson G, Haq W, et al. An MVA vaccine overcomes tolerance to human p53 in mice and humans. Cancer Immunol Immunother 2007; 56(8): 1193-205. Ishizaki H, Song GY, Srivastava T, et al. Heterologous prime/boost immunization with p53-based vaccines combined with toll-like receptor stimulation enhances tumor regression. J Immunother 2010; 33(6): 609-17. Hodge JW, Poole DJ, Aarts WM, Gomez Yafal A, Gritz L, Schlom J. Modified vaccinia virus ankara recombinants are as potent as vaccinia recombinants in diversified prime and boost vaccine regimens to elicit therapeutic antitumor responses. Cancer Res 2003; 63(22): 7942-9. Mulryan K, Ryan MG, Myers KA, et al. Attenuated recombinant vaccinia virus expressing oncofetal antigen (tumor-associated antigen) 5T4 induces active therapy of established tumors. Mol Cancer Ther 2002; 1(12): 1129-37. Harrop R, Ryan MG, Myers KA, Redchenko I, Kingsman SM, Carroll MW. Active treatment of murine tumors with a highly attenuated vaccinia virus expressing the tumor associated antigen 5T4 (TroVax) is CD4+ T cell dependent and antibody mediated. Cancer Immunol Immunother 2006; 55(9): 1081-90. Ishizaki H, Manuel ER, Song GY, Srivastava T, Sun S, Diamond DJ, et al. Modified vaccinia Ankara expressing survivin combined with gemcitabine generates specific antitumor effects in a murine pancreatic carcinoma model. Cancer Immunol Immunother 2011; 60(1): 99-109. Krupa M, Canamero M, Gomez CE, Najera JL, Gil J, Esteban M. Immunization with recombinant DNA and modified vaccinia virus Ankara (MVA) vectors delivering PSCA and STEAP1 antigens inhibits prostate cancer progression. Vaccine 2011; 29(7); 1504-13. Valdez Graham V, Sutter G, Jose MV, et al. Human tumor growth is inhibited by a vaccinia virus carrying the E2 gene of bovine papillomavirus. Cancer 2000; 88(7): 1650-62.
+
+216 Current Gene Therapy, 2011, Vol. 11, No. 3
+
+[255]
+[256] [257] [258]
+[259] [260] [261] [262] [263] [264]
+[265] [266] [267] [268] [269] [270] [271]
+[272] [273]
+
+Rosales C, Graham VV, Rosas GA, Merchant H, Rosales R. A recombinant vaccinia virus containing the papilloma E2 protein promotes tumor regression by stimulating macrophage antibodydependent cytotoxicity. Cancer Immunol Immunother 2000; 49(7): 347-60. Mackova J, Kutinova L, Hainz P, et al. Adjuvant effect of dendritic cells transduced with recombinant vaccinia virus expressing HPV16-E7 is inhibited by co-expression of IL12. Int J Oncol 2004; 24(6): 1581-8. Mackova J, Stasikova J, Kutinova L, et al. Prime/boost immunotherapy of HPV16-induced tumors with E7 protein delivered by Bordetella adenylate cyclase and modified vaccinia virus Ankara. Cancer Immunol Immunother 2006; 55(1): 39-46. Nemeckova S, Smahel M, Hainz P, et al. Combination of intratumoral injections of vaccinia virus MVA expressing GM-CSF and immunization with DNA vaccine prolongs the survival of mice bearing HPV16 induced tumors with downregulated expression of MHC class I molecules. Neoplasma 2007; 54(4): 326-33. Paul S, Regulier E, Rooke R, et al. Tumor gene therapy by MVAmediated expression of T-cell-stimulating antibodies. Cancer Gene Ther 2002; 9(5): 470-7. Paul S, Regulier E, Poitevin Y, Hormann H, Acres RB. The combination of a chemokine, cytokine and TCR-based T cell stimulus for effective gene therapy of cancer. Cancer Immunol Immunother 2002; 51(11-12): 645-54. Erbs P, Findeli A, Kintz J, et al. Modified vaccinia virus Ankara as a vector for suicide gene therapy. Cancer Gene Ther 2008; 15(1): 18-28. Odin L, Favrot M, Poujol D, et al. Canarypox virus expressing wild type p53 for gene therapy in murine tumors mutated in p53. Cancer Gene Ther 2001; 8(2): 87-98. Jourdier TM, Moste C, Bonnet MC, et al. Local immunotherapy of spontaneous feline fibrosarcomas using recombinant poxviruses expressing interleukin 2 (IL2). Gene Ther 2003; 10(26): 2126-32. Sivanandham M, Shaw P, Bernik SF, Paoletti E, Wallack MK. Colon cancer cell vaccine prepared with replication-deficient vaccinia viruses encoding B7.1 and interleukin-2 induce antitumor response in syngeneic mice. Cancer Immunol Immunother 1998; 46(5): 261-7. Meyer RG, Britten CM, Siepmann U, et al. A phase I vaccination study with tyrosinase in patients with stage II melanoma using recombinant modified vaccinia virus Ankara (MVA-hTyr). Cancer Immunol Immunother 2005; 54(5): 453-67. Di Nicola M, Carlo-Stella C, Mortarini R, et al. Boosting T cellmediated immunity to tyrosinase by vaccinia virus-transduced, CD34(+)-derived dendritic cell vaccination: a phase I trial in metastatic melanoma. Clin Cancer Res 2004; 10(16): 5381-90. Smith CL, Dunbar PR, Mirza F, et al. Recombinant modified vaccinia Ankara primes functionally activated CTL specific for a melanoma tumor antigen epitope in melanoma patients with a high risk of disease recurrence. Int J Cancer 2005; 113(2): 259-66. Dangoor A, Lorigan P, Keilholz U, et al. Clinical and immunological responses in metastatic melanoma patients vaccinated with a high-dose poly-epitope vaccine. Cancer Immunol Immunother 2010; 59(6): 863-73. Rochlitz C, Figlin R, Squiban P, et al. Phase I immunotherapy with a modified vaccinia virus (MVA) expressing human MUC1 as antigen-specific immunotherapy in patients with MUC1-positive advanced cancer. J Gene Med 2003; 5(8): 690-9. Ramlau R, Quoix E, Rolski J, et al. A phase II study of Tg4010 (Mva-Muc1-Il2) in association with chemotherapy in patients with stage III/IV Non-small cell lung cancer. J Thorac Oncol 2008; 3(7): 735-44. Oudard S, Rixe O, Beuselinck B, et al. A phase II study of the cancer vaccine TG4010 alone and in combination with cytokines in patients with metastatic renal clear-cell carcinoma: clinical and immunological findings. Cancer Immunol Immunother 2011; 60(2): 261-71. Dreicer R, Stadler WM, Ahmann FR, et al. MVA-MUC1-IL2 vaccine immunotherapy (TG4010) improves PSA doubling time in patients with prostate cancer with biochemical failure. Invest New Drugs 2009; 27(4): 379-86. Harrop R, Connolly N, Redchenko I, et al. Vaccination of colorectal cancer patients with modified vaccinia Ankara delivering the tumor antigen 5T4 (TroVax) induces immune responses which cor-
+
+Gómez et al.
+
+[274] [275]
+[276]
+[277] [278] [279]
+[280] [281] [282] [283] [284] [285] [286] [287] [288] [289] [290] [291] [292]
+
+relate with disease control: a phase I/II trial. Clin Cancer Res 2006; 12(11 Pt 1): 3416-24. Elkord E, Dangoor A, Drury NL, et al. An MVA-based vaccine targeting the oncofetal antigen 5T4 in patients undergoing surgical resection of colorectal cancer liver metastases. J Immunother 2008; 31(9): 820-9. Harrop R, Drury N, Shingler W, et al. Vaccination of colorectal cancer patients with modified vaccinia ankara encoding the tumor antigen 5T4 (TroVax) given alongside chemotherapy induces potent immune responses. Clin Cancer Res 2007; 13(15 Pt 1): 448794. Harrop R, Drury N, Shingler W, et al. Vaccination of colorectal cancer patients with TroVax given alongside chemotherapy (5fluorouracil, leukovorin and irinotecan) is safe and induces potent immune responses. Cancer Immunol Immunother 2008; 57(7): 97786. Kaufman HL, Taback B, Sherman W, et al. Phase II trial of Modified Vaccinia Ankara (MVA) virus expressing 5T4 and high dose Interleukin-2 (IL-2) in patients with metastatic renal cell carcinoma. J Transl Med 2009; 7: 2. Hawkins RE, Macdermott C, Shablak A, et al. Vaccination of patients with metastatic renal cancer with modified vaccinia Ankara encoding the tumor antigen 5T4 (TroVax) given alongside interferon-alpha. J Immunother 2009; 32(4): 424-9. Amato RJ, Shingler W, Goonewardena M, et al. Vaccination of renal cell cancer patients with modified vaccinia Ankara delivering the tumor antigen 5T4 (TroVax) alone or administered in combination with interferon-alpha (IFN-alpha): a phase 2 trial. J Immunother 2009; 32(7): 765-72. Amato RJ, Shingler W, Naylor S, et al. Vaccination of renal cell cancer patients with modified vaccinia ankara delivering tumor antigen 5T4 (TroVax) administered with interleukin 2: a phase II trial. Clin Cancer Res 2008; 14(22): 7504-10. Amato RJ, Hawkins RE, Kaufman HL, et al. Vaccination of metastatic renal cancer patients with MVA-5T4: a randomized, doubleblind, placebo-controlled phase III study. Clin Cancer Res 2010; 16(22): 5539-47. Amato RJ, Drury N, Naylor S, et al. Vaccination of prostate cancer patients with modified vaccinia ankara delivering the tumor antigen 5T4 (TroVax): a phase 2 trial. J Immunother 2008; 31(6): 577-85. Corona Gutierrez CM, Tinoco A, Navarro T, et al. Therapeutic vaccination with MVA E2 can eliminate precancerous lesions (CIN 1, CIN 2, and CIN 3) associated with infection by oncogenic human papillomavirus. Hum Gene Ther 2004; 15(5): 421-31. Garcia-Hernandez E, Gonzalez-Sanchez JL, Andrade-Manzano A, et al. Regression of papilloma high-grade lesions (CIN 2 and CIN 3) is stimulated by therapeutic vaccination with MVA E2 recombinant vaccine. Cancer Gene Ther 2006; 13(6): 592-7. Albarran YCA, de la Garza A, Cruz Quiroz BJ, et al. MVA E2 recombinant vaccine in the treatment of human papillomavirus infection in men presenting intraurethral flat condyloma: a phase I/II study. BioDrugs 2007; 21(1): 47-59. Palmowski MJ, Choi EM-L, Hermans IF, et al. Competition Between CTL Narrows the Immune Response Induced by PrimeBoost Vaccination Protocols. J Immunol 2002; 168(9): 4391-8. Hawkins RE, Dangoor A, Keilholz U, et al. Phase I/II trial of a PrimeBoost therapeutic vaccine in stage III/IV metastatic melanoma. J Clin Oncol (Meeting Abstracts) 2006; 24(18_suppl): 8030. Liu M, Acres B, Balloul JM, et al. Gene-based vaccines and immunotherapeutics. Proc Natl Acad Sci USA 2004; 101 Suppl 2: 14567-71. Banu E, Rixe O, Linassier C, et al. A phase II study of the cancer vaccine TG4010 alone and in combination with cytokines in patients with metastatic renal cell carcinoma (RCC). J Clin Oncol (Meeting Abstracts) 2006; 24(18_suppl): 2581. Dreicer R, Ahman R, Pantuck A, et al. Vaccine immunotherapy with MVA-Muc1-IL2 (TG4010) in prostate cancer patients with biochemical failure. J Clin Oncol (Meeting Abstracts) 2005; 23(16_suppl): 4518. Ribas A. Genetically modified dendritic cells for cancer immunotherapy. Curr Gene Ther 2005; 5(6): 619-28. Thorne SH, Bartlett DL, Kirn DH. The use of oncolytic vaccinia viruses in the treatment of cancer: a new role for an old ally? Curr Gene Ther 2005; 5(4): 429-43.
+
+MVA and NYVAC as Vaccines against Emergent Infectious Diseases
+
+[293] [294] [295] [296]
+
+Zeh HJ, Bartlett DL. Development of a replication-selective, oncolytic poxvirus for the treatment of human cancers. Cancer Gene Ther 2002; 9(12): 1001-12. Staib C, Kisling S, Erfle V, Sutter G. Inactivation of the viral interleukin 1beta receptor improves CD8+ T-cell memory responses elicited upon immunization with modified vaccinia virus Ankara. J Gen Virol 2005; 86(Pt 7): 1997-2006. Cottingham MG, Andersen RF, Spencer AJ, et al. Recombinationmediated genetic engineering of a bacterial artificial chromosome clone of modified vaccinia virus Ankara (MVA). PLoS One 2008; 3(2): e1638. Garcia-Arriaza J, Najera JL, Gomez CE, Sorzano CO, Esteban M. Immunogenic profiling in mice of a HIV/AIDS vaccine candidate (MVA-B) expressing four HIV-1 antigens and potentiation by specific gene deletions. PLoS One 2010; 5(8): e12395.
+
+Current Gene Therapy, 2011, Vol. 11, No. 3 217
+
+[297] [298] [299]
+
+Abaitua F, Rodriguez JR, Garzon A, Rodriguez D, Esteban M. Improving recombinant MVA immune responses: potentiation of the immune responses to HIV-1 with MVA and DNA vectors expressing Env and the cytokines IL-12 and IFN-gamma. Virus Res 2006; 116(1-2): 11-20. Gomez CE, Najera JL, Sanchez R, Jimenez V, Esteban M. Multimeric soluble CD40 ligand (sCD40L) efficiently enhances HIV specific cellular immune responses during DNA prime and boost with attenuated poxvirus vectors MVA and NYVAC expressing HIV antigens. Vaccine 2009; 27(24): 3165-74. Najera JL, Gomez CE, Garcia-Arriaza J, Sorzano CO, Esteban M. Insertion of vaccinia virus C7L host range gene into NYVAC-B genome potentiates immune responses against HIV-1 antigens. PLoS One 2010; 5(6): e11406.
+
+Received: January 31, 2011
+
+Revised: March 11, 2011
+
+Accepted: March 11, 2011
+
+PMID: 21453284

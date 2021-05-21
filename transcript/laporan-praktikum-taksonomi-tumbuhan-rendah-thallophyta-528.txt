@@ -1,0 +1,1274 @@
+LAPORAN LENGKAP PRAKTIKUM TAKSONOMI TUMBUHAN RENDAH
+(THALLOPHYTA)
+
+Disusun oleh:
+
+NAMA
+
+: LASINRANG ADITIA
+
+NIM
+
+: 60300112034
+
+KELAS
+
+: BIOLOGI A
+
+KELOMPOK : III (Tiga)
+
+LABORATORIUM BIOLOGI FAKULTAS SAINS DAN TEKNOLOGI UNIVERSITAS ISLAM NEGERI ALAUDDIN MAKASSAR
+2013
+
+@Copyright Lasinrang Aditia
+
+LEMBAR PENGESAHAN
+
+Laporan lengkap praktikum Taksonomi Tumbuhan Rendah dengan judul "Thallophyta" yang disusun oleh:
+
+Nama Nim Kelas Kelmpok
+
+: Lasinrang Aditia : 60300112034 : Biologi A : III (Tiga)
+
+Telah diperiksa oleh Kordinator Asisten / Asisten dan dinyatakan diterima.
+
+Samata-Gowa, 24 Desember 2013
+
+Kordinator Asisten
+
+Asisten
+
+( Nurfitri Arfani ) 6030111046
+
+(Nurapni Hidayah) 60300111045
+
+Mengetahui, Dosen Penanggung Jawab
+
+(Hj. Asrianty Mas'ud, S.Si, M.Pd)
+@Copyright Lasinrang Aditia
+
+A. Tujuan Praktikum Adapun tujuan dari praktikum ini adalah sebagai berikut:
+1. Untuk mengetahui ciri-ciri tumbuhan yang tergolong thallophyta. 2. Untuk mengetahui perbedaan antara sub divisi algae, fungi dan lichens. 3. Untuk mengetahui contoh tumbuhan yang tergolong thallophyta yang meliputi
+kelompok algae, fungi dan lichens. B. Dasar Teori
+Thallophyta merupakan kelompok tumbuhan yang mempunyai ciri utama yaitu tubuh berbentuk talus. Tumbuhan talus merupakan tumbuhan yang struktur tubuhnya masih belum bisa dibedakan antara akar,batang dan daun. Sedangkan tumbuhan yang sudah dapat dibedakan antara akar,batang dan daun disebut dengan tumbuhan kormus (Fitrah, 2011).
+Struktur tubuh dari divisi thallophyta, memiliki tubuh berbentuk thallus. Thallus artinya belum dapat dibedakan antara akar, batang dan daun. Tubuh tumbuhan yang telah dapat dibedakan dalam ke-3 bagian tersebut dinamakan kormus (Cormophyta). Tubuh yang berupa tallus ini mempunyai struktur dan bentuk dengan variasi yang sangat besar, dari yang terdiri atas satu sel berbentuk bulat sampai yang terdiri dari banyak sel dengan bentuk yang kadang-kadang telah mirip dengan kormus pada tumbuhan tingkat tinggi. Sel yang menyusun tubuh telah memperlihatkan differensiasi yang jelas, dalam protoplasnya tampak nyata satu inti atau lebih dan plastid dengan bentuk yang beraneka ragam (Gembong, 1989).
+Tumbuhan ganggang atau alga merupakan tumbuhan thallus yang hidup di air, baik air tawar maupun air laut. Yang hidup di air ada yang bergerak aktif dan ada yang tidak. Jenis-jenis yang hidup di air, terutama tubuhnya bersel tunggal dan dapat bergerak aktif mempunyai alat gerak untuk bergerak berupa bulu-bulu cambuk atau flagel. Flagel pada pada gangggang berjumlah satu atau lebih. Jika jumlahnya lebih dari satu, flagel itu dikatakan isokon bila sama panjangnya, heterokon bila panjangnya tidak sama. Flagel yang menurut alat gerak terdapat
+@Copyright Lasinrang Aditia
+
+dibelakang disebut flagel yang opistokom. Selain daripada itu, pada ganggang
+
+spora dan gametnya pun lazimnya dapat bergerak aktif dengan perantaraan flagel
+
+pula. Spora yang dapat bergerak aktif itu disebut zoospore atau kembara
+
+(Gembong, 1989).
+
+Fungi memiiki ciri umum jamur yaitu mempunyai klorofil sehingga tidak
+
+dapat berfotosintesis. Jamur memiliki asam inti berupa ARN dan ADN.
+
+Dindingnya terdiri atas kitin dan selulosa. Jamur ada yang bersel satu dan ada
+
+yang bersel banyak. Jamur juga bersifat heterotrof yang mendapatkan nutriennya
+
+melalui penyerapan (absorption). Dalam cara nutrisi ini, molekul-molekul organik
+
+kecil diserap dari medium sekitarnya. Fungi akan mencerna makanan di luar
+
+tubuhnya dengan cara mensekresikan enzim-enzim hidrolitik yang sangat ampuh
+
+ke dalam makanan tersebut. Fungi hidup sebagai saprofit atau parasit, ada yang
+
+dalam air, tetapi lebih banyak yang hidup didaratan serta pada tempat yang
+
+lembab. Sedangkan di dalam laut jarang sekali didapatkan. Kebanyakan jamur
+
+yang hidup saprofit dapat dipelihara pada substrat buatan (Muliayanti, 2009).
+
+Lichenes atau lumut kerak memiliki ciri yaitu memiliki klorofil sehingga
+
+dapat berfotosintesis dan dapat menghasilkan makanan sendiri (autotrof).
+
+Hidupnya menempel pada tumbuhan lain (epipit) dan pada tempat yang lembab
+
+(higrofit). Lumut kerak atau lichenes merupakan simbiosis mutualisme dari algae
+
+dan jamur (Prowel, 2010).
+
+C. Metode Praktikum
+
+1. Waktu dan Tempat
+
+Adapun waktu dan tempat dilakukannya praktikum ini adalah:
+
+Hari/tanggal : Selasa/17 Desember 2013
+
+Waktu
+
+: 08.00-10.00 WITA
+
+Tempat
+
+: Laboratorium Zoologi Lantai II
+
+Fakultas Sains dan Teknologi
+
+Universitas Islam Negeri Alauddin Makassar
+
+Samata-Gowa
+
+@Copyright Lasinrang Aditia
+
+2. Alat dan Bahan a. Alat Adapun alat yang digunakan pada percobaan ini yaitu mikroskop, deck glass, pipet tetes, pensil warna, dan alat tulis menulis. b. Bahan Adapun bahan yang digunakan pada percobaan ini yaitu untuk pengamatan alga uniseluler: air genangan berwarna hijau, air got, lendir pada tembok yang basah. Untuk pengamatan alga multiseluler: Sargassum sp, Turbinaria sp, Coulerpa sp, Halimeda sp, Euchema sp. Untuk pengamatan jamur makroskopis: Jamur Kuping (Auricularia polytricha), Jamur Merang (Volvariella volvaceae), Jamur Tiram (Plearatus ostreatus), Jamur Shitake (Lentinula edodes). Untuk pengamatan jamur mikroskopis: Air tape, tongkol jagung yang berjamur, roti berjamur, nasi basi. Pada pengamatan Lichenes: Parmelia acetabulum, aquades, dan tissue.
+3. Cara Kerja Adapun cara kerja pada percobaan ini yaitu :
+a. Pengamatan Alga 1. Alga uniseluler a. Mengamati sampel yang tersedia dengan menggunakan mikroskop b. Menggambar spesies yang ditemukan. c. Memberikan warna dan keterangan pada gambar. 2. Alga multiseluler a. Mengamati bagian-bagian morfologi bahan yang tersedia. b. Menggambar serta memberikan warna dan keterangan.
+b. Pengamatan Jamur 1. Jamur makroskopis a. Mengamati bagian morfologi setiap jamur yang disiapkan. b. Menggambar jamur-jamur tersebut. c. Memberikan keterangan pada gambar dan memberi warna.
+@Copyright Lasinrang Aditia
+
+2. Jamur mikroskopis a. Mengambil sampel jamur pada roti, nasi basi dan tongkol jagung yang berjamur dengan menggunakan pinset. b. Meletakkan sampel pada objek glass kemudian meneteskan dengan air aquadest lalu menutupnya dengan deck glass. c. Untuk bahan yang berair seperti tape dapat menggunakan pipet tetes lalu meneteskan pada objek glass kemudian menutupnya dengan deck glass. d. Mengamati dengan menggunakan mikroskop e. Menggambar hasil pengamatan dan memberi warna serta keterangan.
+c. Pengamatan Lichenes 1. Mengamati setiap bagian dari bahan yang tersedia. 2. Menggambar, memwarnai dan memberikan keterangan.
+D. Hasil dan Pembahasan 1. Hasil Pengamatan a. Pengamatan Alga 1. Pengamatan Alga Uniseluler a. Air genangan hijau (Euglena viridis) Keterangan: 1. Nukleus 2. Nukleoulus 3. Vakuola kontraktil 4. Kloroplas 5. Stigma 6. Flagel
+@Copyright Lasinrang Aditia
+
+b. Air got (Dinobryon acuminatum)
+
+Keterangan: 1. Flagel 2. Lorica 3. Stigma 4. Kloroplas
+
+c. Lendir pada tembok basah (Euglena viridis) Keterangan: 1. Nukleus 2. Nukleoulus 3. Vakuola kontraktil 4. Kloroplas 5. Stigma 6. Flagel
+
+2. Pengamatan Alga Multiseluler a. Sargassum sp
+
+Keterangan: 1. Helai (Blade) 2. Vesicle 3. Stipe 4. Pegangan 5. Thallus
+
+@Copyright Lasinrang Aditia
+
+b. Turbinaria sp c. Coulerpa sp d. Halimeda sp
+
+Keterangan: 1. Stipe 2. Receptacle 3. Pegangan 4. Thallus
+Keterangan: 1. Vesicle 2. Stipe 3. Axis 4. Pegangan (Holdfast)
+Keterangan: 1. Thallus 2. Stipe 3. Holdfast
+
+@Copyright Lasinrang Aditia
+
+e. Euchema sp
+
+Keterangan: 1. Helai (Blade) 2. Stipe 3. Pegangan 4. Thallus
+
+b. Pengamatan Jamur 1. Pengamatan Jamur Makroskopis a. Jamur Kuping (Auricularia polytricha)
+
+Keterangan: 1. Filcus 2. Porus 3. Anula 4. Rhizoid
+
+b. Jamur Merang (Volvariella volvaceae)
+
+Keterangan: 1. Filcus 2. Miselium 3. Anula 4. Stipe 5. Hifa
+
+@Copyright Lasinrang Aditia
+
+c. Jamur Tiram (Plearatus ostreatus)
+
+Keterangan: 1. Tudung 2. Lamela 3. Stipe 4. Hifa
+
+d. Jamur Shitake (Lentinula edodes)
+
+Keterangan: 1. Tudung 2. Miselium 3. Stipe 4. Rhizoid
+
+2. Pengamatan Jamur Mikroskopis a. Air tape (Saccharomyces serevisiae)
+
+Keterangan: 1. Tunas (Budding) 2. Sel induk
+
+@Copyright Lasinrang Aditia
+
+b. Tongkol Jagung yang berjamur (Aspergillus oryzae) Keterangan: 1. Sporangium 2. Spora 3. Rhizoid 4. Hifa
+
+c. Roti berjamur (Rhizopus stoloniferus)
+
+Keterangan: 1. Sporangium 2. Spora 3. Sporangiofor 4. Hifa
+
+d. Nasi basi (Rhizopus oryzae)
+
+Keterangan: 1. Sporangium 2. Spora 3. Sporangiofor 4. Hifa
+
+@Copyright Lasinrang Aditia
+
+c. Pengamatan Lichenes 1. Lumut kerak (Parmelia acetabulum)
+
+Keterangan: 1. Substrat 2. Thallus 3. Holdfast
+
+2. Pembahasan a. Pengamatan Alga 1. Pengamatan Alga Uniseluler a. Air genangan hijau (Euglena viridis) 1. Morfologi Euglena viridis memiliki tubuh yang menyerupai gelendong dan diselimuti oleh pelikel Euglena viridis. Ukuran tubuhnya 35 ­ 60 mikron dimana ujung tubuhnya meruncing dengan satu bulu cambuk yang berfungsi sebagi alat gerak. Flagel terbentuk di sisi reservoir Hewan ini memilki stigma (bintik mata berwarna merah) yang digunakan untuk membedakan gelap dan terang. 2. Anatomi Euglena viridis memiliki tubuh secara anatomis yang menyerupai gelendong. Di dalam tubuhnya terdapat nukleus yang berfungsi sebagai pusat pengendali seluruh kegiatan aktivitasnya, mempunyai vakuola kontraktil, kloroplas sebagai tempat
+@Copyright Lasinrang Aditia
+
+fotosintesis ketika sinar matahari mencukupi, terdapat pula stigma
+
+serta flagel yang berfungsi sebagai alat gerak Euglena viridis.
+
+3. Sistem Reproduksi
+
+Untuk reproduksi Euglena viridis berkembang biak secara
+
+vegetatif, yaitu dengan pembelahan biner secara membujur.
+
+Pembelahan ini dimulai dengan membelahnya nukleus menjadi
+
+dua. Selanjutnya flagel dan sitoplasma serta selaput sel juga terbagi
+
+menjadi dua. Akhirnya terbentuklah dua sel Euglena baru.
+
+4. Habitat
+
+Habitat Euglena viridis air tawar dan melimpah di daerah
+
+ini, seperti di kolam peternakan atau parit saluran air, yang
+
+mengkonsumsi kotoran binatang.
+
+5. Peranan
+
+Sangat penting dalam ekosistem perairan karena merupakan
+
+produsen primer yaitu dapat sebagai penghasil oksigen, zat organik,
+
+dan sebagai flankton di dalam perairan.
+
+6. Klasifikasi
+
+Adapun klasifikasi dari Euglena viridis yaitu sebagai
+
+berikut:
+
+Kingdom : Plantae
+
+Divisi : Thallophyta
+
+Class
+
+: Euglenoidea
+
+Ordo
+
+: Euglenales
+
+Family : Euglenaceae
+
+Genus : Euglena
+
+Species : Euglena Viridis (Plantamor.com, 2002)
+
+@Copyright Lasinrang Aditia
+
+b. Air got (Dinobryon acuminatum) 1. Morfologi Dinobryon acuminatum mempunyai flagellata yang berfungsi sebagai alat gerak pada alga ini dan alga ini hidup berkoloni serta mempunyai silica. Sel bebas bergerak, bentuknya sesil atau epifitik. silinder, licin dengan dasarnya tajam dan buka di bahagian atas. Warnanya yang kuning keemasan berasal dari kandungan pigmen karotena dan xantofil yang banyak sehingga mendominasi warna kloroplasnya dan membuat klorofil tidak terlalu tampak. 2. Anatomi Dinobryon acuminatum ini merupakan alga yang uniseluler dalam koloni. Sel-selnya dikelilingi oleh benda berbentuk seperti piala yang terdiri atas selulosa. Dinding selnya mengandung pektin dan selulosa. Kloroplas alga ini berbentuk cakram, pita, atau oval. Dinobryon acuminatum juga memiliki stigma atau bintik mata yang berfungsi sebagai alat indera penglihatan ketika kekurangancahaya di dalam air atau pada habitatnya. 3. Sistem Reproduksi Ada dua cara perkembangbiakan dari Dinobryon acuminatum, yaitu seksual (generatif) dan aseksual (vegetatif). Perkembangbiakan generatif melalui cara-cara konjugasi, isogami, anisogami, dan oogami. Perkembangbiakan vegetatif dilakukan melalui pembelahan sel, fragmentasi, pemisahan koloni, dan pembentukan spora (baik aplanospora maupun zoospora). 4. Habitat Habitat dari Dinobryon acuminatum banyak terdapat di dalam air tawar dan biasanya terdapat pada air kotor serta tanah yang lembab.
+@Copyright Lasinrang Aditia
+
+5. Peranan
+
+Peranan Dinobryon acuminatum sebagai produsen primer
+
+yaitu dapat sebagai penghasil oksigen, zat organik, dan sebagai
+
+flankton di dalam perairan.
+
+6. Klasifikasi
+
+Adapun klasifikasi dari Dinobryon acuminatum yaitu
+
+sebagai berikut:
+
+Kingdom : Plantae
+
+Divisi : Ochrophyta
+
+Class
+
+: Chrysophyceae
+
+Ordo
+
+: Chromulinales
+
+Family : Dinobryaceae
+
+Genus : Dinobryon
+
+Species : Dinobryon acuminatum (Plantamor.com, 2002)
+
+c. Lendir pada tembok basah (Euglena viridis)
+
+1. Morfologi
+
+Euglena viridis memiliki tubuh yang menyerupai
+
+gelendong dan diselimuti oleh pelikel Euglena viridis. Ukuran
+
+tubuhnya 35 ­ 60 mikron dimana ujung tubuhnya meruncing
+
+dengan satu bulu cambuk yang berfungsi sebagi alat gerak. Flagel
+
+terbentuk di sisi reservoir Hewan ini memilki stigma (bintik mata
+
+berwarna merah) yang digunakan untuk membedakan gelap dan
+
+terang.
+
+2. Anatomi
+
+Euglena viridis memiliki tubuh yang menyerupai
+
+gelendong. Di dalam tubuhnya terdapat nukleus yang berfungsi
+
+sebagai pusat pengendali, mempunyai vakuola kontraktil, kloroplas
+
+sebagai tempat fotosintesis ketika sinar matahari mencukupi,
+
+terdapat pula stigma serta flagel yang berfungsi sebagai alat gerak.
+
+@Copyright Lasinrang Aditia
+
+3. Sistem Reproduksi
+
+Untuk reproduksi Euglena viridis berkembang biak secara
+
+vegetatif, yaitu dengan pembelahan biner secara membujur.
+
+Pembelahan ini dimulai dengan membelahnya nukleus menjadi
+
+dua. Selanjutnya flagel dan sitoplasma serta selaput sel juga terbagi
+
+menjadi dua. Akhirnya terbentuklah dua sel Euglena baru.
+
+4. Habitat
+
+Habitat Euglena viridis air tawar dan melimpah di daerah
+
+ini, seperti di kolam peternakan atau parit saluran air, yang
+
+mengkonsumsi kotoran binatang.
+
+5. Peranan
+
+Sangat penting dalam ekosistem perairan karena merupakan
+
+produsen primer yaitu dapat sebagai penghasil oksigen, zat organik,
+
+dan sebagai flankton di dalam perairan.
+
+6. Klasifikasi
+
+Adapun klasifikasi dari Euglena viridis yaitu sebagai
+
+berikut:
+
+Kingdom : Plantae
+
+Divisi : Thallophyta
+
+Class
+
+: Euglenoidea
+
+Ordo
+
+: Euglenales
+
+Family : Euglenaceae
+
+Genus : Euglena
+
+Species : Euglena Viridis (Plantamor.com, 2002)
+
+2. Pengamatan Alga Multiseluler
+
+a. Sargassum sp
+
+1. Morfologi
+
+Pada bagian morfologi memiliki warna pirang, memiliki
+
+thallus yang berbentuk pita ditengah-tengahnya dan diperkuat oleh
+
+@Copyright Lasinrang Aditia
+
+suatu rusuk tengah. Terdapat gelembung yang berfungsi untuk
+
+memungkinkan tumbuhan terapung-apung bila terendam pada
+
+waktu pasang.
+
+2. Anatomi
+
+Mempunyai dinding sel yang dinding sebelah luar terdiri
+
+dari pektin dan dan dinding bagian dalamnya terdiri atas selulosa.
+
+Pada dasarnya sel-selnya hanya memiliki satu inti.
+
+3. Sistem Reproduksi
+
+Perkembangbiakannya terjadi secara seksual (oogami).
+
+Struktur gametnya besar tidak dapat bergerak, sedangkan pada
+
+gamet jantannya kecil dan dapat bergerak. Zigot berkecambah
+
+langsung menjadi tumbuhan baru.
+
+4. Habitat
+
+Hidup dalam air, hidupnya sebagai bentos yang melekat
+
+pada suatu substrat dengan benang-benang pendek yang bercabang.
+
+5. Peranan
+
+Ganggang ini memiliki peran sebagai sumber nabati
+
+berbagai bahan kebutuhan manusia, misalnya dapat dijadikan
+
+sebagai bahan obat-obatan.
+
+6. Klasifikasi
+
+Adapun klasifikasi dari Sargassum sp yaitu sebagai berikut:
+
+Kingdom : Plantae
+
+Divisi : Thallophyta
+
+Class
+
+: Phaeophyceae
+
+Ordo
+
+: Fucales
+
+Family : Fucaceae
+
+Genus : Sargassum
+
+Species : Sargassum sp (Plantamor.com, 2002)
+
+@Copyright Lasinrang Aditia
+
+b. Turbinaria sp
+
+1. Morfologi
+
+Pada bagian morfologi berbentuk tubuhnya seperti pohon,
+
+berwarna pirang (zat warna yang dominan fikosianin).
+
+2. Anatomi
+
+Pada dinding bagian dalam terdiri atas selulosa dan sebelah
+
+luar terdiri atas pektin serta selnya hanya terdiri atas satu sel.
+
+3. Sistem Reproduksi
+
+Proses perkembangbiakannya secara generatif dengan
+
+oogami, tidak ada perkembangbiakan secara vegetatif.
+
+4. Habitat
+
+Ganggang ini lebih dominan hidup di air laut, akan tetapi
+
+ada beberapa jenis mampu hidup di air tawar.
+
+5. Peranan
+
+Ganggang ini memiliki peran menhasilkan yodium dan
+
+adapula yang memiliki khasiat sebagai bahan obat-obatan untuk
+
+kebutuhan sehari-hari manusia.
+
+6. Klasifikasi
+
+Adapun klasifikasi dari Turbinaria sp yaitu sebagai berikut:
+
+Kingdom : Plantae
+
+Divisi : Phaeophyta
+
+Class
+
+: Phaeophyceae
+
+Ordo
+
+: Fucales
+
+Family : Sargassaceae
+
+Genus : Turbinaria
+
+Species : Turbinaria sp (Plantamor.com, 2002)
+
+@Copyright Lasinrang Aditia
+
+c. Coulerpa sp
+
+1. Morfologi
+
+Pada bagian morfologi, tubuhnya terdiri atas bagian batang
+
+yang melata dan bercabang, percabangannya muncul tegak mirip
+
+daun atau cabang-cabang seperti tabung dengan bentuk yang
+
+beraneka ragam menempel pada substratnya.
+
+2. Anatomi
+
+memiliki alat-alat perkembangbiakan yang terpisah oleh
+
+sekat, sedangkan pada thallusnya tidak memiliki dinding atau sekat
+
+pemisah yang melintang, dan pada dinding yang menyelubungi itu
+
+massa plasma yang mengandung banyak inti dan kloroplas.
+
+3. Sistem Reproduksi
+
+Proses perkembangbiakannya secara vegetatif, ialah dengan
+
+cara fragmentasi. Perkembangbiakan seksual (anisogami) ialah
+
+seluruh tubuh tumbuhan mengeluarkan gamet lalu mati.
+
+4. Habitat
+
+Ganggang ini lebih dominan hidup di air laut.
+
+5. Peranan
+
+Ganggang ini memiliki peran sebagai sumber daya nabati
+
+bahan kebutuhan keseharian manusia.
+
+6. Klasifikasi
+
+Adapun klasifikasi dari Coulerpa sp yaitu sebagai berikut:
+
+Kingdom : Plantae
+
+Divisi : Chlorophyta
+
+Class
+
+: Bryopsidophyceae
+
+Ordo
+
+: Bryopsidales
+
+Family : Brypsideae
+
+Genus : Coilerpa
+
+Species : Coulerpa sp (Plantamor.com, 2002)
+
+@Copyright Lasinrang Aditia
+
+d. Halimeda sp
+
+1. Morfologi
+
+Pada bagian morfologi, bentuknya menyerupai dengan
+
+kaktus serta membentuk lembaran-lembaran, berwarna hijau. Pada
+
+tallus terdapat konseptakel yang agak membesar serta memiliki
+
+lekukan-lekukan.
+
+2. Anatomi
+
+Tubuhnya sangat kompleks serta tersusun atas filament-
+
+filamen yang bercabang yang terjalin kusut. Terdapat kloroplas
+
+yang terdiri atas klorofil a dan klorofil b, yang menyebabkan
+
+terjadinya perubahan warna ganggang menjadi warna hijau.
+
+3. Sistem Reproduksi
+
+Proses perkembangbiakannya secara seksual dengan
+
+oogami dan anteridium adalah sebuah alat seksual yang memiliki
+
+bentuk yang bulat serta berwarna hijau.
+
+4. Habitat
+
+Ganggang ini lebih dominan hidup di laut serta cara hidup
+
+yang saling menempel satuu dengan yang lain.
+
+5. Peranan
+
+Ganggang ini dijadikan sebagai bahan obat-obatan.
+
+6. Klasifikasi
+
+Adapun klasifikasi dari Halimeda sp yaitu sebagai berikut:
+
+Kingdom : Plantae
+
+Divisi : Chlorophyta
+
+Class
+
+: Chlorophyceae
+
+Ordo
+
+: Caulerpales
+
+Family : Halimedaceae
+
+Genus : Halimeda
+
+Species : Halimeda sp (Plantamor.com, 2002)
+
+@Copyright Lasinrang Aditia
+
+e. Euchema sp 1. Morfologi Eucheuma sp merupakan salah satu jenis rumput laut merah (Rhodophyceae). Ciri fisik Eucheuma sp adalah mempunyai thallus silindris, permukaan licin, cartilogeneus. Keadaan warna tidak selalu tetap, kadang-kadang berwarna hijau, hijau kuning, abu-abu atau merah. Perubahan warna sering terjadi hanya karena faktor lingkungan. Kejadian ini merupakan suatu proses adaptasi kromatik yaitu penyesuaian antara proporsi pigmen dengan berbagai kualitas pencahayaan. 2. Anatomi Keseluruhan tanaman ini merupakan batang yang dikenal dengan thallus. Thallusnya tidak memiliki dinding atau sekat pemisah yang melintang, dan pada dinding yang menyelubungi itu massa plasma yang mengandung banyak inti dan kloroplas. Terdapat kloroplas yang terdiri atas klorofil a dan klorofil b, yang menyebabkan terjadinya perubahan warna ganggang menjadi warna hijau. 3. Sistem Reproduksi Proses perkembangbiakannya secara aseksual dengan pembentukan zoospora, atau peleburan sel kelamin. 4. Habitat Habitat khasnya adalah daerah yang memperoleh aliran air laut yang tetap. Tumbuh melekat ke substrat dengan alat perekat berupa cakram. 5. Peranan Euchema sp banyak mengandung protein, karbohidrat, lemak, serat kasar, banyak digunakan untuk bahan pada pembuatan agar-agar.
+@Copyright Lasinrang Aditia
+
+6. Klasifikasi
+
+Adapun klasifikasi dari Euchema sp yaitu sebagai berikut:
+
+Kingdom : Plantae
+
+Divisi : Rhodophyta
+
+Class
+
+: Rhodophyceae
+
+Ordo
+
+: Gigartinales
+
+Family : Solieriaceae
+
+Genus : Eucheuma
+
+Species : Euchema sp (Plantamor.com, 2002)
+
+b. Pengamatan Jamur
+
+1. Pengamatan Jamur Makroskopis
+
+a. Jamur Kuping (Auricularia polytricha)
+
+1. Morfologi
+
+Karakteristik dari jamur kuping ini adalah memiliki tubuh
+
+buah yang kenyal (mirip gelatin) jika dalam keadaan segar. Namun,
+
+pada keadaan kering, tubuh buah dari jamur kuping ini akan
+
+menjadi keras seperti tulang. Bagian tubuh buah dari jamur kuping
+
+berbentuk seperti mangkuk atau kadang dengan cuping seperti
+
+kuping, memiliki diameter 2-15 cm, tipis berdaging, dan kenyal.
+
+2. Anatomi
+
+Memiliki basidium yang berkumpul dalam badan yang
+
+disebut basidiokarp, yang selanjutnya akan menghasilkan spora
+
+yang disebut basidiospora.
+
+3. Sistem Reproduksi
+
+Proses perkembangbiakannya secara vegetatif yaitu dengan
+
+membentuk tunas, dengan konidia, dan fragmentasi miselium.
+
+Sedangkan, reproduksi generatif jamur kuping adalah dengan
+
+menggunakan alat yang disebut basidium.
+
+@Copyright Lasinrang Aditia
+
+4. Habitat
+
+Jamur kuping biasanya tumbuh pada batang pohon/kayu
+
+yang sudah lapuk/mati.
+
+5. Peranan
+
+Jamur kuping memiliki banyak manfaat kesehatan, di
+
+antaranya untuk mengurangi penyakit panas dalam, rasa sakit pada
+
+kulit akibat luka bakar, dan obat antikoagulan serta sebagai bahan
+
+pangan
+
+6. Klasifikasi
+
+Adapun klasifikasi dari Jamur Kuping (Auricularia
+
+polytricha) yaitu sebagai berikut:
+
+Kingdom : Fungi
+
+Divisi : Basidiomycota
+
+Class
+
+: Agaricomycetes
+
+Ordo
+
+: Auriculariales
+
+Family : Auriculariaceae
+
+Genus : Auricularia
+
+Species : Auricularia polytricha (Plantamor.com, 2002)
+
+b. Jamur Merang (Volvariella volvaceae)
+
+1. Morfologi
+
+Tubuhnya berbentuk bulat telur, berwarna coklat gelap
+
+hingga abu-abu dan bagian batangnya berwarna coklat muda.
+
+Bagian tudung dapat berkembang menjadi bentuk cawan.
+
+2. Anatomi
+
+Tidak memiliki klorofil sehingga warnanya putih dan tidak
+
+dapat menghasilkan makanan sendiri, sehingga proses pengambilan
+
+makanannya dengan cara saprofit. Memiliki benang-benang halus
+
+yang disebut hifa, yang seluruhnya merupakan miselium.
+
+@Copyright Lasinrang Aditia
+
+3. Sistem Reproduksi
+
+Proses perkembangbiakannya secara vegetatif yaitu dengan
+
+pembentukan tunas muda dan reproduksi generatif yaitu dengan
+
+menghasilkan spora yang terbentuk di dalam sel-sel khusus (askus).
+
+4. Habitat
+
+Habitat jamur merang yaitu hidup pada batang kayu/pohon
+
+yang sudah lapuk, dapat juga bertahan pada suhu relatif tinggi yaitu sekitar 30o-38o C .
+
+5. Peranan
+
+Pada jenis jamur ini banyak terkandung protein, kalsium
+
+dan fosfor sehingga dapat digunakan sebagai bahan makanan.
+
+Jamur merang mempunyai rasa enak, gurih, dan tidak mudah
+
+berubah wujudnya jika dimasak, sehingga digunakan untuk
+
+berbagai macam masakan, seperti mi ayam jamur, tumis jamur,
+
+pepes jamur, sup dan capcay.
+
+6. Klasifikasi
+
+Adapun klasifikasi dari Jamur Merang (Volvariella
+
+volvaceae) yaitu sebagai berikut:
+
+Kingdom : Fungi
+
+Divisi : Basidiomycota
+
+Class
+
+: Homobasidiomycetes
+
+Ordo
+
+: Agaricales
+
+Family : Pluteaceae
+
+Genus : Volvariella
+
+Species : Volvariella volvaceae (Plantamor.com, 2002)
+
+c. Jamur Tiram (Plearatus ostreatus)
+
+1. Morfologi
+
+Tubuhnya berwarna putih hingga krem dan tudungnya
+
+berbentuk setengah lingkaran mirip cangkang tiram dengan bagian
+
+@Copyright Lasinrang Aditia
+
+tengah agak cekung. Memiliki tangkai yang tumbuh menyamping
+
+& bentuknya seperti tiram serta permukaannya yang hampir licin.
+
+2. Anatomi
+
+Tidak mengandung klorofil, tetapi banyak mengandung
+
+kalsium, karbohidrat, protein dan mineral. Memiliki spora
+
+berbentuk batang dan miselia yang berwarna putih yang dapat
+
+berkembang secara cepat.
+
+3. Sistem Reproduksi
+
+Proses perkembangbiakannya secara vegetatif yaitu dengan
+
+membentuk tunas dan secara generatif yaitu menghasilkan spora.
+
+4. Habitat
+
+Habitat tumbuhnya di alam bebas, hampir dijumpai
+
+sepanjang tahun di daerah pegunungan yang sejuk, tumbuhnya
+
+melekat pada batang kayu yang sudah mati dan lapuk.
+
+5. Peranan
+
+Jamur tiram ini memiliki manfaat kesehatan diantaranya,
+
+dapat mengurangi kolesterol dan jantung lemah serta beberapa
+
+penyakit lainnya. Juga dapat digunakan sebagai bahan pangan
+
+karena banyak mengandung protein, karbohidrat, dan vitamin
+
+6. Klasifikasi
+
+Adapun klasifikasi dari Jamur Tiram (Plearatus ostreatus)
+
+yaitu sebagai berikut:
+
+Kingdom : Fungi
+
+Divisi : Basidiomycota
+
+Class
+
+: Homobasidiomycetes
+
+Ordo
+
+: Agaricales
+
+Family : Tricholomataceae
+
+Genus : Plearatus
+
+Species : Plearatus ostreatus (Plantamor.com, 2002)
+
+@Copyright Lasinrang Aditia
+
+d. Jamur Shitake (Lentinula edodes) 1. Morfologi Batang dari tubuh ini sering melengkung dan keras, payungnya terbuka lebar dan berwarna coklat tua dengan bulu-bulu halus dibagian permukaan payung dan bagian bawah payung berwarna putih. 2. Anatomi Mengandung zat warna yang umumnya terdiri atas senyawa aromatic yang tidak mengandung nitrogen. Spora merupakan alat perkembangbiakan secara vegetatif, pada bagian tudung terdapat bilah yang di dalamnya terdapat nasidiospora. 3. Sistem Reproduksi Proses perkembangbiakannya secara vegetatif adalah dengan pembentukan tunas oleh konidium dan fragmentasi miselium. Reproduksi secara generatif yaitu dengan basidium yang menghasilkan spora. 4. Habitat Habitat yaitu hidup pada permukaan pohon yang sudah mati dan melapuk sebagai tempat tumbuhnya. Jamur shiitake tumbuh di permukaan batang kayu yang melapuk dari pohon Castanopsis cuspidata, Castanea crenata (kastanye), dan jenis pohon lainnya. 5. Peranan Jamur shiitake segar atau dalam bentuk kering sering digunakan dalam berbagai masakan di banyak negara. Dapat digunakan sebagai bahan pangan dan juga berguna dalam pengobatan penyakit saluran pernapasan, melancarkan sirkulasi darah.
+@Copyright Lasinrang Aditia
+
+6. Klasifikasi
+
+Adapun klasifikasi dari Jamur Shitake (Lentinula edodes)
+
+yaitu sebagai berikut:
+
+Kingdom : Fungi
+
+Divisi : Basidiomycota
+
+Class
+
+: Homobasidiomycetes
+
+Ordo
+
+: Agaricales
+
+Family : Marasmiaceae
+
+Genus : Lentinula
+
+Species : Lentinula edodes (Plantamor.com, 2002)
+
+2. Pengamatan Jamur Mikroskopis
+
+a. Air tape (Saccharomyces serevisiae)
+
+1. Morfologi
+
+Bentuknya bulat oval serta dinding selnya sangat tipis
+
+ketika masih tua dan akan menebal seiring dengan
+
+perkembangannya. Setiap selnya memiliki bekas tunas.
+
+2. Anatomi
+
+Dinding selnya banyak mengandung protein dan kitin dan
+
+lipid. Memiliki membran sitoplasma, vakuola dan mitokondria.
+
+Sehingga mampu melakukan respirasi dengan mengoksidasi gula
+
+menjadi karbondioksida dan air.
+
+3. Sistem Reproduksi
+
+Proses perkembangbiakannya yaitu pertunasan multipolar
+
+yaitu dengan munculnya tunas dari ujung sel. Pembelahan tunas
+
+yang telah muncul dan pembentukan askospora yang berbentuk
+
+bulat atau oval serta permukaan yang halus.
+
+4. Habitat
+
+Habitat Tumbuh di daratan dan menempel pada substrat
+
+yang mati.
+
+@Copyright Lasinrang Aditia
+
+5. Peranan
+
+Berperan dalam pembuatan roti, anggur, dan bir yang dapat
+
+mengoksidasi gula menjadi karbondioksida dan air.
+
+6. Klasifikasi
+
+Adapun klasifikasi dari Saccharomyces serevisiae yaitu
+
+sebagai berikut:
+
+Kingdom : Fungi
+
+Divisi : Ascomycota
+
+Class
+
+: Saccharomycetes
+
+Ordo
+
+: Saccharomycetales
+
+Family : Saccharomycetaceae
+
+Genus : Saccharomyces
+
+Species : Saccharomyces serevisiae (Plantamor.com, 2002)
+
+b. Tongkol Jagung yang berjamur (Aspergillus oryzae)
+
+1. Morfologi
+
+Hifa pada tumbuhan ini bersekat, serta sporanya yang
+
+terlihat tidak memiliki flagel. Bagian kepala konidia berbentu bulat.
+
+Memiliki konidia sebagai alat perkembang biakan, memiliki
+
+konidiofor yaitu hifa yang tumbuh tegak pada permukaan substrat
+
+dan tolon adalah hifa yang membentuk jaringan pada permukaan
+
+substrat.
+
+2. Anatomi
+
+Termasuk tumbuhan bersel satu atau bersel banyak, yang
+
+bersel satu terdapat pada khamir. Memiliki dinding sel yang
+
+kemudian akan membentuk askus spora, memiliki sekat di dalam
+
+setiap hifa yang berfungsi untuk menghubungkan hifa yang satu
+
+dengan yang lain.
+
+@Copyright Lasinrang Aditia
+
+3. Sistem Reproduksi
+
+Proses perkembangbiakannya secara vegetatifnya dengan
+
+membentuk tunas, serta reproduksi generatifnya dengan
+
+membentuk spora.
+
+4. Habitat
+
+Hidup sebagai saprolia pada bermacam-macam bahan
+
+organik seperti pada roti yg sudah di olah. Ada juga yang
+
+habitatnya berada di darat, di tempat yang lembab dan menempel
+
+pada sisa organisme yang mati.
+
+5. Peranan
+
+Aspergillus oryzae, digunakan dalam pembuatan kecap dan
+
+tauco, serta dalam pembuatan minuman beralkohol.
+
+6. Klasifikasi
+
+Adapun klasifikasi dari Aspergillus oryzae yaitu sebagai
+
+berikut:
+
+Kingdom : Fungi
+
+Divisi : Ascomycota
+
+Class
+
+: Eurotiomycetes
+
+Ordo
+
+: Eurotiales
+
+Family : Trichocomaceae
+
+Genus : Aspergillus
+
+Species : Aspergillus oryzae (Plantamor.com, 2002)
+
+c. Roti berjamur (Rhizopus stoloniferus)
+
+1. Morfologi
+
+Memiliki sporangium yg merupakan kotak spora. Terdapat
+
+sporangiofor yaitu hifa yang tumbuh tegak pada permukaan
+
+substrat yang memiliki sporangia globuler (berbentuk bulat) di
+
+ujungnya.
+
+@Copyright Lasinrang Aditia
+
+2. Anatomi
+
+Memiliki spora yang terdapat pada sporangium. Memiliki
+
+hifa yang bercabang banyak, tidak bersekat saat muda.
+
+3. Sistem Reproduksi
+
+Proses perkembangbiakannya secara vegetatif yaitu
+
+membentuk spora tak berflagel. Generatif dengan cara gamaet
+
+giogami dari 2 hifa yang kompatibel/konjugasi 2 hifa (+) dan (-)
+
+bertemu membentuk zigospora.
+
+4. Habitat
+
+Hidup didarat, di tanah atau pada organisme yang telah
+
+mati, sebagian besar hidup pada makanan seperti tempe yang
+
+berjamur serta sisa tumbuhan dan hewan.
+
+5. Peranan
+
+Berperan dalam pembentukan tape dan oncom.
+
+6. Klasifikasi
+
+Adapun klasifikasi dari Rhizopus stoloniferus yaitu sebagai
+
+berikut:
+
+Kingdom : Fungi
+
+Divisi : Zigomycota
+
+Class
+
+: Zigomycetes
+
+Ordo
+
+: Micorales
+
+Family : Mucoraceae
+
+Genus : Rhizopus
+
+Species : Rhizopus stoloniferus (Plantamor.com, 2002)
+
+d. Nasi basi (Rhizopus oryzae)
+
+1. Morfologi
+
+Memiliki sporangium yg merupakan kotak spora. Terdapat
+
+sporangiofor yaitu hifa yang tumbuh tegak pada permukaan
+
+@Copyright Lasinrang Aditia
+
+substrat yang memiliki sporangia globuler (berbentuk bulat) di
+
+ujungnya.
+
+2. Anatomi
+
+Memiliki spora yang terdapat pada sporangium. Memiliki
+
+hifa yang bercabang banyak, tidak bersekat saat muda.
+
+3. Sistem Reproduksi
+
+Proses perkembangbiakannya secara vegetatif yaitu
+
+membentuk spora tak berflagel. Generatif dengan cara gamaet
+
+giogami dari 2 hifa yang kompatibel/konjugasi 2 hifa (+) dan (-)
+
+bertemu membentuk zigospora.
+
+4. Habitat
+
+Hidup didarat, di tanah atau pada organisme yang telah
+
+mati, sebagian besar hidup pada makanan seperti tempe yang
+
+berjamur serta sisa tumbuhan dan hewan.
+
+5. Peranan
+
+Berperan dalam pembentukan tape dan oncom.
+
+6. Klasifikasi
+
+Adapun klasifikasi dari Rhizopus oryzae yaitu sebagai
+
+berikut:
+
+Kingdom : Fungi
+
+Divisi : Zigomycota
+
+Class
+
+: Zigomycetes
+
+Ordo
+
+: Micorales
+
+Family : Mucoraceae
+
+Genus : Rhizopus
+
+Species : Rhizopus oryzae (Plantamor.com, 2002)
+
+@Copyright Lasinrang Aditia
+
+c. Pengamatan Lichenes 1. Lumut kerak (Parmelia acetabulum) 1. Morfologi Talusnya berupa lembaran, dan seluruhnya melekat dengan sisi bawahnya pada alas. Bagian dalam talus terdiri dari anyaman hifa yang renggang dan merupakan lapisan teras / empulus. Memiliki talus yang pertumbuhannya sangat lambat. Dapat bertahan dari terik matahari, walaupun akan kering, tumbuhan ini tetapi tidak mati. Berbentuk daun dan datar seperti kerak. 2. Anatomi Mengandung klorofil karena lumut kerak merupakan simbiosis dari algae dan jamur, algae yang memiliki banyak klorofil serta lumut yang menyediakan unsur hara. Sel-selnya bergerombol membentuk lapisan gonidium. Kulit luarnya terdiri atas miselium cendawan yang teranyam sebagai plektenkim yang rapat. 3. Sistem Reproduksi Proses perkembangbiakannya secara vegetatif yaitu dengan cara fragmentasi soredium yang kemudian akan tumbuh pada substrat yang lain dengan bantuan angin. Reproduksi secara generatif yaitu dapat menghasilkan spora untuk perkembangbiakan. 4. Habitat Habitatnya berada di semua kondisi lingkungan, menempel pada kayu yang telah lapuk atau bebatuan. 5. Peranan Berperan dalam pembentukan tanah dari pelapukan kayu dan batu yang keras. Sehingga di sebut juga sebagai tumbuhan vegetasi perintis. Selain itu lumut ini juga dapat mengikat nitrogen bebas.
+@Copyright Lasinrang Aditia
+
+6. Klasifikasi
+
+Adapun klasifikasi dari Lumut kerak (Parmelia acetabulum)
+
+yaitu sebagai berikut:
+
+Kingdom : Plantae
+
+Divisi : Thallophyta
+
+Class
+
+: Ascolichenes
+
+Ordo
+
+: Discomycetales
+
+Family : Discomycetaceae
+
+Genus : Parmelia
+
+Species : Parmelia acetabulum (Plantamor.com, 2002)
+
+E. Kesimpulan
+
+Adapun kesimpulan dari praktikum ini adalah sebagai berikut:
+
+1. Ciri-ciri tumbuhan yang tergolong thallophyta yaitu tubuh masih berupa thallus,
+
+karena belum bisa dibedakan antara daun, batang dan akarnya. Tersusun oleh
+
+satu sel yang berbentuk bulat. Perkembangbiakan pada umumnya secara
+
+vegetatif (aseksual) dan generatif (seksual) dengan spora sebagai alat
+
+perkembangbiakannya. Cara hidup pada tumbuhan talus ada tiga cara yaitu :
+
+autotrof (asimilasi dengan fotosintesis), heterotrof dan simbiosis.
+
+2. Perbedaan antara sub divisi algae, fungi dan lichens yaitu :
+
+a. Alga: Ganggang ada yang bersel satu dan bersel banyak, bersifat eukariotik,
+
+habitat di air tawar, air laut dan daerah-daerah yang lembab, reproduksi
+
+dilakukan secara seksual (konjugasi, anisogami, isogami) atau aseksual
+
+memiliki berbagai zat warna (pigmen).
+
+b. Jamur (Fungi): Jamur merupakan organisme uniseluler maupun multiseluler,
+
+umumnya berbentuk benang disebut hifa, dinding sel mengandung kitin,
+
+eukariotik, tidak berklorofil, habitat jamur secara umum terdapat di darat
+
+dan tempat yang lembab.
+
+c. Lichenes: Lumut kerak merupakan Simbiosis antara jamur dan algae,
+
+tergolong tumbuhan perintis yang ikut berperan dalam pembentukan tanah,
+
+@Copyright Lasinrang Aditia
+
+lumut kerak bersifat endolitik karena dapat masuk pada bagian pinggir batu, Lichenes yang hidup pada batuan dapat menjadi kering karena teriknya matahari, tetapi tumbuhan ini tidak mati, dan jika turun hujan bisa hidup kembali. 3. Contoh tumbuhan yang tergolong thallophyta yaitu : a. Algae : Sargassum sp, Turbinaria sp, euchema sp, Halimeda sp, Coulerpa sp, Euglena viridis, dan Dinobryon acuminatum. b. Jamur : Saccharomices cereviceae, Aspergillus sp., Rhizopus stoloniferus, Jamur kuping (Auriculari polytricha), jamur tiram (Plearatus ostreatus), jamur shitake (Lentinula edodes), dan jamur merang (Volvariella volvacea). c. Lichenes : Lumut kerak (Parmelia acetabulum)
+@Copyright Lasinrang Aditia
+
+DAFTAR PUSTAKA Fitrah. 2010. Divisi Thallophyta. Blog FitrahSains. http://biologi-news.blogspot.
+com/ 2011/11/divisi-thallopyta.html (22 Desember 2013). Gembong, Tjitrosoepomo. Taksonomi Tumbuhan Rendah. Yogyakarta: Gajah Mada
+University Press, 1989. Muliyanti. 2009. Fungi. Blog MuliyantiNature http://www.muliyanti.blogspot.com/
+fungi.html. (22 Desember 2013). Plantamor. 2002. Klasifikasi tumbuhan. http//:www.plantamor.com. (22 Desember
+2012) Sianipa, Prowel. Biologi. Yogyakarta: Pustaka Publisher, 2010.
+@Copyright Lasinrang Aditia

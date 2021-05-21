@@ -1,0 +1,510 @@
+KUMPULAN LAPORAN PRAKTIKUM
+MIKROBIOLOGI UMUM
+
+Oleh :
+
+KELOMPOK I
+NAMA
+PRATIWI PUTRI SITI NURUL KHAIRIYAH NUR ADLINA TAMBUNAN RAGEL AMALIA HASAN MARZUKI HARAHAP ECHO SONDANG P. S. IMAM RIVAI
+
+NPM
+1504310038 1504310039 1504310040 1504310041 1504310027 1504310010 1504310011
+
+FAKULTAS PERTANIAN ILMU DAN TEKNOLOGI PANGAN UNIVERSITAS MUHAMMADIYAH SUMATERA UTARA
+MEDAN 2016
+
+KUMPULAN LAPORAN PRAKTIKUM
+MIKROBIOLOGI UMUM
+
+Oleh : KELOMPOK I
+
+PRATIWI PUTRI SITI NURUL KHAIRIYAH NUR ADLINA TAMBUNAN RAGEL AMALIA HASAN MARZUKI HARAHAP ECHO SONDANG P. S. IMAM RIVAI
+
+1504310038 1504310039 1504310040 1504310041 1504310027 1504310010 1504310011
+
+Kumpulan laporan praktikum ini disusun sebagai salah satu syarat untuk mengikuti Praktikal Test Mikrobiologi Umum Di Laboratorium Ilmu Dan Teknologi Pangan Fakultas pertanian Universitas Muhammadiyah Sumatera Utara
+
+Diketahui Oleh :
+
+Diperiksa Oleh :
+
+Misril Fuadi, S.P.,M.Sc Dosen Penanggung Jawab
+
+Ricky Aditya Nugraha S Asisten Praktikum
+
+Diketahui Oleh :
+
+Ir. Alridiwirsah, M.M Dekan Fakultas Pertanian
+FAKULTAS PERTANIAN ILMU DAN TEKNOLOGI PANGAN UNIVERSITAS MUHAMMADIYAH SUMATERA UTARA
+MEDAN 2016
+
+KATA PENGANTAR
+Puji syukur kami ucapkan kepada Allah SWT yang telah memberi rahmat dan hidayahNya sehingga kami dapat menyelesaikan laporan praktikum ini tepat pada waktunya.
+Adapun kumpulan Laporan Praktikum Mikrobiologi Umum ini sebagai salah satu syarat untuk dapat mengikuti praktikal test Mikrobiologi Umum di laboratorium Ilmu dan Teknologi Pangan Fakultas Pertanian Universitas Muhammadiyah Sumatera Utara.
+Penyusunan laporan ini tidak terlepas dari bantuan berbagai pihak, untuk itu penulis mengucapkan banyak terima kasih kepada:
+1. Ayah dan ibu tercinta serta keluarga yang telah banyak memberikan dukungan material dan moril.
+2. Bapak Ir. Alridiwirsah, M.M selaku dekan fakultas pertanian Universitas Muhammadiyah Sumatera Utara.
+3. Bapak Misril Fuadi, S.P.,M.Sc selaku penanggung jawab mata kuliah Mikrobiologi Umum Ilmu dan Teknologi Pangan Universitas Muhammadiyah Sumatera Utara.
+4. Ibu Masyhura, S.P.,M.Si selaku kepala laboratorium Ilmu dan Teknologi Pangan Universitas Muhammadiyah Sumatera Utara.
+5. Saudara Ricky Aditya Nugraha S selaku Asisten Praktikum Mikrobiologi Umum.
+6. Teman-teman baik saya stambuk 2015 jurusan Ilmu dan Teknologi Pangan yang telah banyak membantu serta memberikan dukungan sehingga penulis dapat menyelesaikan laporan ini sebaik mungkin.
+Semoga laporan ini dapat bermanfaat bagi pihak yang membutuhkan.
+Medan, 16 Mei 2016
+Penulis
+
+KUMPULAN LAPORAN PRAKTIKUM
+MIRKOBIOLOGI UMUM
+
+Oleh :
+KELOMPOK I
+NAMA
+PRATIWI PUTRI SITI NURUL KHAIRIYAH NUR ADLINA TAMBUNAN RAGEL AMALIA HASAN MARZUKI HARAHAP ECHO SONDANG P. S. IMAM RIVAI
+
+NPM
+1504310038 1504310039 1504310040 1504310041 1504310027 1504310010 1504310011
+
+JUDUL PRAKTIKUM I. MIKROSKOP DAN CARA PENGGUNAANNYA II. PENGENALAN CARA-CARA STERILISASI III. MORFOLOGI JAMUR IV. PEMBUATAN TAPE V. PEMBUATAN MEDIA PDA (POTATO DEXTROSE AGAR)
+
+LAPORAN PRAKTIKUM
+MIKROSKOP DAN CARA PENGGUNAANNYA
+FAKULTAS PERTANIAN ILMU DAN TEKNOLOGI PANGAN UNIVERSITAS MUHAMMADIYAH SUMATERA UTARA
+MEDAN 2016
+
+ABSTRAK
+Sebelum melakukan percobaan hal pertama yang harus dilakukan adalah mempersiapkan alat-alat dan bahan-bahan yang akan digunakan. Praktikum ini bertujuan untuk mempelajari bagian-bagian mikroskop serta fungsinya dan mempelajari cara menggunakan mikroskop dengan perbesaran lemah, sedang dan kuat. Pada saat mempelajari mikroskop ada bagian-bagian mikroskop yaitu kaki, pegangan/lengan, diafragma, meja sediaan, penjepit preparat/objek kaca, makrometer, mikrometer, tubus, revolver. Kali ini untuk menganalisa sampel atau preparat digunakan mikroskop cahaya. Media yang digunakan ialah jamur pada tempe, jamur roti, dan jamur nasi. Dengan cara mengambil preparat sedikit mungkin dengan alat penjepit lalu meletakkannya diatas objek gelas kemudian ditutup dengan cover glass setelah itu di analisa di bawah lensa objektif mikroskop dengan perbesaran lemah, sedang, dan kuat. Begitu juga perlakuan untuk setiap sampel jamur. Kesimpulan yang didapat pada praktikum ini adalah untuk melihat jamur pada tempe, nasi dan roti perbesaran yang paling baik adalah dengan perbesaran 40 x 10 atau perbesaran sedang.
+Kata Kunci : Mikroskop, Object Glass, Cover Glass, Jamur dan Hifa.
+
+PENDAHULUAN
+Latar Belakang Mikroskop adalah alat yang digunakan untuk mengamati objek biologi
+yang berukuran sangat kecil. Dengan menggunakan mikroskop, bayangan suatu benda dapat diperbesar ukurannya sampai beberapa kali ukuran sebenarnya. Mikroskop pertama kali ditemukan oleh Antonio Van Leuwenhoek. Mikroskop pertama yang ditemukan pada abad ke-17 adalah mikroskop sederhana dengan lensa tunggal.
+Mikroskop terdiri dari dua bagian yaitu bagian optik dan bagian mekanik. Adapun bagian optik adalah: cermin, lensa okuler, lensa obyektif, kondensor, dan diafragma. Sedangkan bagian mekanik adalah revolver, kaki/pegangan mikroskop, meja preparat, makrometer/mikrometer dan tubus.
+Macam atau jenis mikroskop beraneka ragam, dari yang sederhana, untuk keperluan sekolah menengah sampai dengan yang cukup canggih untuk keperluan penelitian. Ciri utama dari sumber keragamannya antara lain dari mikroskop satu okuler (monokuler) dengan tabung tegak dan miring, penggunaan dua okuler (binokuler) atau tiga okuler (trikuler), kekuatan lensa yang dipakai, sumber sinar (menggunakkan lampu yang terpasang), bahkan dapat dipasang kamera (kamera diam atau video) pada mikroskop trikuler dan dapat disambung ke monitor TV. Tujuan Praktikum : 1. Mempelajari bagian-bagian mikroskop beserta fungsinya. 2. Mempelajari cara menggunakan mikroskop dengan percobaan lemah,
+sedang, dan kuat.
+
+TINJAUAN PUSTAKA
+Mikroskop Mikroskop merupakan sebuah alat optik yang digunakan untuk melihat
+benda-benda yang sangat kecil, yang tidak dapat dilihat mata biasa. Mikroskop menggunakan dua buah lensa positif (lensa cembung). Lensa yang terletak di dekat mata (lensa bagian atas) disebut lensa okuler. Sedangkan lensa yang terletak dekat dengan objek benda yang diamati (lensa bagian bawah) disebut lensa objektif. Hal yang perlu diingat adalah fokus pada lensa obyektif lebih pendek dari fokus pada lensa okuler (Efrizon Umar, 2008). Fungsi Mikroskop
+Fungsi mikroskop secara umum adalah digunakan untuk melihat dan mengamati benda-benda yang berukuran sangat kecil (mikroskopis) yang tidak mampu dilihat secara kasat mata (Saktiyono, 2006). Bagian-bagian Mikroskop
+Lensa okuler adalah lensa yang letaknya dekat dengan mata observer. Lensa ini berfungsi untuk membentuk bayangan maya, tegak, diperbesar dari lensa objektif. Lensa objektif adalah lensa yang berada dekat dengan objek yang diamati. Lensa ini berfungsi untuk membentuk bayangan nyata, terbalik, diperbesar. Pembesaran dari lensa objektif dapat diatur oleh bagian revolver yang ada pada mikroskop. Tabung mikroskop atau tubus adalah bagian mikroskop berbentuk tabung yang berfungsi mengatur fokus serta menghubungkan lensa okuler dengan lensa objektif. Makrometer atau pemutar kasar adalah bagian mikroskop yang berfungsi menaik-turunkan tabung mikroskop dengan cepat. Mikrometer atau pemutar halus adalah bagian mikroskop yang berfungsi menaik-
+
+turunkan tabung mikroskop dengan lambat. Ukurannya umumnya lebih kecil dibanding makrometer. Revolver adalah bagian mikroskop yang berfungsi mengatur perbesaran lensa objektif. Reflektor adalah bagian mikroskop yang berfungsi memantulkan cahaya dari cermin ke objek yang diamati melewati lubang yang ada di meja objek. Reflektor terdiri dari dua jenis cermin, yaitu cermin datar dan cermin cekung. Cermin datar digunakan saat cahaya yang dibutuhkan terpenuhi, sedangkan cermin cekung digunakan saat kondisi kurang cahaya. Cermin cekung berfungsi mengumpulkan cahaya. Diafragma adalah bagian mikroskop yang berfungsi mengatur sedikit banyaknya cahaya yang masuk. Kondensor adalah bagian mikroskop yang berfungsi mengumpulkan cahaya. Alat ini bisa diputar dan dinaik-turunkan. Meja kerja atau meja mikroskop adalah bagian mikroskop yang berfungsi untuk meletakkan objek yang diamati. Penjepit kaca berfungsi sebagai pelapis objek agar tidak bergeser-geser ketika diamati. Lengan mikroskop berfungsi sebagai pegangan pada mikroskop. Kaki mikroskop berfungsi penyangga atau penopang mikroskop. Sendi inklinasi atau pengatur sudut adalah alat atau bagian dari mikroskop yang berfungsi untuk mengatur sudut tegaknya mikroskop (Agung Wijaya, 2008). Jenis-jenis Mikroskop
+Jenis paling umum dari mikroskop dan yang pertama diciptakan adalah mikroskop optis. Mikroskop ini merupakan alat optik yang terdiri dari satu atau lebih lensa yang memproduksi gambar yang diperbesar dari sebuah benda yang ditaruh di bidang fokal dari lensa tersebut. Berdasarkan sumber cahayanya, mikroskop dibagi menjadi dua, yaitu mikroskop cahaya dan mikroskop elektron. Mikroskop cahaya sendiri dibagi lagi menjadi dua kelompok besar, yaitu
+
+berdasarkan kegiatan pengamatan dan kerumitan kegiatan pengamatan yang dilakukan. Berdasarkan kegiatan pengamatannya, mikroskop cahaya dibedakan menjadi mikroskop diseksi untuk mengamati bagian permukaan dan mikroskop monokuler dan binokuler untuk mengamati bagian dalam sel. Mikroskop monokuler merupakan mikroskop yang hanya memiliki 1 lensa okuler dan binokuler memiliki 2 lensa okuler. Berdasarkan kerumitan kegiatan pengamatan yang dilakukan, mikroskop dibagi menjadi 2 bagian, yaitu mikroskop sederhana (yang umumnya digunakan pelajar) dan mikroskop riset (mikroskop dark-field, fluoresens, fase kontras, Nomarski DIC, dan konfokal) (Asrarudin, 2013). Jamur Pada Roti
+Rhizopus stolonifer merupakan jamur yang hidup pada roti, biasanya berwarna biru kehitam-hitaman, mempunyai miselium yang luas, bercabangcabang, tak bersepta, miselium yang tak bersepta dan berinti banyak disebut sonosit. Septanya dibentuk pada batas alat-alat reproduksi seperti sporangium, gametangium, juga terbentuk pada miselium tua. Miselium sering membentuk rhizoid. Sporangium dari hifa yang mendukungnya terpisah oleh satu sekat, yang menonjol ke dalam sporangium, tonjolon ini dinamakan kolumela (Rihlah Amirah, 2013). Jamur Pada Tempe
+Pada jamur tempe menunjukkan bagian mikroskopik berupa sporangium dengan spora berwarna hitam, sporangiofor (hifa udara), kolumela dan tidak bersekat. Cendawan yang tumbuh pada tempe adalah Rhizopus sp. Jamur Rhizopus memiliki ciri-ciri sebagai berikut: hifanya non septet, mempunyai stolon dan rhizoid yang warnanya gelap jika sudah tua, sporangiofor tumbuh pada noda
+
+dimana terbentuk juga rhizoid, sporangio biasanya besar dan berwarna hitam, kolumela agar bulat dan afofisis berbentuk seperti cangkir, membentuk hifa negatif yang melakukan penetrasi pada subsitrat dan hifa fertile yang memproduksi sporangio pada ujung sporangiofor, pertumbuhannya cepat dan membentuk miselium seperti kapas (Megananda Wulandari, 2015). Jamur Pada Nasi
+Jamur aspergilus terdapat pada nasi. Aspergilus merupakan jamur mikroskopis yang masuk kedalam divisi Ascomycotina, dimana memiliki ciri-ciri terdiri dari suatu lapisan konidiofor yang panjang-panjang yang berbaur dengan miselia aerial. Kepala konidia berbentuk bulat, berwarna hijau pucat agak kekuningan, dan bila tua menjadi coklat redup. Konidiofor berwarna hialin dengan panjang 4-5 mm, dan umumnya berdinding kasar. Vesikula berbentuk semi bulat dan berdiameter 40-80µm, berwarna hijau, dan berdinding halus atau sedikit kasar. Mempunyai hifa berseptat dan miselium bercabang, sedangkan hifa yang muncul di atas permukaan merupakan hifa fertil, koloninya berkelompok, konidiofor berseptat atau nonseptat yang muncul dari sel kaki, pada ujung hifa muncul sebuah gelembung, keluar dari gelembung ini muncul sterigma, pada sterigma muncul konidium-konidium yang tersusun berurutan mirip bentuk untaian mutiara, konidium-konidium ini berwarna (hitam, coklat, kuning tua, hijau) yang memberi warna tertentu pada jamur (Ani Maftukhah, 2013).
+
+ALAT DAN BAHAN
+
+Tempat Praktikum : Laboratorium Ilmu dan Teknologi Pangan.
+
+Waktu
+
+: Mulai : Senin, 14 Maret 2016 Pukul 10.00 WIB
+
+Selesai : Senin, 14 Maret 2016 Pukul 12.30 WIB
+
+Alat : 1. Mikroskop. 2. Object glass. 3. Cover glass. 4. Pipet tetes. 5. Jarum. 6. Penjepit. 7. Gelas Ukur. 8. Serbet.
+
+Bahan : 1. Jamur pada Roti. 2. Jamur pada Tempe. 3. Jamur pada Nasi.
+
+Cara Kerja : Perbesaran Lemah 1. Lensa objektif 10X ditempatkan pada kedudukan seporos dengan lensa okuler
+(perbesaran lemah). 2. Tubus diturunkan dengan pengatur tubus (sekrup kasar).
+
+3. Amati melalui okuler dan aturlah masuknya cahaya ke dalam mikroskop sehingga diperoleh bidang pemandangan yang paling terang (terangnya merata) dengan cara mengatur kedudukan cermin dan dengan mengatur diafragma kondensor.
+4. Selanjutnya preparat di letakakan pada meja benda. 5. Dengan perlahan-lahan naikkan tubus dengan sekrup kasar sehingga diperoleh
+bayangan yang paling baik, tubus dinaik-turunkan dengan hati-hati memakai pengatur tubus (sekrup halus) sehingga diperoleh bayangan yang paling jelas. 6. Bagian-bagian tertentu dari objek, dapat ditentukan dengan mengatur kedudukan preparat. Perbesaran Sedang 1. Mula-mula kerjakan kerjakan seperti pada cara kerja dengan menggunakan mikroskop pada perbesaran lemah sampai diperoleh bayangan­bayangan yang dikehendaki (cara 1 sampai dengan 6). 2. Kemudian lensa objektif 10X diganti dengan lensa objektif 40X (perbesaran sedang). 3. Cahaya yang masuk ke dalam mikroskop diatur lagi dengan mengatur kedudukan kondensor (biasanya dinaikkan). 4. Untuk mendapatkan bayangan akhir yang sebaik-baiknya, tubus diturunkan dengan menggunakan pengatur tubus sekrup halus (jangan menggunakan sekrup kasar). Perbesaran Kuat 1. Cara kerja seperti pada perbesaran sedang di ulang sampai diperoleh noda bayangan yang paling jelas pada penyinaran yang paling kuat.
+
+2. Setelah itu lensa objektif 40X di ganti dengan lensa objektif 100X (perbesaran kuat).
+3. Turunkan tubus dengan hati-hati sampai hampir menyentuh gelas benda. 4. Naikkan atau turunkan tubus dengan hati-hati dengan menggunakan sekrup
+halus sampai didapatkan bayangan yang jelas.
+
+Dibersihkan object glass dan cover glass
+Diambil jamur pada tempe, roti, dan nasi dan diletakkan di masing-masing objek glass, tutup
+dengan cover glass
+Diletakkan pada mikroskop, gunakan perbesaran lemah, sedang, dan kuat
+Diamati preparat Gambar 1. Diagram Alir Pengamatan pada Jamur Tempe, Roti, dan Nasi.
+
+HASIL PRAKTIKUM
+
+Gambar 2. Mikroskop dan bagian-bagiannya.
+
+Gambar 3. Jamur pada Tempe Perbesaran 10 x 10.
+
+Gambar 4. Jamur pada Tempe Perbesaran 40 x 10.
+
+Gambar 5. Jamur pada Tempe Perbesaran 100 x 10.
+
+Gambar 6. Jamur pada Nasi Perbesaran 10 x 10.
+
+Gambar 7. Jamur pada Nasi Perbesaran 40 x 10.
+
+Gambar 8. Jamur pada Nasi Perbesaran 100 x 10.
+
+Gambar 9. Jamur pada Roti Perbesaran 10 x 10.
+
+Gambar 10. Jamur pada Roti Perbesaran 40 x 10.
+
+Gambar 11. Jamur pada Roti Perbesaran 100 x 10.
+
+PEMBAHASAN
+Berdasarkan praktikum yang telah dilaksanakan dapat diketahui bahwa mikroskop merupakan alat bantu yang digunakan untuk melihat benda-benda yang kecil yang tidak bisa dilihat secara kasat mata, lensa dekat mata pengamat dinamakan lensa okuler dan lensa yang dekat dengan preparat disebut lensa objektif. Hal ini sesuai dalam literatur Efrizon Umar (2008) mikroskop merupakan sebuah alat optik yang digunakan untuk melihat benda-benda yang sangat kecil, yang tidak dapat dilihat mata biasa. Mikroskop menggunakan dua buah lensa positif (lensa cembung). Lensa yang terletak di dekat mata (lensa bagian atas) disebut lensa okuler. Sedangkan lensa yang terletak dekat dengan objek benda yang diamati (lensa bagian bawah) disebut lensa objektif. Hal yang perlu diingat adalah fokus pada lensa obyektif lebih pendek dari fokus pada lensa okuler, dan dalam literatur Saktiyono (2006) bahwa fungsi mikroskop secara umum adalah digunakan untuk melihat dan mengamati benda-benda yang berukuran sangat kecil (mikroskopis) yang tidak mampu dilihat secara kasat mata.
+Pada pengamatan yang kami lakukan, pada jamur roti terlihat miseliumnya luas, bercabang-cabang, dan tidak terdapat septa. Jamur roti juga memiliki spora, sporangium, dan hifa. Hal ini sesuai dalam literatur Rihlah Amirah (2013) bahwa rhizopus stolonifer merupakan jamur yang hidup pada roti, biasanya berwarna biru kehitam-hitaman, mempunyai miselium yang luas, bercabang-cabang, tak bersepta, miselium yang tak bersepta dan berinti banyak disebut sonosit. Septanya dibentuk pada batas alat-alat reproduksi seperti sporangium, gametangium, juga terbentuk pada miselium tua. Miselium sering membentuk rhizoid. Sporangium
+
+dari hifa yang mendukungnya terpisah oleh satu sekat, yang menonjol ke dalam sporangium, tonjolon ini dinamakan kolumela.
+Pada pengamatan, jamur tempe terlihat memiliki sporangium yang memiliki spora yang berwarna hitam, hifanya tidak bersepta, terdapat sporangiofor, dan kolumela agar bulat dan afofisis berbentuk seperti cangkir. Hal ini sesuai dalam literatur Megananda Wulandari (2015) bahwa pada jamur tempe menunjukkan bagian mikroskopik berupa sporangium dengan spora berwarna hitam, sporangiofor (hifa udara), kolumela dan tidak bersekat. Cendawan yang tumbuh pada tempe adalah Rhizopus sp. Jamur Rhizopus memiliki ciri-ciri sebagai berikut: hifanya non septet, mempunyai stolon dan rhizoid yang warnanya gelap jika sudah tua, sporangiofor tumbuh pada noda dimana terbentuk juga rhizoid, sporangio biasanya besar dan berwarna hitam, kolumela agar bulat dan afofisis berbentuk seperti cangkir, membentuk hifa negatif yang melakukan penetrasi pada subsitrat dan hifa fertil yang memproduksi sporangio pada ujung sporangiofor, pertumbuhannya cepat dan membentuk miselium seperti kapas.
+Pada pengamatan yang dilakukan pada jamur nasi, terlihat jamur nasi memiliki lapisan konidiofor yang panjang-panjang yang berbaur dengan miselia aerial, mempunyai hifa berseptat dan miselium bercabang, sedangkan hifa yang muncul di atas permukaan merupakan hifa fertil, koloninya berkelompok, konidiofor berseptat atau nonseptat yang muncul dari sel kaki, pada ujung hifa muncul sebuah gelembung. Hal ini sesuai dalam literatur Ani Maftukhah (2013) bahwa jamur aspergilus terdapat pada nasi. Aspergilus merupakan jamur mikroskopis yang masuk kedalam divisi Ascomycotina, dimana memiliki ciri-ciri terdiri dari suatu lapisan konidiofor yang panjang-panjang yang berbaur dengan
+
+miselia aerial. Kepala konidia berbentuk bulat, berwarna hijau pucat agak kekuningan, dan bila tua menjadi coklat redup. Konidiofor berwarna hialin dengan panjang 4-5 mm, dan umumnya berdinding kasar. Vesikula berbentuk semi bulat dan berdiameter 40-80 µm, berwarna hijau, dan berdinding halus atau sedikit kasar. Mempunyai hifa berseptat dan miselium bercabang, sedangkan hifa yang muncul di atas permukaan merupakan hifa fertil, koloninya berkelompok, konidiofor berseptat atau nonseptat yang muncul dari sel kaki, pada ujung hifa muncul sebuah gelembung, keluar dari gelembung ini muncul sterigma, pada sterigma muncul konidium-konidium yang tersusun berurutan mirip bentuk untaian mutiara, konidium-konidium ini berwarna (hitam, coklat, kuning tua, hijau) yang memberi warna tertentu pada jamur.
+
+KESIMPULAN
+Berdasarkan hasil praktikum yang telah dilakukan, dapat disimpulkan bahwa: 1. Mikroskop merupakan alat bantu yang digunakan untuk melihat benda-benda
+mikroskopik atau benda-benda kecil yang tidak kasat mata. 2. Jamur tempe memiliki sporangium yang sporanya berwarna hitam, hifanya
+tidak bersepta, terdapat sporangiofor, stolon dan rhizoid yang warnanya gelap jika sudah tua, dan kolumela agar bulat dan afofisis berbentuk seperti cangkir. 3. Jamur roti memiliki miselium yang luas, bercabang-cabang, dan tidak terdapat septa, juga memiliki spora, sporangium, hifa, dan septanya dibentuk pada batas alat-alat reproduksi seperti sporangium, gametangium, juga terbentuk pada miselium tua. 4. Jamur nasi memiliki lapisan konidiofor yang panjang-panjang yang berbaur dengan miselia aerial, mempunyai hifa berseptat dan miselium bercabang, sedangkan hifa yang muncul di atas permukaan merupakan hifa fertil, koloninya berkelompok, konidiofor berseptat atau nonseptat yang muncul dari sel kaki, pada ujung hifa muncul sebuah gelembung. 5. Perbesaran paling baik untuk melihat sel dari jamur adalah dengan perbesaran 40 x 10 atau perbesaran sedang.
+
+DAFTAR PUSTAKA
+Amirah, Rihlah. 2013. Laporan Pengamatan Jamur. Https://www.academia.edu/ 9214613/laporan_pengamatan_jamur. Diakses pada tanggal 05 April 2016.
+Asrarudin. 2013. Jenis Mikroskop. Http://asrarudin91.blogspot.co.id/2013/09/2jenis-mikroskop-mikroskop-optis-dan.html. Diakses pada tanggal 03 April 2016.
+Maftukhah, Ani. 2013. Laporan Praktikum Taksonomi Jamur. Http://bioyesalut. blogspot.co.id/ 2013/ 06/ laporan- praktikum- taksonomi-jamur.html. Diakses pada tanggal 08 Mei 2016.
+Saktiyono. 2006. Biologi. Esis. Jakarta.
+Umar, Efrizon. 2008. Buku Pintar Fisika. Media Pusindo. Jakarta.
+Wijaya, Agung. 2008. Biologi. Grasindo. Jakarta.
+Wulandari, Megananda. 2015. Laporan Pengamatan Jamur. Http://duniapesek. blogspot.co.id/ 2015/ 02/ laporan- praktikum- biologi-pengamatan. html. Diakses pada tanggal 03 Mei 2016.
+
+LAPORAN PRAKTIKUM
+PENGENALAN CARA-CARA STERILISASI
+FAKULTAS PERTANIAN ILMU DAN TEKNOLOGI PANGAN UNIVERSITAS MUHAMMADIYAH SUMATERA UTARA
+MEDAN 2016
+
+ABSTRAK
+Sterilisasi adalah suatu proses dimana kegiatan ini bertujuan untuk membebaskan alat ataupun bahan dari berbagai macam mikroorganisme. Sterilisasi dapat dilakukan dengan tiga cara yaitu mekanis, fisik dan kimiawi. Pada praktikum ini kami melakukan dengan cara fisik yaitu pemanasan dengan oven/autoklaf. Adapun tujuan praktikum ini yaitu untuk mengetahui cara-cara sterilisasi. Mulanya cara-cara sterilisasi ini pembersihan pada alat lalu dikeringkan, setelah itu masukkanlah kapas pada alat setelah dimasukkan bungkuslah dengan kertas koran atau kertas ubi. Guna pembungkusan ini agar alat tidak terkontaminasi terhadap kuman saat dikeluarkan, lalu berilah lakban agar bungkusan menjadi erat, masukkanlah alat tersebut ke oven dengan suhu 180oc dan autoklaf suhu 121oc selama 15 menit.
+Pada hasil praktikum ini maka diperoleh perbedaan warna kapas yang tadi dimasukkan ke dalam alat (erlenmeyer, tabung reaksi dan cawan petridis) alat yang dimasukkan ke oven kapasnya menjadi coklat sementara yang dimasukkan ke autoklaf maka kapasnya tetap putih.
+Kata Kunci : Sterilisasi, Oven, Autoklaf, Kertas Koran dan Kertas Ubi.
+
+PENDAHULUAN
+Latar Belakang Sterilisasi adalah suatu proses dimana kegiatan ini bertujuan untuk
+membebaskan alat ataupun bahan dari berbagai macam mikroorganisme. Suatu bahan bisa dikatakan steril apabila bebas dari mikroorganisme hidup yang pathogen maupun tidak baik dalam bentuk vegetatif walaupun bentuk nonvegetatif. Steril merupakan kegiatan membebaskan bahan dan alat dari semua organisme hidup. Cara basah dan kering bergantung pada macam-macam bahan yang akan disterilkan. Sterilisasi dapat pula dilakukan dengan perlakuan panas kering, kimia, penyaringan atau radiasi. Cara membunuh mikroorganisme tersebut adalah dengan panas.
+Proses sterilisasi dapat dilakukan dengan berbagai cara antara lain sterilisasi dengan udara kering (oven) dan sterilisasi dengan uap panas bertekan dengan autoclave. Pada saat melakukan sterilisasi uap, kita menggunakan uap jenuh pada tekanan tertentu selama waktu dan suhu tertentu pada suatu objek, sehingga terjadi pelepasan energi lain uap yang mengakibatkan denaturasi atau koagulasi protein sel. Sterilisasi ini merupakan sterilisasi paling efektif karena uap semua lapisan pelindung luar mikroorganisme dapat dilunakkan. Proses sterilisasi panas kering atau dengan oven terjadi melalui mekanisme konduksi panas. Sterilisasi panas kering biasanya digunakan untuk alat-alat atau bahan dengan uap tidak dapat penetrasi secara mudah atau untuk peralatan yang terbuat dari kaca. Tujuan Praktikum : 1. Untuk megetahui cara-cara sterilisasi dengan autoclave dan oven.
+
+TINJAUAN PUSTAKA
+Sterilisasi Sterilisasi adalah segala proses dimana suatu objek, material atau
+lingkungan dijadikan steril. Steril adalah kondisi benda atau objek yang bebas dari segala jenis sel hidup, spora dan virus. Metode dan kombinasi fisik dan kimia. Metode fisik antara lain mencakup pemanasan, pembakaran, penyaringan, penggunaan radiasi, dan penggunaan gelombang ultrasonik. Pemanasan adalah metode yang paling lazim digunakan. Efek mematikan panas adalah mendenaturasi protein dan asam amino dari suatu organisme. Metode sterilisasi kimia menggunakan desinfektan atau mikrosida untuk membunuh mikroba (Monrow, 2011). Cara-cara Sterilisasi
+Pada prinsipnya sterilisasi dapat dilakukan dengan 3 cara yaitu secara mekanik, fisik dan kimiawi. Sterilisai secara mekanik (filtrasi) dikerjakan dalam suhu ruangan dan menggunakan suatu saringan yang berpori sangat kecil (0.22 mikron atau 0.45 mikron) sehingga mikroba tertahan pada saringan tersebut. Sterilisasi ini ditujukan untuk bahan yang peka panas, misalnya larutan enzim dan antibiotik. Sterilsasi fisik dapat digunakan dengan cara pemanasan atau penyinaran. Terdapat empat macam sterilisasi dengan pemanasan : pemijaran api, membakar alat pada api secara langsung, contoh alat yaitu jarum inokulum, pinset, batang L, dll. Sterilisasi panas kering yaitu sterilisasi dengan menggunakan udara panas. Karakteristik sterilisasi kering adalah menggunakan oven suhu tinggi (170-180oC) dengan waktu yang lama (1-3 jam). Sterilisasi panas kering cocok untuk alat yang terbuat dari kaca misalnya erlenmeyer, tabung reaksi, dll.
+
+Sebelum dimasukkan ke dalam oven alat/bahan tersebut dibungkus, disumbat atau dimasukkan dalam wadah tertutup untuk mencegah kontaminasi ketika dikeluarkan dari oven. Uap panas, konsep ini hampir sama dengan mengukus. Bahan yang mengandung air lebih tepat menggunakan metode ini supaya tidak terjadi dehidrasi. Uap panas bertekanan (Autoclaving) (Indra, 2008).
+Sterilisasi yang paling umum dilakukan dapat berupa sterilisasi secara fisik (pemanasan, penggunaan sinar gelombang pendek yang dapat dilakukan selama senyawa kimia yang akan disterilkan tidak akan berubah atau terurai akibat temperature atau tegangan tinggi). Dengan udara panas digunakan alat bejana panas (oven) dengan temperatur 170-180 dan waktu yang digunakan adalah 2 jam yang umumnya untuk peralatan gelas (Anonim, 2012). Sterilisasi Kering
+Sterilisasi kering digunakan dalam sterilisasi alat-alat gelas dilaboratorium, dimana digunakan oven dengan suhu 160-1800C selama 1,5-2 jam dengan sistem udara statis. Praktik menggunakan oven yang dilengkapi dengan sirkulasi udara panas, diperlukan waktu setengahnya karena aliran udara panas, diperlukan waktu setengahnya karena aliran udara panas kealat-alat gelas akan lebih efisien. Sterilisasi kering dapat dilakukan dengan cara pemijaran, jilatan api, dan tanur uap panas. Pemijaran diterapkan pada ujung-ujung pinset dan sudip logam. Jilatan api diterapkan terhadap scalpel, jarum, mulut tabung biakan, kaca objek, dan kaca penutup (Irianto, 2011). Sterilisasi Pemanasan Basah
+Sterilisasi dengan menggunakan pemanasan basah dapat dengan beberapa cara perebusan, pemanasan dengan tekanan, tidalisasi dan pasteurisasi. Perebusan
+
+dapat didalam air mendidih dengan 1000C selama beberapa menit. Pemanasan dengan tekanan dapat dilakukan dengan menggunakan autoclave untuk membunuh bakteri yang paling tahan panas akan mati pada suhu 1210C selama 15 menit. Sterilisasi dilakukan pada cara memanaskan medium atau larutan menggunakan uap selama satu jam setiap hari selama 3 hari. Waktu inkubasi diantara 2 proses pemanasan sengaja diadakan agar spora dapat bergerminasi. Uap mengalir bebas digunakan dalam tempat yang tidak tertutup rapat yang dapat menahan uap itu tanpa tertekan (Idjo Seputro, 2005). Teknik Sterilisasi
+Salah satu tehnik sterilisasi yang umum digunakan adalah metode sterilisasi menggunakan uap air panas bertekanan atau menggunakan prinsip kerja autoclave. Suhu dan tekanan yang tinggi diberikan kepada alat dan media yang disterilisasi memberikan kekuatan yang lebih besar untuk membunuh sel dibanding dengan udara panas. Biasanya untuk mensterilkan media digunakan suhu 1210C dan tekanan 15 Ib/in 2 (15=103,9 Kpa) selama 15 menit. Alasannya adalah karena air mendidih pada suhu tersebut, jika digunakan tekanan 15 psi. Semua bentuk kehidupan akan mati jika di didihkan pada suhu 1210C dan tekanan 15 psi selama 15 menit (Stefanus Lukas, 2006). Alat Sterilisasi
+Alat yang digunakan adalah autoclave. Cara kerja alat ini adalah menggunakan uap panas dengan suhu 121oC selama 15 menit pada tekanan 1 atm. Sterilisasi uap tergantung pada alat/bahan harus dapat ditembus uap panas secara merata tanpa mengalami kerusakan. Kondisi steril harus bebas udara (vacum). Suhu yang terukur harus mencapai 121oC dan dipertahankan selama 15 menit.
+
+Bahan/alat yang tidak dapat disterilisasi dengan uap panas adalah serum, vitamin, antibiotik, dan enzim, pelarut organik, seperti fenol, buffer dengan kandungan detergen, seperti SDS. Erlenmeyer hanya boleh diisi media maksimum ¾ dari total volumenya (Suriawira, 2005).
+
+ALAT DAN BAHAN
+
+Tempat Praktikum : Laboratorium Ilmu dan Teknologi Pangan.
+
+Waktu
+
+: Mulai : Senin, 14 Maret 2016 Pukul 11.00 WIB Selesai : Senin, 14 Maret 2016 Pukul 13.00 WIB
+
+Alat : 1. Erlemeyer. 2. Autoklaf. 3. Oven. 4. Cawan Petridis. 5. Tabung Reaksi.
+
+Bahan : 1. Kertas Ubi. 2. Koran. 3. Kapas. 4. Serbet. 5. Lakban Coklat. 6. Kain flanel.
+
+Cara Kerja : 1. Disiapkan alat-alat yang akan disterilisasikan. 2. Alat yang akan digunakan dicuci bersih dan dikeringkan.
+
+3. Alat tersebut kemudian dibungkus dengan kertas ubi dan koran hingga semua bagian tertutup rapat. Kemudian semua alat yang dibungkus sebelum di bungkus masukkanlah kapas.
+4. Lalu masukkanlah ke oven dengan suhu 180oc/autoklaf dengan suhu 121oc selama 15 menit.
+5. Amatilah.
+
+Dibersihkan alat
+Dimasukkan kapas Dibungkus
+Dimasukkan ke oven/autoklaf
+Dianalisa Gambar 1. Diagram Alir Pengenalan Cara-cara Sterilisasi.
+
+HASIL PRAKTIKUM
+
+Gambar 2. Erlenmeyer yang disterilisasi dengan Oven.
+
+Gambar 3. Cawan Porselin yang disterilisasi dengan Oven.
+
+Gambar 4. Tabung Reaksi yang disterilisasi dengan Oven.
+
+Gambar 5. Erlenmeyer yang disterilisasi dengan Autoklaf.
+
+Gambar 6. Cawan Porselin yang disterilisasi dengan Autoklaf.
+
+Gambar 7. Tabung Reaksi yang disterilisasi dengan Autoklaf.
+
+PEMBAHASAN
+Berdasarkan hasil pengamatan yang telah dilakukan pada sterilisasi dalam mikrobiologi merupakan proses penghilangan semua jenis organisme hidup, dalam hal ini adalah kondisi benda atau objek yang bebas dari segala jenis sel hidup, spora, dan virus. Hal ini sesuai dengan literatur Monrow (2011) bahwa sterilisasi adalah segala proses dimana suatu objek, material atau lingkungan dijadikan steril. Steril adalah kondisi benda atau objek yang bebas dari segala jenis sel hidup, spora, dan virus.
+Tahap-tahap sterilisasi itu ada 3 yaitu secara mekanis, fisik, dan kimiawi. Namun pada kali ini kami menggunakan cara fisik yaitu dengan pemanasan yang mana kami menggunakan oven (panas kering) dan autoklaf (uap panas). Pada pemanasan panas kering maka digunakan oven selama 1-3 jam dengansuhu 180oC, begitu juga dengan pemanasan uap panas yang dilakukan dengan menggunakan autoklaf yang bersuhu 121oC. Sebelum dilakukan pemanasan maka dilakukan untuk membungkus alat yang akan disterilisasikan untuk pencegahan terhadap kontaminasi kuman. Hal ini sesuai dengan literature Indra (2008) bahwa pada prinsipnya sterilisasi dapat dilakukan dengan 3 cara yaitu secara mekanik, fisik dan kimiawi. Sterilsasi fisik dapat digunakan dengan cara pemanasan atau penyinaran. Sterilisasi panas kering yaitu sterilisasi dengan menggunakan udara panas. Karakteristik sterilisasi kering adalah menggunakan oven suhu tinggi (170180ºC) dengan waktu yang lama (1-3 jam). Sterilisasi panas kering cocok untuk alat yang terbuat dari kaca misalnya erlenmeyer, tabung reaksi. Sebelum dimasukkan ke dalam oven alat/bahan teresbut dibungkus, disumbat atau dimasukkan dalam wadah tertutup untuk mencegah kontaminasi ketika
+
+dikeluarkan dari oven. Uap panas, konsep ini hampir sama dengan mengukus. Bahan yang mengandung air lebih tepat menggunakan metode ini supaya tidak terjadi dehidrasi.
+
+KESIMPULAN
+Berdasarkan hasil pengamatan dan pembahasan, dapat disimpulkan bahwa: 1. Sterilisasi adalah suatu perlakuan membebaskan benda yang akan digunakan
+dari mikroorganisme kontaminan. 2. Metode sterilisasi antara lain secara fisik, kimia, dan mekanik. 3. Sterilisasi secara fisik dapat dilakukan menggunakan udara panas atau uap air
+panas dengan tekanan tinggi dengan temperatur uap 1210C. 4. Sterilisasi secara kimia menggunakan desinfektan, larutan alkohol, larutan
+formalin, larutan AMC, karena dapat membunuh mikroba dengan tekanan osmotiknya. 5. Sterilisasi secara mekanik yaitu menggunakan saringan atau filter. 6. Adanya perubahan pada kapas yang di oven menjadi kecoklatan, sementara yang di uap akan tetap putih.
+
+DAFTAR PUSTAKA
+Anonim. 2012. Laporan Praktikum Sterilisasi Mikrobiologi. Http://id.wikipedia.org/ Wiki/autoklaf. Diakses 03 April 2016.
+Indra. 2008. Mikrobiologi dan Parasitologi. PT. Citra Aditya Bakti. Bandung.
+Irianto. 2011. Sterilisasi Dalam Kultur Jaringan. Http://sterilisasi dalam kultur jaringan.blogspot.com/2011/09/kultur jaringan.html. Diakses pada 03 April 2016.
+Lukas, Stefanus. 2006. Formulasi Steril. Andi. Yogyakarta. Monrow. 2011. Sterilisasi. Http://monrow. wordpress.com/2011/06/18/ sterilisasi
+Diakses pada 03 April 2016. Seputro, Idjo. 2005. Dasar-Dasar Mikrobiologi. Djambatan. Jakarta.
+Suriawira. 2005. Pengantar Mikrobiologi Umum. Angkasa. Bandung.
+
+LAPORAN PRAKTIKUM
+MORFOLOGI JAMUR
+FAKULTAS PERTANIAN ILMU DAN TEKNOLOGI PANGAN UNIVERSITAS MUHAMMADIYAH SUMATERA UTARA
+MEDAN 2016
+
+ABSTRAK
+Praktikum kali ini kami melakukan penelitian mengenai morfologi jamur yang bertujuan untuk mengetahui struktural dan sifat-sifat sebagian jamur. Penelitian ini dilakukan dengan cara melhat jamur melalui mikroskop. Adapun objek yang diteliti yaitu jamur tempe (rhyzopus oryzae), jamur roti (rhyzopus nigrican) dan jamur nasi (aspergillus oryzae). Berdasarkan penelitian dapat diperoleh bahwa antara ketiga jamur ini memiliki morfologis dan kelas yang berbeda menurut strukturalnya dan sifatnya masing-masing. Meskipun ada yang berbeda namun setiap jamur memiliki sporangium yaitu sebagai tempat terjadinya perkembangbiakan yang menghasilkan spora.
+Kata Kunci : Morfologi, Jamur Tempe, Jamur Roti, Jamur Nasi dan Hifa.
+
+PENDAHULUAN
+Latar belakang Morfologi secara harfiah berarti `pengetahuan tentang bentuk' (morphas).
+Morfologi jamur merupakan ilmu yang memepelajari tentang bentuk jamur dan mencakup bagian-bagiannya. Jamur benang yang berukuran kecil dan biasanya bersifat uniseluler dapat diamati dengan mikroskop. Mikroskop merupakan alat bantu yang memungkinkan kita dapat mengamati obyek yang berukuran sangat kecil.
+Jamur benang merupakan jamur yang dapat membentuk miselium dan berbagai bentuk spora. Jamur benang adalah golongan fungi yang membentuk jaringan miselium dan spora yang tampak teteapi tidak dapat membentuk badan buah yang mikroskopis. Jamur dapat berkembang biak dengan dua cara yaitu seksual dan aseksual. Berdasarkan spora seksualnya sebagai contoh yaitu Ascomycetes yang memebentuk spora seksual dalam struktur tertentu yang disebut askus. Sedangkan berdasarkan spora aseksualnya adalah Basidiomycetes yang membentuk seksual dalam basidium. Morfologi dan penataan spora aseksual berperan dalam identifikasi jamur. Oleh karena itu, perlu dilakukannya praktikum ini untuk mengetahui morfologi jenis-jenis jamur benang. Tujuan Praktikum : 1. Untuk mengetahui morfologi jamur. 2. Untuk mengetahui jenis-jenis jamur.
+
+TINJAUAN PUSTAKA
+Morfologi Morfologi secara harfiah berarti `pengetahuan tentang bentuk' (morphas).
+Morfologi jamur merupakan ilmu yang mempelajari tentang bentuk jamur dan mencakup bagian-bagiannya. Jamur benang yang berukuran kecil dan biasanya bersifat uniseluler dapat diamati dengan mikroskop. Mikroskop merupakan alat bantu yang memungkinkan kita dapat mengamati obyek yang berukuran sangat kecil. Ada dua jenis mikroskop berdasarkan pada kenampakan obyek yang diamati, yaitu mikroskop dua dimensi (mikroskop cahaya) dan mikroskop tiga dimensi (mikroskop stereo). Sedangkan berdasarkan sumber cahayanya, mikroskop dibedakan menjadi mikroskop cahaya dan mikroskop elektron. Pada praktikum ini, identifikasi jamur dilakukan dengan menggunakan mikroskop elektrik binokuler dengan mengamati sifat-sifat morfologinya dan fisiologinya (Tati Suryati, 2008). Fungi
+Fungi adalah nama regnum dari sekelompok besar makhluk hidup eukariotik heterotrof yang mencerna makanannya di luar tubuh lalu menyerap molekul nutrisi ke dalam sel-selnya. Kalangan ilmuwan kerap menggunakan istilah cendawan sebagai sinonim bagi fungi. Fungi bisa bereproduksi secara seksual maupun aseksual, fungi akan menghasilkan spora. Reproduksi terjadi dengan pembentukan kuncup atau tunas pada jamur uniseluler serta pemutusan benang hifa dan pembentukan secara aseksual pada spora pada fungi multiseluler. Reproduksi jamur secara seksual dilakukan oleh spora seksual (Wikipedia, 2015).
+
+Jamur Tumbuhan yang tidak mempunyai klorofil sehingga bersifat heterotof.
+Jamur tubuhnya terdiri dari benang-benang hifa. Hifa tidak bersekat dan hifa seperti benang putih. Jamur bereproduksi dengan cara vegetatif dan generatif (Subandi, 2010). Tempe
+(Rhyzopus Orizae) makanan yang dibuat dari fermentasi terhadap biji kedelai atau beberapa bahan lain. Pada jamur tempe terdapat hifa, terbentuk dari rangkaian sel yang membentuk benang-benang seperti kapas. Hifa bercabang membentuk miselium dan membentuk sporangium yang berisi spora. Sporangium tumbuh dari stolon dan bentuknya horizontal atau menyerupai akar (Diah, 2006). Jamur
+Jamur berkembang biak dengan spora. Pada tempe terlihat bagian jamur stolon/batang jamur, sporangophase, hifa pendukung spora. Spora ini terletak di dalam suatu wadah yang disebut kotak spora (sporangium), jika spora jatuh pada tempat yang cocok maka tumbuh jamur baru. Spora dapat membantu pembentukan tempe (Pratiwi, 2006). Jamur roti (Rhizopus nigrican)
+Rhizopus nigrican merupakan salah satu dari jenis jamur Zygomicotina. Jenis jamur ini memiliki hifa pendek bercabang-cabang dan berfungsi sebagai akar (rizoid) untuk melekatkan diri serta menyerap zat-zat yang diperlukan dari substrat. Selain itu, terdapat pula sporangiofor (hifa yang mencuat ke udara dan mengandung banyak inti sel, di bagian ujungnya terbentuk sporangium (sebagai penghasil spora), serta terdapat stolon (hifa yang berdiameter lebih besar daripada
+
+rizoid dan sporangiofor). Dalam hal ini banyak terdapat pada roti. Hal tersebut dikarenakan spora tersebut berada pada udara, tanah ataupun pada diri kita yang kemudian jatuh maka spora tersebut akan tumbuh dengan cepat. Organisme ini membuat cetakan roti menjadi hitam membentuk permukaan halus dari roti yang lembab menggembung ke udara (Deny, 2010). Sporangium (jamak sporangia)
+Sporangium adalah tempat pembentukan spora. Sporangium bisa terdiri dari satu sel atau bisa juga merupakan multisel. Semua tanaman, jamur, dan banyak makhluk lainnya menghasilkan sporangium pada waktu tertentu dalam siklus kehidupan mereka. Sporangium dapat menghasilkan spora dengan cara mitosis, namun pada hampir semua tanaman darat dan banyak jenis fungi, sporangium merupakan tempat berlangsungnya meiosis dan secara genetis menghasilkan spora dengan haploid yang berbeda (Wikipedia, 2014). Hifa
+Hifa adalah struktur menyerupai benang yang tersusun dari dinding berbentuk pipa. Dinding ini menyelubungi membran plasma dan sitoplasma hifa. Sitoplasmanya mengandung organel eukariotik. Kebanyakan hifa dibatasi oleh dinding melintang atau septa. Septa mempunyai pori besar yang cukup untuk dilewati ribosom, mitokondria, dan kadang kala inti sel yang mengalir dari sel ke sel. Akan tetapi, adapula hifa yang tidak bersepta atau hifa senositik. Struktur hifa senositik dihasilkan oleh pembelahan inti sel berkali-kali yang tidak diikuti dengan pembelahan sitoplasma (Anonim, 2011).
+
+Zygomycota Zygomycota adalah tumbuhan jamur yang terdiri dari benang-benang hifa
+yang bersekat, tetapi ada pula yang tidak bersekat. Jamur ini bersifat senositik dan dapat membentuk struktur dorman bersifat sementara yang disebut zigospora. Zygomycota memiliki anggota sekitar 600 spesies. Contoh Zygomycotina yang terkenal adalah Rhizopus oryzae. Jamur ini biasa dipergunakan untuk membuat tempe dan merupakan jamur hitam yang biasa tumbuh pada roti. Contoh spesies lain dari divisi ini, antara lain Mucor sp. dan Pilobolus sp. Siklus hidup dari jamur Rhizopus stolonifer yang tumbuh pada roti, memperlihatkan siklus seksual dan aseksual Zygomycota. Hifa haploid dari Zygomycota tampak serupa, tetapi sebenarnya memiliki cara perkawinan yang berbeda (Nasruddin, 2014). Jamur nasi (Aspergilus Oryzae)
+Aspergillus, hanya ditemukan pada nasi yang telah berjamur. Aspergilus merupakan jamur mikroskopis yang masuk ke dalam divisi Ascomycotina, dimana memiliki ciri-ciri terdiri dari suatu lapisan konidiofor yang panjangpanjang yang berbaur dengan miselia aerial. Kepala konidia berbentuk bulat, berwarna hijau pucat agak kekuningan, dan bila tua menjadi coklat redup. Konidiofor berwarna hialin dengan panjang 4-5mm, dan umunya berdinding kasar. Vesikula berbentuk semi bulat dan berdiameter 40-80µm, berwarna hijau, dan berdinding halus atau sedikit kasar. Aspergilus dapat berkembang biak dengan kadar gula yang cukup tinggi, begitu pula dengan nasi, nasi juga memiliki kandungan glukosa yang amat tinggi sehingga Aspergilus dapat tumbuh dengan baik pada nasi yang telah basi (Rihlah Amirah, 2013).
+
+ALAT DAN BAHAN
+
+Tempat Praktikum : Laboratorium Ilmu dan Teknologi Pangan.
+
+Waktu
+
+: Mulai : Senin, 14 Maret 2016 Pukul 10.00 WIB
+
+Selesai : Senin, 14 Maret 2016 Pukul 12.30 WIB
+
+Alat : 1. Mikroskop. 2. Kain flanel. 3. Penjepit. 4. Pipet tetes. 5. Cover glass. 6. Serbet. 7. Objek glass.
+
+Bahan : 1. Jamur Roti (Rhyzopus nigrican). 2. Jamur Nasi (Aspergilus Oryzae). 3. Jamur Tempe (Rhyzopus oryzae). 4. Air.
+
+Cara Kerja : 1. Siapkan alat dan bahan yang akan digunakan. 2. Diambil jamur roti dengan pinset atau penjepit. 3. Lalu letakkan di atas objek glass, tetesi dengan air menggunakan pipet tetes,
+kemudian tutuplah dengan cover glass.
+
+4. Letakkan preparat keatas meja benda pada mikroskop. 5. Amati pada mikroskop dengan cermat. 6. Lakukan hal yang sama pada jamur tempe dan jamur nasi.
+
+Diambil jamur tempe Diletakkan di Objek glass
+Ditetesi air
+Ditutup dengan cover glass
+Diletakkan diatas meja benda
+Diamati dengan mikroskop Gambar 1. Diagram Alir Morfologi Jamur Tempe.
+
+Diambil jamur roti Diletakkan di Objek glass
+Ditetesi air
+Ditutup dengan cover glass
+Diletakkan diatas meja benda
+Diamati dengan mikroskop Gambar 2. Diagram Alir Morfologi Jamur Roti.
+
+Diambil jamur nasi Diletakkan di Objek glass
+Ditetesi air
+Ditutup dengan cover glass
+Diletakkan diatas meja benda
+Diamati dengan mikroskop Gambar 3. Diagram Alir Morfologi Jamur Nasi.
+
+HASIL PRAKTIKUM
+
+Gambar 4. Jamur Roti (Rhyzopus Nigrican).
+
+Gambar 5. Jamur Nasi (Aspergillus Oryzae).
+
+Gambar 6. Jamur Tempe (Rhyzopus Oryzae).
+
+PEMBAHASAN
+Berdasarkan hasil pengamatan yang telah dilakukan pada jamur roti (Rhizopus nigrican) memiliki spongiofor yaitu hifa yang mencuat ke udara dan banyak mengandung inti sel, dibagian ujungnya terbentuk sporangium sebagai tempat spora. Hal ini sesuai dengan litaratur Deny (2010) bahwa jenis jamur ini memiliki hifa pendek dan berfungsi sebagai akar (rizoid) untuk melekatkan diri serta menyerap zat-zat yang diperlukan dari substrat. Selain itu terdapat pula spongiofor atau hifa yang mencuat ke udara dan mengandung banyak inti sel dibagian ujungnya terbentuk spongarium atau sebagai penghasil spora serta terdapat stolon (hifa yang berdiameter lebih besar daripada rizoid dan sporongiofor).
+Dari hasil pengamatan jamur tempe (Rhizopus Orizae) terlihat hifahifanya yang bercabang-cabang tidak bersekat membentuk misellium. Hal ini sesuai dengan literatur Diah (2006) bahwa hifa bercabang membentuk miselium dan membentuk sporangium yang berisi spora. Sporangium tumbuh dari stolon dan bentuknya horizontal atau menyerupai akar.
+Pada jamur nasi (Aspergilus oryzae) merupakan jamur mikroskopis yang masuk ke dalam divisi Ascomycotina, terlihat adanya suatu lapisan konodiofor yang panjang-panjang yang berbaur dengan misellia aerial. Kepala konidia berbentuk bulat, berwarna hijau pucat agak kekuningan, dan bila tua menjadi coklat redup. Hal ini sesuai dengan literatur Rihlah Amirah (2013) bahwa jamur nasi (Aspergilus oryzae) merupakan jamur mikroskopis yang masuk ke dalam divisi Ascomycotina, terlihat adanya suatu lapisan konodiofor yang panjang-
+
+panjang yang berbaur dengan misellia aerial. Konidiofor berwarna hialin dengan panjang 4-5 mm, dan umumnya berdinding kasar.
+
+KESIMPULAN
+Berdasarkan hasil pengamatan dan pembahasan yang telah dilakukan, dapat disimpulkan bahwa : 1. Jamur benang merupakan jamur berbentuk benang, multiseluler, tidak
+berklorofil, umumnya hidup sebagai saprofit dan parasit. 2. Jamur tempe (Rhizopus Orizae) hifanya bercabang-cabang tidak bersekat
+membentuk misellium. 3. Jamur nasi (aspergilus Oryzae) merupakan jamur mikroskopis yang masuk ke
+dalam divisi Ascomycotina. 4. Jamur roti (Rhizopus nigrican) memiliki spongiofor yaitu hifa yang mencuat
+ke udara dan banyak mengandung inti sel, di bagian ujungnya terbentuk sporangium sebagai tempat spora. 5. Hifa bercabang membentuk miselium dan membentuk sporangium yang berisi spora. 6. Sporangium merupakan tempat berlangsungnya meiosis dan secara genetis menghasilkan spora dengan haploid yang berbeda. 7. Faktor yang mempengaruhi pertumbuhan jamur adalah substrat, kelembapan, suhu, derajat keasaman substrat (pH) dan senyawa-senyawa kimia di lingkungannya.
+
+DAFTAR PUSTAKA
+Amirah, Rihlah. 2013. Jamur Nasi. Http://www.academia.edu/9214613/ laporan_ pengamatan_jamur. Diakses pada tanggal 03 April 2016.
+Anonim. 2011. Hifa. Https://konsepbiologi.wordpress.com/tag/ hifa. Diakses pada tanggal 03 April 2016.
+Deny. 2010. Jamur roti. Http://denychiko.blogspot.co.id/2010/11/jamur-roti.html. Diakses pada tanggal 02 April 2016.
+Diah. 2006. Biologi. Erlangga. Jakarta.
+Kusnadi. 2003. Mikrobiologi. UMY. Yogyakarta.
+Nasruddin. 2014. Zygomicota. Http://hjtfriuty.blogspot.co.id/2014/12/zygomycota /html. Diakses pada tanggal 03 April 2016.
+Pratiwi. 2006. Biologi Jilid 1. Erlangga. Jakarta.
+Suryati, Tati. 2008. Biologi 1. Yudistira. Bandung.
+Wikipedia. 2014. Sporangium. Https://id.wikipedia.org/wiki/Sporangium. Diakses pada tanggal 03 April 2016.
+. 2015. Fungi. Https:// id. m. wikipedia. org/ wiki/ Fungi. Diakses pada tanggal 02 April 2016.
+
+LAPORAN PRAKTIKUM
+PEMBUATAN TAPE
+FAKULTAS PERTANIAN ILMU DAN TEKNOLOGI PANGAN UNIVERSITAS MUHAMMADIYAH SUMATERA UTARA
+MEDAN 2016
+
+ABSTRAK
+Ubi kayu (Manihot utilissima) menghasilkan umbi setelah tanaman berumur 6 bulan. Ubi kayu merupakan hasil pertanian yang dapat dimanfaatkan dalam penganekaragamanan pangan. Salah satu contoh hasil produk berbahan ubi adalah tape. Praktikum yang dilaksanakan ini bertujuan untuk mengetahui pembuatan tape dan untuk mengetahui mikroorganisme yang berperan dalam pembuatan tape. Pada pengujian tape ini setiap kelompok melakukan perlakuan yang sama namun hanya penggunaan ragi yang berbeda takarannya. Tape adalah hasil fermentasi dengan Saccharomyces pastorianus, Saccaharomyces heterogenicus, Endomycopsis sp, Chlamydomucor sp, Rhizopus sp dan Bacillus sp. Semua mikroorganisme tersebut diinokulasi dengan ragi. Pada percobaan ini untuk fermentasi tape dilakukan selama 5 hari. Setelah fermentasi 5 hari, karbohidrat tersebut menjadi cairan semi padat atau kental yang merupakan campuran dari gula, alkohol, aldehid dan asam, dimana akan memberikan rasa dan aroma yang berbeda pada produk.
+Kata Kunci : Ubi Kayu, Ragi, Daun Pisang, Tape, dan Fermentasi.
+
+PENDAHULUAN
+Latar Belakang Singkong yang juga dikenal sebagai ketela pohon atau ubi kayu adalah
+pohonan tahunan tropika dan subtropika dari keluarga Euphorbiaceae. Umbinya dikenal luas sebagai makanan pokok penghasil karbohidrat dan daunnya sebagai sayuran. Umbi yang rasanya manis menghasilkan paling sedikit 20 mg HCN per kilogram umbi akar yang masih segar. Ubi kayu (Manihot utilissima) menghasilkan umbi setelah tanaman berumur 6 bulan. Setelah tanaman berumur 12 bulan dapat menghasilkan umbi basah sampai 30 ton/ha. Akar-akaran dan umbi-umbian kandungan patinya tinggi dan kenyataannya bahwa ditanam secara melimpah, akar-akaran dan umbi-umbian merupakan salah satu pangan pokok atau yang utama yang dimakan diberbagai bagian Asia Tenggara. Pada pelaksanaan praktikum ini yaitu dengan membuat tape berbahan dasar ubi kayu yang diproses dengan memodifikasi sel ubi kayu secara fermentasi. Penambahan ragi menyebabkan mikroba yang tumbuh menyebabkan perubahan karakteristik dari ubi menjadi tape. Mikroba juga menghasilkan asam-asam organik, terutama asam laktat yang terimbibisi dalam bahan, dan ketika bahan itu diolah akan dapat menghasilkan aroma dan cita rasa yang khas. Tujuan Praktikum : 1. Untuk mengetahui cara pembuatan tape. 2. Untuk mengetahui mikroorganisme yang berperan dalam pembuatan tape.
+
+TINJAUAN PUSTAKA
+Ubi Kayu Ubi kayu (Manihot utilissima) menghasilkan umbi setelah tanaman
+berumur 6 bulan. Setelah tanaman berumur 12 bulan dapat menghasilkan umbi basah sampai 30 ton/ha. Kerusakan yang biasa timbul pada ubi kayu adalah warna hitam yang disebabkan oleh aktivitas enzim polyphenolase atau biasa disebut dengan kepoyoan (Rahmat Rukmana, 2001).
+Beberapa varietas tanaman ubi kayu yang banyak memberikan hasil dari pertanamannya dapat dikemukakan sebagai berikut : a. Jenis mangi : hasil umbi yang diberikan dalam pertanaman seluas 1 hektar adalah 200 kuintal, umbiumbinya panjang bertangkai, kadar zat tepung sekitar 37 %, bila direbus rasanya manis. b. Jenis valenca : memberikan hasil untuk pertanamannya seluas 1 hektar sekitar 200 kuintal umbi, keadaan umbi dari sedang sampai gemuk dan bertangkai, kadar zat tepung sekitar 33,1 %, bila direbus rasanya manis. c. Jenis betawi : hasil umbi dari pertanaman seluas 1 hektar adalah sekitar 300 kuintal, umbi-umbinya gemuk tidak bertangkai, kadar zat tepung 34,4 %, bila direbus rasanya manis. d. Jenis bogor : hendaknya diperhatikan agar umbinya tidak perlu dimakan karena rasanya pahit dan beracun, hanya baik dibuat untuk tepung kanji. Umbinya memang gemuk-gemuk, bertangkai dengan kadar zat tepung yang dikandungnya sekitar 30,9 %. e. Jenis basiorao : juga umbinya beracun, rasanya pahit, keadaan umbi agak gemuk dan bertangkai pendek, kadar zat tepung sekitar 31,2 %. Hasil umbi yang diperoleh untuk penanaman seluas 1 hektar adalah sekitar 300 kuintal, sebagai bahan untuk industri tepung kanji. f. Jenis sao pedro petro : keadaan umbi seperti jenis basiorao dengan kadar zat tepung 35,4 %, hasil
+
+umbi 1 hektar sekitar 400 kuintal. g. Jenis muara : hasil umbinya gemuk-gemuk, tetapi sangat beracun, kadar zat tepung 26,9 %, hasil 1 hektar sekitar 400 kuintal (Purwono, 2007). Ragi Tape
+Ragi tape atau ragi pasar adalah inokulum campuran kapang, khamir dan bakteri. Mikroorganisme yang terdapat dalam ragi tape antara lain adalah kapang Amylomyces rouxii, Mucor sp dan Rhizopus sp. Khamir Saccharomycopsis fibuligera, Saccharomycopsis malanga, Pichia burtonii, Saccharomyces cereviceae dan Candida utilis serta bakteri Pediococcus sp, dan Bacillus sp. Kedua kelompok mikroorganisme tersebut bekerja sama dalam menghasilkan tape (Leni, 2012).
+Ragi tape dapat dibuat sendiri dari bahan-bahan yang terdiri dari tepung ketan putih, bawang putih, merica, lengkuas, cabai untuk jamu dan air perasan tebu secukupnya dengan memanfaatkan peralatan sederhana seperti alat penumbuk, tampah, jerami, baskom dan daun pisang. Ragi yang mengandung mikroflora seperti kapang, khamir dan bakteri dapat berfungsi sebagai starter fermentasi. Selain itu juga kaya akan protein yakni sekitar 40­50%, jumlah protein ragi tersebut tergantung dari jenis bahan penyusunnya. Ragi yang dibuat pada musim hujan akan dijumpai Mucor sp dan Rhizopus sp dalam jumlah yang lebih banyak dan dibutuhkan waktu pengeringan yang lebih lama (Winkantoro, 2004). Fermentasi
+Fermentasi adalah suatu proses biokimia yang diakibatkan oleh aktivitas enzim yang dihasilkan oleh mikroorganisme yang terdapat dalam bahan.
+
+Mikroorganisme fermentatif ini umumnya adalah bakteri asam laktat, yaitu bakteri yang mampu mengubah zat gula dalam bahan menjadi asam, alkohol, dan karbondioksida. Dengan terjadinya fermentasi ini maka bahan mengalami perubahan rasa, aroma, tekstur dan warna (Novary, 1999). Tape
+Tape adalah hasil fermentasi dengan Saccharomyces pastorianus, Saccaharomyces heterogenicus, Endomycopsis sp, Chlamydomucor sp, Rhizopus sp dan Bacillus sp. Semua mikroorganisme tersebut diinokulasi dengan ragi. Tape terbuat dari tepung beras (tepung Oryza sativa) atau tapioka (Manihot esculanta). Sumber karbohidrat tersebut dimasak sepenuhnya sebelum dinokulasikan. Setelah fermentasi 2 ­ 3 hari, karbohidrat tersebut menjadi cairan semi padat atau kental yang merupakan campuran dari gula, alkohol, aldehid dan asam, dimana akan memberikan rasa dan aroma yang berbeda pada produk (Agung Wijaya, 2008).
+
+ALAT DAN BAHAN
+Tempat Praktikum : Laboratorium Ilmu dan Teknologi Pangan Fakultas Pertanian Universitas Muhammadiyah Sumatera Utara.
+Waktu Praktikum : Mulai : Senin, 21 Maret 2016 Pukul 10.00 WIB Selesai : Senin, 21 Maret 2016 Pukul 13.30 WIB
+Alat : 1. Daun pisang. 2. Tusuk gigi. 3. Tampa. 4. Saringan. 5. Panci. 6. Kompor. 7. Pisau. 8. Kain serbet.
+Bahan : 1. Ubi kayu. 2. Ragi tape. 3. Ragi.
+Cara Kerja : 1. Sediakan bahan dan alat yang akan digunakan untuk praktikum. 2. Ambilah ubi sebagi bahan praktikum lalu di timbang kemudian bersihkan ubi
+dari kulitnya.
+
+3. Cuci ubi tersebut lalu di rebus hingga lunak kemudian tiriskan setelah itu kukus kembali ubi hingga 15 menit.
+4. Lalu dinginkan dan tambahkan ragi hingga merata kemudian bungkus dengan daun pisang.
+5. Tunggu hingga 3 hari lalu amatilah.
+
+Ubi ditimbang Dikupas dan dicuci Dipotong sesuai selera dan di bersihkan kembali
+Direbus hingga lunak
+Ditiriskan Dikukus kembali 10 ­ 15
+menit
+Dinginkan
+Ditaburkan Ragi Sampai Merata
+Dibungkus dengan menggunakan daun pisang
+Ditunggu hingga 3 hari
+Gambar 1. Diagram Alir Pembuatan Tape.
+
+HASIL PRAKTIKUM Gambar 2. Tape.
+
+PEMBAHASAN
+Berdasarkan hasil pengamatan yang kami lakukan bahwa tape merupakan hasil fermentasi ubi kayu dengan ragi. Hal ini sesuai dengan literatur Agung Wijaya (2008) bahwa tape adalah hasil fermentasi dengan Saccharomyces pastorianus, Saccaharomyces heterogenicus, Endomycopsis sp, Chlamydomucor sp, Rhizopus sp dan Bacillus sp. Semua mikroorganisme tersebut diinokulasi dengan ragi. Tape terbuat dari tepung beras (tepung Oryza sativa) atau tapioka (Manihot esculanta). Sumber karbohidrat tersebut dimasak sepenuhnya sebelum diinokulasikan. Setelah fermentasi 2 ­ 3 hari, karbohidrat tersebut menjadi cairan semi padat atau kental yang merupakan campuran dari gula, alkohol, aldehid dan asam, dimana akan memberikan rasa dan aroma yang berbeda pada produk.
+Pembuatan tape tidak terlepas dengan proses fermentasi. Proses fermentasi melibatkan aktivitas enzim. Hal ini sesuai dengan literatur Novary (1999) bahwasanya fermentasi adalah suatu proses biokimia yang diakibatkan oleh aktivitas enzim yang dihasilkan oleh mikroorganisme yang terdapat dalam bahan. Mikroorganisme fermentatif ini umumnya adalah bakteri asam laktat, yaitu bakteri yang mampu mengubah zat gula dalam bahan menjadi asam, alkohol, dan karbondioksida. Dengan terjadinya fermentasi ini maka bahan mengalami perubahan rasa, aroma, tekstur dan warna.
+
+KESIMPULAN
+Dari hasil pengamatan dan pembahasan yang telah dilakukan dapat diambil kesimpulan sebagai berikut : 1. Mikroorganisme fermentatif ini umumnya adalah bakteri asam laktat, yaitu
+bakteri yang mampu mengubah zat gula dalam bahan menjadi asam, alkohol, dan karbondioksida. 2. Penambahan ragi menyebabkan mikroba yang tumbuh menyebabkan perubahan karakteristik. 3. Fermentasi yang dilakukan pada praktikum ini selama 5 hari. 4. Terlalu sedikit ragi akan menyebabkan gagal menjadi tape. 5. Jika penambahan ragi terlalu banyak akan menyebabkan rasa pada tape tersebut menjadi agak pahit. 6. Pada perebusan ubi kayu tidak harus sampai masak atau lembut namun cukup sampai setengah masak dan belum sampai lembut.
+
+DAFTAR PUSTAKA
+Leni. 2012. Cara Membuat Tape. Http://leniblogspot.co.id/2012/12/resep-caramembuuat-ragi-tape.html. Diakses pada tanggal 09 Mei 2016.
+Novary. 1999. Introduction to Biotechnology. Blackwell Scientilic Publications. London.
+Purwono. 2007. Budidaya 8 Jenis Tanaman Pangan Unggul. Penebar swadaya. Jakarta.
+Rukmana, Rahmat. 2001. Aneka Kripik Umbi. Kanisius. Jogjakarta.
+Wijaya, Agung. 2008. Biologi. Grasindo. Jakarta.
+Winkantoro. 2004. Membuat Makanan Dari Bahan Dasar Ubi. Salemba Empat. Jakarta.
+
+LAPORAN PRAKTIKUM
+PEMBUATAN MEDIA PDA (POTATO DEXTROSE AGAR)
+FAKULTAS PERTANIAN ILMU DAN TEKNOLOGI PANGAN UNIVERSITAS MUHAMMADIYAH SUMATERA UTARA
+MEDAN 2016
+
+ABSTRAK
+Praktikum telah selesai dilaksanakan di Laboratorium Ilmu dan Teknologi Pangan Universitas Muhammadiyah Sumatera Utara, Medan. Praktikum ini bertujuan untuk mengetahui cara pembuatan media PDA, dan untuk mengetahui mikrobia yang dapat tumbuh pada media PDA tersebut. PDA digunakan untuk menumbuhkan atau mengidentifikasi yeast dan kapang. Dapat juga digunakan untuk enumerasi yeast dan kapang dalam suatu sampel atau produk makanan. PDA mengandung sumber karbohidrat dalam jumlah cukup yaitu terdiri dari 20% ekstrak kentang dan 2% glukosa sehingga baik untuk pertumbuhan kapang dan khamir tetapi kurang baik untuk pertumbuhan bakteri.
+Pada proses ini pertama-tama dilakukan pembuatan media nutrient dengan perebusan untuk mendapatkan ekstrak kentang. Kemudian masukkan ke dalam beker glass dan ditambahkan gula pasir aduk dengan stirer kemudian masukkan agar-agar. Rebus di hotplate, setelah itu masukkan dalam erlenmeyer tutup dengan kapas dan alumunium foil, dinginkan lalu tuangkan dalam cawan petridis dan tambahkan jamur nasi sesuai dengan sampel perlakuan di bagian tengah. Tutup kembali media dan beri label perlakuan, kemudian bungkus dengan plastik warp hingga menutupi semua permukaan cawan petrdisi. Perlakuan terakhir media inokulum di inkubasi dalam inkubator selama 7 hari.
+Kata Kunci : Kentang, Stirer, Cawan Petridis, Agar-Agar dan Mikroba.
+
+PENDAHULUAN
+Latar Belakang PDA digunakan untuk menumbuhkan atau mengidentifikasikan yeast atau
+kapang. PDA dapat juga digunakan enumerasi yeast atau kapang dalam suatu sample atau produk makanan. PDA mengandung sumber makanan karbohidrat dalam jumlah cukup yaitu terdiri dari 90% ekstrak kentang dan 2% glukosa sehingga baik untuk pertumbuhan kapang dan khamir. Cara membuat PDA adalah mensorpensikan 39 gr media dalam luar air yang telah disterilisasi. Mikroorganisme dapat ditumbuhkan dan dikembangkan pada suatu substrat yang disebut medium. Medium yang digunakan untuk menumbuhkan dan mengembangkan mikroorganisme tersebut harus sesuai susunannya dengan kebutuhan jenis-jenis mikroorgansme yang bersangkutan.
+Mikroorganisme ataupun mikroba adalah mikroorganisme yang sangat kecil sehingga untuk mengamatinya diperlukan alat bantu. Mikroorganisme disebut juga organisme mikroskopik. Mikroorganisme sering kali bersel tunggal (uniseluler) maupun bersel banyak (multi seluler). Namun beberapa protista bersel tunggal masih terlihat oleh mata telanjang dan ada beberapa spesies multisel tidak dapat dilihat dengan mata telanjang. Virus juga termasuk ke dalam mikroorganisme meskipun bersifat selder. Tujuan praktikum : 1. Untuk mengetahui cara pembuatan media PDA. 2. Untuk mengetahui mikrobia yang dapat tumbuh pada media PDA.
+
+TINJAUAN PUSTAKA
+Potato Dextrose Agar Media PDA (Potato Dextrose Agar) merupakan medium semi sintetik.
+Media merupakan tempat dimana terjadi perkembangan organisme-organisme yang menyerap karbohidrat dari kaldu kentang dan gula serta dari agar yang telah dicampur. Hal inilah yang menyebabkan mengapa kentang harus dipotong dadu, agar karbohidrat dapat dikeluarkan dan menyatu dengan air sehingga menjadi kaldu. Semakin kecil permukaan maka semakin besar daya osmosisnya (Irianto, 2006).
+Potato dextrose agar merupakan salah satu media yang baik digunakan untuk membiakkan suatu organisme. Baik itu berupa cendawan atau fungi, bakteri maupun sel hidup. Potato dextrose agar merupakan panduan yang sesuai untuk menumbuh-biakan karena extra potato merupakan sumber karbohidrat, dextrose gugusan gula, baik itu monosakarida atau polisakarida sebagai tumbuhan nutrisi biakan. Sedangkan agar merupakan bahan/media tempat tumbuh bagi biakan yang baik, karena mengandug cukup air (Suriawiria, 2005). Pertumbuhan Mikroorganisme
+Media pertumbuhan mikroorganisme adalah suatu bahan yang terdiri dari campuran zat-zat makanan (nutrisi) yang diperlukan mikroorganisme untuk pertumbuhannya. Mikroorganisme memanfaatkan nutrisi media berupa molekulmolekul kecil yang dirakit untuk menyusun komponen sel. Dengan media pertumbuhan dapat dilakukan isolate mikroorganisme menjadi kultur murni dan juga memanipulasi komposisi media pertumbuhannya (Machmud, 2008).
+
+Macam-Macam Media Berdasarkan komposisi nutrisinya, media terbagi menjadi tiga macam
+yaitu media alam, media semi sintetik dan media sintetik. Komposisi media alam tidak dapat diketahui dengan pasti setiap waktu karena dapat berubah-ubah dalam bahan yang digunakan dan bergantung pada asalnya, misalnya jagung, kentang, serangga dan rambut. Media semi sintetik terdiri dari campuran antara bahan alami dengan bahan kimia yang komposisinya dapat diketahui secara pasti, misalnya potato dextrose agar (PDA). Media sintetik terbuat dari bahan kimia yang komposisi dan konsentrasinya dapat diketahui dengan pasti. Untuk isolasi mikroorganisme umumnya digunakan empat macam media, yaitu media umum, media elektif, media selektif dan media diferensial (Gunawan, 2006). Kentang
+Kentang menghendaki tanah yang subur dengan kandungan bahan organik yang tinggi. Tekstur tanah yang ideal untuk menanam kentang adalah lempung berpasir sehingga tekstur tanah gempur, dan tidak mengakibatkan air menggenang sewaktu hujan, keasaman (pH) tanah yang optimal untuk tanaman kentang adalah 5 - 5,5. Pada ph yang kurang dari 5 tanaman akan mengalami difesiensi fosfor dan magnesium serta beracunan pada pH tinggi. Proses larutan kentang disterilkan yang ada dalam tabung erlemeyer dengan autoklaf maka media diinkubasi selama 1 - 3 hari agar tidak terkontaminasi (Ramadhan, 2010). Agar
+Agar-agar merupakan karbohidrat dengan molekul tinggi yang mengisi sel pada rumput laut. Agar-agar termasuk pada kelompok peletin dan tergolong suatu polimer yang terbentuk dari monomer galaktosa. Gel tercipta karena ketika
+
+dipanaskan di dalam air, molekul agar-agar mendapat satu sama lain memadat dan membentuk molekul-molekul air. Terbentuklah sistem koloid padat cair kisi-kisi tersebut difungsikan dalam elektroforesis gel agarosa untuk mencegah pergerakan molekul objek karena perbedaan tegangan antara dua kutub, kepadatan gel agaragar pun lumayan kuat untuk menopang tumbuhan kecil sehingga acap kali digunakan sebagai media dalam kultur jaringan (Bagus, 2010). Media Biakan
+Media biakan adalah bahan atau campuran bahan yang dapat digunakan untuk membiakkan mikroorganisme, karena memiliki daya ruang yang tinggi terhadap tumbuhan dan perkembangbiakkannya. Media biakan merupakan suatu zat yang digunakan untuk menumbuhkan jasad renik. Media biakkan memberikan tempat dan kondisi yang mendukung pertumbuhan dari mikroorganisme yang ditumbuhkan. Sebelum menumbuhkan mikroorganisme dengan baik, langkah pertama harus dapat dipahami kebutuhan dasar mikroorganisme lalu mencoba suatu medium yang memberi hasil terbaik. Karena extra potato (kentang) merupakan sumber karbohidrat, dextrose (gugusan gula, baik itu monosakarida atau polysakarida) sebagai tambahan nutrisi bagi biakan, sedangkan agar merupakan bahan media/tempat tumbuh bagi biakan yang baik, karena mengandung cukup air (Sylvia Pratiwi, 2008).
+
+ALAT DAN BAHAN
+Tempat Praktikum : Laboratorium Ilmu dan Teknologi Pangan. Waktu Pelaksanaan : Mulai : Senin, 04 April 2016 Pukul 13.40 WIB
+Selesai : Senin, 04 April 2016 Pukul 15.30 WIB
+Alat : 1. Beker glass. 2. Penjepit. 3. Pengaduk. 4. Dandang. 5. Timbangan analitik. 6. Cawan petridis. 7. Stirer. 8. Inkubator. 9. Spatula. 10. Saringan. 11. Erlemeyer. 12. Hotplate.
+Bahan : 1. Aluminium foil. 2. Aquadest. 3. Gula. 4. Kapas. 5. Kentang.
+
+6. Plastik Cling warp. 7. Agar-agar.
+Cara Kerja : 1. Kentang dikupas lalu dicuci hingga bersih. 2. Kentang yang telah dicuci kemudian dipotong-potong menjadi bagian yang
+lebih kecil dengan potongan dadu. Timbang kentang 200 gr. 3. Potongan-potongan kentang direbus dalam panci dengan aquadest. Untuk
+kentang 750 ml aquadest. Direbus hingga mendidih sampai berbuih dan kentang mengeluarkan ekstrak. 4. Saring kentang dengan cairannya (ekstrak) dipisahkan untuk diambil cairannya (ekstrak). 5. Cairan kentang (ekstrak) dimasukkan ke dalam beker glass, tambahkan gula 100 gr, kemudian panaskan pada stirer sambil diaduk hingga larut. 6. Tambahkan agar-agar. Untuk ekstrak kentang 14 gr agar-agar. 7. Rebus sebentar dengan menggunakan Hotplate. Masukkan kedalam erlenmayer, masukkan sebanyak 200 ml. 8. Tutup dengan kapas dan bungkus kembali dengan aluminium foil. Dinginkan lalu tuangkan dalam cawan petridis. 9. Masukkan mikrobia (jamur, kapang, khamir) pada bagian tengah media yang sudah dibiakkan sebelumnya. 10. Tutup kembali cawan petri dan bungkus dengan plastik wrap hingga menutupi semua bagian cawan petridis. 11. Tutup kembali inkubator, dan inokulasi selama 7 hari.
+
+Diambil kentang
+Dikupas dan cuci, potong dadu
+Ditimbang kentang 200 gr
+Direbus hingga 15 menit, tambah aquadest 750 ml
+Disaring dan ambil ekstrak
+Dimasukkan dalam beker glass + gula 100 gr
+Diaduk dengan stirer hingga larut
+Ditambahkan agar-agar ekstrak kentang 14 gr dan aquadest hingga 500 ml
+Direbus di hotplate Dimasukkan dalam labu erlenmeyer
+Tutup dengan kapas dan + plastik warp
+
+Dinginkan, lalu tuangkan dalam cawan petridis
+Diambil jamur lalu letakan ke dalam cawan petridis
+Ditutup kembali dan tutup dengan plastik warp
+Diinokulasi dalam inkubator selama 7 hari Gambar 1. Diagram Alir Pembuatan PDA.
+
+HASIL PRAKTIKUM Gambar 2. Media PDA+Jamur Nasi. Gambar 3. Media PDA+Jamur Tempe. Gambar 4. Media PDA+ Jamur Nasi. Gambar 5. Media PDA+Jamur Tempe.
+
+PEMBAHASAN
+Berdasarkan hasil praktikum yang telah dilakukan dengan dua tahapan. Tahapan pertama yakni sterilisasi. Sterilisasi cawan petridis dilakukan dengan membungkusnya menggunakan kertas ubi dan koran. Setelah semua cawan petridis dibungkus dengan lakban kuning selanjutnya disterilisasi menggunakan oven selama 2 jam dengan suhu 120oC. Tahapan kedua yakni pembuatan media. Pada praktikum ini, media yang dibuat adalah media PDA (Potato Dextrose Agar). Kentang yang telah dipotong dadu direbus bersama aquades hingga mendidih. Setelah mendidih, air rebusan (ekstrak) tersebut dimasukkan ke dalam Erlenmeyer. Lalu dicampur dengan jamur dari makanan. Berdasarkan literatur Machmud (2008) dapat diketahui bahwa media pertumbuhan mikroorganisme adalah suatu bahan yang terdiri dari campuran zat-zat makanan (nutrisi) yang diperlukan mikroorganisme untuk pertumbuhannya. Dengan media pertumbuhan dapat dilakukan isolate mikroorganisme menjadi kultur murni dan juga memanipulasi komposisi media pertumbuhannya.
+Potato dextrose agar merupakan salah satu media yang baik digunakan untuk membiakkan suatu organisme, baik itu berupa cendawan atau fungi, bakteri maupun sel hidup. Berdasarkan literatur Suriawiria (2005) bahwa potato dextrose agar merupakan panduan yang sesuai untuk menumbuhbiakan karena extra potato merupakan sumber karbohidrat, dextrose gugusan gula, baik itu monosakarida atau polisakarida sebagai tumbuhan nutrisi biakan. Sedangkan agar merupakan bahan atau media tempat tumbuh bagi biakan yang baik, karena mengandung cukup air.
+
+KESIMPULAN
+Berdasarkan hasil pengamatan dan pembahasan, yang kami lakukan terhadap pertumbuhan jamur pada media PDA yang dibuat, maka dapat disimpulkan sebagai berikut : 1. Potato dextrose agar (PDA) termasuk medium semi alami yang tersusun atas
+bahan alam (kentang) dan bahan sintesis (dextrose dan agar). 2. Media merupakan campuran-campuran dari beberapa zat makanan untuk
+pertumbuhan dan perkembangan mikroba. 3. Media ialah sebuah bahan yang terdiri campuran zat-zat hara yang digunakaan
+untuk membiakan mikroba. Dengan berbagai isolasi, pengujian sifat fisiologi dan perhitungan jumlah mikroba. 4. Mikroorganisme dapat ditumbuhkan dan dikembangkan pada suatu substrat yang disebut medium. Medium yang digunakaan tersebut harus sesuai dengan susunannya dengan kebutuhan mikroorganisme yang bersangkutan. 5. Organisme hidup memerlukan nutrisi untuk pertumbuhannya. Subtansi kimia organik dan anorganik diperoleh dari lingkungan dalam berbagai macam bentuk. Nutrisi diambil dari lingkungan melalui membran plasma menuju sel. 6. PDA mengandung sumber karbohidrat dalam jumlah cukup yaitu: terdiri dari 90% ekstrak kentang dan 2% glukosa sehingga baik untuk pertumbuhan kapang dan khamir.
+
+DAFTAR PUSTAKA
+Bagus. 2010. Agar-Agar. Http://www.branon.foot.id.org.html. Diakses pada tanggal 9 Mei 2016.
+Gunawan. 2006. Cendawan dalam Praktek Laboratorium. IPB Press. Bogor.
+Irianto. 2006. Mikrobiologi Jilid 1. Yama Widya. Bandung.
+Machmud. 2008. Tehnik Penyimpanan dan Pemeliharaan Mikroba. Balai Penelitian Bioteknologi Tanaman Pangan. Bogor.
+Pratiwi, Sylvia. 2008. Mikrobiologi Farmasi. Erlangga. Bandung.
+Ramadhan. 2010. Biologi Tanaman Kentang. Http://www.review.com. Diakses pada tanggal 10 Mei 2016.
+Suriawiria. 2005. Mikrobiologi Dasar. Papas Sinar Sinanti. Jakarta.

@@ -1,0 +1,3520 @@
+Agrium, Oktober 2010 Volume 16 No. 2
+
+RESPON PERTUMBUHAN DAN PRODUKSI SEMANGKA TERHADAP PUPUK KANDANG DAN MULSA CANGKANG TELUR
+
+Alridiwirsah Jurusan Agroekoteknologi Fakultas Pertanian Universitas Muhammadiyah Sumatera Utara
+Email: alridiwirsah@yahoo.com
+
+Abstract Growth response and production of watermelon to manure and mulch eggshell has been studied. This study was designed according to randomized block design factorial with manure as the first treatment factor. Manure factor consists of four levels: control treatment (0 kg / plant), which is denoted as K0, standard 0.5 kg / plant (K1) and the standard of 1.0 kg / plant (K2) and the standard of 1.5 kg / plant (K3). While the mulch treatment factor consists of 2 levels: M0 (no mulch) and M1 (mulch eggshell). All units of the experiment was repeated 3 times, so that all experimental units totaling 24 units of the experiment. Each experimental unit consisted of four plants with three plants as a research sample. Variables measured in this study include the observation of plant length, age began flowering, harvesting, production of fruit per plant and fruit diameter. Based on a statistical analysis of variance method, the average difference test, regression analysis and correlation can be seen that up to doses of 1.5 kg / plant manure showed a linear relationship to the length of crop and fruit production per plant, while the use of mulch is a very real influence is indicated by the length and age of flowering plants, while on the other variables, both treatment and their interactions that do not significantly influence
+
+Keywords: growth response, watermelon, manure, mulch eggshell.
+
+Abstrak Respon pertumbuhan dan produksi semangka terhadap pupuk kandang dan mulsa cangkang telur telah diteliti. Penelitian ini dirancang menurut Rancangan Acak Kelompok (RAK) Faktorial dengan pupuk kandang sebagai faktor perlakuan pertama. Faktor pupuk kandang terdiri atas empat taraf yaitu perlakuan kontrol (0 kg/tanaman) yang dinotasikan sebagai K0, taraf 0,5 kg/tanaman (K1) dan taraf 1,0 kg/tanaman (K2) dan taraf 1,5 kg/tanaman (K3). Sedangkan faktor perlakuan mulsa terdiri atas 2 taraf yaitu M0 (tanpa mulsa) dan M1 (mulsa cangkang telur). Seluruh unit percobaan diulang sebanyak 3 kali, sehingga seluruh unit percobaan berjumlah 24 unit percobaan. Masing-masing unit percobaan terdiri dari empat tanaman dengan tiga tanaman sebagai sampel penelitian. Peubah yang diukur dalam penelitian ini meliputi pengamatan panjang tanaman, umur mulai berbunga, umur panen, produksi buah per tanaman dan diameter buah. Berdasarkan hasil analisis data secara statistik dengan metode sidik ragam, uji beda rata-rata, analisis regresi dan korelasi dapat diketahui bahwa hingga dosis 1,5 kg/tanaman pemberian pupuk kandang menunjukan hubungan linier terhadap panjang tanaman dan produksi buah per tanaman, sedangkan dari penggunaan mulsa pengaruh yang sangat nyata ditunjukkan oleh panjang tanaman dan umur mulai berbunga sedangkan pada peubah yang lain, kedua perlakuan dan interaksinya memberikan pengaruh yang tidak signifikan.
+
+Kata kunci: respon pertumbuhan, semangka, pupuk kandang, cangkang telur.
+
+A. PENDAHULUAN
+Semangka, Citrullus vulgaris SCHARD di Indonesia ditanam di dataran rendah sampai ketinggian 1000 meter diatas permukaan laut. Tanaman semangka memerlukan banyak air, tetapi tidak tahan terhadap air yang menggenang.1
+Semangka merupakan tanaman semusim, yang buahnya banyak digemari karena memberikan rasa segar terutama jika dimakan pada waktu cuaca panas. Penanaman semangka umumnya dilakukan di lahan sawah setelah padi dengan memanfaatkan air irigasi, namun tidak menutup kemungkinan bila dibudidayakan di lahan kering yang memiliki sumber air kecil pada musim kemarau dengan memanfaatkan
+
+teknologi tandon air/embung. Dengan pengelolaan air dari tandon air/embung memungkinkan diperoleh keuntungan yang lebih tinggi jika dimanfaatkan untuk berusahatani semangka dibandingkan dengan tanaman lain seperti jagung dan kacang tanah.2
+Semangka menghendaki tanah yang subur, gembur, kaya kandungan bahan organik, terutama jenis tanah geluh pasir yang aerasi dan draenasenya baik.3
+Pemupukan merupakan salah satu usaha untuk menambah kekurangan unsur hara tanaman ke dalam tanah, berfungsi sebagai nutrisi tanaman yang dipergunakan untuk pertumbuhan tanaman. Tetapi tidak semua pupuk diberikan kedalam tanah dapat diserap
+
+Agrium, Oktober 2010 Volume 16 No. 2
+
+oleh tanaman. Untuk mencapai hasil sesuai dengan yang diharapkan perlu dilakukan pemupukan yang optimal.4
+Tanaman membutuhkan unsur hara dengan susunan dan perbandingan sesuai dengan perbandingan tertentu dalam proses pertumbuhan dan produksinya. Dalam hal ini pupuk dapat berfungsi sebagai penyedia dan pengganti unsur-unsur hara tersebut dengan tetap memperhatikan keseimbangan unsur hara tanah.3
+Pupuk kandang menambah tersedianya unsur hara bagi tanaman dan mempunyai pengaruh positif terhadap sifat fisis dan kimiawi tanah, mendorong kehidupan/perkembangan jasad renik. Kadar rata-rata unsur hara pada kotoran ternak di Indonesia terutama pada pupuk kandang yang matang adalah tidak lebih dari : 0,3% N, 0,1 % P dan 0,3 % K.4 Unsur N, P, atau K bisa didapatkan dari tanaman atau kotoran hewan tertentu, sedangkan kalsium terdapat pada bagian dalam cangkang telur. 5
+Cangkang telur merupakan mulsa organik seperti jerami padi, serbuk geraji, dan bahan organik lainnya selain berfungsi mulsa cangkang telur berperan sebagai penambah unsur hara terutama kalium yang dibutuhkan oleh tanaman. Selain itu cangkang telur juga mengandung kalsium karbonat, salah satu material yang paling "absorbent". Ini adalah kandungan yang umum terdapat dalam suplemen kalsium dan antasida. Dengan proses pemanasan, kalsium karbonat menjadi kalsium oksida, yang kemudian akan menyerap gas-gas asam, seperti karbon dioksida.7
+Berdasarkan uraian tersebut penulis tertarik untuk meneliti pengaruh pemberian pupuk kandang dan mulsa cangkang telur terhadap pertumbuhan dan produksi semangka (Citrullus vulgaris SCARD)
+Hipotesis 1. Ada pengaruh pupuk kandang terhadap
+pertumbuhan dan produksi semangka. 2. Ada pengaruh mulsa cangkang telur
+terhadap pertumbuhan dan produksi semangka. 3. Ada interaksi antara pupuk kandang dan pemberian mulsa cangkang telur terhadap pertumbuhan dan produksi semangka.
+B. TINJAUAN PUSTAKA Botani Tanaman
+Tanaman semangka termasuk tanaman setahun (annual) yang berarti tanaman ini hanya untuk satu periode panen, lalu setelah berproduksi tanaman semangka akan mati. Tanaman ini berbentuk perdu atau semak
+
+dengan panjang bisa mencapai ± 2 meter dan
+
+mempunyai klasifikasi sebagai berikut:
+
+Divisio
+
+: Spermatophyta
+
+Class
+
+: Dicotyledoneae
+
+Ordo
+
+: Cucurbitaceae
+
+Family : Cucurbitaceae
+
+Genus
+
+: Citrullus
+
+Species : Citrullus vulgaris ,SCARD11
+
+Syarat Tumbuh Tanaman Semangka Setiap tanaman memerlukan kondisi
+optimum lingkungan sekitar untuk memperoleh hasil yang optimum. Kondisi optimum pada hakekatnya tidak pernah 100 % tercapai. Lingkungan dalam arti yang luas setiap detik, hari, bulan dan tahun dipengaruhi oleh faktorfaktor alami yang saling mempengaruhi dan mengisi.
+Faktor-faktor tersebut adalah: iklim dibentuk oleh matahari, curah hujan, angin dan suhu udara, tanah, ketinggian tempat di atas permukaan air laut, tinggi rendahnya permukaan air tanah, pengairan.8
+
+Iklim Ketinggian tempat yang ideal untuk
+tanaman semangka adalah 100 sampai 300 meter di atas permukaan laut. Namun demikian pada ketinggian kurang dari 100 meter atau ketinggian lebih dari 300 meter diatas permukaan laut pun masih dapat ditanam semangka.9
+Apabila suhu udara di sekitar tanaman senantiasa tinggi dan kering, maka air diperlukan untuk pertumbuhan tanaman. Kebutuhan air ini mutlak, terutama pada awal pertumbuhan tanaman.1
+Curah hujan yang dibutuhkannya hanya 40 sampai 50 mm/bulan. Bila hujan terlalu lebat dan lahan sampai tergenang, pertumbuhan tanaman dapat terganggu.10
+
+Tanah Produksi semangka dipengaruhi oleh
+kandungan unsur hara dalam tanah dan varietas, tanah yang kurus dan miskin bahan organik akan mempengaruhi pertumbuhan tanaman serta pH yang asam atau basa, tanah berwarna coklat tua sampai kehitaman selain itu ia juga menambahkan pada kondisi tanah masam atau pH < 6 beberapa unsur hara terutama fosfor (P) sulit diserap tanaman karena terikat oleh unsur Aluminium (Al), mangan (Mn), dan besi (Fe).11 Untuk pertumbuhan yang baik tanaman semangka membutuhkan daya adaptasi yang luas terhadap pH tanah 5 sampai 7. Pertumbuhan tanaman semangka akan tumbuh dengan baik pada pH 6.5 sampai 7,2. Pada lahan yang bersifat alkalis (basa) pH > 8, serangan penyakit fusarium pada tanaman
+
+Agrium, Oktober 2010 Volume 16 No. 2
+
+semangka akan berkurang, jika pH rendah maka perlu dilakukan pengapuran tanah sesuai tingkat keasaman tanah.12
+Peranan Pupuk Kandang Pupuk yang lazim digunakan untuk areal
+penanaman semangka adalah pupuk organik yaitu pupuk kandang.9
+Pemupukan tanah dengan pupuk kandang dapat mengakibatkan tanah menjadi lebih baik dan daya pengikatan airnya menjadi lebih tinggi. Pupuk kandang juga berpengaruh terhadap keadaan kimia, fisik, dan biologis tanah.
+Humus yang merupakan lapisan yang diantara permukaan tanah mempunyai sifat dapat mengikat air permukaan empat sampai enam kali beratnya sendiri dan air merupakan kebutuhan yang penting untuk melarutkan unsur hara dalam tanah dan dimanfaatkan oleh tanaman. Di dalam pertumbuhan dan produksi suatu tanaman pupuk kandang memegang peranan penting. 13
+Bila dibandingkan pupuk kandang dengan pupuk buatan, maka pupuk kandang lebih lambat bekerjanya sebab sebagian besar dari zat-zat makanan tanaman harus mengalami berbagai perubahan terlebih dahulu sebelum dapat dihisap oleh tanaman. Selain itu juga pupuk kandang mempunyai pengaruh susulan untuk waktu yang lama, jadi pupuk kandang di dalam tanah merupakan persediaan zat makanan yang dengan berangsur-angsur menjadi bebas dan tersedia bagi tanaman. Oleh karena itu tanah yang dipupuk dengan pupuk kandang dalam jangka waktu lama masih dapat memberikan hasil yang baik.
+Mulsa Cangkang Telur Penutup tanah (mulching) ialah penutupan
+tanah di bawah tanaman dengan daun-daun atau rumput-rumput kering, jerami, tahi gergaji, gambut (moss) , plastik atau dengan mengunakan cangkang telur. Mulsa dapat berpengaruh langsung atau tidak langsung terhadap: 1. Suhu tanah dan suhu di sekitar tanaman 2. Kelembaban tanah di sekitar pertanaman 3. Bahan organik tanah 4. Radiasi matahari yang diterima oleh tanah 5. Pertumbuhan gulma 6. Evaporasi di sekitar tanaman di bawah
+mulsa. Cangkang telur merupakan mulsa organik seperti jerami padi, serbuk geraji, dan bahan organik lainnya selain berfungsi mulsa cangkang telur berperan sebagai penambah unsur hara terutama kalium yang dibutuhkan oleh tanaman selain itu cangkang telur juga mengandung berbagai unsur seperti yang dikatakan oleh para peneliti di Ohio State
+
+University L.S. Fan, professor kimia dan biomolekuler tersohor dari Universitas Ohio, mengungkapkan bahwa dirinya bersama mahasiswa doktoralnya, menyatakan bahwa cangkang telur yang paling banyak mengandung kalsium karbonat salah satu material yang paling "absorbent". Ini adalah kandungan yang umum terdapat dalam suplemen kalsium dan antasida. Dengan proses pemanasan, kalsium karbonat menjadi kalsium oksida, yang kemudian akan menyerap gas-gas asam, seperti karbon dioksida.7 C. METODE PENELITIAN Tempat dan Waktu
+
+Penelitian ini dilaksanakan di lahan percobaan Balai Pengkajian Teknologi Pangan (BPTP) Medan. Jalan A.H. Nasution dengan ketinggian ± 27 meter dari permukaan laut. Penelitian ini dimulai bulan Juli sampai dengan September 2008.
+
+Bahan dan Alat Bahan-bahan yang digunakan dalam
+penelitian ini adalah : Benih semangka, pupuk kandang dari kotoran sapi, cangkang telur, pupuk NPK (15 :15 : 15), fungisida Benlate, Insektisida Lannate, tanah topsoil.
+Alat- alat yang dipakai dalam penelitian ini adalah : Cangkul, parang babat, gembor, handspreyer, timbangan, schalifer dan meteran, kuas, cat, palu, paku, papan plat sample, alat tulis, kalkulator dan lainnya yang dianggap perlu.
+
+Metode Penelitian
+
+Penelitian ini dilakukan dengan
+
+menggunakan Rancangan Acak Kelompok
+
+(RAK) Faktorial, dengan dua faktor yang
+
+diteliti, yaitu :
+
+1. Faktor pemberian pupuk kandang (K)
+
+dengan 4 taraf yaitu:
+
+K0 = 0,00 kg/ tanaman K1 = 0,50 kg/ tanaman
+
+K2 = 1,00 kg/ tanaman K3 = 1,50 kg/ tanaman
+
+2. Faktor pemakaian Mulsa (M) dengan 2
+
+taraf yaitu :
+
+M0 = tanpa mulsa M1 = mulsa cangkang telur
+
+Jumlah kombinasi perlakuan 2 x 4 = 8
+
+kombinasi yaitu :
+
+K0M0 K2M0
+
+K1M0 K3M0
+
+K0M1 K2M1
+
+K1M1 K3M1
+
+Jumlah ulangan
+
+: 3 ulangan
+
+Jumlah tanaman per plot : 4 tanaman
+
+Jumlah tanaman sampel : 3 tanaman
+
+Jumlah plot penelitian : 24 Plot
+
+Jarak antar plot
+
+: 50 cm
+
+Agrium, Oktober 2010 Volume 16 No. 2
+
+Jarak antar ulangan
+
+: 100 cm
+
+Panjang plot penelitian : 2,2 m
+
+Lebar plot penelitian : 3 m
+
+Luas plot penelitian
+
+: 2,2 m x 3 m
+
+Jarak antar tanaman
+
+: 1 m
+
+Jumlah tanaman seluruhnya: 96 tanaman
+
+Jumlah sampel seluruhnya : 72 tanaman
+
+Model linier yang diamsumsikan untuk RAK
+
+faktorial adalah sebagai berikut :
+
+Yijk= µ + i + j + k + ()jk + ijk Dimana : Yijk= Data pengamatan pada blok Ke-I, faktor
+K pada taraf ke- j dan faktor M pada taraf ke- k µ= Efek nilai tengah i= Efek dari blok ke- i Nj= Efek dari perlakuan faktor K pada taraf kej Bk= Efek dari faktor M dan taraf ke- k (NB)jk= Efek interaksi faktor K pada taraf ke-j dan faktor M pada taraf ke- k ijk= Efek error pada blok-I, faktor K pada taraf ­ j dan faktor M pada taraf ke- k
+
+Persiapan Lahan dan Pengolahan Tanah Lahan yang digunakan terlebih dahulu
+diukur sesuai dengan luas areal yang dibutuhkan untuk penelitian, kemudian dilakukan pengolahan tanah sedalam lebih kurang 20 cm dan seterusnya digaru, kemudian dibersihkan dari semua kotoran. Setelah pengolahan tanah selesai lalu dibuat plot - plot percobaan, dimana panjang plot 4 meter dan lebar 2 meter. Jarak antar plot 50 cm dan jarak antar ulangan 100 cm yang juga berfungsi sebagai parit drainase dan jalan untuk pemeliharaan.
+
+Perkecambahan Sebelum dilakukan perkecambahan,
+terlebih dahulu dilakukan perenggangan kulit biji dengan menggunakan gunting kuku, pada bagian sisinya digunting. Biji yang telah direnggangkan direndam dalam larutan obat yang terdiri dari air hangat 1 liter, 1 sendok teh Atonik, 1 sendok teh fungisida Benlate, 0,5 sendok teh bakterisida Agrept 25 WP. Lama perendaman 10 sampai 30 menit. Setelah biji diangkat dan ditiriskan sampai air tidak mengalir lagi. Kemudian biji ­ biji tersebut dihamparkan secara merata di atas kertas koran yang telah dibasahi dengan larutan fungisida, dimana kertas koran basah diatur dalam wadah plastik merata pada dasar dan sisi wadah setebal 5 lapis kertas koran. Di atas hamparan biji dilapisi lagi dengan kertas koran 5 lapis. Kemudian wadah diselimuti dengan dengan handuk selapis yang telah basahi dengan air hangat. Setelah itu wadah di letakkan pada tempat yang bersih dan terlindung dari sinar matahari. Penyimpanan wadah dalam kotak
+
+diterangi dengan lampu pijar 10 watt. Perkecambahan lamanya 2 x 24 jam.
+Pembibitan Benih semangka yang telah berkecambah
+langsung disemaikan pada media semai di polybag. Media semainya terdiri dari topsoil, pupuk kandang dan curater. Media tersebut dicampur rata dan dimasukkan kedalam polybag (ukuran 7 cm x 11 cm), dan dibiarkan dahulu selama dua hari.
+Pemupukan Pupuk kandang diberikan sesudah tanah diolah atau 2 minggu sebelum tanam. Dosis pupuk yang diberikan sesuai dengan perlakuan. Sedangkan untuk pupuk buatan cara pemberiannya ditaburkan secara merata pada bedengan dengan cara membuat larikan di tengah bedengan. Pupuk yang dipakai adalah
+pupuk NPK. Pupuk ini diberikan tiga hari sebelum semaian ditanam dibedengan, setelah itu bedengan disiram dengan air secukupnya barulah bedengan ditutup dengan mulsa.
+Pemasangan Mulsa Mulsa yang digunakan dalam penelitian
+adalah mulsa cangkang telur. Setelah tanah digemburkan dan dibentuk bedengan sesuai dengan ukuran kebutuhan lalu pupuk kandang dan pupuk buatan diberikan dan ditutup dengan tanah secara merata lalu disiram oleh air. Kemudian mulsa cangkang telur yaitu cangkang telur dipukul kemudian ditaburkan ke bedengan.
+Penanaman Penanaman bibit dilakukan pada pagi dan
+sore hari. Bibit ditanam pada lubang tanam yang telah disediakan. Bibit dari semaian polybag diambil dan dimasukkan dalam lubang tanam. Celah-celah lubang tanam ditutup dengan tanah, kemudian disiram dengan air agar tanah dengan bibit menyatu.
+Pemeliharaan Penyiraman
+Penyiraman dilakukan sejak tanaman dipersemaian sampai tanaman akan dipanen. Penyiraman dilakukan setiap pagi dan sore hari. Penyiraman dihentikan lebih kurang dua minggu sebelum panen.
+Penyisipan Bila tanaman yang baru dipindahkan
+mengalami pertumbuhan yang abnormal, layu atau mati maka segera dilakukan penyisipan. Penyisipan dilakukan sampai tanaman berumur dua minggu setelah tanam.
+
+Agrium, Oktober 2010 Volume 16 No. 2
+
+Pemangkasan Pemangkasan batang dilakukan agar
+batang utama tumbuh sepanjang 40 ­ 60 cm. Adapun cabang lateran dipangkas agar buah tumbuh maksimal. Ditinggalkan batang utamanya.
+Seleksi Buah Seleksi buah dilakukan sebelum buah
+menjadi besar yaitu pada saat buah sebesar telur ayam. Buah yang dipelihara adalah buah yang pertumbuhan dan bentuknya baik. Untuk setiap cabang dipelihara hanya satu buah.
+Pengendalian Hama dan Penyakit Pengendalian hama dan penyakit dilakukan
+sejak pembibitan sampai tanaman akan dipanen. Pengendalian hama dan penyakit dilakukan dengan mengunakan insektisida lannate dan fungisida Benlate dan Dithane M-45. Penyemprotan dilakukan pagi atau sore hari, ini tergantung kebutuhan dan kondisi cuaca.
+Panen Penentuan saat panen penting artinya sebab berpengaruh langsung terhadap kualitas buah dan produksi. Buah yang akan dipanen mempunyai ciri-ciri tangkai buahnya telah mengering, salur-salurnya
+berubah warna dari hijau menjadi kecoklatan, kulit buah sudah tidak mengandung lapisan lilin. Bila buah ditepuk-tepuk dengan tangan mengandung lapisan lilin. Bila buah ditepuktepuk dengan dilakukan dengan tangan jika suaranya menggema sudah bisa dipanen, pemanenan dilakukan dengan menggunakan pisau yang tajam. Tangkai buah ikut dipotong agak panjang.
+Parameter yang Diukur Panjang Tanaman (cm)
+Panjang tanaman diukur mulai dari pangkal batang sampai titik tumbuh, interval waktu dua minggu sekali.
+Umur Mulai Berbunga (hari) Umur mulai berbunga dicatat pada saat
+bunga mulai keluar dari masing-masing tanaman sampel.
+Umur Panen (hari) Umur panen dicatat pada saat buah telah
+dipanen. Buah yang akan dipanen sesuai dengan kriteria panen. Produksi Buah Tanaman Sampel Perplot (kg)
+Buah pada tanaman sampel yang telah dipanen perplotnya ditimbang berat seluruhnya.
+Diameter Buah (cm)
+
+Diameter buah diukur dengan terlebih dahulu mengukur keliling lingkaran buah, lalu dihitung dengan rumus :
+Keliling lingkaran = 2  r
+r = Keliling lingkaran / 2 
+Dimana r adalah jari-jari Jadi Diameter buah = r x 2
+D. PEMBAHASAN Hasil Penelitian Panjang Tanaman (cm)
+Berdasarkan hasil analisis data pengamatan panjang tanaman pada pengamatan terakhir dapat diketahui bahwa pemberian pupuk kandang memberi pengaruh nyata dengan pola respon linier, sedangkan penggunaan mulsa memberi pengaruh sangat nyata. Sementara itu interaksi kedua perlakuan memberi pengaruh tidak nyata. Hasil analisis selengkapnya pengamatan panjang tanaman dapat dilihat pada lampiran 3. Tabel 1 adalah rataan panjang tanaman untuk masing-masing perlakuan beserta notasi hasil uji lanjutan menurut metode jarak berganda Duncan.
+Pada Tabel 1 dapat dilihat bahwa panjang tanaman tertinggi didapat pada K3 (199,97) yang berbeda sangat nyata dengan K1 (153,36), K0 (149,06) dan berbeda nyata dengan K2 (165,06). Sedangkan pada perlakuan mulsa, tanaman terpanjang diperoleh pada perlakuan mulsa yang berbeda sangat nyata dengan perlakuan kontrol (tanpa mulsa).
+Sesuai dengan pemilihan jumlah kuadrat rincian pada sidik ragam, maka dengan analisis regresi dan korelasi dapat diperoleh kurva respon atau hubungan antara panjang tanaman dengan pemberian pupuk kandang sebagaimana diperlihatkan pada Gambar 1.
+Pada Gambar 1 dapat dilihat bahwa pemberian pupuk kandang memiliki hubungan linier positif dengan panjang tanaman. Hal ini berarti bahwa semakin banyak pupuk kandang diberikan kepada tanaman, maka semakin besar pula panjang tanaman yang akan dihasilkan. Umur Mulai Berbunga (hari).
+Berdasarkan hasil analisis data pengamatan umur mulai berbunga dapat diketahui bahwa pemberian pupuk kandang memberi pengaruh tidak nyata, sedangkan penggunaan mulsa memberi pengaruh sangat nyata. Sementara itu interaksi kedua perlakuan memberi pengaruh tidak nyata.
+
+Agrium, Oktober 2010 Volume 16 No. 2
+
+Tabel 1. Rataan Panjang Tanaman (cm) Pengamatan Umur 4 MST pada Perlakuan Pupuk Kandang dan Mulsa serta Interaksi Kedua Perlakuan
+
+Perlakuan Pupuk Kandang (K)
+
+Mulsa (M)
+
+M0
+
+M1
+
+Rataan
+
+K0
+
+142.39
+
+155.72
+
+149.06 bB
+
+K1
+
+132.67
+
+174.05
+
+153.36 bB
+
+K2
+
+132.39
+
+197.72
+
+165.06 bAB
+
+K3
+
+185.33
+
+214.61
+
+199.97 aA
+
+Rataan
+
+148.20 bB
+
+185.53 aA
+
+Keterangan: Angka-angka yang diikuti oleh huruf yang tidak sama pada baris dan atau kolom yang sama, berbeda nyata (huruf kecil) dan berbeda sangat nyata (huruf besar) menurut uji Duncan.
+
+Panjang Tanaman (cm)
+
+250 200 150 100
+50 0 0
+
+y = 1 3 8 .2 + 3 4 .8 8 6 x r = 0.88 47
+
+0 ,5
+
+1
+
+1 ,5
+
+Dosis Pupuk Kandang (kg/tanaman)
+
+Gambar 1. Hubungan Panjang Tanaman dengan Pemberian Pupuk Kandang
+
+Tabel 1. Rataan Umur Mulai Berbunga (hari) pada Perlakuan Pupuk Kandang dan Mulsa serta Interaksi Kedua Perlakuan
+
+Perlakuan
+
+Pupuk Kandang (K)
+
+M0
+
+Mulsa (M) M1
+
+Rataan
+
+K0
+
+22.78
+
+20.44
+
+21.61
+
+K1
+
+23.11
+
+19.56
+
+21.33
+
+K2
+
+23.89
+
+18.89
+
+21.39
+
+K3
+
+21.33
+
+19.44
+
+20.39
+
+Rataan
+
+22.78 aA
+
+19.58 bB
+
+Keterangan: Angka-angka yang diikuti oleh huruf yang tidak sama pada baris dan atau kolom yang sama, berbeda nyata (huruf kecil) dan berbeda sangat nyata (huruf besar) menurut uji Duncan.
+
+Tabel 2. Rataan Umur Panen (hari) pada Perlakuan Pupuk Kandang dan Mulsa serta Interaksi Kedua Perlakuan
+
+Perlakuan Pupuk Kandang (K)
+
+Mulsa (M)
+
+M0
+
+M1
+
+Rataan
+
+K0
+
+70.89
+
+67.00
+
+68.94
+
+K1
+
+68.45
+
+68.11
+
+68.28
+
+K2
+
+68.78
+
+68.11
+
+68.44
+
+K3
+
+61.00
+
+67.56
+
+64.28
+
+Rataan
+
+67.28
+
+67.69
+
+Keterangan: Angka-angka yang diikuti oleh huruf yang tidak sama pada baris dan atau kolom yang sama, berbeda nyata (huruf kecil) dan berbeda sangat nyata (huruf besar) menurut uji Duncan.
+
+Agrium, Oktober 2010 Volume 16 No. 2
+
+Tabel 1. Rataan Produksi Buah Tanaman Sampel PerPlot (kg) pada Perlakuan Pupuk Kandang dan Mulsa serta Interaksi Kedua Perlakuan
+
+Perlakuan Pupuk Kandang (K)
+
+Mulsa (M)
+
+M0
+
+M1
+
+Rataan
+
+K0
+
+2.84
+
+2.67
+
+2.75bB
+
+K1
+
+3.77
+
+4.08
+
+3.92aA
+
+K2
+
+4.08
+
+3.87
+
+3.9aA
+
+K3
+
+4.27
+
+4.41
+
+4.3aA
+
+Rataan
+
+3.74
+
+3.76
+
+Keterangan: Angka-angka yang diikuti oleh huruf yang tidak sama pada baris dan atau kolom yang sama, berbeda nyata (huruf kecil) dan berbeda sangat nyata (huruf besar) menurut uji Duncan.
+
+Tabel 1. adalah rataan umur mulai berbunga untuk masing-masing perlakuan beserta notasi hasil uji lanjutan menurut metode jarak berganda Duncan.
+Pada Tabel 2 dapat dilihat bahwa umur mulai berbunga paling cepat didapat pada K3 (20,39) namun berbeda tidak nyata dengan seluruh taraf pemupukan, sedangkan pada perlakuan mulsa, umur mulai berbunga paling singkat diperoleh pada perlakuan mulsa M1 (19,58) yang berbeda sangat nyata dengan perlakuan kontrol (tanpa mulsa) M0 (22,78).
+Umur Panen (hari) Berdasarkan hasil analisis data pengamatan
+umur panen tanaman dapat diketahui bahwa pemberian pupuk kandang, penggunaan mulsa dan interaksi kedua perlakuan memberi pengaruh yang tidak nyata.
+Tabel berikut adalah rataan umur panen untuk masing-masing perlakuan beserta notasi hasil uji lanjutan menurut metode jarak berganda Duncan.
+Pada Tabel 3 dapat dilihat bahwa panjang tanaman tertinggi didapat pada K3 (64,28) namun berbeda tidak nyata dengan seluruh taraf perlakuan pemupukan. Seperti halnya perlakuan pemupukan, penggunaan mulsa juga tidak memberikan perbedaan yang nyata terhadap umur pemanenan tanaman. Pada kombinasi perlakuan, diperoleh umur paling panen singkat pada kombinasi K3M0 (61,00) yang berbeda sangat nyata hanya dengan K0M0 (70,89) dan berbeda tidak nyata dengan seluruh taraf kombinasi perlakuan lainnya.
+
+bahwa pemberian pupuk kandang memberi pengaruh sangat nyata dengan pola respon linier, sedangkan penggunaan mulsa memberi pengaruh tidak nyata. Sementara itu interaksi kedua perlakuan juga memberi pengaruh tidak nyata.
+Tabel 4 adalah rataan produksi buah per tanaman untuk masing-masing perlakuan beserta notasi hasil uji lanjutan menurut metode jarak berganda Duncan.
+Pada Tabel 4 dapat dilihat bahwa produksi tanaman tertinggi didapat pada K3 (4,34) yang berbeda sangat nyata dengan K0 (2,75), namun berbeda tidak nyata dengan perlakuan lainnya. Sedangkan pada perlakuan mulsa, produksi tertinggi juga diperoleh pada M1 (3,76) namun berbeda tidak nyata dengan M0 (3,74). Dari kombinasi perlakuan diperoleh produksi tertinggi pada K3M1 (4,41) berbeda sangat nyata dengan K0M0 (2,84) dan K0M1 (2,67), namun bebeda tidak nyata dengan tarak kombinasi perlakuan lainnya.
+Sesuai dengan pemilahan jumlah kuadrat rincian pada sidik regam, maka dengan analisis regresi dan korelasi dapat diperoleh kurva respon atau hubungan antara produksi buah per tanaman dengan pemberian pupuk kandang sebagaimana diperlihatkan pada Gambar 2 berikut dibawah ini.
+Pada Gambar 2 dapat dilihat bahwa produksi buah per tanaman memiliki hubungan linier positif dengan pemberian pupuk kandang. Hal ini berarti bahwa semakin banyak pupuk kandang diberikan kepada tanaman, maka semakin tinggi pula produksi buah yang dapat dihasilkan oleh tanaman.
+
+Produksi Buah Tanaman Sampel PerPlot(kg) Berdasarkan hasil analisis data pengamatan
+produksi per tanaman pada dapat diketahui
+
+Diameter Buah (cm) Berdasarkan hasil analisis data pengamatan
+diameter buah dapat diketahui bahwa pemberian
+
+Agrium, Oktober 2010 Volume 16 No. 2
+
+pupuk kandang, penggunaan mulsa dan interaksi kedua perlakuan memberi pengaruh yang tidak nyata.
+Tabel berikut adalah rataan diameter buah untuk masing-masing perlakuan beserta notasi hasil
+
+uji lanjutan menurut metode jarak berganda Duncan. Pada Tabel 5 dapat dilihat bahwa diameter buah tertinggi didapat pada K2 (16,47) yang berbeda sangat nyata dengan K0 (14,43), namun berbeda
+
+Produksi Tanaman Sampel Perplot (kg)
+
+5
+
+4
+
+3
+
+2
+
+y = 3.022 + 0.964x
+
+r = 0.9027 1
+
+0
+
+0
+
+0.5
+
+1
+
+1.5
+
+Dosis Pupuk Kandang (kg/tanaman)
+Gambar 2. Hubungan produksi buah per tanaman dengan pemberian pupuk kandang Tabel 2. Rataan Diameter Buah (cm) pada Perlakuan Pupuk Kandang dan Mulsa serta Interaksi Kedua Perlakuan
+
+Perlakuan Pupuk Kandang (K)
+
+Mulsa (M)
+
+M0
+
+M1
+
+Rataan
+
+K0
+
+15.03
+
+13.82
+
+14.43
+
+K1
+
+16.05
+
+16.04
+
+16.05
+
+K2
+
+16.33
+
+16.61
+
+16.47
+
+K3
+
+14.71
+
+16.45
+
+15.58
+
+Rataan
+
+15.53
+
+15.73
+
+Keterangan: Angka-angka yang diikuti oleh huruf yang tidak sama pada baris dan atau kolom yang sama, berbeda nyata (huruf kecil) dan berbeda sangat nyata (huruf besar) menurut uji Duncan.
+
+tidak nyata dengan taraf perlakuan pupuk lainnya.
+Sedangkan pada perlakuan mulsa, tanaman terpanjang diperoleh pada perlakuan mulsa yang berbeda tidak nyata dengan perlakuan kontrol (tanpa mulsa). Dari kombinasi perlakuan, diperoleh tanaman terpanjang pada kombinasi K2M1 (16,61) namun berbeda tidak nyata dengan seluruh taraf kombinasi perlakuan lainnya.
+Pembahasan
+
+Pengaruh Pemberian Pupuk Kandang Terhadap Pertumbuhan dan Produksi Semangka
+Berdasarkan hasil penelitian diketahui bahwa pemberian pupuk kandang memberi pengaruh nyata terhadap parameter panjang tanaman dan produksi buah tanaman sampel perplot, namun memberi pengaruh tidak nyata terhadap parameter lain seperti umur mulai berbunga, umur panen tanaman, dan diameter buah. Pengaruh tidak nyata pemberian pupuk kandang terhadap tiga parameter terakhir diduga
+
+Agrium, Oktober 2010 Volume 16 No. 2
+
+karena rentang waktu aplikasi dengan masa penanaman bibit terlalu singkat yakni 2 (dua) minggu sebelum penanaman.
+Sebagaimana kita ketahui, karakteristik dari pupuk-pupuk dari jenis bahan organik seperti pupuk kandang umumnya membutuhkan waktu yang relatif lebih lama untuk dapat diurai dan diubah menjadi dalam keadaan tersedia sehingga dapat diserap dan dimanfaatkan oleh tanaman. Kenyataan tersebut membuat ketersediaan unsur hara yang semulanya dapat dipasok dari pemupukan ini malah justru tidak dapat dimanfaatkan secara optimal, sebab pada saat tanaman sedang membutuhkan zat hara untuk pertumbuhan vegetatifnya, justru pupuk yang diberikan pada tanaman masih berada dalam kondisi tak tersedia. Sehingga aplikasi pupuk kandang secara umum, sesuai dengan data pengamatan dilapangan tidak memberikan hasil yang cukup berarti.
+Pupuk organik adalah pupuk yang biasanya diberikan kepada tanaman dengan tujuan untuk memperbaiki sifat fisik tanah, baik dari tekstur maupun strukturnya, sehingga dapat mempermudahkan proses perkembangan perakaran tanaman, yang pada gilirannya dapat berpengaruh positif terhadap laju pertumbuhan tanaman. Disamping hal itu, pupuk organik biasanya juga dilengkapi dengan hara mikro dalam jumlah yang relatif sedikit, namun penting (esensial) untuk pertumbuhan tanaman, sehingga sedikit banyak pemupukan dengan bahan organik (seperti pupuk kandang) dapat memberikan efek terhadap pertumbuhan dan produksi tanaman yang cukup baik, jika diberikan dengan cara dan waktu yang tepat.
+Untuk mendapatkan kuantitas dan kualitas buah yang tinggi, tanaman semangka menghendaki tanah yang subur, gembur dan kaya akan bahan organik3 hal ini dapat diatasi dengan pemberian pupuk kandang, karena pupuk kandang dapat memperbaiki struktur tanah, menaikkan kondisi kehidupan di dalam tanah, sebagian sumber zat makanan bagi tanaman dan juga pupuk kandang dapat merubah berbagai faktor dalam tanah menjadi faktor ­faktor yang menjamin kesuburan tanah.6 Pemberian pupuk kandang untuk tanaman semangka adalah 1,5 kg/tanaman, ini sesuai dengan penelitian pengamatan produksi buah per tanaman yaitu K3 (1,5 kg/tanaman).3
+Untuk parameter umur panen tidak berbeda nyata terhadap pupuk kandang dikarenakan bunga yang telah diserbuki tidak terjadi buah, hal ini juga dipengaruhi oleh faktor genetis dan
+
+lingkungan. Hal ini didukung oleh pendapat Hakim, dkk (1986)14 bahwa tanaman itu pada hakekatnya merupakan produk genetik dan lingkungan.
+Pengaruh Penggunaan Mulsa Cangkang Telur Terhadap Pertumbuhan dan Produksi Semangka
+Hasil penelitian menunjukkan penggunaan mulsa memberikan pengaruh yang sangat nyata terhadap panjang tanaman dan umur mulai berbunga, dimana secara sangat nyata penggunaan mulsa cangkang telur memberikan hasil tertinggi untuk panjang tanaman dan waktu paling sedikit untuk fase pembungaan tanaman.
+Kondisi ini menurut asumsi penulis adalah disebabkan oleh karena adanya perbedaan suhu didalam sistem perakaran tanaman, sehingga pada tanaman yang diberikan perlakuan mulsa memiliki aktivitas penyerapan hara yang lebih baik. Hal lain yang mungkin juga memberikan pengaruh adalah kandungan bahan organik yang dimiliki oleh mulsa. Sehingga selain mempengaruhi suhu perakaran tanaman, mulsa juga sekaligus memberikan nutrisi bagi pertumbuhan dan perkembangan tanaman. Menurut Hakim dkk,(1986)14, bahwa pengaruh penutup tanah adalah mengabsorbsi sebagian besar radiasi matahari, mereduksi kehilangan proses dari tanah oleh radiasi, mereduksi evaporasi air dari permukaan tanah sehingga penutup tanah adalah salah satu faktor yang dapat mempengaruhi suhu tanah.
+Adanya respon mulsa disebabkan karena pengunaan mulsa efektif sekali untuk menahan penguapan dan menghindari tumbuhnya tanaman pengganggu (Buckman dan Brady, 1982).13
+Kebaikan penggunaan mulsa antara lain suhu tanah lebih rendah, cadangan air tanah lebih besar, masalah gulma lebih sedikit dan kerusakan struktur tanah akibat pukulan air hujan berkurang.
+Pengaruh Interaksi Pemberian Pupuk Kandang dengan Penggunaan Mulsa Cangkang Telur Terhadap Pertumbuhan dan Produksi Semangka
+Berdasarkan hasil pengamatan parameter penelitian dapat diketahui bahwa seluruh peubah yang diamati dalam penelitian memberi respon tidak nyata terhadap interaksi kedua perlakuan.
+
+Agrium, Oktober 2010 Volume 16 No. 2
+
+Keadaan ini penulis duga disebabkan oleh terlalu pendeknya selang aplikasi pupuk kandang dengan masa penanaman dan karena fungsi yang dimiliki oleh masing-masing perlakuan dalam memberikan pengaruhnya pada tanaman dapat dikatakan relatif sama (samasama menyediakan bahan organik bagi pertumbuhan tanaman). Interaksi antara dua perlakuan atau lebih dapat terjadi jika naiknya satu faktor turut ditentukan oleh naik atau turunnya faktor lain. Dalam bahasa ilmiah dikatakan kedua faktor tersebut memiliki korelasi yang tinggi. Sedangkan korelasi yang tinggi ini hanya akan didapatkan jika ada hubungan sebab akibat antara kedua faktor dalam memberikan pengaruhnya terhadap peubah yang diamati pada tanaman. Jika digambarkan dalam sebuah kurva respon maka kedua perlakuan memiliki arah hubungan yang sama antara kedua perlakuan yang diteliti.
+Tidak adanya keseimbangan antara kedua perlakuan tersebut karena pertumbuhan tanaman tidak hanya dipengaruhi oleh faktor internal (hormon dan nutrisi) saja melainkan saling berkaitan dengan banyak faktor lainnya, diantaranya adalah status air dalam jaringan tanaman, suhu udara pada areal tanaman, keadaan tanah dan intesitas cahaya matahari. 15
+E. KESIMPULAN 1. Pemberian pupuk kandang memberi
+pengaruh sangat nyata terhadap produksi buah semangka per tanaman, berpengaruh nyata terhadap panjang tanaman, namun berbepengaruh tidak nyata terhadap umur mulai berbunga, umur panen dan diameter buah. 2. Penggunaan mulsa cangkang telur memberi pengaruh sangat nyata terhadap panjang tanaman dan umur mulai berbunga, namun memberi pengaruh tidak nyata terhadap umur panen, produksi buah per tanaman serta diameter buah. 3. Interaksi pemberian pupuk kandang dengan penggunaan mulsa cangkang telur memberi pengaruh yang tidak nyata terhadap seluruh parameter yang diamati dalam penelitian.
+F. DAFTAR PUSTAKA
+
+1. Kalie, M. B. 1993. Bertanam Semangka. Penebar Swadaya. Jakarta.
+
+2. Suprapto dan Jaya , N.A. 2000. Laporan Akhir Penelitian SUT Diversivikasikan Lahan Marginal di Kecamatan Gerokgak, Buleleng.
+
+3. Jumin, B. 1994. Dasar-Dasar Agronomi. Rajawali Press. Jakarta.
+
+4. Rukmana, R. 1994. Budidaya Semangka Hibrida. Kanasius Yogyakarta.
+
+5. Hakim, N, M. Y.Nyakpa, A. M.Lubis, S.G. Nugroho, M.R. Saul, M.A. Diha, Goban Ban Hong dan H. H. Bailay. 1986. DasarDasar Ilmu Tanah.Universitas Lampung.
+
+6. Sutejo, M.M. 1992. Pupuk dan Pemupukan. Reneka Cipta. Jakara.
+
+7. Irawan,
+
+B.
+
+2007.
+
+www.energiterbarukan.net/index.(diakses
+
+21 April 2009).
+
+8. Rismunandar. 1993. Membudidayakan Tanaman Buah-Buahan. Sinar Baru. Bandung.
+
+9. Wihardjo, S. F. A. 1995. Bertanam semangka. Kanius. Yogyakarta.
+
+10. Nazaruddin. 1994. Buah Komersil. Penebar swadaya. Jakarta.
+
+11. Prajnata, F. 1996. Agribisnis Semangka Non Biji. Penebar swadaya. Jakarta.
+
+12. Kalie, M. B. 1994. Bertanam Semangka. Penebar Swadaya. Jakarta.
+
+13. Buckman, HO dan Brady, NC. 1982. Ilmu Tanah. Bhatara Karya Aksara. Jakarta.
+
+14. Hakim, N, M. Y.Nyakpa, A. M.Lubis, S.G. Nugroho, M.R. Saul, M.A. Diha, Goban Ban Hong dan H. H. Bailay. 1986. DasarDasar Ilmu Tanah.Universitas Lampung.
+
+15. Sutejo dan Kartasapoetra. 1990. Teknik Budidaya Tanaman Pengandi Daerah Tropik. Bina Aksara. Jakarta.
+
+Agrium, Oktober 2010 Volume 16 No. 2
+
+PENGARUH PENGGUNAAN FAKTOR PRODUKSI DAN TINGKAT KELAYAKAN USAHATANI JAMUR TIRAM PUTIH
+Sasmita Siregar Jurusan Agrobinis Fakultas Pertanian Universitas Muhammadiyah Sumatera Utara
+Email: mitharegar@yahoo.com
+
+Abstract
+
+The study analyzes the feasibility of white oyster mushroom farming has been conducted to determine the effect of production factors labor, seeds, raw materials and additional materials to the farmers' income level and eligibility white oyster mushroom farming. Results of hypothesis testing with multiple linear regression R-square values obtained 0.93 which indicates that there are smultan real influence among labor, seeds, raw materials and additives to the white oyster mushroom farmers' income by 93%. Partially known that the only variable that had significant seed ith value t calculate equal to 6.53-> 2.13 t-table with a level of 95% ( 0.05).
+
+Keywords: factors of production, income, white oyster mushrooms, farm
+
+Abstrak
+
+Penelitian analisis kelayakan usahatani jamur tiram putih telah dilakukan untuk mengetahui pengaruh penggunaan faktor produksi tenaga kerja, bibit, bahan baku dan bahan tambahan terhadap tingkat pendapatan petani jamur tiram putih serta kelayakan usahataninya. Hasil pengujian hipotesis dengan regresi linier berganda diperoleh nilai R-square 0,93 yang mengindikasikan bahwa secara smultan ada pengaruh nyata antara tenaga kerja, bibit, bahan baku dan bahan tambahan terhadap pendapatan petani jamur tiram putih sebesar 93%. Secara parsial diketahui bahwa hanya variable bibit yang berpengaruh nyata engan nilai t-hitung sebesar 6,53 >2,13 t-tabel dengan taraf kepercayaan 95% ( 0,05).
+
+Kata kunci: factor produksi, pendapatan, jamur tiram putih, usahatani.
+
+A. PENDAHULUAN
+Jamur tiram merupakan jenis jamur kayu yang tumbuh secara alami di batang-batang kayu di hutan. Pada tahun 1935 upaya pembudidayaannya disebarluaskan. Disebut jamur tiram (Oyster mushrooms) karena bentuk tudungnya agak membulat, lonjong dan melengkung seperti cangkang tiram, tangkainya tidak tepat berada dibawah tudung.
+Jamur tiram merupakan jenis jamur kayu, sangat enak dimakan serta mempunyai kandungan nutrisi protein (5,94%), lemak(0,17%), fosfor(0,15mg), besi(1,9mg) Suharjo, 2007, thiamin, dan riboflavin lebih tinggi dibandingkan dengan jenis jamur lain. Jamur tiram mengandung 18 macam asam amino yang dibutuhkan oleh tubuh manusia dan tidak mengandung kolesterol. Macam asam amino yang terkandung dalam jamur tiram adalah isoleusin, lysin, methionin, cystein, penylalanin, tyrosin, treonin, tryptopan, valin,
+
+arginin, histidin, alanin, asam aspartat, asam glutamat, glysin, prolin, dan serin (Djarijah dan Djarijah, 2001). Karena itulah, tidak mengherankan bila jenis jamur ini banyak dibudidayakan.1
+Suatu hal yang sering diperlukan oleh sesorang yang tertarik untuk membuka usaha adalah informasi mengenai analisis usahanya. Dari perhitungan analisis usaha dapat diketahui gambaran secara garis besar tentang modal yang dibutuhkan dan keuntungan yang dapat diperoleh. Perencanaan merupakan kegiatan awal sehingga kegiatan ini perlu dilakukan secara matang. Perencanaan merupakan kegiatan yang sangat penting karena erat hubungannya dengan tujuan. Tujuan budidaya dapat bersifat komersial, pendidikan, atau hanya sekedar hobi. Dari ketiga tujuan tersebut pada dasarnya adalah mengambil manfaat dari proses kegiatan secara optimal. Tujuan secara komersial mengarah pada keuntungan secara material; tujuan pendidikan mengarah pada
+
+Agrium, Oktober 2010 Volume 16 No. 2
+
+budidaya sebagai suatu sarana pendidikan sehingga yang dituju bukan keuntungan secara material; tujuan hobi adalah tujuan budidaya yang hanya kesenangan belaka. Faktor yang sangat penting dalam perencanaan usaha budidaya jamur tiram adalah adanya data dan informasi faktor-faktor produksi yang tepat. Faktor-faktor produksi yang perlu diperhatikan didalam budidaya jamur tiram antara lain kumbung, modal dan tenaga kerja.1
+Belum optimalnya tingkat produksi jamur disebabkan oleh teknologi belum menggunakan parameter produksi secara maksimal. Langkah penting dalam melakukan agribisnis jamur bahwa teknologi yang harus diterapkan meliputi: penggunaan bibit yang berkualitas, penggunaan media yang sesuai dengan kebutuhan dan penggunaan tenaga (SDM) yang terampil. Penerapan teknologi yang tepat, berarti pula dapat mengefisienkan parameter itu sehingga menghasilkan produksi tinggi dengan keuntungan yang maksimal.2
+Untuk membiayai budidaya jamur tiram dari hari ke hari seperti modal awal pada pembelian bahan baku atau barang dagangan, membayar upah buruh, dan biaya-biaya lainnya, setiap perajin/petani perlu menyediakan modal kerja. Untuk modal investasi berarti pembelian (dan berarti juga produksi) dari capital/modal barang-barang yang tidak di konsumsi tetapi digunakan untuk produksi yang akan datang(barang produksi).3
+Untuk menunjang produksi budidaya jamur tiram diperlukan tempat berlangsungnya produksi pembudidayaan, dalam hal ini luasnya ukuran kumbung(rumah jamur) sangat berpengaruh pada jumlah poly bag yang akan ditanam. Semakin luas kumbung(rumah jamur) yang dibuat maka akan semakin banyak poly bag yang akan ditanam dan sebaliknya jika luas kumbung(rumah jamur) lebih kecil maka jumlah poly bag yang akan ditanam akan sedikit. Hal ini berpengaruh kepada jumlah hasil produksi yang akan dibuat dan juga berpengaruh terhadap jumlah tenaga kerja.4
+Konsep tenaga kerja dapat dilihat dari dua dimensi yaitu dimensi individu dan dimensi organisasian. Dimensi individu melihat produktivitas kerja dalam kaitannya dengan karekteristik-karekteristik kepribadian individu yang muncul dalam bentuk sikap mental dan mengandung makna keinginan dan upaya
+
+individu yang selalu berusaha untuk meningkatkan kualitas kehidupannya. Sedangkan dimensi keorganisasian melihat produktivitas kerja dalam kerangka hubungan tekhnis antara masukan (input) dan keluaran (out put). Oleh karena itu dalam pandangan ini, terjadinya peningkatan produktivitas kerja tidak hanya dilihat dari aspek kuantitas, tetapi juga dilihat dari aspek kualitas.5
+Yang dimaksud dengan harga pokok adalah jumlah biaya seharusnya untuk memproduksikan suatu barang ditambah biaya seharusnya lainnya hingga barang itu berada di pasar. Bila suatu hasil produksi dibawa ke pasar, maka ongkos produksi sebagai dasar utama dalam penentuan harga penjualan. Harga barang yang sama atau hampir bersamaan hanya memegang faktor tambahan dalam penentuan harga penjualan sesuatu barang. Dapat dikatakan bahwa faktor yang menentukan harga penjualan sesuatu barang adalah ongkos produksi dari barang yang bersangkutan.6
+Dalam pengelolaan pembiayaan perlu dipertimbangkan aspek efisiensi usaha yang dapat dicapai apabila : biaya pemasaran bisa ditekan sehingga ada keuntungan, persentase pembedaan harga yang dibayarkan konsumen dan produsen tidak terlalu tinggi, dan tersedianya fasilitas fisik pemasaran. Konsep dasar pendapatan yang diungkapkan oleh Patton dan Littleton dinamakan sebagai produk perusahaan yang menekankan bahwa pendapatan merupakan arus yaitu penciptaan barang dan jasa oleh perusahaan.
+Studi kelayakan pada hakekatnya adalah suatu metode penjajakan dari suatu gagasan usaha tentang kemungkinan layak atau tidaknya gagasan usaha tersebut dilaksanakan. Maksud diadakannya studi kelayakan adalah untuk menganalisa terhadap suatu proyek tertentu, baik proyek yang akan dilaksanakan, sedang dan selesai dilaksanakan untuk bahan perbaikan dan penilaian pelaksanaan proyek tersebut.7
+Berdasarkan uraian diatas, penulis tertarik untuk melakukan penelitian untuk mengetahui kelayakan analisis usaha budidaya jamur tiram putih, Pleurotus ostreatus.
+B. TINJAUAN PUSTAKA
+Modal adalah barang atau uang, yang bersamasama faktor produksi tanah dan tenaga kerja
+
+Agrium, Oktober 2010 Volume 16 No. 2
+
+menghasilkan barang-barang baru. Dalam artian yang lebih luas, dan dalam tradisi pandangan ekonomi pada umumnya, modal mengacu kepada asset yang dimiliki seseorang sebagai kekayaan (wealth) yang tidak segera dikonsumsi melainkan, atau disimpan ("saving" adalah "potential capital"), atau dipakai untuk menghasilkan barang/jasa baru (investasi). Dengan demikian, modal dapat berwujud barang dan uang. Tetapi, tidak setiap jumlah uang dapat disebut modal.
+Sejumlah uang itu menjadi modal kalau ia ditanam atau diinvestasikan untuk menjamin adanya suatu "kembalian" (rate of return). Dalam arti ini modal juga mengacu kepada investasi itu sendiri yang dapat berupa alat-alat finansial seperti deposito, stok barang, ataupun surat saham yang mencerminkan hak atas sarana produksi, atau dapat pula berupa sarana produksi fisik. Kembalian itu dapat berupa pembayaran bunga, ataupun klaim atas suatu keuntungan.
+Modal yang berupa barang (capital goods), mencakup "durable (fixed) capital" dalam bentuk bangunan pabrik, mesin-mesin, peralatan transportasi, kemudahan distribusi, dan barang-barang lainnya yang dipergunakan untuk memproduksi barang/jasa baru; dan "nodurable" (circulating) capital, dalam bentuk barang jadi ataupun setengah jadi yang berada dalam proses untuk diolah menjadi barang jadi. Terdapat pula adanya penggunaan istilah "capital" untuk mengacu kepada arti yang lebih khusus, misalnya "social capital" dan "human capital".
+Tenaga kerja adalah bagian dari angkatan kerja yang berfungsi dan ikut serta dalam proses produksi serta menghasilkan barang atau jasa. Oleh karena itu tenaga kerja merupakan faktor penting dalam produksi budidaya jamur tiram, hal ini disebabkan oleh dua hal, antara lain; pertama, karena besarnya biaya yang dikorbankan untuk tenaga kerja sebagai bagian dari biaya yang terbesar untuk pengadaan produk atau jasa; kedua, karena masukan pada faktor-faktor lain seperti modal. Pengertian ini mengisaratkan bahwa keberadaanya pada proses produksi budidaya jamur tiram tidak dapat diabaikan begitu saja. Sebab, akan terkait langsung dengan pencapaian tujuan usaha budidaya jamur tiram tersebut.5
+
+Pengertian efisiensi adalah perbandingan yang terbaik antara input (masukan) dan out put (hasil antara keuntungan dengan sumber-sumber yang dipergunakan), seperti halnya juga hasil optimal yang dicapai dengan penggunaan sumber yang terbatas. Dengan kata lain hubungan antara apa yang telah diselesaikan.6
+Untuk menghasilkan jamur yang berkualitas, maka cara budidaya yang dipilih pun berbeda. Umumnya petani melakukan spawning dengan membuka plastik di bagian atasnya. Namun ada petani yang melakukan pelubangan di salah satu sisi media. Media tersebut juga tidak diletakkan dengan posisi tegak, melainkan ditidurkan atau miring. Pada salah satu sisi yang menghadap ke atas ditusuk dengan paku yang berdiameter 6 mm. Jumlah lubang berkisar 6-9 lubang tergantung pada media yang
+digunakan. Pelubangan disusun dalam 3 lajur. Masing-masing lajur ditata berbaris. Dari lubang tersebut akan tumbuh tubuh jamur. Dikarenakan tempatnya yang terbatas, maka batang jamur pendek sekali, ukuran buah juga relatif seragam. Keunggulan lainnya adalah tidak terjadi pengaratan akar. Hasilnya, saat panen pekebun tidak perlu susah payah memetiknya. Cara penusukan juga menghemat penggunaan air. Jika umumnya pekebun harus sering menyiram, untuk media cara penusukan tidak dibutuhkan banyak air. Kelemahan cara ini adalah masa spawning yang dibutuhkan lebih lama. Jika umumnya panen 30 hari, dengan cara tusuk bisa mencapai 5 hari lebih lama. Setelah itu, panen berikutnya sama dengan cara biasa.
+Pada saat sekarang mulai luas digunakan serbuk gergajian, yaitu sisa dan buangan dari industri pengolahan kayu yang biasanya terbuang. Serpihan dan serbuk kayu kemudian dicampurkan dengan bahan-bahan lain, umumnya bahan tambahan berbentuk senyawa kimia. Maksud penambahan bahan campuran ini adalah untuk meningkatkan sumber nutrisi yang dibutuhkan oleh jamur sehingga pertumbuhan dan perkembangannya lebih baik dan hasil yang didapatkan lebih tinggi, baik kualitas maupun kuantitasnya.8
+Pemilihan cara panen ini dapat dilihat dari tujuan yang diharapkan apakah sekedar penelitian atau hobi saja atau memiliki tujuan komersil. Kalau permintaan cukup besar, maka perlu dilakukan penyusunan jadwal pembukaan
+
+Agrium, Oktober 2010 Volume 16 No. 2
+
+dan persediaan media tanam. Hasil produksi satu media tanam (log) minimal mencapai 30% dari berat media tanam selama masa panen.9
+Budidaya jamur tiram mempunyai prospek ekonomis yang cukup baik mengingat bahan dasar yang dibutuhkan cukup tersedia di berbagai daerah dengan harga yang relatip murah. Bahkan, di beberapa daerah penghasil kayu, limbah kayu tidak berharga sama sekali. Di samping itu, potensi pasar jamur tiram masih sangat terbuka, apalagi jamur tiram baru memulai memasyarakat di kalangan konsumen menengah ke atas.1
+Pemilihan lokasi untuk kepentingan budidaya jamur tiram didasarkan pada sifat-sifat hidup jamur, kelembaban dan temperatur. Disamping itu, pemilihan lokasi lahan ini juga didasarkan pada ketersedian sarana produksi, seperti bahan baku media dan air, serta pemasarannya. Luas lahan yang diinginkan tergantung dari tujuan yang ingin dicapai. Semakin luas lahan maka semakin banyak bangunan dapat didirikan sehingga jumlah produksi dapat lebih tinggi. Apabila tujuan budidaya adalah untuk tujuan komersial maka harus dipatuhi prinsip kualitas, kuantitas dan kontuinitas. Ketiga prinsip tersebut saling terkait. Apabila salah satu dari faktor tersebut tidak dapat dipenuhi maka konsumen atau pasar akan beralih ke produsen yang mempunyai ketiga faktor di atas. Dengan mengacu pada tujuan dan prinsip usaha tersebut maka kebutuhan luas lahan dapat disesuaikan.1
+Modal yang dibutuhkan dalam budidaya jamur tiram terdiri dari modal tetap (investasi) dan modal kerja. Modal investasi diperlukan untuk membuat bangunan tempat budidaya dan membeli peralatan
+produksi. Sementara itu, modal kerja diperlukan untuk penyediaan bahan baku dan bahan tambahan, membayar tenaga kerja, biaya pemasaran, dan penyusutan modal investasi. Banyaknya investasi ditentukan oleh ukuran skala produksi yang direncanakan. Besarnya modal kerja sebaiknya tiga kali biaya produksi pada kapasitas yang direncanakan. Hal ini berkaitan dengan perputaran modal yang terjadi pada tiga kali siklus produksi.1
+Sebagai modal awal untuk usaha jamur tiram setidaknya diperlukan biaya lahan, biaya membangun kumbung, ongkos pembuatan
+
+media dan juga tungku sterilisasi. Jika menyimpan 5.000 baglog dibutuhkan kumbung 35m2. Biaya tersebut juga ditambah dengan biaya pembuatan rak yang mencapai sekitar 30.000 per m2. Bagi yang ingin mengurangi risiko di bagian biaya modal ini, bisa memilih jalan menyewa kumbung. Dengan jalan ini biaya modal awal bisa diperhemat.10
+Tenaga kerja pada usaha budidaya jamur dengan skala produksi cukup besar terdiri dari tenaga tetap dan tenaga borongan. Tenaga tetap diperlukan untuk pekerjaan-pekerjaan yang menuntut kemampuan khusus, misalnya pemeliharaan, inokulasi dan penangkaran bibit. Tenaga tetap harus diberi bekal kemampuan khusus yang dituntut dalam tugasnya. Sementara itu, tenaga borongan diperlukan untuk kerjaan yang mudah, seperti membungkus, mencampur dan memanen.1
+Dalam budidaya jamur tiram, maka faktor penentuan harga jual produk menjadi penting untuk diperhatikan. Berapa harga yang harus ditentukan agar kita tidak rugi. Berapa persentase tiap komponen yang perlu diperhitungkan agar layak tidaknya usaha kita dapat diperkirakan. Disini akan dicoba dipaparkan secara sederhana perhitungan biaya produksi dengan contoh rupiah dan persentase. Contoh rupiah untuk memudahkan. Namun karena harga bahan baku ataupun yang lain serta harga pasar berfluktuasi maka angka persen diharapkan akan mempermudah perhitungan. Angka-angka yang ada akan mudah dikembangkan jika diolah dengan worksheet seperti excel dsb. Komponen yang dilibatkan juga dapat ditambah, persentase dapat diubah dan sebagainya sesuai kondisi yang ada.
+Berdasar hitungan yang dilakukan oleh usaha yang sedang dijalankan, perajin/petani dapat mengambil untung sebesar (60 %), biaya produksi ditingkat petani dihitung berdasarkan biaya tidak tetap(82,20%) dari total biaya produksi dan biaya tetap 13,70%. Biaya tidak tetap mencakup: jerami, bekatul, kapur, pembibitan, polibag, pupuk, kompos dan sebagainya yang umum digunakan. Biaya tetap mencakup depresiasi alat dan kumbung serta tenaga kerja. Tenaga kerja dapat dihitung sebagai biaya tetap atau tidak tetap tergantung pelaksanaan di tempat usaha. Pada industri kecil sering masuk biaya tidak tetap karena mereka
+
+Agrium, Oktober 2010 Volume 16 No. 2
+
+bekerja sesuai pekerjaan saat proses produksi yang dibayar harian.11
+Salah satu hambatan pengembangan maupun peningkatan produksi agribisnis jamur edible disebabkan oleh teknologi yang belum menggunakan faktor-faktor produksi yang telah diuraikan di atas secara maksimal. Dengan penerapan teknologi yang tepat (efesiensi faktor produksi) akan menghasilkan produksi tinggi serta memperoleh keuntungan secara maksimal. Disatu pihak dalam usaha meningkatkan
+
+hasil produksi para petani kebanyakan masih
+
+terbentur kepada modal.
+
+Akibatnya
+
+keterbatasan modal sangat mempengaruhi faktor
+
+produksi. Lebih-lebih keterbatasan modal
+
+disertai dengan teknologi budidaya jamur yang
+
+masih rendah sehingga akan menjadi ganjalan
+
+bagi petani, akibatnya hasil produksi akan
+
+kurang maksimal. Sudah tentu keuntungan pun akan sulit dicapai.2
+
+Dalam mengelola kegiatan usaha berbagai jenis jamur, para pelaku usaha harus membuat rencana tentang jumlah produksi dan mengkombinasikan parameter produksi yang digunakan. Apabila parameter produksi diterapkan dalam proses produksi jamur seefesien mungkin, maka akan menghasilkan suatu out put yang maksimal.2
+
+Dari hasil penelitian diperoleh bahwa untuk mengetahui perusahaan tersebut layak diusahakan dengan menggunakan hasil perhitungan R/C ratio. Dari hasil perhitungan didapat R/C ratio sebesar 1,45 yang artinya setiap investasi yang ditanamkan atau biaya produksi (TC), maka akan diperolah revenue atau penerimaan sebesar 1,03 kali dari nilai investasi yang ditanamkan. Sehingga usaha tersebut layak untuk diusahakan. Hal ini terjadi karena dalam usaha budidaya jamur tersebut menghasilkan biaya penerimaan yang lebih besar dari biaya produksinya sehingga didaerah penelitian tersebut mendapatkan keuntungan hasil yang besar.7
+
+C. METODE PENELITIAN
+Metode Penelitian
+Metode penelitian ini menggunakan studi kasus (Case Study) yaitu metode yang didasarkan pada kajian atau fenomena yang di temukan pada suatu tempat dan waktu yang
+
+tertentu atau pengkajian lebih tentang suatu objek yang diteliti pada daerah tertentu dan tidak bisa disimpulkan pada daerah lain atau kasus lain.
+Waktu dan Lokasi Penelitian
+Penentuan daerah penelitian dilakukan secara "purposive" atau secara sengaja yaitu di Kecamatan Padang Hilir Kelurahan Damar Sari Kotamadya Tebing Tinggi Sumatera Utara.
+Metode Penentuan Sampel
+Sample dalam penelitian ini adalah petani yang membudidayakan jamur tiram putih di Kecamatan Padang Hilir Kelurahan Damar Sari Kotamadya Tebing Tinggi Sumatera Utara. Sampel ditentukan secara populasi dari petani jamur tiram putih sebanyak 20 orang.
+Metode Pengumpulan Data
+Data yang dikumpulkan terdiri dari data primer dan data sekunder, data primer diperoleh dari wawancara langsung dengan petani jamur tiram dengan menggunakan quesioner yang telah disiapkan
+sebelumnya, sedangkan data sekunder diperoleh dari berbagai instansi pemerintah dan lembaga yang berhubungan dengan penelitian ini.
+Metode Analisis Data
+Untuk menguji hipotesis 1, dapat dihitung dengan rumus Regresi Linier Berganda adalah:
+Y = a + b1x1 + b2x2 + b3x3 + b4x4 + e
+Dimana:Y = pendapatan a = konstanta
+x1 = tenaga kerja (Rp/Borongan)
+x2 = bibit (Rp/Botol)
+x3 = bahan baku (Rp/Kg)
+x4 = bahan tambahan (Rp/Kg)
+b1, b2, b3 = koefesien regresi
+e = error
+Untuk menguji pengaruh secara parsial digunakan uji-t dengan rumus:
+
+Agrium, Oktober 2010 Volume 16 No. 2
+
+T hitung =
+
+bi Se (bi)
+
+Dimana:
+
+bi = koefesien regresi
+
+Se= simpangan baku
+
+Dengan kriteria pengujian sebagai berikut:
+
+Jika t hitung  t tabel H0 diterima dan H1 ditolak Jika t hitung  t tabel H0 ditolak dan H1 diterima
+
+Untuk menguji pengaruh secara serempak digunakan uji F hitung dengan rumus:
+
+F hitung =
+
+Jk Reg/k Jk Res/(n ­k-1)
+
+Dimana: Jk Reg = jumlah kuadrat regresi
+
+Jk Res = jumlah kuadrat sisa
+
+k= jumlah variabel bebas
+
+n = jumlah sampel
+
+dengan kriteria pengujian:
+
+- Jika F hitung  F tabel, maka H0 ditolak, H1 diterima
+
+- Jika F hitung  F tabel, maka H0 diterima, H1 di tolak
+Untuk menguji hipotesis 2, digunakan metode Benefit Cost Ratio (B/C) yaitu:
+
+B/C =
+
+Benefit Cost
+
+Dimana:
+
+Benefit
+
+= pendapatan
+
+Cost
+
+= biaya produksi
+
+Dengan kriteria:
+
+- Jika nilai B/C  maka usaha budidaya jamur tiram putih sudah efisien
+
+- Jika nilai B/C  maka usaha budidaya jamur tiram putih tidak efisien
+
+Karakteristik Petani Sampel Usaha Budidaya Jamur Tiram Putih
+
+Berdasarkan hasil wawancara kepada petani jamur tiram putih maka dapat diketahui karakteristik petani sampel yaitu berdasarkan tenaga kerja, bibit, bahan baku, dan bahan tambahan
+
+Tabel 1. Karakteristik Petani Sampel Usaha Budidaya Jamur Tiram Putih
+
+No
+
+Uraian
+
+Rataan
+
+1
+
+Umur (Tahun)
+
+31,65
+
+2
+
+Tingkat Pendidikan (Tahun)
+
+16,1
+
+3
+
+Pengalaman Budidaya (Tahun)
+
+2,5
+
+4
+
+Jumlah Tanggungan (Orang)
+
+1,6
+
+Sumber: Data Primer Diolah
+
+Untuk lebih jelas dapat dilihat pada tabel 1. Dari tabel 1 di atas dapat diketahui bahwa rata-rata umur petani jamur tiram putih adalah 31,65 tahun, yaitu antara 23-46 tahun yang berarti masih tergolong umur produktif dan masih bisa berusaha dan mengelola usaha budidaya jamur
+
+tiram putih untuk meningkatkan produksinya. Tingkat pendidikan yang pernah diikuti oleh petani jamur tiram putih rata-rata sebesar 16,1 tahun, yaitu antara 12-19 tahun. Hal ini dapat dilihat bahwa rata-rata tingkat pendidikan petani adalah pada tingkat pendidikan sarjana (S1).
+
+Agrium, Oktober 2010 Volume 16 No. 2
+
+Pendidikan yang diperoleh petani jamur tiram putih mempengaruhi tingkat wawasan dan berpengaruh terhadap kegiatan atau tindakan yang akan dilakukan oleh petani jamur tiram putih untuk memilih suatu jenis usaha yang akan mereka usahakan.
+Pengalaman atau lamanya usaha yang dijalankan petani jamur tiram putih rata-rata adalah 2,5 tahun, yaitu antara 1-5 tahun yang berarti para petani yang memiliki pengalaman lebih lama dalam budidaya jamur tiram putih akan mendapatkan pengetahuan lebih banyak tentang teknik dan cara-cara berbudidaya yang dilakukannya.
+Jumlah tanggungan petani jamur tiram putih rata-rata adalah 1,6 orang, yaitu antara 0-5 orang yang berarti setiap petani jamur tiram putih memiliki tanggungan yang berbeda-beda.
+D. HASIL DAN PEMBAHASAN
+Pendapatan Petani Jamur Tiram Putih
+Pendapatan petani jamur tiram putih adalah selisih antara penerimaan (revenue)
+dengan total biaya pengeluaran yang dinyatakan dalam Rp/bulan. Produksi jamur tiram putih
+
+pada mulanya akan tinggi dan secara berangsurangsur akan berkurang pada tahapan panen berikutnya. Walaupun demikian media tumbuh jamur tersebut dapat bertahan sampai 5-6 bulan.
+Dari hasil penelitian dapat diketahui bahwa produksi, biaya produksi, penerimaan dan pendapatan yang diterima oleh petani jamur tiram putih berbeda-beda ini disebabkan karena jumlah (banyaknya) pembuatan jamur baru dalam satu bulan berbeda, dimana ada yang membuat dua kali dalam sebulan, ada yang tiga kali, dan ada yang empat kali.
+Dari hasil penelitian dapat diketahui ratarata produksi, biaya produksi, penerimaan, dan pendapatan petani sampel jamur tiram putih yang dinyatakan dalam Rp/bulan dapat dilihat pada tabel 2. Dari tabel 2 dapat diketahui bahwa produksi rata-rata petani jamur tiram putih adalah 139,75 kg setiap bulannya, biaya produksi rataan petani jamur tiram putih adalah Rp. 708.925/bulannya, penerimaan rataan petani jamur tiram putih adalah sebesar 2.795.000/bulannya, dan pendapatan rataan petani jamur tiram putih adalah Rp. 2.086.075/bulannya dimana dalam hal ini rataan luas rumah jamur (kumbung) petani jamur tiram putih di daerah penelitian adalah 55,4 m2.
+
+Tabel 2. Produksi, Biaya Produksi, Penerimaan, Pendapatan Petani Jamur Tiram Putih/Bulan
+
+No
+
+Keterangan
+
+Rataan
+
+1. Produksi Jamur Tiram Putih (Kg/Bulan)
+
+139,75
+
+2. Biaya Produksi Jamur Tiram Putih (Rp/Bulan)
+
+708.925
+
+3. Penerimaan (Rp/Bulan)
+
+2.795.000
+
+4. Pendapatan (Rp/Bulan)
+
+2.086.075
+
+Sumber: Data Primer Diolah
+Ukuran kumbung yang ideal adalah 84 m2 (panjang 12 m dan lebar 7 m) dan tinggi 3,5 m.12Berdasarkan petani sampel jamur tiram di daerah penelitian produksi jamur yang dihasilkan dalam sebulan antara 85-280 kg/bulan dengan rataannya/bulan adalah 139.75. Menurut Suriawiria (2009), untuk memelihara 10.000 subtrat tanam (baglog), luas ruangan yang diperlukan minimal 8 m x 12 m. Sesuai dengan perhitungan-perhitungan dasar agrobisnis jamur kayu, yang secara ekonomi
+
+dapat dinyatakan layak harus mempunyai jumlah produksi antara 750-1250 kg/hari atau rataannya 1.000 kg/hari, maka untuk satu bulan produk tersebut berjumlah 30 x 1.000 kg ­ 30.000 kg. Produksi, biaya produksi, penerimaan, dan juga pendapatan tidak selamanya memiliki angka yang sama pada setiap petani jamur tiram putih yang salah satu faktor-faktor produksinya sama karena tergantung bagaimana cara/kemampuan teknik budidayanya, kesterilan, penggunaan bibit,
+
+Agrium, Oktober 2010 Volume 16 No. 2
+
+penggunaan bahan baku, jumlah baglog yang dihasilkan, dan banyaknya pembuatan jamur baru dalam sebulan. Terkadang ada juga para petani jamur tiram putih yang mengalami kerugian akibat terjadinya kontaminasi atau tidak sterilnya media pada waktu sterilisasi sehingga terjadi kerusakan media dan akibatnya pertumbuhan dan perkembangan jamur menjadi terhambat.
+Pengaruh Faktor-Faktor Tenaga Kerja, Bibit, Bahan Baku, Bahan Tambahan Terhadap Pendapatan Petani Jamur Tiram Putih
+Pengaruh faktor-faktor tenaga kerja, bibit, bahan baku, dan bahan tambahan akan memberikan pengaruh yang positif apabila masing-masing dari faktor tersebut saling mendukung satu sama lainnya. Faktor-faktor tersebut tidak selamanya memberikan pengaruh yang positif terhadap pendapatan yang diterima oleh petani jamur tiram putih, adakalanya
+
+faktor-faktor tersebut bisa memberikan pengaruh yang negatif terhadap pendapatan petani jamur tiram putih apabila salah satu faktor tersebut kurang baik. Untuk lebih jelasnya melihat pengaruh tenaga kerja, bibit, bahan baku, dan bahan tambahan terhadap pendapatan petani jamur tiram putih dapat dilihat pada tabel 3.Dari Tabel 3 di atas dapat diketahui bahwa persamaan fungsi Regresi Linier Berganda adalah sebagai berikut: Y= 458336,58 + 0,11 X1 + 8,42 X2 + 22190,60 X3 + 6390,23 X4 + e
+
+Dari hasil pengujian data diketahui
+
+bahwa nilai koefesien determinasi (R ­ Square)
+
+dari penelitian ini adalah 0,93. Nilai ini
+
+mengindikasikan bahwa secara simultan
+
+(serempak) pendapatan petani jamur tiram putih
+
+dipengaruhi oleh tenaga kerja, bibit, bahan
+
+baku, dan bahan tambahan sebesar 93%,
+
+selebihnya dipengaruhi oleh faktor-faktor lain di
+
+luar
+
+variabel.
+
+Tabel 3. Hasil Analisis Regresi Linier Berganda Antara Faktor Tenaga Kerja, Bibit, Bahan Baku, Bahan Tambahan Terhadap Pendapatan Petani Jamur Tiram Putih
+
+Variabel
+
+Koefesien Regresi
+
+Standart Error t - Hitung
+
+Tenaga Kerja (Borongan) X1 Bibit (Botol) X2 Bahan Baku (Goni) X3 Bahan Tambahan (kg, liter, unit) X4 Konstanta
+
+0,11 8,42 22190,60 6390,23 458336,58
+
+1,65
+
+0,07
+
+1,29
+
+6,53
+
+28807,06
+
+0,77
+
+7770,34
+
+0,82
+
+R ­ Square
+
+0,93
+
+Multiple R
+
+0,96
+
+F ­ Hitung
+
+4044,26
+
+F ­ Tabel
+
+2,39
+
+t- Tabel
+
+2,13
+
+Sumber: Data Primer Diolah
+
+Dari hasil pengujian secara statistik diperoleh nilai Multiple R sebesar 0,96 yang mengartikan bahwa secara menyeluruh ada hubungan yang erat antara tenaga kerja, bibit, bahan baku, dan bahan tambahan terhadap pendapatan petani
+
+jamur tiram putih yaitu sebesar 96%. Hal ini didukung oleh nilai f ­ hitung 4044,26 > f ­ tabel 2,39 pada taraf kepercayaan 95% ( 0,05), dengan demikian H1 diterima dan H0 ditolak, yang berarti terdapat pengaruh yang nyata
+
+Agrium, Oktober 2010 Volume 16 No. 2
+
+antara tenaga kerja, bibit, bahan baku, dan bahan tambahan terhadap pendapatan petani jamur tiram putih.
+Untuk melihat pengaruh secara parsial antara tenaga kerja, bibit bahan baku, dan bahan tambahan terhadap pendapatan petani jamur tiram putih dapat dilihat pada uraian dibawah ini:
+Pengaruh Tenaga Kerja Terhadap Pendapatan Petani jamur Tiram Putih
+Penggunaan tenaga kerja dalam berusaha jamur tiram putih juga harus diperhitungkan dengan cermat mulai dari persiapan media sampai pada tahap pemanenan hasil agar hasil produksi diperoleh secara optimal, walaupun kenyataannya di daerah penelitian hanya sampai kepada tahap inokulasi. Tenaga kerja juga merupakan faktor yang penting dalam berusaha jamur tiram putih karena orang yang digunakan tenaganya untuk proses produksi yang berlangsung dan sangat berpengaruh pula terhadap besarnya produksi, dimana semakin baik dalam hal pemakaian tenaga kerja yaitu sesuai dengan kebutuhan dan luas kumbung yang ada maka produksi yang diperoleh akan semakin optimal dan berpengaruh pula terhadap pendapatan petani jamur tiram putih.
+Berdasarkan hasil survey di lapangan diketahui bahwa petani jamur tiram putih menggunakan tenaga kerja baik dari keluarga maupun luar keluarga. tenaga, baik perempuan maupun pria (anak-anak maupun remaja). Upah tenaga kerja adalah sistem borongan dimana rataan penggunaan tenaga kerja, upah dan rataan hari kerja borongan budidaya jamur tiram putih/bulan dapat dilihat pada tabel 4.
+Hasil pengujian dengan uji t untuk tenaga kerja diperoleh nilai t ­ hitung 0,07 < t ­ tabel 2,13 pada tingkat kepercayaan 95% ( 0,05). Dengan demikian H1 ditolak dan H0 diterima yang berarti bahwa terdapat pengaruh yang nyata antara tenaga kerja terhadap pendapatan petani jamur tiram putih. Tenaga kerja memiliki pengaruh yang positif terhadap tingkat pendapatan petani jamur tiram putih yaitu sebesar 0,11. Apabila penggunaan tenaga kerja telah sesuai dengan yang dibutuhkan dan faktorfaktor lain yang mendukung usaha budidaya telah baik (terpenuhi) maka akan dapat mempengaruhi pendapatan petani jamur tiram putih.
+
+Jadual dan urutan kerja pembuatan media tanam: satu hari pekerjaan adukan bahan-bahan, dua hari pekerjaan kompos bahan-bahan, satu hari pekerjaan pewadahan, satu hari pekerjaan sterilisasi, satu hari pekerjaan pendinginan, satu hari pekerjaan inokulasi.13
+Tenaga kerja pada usaha budidaya jamur dengan skala produksi cukup besar terdiri daritenaga tetap dan tenaga borongan. Tenaga tetap diperlukan untuk pekerjaan-pekerjaan yang menuntut kemampuan
+khusus, misalnya pemeliharaan, inokulasi, dan penangkaran bibit. Tenaga kerja tetap harus diberi bekal kemampuan khusus yang dituntut dalam tugasnya.1
+Upah borongan adalah upah yang diberikan sesuai dengan perjanjian antara pemberi kerja dengan pekerja tanpa memperhatikan lamanya waktu kerja. Upah borongan ini cenderung membuat para pekerja untuk secepatnya menyelesaikan pekerjaannya agar segera dapat mengerjakan pekerjaan borongan lainnya.14
+Pengaruh Bibit Terhadap Pendapatan Petani Jamur Tiram Putih
+Bibit jamur yang digunakan oleh petani jamur tiram di daerah penelitian adalah bibit jamur turunan F1 dan F2 yaitu bibit jamur hasil dari turunan pertama dan kedua. Bibit jamur yang dipesan dan dibeli oleh petani jamur tiram putih adalah bibit yang berkualitas karena bibit yang berkualitas merupakan kunci keberhasilan dalam budidaya jamur tiram putih dan para petani jamur di daerah penelitian telah memahami tentang kualitas bibit yang baik. Beberapa hal yang perlu diperhatikan dalam pemilihan bibit jamur tiram putih ini yaitu bibit berasal dari strain atau varietas unggul, umur bibit optimal 45-60 hari, warna bibit putih
+merata, bibit tidak terkontaminasi, belum ditumbuhi jamur. Biasanya petani jamur tiram putih membeli bibit kepada produsen/penangkar bibit yang ada di daerah Jawa, dimana para petani memesan membeli dalam satuan per botol dengan harga Rp. 20.000/botol dan harga tersebut sudah termasuk dengan ongkos kirimnya.
+Pada umumnya di daerah penelitian satu botol bibit jamur dapat menghasilkan 38-45
+
+Agrium, Oktober 2010 Volume 16 No. 2
+
+baglog, sedangkan rata-ratanya adalah 40 baglog/botol. Apabila Penggunaan bibit oleh petani jamur tiram putih tidak efisien maka akan mengurangi jumlah baglog yang dihasilkan sehingga mempengaruhi jumlah produksi dan pendapatan petani jamur tiram putih. Dalam penggunaan bibit jamur, kesterilan (media, alat) dan kebersihan orang yang melakukan penanaman bibit jamur (inokulasi) merupakan salah satu hal yang penting dalam menjamin keberhasilan budidaya jamur tiram putih karena apabila ada kesalahan maka akan menyebabkan
+
+kerusakan dan terhambatnya pertumbuhan jamur tiram putih sehingga produksi dan pendapatan petani jamur tiram putih menjadi berkurang.
+Penggunaan bibit petani jamur tiram putih di daerah penelitian dalam satu kali pembuatan jamur berkisar antara 4-7 botol. Penggunaan bibit dalam sebulan berkisar antara 8-28 botol, dimana jumlah tersebut tergantung kepada kebutuhan dan banyaknya pembuatan jamur dalam sebulan. Sedangkan penggunaan -
+
+Tabel 4. Rataan Penggunaan Tenaga Kerja, Upah dan Rataan hari kerja Borongan Budidaya Jamur Tiram Putih/Bulan.
+
+Tenaga Kerja
+
+Rataan Jumlah Tenaga Kerja/Bulan (Orang)
+
+Rataan Upah/Bulan (Rp)
+
+Rataan Hari Kerja/bulan (Hari)
+
+Persiapan
+
+Media
+
+3,65
+
+Pembuatan
+
+Baglog
+
+5,6
+
+Inokulasi
+
+2,65
+
+32.000
+
+2,65
+
+83.500
+
+3,65
+
+55.500
+
+2,65
+
+Sumber: Data Primer Diolah
+bibit untuk rataan/bulannya adalah 13,75 botol dan biaya bibit rataan/bulannya Rp. 275.000.
+Hasil pengujian dengan uji t untuk bibit diperoleh nilai t ­ hitung 6,53 > t ­ tabel 2,13 pada tingkat kepercayaan 95% ( 0,05). Dengan demikian H1 diterima dan H0 ditolak yang berarti terdapat pengaruh yang nyata antara bibit terhadap pendapatan petani jamur tiram putih. Bibit mempunyai pengaruh yang positif terhadap tingkat pendapatan petani jamur tiram putih sebesar 8,42 yang berarti bibit mempunyai pengaruh yang cukup besar terhadap keberhasilan dalam budidaya jamur tiram putih. Apabila bibit yang digunakan berkualitas dan faktor-faktor lain yang mendukung usaha budidaya telah baik (terpenuhi) maka dapat meningkatkan pendapatan petani jamur tiram putih. Menurut Winarni dan Rahayu (2002), bibit jamur yang berkualitas merupakan kunci keberhasilan dalam budidaya jamur. Bila bibit yang digunakan telah kadaluwarsa, maka dapat dipastikan hasilnya tidak akan maksimal. Menurut Cahyana dkk (2002) keberhasilan
+
+budidaya jamur ditentukan oleh kualitas media tanam, proses budidaya, dan kualitas bibit yang digunakan. Bibit yang berkualitas dapat dibuat dengan perlakuan-perlakuan yang teliti dan sarana yang cukup memadai, seperti ruang pembuatan bibit, peralatan, dan kemampuan pelaksana.
+Pengaruh Bahan Baku Terhadap Pendapatan Petani Jamur Tiram putih
+Bahan baku yang digunakan petani jamur tiram putih di daerah penelitian adalah menggunakan serbuk kayu, dimana serbuk kayu merupakan hasil limbah pengolahan kayu yang jumlahnya melimpah dan harganya relatif murah yaitu Rp. 2.000/goni. Serbuk kayu yang digunakan petani jamur tiram putih di daerah penelitian adalah serbuk kayu yang bersih, tidak busuk, tidak ditumbuhi jamur lain, dan masih segar. Selain itu juga petani jamur tiram lebih memilih serbuk kayu yang berasal dari kayu yang keras dan juga tidak mengandung minyak ataupun getah karena itu adalah serbuk kayu yang terbaik bagi petani jamur tiram putih. Biasanya serbuk kayu yang
+
+Agrium, Oktober 2010 Volume 16 No. 2
+
+banyak tersedia terdiri dari campuran berbagai macam
+
+jenis kayu. Bahan baku merupakan bahan utama atau yang paling banyak digunakan. Bahan baku yang baik akan menjamin pertumbuhan dan perkembangan jamur tiram putih sehingga jamur yang dihasilkan akan memuaskan dan sesuai yang diharapkan serta produksi dan pendapatan petani jamur tiram putih juga meningkat.
+
+Penggunaan bahan baku (serbuk kayu) di daerah penelitian dalam satu kali pembuatan jamur berkisar antara 4-7 goni. Penggunaan bahan baku dalam sebulan berkisar antara 8-28 goni serbuk kayu, dimana penggunaan bahan baku tersebut harus disesuaikan dengan banyaknya bibit yang dimiliki petani dan banyaknya pembuatan jamur dalam sebulan. Sedangkan penggunaan bahan baku (serbuk kayu) untuk rataan/bulannya adalah 13,75 goni dan biaya bahan baku rataan/bulannya Rp. 27.500.
+
+Hasil pengujian dengan uji t untuk bahan baku diperoleh nilai t ­ hitung 0,77 < t ­ tabel 2,13 pada tingkat kepercayaan 95% ( 0,05). Dengan demikian H1 ditolak dan H0 diterima yang berarti bahwa terdapat pengaruh yang nyata antara bahan baku terhadap pendapatan petani jamur tiram putih. Bahan baku mempunyai pengaruh yang positif sebesar 22190,60. Apabila penggunaan bahan baku telah sesuai dengan yang dibutuhkan atau efisien dan faktor-faktor lain yang mendukung usaha budidaya telah baik (terpenuhi) maka dapat meningkatkan pendapatan petani jamur tiram putih.
+
+Kayu atau serbuk kayu yang digunakan
+
+sebagai tempat tumbuh jamur mengandung
+
+karbohidrat, serat lignin, dan lain-lain. Dari
+
+kandungan tersebut ada yang berguna dan
+
+membantu pertumbuhan jamur, tetapi ada pula
+
+yang menghambat.
+
+Kandungan yang
+
+dibutuhkan bagi pertumbuhan jamur antara lain
+
+karbohidrat, serat, dan lignin, sedangkan faktor
+
+yang menghambat antara lain adanya getah dan
+
+zat ekstraktif (zat pengawet alami yang terdapat pada kayu).1
+
+Pengaruh Bahan Tambahan Terhadap Pendapatan Petani Jamur Tiram putih
+
+Bahan tambahan yang digunakan petani jamur tiram putih terdiri dari beberapa macam yaitu dedak (bekatul), kapur karbonat (CaCO3), gipsum (CaSO)4, metanol. Adapun harga bahan tambahan dalam budidaya jamur tiram putih di daerah penelitian dapat dilihat pada tabel berikut:
+Tabel 5. Harga Bahan Tambahan Budidaya Jamur Tiram putih
+
+Harga Bahan Tambahan
+
+Dedak (Rp/Kg)
+2.000
+
+CaCO3 (Rp/Kg)
+1.000
+
+CaSO4 Metanol (Rp/Kg) (Rp/Ltr)
+4.000 5.000
+
+Sumber: Data Primer Diolah
+
+Bahan tambahan ini digunakan untuk mendukung pertumbuhan jamur lebih optimal dan sesuai dengan yang diharapkan sehingga dapat meningkatkan produksi dan pendapatan petani jamur tiram putih. Bahan-bahan tersebut merupakan bahan pelengkap untuk mendukung keberhasilan dalam usaha budidaya jamur tiram putih karena tanpa peranan dari bahan tambahan ini pertumbuhan jamur tiram putih dan produksinya akan kurang memuaskan. Penggunaan bahan tambahan tersebut harus disesuaikan dengan banyaknya bahan baku yang dimiliki petani dan banyaknya pembuatan jamur dalam sebulan. Adapun rataan penggunaan dan rataan biaya bahan tambahan budidaya jamur tiram putih/bulan dapat dilihat pada tabel 6.
+Hasil pengujian dengan uji t untuk bahan tambahan diperoleh nilai t ­ hitung 0,82 < t ­ tabel 2,13 pada tingkat kepercayaan 95% ( 0,05). Dengan demikian H1 diterima dan H0 ditolak yang berarti bahwa terdapat pengaruh yang nyata antara bahan tambahan terhadap pendapatan petani jamur tiram putih. Bahan tambahan memiliki pengaruh yang positif terhadap tingkat pendapatan petani jamur tiram putih sebesar 6390,23. Apabila penggunaan bahan tambahan telah sesuai dengan yang dibutuhkan atau efisien dan faktor-faktor lain yang mendukung usaha budidaya telah baik (terpenuhi) maka dapat meningkatkan pendapatan petani jamur tiram putih.
+
+Agrium, Oktober 2010 Volume 16 No. 2
+
+Tabel 6. Rataan Penggunaan dan
+
+kg, gipsum (CaSO4) 0,5 kg. Formulasi 3 adalah
+
+Rataan Biaya Bahan Tambahan Budidaya Jamur
+
+serbuk kayu 100 kg, dedak/bekatul 10 kg, kapur
+
+Tiram Putih/Bulan
+
+karbonat (CaCO3) 2,5 kg, gipsum (CaSO4) 0,5 kg. Pada formulasi tersebut ditambahkan air
+
+Penggunaan Bahan Tambahan/Bulan
+
+Biaya Bahan Tambahan/sBecuulaknupnya (kadar air media diatur hingga 50-
+
+65%) kemudian diaduk secara merata sampai
+
+edak CaCO3 CaSO4 Metanol
+
+Dedak
+
+CaCO3 CcaaSmOp4uranMtetrasnebolut dapat dikepal tetapi tidak
+
+kg)
+
+(kg)
+
+(Kg)
+
+(liter)
+
+meneteskan air. Komposisi ini berbeda dengan
+
+(Rp)
+
+(Rp)
+
+(dRi p)daerah (Rppe)nelitian karena hal tersebut
+
+1,25 3,65
+
+1,825
+
+1,325
+
+82.500
+
+3.650
+
+berdasarkan pengalaman masing-masing petani 7j.a3m00ur tira6m.625putih, akan tetapi walaupun
+
+demikian jamur tiram putih tetap bisa berproduksi.1
+
+Sumber: Data Primer Diolah
+Bahan tambahan tersebut sengaja digunakan petani sebagai pelengkap dan untuk menghilangkan kekuatiran petani dengan maksud agar pertumbuhan jamur tiram putih lebih baik/terjamin. Jika bahan-bahan tambahan tersebut tidak digunakan, jamur tiram putih masih bisa tumbuh akan tetapi petani tidak mau mengambil resiko kegagalan dalam budidaya jamur tiram putih. Apabila bahan tambahan telah sesuai dengan yang dibutuhkan dan faktorfaktor lain yang mendukung usaha budidaya telah baik (terpenuhi) maka dapat meningkatkan pendapatan petani jamur tiram putih.
+
+Formulasi tersebut di atas untuk 100 kg serbuk kayu dapat menghasilkan baglog berkisar antara 150 baglog atau lebih, dimana jumlah ini tergantung dari ukuran plastik PP yang digunakan dan berat media (baglog) pada saat ditimbang. Pada daerah penelitian sebagian besar petani jamur tiram putih menggunakan plastik PP ukuran 20 x 30 cm dan berat media (baglog) antara 0,9 ­ 1,2 kg. Menurut Cahyana dkk (2002), ukuran dan ketebalan plastik PP dari berbagai macam. Beberapa ukuran plastik yang biasanya digunakan dalam budidaya jamur antara lain 20 cm x 30 cm, 17 cm x 35 cm, 14 cm x 25 cm dengan ketebalan 0,3 mm ­ 0,7 mm atau dapat juga lebih tebal.
+
+Bahan-bahan tambahan seperti dedak ditambahkan untuk meningkatkan nutrisi media tanam sebagai sumber karbohidrat, sumber karbon (C), dan nitrogen. Kapur karbonat (CaCO3) ditambahkan sebagai sumber kalsium (Ca) dan juga sebagai pengatur pH media selain itu unsur kalsium dan karbon digunakan untuk meningkatkan mineral yang dibutuhkan jamur bagi pertumbuhannya. Gipsum (CaSO)4
+
+Analisis Efisiensi Usaha Budidaya Jamur Tiram Putih
+Menurut hasil penelitian yang dilakukan dapat dilihat apakah penerimaan dan pendapatan petani jamur tiram putih sudah efisisen dan apakah usaha budidaya jamur tiram
+
+digunakan sebagai sumber kalsium dan sebagai bahan untuk memperkokoh media sehingga media tidak mudah rusak. Menurut Suriawiria (1986), maksud penambahan bahan campuran ini adalah untuk meningkatkan sumber nutrisi yang dibutuhkan oleh jamur sehingga pertumbuhan dan perkembangannya lebih baik dan hasil yang didapatkan lebih tinggi, baik kualitas maupun kuantitasnya.
+
+Formulasi kebutuhan bahan-bahan dalam budidaya jamur tiram yaitu: formulasi 1 adalah serbuk kayu 100 kg, dedak/bekatul 15 kg, kapur karbonat (CaCO3) 5 kg, gipsum (CaSO4) 1 kg. Formulasi 2 adalah serbuk kayu 100 kg, dedak/bekatul 5 kg, kapur karbonat (CaCO3) 2,5
+
+Agrium, Oktober 2010 Volume 16 No. 2
+
+putih ini sudah efisien untuk diusahakan oleh petani jamur tiram putih. Untuk mengujinya maka digunakan metode Benefit Cost Ratio (B/C) dengan kriteria apabila nilai B/C > 1 maka usaha jamur tiram putih sudah efisien dan sebaliknya apabila nilai B/C < 1 maka usaha jamur tiram putih tidak efisien untuk diusahakan. Hal ini dapat dilihat pada perhitungan dibawah ini:
+
+B/C = Benefit/Cost = 2086075/708925 = 2,94
+
+Dapat dilihat dari hasil perhitungan diatas
+
+bahwa nilai B/C > 1 yaitu
+
+2,94 nilai ini
+
+mengartikan bahwa usaha budidaya jamur tiram
+
+putih sudah efisien atau layak untuk diusahakan
+
+oleh petani jamur tiram putih yaitu pembagian
+
+antara rata-rata pendapatan (2086075) dibagi
+
+dengan rata-rata biaya produksi (708925) yaitu
+
+didapat hasil B/C adalah 2,94.
+
+Peralatan budidaya jamur tiram putih seperti: drum sterilisasi, lampu Bunsen, spatula, pisau, dan knapsack solo, tabung gas, dan plastik PP memiliki estimasi umur kegunaan yang berbeda. Dengan demikian petani jamur tiram putih tidak mengeluarkan biaya untuk membeli peralatan dalam waktu dekat. Dalam penelitian ini biaya peralatan dilakukan penyusutan sehingga diperoleh biaya penyusutan peralatan dengan menggunakan metode penyusutan garis lurus (Straight Line Method).
+
+Metode penyusutan ini mempunyai kelebihan dan kelemahan. Kelebihan dari metode ini adalah mudah digunakan dalam praktek dan lebih mudah dalam menentukan tarif penyusutan. Sedangkan kelemahan dari metode penyusutan ini adalah beban pemeliharaan dan perbaikan dianggap sama setiap periode, manfaat ekonomis aktiva setiap tahun sama, beban penyusutan yang diakui tidak mencerminkan upaya yang digunakan dalam menghasilkan pendapatan, laba yang dihasilkan setiap tahun tidak menggambarkan tingkat pengembalian yang sesungguhnya dari umur kegunaan aktiva (dalam matching principle, beban penyusutan harus proporsional pada penghasilan yang dihasilkan).15
+Alat-alat tersebut memiliki umur ekonomis yang panjang dan dapat digunakan lebih lama sampai tahunan (kecuali plastik PP yang bertahan 5-6 bulan karena media dapat bertahan sampai umur tersebut). Penggunaan
+
+kantong plastik1 bertujuan untuk mempermudah pengaturan kondisi (jumlah oksigen dan kelembaban media) dan penanganan media selama pertumbuhan. Kantong plastik yang digunakan adalah plastik yang kuat dan tahan panas sampai dengan suhu 1000 C. Jenis plastik biasanya dipilih dari jenis polipropilen (PP). Ukuran dan ketebalan plastik terdiri dari berbagai macam. Beberapa ukuran plastik yang biasa digunakan dalam budidaya jamur tiram putih adalah 20 cm x 30 cm, 17 cm x 35 cm, 14 cm x 25 cm dengan ketebalan 0,3 mm ­ 0,7 mm atau dapat juga lebih tebal.
+Komiditi jamur tiram putih belum begitu dikenal oleh masyarakat luas dan membudiyakannya juga sulit, maka harga yang ditawarkan untuk konsumen pun mahal sebesar Rp. 20.000/Kg dan hanya pasar-pasar tertentu yang menjual jamur tiram putih tersebut. Usaha budidaya jamur tiram putih belum begitu banyak diusahakan oleh petani oleh karena kurangnya pengetahuan tentang teknik budidaya karena itu diperlukan pengetahuan yang khusus tentang teknik budidaya yang baik seperti: bentuk pembuatan rumah jamur (kumbung) yang sesuai, kesterilan, mutu bibit, alat-alat yang digunakan, syarat-syarat tumbuh jamur dan lain sebagainya yang berhubungan dengan ilmu pengetahuan. Jamur tiram putih juga mempunyai rasa yang enak apabila dikonsumsi dan kandungan gizi dan manfaatnya sangat baik untuk kesehatan sehingga harga dipasaran cukup mahal. Untuk itu diharapkan kedepannya agar lebih baik lagi kondisi keduanya supaya petani jamur dan masyarakat lebih mengenal jauh dan lebih terfokus lagi dalam membudidayakan jamur tiram putih.
+E. KESIMPULAN
+Hasil pengujian dengan metode Benefit Cost Ratio (B/C) didapat nilai sebesar 2,94. Hal ini berarti nilai B/C > 1 menunjukkan bahwa usaha budidaya jamur tiram putih efisien atau layak untuk diusahakan oleh petani, sehingga saha budidaya jamur tiram putih efisien atau layak untuk diusahakan oleh petani.
+F. DAFTAR PUSTAKA
+1. Cahyana. Y.A, Muchrodji, dan Bakrun. M, 2002. Jamur Tiram. Penebar Swadaya, Jakarta.
+
+Agrium, Oktober 2010 Volume 16 No. 2
+
+2. Pasaribu. T, Permana D. R, dan Alda. E R, 2000. Aneka Jamur Unggulan yang Menembus Pasar. Grasindo, Jakarta.
+
+3. Suhardiman. P, 1983. Jamur Kayu. Penebar Swadaya, Jakarta.
+
+4. Gunawan. A.W, 2000. Usaha Pembibitan Jamur. Penebar Swadaya, Jakarta.
+
+5. Suriawiria. U, 2002. Sukses Beragrobisnis Jamur Kayu (Shiitake, Kuping, Tiram). Kanisius, Yogyakarta.
+
+6. Usry. M.. F dan Matz. A, 1986. Akuntansi Biaya (Perencanaan dan Pengendalian). Erlangga, Jakarta.
+
+7. Intan. A.R, 2003. Analisis Usaha Jamur
+
+Tiram Putih Dan Jamur Kuping, (Online),
+
+(file:///G:/gdl.php.htm,
+
+diakses 07
+
+Desember 2009).
+
+8. Suriawiria. U, 1986. Pengantar Untuk Mengenal dan Menanam Jamur. Angkasa, Bandung.
+
+9. Suharya. T, 2000. Budidaya Jamur Kayu. Tata Agribisnis, Bogor.
+
+10. Gedongan, 2009. Budidaya. Jamur Tiram dan Peluang Pasar, (Online),
+
+(http://gedongan.wordpress.com, diakses 03 Januari 2009).
+
+11. Seragen, 2009. Budidaya Jamur Tiram Modal Ringan Hasil Besar, (Online), (http://www. sragen. go.id, diakses 16 Maret 2009).
+
+12. Ganjar, 2008. Budidaya Jamur Tiram.
+
+(Online),
+
+(http://www.bbpp-
+
+lembang.info/index.php, diakses 20 April,
+
+2010).
+
+13. Siswandi. B, 2009. Jual Bibit Jamur dan Media Tanam Jamur Tiram Putih , (Online), (http://www.budimushroom.co.cc/index.ph p?news&nid=8, diakses 7 Maret 2010).
+
+14. Suratiyah. K, 2008. Ilmu Usaha Tani. Penebar Swadaya. Jakarta.
+
+15. Setiawan. J.S, 2001. Kajian Terhadap
+
+Beberapa Metode Penyusutan dan
+
+Pengaruhnya Terhadap Perhitungan Beban
+
+Pokok
+
+Penjualan,
+
+(Online),
+
+(http://puslit2.petra.ac.id/ejournal/index.ph
+
+p/aku/article/viewfile/15686/15678, diakses
+
+10 Februari 2010).
+
+Agrium, Oktober 2010 Volume 16 No. 2
+
+PENGARUH SUHU DAN WAKTU PENYIMPANAN TERHADAP KADAR GULA REDUKSI YANG TERKANDUNG DALAM BUAH SALAK PADANGSIDIMPUAN M. Said Siregar Fakultas Pertanian Universitas Muhammadiyah Sumatera Utara Email: msaidregars@gmail.com
+
+Abstract An investigation of influence of temperature and storage time to reducing sugar content of Salak Padangsidimpuan has been carried out. Salak fruit were stored in different temperature : room temperature, 34ºC, 37ºC and 40 ºC. Analysii of reducing sugar content is determined every one day interval, starting from 0 to 9 days storage by Nelson-Somogyi methode with Spectofotometer 1101. Reducing sugar content before storage was 1.276% and the maximum reducing sugar content obtained on 37ºC after 3 days storage was 8.143%. The other maximum reducing sugar content after storage in room temperature ( 7days), 34 ºC (5 days) and 40 ºC ( 2days) were: 7.92%, 8.073% and 4.640%, respectively. Keywords : reducing sugar, salak, padangsidimpuan.
+
+Abstrak Penelitian tentang pengaruh suhu dan waktu penyimpanan terhadap kadar gula reduksi yang terkandung dalam buah salak telah dilakukan. Buah salak disimpan dalam suhu yang berbeda: suhu ruang, 34ºC, 37ºC d an 40 ºC. Analisis kandungan gula reduksi buah salak ditentukan selang setiap hari mulai 0 hari sampai 9 hari penyimpanan dengan metode Nelson-Somogy menggunakan Spektrofotometer 1101. Kandungan gula reduksi sebelum penyimpanan 1,276% dan kandungan maksimum gula reduksi diperoleh pada penyimpanan 37ºC setelah 3 hari yaitu 8,14%. Kadar gula reduksi maksimum pada suhu ruang (7 hari), 34 ºC (5hari) dan 40 ºC ( 2 hari) masing-masing: 7.92%, 8.073% dan 4.640%..
+
+Kata kunci: gula reduksi, salak, padangsidimpuan. A. PENDAHULUAN Indonesia yang terletak di daerah tropis banyak ditumbuhi berbagai macam tumbuhan dan merupakan salah satu negara penghasil produk pertanian yang cukup potensial, misalnya buahbuahan dengan berbagai variasi bentuk, rasa, aroma dan rasa yang khas. Salak merupakan salah satu jenis buah tropis yang dihasilkan di Indonesia dan dapat diperoleh sepanjang tahun. Berbagai jenis salak dapat tumbuh dan berkembang dengan baik di Indonesia, diantaranya : Salak Padangsidimpuan, Salak Bali, Salak Condet, Salak Pondoh, Salak Manonjaya, Salak Madura, Salak Ambarawa dan Salak Banjaranegara. Salak Padangsidimpuan rasanya manis bercampur asam dan hampir terasa sepetnya. Ukuran buah rata-rata besar, daging buah tebal, berwarna kuning tua sampai merah, biji dan sisiknya besar dan jenis ini berasal dari Desa Sibakua, Tapanuli Selatan.1
+Buah salak mempunyai arti penting sebagai sumber energi, vitamin, mineral dan zat-zat lainnya didalam menunjang kecukupan gizi. Bagian buah salak yang dapat dimakan mengandung vitamin dan zat-zat lain yang dibutuhkan manusia, dimana air dan senyawasenyawa gula merupakan komponen utama.
+
+Ezim secara alamiah terdapat dalam jaringan tumbuhan, yang kegiatannya berlanjut setelah dipanen, yang dapat menimbulkan perubahan kimia yang tidak dikehendaki selama penyimpanan bahan makanan. Kerusakan selsel tumbuhan oleh ezim yang terdapat pada bahan itu sendiri disebut sebagai autolisis dan merupakan salah satu penyebab kerusakan pangan.2
+Buah salak yang telah dipanen merupakan struktur hidup, hal ini ditandai dengan masih berlangsungnya reaksi-reaksi metabolik dari sistim fisiologis melalui proses respirasi (pernapasan) yaitu pengambilan gas oksigen (O2) serta pengeluaran gas karbondioksida (CO2) dan energi. Selama penyimpanan, buah salak mengalami kerusakan, baik fisik maupun nutritif yang akan menimbulkan kerugian. Senyawa-senyawa gula yang terdapat di dalam buah salak akan mengalami perubahan bentuk menjadi bentuk lain melalui reaksi enzimatis. Banyaknya gula yang terkandung dalam buah salak dipengaruhi oleh perubahan yang terjadi selama penyimpanan. Gula akan bertambah terus sampai batas tertentu. Hal ini disebabkan oleh degradasi pati menjadi gula-gula sederhana. Degradasi pati dapat dilakukan oleh
+
+Agrium, Oktober 2010 Volume 16 No. 2
+
+enzim amilase, dimana kerja enzim ini dipengaruhi oleh suhu.
+Dalam batas-batas tertentu, kecepatan reaksi yang dikatalisis enzim naik bila suhu naik. Reaksi yang paling cepat memerlukan suhu optimum. Di atas suhu ini, kecepatan menurun tajam, terutama karena denaturasi enzim oleh panas. Untuk kebanyakan enzim, suhu optimum adalah suhu sel atau suhu diatas suhu sel dimana enzim-enzim hidup.3
+Pada penelitian ini yang menjadi masalah adalah bagaimana pengaruh suhu dan waktu penyimpanan terhadap kadar gula reduksi yang terkandung dalam buah salak.
+
+B. TINJAUAN PUSTAKA
+
+Tanaman salak memiliki nama Latin,
+
+Salacca edulis reinw. Salak merupakan tanaman
+
+asli Indonesia. Salak termasuk famili palamae,
+
+serumpun dengan kelapa, kelapa sawit, aren
+
+(enau), palem, pakis yang bercabang rendah dan
+
+tegak. Batangnya hampir tidak kelihatan karena
+
+tertutup pelepah daun yang tersusun rapat dan
+
+berduri. Dari batang yang berduri itu tumbuh
+
+tunas baru yang dapat menjadi anakan atau
+
+tunas bunga buah salak dalam jumlah yang banyak.4
+
+Tanaman salak termasuk golongan tanaman
+
+berumah dua, atau jenis tanaman yang
+
+membentuk bunga jantan pada tanaman terpisah
+
+dari bunga betinanya. Dengan kata lain setiap
+
+tanaman memiliki satu jenis bunga atau disebut
+
+tanaman berkelamin satu ( uni sexualis). Pohon
+
+salak ini tumbuh dalam rumpun-rumpun yang
+
+sukar dipisahkan satu sama lain. Tanaman salak
+
+tumbuh dengan baik di dataran rendah yang
+
+basah dan lembab serta berkembangbiak dengan bijinya.5
+
+Tanaman salak dalam proses tumbuh dan
+
+berkembangnya membutuhkan beberapa syarat
+
+tertentu
+
+agar
+
+pertumbuhan
+
+dan
+
+perkembangannya baik. Beberapa faktor yang
+
+mempegaruhi pertumbuhan dan perkembangan
+
+tanaman salak antara lain : faktor iklim, tinggi
+
+rendahnya letak geografis, kesuburan tanah dan
+
+faktor biotik. Di Padangasidimpuan, salak
+
+ditanam pada ketinggian 0-700 m diatas permukaan laut.1
+
+Pohon salak berbunga banyak tersusun
+
+rapat dan bersisik dan merah warnanya,. Warna
+
+buah ini coklat kemerah-merahan. Buahnya
+
+tersusun dalam tandan, kulitnya bersisik coklat
+
+hingga kekuning-kuningan dan daging buah
+
+tengahnya putih hingga kemerah-merahan.
+
+Tanama salak mempuyai tangkai daun yang
+
+panjangnya 3-3,5 m, berduri banyak, berbelah
+
+sirip dan mempunyai panjang helaian daun 5-7
+
+cm. Salak mempunyai bunga majemuk,
+
+berumah dua dan tumbuh pada ketiak daun.
+
+Bunga majemuk tersebut terdiri dari 1-3 butir
+
+dan terbungkus oleh pelepah yang panjangnya
+
+1-10 cm, bersisik dan tangkai buahnya kuat.
+
+Buah salak berbentuk bulat telur terbalik,
+
+ujungnya runcing bersisik seperti genting,
+
+panjanya 5-7 cm dan daging buahnya berwarna putih sampai kemerahan.6
+
+Sistematika tanaman salak.
+
+Divisio : Spermatopyta
+
+Sub divisio : Angiospermae
+
+Klass : Monocotylodonae
+
+Ordo
+
+: Palmaes
+
+Familia : Palmae
+
+Genus : Salacca
+
+Species : Salacca edulis reinw
+
+Di Padangsidimpuan, penduduk dan
+
+pedagang:
+
+pengecer
+
+umumnya
+
+mengelompokkan salak atas tujuh macam
+
+berdasarkan lokasi penanamannya yaitu : salak
+
+Hutakoje, Sibakua, Hutalambung, Sitinjak,
+
+Siamporik, Sibombong dan Lobu Layan.
+
+Sedangkan sebagian petani sudah membedakan
+
+salak berdasarkan rasa dan aroma dari daging
+
+buag salak atas salak apel, nenas, jambu bol, kelapa dan salak madu.7
+
+Komposisi kimia buah salak
+
+Buah salak digemari orang karena rasanya enak
+
+dan khas, ada yang manis, masam atau sepet.
+
+Buahnya mengandung air, karbohidrat, asam-
+
+asam organik, protein, pigmen, tannin dan
+
+vitamin.
+
+Tabel 1. Komposisi kimia daging buah salak per 100 gram1)
+
+Komponen
+
+Jumlah
+
+Kalori
+
+77,0 kal
+
+Protein
+
+0,4 gr
+
+Lemak
+
+0,0 gr
+
+Karbohidrat
+
+20,9 gr
+
+Kalsium
+
+28,0 mgr
+
+Fosfor
+
+18,0 mgr
+
+Besi
+
+4,2 mgr
+
+Vitamin B
+
+0,04 mgr
+
+Vitamin C
+
+2,0 mgr
+
+Air
+
+78,0 gr
+
+Di dalam kehidupannya, buah-buahan
+
+akan mengalami tiga tahap perkembangan
+
+Yours truly,aitu, tahap pertumbuhan (growth),
+
+tahap pematangan (maturation) dan tahap
+
+penuaan atau lewat masak (senencence).
+
+Agrium, Oktober 2010 Volume 16 No. 2
+
+Perkembangan buah sepenuhnya terjadi pada saat buah masih berada di pohon, tetapi pematangan dan penuaan dapat terjadi setelah buah dipetik, tergantung dari jenis buah-buahan tersebut.
+Karbohidrat dihasilkan dari proses fotosintesis oleh tanaman berdaun hijau. Karbohidrat memegang peranan yang cukup penting di dalam sistim biologi, khususnya respirasi, disamping itu karbohidrat di dalam tanaman juga digunakan untuk pertumbuhan atau disimpan sebagai cadangan makanan. Selama pematangan buah, protopektin terhidrolisa menjadi bentuk pectin yang sebagian larut kedalam cairan lamella tengah. Hal ini menyebabakan perubahan yang terlihat jelas, yaitu menjadi lunaknya jaringan. Disamping itu, dalam buah, kebanyakan pati diubah menjadi gula.8
+Keseluruhan proses fotosintesis yang melibatkan berbagai macam enzim dituliskan dengan persmaan reaksi :
+6CO2 + 6H2O  C6H12O6 + 6O2
+Karbohidrat Karbohidrat adalah zat-zat yang dengan
+hidrolisis menghasilkan gula sederhana. Karbohidrat dapat dikelompokkan menjadi : monosakarida, disakarida, oligosakarida dan polisakarida. Monosakarida merupakan suatu molekul yang teridiri dari lima atau enam atom karbon (C), sedangkan oligosakarida merupakan polimer dari 2-10 monosakarida dan polisakarida terdiri dari lebih 10 monomer monosakarida.
+Polisakarida Polisakarida merupakan polimer molekulmolekul monosakarida berfungsi sebagai sumber energi (pati) dan juga sebagai penguat tekstur, sellulosa dan lignin. Gula reduksi
+Karbohidrat ada yang bersifat gula pereduksi dan gula bukan pereduksi. Sifat gula pereduksi ini disebabkan adanya gugus aldehida dan atau gugus keton yang bebas, sehingga dapat merduksi ion-ion logam seperti tembaga,
+
+CH2OH
+
+H
+
+OH H
+
+H
+
+OH H
+
+O
+
+OH
+
+CH2OH OH
+H OH H
+O
+
+1,6-linkage
+
+H OH
+
+H OH
+
+CH2OH
+
+CH2
+
+H
+
+OH H
+
+OH H
+
+H
+
+H
+
+OH H
+
+O
+
+OH H
+
+O
+
+O
+
+CH2OH
+
+OH
+
+H
+
+OH H
+
+O
+
+H OH
+
+H OH
+
+H OH
+
+1,4-linkage
+Gambar 1. Struktur senyawa polisakarida
+
+(amilum).
+
+Cu dan perak, Ag dalam larutan basa. Dalam
+larutan Benedict yang terbuat campuran CuSO4, NaOH dan Na-sitrat, gula tersebut akan mereduksi ion Cu2+ yang berupa Cu(OH)2 menjadi Cu+ sebagai CuOH selanjutnya menjadi
+Cu2O yang tidak larut, berwarna kuning atau merah bata. Pada saat yang bersamaaan, gula
+pereduksi akan teroksidasi. Contoh gula pereduksi.9
+
+H OH
+
+CH2OH OH
+H OH H
+OH
+
+H OH
+
+H OH
+
+CH2OH O
+H OH H
+
+HH O
+
+H OH
+
+CH2OH O
+H OH H
+
+H OH
+
+H OH
+
+Gambar 2. Contoh gula pereduksi.
+
+Enzim Enzim adalah molekul protein yang
+berfungsi sebagai katalisator dalam proses biologis pada makhluk hidup, karena itu lazim dosebut dengan biokatalisator. Secara srtuktural enzim terdiri dari dua bagaian, yaitu bagaian protein (apoenzim) dan bagian non-protein (gugus prostatik) yang terdiri dari ion logam (kofaktor) dan senyawa-senyawa organik lainnya (koenzim). Secara keseluruhan struktur ini disebut haloenzim. Secara fungsional enzim memiliki bagiab pusat aktif (active centre) dan bagian pusat pengendali (regulatory centre). Pusat aktif adalah tempat terjadinya kontak antara residu-residu asam amino aktif (active site) dengan gugus aktif dari subtrat. Pusat pengendali berperan untuk mengatur kesetimbangan akibat kontak dengan suatu ligan (aktivator dan inhibitor) yang senantiasa memberikan perubahan konformasi molekul enzim. Enzim memiliki tenaga katalitik yang luar biasa, yang biasanya jauh lebih besar dari katalisatro anorganik. Spesifitas enzim amat tinggi terhadap
+
+Agrium, Oktober 2010 Volume 16 No. 2
+
+subtratnya. Enzim mempercepat reaksi kimiawi spesifik tanpa pembentukan produk samping.10
+Amilase Amilase adalah enzim yang termasuk
+kelompok hidrolase, yang dapat menghidrolisa polisakarida (amilum) menjadi senyawasenyawa karbohidrat sederhana. Salah satu jenis enzim amilase yaitu : -amilase disebut juga dengan endo amylase, yang kerjanya memutus ikatan 1,4 glikosida secara acak dari bagian dalam molekul amilum, baik pada amilosa maupun amilopektin. Enzim -amilase merupakan suatu enzim yang bervariasi berat molekulnya, oleh karena itu enzim merupakan suatu isoenzim yanga mana dapat memiliki bentuk yang berbeda, namun mengkatalisa reaksi yang sama dengan subtrat yang strukturnya sama dan menghasilkan produk yang sama.
+Efek suhu Reaksi katalisis enzim, seperti juga reaksi-
+reaksi kimia lain dipengaruhi oleh suhu. Dalam batas-batas suhu tertentu, kecepatan reaksi yang dikatalisis oleh enzim naik bila suhu naik. Reaksi yang paling cepat memerlukan suhu optimum. Di atas ini, kecepatan reaksi menurun tajam, terutama karena denaturasi enzim oleh panas.
+Kenaikan kecepatan di bawah suhu optimum disebabkan oleh kenaikan energi kinetika molekul-molekul yang bereaksi. Akan tetapi bila suhu tetap dinaikkan terus, energi kinetika molekul-molekul enzim menjadi demikian besar sehingga melampaui penghalang energi untuk memecahkan ikatan-ikatan sekunder yang mempertahankan enzim dalam keadaan aslinya atau keadaan katalitik aktif. Akibatnya struktur sekunder dan tersier hilang disertai hilangnya aktivitas katalitik.3
+Enzim secara alamiah terdapat dalam jaringan tumbuhan, yang kegiatannya berlanjut setelah dipanen yang dapat menimbulkan perubahan kimia yang tidak dikehendaki selama penyimpanan bahan makanan. Kerusakan selsel tumbuhan oleh enzim yang terdapat pada bahan itu sendiri disebut autolisis dan merupakan salah satu penyebab kerusakan pangan.2
+Setelah produk-produk tanaman dipetik/dipanen, terdapat enzim-enzim yang melangsungkan perubahan sifat, antara lain melangsungkan pembongkaran zat-zat makanan/unsur hara dan peristiwa ini sering
+
+menimbulkan kerusakan. Pada umumnya kerusakan-kerusakan tadi akan cepat didorong dan diperluas oleh pengaruh faktor-faktor luar, yaitu : suhu, cahaya, udara, kelembaban, waktu dan perlakuan manusia.11 Kerusakan buah
+Makanan yang telah mengalami penyimpanan dari keadaan normal biasanya telah menmgalami kerusakan. Keriteria yang dapat digunakan untuk menentukan apakah suatu makanan masih dapat dikonsumsi antara lain :
+- Makanan tersebut bebas polusi pada setiap tahap penanganan produk makanan.
+- Bebas dari perubahan-perubahan kimia fisik.
+Bebas mikroba dan parasit. a. Kerusakan mekanis dan fisik
+Kerusakan mekanis terjadi akibat benturan-benturan mekanis sekama proses pemanenan maupun pasca panen, pengolahan, pengangkutan serta pemanasan baik antara bahan dengan alat pemanenan dan alat pengangkutan, dapat juga antara bahan pangan dengan wadah pengolahan.
+Gejala kerusakan yang timbul antara lain memar (karena tertindih atau tertekan), retak, pecah dan terpotong. Komoditi pangan yang mudah mengalami kerusakan mekanis adalah buah-buahan dan sayuran. Sedangkan kerusakan fisik yang disebabkan oleh pengaruh luar seperti serangga pada biji-bijian, buah dan sayuran selama penyimpanan. Pengaruh dari dalam termasuk adanya reaksi-reaksi enzimatis sehingga berpengaruh terhadap warna bahan, perubahan kekentalan bahan pangan dan tekstur bahan pangan.
+b. Kerusakan kimiawi. Perubahan kimiawi mencakup terjadinya
+reaksi enzimatis maupun non-enzimatis, terjadinya proses ketengikan yang akan menyebabkan penurunan mutu secara organoleptis maupun mutu gizinya. Adanya sinar juga dapat menyebabkan terjadinya kerusakan.
+c. Kerusakam mikrobiologi. Mikroba perusak bahan pangan banyak
+jenisnya yang dapat digolongkan menjadi tiga kelompok yaitu : bakteri, kapang dan khamir. Jenis pangan yang dapat dirusak oleh mikroba sangat tergantung pada komposisi bahan baku setelah diolah.
+
+Agrium, Oktober 2010 Volume 16 No. 2
+
+Jenis kerusakan mikrobiologi pada makanan ditandai dengan timbulnya kapang, kebusukan, lendir, terjadinya perubahan warna dan sebagainya. Pada umumnya golongan bakteri merusak bahan-bahan yang banyak mengandung protein dan berkadar air tinggi. Kapang menyerang bahan makanan yang banyak mengandung pektin, pati dan sellulosa. Pertumbuhan kapang dapat dilihat dengan mata kepala secar mudah karena bersel banyak. Sedangkan khamir menyerang bahan-bahana yang mengandung banyak gula, seperti buah salak.
+Buah salak banyak mengandung karbohidrat, terutama pati yang dapat mengalami kerusakan sampai terjadi pembusukan. Hal ini disebabkan karena terjadinya degradasi pati menjadi gula-gula sederhana yang akan digunakan untuk melakukan aktivitas selama sisa hidup dari buah tersebut. Pemecahan pati dapat dilakukan oleh enzim amylase dan maltase.8
+Proses respirasi pada buah salak dapat menyebabkan terjadinya disorganisasi sel yang ditandai dengan meningkatnya permeabilitas sel membran sellular dan meningkatnya keempukan daging buah sehingga merangsang aktivitas enzim respiratiris. Kondisi ini menyebabkan terjadinya peningkatan proses metabolisme dalam jaringan, sehingga buah menjadi busuk.12
+
+Metode-metode kuantitatif penentuan gula reduksi
+a. Metode Nelson-Somogyi. Metode Nelson-Somogyi, mengukur gula reduksi dengan memakai kupri-arsenomolibdat. Kuprum mula-mula direduksi menjadi bentuk kupro dengan pemanasan dalam larutan gula. Kupro yang terbentuk lebih lanjut mereduksi arsenomolibdat menjadi molydenum biru. Dengan membandingkannya dengan standar, konsentrasi dalam sampel dapat ditentukan.
+Reaksi kimia yang terjadi ;
+
+O
+
+Na
+
+O
+
+Na
+
+CO
+
+CO
+
+H C OH Cu(OH)2 +
+H C OH
+
+HCO HCO
+
+Cu + 2H2O
+
+CO
+
+CO
+
+OK
+
+OK
+
+H
+
+O Na
+
+HCO
+
+CO
+
+H C OH
+
+H CO H CO
+
+Cu + OH C H H C OH
+
+CO
+
+H C OH
+
+OK CH2OH
+
+OH O Na
+
+HCO
+
+CO
+
+H C OH
+
+H C OH
+
+OH C H +
+
++ Cu2O
+
+H C OH
+
+H C OH
+
+CO
+
+H C OH
+
+OK
+
+CH2OH
+
+Cu2O + 2H+
+
+2Cu+ + H2O
+
+2H+ + 2Cu+ + [AsMo12O40]3- Mo2O5.10MoO3 + AsO43- + 2Cu2+ + H2O
+
+Arsenomolibdat Molibdenum biru
+Spektrofotometri
+
+Metode ini didasarkan pada sifat materi
+
+dalam mengabsorpsi energi cahaya. Cahaya
+
+dengan frekuensi tertentu, bertalian dengan
+
+foton, yang mempunyai sejumlah energi
+
+tertentu. Jumlah energi yang dimiliki oleh foton
+
+yang menentukan apakah suatu macam zat
+
+molekuler tertentu akan menyerap atau
+
+memancarkan cahaya dengan panjang
+
+gelombang yang sesuai.
+
+Dalam analisa kuantitatif, konsentrasi
+
+solut akan dapat ditentukan melalui persamaan yang disebut hukum Lambert-Beer.13
+
+A = .a.b
+
+Dimana,
+A = Absorbansi  = Konstanta Absorbsifitas (L Mol-1
+cm-1)
+b = Panjang lintasan cahaya (cm)
+c = Konsentrasi zat penyerap (Mol/L)
+
+Sampel yang digunakan dalam penelitian ini
+
+adalah buah salak vareitas Salacca sumatrana
+
+Becc., kultivar kelapa, yang langsung diambil
+
+dari daerah perkebunan salak di Desa Sibakua,
+
+Kota Padangsidimpuan.
+
+C. PENGOLAHAN DATA
+
+Kadar gula reduksi hasil proses
+
+penyimpanan ditentukan dengan menggunakan
+
+kurva kalibrasi yang diperoleh dengan
+
+mengukur absorbansi larutan standar dari
+
+berbagai konsentrasi.
+
+Hasil pengukuran absorbansi larutan
+
+standar dari berbagai konsentrasi dicantumkan
+
+pada table berikut.
+
+Tabel 2. Absorbansi larutan standar.
+
+No Konsentrasi
+
+Absorbansi
+
+Glukosa (mg/ml)
+
+1
+
+0,02
+
+0,361
+
+2
+
+0,04
+
+0,405
+
+3
+
+0,06
+
+0,449
+
+4
+
+0,08
+
+0,486
+
+5
+
+0,10
+
+0,534
+
+Agrium, Oktober 2010 Volume 16 No. 2
+
+6
+
+0,12
+
+7
+
+0,14
+
+8
+
+0,16
+
+9
+
+0,18
+
+10
+
+0,20
+
+0,573 0,620 0,652 0,701 0,745
+
+Data yang diperoleh diolah dengan
+
+statistik sebagai berikut.
+
+Xi
+
+Yi
+
+Xi2
+
+Yi2
+
+XiYi
+
+0,02 0,361 0,0004 0,130321 0,00722
+
+0,04 0,405 0,0016 0,164025 0,01620
+
+0,06 0,449 0,0036 0,201601 0,02694
+
+0,08 0,486 0,0064 0,236196 0,03888
+
+0,10 0,534 0,0100 0,285156 0,05340
+
+0,12 0,573 0,0144 0,328329 0,06876
+
+0,14 0,620 0,0196 0,384400 0,08680
+
+0,16 0,652 0,0256 0,425104 0,10432
+
+0,18 0,701 0,0324 0,491401 0,12618
+
+0,20 0,745 0,0400 0,555025 0,14900
+
+n = 10  Xi = 1,1
+
+ Xi2 = 0,1540  Yi2 = 3,201558
+
+ Yi = 5,526  XiYi = 0,6777 Ari data diatas selanjutnya dibuat persamaan
+
+garis regresi linier dengan memakai persmaan :
+
+Y = a + bx
+
+Dimana, N ( Xi2) ( Yi) ­ ( Xi) ( Yi)
+
+a =  n ( Xi2) - ( Xi)2
+
+a = 0,32
+
+n ( XiYi) ­ (  Xi) ( Yi)
+
+b =  n ( Xi2) - ( Xi)2
+
+b = 2,12
+
+Setelah harga-harga tersebut disubstitusikan ke
+
+dalam persmaan regresi linier di atas, maka
+
+diperoleh :
+
+Y = 0,32 + 2,12 x
+
+Selanjutnya perhitungan konsentrasi dilakukan
+
+dengan menggunakan persamaan di atas,
+
+dimana :
+
+Y = Absorbansi
+
+X = Konsentrasi gula reduksi (mg/ml)
+
+Harga X yang diperoleh kemudian digunakan
+
+untuk manghitung persentase gula sebagai
+
+berikut
+
+X . FP
+
+KGR =  x 100%
+
+S
+
+Dimana,
+
+KGR = Konsentrasi Guka Reduksi
+
+X =Konsentrasi Gula Reduksi dari
+
+perhitungan regresi (mg/ml)
+
+FP = Faktor Pengenceran
+
+S = berat sample (mg)
+
+Analisa Variansi
+
+Untuk menentukan ada tidaknya
+
+pengaruh suhu dan waktu penyimpanan
+
+terhadap kadar gula reduksi, digunakan analisa
+
+variansi desain eksperimen faktorial 4 x 10,
+
+model tetap.
+
+Sumber dk JK
+
+RJK
+
+Fh
+
+Rata-rata 1 1862,00 1862,00
+
+Perlakua
+
+4
+
+4
+
+n
+
+3
+
+32450,7
+
+S
+
+9 3,24507 1,08169 6
+
+W
+
+27
+
+6
+
+2 583773,
+
+SW 80 175,132 19,4591 6
+
+Kekeliru
+
+0
+
+2 266303,
+
+an
+
+239,673 8,87678 6
+
+2
+
+8
+
+0,00266 0,00003
+
+6
+
+3
+
+Jumlah 12 2280,09
+
+0
+
+7
+
+Sumber
+
+F0,05
+
+F0,01
+
+Perlakuan
+
+S
+
+2,76
+
+4,13
+
+W
+
+2,04
+
+2,72
+
+SW
+
+1,65
+
+2,03
+
+Dari table diatas dapat dilihat bahwa, F hitung
+
+lebih besar dari F tabel. Hal menyatakan bahwa
+
+suhu dan waktu penyimpanan serta interaksi
+
+suhu dan waktu penyimpanan berpengaruh
+
+sangat nyata terhadap kadar gula reduksi yang
+
+terkandung dalam daging buah salak selama
+
+proses penyimpanan.
+
+D. KESIMPULAN
+
+Dapat disimpulkan, hasil penelitian bahwa suhu
+
+dan waktu penyimpanan sangat berpengaruh
+
+terhadap kadar gula reduksi yang terkandung
+
+dalam buah salak. Untuk setiap kondisi suhu
+
+penyimpanan,
+
+bertambahnya
+
+waktu
+
+penyimpanan maka kadar gula reduksi semakin
+
+meningkat sampai batas tertentu sampai
+
+akhirnya menurun kembali dan semakin tinggi
+
+suhu penyimpanan semakin cepat waktu yang
+
+dibutuhkan untuk mendapatkan kadar gula
+
+reduksi maksimumnya.
+
+Tabel 3. Data konsentrasi (%) gula reduksi yang terdapat dalam buah salak setelah penyimpanan.
+
+Agrium, Oktober 2010 Volume 16 No. 2
+
+Suhu
+
+W a k t u ( hari)
+
+Jumlah
+
+Rang
+Jumlah Rata-rata
+34ºC
+Jumlah Rata-rata
+37ºC
+Jumlah Rata-rata
+40ºC
+Jumlah Rata-rata Jlh besar Rata-rata
+
+0 1,27 1,29 1,27 3,83 1,27 1,27 1,29 1,27 3,83 1,27 1,27 1,29 1,27 3,83 1,27 1,27 1,29 1,27 3,83 1,27 15,32 1,27
+
+1 1,41 1,41 1,41 4,23 1,41 2,12 2,12 2,12 6,36 2,12 3,39 3,39 3,39 10,13 3,39 3,90 3,89 3,89 11,68 3,89 32,44 2,703
+
+2 1,34 1,34 1,34 4,02 1,34 1,44 1,44 1,44 4,32 1,44 5,10 5,10 5,10 15,30 5,10 4,64 4,64 4,64 13,92 4,64 37,56 3,13
+
+3 1,57 1,56 1,57 4,70 1,56 3,11 3,11 3,11 9,33 3,11 8,14 8,15 8,14 24,43 8,14 4,21 4,21 4,23 12,65 4,21 51,11 4,25
+
+4 3,68 3,68 3,69 11,05 3,68 2,97 2,97 2,97 8,91 2,97 5,51 5,51 5,51 16,53 5,51 4,14 4,13 4,13 12,40 4,13 48,89 4,07
+
+E. DAFTAR PUSTAKA 1. Tjahjadi, N. 1995. Bertanam salak. Kanisius. Yogyakarta. Hal. 11-15.
+
+2. Gaman, P. M. dan K. B. Sherrington.1992. Pengantar Ilmu Pangan, Nutrisi dan Mikrobiologi. Edisi ke-2 GM Pess. Hal. 59-61.
+
+3. Martin, P. W. dkk. 1984. Biokimia. Edisi ke-19, Alih Bahasa : Adji Dharma dan Andreas S. K. CV. EGC Penerbit Buku Intan. Jakarta. Hal. 88.
+
+5 5,02 5,01 5,01 15,04 5,013 7,92 7,92 7,92 23,76 7,92 5,60 5,60 5,60 16,80 5,60 4,20 4,20 4,20 12,60 4,20 68,20 5,68
+
+6
+
+7
+
+8
+
+9
+
+5,24 8,07 6,93 6,08
+
+5,25 8,08 6,94 6,09
+
+5,24 8,07 6,93 6,09
+
+15,73 24,22 20,80 18,26 121,88
+
+5,24 8,07 6,93 6,08
+
+4,95 5,37 4,03 4,00
+
+4,95 5,39 4,03 3,99
+
+4,95 5,39 4,03 3,99
+
+14,85 16,15 12,09 11,98 111,58
+
+4,95 5,37 4,09 3,93
+
+2,76 3,33 3,11 3,07
+
+2,74 3,33 3,11 3,07
+
+2,76 3,33 3,11 3,07
+
+8,26 9,99 9,34 9,21 123,86
+
+2,75 3,33 3,11 3,07
+
+4,08 4,03 4,03 3,96
+
+4,08 4,03 4,03 3,96
+
+4,08 4,03 4,03 3,96
+
+12,24 12,09 12,09 11,88 115,38
+
+4,08 4,03 4,03 3,96
+
+51,08 62,45 54,32 51,33 472,7
+
+4,25 5,204 4,52 4,27
+
+sumaterana Becc). Fak Pertanian USU
+
+Medan. Hal. 3.
+
+8. Willis, R. H., T. H. Lee, W. B. MC. Glasson and E. G. Hall. 1981. Postharvest, An Introduction to Physicology and Handling of Fruit and Vegetable. New South Wales University Press Limited. Sydney. Hal. 71-73.
+
+9. Girindra, A. 1986. Biokimia I. PT. Gramedia. Jilid I. Erlangga. Jakarta. Hal. 21.
+
+4. Santoso, H. B. 1990. Bertanam buahbuahan. Jilid 2. Kanisius. Yogyakarta. Hal. 26-27.
+
+10. Wirahadikusumah, M.1989. Biokimia : Protein, Enzim dan Asam Nukleat. ITB. Bandung. Hal. 50.
+
+5. Apandi, M. 1984. Teknologi Buah dan sayur. Alumni. Bandung. Hal. 91-92.
+6. Satiadireja, S. 1982. Holtikultura Pekarangan dan buah-buahan. Yasaguna. Jakarta. Hal. 14.
+7. Jimar. 1995. Analisis Keragaman Morfologi, Anatomi dan Sitogenetika Salak Padangsidimpuan (Salacca
+
+11. Kartasapoetra, A. G.1994. Teknologi Penanganan Pasca Panen. Rineka Cipta. Jakarta. Hal. 114.
+12. Monoarfa, B.1976. Beberapa perubahan Fisisko Kimia Buah Salak ( Salacca Edulis Reinw) Selama Penyimpanan Ruang. Laporan Masalah Khusus Fatemata. Institut Pertanian Bogor. Bogor. Hal. 14.
+
+13. Under Wood, A. L. dan R. A. Day.1990. Analisa Kimia Kuantitatif. Edisi ke-4. Alih Bahasa: Soendoro.
+
+Agrium, Oktober 2010 Volume 16 No. 2
+Penerbit Erlangga. Jakarta. Hal. 383398.
+
+PEMBERIAN KOMPOS TKS PLUS DAN EFISIENSI PUPUK ANORGANIK DALAM MENINGKATKAN PRODUKSI KEDELAI (Glycine max L.)
+Asritanarni Munar1, Sri Utami1 dan Faisal Azmi2
+1 Jurusan Agronomi, 2 Jurusan Ilmu Hama dan Penyakit Tumbuhan, Fakultas Pertanian, UMSU, Medan
+Email: sri_utami@yahoo.com
+Abstract
+The study to get the accurate of dosage both organic fertilizer and inorganic fertilizer to efficiency and reduce dependence to inorganic fertilizer, through a 4x4 factorial pot experiment with applications of composed plus oil palm empty bunches compost (plus OEB compost) and inorganic fertilizer respectively, with three replications was applied from Juny to September 2007 at Jalan Tuar, Kelurahan Medan Amplas, Kecamatan Medan Denai, Kotamadya Medan. Treatments of plus OEB compost at K0 = without plus OEB compost, K1 = OEB compost plus green manure, K2 = OEB compost plus manure, K3 = OEB compost plus green manure plus manure. Treatments of inorganic fertilizer at P0 = without inorganic fertilizer, P1 = 25% inorganic fertilizer (25 kg urea, 37.5 kg SP-36 and 37.5kg KCl), P2 = 50% inorganic fertilizer (50 kg urea, 75 kg SP-36 and 75kg KCl) and P3 = 100% inorganic fertilizer (100 kg urea, 150kg SP-36 and 150kg KCl). Plus oil palm empty bunches compost could increase production mand growth of soybean, The higest its get from OEB compost plus green manure plus manure treatment, followed by OEB compost plus manure and OEB compost plus green manure. Inorganic fertilizer could increase production and growth of soybean, the higest its get from 100% inorganic fertilizer. The accurate of dosage both organic fertilizer and inorganic fertilizer didn't get, because interaction of them non significant.
+Keywords: soy bean, plus OEB compost and inorganic fertilizer
+Abstrak
+
+Agrium, Oktober 2010 Volume 16 No. 2
+
+Penelitian untuk memperoleh dosis pupuk organik dan anorganik yang tepat untuk efisiensi dan mengurangi ketergantungan terhadap pupuk anorganik dilakukan dengan percobaan 4x4 faktorial menggunakan masing-masing kompos tandan kosong kelapa sawi plus t dan pupuk anorganik , dengan tiga perulangan yang dicoba mulai Juni sampai September 2007 di Jalan Tuar Kelurahan Medan Amplas, Kecamatan Mean Denai, Kotamadya Medan. Perlakuan terhadap kompos tandan kosong kelapa sawit plus pada K0= kompos TKS tanpa penambahan , K1= Kompos TKS plus pupuk kandang, K3= Kompos TKS plus pupuk kandang dan pupuk. Perlakuan pupuk anorganik pada P0= tanpa pupuk anorganik, P1= 25% pupuk anorganik( 25kg urea, 37,5kg SP-36 dan 37,5 kg KCl), P2= 50% pupuk anorganik (50 kg urea, 75 kg SP-36 dan 75 kg KCl) dan P3= 100% pupuk anorganik (100 kg urea, 150 kg SP-36 dan 150 kg KCl). Kompos TKS plus dapat meningkatkan produksi dan pertumbuhan kacang kedelai, hasil paling tinggi diperoleh pada kompos TKS plus pupuk kandang plus perlakuan dengan pupuk diikuti oleh kompos TKS plus pupuk dan kompos TKS plus pupuk kandang. Pupuk anorganik dapat meningkatkan produksi dan pertumbuhan kacang kedelai, yang paling tinggi diperoleh pada penambahan 100% pupuk anorganik. Dosis pupuk organic dan anorganik yang tepat tidak diperoleh karena interaksi keduanya tidak signifikan.
+
+Kata kunci: kacang kedelai, kompos TKS plus, pupuk anorganik.
+
+A. PENDAHULUAN
+
+Pertanian alternatif lebih menitikberatkan
+
+pada masukan dari dalam usaha tani melalui
+
+Indonesia termasuk salah satu negara
+
+proses daur ulang. pertanian organik,
+
+penghasil kedelai dan juga memiliki areal
+
+menghindarkan bahan kimia dan pupuk yang
+
+penanaman yang cukup luas. Ironisnya sampai
+
+bersifat meracuni lingkungan dengan tujuan
+
+saat ini Indonesia masih mengimpor kedelai dari
+
+untuk memperoleh kondisi lingkungan yang
+
+negara lain untuk memenuhi kebutuhan dalam
+
+sehat. Pertanian berkelanjutan dengan masukan
+
+negeri, seiring dengan produksi kedelai nasional
+
+teknologi rendah adalah membatasi
+
+yang mengalami penurunan cukup tinggi dari
+
+ketergantungan pada pupuk anorganik dan
+
+1.36 juta ton pada tahun 1997 menjadi 0.83 juta
+
+bahan kimia pertanian lainnya.
+
+ton tahun 2001. Penurunan produksi kacangkacangan, terutama kedelai penyebabnya antara lain karena rendahnya harga jual produksi di tingkat petani dan rendahnya produktifitas lahan.
+
+Pupuk organik yang dapat digunakan seperti fungsi pupuk anorganik (pupuk kimia) adalah kompos, pupuk kandang, azola, pupuk hijau (dari jenis leguminosae), limbah industri dan sebagainya. Tandan Kosong Sawit (TKS)
+
+Usaha untuk mengatasi masalah tersebut
+
+merupakan bahan organik yang potensial
+
+salah satunya dapat dilakukan dengan
+
+digunakan sebagai bahan pembenah tanah, baik
+
+intensifikasi pertanian, yang dikenal dengan
+
+sebagai bahan kasar pembuatan kompos
+
+pertanian modern. Penerapan pertanian modern
+
+maupun ditinjau dari jumlahnya yang banyak.2
+
+dengan memberikan bahan-bahan kimia anorganik pada lahan pertanian telah memberikan dampak negatif terhadap lingkungan, residu pupuk terutama nitrogen diketahui telah mencemari air tanah sebagai sumber air minum dan bahaya yang ditimbulkannya terhadap kesehatan manusia.
+
+Kompos TKS mengandung : 0,029% P; 2,91% K; 0,62% Ca; 0,48% Mg; 32,77% C; 2,04% N, C/N 16,06 dan kadar air 52% (Herawan et al, 1999). Kadar hara kompos TKS dan pupuk organik lainnya sangat bervariasi jumlahnya, tergantung dari bahan dan proses pembuatannya. Kompos TKS merupakan pupuk
+
+Banyak pakar pertanian dan lembaga
+
+organik yang kaya akan unsur K, sehingga
+
+swadaya masyarakat internasional berusaha
+
+dalam aplikasinya di lapangan, penambahan
+
+mengembangkan pertanian alternatif atau
+
+pupuk organik yang kaya unsur hara lain,
+
+pertanian organik yang bertujuan untuk
+
+seperti mucuna bracteata (3,94% N) dan pupuk
+
+merehabilitasi kondisi tanah yang tercemar.
+
+kandang/kotoran ayam (0,6% P) sangat
+
+Salah satu usaha meningkatkan kesehatan tanah
+
+bermanfaat dalam melengkapi kebutuhan hara
+
+adalah dengan membangun kesuburan tanah
+
+tanaman.
+
+yang dilaksanakan dengan cara meningkatkan
+
+Darmosarkoro, et al., (2000)2 meneliti pengaruh
+
+kandungan bahan organik melalui kearifan
+
+kompos TKS terhadap sifat tanah, dan
+
+tradisional, atau menggunakan masukan dari dalam usaha tani (on-farm inputs) itu sendiri.1
+
+pertumbuhan tanaman jagung mendapatkan bahwa kompos TKS yang telah diinkubasikan
+
+selama tiga minggu dapat meningkatkan
+
+Agrium, Oktober 2010 Volume 16 No. 2
+
+kesuburan tanah yaitu meningkatkan pH, K , Mg dapat dipertukarkan dan KTK tanah.
+Tanah yang diaplikasikan kompos TKS meningkat pH nya dari 5,79 menjadi 6,63 bila diberi kompos TKS aerob dan 6,17 bila diberi kompos TKS anaerob. Kompos TKS dapat meningkatkan kadar C organik tanah dan peningkatannya semakin tinggi bila dikombinasikan dengan kotoran ayam ataupun azolla. Kompos TKS juga dapat meningkatkan kadar N total tanah, dan peningkatan tertinggi terjadi bila dikombinasikan hanya dengan 50% pupuk standar (pupuk anorganik), meningkatkan kadar K tukar tanah. Sedangkan peningkatan tertinggi P tersedia tanah disumbangkan dari pemberian kotoran ayam.3
+Munar (2005)4 mendapatkan bahwa pemberian kompos TKS aerob menghasilkan tanaman kedelai tertinggi dan bila dikombinasikan dengan azolla dapat meningkatkan bobot basah sebesar 193,54% dan bobot kering tajuk sebesar 53,19% dibandingkan dengan tanpa kompos TKS dan azolla atau kotoran ayam.
+Pembenaman azolla meningkatkan bahan organik dan memperbaiki sifat fisiko-kimia tanah. Hasil percobaan lapangan menunjukkan penggunaan azolla sebagai pupuk organik dapat menghemat pupuk anorganik sebanyak 50%.5
+Pertanian organik belum dapat diterapkan secara murni mengingat cukup banyak kendala yang dihadapi. Pada tahap awal penerapan pertanian organik masih perlu dilengkapi pupuk kimia/mineral, terutama pada tanah-tanah yang miskin hara. Pupuk kimia masih sangat diperlukan supaya takaran pupuk organik tidak terlalu banyak yang akan menyulitkan dalam pengelolaannya.1
+Sehingga penelitian tentang pemberian kompos TKS plus pupuk organik yang lain perlu dilakukan agar penggunaan pupuk anorganik lebih efisien dalam meningkatkan produksi tanaman kedelai.
+B. TINJAUAN PUSTAKA
+Dalam satu ton TBS yang diolah dihasilkan limbah padat organik berupa TKS, serat dan cangkang biji dalam jumlah masingmasing 23 %; 13,5 % dan 15,5 % (Darnoko 1992). Menurut Singh (1994) TKS yang dihasilkan adalah 22 ­ 23 % dari jumlah TBS
+
+yang diolah, dengan kandungan hara 42,8 % C; 2,90 % K2O; 0,80 % N; 0,22 % P2O5 ; 0,30 % MgO dan unsur-unsur mikro antara lain 10 ppm B, 23 ppm Cu dan 51 ppm Zn. Menurut Loong et al. (1987) jumlah TKS adalah 20 % dai TBS yang diolah, dalam tiap ton TKS terdapat unsur N, P, K dan Mg berturut-turut setara dengan 3 kg urea, 0,6 kg pupuk fosfat alam (CIRP), 12 kg MOP dan 2 kg kiserit.
+TKS merupakan bahan organik yang potensial digunakan sebagai bahan pembenah tanah, baik sebagai bahan kasar pembuatan kompos maupun ditinjau dari jumlahnya yang banyak.2 Kompos merupakan hasil akhir dari suatu proses fermentasi tumpukan sampah-sampah baik yang berasal dari tanaman atau hewan (Lubis et al. 1986). Kompos yang baik adalah kompos yang mempunyai C/N rendah, kadar hara esensial tinggi dan tidak mengandung racun maupun logam berat. Berdasarkan unsur yang dikandungnya, mutu kompos dibedakan menjadi rendah, sedang dan tinggi. Jika kadar N, P, K, Ca dan Mg cukup tinggi, maka kompos tersebut cukup baik sebagai sumber hara, tetapi kadar unsur hara mikro ( Fe, Mn, Cu dan Zn ) tidak boleh terlalu tinggi.6
+Kualitas kompos yang dihasilkan pada akhir pengomposan dapat dilihat dari kandungan unsur hara, baik hara makro (N, P, K Ca, Mg) maupun hara mikro (Fe, Cu, Zn dan Mn). Semakin tinggi kandungan hara, maka semakin baik kualitas kompos tersebut.
+Pupuk kandang merupakan kotoran padat dan cair dari hewan ternak yang tercampur dengan sisa-sisa makanan atau alas kandang. Jenis ternak akan mempengaruhi kadar hara yang terkandung dalam pupuk kandang .
+Kotoran ayam mempunyai kadar N, P dan K yang lebih tinggi dari kotoraan sapi, yaitu masing-masing 1,7%; 0,6% dan 0,6% untuk kotoran ayam dan 0,6%, 0,1% dan 0,5% untuk kotoran sapi, sedangkan menurut Tampubolon (2003) pupuk kandang ayam mengandung N, P dan K masing-masing 0,59%, 53 ppm dan 25,32 me/100 g.
+Abubakar dan Susilowati (1999)7 dalam penelitiannya pada tanah entisol mendapatkan pemberian pupuk kandang 5 ton/ha meningkatkan N-total dan bahan organik tanah, tetapi tidak meningkatkan P tersedia secara nyata walaupun diberikan hampir 10 ton/ha, hal ini disebabkan karena tanah awal pada penelitian mereka mempunyai harkat
+
+Agrium, Oktober 2010 Volume 16 No. 2
+
+ketersediaan P yang sangat tinggi. Tetapi berbeda bila digunakan pada tanah dengan harkat ketersediaan P rendah. Pemberian 10 ton/ha pupuk kandang dapat mengubah tingkat ketersediaan P secara nyata.
+Pemakaian pupuk kandang cukup efisien untuk menetralkan sebahagian efek meracun alumunium dalam larutan tanah dan juga meningkatkan KTK tanah, konsentrasi N-total, P-tersedia, Mg dan Ca tukar dalam tanah dengan aras peningkatan bervariasi tergantung macam pupuk kandang.
+Pupuk hijau adalah tanaman atau bagianbagian tanaman yang masih muda atau hijau yang dibenamkan ke dalam tanah dengan maksud untuk menambah bahan organik dan unsur hara terutama unsur nitrogen.
+
+Tujuan pemberian pupuk hijau adalah untuk meningkatkan kandungan bahan organik dan unsur hara dalam tanah, sehingga terjadi perbaikan sifat fisik, kimia dan biologi tanah, yang akhirnya berdampak pada peningkatan produktivitas tanah dan ketahanan tanah terhadap erosi.
+
+Biasanya tanaman atau bagian tanaman tersebut
+
+adalah dari jenis tanaman kacangan
+
+(leguminosae) karena kadar N nya lebih tinggi
+
+dari kadar N tanaman lainnya. Selain digunakan
+
+sebagai pupuk hijau, tanaman leguminosae juga
+
+digunakan sebagai penutup tanah, yang dikenal
+
+dengan penutup tanah Legume Cover Crops
+
+(LCC).
+
+Penutup tanah Legume Cover Crops (LCC)
+
+yaitu campuran antara Calopogonium
+
+mucunoides, Pueraria phaseoloides dan
+
+Centrocema pubescens dikenal sebagai penutup
+
+tanah yang tidak tahan naungan, berdasarkan
+
+pengaruhnya terhadap kesuburan tanah ternyata
+
+kacangan penutup tanah Mucuna bracteata
+
+memenuhi syarat sebagai penutup tanah selain
+
+LCC. Tanaman ini penghasil bahan organik
+
+yang tinggi dan akan sangat bermanfaat jika
+
+ditanam di daerah yang sering mengalami
+
+kekeringan dan pada areal yang rendah
+
+kandungan bahan organiknya. Nilai nutrisi
+
+dalam jumlah serasah yang dihasilkan pada
+
+naungan sebanyak 8,7 ton dan di daerah terbuka
+
+sebanyak 19,6 ton. Jumlah ini sama dengan 263
+
+kg dan 531 kg (NPKMg dengan 75-83% N).
+
+Sedangkan
+
+Pueraria japonica hanya
+
+menghasilkan 4,8 ton serasah yang ekuivalen
+
+dengan173 kg (NPKMg). Kandungan karbon,
+
+total P, K dan KTK dalam tanah yang
+
+ditumbuhi M. bracteata meningkat sangat tajam dibanding dengan lahan yang ditumbuhi gulma.
+C. METODE PENELITIAN
+Penelitian ini menggunakan Rancangan Acak Kelompok (RAK) Faktorial dengan dua faktor yaitu, kompos TKS plus dan pupuk anorganik (urea, SP-36 dan KCl), yang diulang tiga kali. Jumlah plot seluruhnya adalah 48.
+Faktor pertama, kompos TKS plus terdiri dari: K0 = Tanpa kompos TKS plus, K1 = Kompos TKS plus pupuk hijau, K2 = Kompos TKS plus pupuk kandang, K3 = Kompos TKS plus pupuk hijau plus pupuk kandang. Faktor kedua, taraf pupuk anorganik yang diberikan terdiri dari: P0 = tanpa pupuk anorganik, P1 = 25% pupuk anorganik (25 kg urea, 37,5 kg SP36 dan 37,5kg KCl), P2 = 50% pupuk anorganik (50 kg urea, 75 kg SP-36 dan 75kg KCl) dan P3 = 100% pupuk anorganik (100 k urea, 150kg SP-36 dan 150kg KCl).
+Bahan-bahan yang digunakan dalam penelitian ini adalah: Benih kedelai varietas Kaba, Kompos TKS, Mucuna bracteata (pupuk hijau), dan pupuk kandang, Urea, SP-36 dan KCl.
+Alat-alat yang dipakai pada penelitian ini adalah: cangkul, gembor, meteran, timbangan, penggaris, kertas dan bolpoint.
+Penelitian ini dilaksanakan di Jalan Tuar, Kelurahan Medan amplas, Kecamatan Medan Denai, Kotamadya Medan, mulai bulan Juni sampai September 2007.
+Lahan diolah, kemudian dibuat bedengan dengan ukuran 3m x 4m, selanjutnya diaplikasikan kompos TKS plus (75% kompos TKS plus 25% pupuk hijau atau pupuk kandang), dengan mencampur rata sesuai dengan perlakuan dan diinkubasikan (dibiarkan) selama satu minggu. Selama masa inkubasi lahan disiram sekali sehari bila tidak turun hujan, untuk mempercepat dekomposisi.
+Benih kedelai ditanam sebanyak 3 biji/lubang, jarak tanam 30cm x 30 cm. Seminggu setelah tanam, dipilih satu tanaman yang sehat untuk dipelihara. Pemeliharaan meliputi penyiraman yang dilakukan dua kali sehari bila tidak turun hujan, penyiangan dilakukan dua kali, penyemprotan
+
+Agrium, Oktober 2010 Volume 16 No. 2
+
+hama dilakukan dengan Matador 25 EC dengan dosis 1 cc/l pada 3 minggu setelah tanam (MST), dan penyrmprotan penyakit dengan Topsin M 70 WP dosis 1 cc/l pada 4 MST. Pemupukan Urea, SP-36 dan KCl pada 15 dan 30 hari setelah tanam (HST).
+Peubah yang diukur meliputi: tinggi tanaman, jumlah daun, jumlah cabang, umur berbunga, jumlah polong berisi, jumlah polong hampa per plot yang dilakukan sebelum panen, bobot biji per plot dan bobot 100 biji dilakukan setelah panen (85 HST).
+Data yang dikumpulkan dianalisis secara statistik dan beda rataan diuji berdasarkan uji DMRT pada taraf 5%.
+D. HASIL DAN PEMBAHASAN
+Pemberian Kompos TKS plus berpengaruh nyata terhadap pertumbuhan tinggi tanaman, jumlah daun, jumlah cabang, umur berbunga dan berat biji per plot, dengan hasil tertinggi untuk semua peubah tersebut dan pembungaan tercepat terdapat pada perlakuan kompos TKS plus pupuk hijau (M. bracteata) dan pupuk kandang, yang disusul dengan pemberian kompos TKS plus pupuk kandang dan Kompos TKS plus pupuk hijau (Tabel 1).
+Pemberian kompos ditambah dengan bahan organik lain lebih baik daripada hanya kompos saja, hal ini karena dengan pemberian kompos dan bahan organik lain serta pupuk hijau lebih meningkatkan kesuburan tanah.
+Tandan kosong sawit mengandung unsur N, P, K dan Mg. TKS merupakan bahan organik yang potensial digunakan sebagai bahan pembenah tanah.2
+Disamping hara makro, kompos juga mengandung hara mikro yaitu Fe, Cu, Zn dan Mn.
+Pemberian kompos dan pupuk kandang juga meningkatkan pertumbuhan karena Darman dan Cyio (2000) membuktikan bahwa pemakaian pupuk kandang cukup efisien untuk menetralkan sebahagian efek meracun alumunium dalam larutan tanah dan juga meningkatkan KTK tanah, konsentrasi N-total, P-tersedia, Mg dan Ca tukar tanah.
+Pemberian kompos TKS plus pupuk hijau juga lebih baik dari pemberian kompos TKS saja, karena dengan pemberian pupuk hijau
+
+meningkatkan ketersediaan N dalam tanah.
+Produksi biomassa pupuk hijau M.bracteata
+yang merupakan sumber bahan organik dapat
+meningkatkan unsur hara dan memperbaiki struktur tanah.8
+
+Yang sangat diharapkan dari bahan organik adalah kemampuannya memperbaiki sifat fisik tanah, karena kandungan kandungan unsur hara dalam bahan organik tergolong rendah. Pemberian pupuk anorganik berpengaruh nyata terhadap tinggi tanaman, jumlah daun, jumlah cabang, umur berbunga, dan berat biji per plot tetapi tidak nyata terhadap jumlah polong hampa, jumlah polong berisi dan berat 100 biji (Tabel 1).
+
+Pertumbuhan dan produksi kedelai
+
+menunjukkan respon linier
+
+terhadap
+
+peningkatan dosis pupuk anorganik diduga
+
+karena kandungan unsur hara yang terdapat
+
+dalam tanah yang digunakan dalam penelitian
+
+ini rendah sehingga dapat meningkatkan
+
+pertumbuhan dan produksi (Gambar 1-5).
+
+Unsur N dan P dibutuhkan tanaman sebagai penyimpanan energi dan transfer ikatan energi, kalium berperan dalam translokasi karbohidrat. Nitrogen merupakan bahan penyusun asam amino, amida, basa bernitrogen seperti purin dan protein serta nukleoprotein, enzim mengandung molekol protein yang berantai panjang.
+
+Hasil penelitian menunjukkan bahwa kombinasi kompos TKS plus dan pupuk anorganik tidak menunjukkan interaksi yang nyata terhadap pertumbuhan dan produksi kedelai. Namun dari hasil penelitian menunjukkan bahwa kombinasi yang menghasilkan pertumbuhan dan produksi tertinggi adalah perlakuan K3P3 (kompos TKS plus dan pupuk anorganik 100%) dan K3P2 (kompos TKS plus dan pupuk anorgani 50%).
+
+E. KESIMPULAN DAN SARAN
+
+Pemberian kompos TKS plus dapat meningkatkan pertumbuhan dan produksi kedelai dengan hasil tertinggi diperoleh pada kombinasi kompos TKS plus pupuk kandang plus pupuk hijau. Pemberian pupuk anorganik dapat meningkatkan pertumbuhan dan produksi kedelai dengan hasil tertinggi diperoleh pada pemberian pupuk anorganik 100%. Kombinasi
+
+Agrium, Oktober 2010 Volume 16 No. 2
+
+kompos TKS plus dan pupuk anorganik tidak menunjukkan interaksi yang nyata.
+Disarankan melakukan penelitian dengan mengurangi dosis kompos TKS plus, dan dalam budidaya kedelai hendaknya menggunakan pupuk organik dan secara berangsur-angsur mengurangi pemakain pupuk anorganik.
+F. DAFTAR PUSTAKA
+1. Sutanto, R. 2002. Tantangan Global Menghadapi Kerawanan Pangan dan Peranan Pengetahuan Tradisional dalam Pembangunan Pertanian. Dalam:Makalah. Disampaikan dalam Seminar The Role of Indigeneous Knowledge for National Food Security. Tanggal 21 Agustus 2000 di Universitas Sanata Dharma (USD). Yogyakarta.
+
+Kedelai dengan Pemberian Kompos TKS, Amandemen dan Pupuk Standar. J. Agrisol (Submitted).
+4. Munar, A. 2005. Pemberian Kompos TKS, amandemen dan Pupuk Standar pada Typic Hapludult Terhadap Serapan N, P, K dan Pertumbuhan Tanaman Kedelai (Glicyne max L.). J. Penelitian Bidang Ilmu Pertanian. 3 (3):36-44
+5. Rao. S.M.S., G.S. Venkataraman, and S. Kannaiyan. 1993. Biological Nitrogen Fixation. ICAR Publ., New Delhi. P. 3-106.
+6. Winaryo, Usman dan S. Mawardi. 1995. Pengaruh Komposisi Bahan Baku dan Lama Pengomposan Terhadap Mutu Kompos. Warta Puslit Kopi dan Kakao Vol 11 (1) : 26 ­ 32.
+
+2. Darmosarkoro W., E. S. Sutarta dan Erwinsyah. 2000. Pengaruh Kompos Tandan Kosong Sawit Terhadap Sifat Tanah dan Pertumbuhan Tanaman. J. Penelitian Kelapa Sawit Vol 8 (2). PPKS. Medan
+3. Munar, A., W. Darmosarkoro, A. Sahar dan R. Widhiastuti. 2006. Perubahan Kadar N, P, K Typic Hapludult pada Tanaman
+
+7. Abubakar, B. dan L. E. Susilowati. 1999. Inokulasi Azospirillum Brasiliense Sebagai Pupuk Hayati Pada Tanaman Jagung dan Penggunaan Pupuk Kandang Untuk Memperbaiki Produktifitas Lahan Kering. Pros. Kongres Nasional VII HITI. 2-4 Nov. 1999. Bandung.
+
+ANALISIS SEKTOR INDUSTRI KECIL PERDESAAN TERHADAP PENINGKATAN PENDAPATAN MASYARAKAT DI KECAMATAN PERCUT SEI TUAN
+
+KABUPATEN DELI SERDANG
+
+Muhammad Thamrin Jurusan Agrobisnis, Fakultas Pertanian, UMSU, Medan
+Email: mhd_thamrin@ymail.com
+Abstract The result of research, explained that variable influencing efficacy of small industrial sector in effort is to make-up of earnings of society in District Of Percut Sei Tuan is working capital variable of X1, labor of X2, level of education D1 and credit facility of D2 while total variable of raw material price of X3 have not an effect on in effort of is make-up of earnings of society in District of Percut Sei Tuan. Research of small industrial sector in District Of Percut Sei Tuan indicated that this sector can be developed in order to make-up earnings, economic potency of region in District Of Percut Sei Tuan specially in small industrial sector become fascination to all investor to open effort and the effort climate will become fair and absorption of labor will be created. This Potency of small industrial sector can give contribution which are positive to society and governance in District Of Percut Sei Tuan for example to increase earnings of society and PAD, built and developing region specially basic facilities supporter of development of small industrial sector in District Of Percut Sei Tuan, because of built and developing region is reaching of progress and society's prosperity.
+Keywords : analysis, earnings of society, small industrial, precut sei tuan.
+
+Agrium, Oktober 2010 Volume 16 No. 2
+
+Abstrak
+Hasil penelitian menunjukkan bahwa variabel yang mempengaruhi keuntungan sektor industri kecil dalam usaha memperbaiki pendapatan masyarakat di Kecamatan Percut Sei Tuan adalah variabel modal X1, buruh X2, tingkat pendidikan D1 dan fasilitas kredit D2, sedangkan variable total harga bahan baku X3 tidak memiliki pengaruh dalam usaha meningkatkan pendapatan masyarakat Kecamatan Percut Sei Tuan. Penelitian terhadap sector industri kecil di Kecamatan Percut Sei Tuan menandakan bahwa sektor ini dapat dikembangkan untuk meningkatkan pendapatan, potensi ekonomi daerah Percut Sei Tuan, khususnya di sektor industri kecil menjadi daya tarik investor untuk membuka usaha dan iklim usaha dan menyerap tenaga kerja. Potensi Kecamatan Percut Sei Tuan sebagai contoh untuk meningkatkan pendapatan masyarakat dan PAD, membangun dan mengembangkan daerah khususnya pendukung fasilitas dasar bagi pengembangan sector industri kecil di Kecamatan Percut Sei Tuan, karena pembangunan dan pengembangan wilayah menghasilkan kemajuan dan kemakmuran masyarakat.
+
+Kata kunci: analisis, pendapatan masyarakat, industri kecil, percut sei tuan.
+
+A. PENDAHULUAN
+Pola Dasar Pembangunan Propinsi Sumatera Utara yang sejalan dengan Pola Umum Jangka Panjang dalam Garis-Garis Besar Haluan Negara (GBHN) menetapkan sektor industri sebagai prioritas utama dimana pembangunan industri ini harus mampu membawa perubahan fundamental dalam struktur perekonomian Indonesia sehingga produksi nasional yang berasal dari luar pertanian menjadi semakin besar. Proses Industrialisasi harus mampu mendorong berkembangnya industri sebagai penggerak utama terhadap peningkatan laju pertumbuhan ekonomi dan perluasan lapangan kerja dengan demikian industrialisasi merupakan instrument yang harus mampu mentransformasikan sektor pertanian, pariwisata, pertambangan dan energi, perhubungan serta jasa menjadi sektor yang semakin produktif. .
+Pembangunan desa merupakan bagian yang tak terpisahkan dari pembangunan nasional. Setiap langkah-langkah di dalam pembangunan harus mengacu pada pencapaian sasaran pembangunan berdasarkan atas dasar trilogi pembangunan yaitu pemerataan pembangunan dan hasil-hasilnya yang menuju kepada tercapainya keadilan sosial bagi seluruh rakyat, pertumbuhan ekonomi yang cukup tinggi serta tercapainya stabilitas nasional yang sehat dan dinamis.
+1. Seiring dengan pertumbuhan dan perkembangan penduduk kebutuhan akan barang dan jasa akan semakin meningkat. Dengan demikian dibutuhkan jumlah pendapatan yang semakin besar untuk
+
+memenuhi kebutuhan. Dalam upaya
+
+memenuhi kebutuhan itu industri
+
+merupakan suatu alternatif untuk
+
+mengembangkan daerah perdesaan. Sistem
+
+pertanian tradisional yang menjadi andalan
+
+dalam memenuhi kebutuhan telah bergeser
+
+menjadi sistem pertanian modern dan
+
+industri.
+
+2. Pelaksanaan pembangunan tersebut perlu
+
+diusahakan keterkaitan yang semakin erat
+
+antara sektor industri dan sektor-sektor
+
+pembangunan lainnya. Pembangunan antar
+
+sektor yang berkaitan tersebut harus
+
+dikembangkan dengan dasar saling
+
+menguntungkan dan menunjang antara
+
+industri besar, menengah dan industri kecil,
+
+serta antara industri hilir dan industri hulu.
+
+Pentingnya SSIs (Small-Scale Industries) di
+
+dalam proses pembangunan ekonomi
+
+negara yang sedang berkembang, terutama
+
+negara dengan kondisi seperti Indonesia,
+
+yang jumlah tenaga kerja berpendidikan
+
+rendah dan sumber-sumber alam sangat
+
+berlimpah, kapital terbatas, ekonomi
+
+perdesaan masih "underdeveloped", dan
+
+distribusi pendapatan yang pincang, sangat
+
+erat hubungannya dengan sifat-sifat dasar
+
+industri tersebut. Sifat-sifat utama SSIs
+
+termasuk:
+
+3. Proses produksi sangat padat tenaga
+
+manusia (labour intensive). Melihat
+
+karakter ini SSIs tidak hanya dianggap
+
+sebagai suatu elemen penting dari
+
+kebijaksanaan
+
+pemerintah
+
+untuk
+
+memperbesar kesempatan kerja, tetapi juga
+
+sebagai suatu instrumen yang cukup efektif
+
+pembentukan, peningkatan dan distribusi
+
+pendapatan;
+
+4. SSIs lebih banyak terdapat di daerah-daerah
+
+non-urban dan kegiatan-kegiatan mereka
+
+Agrium, Oktober 2010 Volume 16 No. 2
+
+lebih bersifat "agricultural-oriented", baik dari sudut permintaan (demand-side) maupun sudut penawaran (supply-side). Oleh karena itu SSIs tidak hanya penting sebagai suatu sektor yang menyediakan banyak kesempatan kerja dan memberi pendapatan utama maupun tambahan bagi masyarakat rural, tetapi juga merupakan suatu landasan bagi proses industrialisasi berlandaskan agribisnis di perdesaan.1 5. Pada umumnya SSIs menggunakan teknologi sederhana yang lebih sesuai dengan kondisi lokal; 6. Sumber utama pembiayaan proses produksi pada umumnya datang dari uang tabungan si pemilik usaha itu sendiri. Oleh karena itu, SSIs juga sangat penting sebagai suatu instrumen untuk mengalokasika "local saving/investment" lebih optimal. 1 SSIs juga sangat penting sebagai sektor yang lebih dapat memenuhi kebutuhan-kebutuhan pokok masyarakat lokal dengan harga yang tidak mahal, dibandingkan industri-industri modern/besar yang pada umumnya berlokasi di urban. SSIs juga sangat penting sebagai sektor yang menyediakan alat-alat pertanian yang murah bagi kelompok-kelompok petani kecil.
+Peranan SSIs bagi ekonomi lokal, baik dalam tingkat Desa, Kecamatan, Kabupaten, maupun Propinsi, tergantung terutama apakah SSIs memakai lebih banyak orang lokal sebagai pekerja dan sumber-sumber alam atau faktorfaktor produksi non-human lokal lainnya sebagai material utama, di satu pihak, dan membuat barang-barang untuk pasar lokal, baik untuk konsumen maupun produsen di sektorsektor lokal lainnya, di pihak lain.
+Pertumbuhan ekonomi Kabupaten Deli Serdang pada Tahun 2001 mencapai 5,53 persen. Laju pertumbuhan ini lebih tinggi dibandingkan pertumbuhan ekonomi Tahun 2002 yaitu sebesar 3,78 persen, sedangkan pada Tahun 2004 mencapai 4,23 persen. Pertumbuhan ekonomi tertinggi dicapai sektor listrik, gas dan air minum 27,37 persen, diikuti sektor penggalian sebesar 7,90 persen, kemudian sektor perdagangan, hotel dan restoran sebesar 6,87 persen dimana pada tahun 2003 sebesar 6,91 persen. Kenaikan sektor pertanian sebesar 2,25 persen pada Tahun 2003 dimana pada Tahun 2002 turun sebesar 2,24 ternyata berdampak pada laju pertumbuhan ekonomi Kabupaten Deli Serdang dari 3,78
+
+persen pada Tahun 2002 menjadi 4,06 persen pada Tahun 2003.
+Hal ini disebabkan karena sektor pertanian merupakan salah satu sektor domina
+
+Tabel 1. Data Potensi Jumlah di Unit Industri (Formal dan Non Formal), Tahun 2004.
+
+Tenaga
+
+No.
+
+Uraian
+
+Unit Usaha Kerja
+
+(Orang)
+
+1 Industri Besar
+
+208
+
+6.360
+
+2 Industri Menengah
+
+627
+
+95.350
+
+3 Industri Kecil Formal
+
+2.008
+
+27.590
+
+4 Industri Kecil Non Formal
+
+9.402
+
+29.004
+
+Total
+
+12.245 158.304
+
+Sumber Data : Bappeda Kabupaten Deli Serdang, 2004. disamping sektor industri pengolahan dengan sumbangan lebih dari 30 persen, namun pada Tahun 2004 sektor pertanian tumbuh sedikit dibawah Tahun 2003 yaitu sebesar 2,09 persen. Perekonomian Kabupaten Deli Serdang Tahun 2004 masih didominasi tiga sektor yaitu sektor industri pengolahan, sektor pertanian serta sektor perdagangan, hotel dan restoran. Sektor industri pengolahan sebagai kontributor terbesar menyumbang sebesar 43,26 persen pada Tahun 2000, turun menjadi 40,29 persen pada Tahun 2001. Kemudian selama periode 2002-2004 kontribusi sektor ini mencapai 41,59 persen, 42,88 persen dan 42,60 persen.
+
+Pembangunan industri di Kabupaten Deli Serdang berkembang pesat mengingat potensi sumber daya serta bahan-bahan baku cukup tersedia dan dekat dengan wilayah konsumen seperti Kota Medan, Kota Binjai dan Kota Tebing Tinggi.
+
+Berbagai industri skala besar, menengah dan kecil yang berkembang dan menjadi andalan di Kabupaten Deli Serdang antara lain keramik, gelas, obat nyamuk dan mie instan di Tanjung Morawa dan beberapa daerah lainnya,industri batu bata yang tersebar di beberapa Kecamatan seperti Lubuk Pakam, Pagar Merbau, Beringin, Pantai Labu dan Tanjung Morawa. Industri pembuatan kacamata, jam, mebel kayu dan
+
+Agrium, Oktober 2010 Volume 16 No. 2
+
+rotan di Tanjung Morawa dan Deli Tua, industri kompor, batteray, paving blok di Sunggal.
+Demikian juga industri pembuatan bunga karet di Kecamatan Batang Kuis, maupun beberapa kecamatan lainnya termasuk industri makanan kripik ubi kayu, emping melinjo disamping sulaman bordir di Kecamatan Tanjung Morawa yang tidak kalah bersaing dengan bordiran dari Kabupaten/Kota atau Propinsi lainnya di Indonesia. Tabel 2. Jumlah Unit Usaha Komoditi Andalan Industri Kecil, Tahun 2004
+
+No. Unit Usaha Komoditi
+
+Jumlah Unit Usaha
+
+1 Tenunan Ulos/Songket
+
+20
+
+2 Tenunan Sutera
+
+1
+
+3 Serat Sabut Kelapa
+
+15
+
+4 Rebana
+
+2
+
+5 Anyaman Rotan
+
+5
+
+6 Anyaman Bambu
+
+6
+
+7 Assesoris Tangga
+Sumber Data : Serdang, 2004.
+
+Rumah
+
+10
+
+Bappeda Kabupaten Deli
+
+Perkembangan industri di Kecamatan Percut Sei Tuan pada Tahun 2004 baik industri besar, menengah, kecil dan kerajinan rumah tangga yang tersebar di seluruh desa/kelurahan berjumlah 834 unit usaha industri, untuk lebih jelas dapat dilihat pada tabel 3.
+
+TINJAUAN PUSTAKA
+Sejak harga minyak di pasar dunia mulai menurun, disusul kemudian dengan resesi dunia pada Tahun 1982, pemerintah Indonesia mulai memperhatikan perkembangan industri kecil rumah tangga (sebut saja SSIs: Small-Scale Industries) yang jumlah mereka sangat banyak, terutama di daerah perdesaan (rural). Timbulnya perhatian pemerintah terhadap perkembangan kegiatan SSIs terutama sekali disebabkan oleh kenyataan selama itu bahwa pembangunan serta pertumbuhan ekonomi di tanah air sejak Repelita I tidak terlalu memberi dampak yang besar seperti yang diharapkan terhadap penyediaan kesempatan kerja,
+
+terutama pada golongan masyarakat berpendidikan rendah dan, pada saat yang bersamaan, distribusi pendapatan semakin pincang. Oleh karena itu harapan pemerintah adalah dengan pertumbuhan SSIs yang baik akan mengurangi jumlah pengangguran (open unemployment), terutama di desa-desa (rural) dan distribusi pendapatan dapat lebih baik. 1
+
+Pergeseran sistem usaha tradisional menjadi sistem usaha modern dengan teknologi tertentu akan meningkatkan produksi dan produktivitas. Teknologi hanya berperan secara efektif apabila diimplementasikan dalam bentuk proses yang bertahap. Tahap tersebut sepatutnya berawal dari teknologi yang sudah tumbuh dalam masyarakat yang disempurnakan melalui inovasi-inovasi tertentu, untuk mendorong masyarakat perdesaan mencapai kapasitas ekonomi yang memungkinkan mereka mengadopsi teknologi yang lebih maju. 2
+
+Bagi
+
+masyarakat
+
+perdesaan
+
+keberhasilan industri dimaksudkan dapat
+
+menyediakan pekerjaan bagi penduduk yang
+
+jumlahnya semakin meningkat dan untuk
+
+menaikkan taraf hidup dengan meningkatkan
+
+pendapatan netto perkapita masyarakat serta
+
+meningkatkan kemampuan bangsa untuk
+
+semakin banyak berproduksi barang dan jasa di
+
+dalam negeri atau meningkatkan mutunya tetapi
+
+juga saat yang bersamaan meningkatkan kemampuan untuk menjualnya. 3
+
+Keberhasilan industrialisasi tergantung dari suatu pembangunan pertanian yang dapat menciptakan landasan bagi pembangunan ekonomi, dengan demikian bahwa pembangunan pertanian merupakan syarat bagi industrialisasi.
+
+Industrialisasi dalam rangka pembangunan ekonomi suatu daerah tidak akan terlepas dari pemanfaatan berbagai sumberdaya yang tersedia. Sumberdaya yang umumnya meliputi; sumberdaya manusia, teknologi dan ilmu pengetahuan serta investasi dan modal. Unsur-unsur tersebut dikelola untuk menghasilkan produk yang dibutuhkan oleh konsumen pada satu sisi dan di sisi lain akan menciptakan lapangan kerja di berbagai sektor ekonomi dan ini akan menciptakan peningkatan pendapatan masyarakat.
+
+Agrium, Oktober 2010 Volume 16 No. 2
+
+Jika dikaitkan dengan pengertian perdesaan menurut undang-undang No. 32 Tahun 2004, yang disebut desa adalah kesatuan masyarakat hukum yang memiliki batas-batas wilayah yang berwenang untuk mengatur dan mengurus kepentingan masyarakat setempat, berdasarkan asal usul dan adat istiadat setempat yang diakui dan dihormati dalam sistem Pemerintahan Negara Kesatuan Republik Indonesia.
+Desa merupakan suatu kesatuan hukum, dimana bertempat tinggal suatu masyarakat yang berkuasa dan mengadakan pemerintahan sendiri. Desa terjadi bukan hanya dari satu tempat kediaman masyarakat saja, namun terjadi dari satu induk desa dan beberapa tempat kediaman. Sebagian dari mana hukum yang terpisah yang merupakan kesatuan tempat tinggal sendiri, kesatuan mana pedukuhan, ampean, kampung, cantilan beserta tanah pertanian, tanah perikanan darat, tanah hutan dan tanah belukar.4
+
+pekerja pemilik dan pekerja keluarga. Perusahaan industri yang memiliki tenaga kerja kurang dari 5 orang diklasifikasikan sebagai ndustri rumah tangga (Home Industry)'.
+Berbeda dengan klasifikasi yang dikemukakan oleh Stanley dan Morse, bahwa industri yang menyerap tenaga kerja 1-9 orang termasuk industri kerajinan rumah tangga, Industri kecil menyerap 10-49 orang, industri sedang menyerap 50-99 orang dan industri besar menyerap tenaga kerja 100 orang lebih.
+Berdasarkan terminologi di atas banyak kriteria yang digunakan, terlepas dari ukuran secara kuantitatif, pada umumnya perusahaan kecil memiliki ciri-ciri khusus, yaitu manajemen, persyaratan modal dan pengoperasian yang bersifat lokal. Hal ini sesuai yang dikemukakan oleh komisi untuk Perkembangan Ekonomi (Commity for Economic Development) tentang kriteria usaha kecil: 5
+
+Dalam undang-undang No. 9 Tahun 1995 pada pasal 5 tentang usaha kecil disebutkan beberapa kriteria usaha kecil sebagai berikut :
+a. Memiliki kekayaan bersih paling banyak Rp. 200.000.000 tidak termasuk tanah dan bangunan.
+b. Memiliki hasil penjualan tahunan paling banyak Rp. 1.000.000.000. Biro Pusat Statistik Indonesia
+mendefenisikan usaha kecil dengan ukuran tenaga kerja, yaitu 5 sampai 19 orang yang terdiri (termasuk) pekerja kasar yang dibayar,
+
+a. Manajemen berdiri sendiri, manajer adalah pemilik.
+b. Modal disediakan oleh pemilik atau sekelompok kecil.
+c. Daerah operasi bersifat lokal. d. Ukuran dalam keseluruhan relatif kecil.
+Masyarakat perdesaan membutuhkan sejumlah pendapatan untuk memenuhi kebutuhan keluarganya. Pendapatan itu diperoleh dari berbagai unsur antara lain usahatani dan diluar usahatani yang digunakan untuk memenuhi kebutuhan mereka, pendapatan menunjukkan jumlah seluruh uang
+
+Tabel 3. Data Industri di Kecamatan Percut Sei Tuan (unit), Tahun 2004.
+
+No. Desa/Kelurahan
+1 Amplas 2 Kenangan 3 Tembung 4 Sambirejo Timur 5 Sei Rotan 6 Bandar Klippa 7 Bandar Khalipah 8 Medan Estate 9 Laut Dendang 10 Sampali 11 Bandar Setia 12 Kolam 13 Saentis
+
+Industri Besar
+2 2 14
+
+Industri Menengah
+3 1 1 2 2 3 4 6
+
+Industri Kecil
+2 1 5 5 6 4 2 5 7 4 23 3
+
+Industri Rumah Tangga
+1 5 8 65 5 15 197 1 6 5 290 50 22
+
+Total
+3 6 18 71 14 19 199 5 11 15 298 73 45
+
+Agrium, Oktober 2010 Volume 16 No. 2
+
+14 Cinta Rakyat
+
+-
+
+-
+
+3
+
+20
+
+23
+
+15 Cinta Damai
+
+-
+
+-
+
+-
+
+2
+
+2
+
+16 Pematang Lalang
+
+-
+
+-
+
+-
+
+-
+
+-
+
+17 Percut
+
+-
+
+-
+
+4
+
+-
+
+4
+
+18 Tanjung Rejo
+
+-
+
+-
+
+1
+
+3
+
+4
+
+19 Tanjung Selamat
+
+1
+
+2
+
+3
+
+8
+
+14
+
+20 Kenangan Baru
+
+-
+
+-
+
+-
+
+10
+
+10
+
+Jumlah
+
+19
+
+24
+
+78
+
+713
+
+834
+
+Sumber Data : Kecamatan Percut Sei Tuan Dalam Angka, 2004.
+
+yang diterima oleh seseorang atau rumah
+
+(UB) memiliki keunggulan pada sektor utiliti
+
+tangga selama jangka waktu tertentu biasanya satu tahun. 6
+
+(92,12%) sektor pertambangan dan penggalian (89,49%), sektor industri pengolahan (72,25%),
+
+Dengan adanya kemajuan teknologi
+
+sektor jasa-jasa (57,00%) dan sektor
+
+fungsi produksi akan berubah, perubahan
+
+pengangkutan dan komunikasi (38,26%).
+
+teknologi tersebut akan mempengaruhi output
+
+Prestasi ketiga dapat dilihat dari penyerapan
+
+yang disebabkan oleh pertumbuhan input.
+
+tenaga kerja walaupun terjadi penurunan
+
+Penggunaan teknologi yang lebih baik di dalam
+
+dibanding Tahun 2003, Usaha Kecil dan
+
+suatu usaha mempunyai tujuan akhir yaitu
+
+Menengah (UKM) mampu menyerap 99% dari
+
+peningkatan produksi (output) yang merupakan
+
+tenaga kerja sisanya diserap oleh Usaha Besar.
+
+hasil proses dari kombinasi faktor-faktor
+
+Yang sangat menakjubkan, dari 99%
+
+produksi sehingga pada gilirannya akan
+
+penyerapan tenaga kerja tersebut, 89%
+
+meningkatkan pendapatan. Dengan demikan
+
+diantaranya justru diserap oleh Usaha Kecil
+
+yang dimaksud dengan pendapatan masyarakat
+
+(UK).
+
+perdesaan adalah jumlah seluruh penerimaan yang diterima masyarakat perdesaan pada satu tahun tertentu baik itu dari hasil produksi pertanian maupun dari hasil produksi industri serta sektor lainnya. Prestasi utama UKM dalam perekonomian nasional terlihat dari perkembangan jumlah unit usaha. Selama Tahun 2003-2004 jumlah pelaku usaha mengalami peningkatan sebesar 1,61% dari 42.537.505 unit pada tahun 2003 meningkat menjadi menjadi 43.224.077 unit pada Tahun 2004.
+
+Kenyataan ini menunjukkan prestasi yang sangat luar biasa yang ditunjukkan oleh UKM dalam penyerapan tenaga kerja di Indonesia, walaupun satu unit UK hanya mampu menyerap 2 orang tenaga kerja dan UM mampu menyerap 134 orang tenaga kerja dibanding dengan usaha besar yang mampu menyerap 185 orang tenaga kerja per unit usaha. Di sisi lain, produktivitas nasional meningkat dari Rp. 22,48 juta per tenaga kerja pada Tahun 2003 menjadi Rp. 25,58 juta di Tahun 2004. Produktivitas Usaha Kecil sebesar Rp. 10,37
+
+Peningkatan dominan terjadi pada skala usaha menengah yang mencapai 6,35% diikuti oleh usaha besar 3,64% dan usaha kecil sebesar 1,61%. Prestasi kedua yang ditunjukkan oleh UKM adalah kontribusi UKM terhadap produksi nasional. Selama Tahun 2001-2004 UKM memberikan kontribusi rata-rata sebesar 63,27% lebih tinggi dibanding kontribusi usaha besar yang hanya mencapai 36,73% terhadap PDB tanpa migas atas dasar harga berlaku. Secara sektoral Usaha Kecil (UK) memiliki keunggulan dalam bidang usaha yang memanfaatkan sumberdaya alam (pertanian tanaman bahan makanan, perkebunan, peternakan dan perikanan) dengan kontribusi sebesar 85,89% dan sektor tersier seperti perdagangan, hotel dan restoran dengan nilai kontribusi 75,19%. Usaha menengah (UM) unggul di sektor keuangan, persewaan dan jasa perusahaan (46,32%) sementara Usaha Besar
+
+juta per tenaga kerja per tahun pada Tahun 2003 meningkat cukup besar pada Tahun 2004 menjadi Rp. 11,57 juta per tenaga kerja. Sementara itu produktivitas kelompok Usaha Menengah dan Besar pada Tahun 2003 masingmasing sebesar Rp. 33,70 juta dan Rp. 1,87 miliar per tenaga kerja per tahun dan meningkat pada Tahun 2004 menjadi masing-masing Rp. 38,71 juta dan Rp. 2,22 miliar per tenaga kerja per tahun. Kondisi di atas menyimpulkan bahwa katup pengaman pemerataan dan ketenagakerjaan di Indonesia dipegang oleh Usaha Kecil. Tidaklah salah kalau dikatakan usaha kecil sebagai "small but powerful". Perkembangan nilai investasi mengalami peningkatan yang cukup tinggi di Tahun 2004 yaitu sebesar 21,44% dari Rp. 362 milyar Tahun 2003 menjadi Rp. 440 milyar pada Tahun 2004. Usaha Besar masih dominan menyerap investasi sebesar 58,43% sementara sisanya sebesar 23%
+
+Agrium, Oktober 2010 Volume 16 No. 2
+
+dan 18% diserap oleh Usaha Menengah dan Usaha Kecil. Hal lain yang menarik untuk dicatat adalah ratio investasi terhadap unit usaha dan ratio investasi terhadap tenaga kerja. Investasi per unit Usaha Kecil dan Menengah (UKM) pada Tahun 2003 adalah Rp. 3,53 juta, jauh lebih rendah dibanding dengan Usaha Besar yaitu Rp. 98.milyar per unit.
+Di Tahun 2004 UKM hanya mengalami peningkatan Rp. 0,70 juta per unit usaha sementara Usaha Besar mengalami peningkatan yang cukup signifikan sebesar Rp. 17 milyar per unit usaha. Kondisi ini menyimpulkan bahwa Usaha Besar berorientasi pada padat modal (capital intensive). Pada perode 2003-2004, untuk menyerap 1 orang tenaga kerja Usaha Kecil hanya memerlukan investasi Rp. 1 juta, sementara Usaha Besar untuk menyerap 1 tenaga kerja memerlukan investasi Rp. 574 juta. Oleh karenanya, tidaklah salah bila pemerintah mencari sumber pertumbuhan ekonomi baru yaitu meningkatkan peranan UKM dalam pertumbuhan dan penyerapan tenaga kerja. 7
+Dari uraian di atas dapat disimpulkan bahwa sektor industri kecil merupakan salah satu sektor yang mempunyai andil yang cukup kuat dalam mengatasi pengangguran dan kesempatan kerja serta mewujudkan pengembangan wilayah dan pembangunan nasional. Industri kecil merupakan penyedia kesempatan kerja bagi tenaga kerja baik di desa maupun perkotaan, sebagai salah satu kegiatan ekonomi di luar sektor pertanian, sub sektor industri kecil memperlihatkan kemampuan menampung semakin banyak tenaga kerja yang tidak dapat diserap pada sektor pertanian. 8
+Ronsetein-Rodan (dalam Sukirno, 1995), industrialisasi di daerah yang kurang berkembang merupakan cara untuk menciptakan pembagian pendapatan yang lebih merata. Untuk itu pengembangan sektor industri di perdesaan merupakan hal mutlak yang harus dilakukan untuk meningkatkan pendapatan masyarakat. Pengembangan dapat dilakukan dalam berbagai program, dalam melaksanakan berbagai program haruslah berbagai industri dibangun secara serentak, tujuan utamanya adalah menciptakan berbagai jenis industri yang mempunyai hubungan yang erat satu sama lain sehingga diperlukan investasi di perdesaan terutama leading sektor yang akan mendorong sektor-sektor lain baik langsung maupun tidak langsung.
+
+Hirschman (dalam Suparmoko, 1990) menyatakan bahwa majunya industri A diharapkan mampu mendorong majunya industri B dan industri B juga diharapkan mampu mendorong industri C untuk berkembang dan seterusnya. Adanya dorongan satu sama lain di dalam industri-industri ini adalah karena adanya efek yang berkaitan ke depan (forward linkages effect) dan efek yang berkaitan ke belakang (backward linkages effect).
+
+Pada daerah perdesaan yang mempunyai pengaruh backward linkage dan forward linkage adalah industri barang-barang primer seperti hasil-hasil pertanian, hasil-hasil hutan meskipun keterkaitan kebelakang dari hasil industri primer tersebut rendah namun keterkaitan kedepan cukup tinggi, jika tersedia industri pengolahan yang akan mengubah industri barang-barang primer menjadi barang setengah jadi atau barang jadi maka akan terbuka lapangan pekerjaan bagi masyarakat yang akan memberikan tambahan pendapatan.
+
+A. METODE PENELITIAN
+
+Ruang lingkup penelitian ini dilakukan dengan studi kasus (case study), dan subjek penelitian ini adalah masyarakat yang memiliki usaha industri kecil di Kecamatan Percut Sei Tuan.
+
+Pengolahan data dilakukan dengan menggunakan paket komputer Statistical Pachage For Social Studies (SPSS 11,5 for Windows) untuk mengolah data yang telah dikumpulkan yang bertujuan untuk akurasi dan validitas data. 9
+
+Model untuk menganalisis data pada permasalahan pertama dan hipotesis penelitian ini menggunakan persamaan regresi linear berganda dengan rumus yaitu :
+
+Y = a + 1X1 + 2X2 + 3X3 + 4D1 + 5D2 + µ, dimana ;
+
+Y
+
+: Pendapatan
+
+a
+
+: Konstanta
+
+1 -5 : Koefisien regresi
+
+X1
+
+: Modal kerja
+
+X2
+
+: Jumlah tenaga kerja
+
+X3
+
+: Total harga bahan baku (Rp)
+
+Agrium, Oktober 2010 Volume 16 No. 2
+
+D1
+
+: Dummy 1, Tingkat pendidikan
+
+D2
+
+: Dummy 2, Fasilitas kredit
+
+µ
+
+: Error term
+
+Dengan pengujian model regresi : a. Kesignifikan total (serempak) dengan uji F,
+(F-Test) bila F-hitung > F-tabel maka pengaruh variabel dependen dan independen adalah signifikan. b. Kesignifikan individual koefisien regresi dengan test student (uji t),(t-test), bila thitung > t-tabel maka pengaruhnya signifikan. c. Dalam menjawab permasalahan kedua pada penelitian ini, digunakan analisis deskriptif yaitu dengan membandingkan nilai investasi setiap cabang sub sektor industri kecil dengan jumlah unit usaha cabang sub sektor industri kecil yang terdapat di Kecamatan Percut Sei Tuan. Penelitian ini juga akan membahas nilai produktivitas per tenaga kerja dan nilai investasi untuk menyerap 1 tenaga kerja sektor industri kecil di Kecamatan Percut Sei Tuan.
+
+E. HASIL DAN PEMBAHASAN Variabel yang mempengaruhi keberhasilan sektor industri kecil di dalam upaya peningkatan pendapatan masyarakat di Kecamatan Percut Sei Tuan adalah variabel modal kerja, tenaga kerja, total harga bahan baku, tingkat pendidikan dan fasilitas kredit, kemudian variabel-variabel ini di analisis dengan menggunakan model persamaan regresi linier berganda yaitu ; Y = a + 1X1 + 2X2 + 3X3 + 4D1 + 5D2 + µ. Variabel-variabel penelitian di atas diproses dengan menggunakan Program SPSS 11,5 for Windows, dan hasilnya seperti tabel berikut :
+
+Tabel 4. Hasil Uji Statistik, Nilai Koefisien
+
+Regresi, t-hitung dan Sig.
+
+Variabel Dependen
+
+Koefisien
+
+t -
+
+Regresi hitung
+
+Sig.
+
+X1. (Modal Kerja)
+
+0,806 14,876 .000
+
+X2. (Tenaga Kerja)
+
+0,014 5,889 .000
+
+X3. (Total Harga BB)
+
+-0,030 -0,888 .377
+
+Dummy1. Dummy2. Konstanta
+
+0,033 2,049 .044 0,077 5,842 .000 1,506 5,115 .000
+
+Nilai R Square
+
+0,990
+
+F ­ hitung
+
+1431,773
+
+F ­ tabel  0,05%
+
+2,35
+
+t ­ tabel  0,05%
+
+1,671
+
+t ­ tabel  0,025%
+
+2,000
+
+DW ­ test
+
+0,878
+
+Sumber : Data Diolah, 2006.
+
+Dari Tabel 4.14. di atas dapat
+
+dirumuskan persamaan regresi berganda yaitu;
+
+Y = 1,506 + 0,806X1 + 0,014X2 - 0,030X3 + 0,033D1 + 0,077D2 dengan analisisnya sebagai berikut :
+
+1. Koefisien regresi untuk modal kerja X1 sebesar 0,806 menyatakan setiap penambahan 1% modal Kerja akan meningkatkan pendapatan masyarakat sebesar 0,806%, cateris paribus.
+2. Koefisien regresi tenaga kerja X2 sebesar 0,014 menyatakan setiap penambahan 1% tenaga kerja akan meningkatkan pendapatan masyarakat sebesar 0,014%, cateris paribus.
+3. Koefisien regresi total harga bahan baku X3 sebesar ­0,030 menyatakan setiap penambahan 1% bahan baku akan menurunkan pendapatan masyarakat sebesar ­0,030%, cateris paribus.
+4. Koefisien regresi tingkat pendidikan D1 sebesar 0,033 menyatakan bahwa variabel pendidikan berpengaruh positif terhadap peningkatan pendapatan masyarakat di Kecamatan Percut Sei Tuan.
+5. Koefisien regresi fasilitas kredit D2 sebesar 0,077 menyatakan bahwa variabel fasilitas kredit berpengaruh positif terhadap peningkatan pendapatan masyarakat di Kecamatan Percut Sei Tuan.
+6. Konstanta 1,506 menyatakan bahwa jika variabel penelitian modal kerja X1, tenaga kerja X2, total harga bahan baku X3, tingkat pendidikan D1 dan fasilitas kredit D2 sama dengan nol, maka pendapatan masyarakat adalah sebesar 1,506%.
+7. Nilai R Square sebesar 0,990 ini berarti bahwa 99,0% variabel pendapatan dapat dipengaruhi oleh variabel modal kerja, tenaga kerja, total harga bahan baku, tingkat pendidikan dan fasilitas kredit,
+
+Agrium, Oktober 2010 Volume 16 No. 2
+
+sedangkan sisanya dijelaskan oleh variabel lain diluar model. Dari uji ANOVA atau F test, didapat F-hitung adalah 1431,773 dengan tingkat signifikansi 1% maka model regresi dapat dipakai untuk memprediksi peningkatan pendapatan masyarakat atau dapat dikatakan variabel modal kerja, tenaga kerja, total harga bahan baku, tingkat pendidikan dan fasilitas kredit berpengaruh terhadap peningkatan pendapatan masyarakat di Kecamatan Percut Sei Tuan.
+Berdasarkan nilai t-hitung yaitu : 1. Jika t-hitung < t-tabel maka H0 diterima,
+atau tidak ada pengaruh signifikan dari sebuah variabel bebas terhadap variabel terikat. 2. Jika t-hitung > t-tabel, maka H0 ditolak, atau ada pengaruh signifikan dari sebuah varabel bebas terhadap variabel terikat. 3. Berdasarkan probabilitasnya, jika probabilitas > 0,05 maka H0 diterima dan jika probabilitas < 0,05 maka H0 ditolak. 4. Tabel dilihat dengan df (derajat kebebasan) = n-k, dimana n = Jumlah sampel (n=78) dan k = Jumlah variabel (k=6) sehingga df = 78-6 = 72. Maka ttabel (df= 72 taraf kepercayaan 95% (/2 = 0,05/2 = 0,025)) = 2,000.
+Hasil uji koefsien regresi secara parsial berdasarkan nilai t-hitung adalah sebagai berikut :
+1. Variabel modal kerja X1 dengan nilai thitung 14,876 > t-tabel 2,000 maka H0 ditolak atau berpengaruh secara signifikan terhadap peningkatan pendapatan masyarakat pada taraf kepercayaan 95%. Signifikan atau kebepengaruhan variabel modal kerja di daerah penelitian menunjukkan bahwa modal adalah salah satu syarat utama keberhasilan sebuah industri kecil di Kecamatan Percut Sei Tuan.
+2. Variabel tenaga kerja X2 dengan nilai thitung 5,889 > t-tabel 2,000 maka H0 ditolak atau berpengaruh secara signifikan terhadap peningkatan pendapatan pada taraf kepercayaan 95%. Hal ini sesuai di daerah penelitian dimana variabel tenaga kerja sangat memiliki peran yang sangat penting akan perkembangan industri kecil, tenaga kerja ini merupakan salah satu ujung tombak
+
+dari aktifitas industri kecil di Kecamatan
+
+Percut Sei Tuan.
+
+3. Variabel total harga bahan baku X3 dengan nilai t-hitung ­0,030 < t-tabel
+
+2,000 maka H0 diterima atau berpengaruh
+
+secara
+
+signifikan
+
+menurunkan
+
+pendapatan masyarakat pada taraf
+
+kepercayaan 95%. Hal ini terjadi
+
+mungkin semakin banyak unit yang
+
+diproduksi maka akan menurunkan
+
+pendapatan.
+
+4. Variabel tingkat pendidikan D1 dengan nilai t-hitung 2,049 > t-tabel 2,000 maka
+
+H0 ditolak atau berpengaruh positif terhadap peningkatan pendapatan
+
+masyarakat di Kecamatan Percut Sei
+
+Tuan pada taraf kepercayaan 95%.
+
+5. Variabel fasilitas kredit D2 dengan nilai t-hitung 5,842 > t-tabel 2,000 maka H0 ditolak atau berpengaruh positif terhadap peningkatan pendapatan masyarakat di Kecamatan Percut Sei Tuan pada taraf kepercayaan 95% yang berarti bahwa fasilitas kredit yang diterima para pengusaha sangat membantu dalam proses operasional dan kelanjutan usahanya.
+
+Hasil uji analisis dengan menggunakan model persamaan regresi linier berganda di atas menyimpulkan bahwa variabel modal kerja, tenaga kerja, total harga bahan baku, tingkat pendidikan dan fasilitas kredit baik secara serempak maupun parsial sangat mempengaruhi keberhasilan sektor industri kecil di dalam upaya peningkatan pendapatan masyarakat di Kecamatan Percut Sei Tuan
+
+F. KESIMPULAN Hasil penelitian menjelaskan bahwa
+variabel yang mempengaruhi keberhasilan sektor industri kecil di dalam upaya peningkatan pendapatan masyarakat di Kecamatan Percut Sei Tuan adalah variabel modal kerja X1, tenaga kerja X2, tingkat pendidikan D1 dan fasilitas kredit D2 sedangkan variabel total harga bahan baku X3 tidak berpengaruh di dalam upaya peningkatan pendapatan masyarakat di Kecamatan Percut Sei Tuan.
+
+G. DAFTAR PUSTAKA
+1. Tambunan, T. 1989. Some Aspects of Financing Small-Scale Industries in Developing Countries. A Cross-Section
+
+Agrium, Oktober 2010 Volume 16 No. 2
+
+Study. Rotterdam: Economic Publication, Erasmus University.
+2. Gani RA, 1996. Pengembangan Teknologi Tepat Guna dan Dampak Produktivitas Pertanian Dalam Rangka Meningkatkan Kemandirian dan Daya Saing Pertanian Indonesia, Seminar PERHEPI. Denpasar.
+3. Mubyarto, 1990. Sistem dan Moral Ekonomi. Penerbit LP3ES. Jakarta.
+4. Yuliati, Y dan Mangku Poernomo, 2003. Sosiologi Pedesaan. Penerbit Lappera Pustaka Utama. Yogyakarta.
+5. Suryana, 2001. Kewirausahaan. Penerbit Salemba Empat. Jakarta.
+6. Samuelson, Paul A and William, D Nordhaus, 1988. Ekonomi Makro,
+
+(Terjemahan Agus Maulana). Penerbit PT. Gunung Agung. Jakarta.
+7. Mahalli, Kasyful, 2006. Usaha Kecil Dan Menengah Dan Penyerapan Tenaga Kerja. Makalah yang disampaikan pada Seminar Regional dan Diskusi Terfokus "Mengurangi Masalah Pasar Kerja Sebagai Pendorong Iklim Investasi", yang diselenggarakan oleh PP ISEI, Padang, 8-9 Mei 2006.
+8. Heryadi D, 1995. Dampak Pengembangan Industri Kecil Dalam Pengembangan Wilayah (Studi Kasus Kabupaten Deli Serdang). PPs USU. Medan.
+9. PB Triton, 2006. SPSS 13.0 Terapan (Riset Statistik Parametrik). Penerbit Andi. Yogyakarta.
+
+INDUKSI RESISTENSI KONIDIA Trichoderma koningii TERHADAP Phytophthora nicotianae PADA BEBERAPA VARIETAS TEMBAKAU DELI
+Hilda Syafitri Darwis Jurusan Ilmu Hama dan Penyakit Tumbuhan, Fakultas Pertanian, UMSU, Medan
+Email: hilda@yahoo.com
+Abstract
+
+Agrium, Oktober 2010 Volume 16 No. 2
+
+This study aims to determine the potential and the effective dose T.koningii induce plant resistance to pathogens P.nicotianae Deli tobacco. The experiment was conducted at Research Institute of Tobacco Deli (BPTD) PTPN II and the Laboratory of Plant Pathology Faculty of Agriculture, University of North Sumatra in December 2008 to May 2009 using the 4 varieties of tobacco that is BPTD collection Deli-4, F1 45, NC-95 and FIN. Research using RAK factorial design with 2 factors are the variety and density of conidia (0, 106.107 and 108 conidia / ml). The results showed that administration of T. koningii able to slow the latent period, reduced the incidence of disease and reduce the intensity of the disease, each between 2-3 hsi, 12.51 to 20.83%, and 15.47 to 29.76%. Statistical test T. koningii given show significant effect on the observations of latent period and intensity of disease, whereas the treatment effect on the observations of real varieties latent period, disease incidence and intensity of disease.
+
+Keywords: Tobacco, T. koningii, P. nicotianae, Induction of resistance.
+
+Abstrak
+
+Maksud penelitian ini adalah untuk menentukan dosis induksi resistensi T.koningii yang tepat dan efektif terhadap hama P.nicotianae Tembakau Deli. Penelitian dilakukan di BalaiPenelitian Tembakau Deli dan Laboratorium Patologi Tumbuhan Fakultas Pertanian Universitas Sumatera Utara pada Desember 2008 sampai Mei 2009 menggunakan empat varitas tembakau yang merupakan koleksi BPTD Deli-4, F1 45, NC-95 dan FIN. Penelitian menggunakan desain RAK faktorial dengan dua faktor yaitu varitas dan densitas konidia (0, 106, 107 dan 108 konidia/ml). Hasilnya menunjukkan bahwa pemberian T.koningii dapat memperlambat periode laten, menurunkan pengaruh penyakit dan menurunkan intensitas penyakit, antara 2-3 his, 12,51 sampai 20,83%. Uji statistik T.koningii menunjukkan pengaruh signifikan pada observasi periode laten dan intensitas penyakit, sementara itu perlakuan berpengaruh terhadap observasi varitas nyata periode laten, timbulnya penyakit dan intensitas penyakit.
+
+Kata kunci: Tembakau, T. koningii,
+A. PENDAHULUAN
+Bermacam-macam jenis tembakau yang dibudidayakan di Indonesia dan bila dikelompokkan atas kegunaannya terdiri atas tembakau untuk cerutu, tembakau untuk rokok putih atau tembakau Virginia, tembakau rokok kretek, tembakau pipa dan tembakau kunyah. Jenis tembakau yang khusus digunakan untuk rokok cerutu yang telah dibudidayakan di Indonesia antara lain Tembakau Deli atau yang lebih dikenal di Eropa dengan nama Tembakau Sumatera, Tembakau Besuki dan Tembakau Vorstelanden.
+
+P. Nicotenae, induksi resistensi . Penyakit Lanas Tembakau oleh
+Phytophthora nicotianae pertama kali ditemukan pada tanaman tembakau Deli oleh Van Breda de Haan yang dipublikasikan pada tahun1896. 1 . P. nicotianae adalah patogen tular tanah, serangan cendawan ini akan menyebabkan kerusakan akar, batang dan daun dengan gejala layu, luka pada batang dan kematian tanaman. Patogen ini dapat menyerang semua jenis tanaman tembakau yang di tanam dan pada berbagai tingkat pertumbuhan tanaman. Serangan berat terjadi pada musim hujan yang relatif tinggi. Kerugian yang ditimbulkannya dapat mencapai 100% bila tidak segera dikendalikan dengan benar. 2
+
+Permasalahan yang sangat dirasakan pada beberapa tahun terakhir adalah rendahnya produktivitas Tembakau, Tahun 2007 penjualan Tembakau Deli dan Tembakau Jawa mencapai titik terendah yang masing-masing 1.675 dan 802 bal, Sementara itu, kebutuhan dunia atas tembakau Deli kelas wahid ini 3.000 bal. Menurut Naif Ali, Direktur Keuangan PTPN II, kemorosotan volume tembakau yang dilelang banyak disebabkan faktor alam diantaranya ada beberapa jenis hama dan penyakit yang sering menyerang pada pertanaman tembakau.
+
+Upaya pengendalian yang telah dilakukan selama ini belum memberikan hasil memuaskan. Untuk mencapai keberhasilan dalam pengendalian penyakit ini perlu diterapkan program pengendalian secara terpadu, diantara strategi yang dapat dilakukan adalah dengan penggunaan varietas tahan dan pengendalian hayati. Penggunaan Trichoderma sp. untuk pengendalian hayati merupakan salah satu alternatif pengendalian yang mempunyai harapan untuk dikembangkan.
+
+Agrium, Oktober 2010 Volume 16 No. 2
+
+Kemampuan Trichoderma dalam mengendalikan berbagai jenis patogen disebabkan karena memiliki beberapa mekanisme antara lain bersifat antagonis (kompetisi, hiperparasitisme, antibiosis dan lisis), memperkuat sistem perakaran, meningkatkan pertumbuhan tanaman, meningkatkan ketersediaan hara, menonaktifkan enzim patogen dan menginduksikan ketahanan tanaman. Beberapa strain Trichoderma mempunyai potensi sebagai pengimbas yang dapat menimbulkan reaksi ketahanan sistemik pada tanaman. Salah satu reaksi ketahanan yang ditimbulkan oleh Trichoderma adalah peningkatan enzim kitinase di dalam jaringan tanaman. 3
+Telah diketahui bahwa preinokulasi tanaman dengan berbagai agen fisik, kimia, dan biologi dapat menyebabkan perubahan reaksi penyakit yang diakibatkan oleh inkulasi berikutnya dengan patogen sasaran. Fenomena ini dikenal sebagai ketahanan terimbas atau induced resistance. Pengendalian hayati P.nicotianae dengan pemanfaatan sumberdaya biologi dalam meningkatkan kesehatan (ketahanan) tanaman, melalui peran mikroba tanah yang bermanfaat dengan menggunakan T.koningii merupakan pendekatan alternatif yang perlu dikembangkan. Dengan melakukan pengujian aplikasi T.koningii yang diinokulasikan pada tanaman diharapkan diperoleh metode pengendalian penyakit lanas yang efektif dan efisien serta aman.
+B. BAHAN DAN METODE
+Penelitian ini dilaksanakan di Balai Penelitian Tembakau Deli (BPTD) PTP Nusantara II dengan ketinggian tempat 12 mdpl dan di Laboratorium Penyakit Tumbuhan Fakultas Pertanian Universitas Sumatera Utara dengan ketinggian tempat ± 25 mdpl. Penelitian ini dilaksanakan pada bulan Oktober 2008 sampai mei 2009. Bahan yang digunakan adalah 4 varietas tanaman tembakau deli (Deli 4, F1 45, NC 95 dan FIN), tanah steril, tanaman tembakau terserang P. nicotianae, dan T. koningii. Adapun alat yang digunakan adalah hemasitometer, mikroskop, cawan petri, erlemeyer, handsprayer, objek glass, kukusan, autoclave, polibeg, dan alat pendukung lainnya.
+Penelitian ini menggunakan metode Rancangan Acak Kelompok Faktorial, dengan 2
+
+faktor perlakuan dan 4 kelompok (ulangan)
+dimana. Faktor 1 yaitu : varietas tembakau deli (
+V1 = Deli-4, V2 = F1 45, V3 = NC 95 dan V4 =
+FIN) sedangkan faktor 2 yaitu : Kerapatan
+konidia T. koningii (F0 = Kontrol (air steril), F1 = 106 konidia/ml, F2 = 107 konidia/ml dan F3 = 108 konidia/ml).
+
+Pemindahan bibit ke polibeg dilakukan setelah bibit berumur 40 hari. Untuk 1 polibeg ditanam 1 bibit tembakau.
+
+Suspensi konidia T. koningii diperoleh dengan cara ; T. koningii diperbanyak pada
+
+Tabel 1. Pengaruh prainokulasi konidia T. koningii terhadap periode laten (hsi), kejadian penyakit (%) dan intensitas penyakit (%) pada beberapa varietas tembakau deli
+
+Perlakuan Periode Kejadian Intensitas Laten Penyakit Penyakit
+
+Varietas
+
+V1 (Deli-4) 20,56 c 88,89 c 61,11 a
+
+V2 (F1 45) 23,86 a 75,01 b 48,89 b
+
+V3 (NC 95)
+
+0 d
+
+0 c
+
+0 c
+
+V4 (FIN) 24,15 b 69,44 b 46,11 b
+
+T. koningii
+
+F0 (kontrol) 15,61 c
+
+F1 (106 konidia/ml)
+
+16,95 b
+
+F2 (107 konidia/ml)
+
+17,77 b
+
+F3 (108 konidia/ml)
+
+18,25 a
+
+66,66 58,33 55.55 52,77
+
+46,67 a 39,45 b 37,22 b 32,78 b
+
+Kombinasi Varietas dan T. koningii
+
+V1K0 V1K1 V1K2 V1K3 V2K0
+
+19,00 19,78 21,33 22,11 21,22
+
+100,00 100,00 77,77 77,77 88,89
+
+75,56 68,89 51,11 48,89 60,00
+
+Agrium, Oktober 2010 Volume 16 No. 2
+
+V2K1
+
+24,00 66,66
+
+44,45
+
+V2K2
+
+24,67 77,77
+
+51,11
+
+V2K3
+
+25,56 66,66
+
+40,00
+
+V3K0
+
+0
+
+0
+
+0
+
+V3K1
+
+0
+
+0
+
+0
+
+V3K2
+
+0
+
+0
+
+0
+
+V3K3
+
+0
+
+0
+
+0
+
+V4K0
+
+22,22 77,77
+
+51,11
+
+V4K1
+
+24,00 66,66
+
+44,45
+
+V4K2
+
+25,06 66,66
+
+46,67
+
+V4K3
+
+25,33 66,66
+
+42,22
+
+Keterangan : Angka-angka yang diikuti huruf
+
+yang sama pada kolom yang sama tidak berbeda
+
+nyata pada taraf 5% uji DMRT
+
+media PDA. Biakan murni T. koningii yang
+
+telah berumur 1 minggu
+
+selanjutnya di panen sporanya
+
+dengan menambahkan gliserol
+
+20% selanjutnya konidia
+
+dikerok perlahan dengan batang
+
+kaca. Suspensi konidia yang
+
+diperoleh
+
+selanjutnya
+
+diencerkan dengan air steril dan
+
+diamati kerapatan konidianya
+
+sesuai perlakuan dengan
+
+hemasitometer.
+
+Aplikasi konidia T. koningii dilakukan 5 hari setelah transplanting. Cara inokulasi patogen merupakan modifikasi dari Droby et al. (2002) dengan menyayat tipis 2 bagian batang (1-2 mm), kemudian masing-masing sayatan ditetesi dengan suspensi konidia yang berbeda sesuai perlakuan sebanyak 20 µl konidia dari T. koningii dan untuk perlakuan kontrol diinokulasi dengan air steril.
+
+Persiapan inokulum P. nicotianae dilakukan dengan mengambil tanaman tembakau yang telah terserang penyakit lanas yang berasal dari perkebunan. Bagian tanaman yang sakit kemudian dipotong dengann ukuran 0.5 cm lalu direndam dengan larutan clorox selama 1 menit. Bagian tanaman yang sakit kemudian dikeringanginkan diatas kertas saring untuk menghilangkan sisa air yang berlebih, kemudian
+
+diinokulasikan pada media CMA sehingga didapat biakan murni. Inokulasi P. nicotianae sama seperti aplikasi T. koningii yang dilakukan 24 jam setelah aplikasi suspensi konidia T. koningii.
+C. HASIL PENELITIAN
+Uji aktifitas antagonis konidia T. koningii dilakukan berdasarkan periode laten, kejadian penyakit (diseases incidence) dan intensitas penyakit (diseases severity) pada tajuk1.
+Periode Laten
+Periode laten dihitung dari munculnya gejala pertama yang ditandai dengan layunya tanaman secara mendadak. Diamati setiap hari sampai 5 minggu setelah inokulasi. Diamati pada pagi hari.
+Hasil analisis prainokulasi tanaman tembakau dengan T. koningii dalam mereduksi patogen P. nicotianae menunjukkan bahwa interval waktu antara inokulasi dengan munculnya gejala penyakit (periode laten) berpengaruh sangat nyata terhadap perlakuan varietas dan T. koningii. Periode laten terlama dijumpai pada varietas FIN (V4) yang tidak berbeda nyata dengan varietas FI 45 (V2). Sedangkan pada varietas NC 95 tidak ada tanaman yang terinfeksi.
+Perbedaan dosis T. koningii yang diberikan menunjukan pengaruh yang nyata terhadap periode laten. Periode laten tercepat terdapat pada perlakuan F0 (kontrol) dan terlama pada perlakuan F3 (108) dan hasil uji lanjut juga menunjukkan ada beda nyata periode laten pada perlakuan tanpa pemberian T. koningii dengan perlakuan pemberian T. koningii. Hubungan antara periode laten yang diberikan dengan pemberian T. koningii pola linier positif dengan nilai koefisien determinan (r2) = 0,91 (Gambar 1).
+Prainokulasi T.koningii menyebabkan penundaan periode laten pada masing-masing varietas, hal ini terlihat pada hasil uji lanjut (DMRT, 5 %) menunjukkan ada beda pengaruh perlakuan yang diberikan dengan perlakuan kontrol. Hal ini diduga prainokulasi dengan Trichoderma pada daerah luka maka akan mempengaruhi respon ketahanan tanaman dengan mempercepat proses dan meningkatnya pembentukan metabolit sekunder yang
+
+Agrium, Oktober 2010 Volume 16 No. 2
+
+diperlukan tanaman untuk menghambat infeksi patogen baik secara langsung maupun tidak langsung. Hadiwiyono et al. (2002) menyatakan bahwa prainokulasi Binucleate Rhizoctonia dapat menginduksi resistensi tanaman dan ada korelasi positif yang nyata antara aktivitas 1,3b-glucanase dan peroksidase dengan meningkatnya resistensi terinduksi. 4
+
+Pada tahun 1980an Komada seorang peneliti Jepang mempublikasikan temuannya mengenai penggunaan Fusarium oxysporum non patogenik (F.o.NP) untuk menginduksi ketahanan tanaman ubi jalar terhadap penyakit
+
+Gambar 1. Hubungan interaksi antara kerapatan konidia T. koningii terhadap periode laten (hsi)
+
+busuk Fusarium. Hasil temuan itu menjelaskan
+bahwa penggunaan Fo.NP efektivitasnya tidak berbeda nyata dengan penggunaan Binomil
+yang merupakan fungisida andalan untuk pengendalian penyakit tersebut saat itu. 2
+
+Kejadian Penyakit (Diseases Incidence)
+
+Kejadian penyakit diamati pada setiap 3 hari sekali sampai 5 minggu setelah inokulasi dengan cara :
+
+n
+
+KP =
+
+x 100%
+
+N
+
+N = jumlah tanaman yang diamati
+
+tertinggi terdapat pada varietas Deli-4 (V1) dengan nilai 88,89 %, yang berbeda nyata dengan ketiga varietas lainnya, dan terendah pada varietas NC 95 dengan nilai 0 % karena tidak ada tanaman yang terinfeksi. Hal ini sesuai dengan penelitian sebelumnya bahwa masingmasing varietas secara genetis memiliki respon ketahanan yang berbeda terhadap P. nicotianae. 5. 3. Intensitas Penyakit (Disease Severity) pada Tajuk
+
+Pengamatan intensitas serangan penyakit pada tajuk dilakukan pada 3 hari sekali sampai 5 minggu setelah inokulasi, dengan rumus :
+
+ DS =  i=5 ni.vi /(NV ) X 100%
+
+ i=0
+
+
+
+n = jumlah tanaman yang terserang
+
+Keterangan :
+
+Hasil analisis ragam pada kejadian penyakit menunjukkan bahwa perlakuan varietas berpengaruh sangat nyata terhadap parameter kejadian penyakit. Persentase kejadian penyakit
+
+DS = Keparahan penyakit ni = Jlh tanaman dengan skor ke-i vi = skor ke i i = 0-5
+
+N = Jlh tanaman dengan skor ke-i V = Skor tertinggi dari tanaman terserang
+
+Agrium, Oktober 2010 Volume 16 No. 2
+
+Skoring intensitas penyakit lanas (black shank) tanaman tembakau menurut Carlson 2, adalah :
+
+Agrium, Oktober 2010 Volume 16 No. 2
+
+Skor 0 Skor 1 Skor 2 Skor 3 Skor 4
+Skor 5
+
+= Tanaman sehat (tidak terlihat ada gejala)
+= Tanaman layu
+= Tanaman layu dan sedikit/agak kehitaman pada batang
+= Tanaman layu dan hitam pada batang
+= Tanaman layu, pertumbuhan tanaman terhambat, hitam pada batang tampak tegas
+= Tanaman mati
+
+Agrium, Oktober 2010 Volume 16 No. 2
+
+Hasil pengamatan intensitas penyakit
+
+menunjukan pengaruh yang nyata pada
+
+perlakuan varietas dan T. koningii. Intensitas
+
+penyakit tertinggi terdapat pada varietas Deli-4
+
+(V1) dan terendah pada varietas NC 95 (V3).
+
+Intensitas penyakit pada perlakuan suspensi
+
+antifungal pada uji lanjut menunjukkan ada
+
+beda nyata antara perlakuan pemberian
+
+T.koningii dengan perlakuan kontrol (tanpa
+
+pemberian suspensi antifungal). Hubungan
+
+antara persentase intensitas penyakit dengan
+
+konsentrasi suspensi antifungal menunjukkan pola linier negatif dengan nilai determinan (r2) =
+
+0,95 (Gambar 2), dimana intensitas penyakit
+
+akan menurun dengan bertambahnya
+
+konsentrasi suspensi antifungal yang diberikan.
+
+Hasil interaksi varietas dengan T. koningii jika
+
+dilihat pengaruhnya terhadap intensitas penyakit
+
+(varietas Deli-4, F1 45, dan FIN) walaupun
+
+hasilnya tidak signifikan, namun ada
+
+kecendrungan intensitas terendah adalah pada
+
+kombinasi antara varietas F1 45 yang diberi dengan dosis 108 konidia/ml T. koningii
+
+(V2K3).
+
+Prainokulasi suspensi antifungal T.koningii
+
+menyebabkan penurunan intensitas penyakit di
+
+semua varietas, rata-rata berkisar antara 15.47 ­
+
+29,76 %. Hal ini diduga
+
+T. koningii
+
+yang diinokulasikan akan segera
+
+mengkolonisasi dan tumbuh dengan cepat di
+
+daerah luka. Bersamaan dengan pertumbuhan
+
+yang berlangsung cepat, agen biokontrol
+
+mikroba berinteraksi dengan jaringan luka
+
+sehingga dapat menginduksi resistensi tanaman
+
+dengan menimbulkan berbagai perubahan
+
+biokimia dan perubahan struktural yang
+
+menghambat perkembangan patogen. Dalam hal
+
+ini T.koningii berperan sebagai agensia
+
+pengimbas ketahanan tanaman. Menurut
+
+Soesanto (2008) ketahanan terimbas umumnya
+
+bersifat sistemik, karena daya pertahanan
+
+ditingkatkan tidak hanya pada bagian tanaman
+
+yang terinfeksi utama, tetapi juga pada jaringan
+
+terpisah tempat yang tidak terinfeksi.
+
+Agrium, Oktober 2010 Volume 16 No. 2
+
+Agrium, Oktober 2010 Volume 16 No. 2 Gambar 2 Hubungan interaksi antara kerapatan konidia T. koningii terhadap intensitas serangan (hsi
+
+Agrium, Oktober 2010 Volume 16 No. 2
+
+Hal ini dibuktikan oleh Yedidia et al. (1999)
+
+bahwa inokulasi T. harzianum pada akar
+
+menyebabkan
+
+peningkatan
+
+keaktifan
+
+peroksidase dan kitinase dalam daun semai
+
+mentimun. Mereka juga melaporkan bahwa hifa
+
+dari T. harzianum mempenetrasi epidermis dan
+
+permukaan kortex dari akar mentimun dan
+
+tanaman merespon dengan meningkatnya
+
+aktivitas enzim peroxidase, meningkatnya
+
+enzim kitinase dan meningkatkan selulosa yang
+
+terdeposit pada dinding sel. Dan yang paling
+
+menarik peningkatan enzim-enzim ini didapati
+
+pada akar dan daun.
+
+Droby melaporkan pada buah anggur yang diinduksi dengan Candida Oleophila (agen biokontrol), membuktikan telah terjadi berbagai respon ketahanan terjadi disekitar luka dan pada keseluruhan buah yang masih utuh. Respon resistensi yang diaktivasi meliputi peningkatan produksi etilen, aktifitas PAL (phenylalanine ammonia lyase), biosentesis fitoaleksin, dan akumulasi kitinase dan protein ß-1-3-glukanase. 6
+
+Widono melaporkan prainokulasi bibit pisang dengan B. Cepacia yang dilakukan 7 hari sebelum inokulasi F. oxysporum f.sp. cubense mampu menekan perkembangan penyakit layu fusarium, yang diikuti dengan peningkatan fitoaleksin pada batang tanaman. 7
+D. KESIMPULAN
+
+Dari hasil pengujian antagonis T.koningii terhadap P.niconianae dapat ditarik kesimpulan:
+
+1. Pemberian konidia T. koningii disekitar rizosfer dapat memperlambat periode laten serta mengurangi persentase kejadian dan intensitas penyakit masing-masing antara 23 hsi, 12,51 ­ 20,83 %, serta 15,47 ­ 29,76 %
+2. Hasil interaksi varietas dengan T. koningii jika dilihat pengaruhnya terhadap intensitas penyakit walaupun hasilnya tidak signifikan, namun ada kecendrungan intensitas terendah adalah pada kombinasi antara varietas F1 45 yang diberi dengan dosis 108 konidia/ml T. koningii.
+3. Varietas NC 95 mempunyai ketahanan toleran, karena tidak ada satupun tanaman yang terinfeksi.
+
+E. DAFTAR PUSTAKA
+
+1. Semangun H. 1994. Penyakit-penyakit Tanaman Perkebunan di Indonesia. Gajah Mada University Pres. Yogyakarta.
+2. Carlson SR, Maryanne F.Wolff, H.D.Shew, and E.A.Wernsman. 1997. Inheritance of Resistance to Race 0 of Phytophthora parasitica var. Nicotianae from the FlueCured Tobacco Cultivar Coker 371-Gold. Plant Disease, 81, 1269-1274
+3. Harman, G.E. 2000. Changes in Perceptions Derived from Research on Trichoderma harzianum T-22. Plant Disease. 84(4):377-392.
+4. Hadiwiyono, H.S. Gutomo, dan Bandini. 2002. Induksi Resistensi Sistemik Tanaman terhadap Virus Bilur Kacang Tanah dengan Senyawa Kalium-Fosfat. FP UNS.
+5. Darwis, H.S. 2009. Uji Patogenisitas P. nicotianae Terhadap Beberapa Varietas Tembakau Deli. Universitas Sumatera Utara, Medan.
+6. Droby S. V.Vinokur, B.Weiss, L.Cohen, A.Daus, EE.Goldscmidt, and R.Porat. 2002. Induction of Resistance to Penicillium digitatum in Grapefruit by the Yeast Biocontrol Agent Candida oleophila. Phytopathology 92 (4) : 393 ­ 399.
+7. Widono, S., Christanti S., Bambang H., 2003. Pengimbasan Ketahanan Pisang Terhadap Penyakit Layu Fusarium dengan Burkholderia cepacia. Agrosains. Volume 5 (2) : 72-79

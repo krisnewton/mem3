@@ -1,0 +1,1012 @@
+ARTICLE IN PRESS
+
+Comparative Immunology, Microbiology & Infectious Diseases 31 (2008) 121­165
+
+www.elsevier.com/locate/cimid
+
+Influenza vaccines and vaccination strategies in birds
+Thierry van den Berga,Ã, Be´ ne´ dicte Lambrechta, Sylvie Marche´ a, Mieke Steenselsa, Steven Van Borma, Michel Bublotb
+aAvian Virology & Immunology, Veterinary & Agrochemical Research Centre (VAR), 99 Groeselenberg, 1180 Brussels, Belgium
+bMerial S.A.S., Discovery Research, Lyon, France
+Accepted 12 July 2007
+Abstract
+Although it is well accepted that the present Asian H5N1 panzootic is predominantly an animal health problem, the human health implications and the risk of human pandemic have highlighted the need for more information and collaboration in the field of veterinary and human health. H5 and H7 avian influenza (AI) viruses have the unique property of becoming highly pathogenic (HPAI) during circulation in poultry. Therefore, the final objective of poultry vaccination against AI must be eradication of the virus and the disease. Actually, important differences exist in the control of avian and human influenza viruses. Firstly, unlike human vaccines that must be adapted to the circulating strain to provide adequate protection, avian influenza vaccination provides broader protection against HPAI viruses. Secondly, although clinical protection is the primary goal of human vaccines, poultry vaccination must also stop transmission to achieve efficient control of the disease. This paper addresses these differences by reviewing the current and future influenza vaccines and vaccination strategies in birds. r 2007 Elsevier Ltd. All rights reserved.
+Keywords: Avian influenza; Flu; Vaccine; Vector; Subunit; Immunity; Surveillance; DIVA; Eradication; H5N1
+ÃCorresponding author. Tel.: +32 2 3790630; fax: +32 23791337. E-mail address: thvan@var.fgov.be (T. van den Berg).
+0147-9571/$ - see front matter r 2007 Elsevier Ltd. All rights reserved. doi:10.1016/j.cimid.2007.07.004
+
+ARTICLE IN PRESS
+
+122
+
+T. van den Berg et al. / Comp. Immun. Microbiol. Infect. Dis. 31 (2008) 121­165
+
+Re´ sume´
+
+Bien qu'il soit a` pre´ sent bien accepte´ que la panzootie au virus H5N1 asiatique soit avant tout un proble` me de sante´ animale, ses implications sur la sante´ publique et le risque de pande´ mie ont montre´ le besoin de plus d'information et de coordination entre le monde me´ dical et le monde ve´ te´ rinaire. Les virus du sous-type H5 et H7 ont l'unique proprie´ te´ de devenir hautement pathoge` nes (IAHP) lors de leur circulation chez la volaille. De` s lors, l'objectif final de la vaccination de la volaille est l'e´ radication de la maladie. En fait, il existe d'importantes diffe´ rences entre le contro^ le de l'influenza aviaire et celui de la grippe chez l'homme. Premie` rement, contrairement aux vaccins humains qui doivent e^ tre ajuste´ s aux souches circulantes pour procurer une bonne protection, les vaccins aviaires fournissent une plus large protection contre les souches IAHP. Deuxie` mement, alors que le but premier des vaccins humains est la protection clinique, les vaccins aviaires doivent aussi re´ duire la transmission du virus de manie` re a` permettre le contro^ le de la maladie. Cet article tente d'aborder ces diffe´ rences en passant en revue les vaccins actuels et futurs contre l'influenza et les diffe´ rentes strate´ gies de vaccination chez la volaille. r 2007 Elsevier Ltd. All rights reserved.
+Mots cle´s: Influenza aviaire; Grippe; Vaccin; Vecteur; Sous-unite´ ; Immunite´ ; Surveillance; DIVA; E´ radication; H5N1
+
+1. Introduction
+In 2003, the highly pathogenic avian influenza (HPAI) H5N1 strain, starting circulating in Asia in 1996, became enzootic in poultry. Indeed, from December 2003 to April 2005, HPAI H5N1 caused outbreaks of avian disease in nine Asian countries [1­5]. This unprecedented spread of HPAI was associated with a failure of surveillance and control measures in these countries, allowing the spread of the virus to Middle East, then Europe in the summer of 2005, and later to Africa [6]. Another unprecedented feature of this H5N1 HPAI outbreak is its association with human disease and mortality. There was no report of human death due to avian influenza (AI) before the H5N1 avian flu alert in 1997 in Hong Kong, where 6 out of 18 human cases were fatal [7,8]. The total number of laboratory confirmed human cases since 2004 now reaches 291, including 172 mortalities at the date of writing [9]. The risk of generation of a new pandemic strain either by reassortment with circulating human influenza or by direct adaptation to humans is a threat for public health. Unexpected infection of wild felines, cats and even dogs further illustrates the unusual crossspecies transmission potential of this H5N1 outbreak [10].
+Due to the high contagiousness and the extreme severity of the disease, HPAI is the only ``flu'' of domestic animals considered as epizootic (ex-list A of the OIE-- formerly Office International des Epizooties, now World Organisation for Animal Health) [11], requiring drastic measures such as eradication for control. It has been estimated that hundreds of millions of birds have been culled so far in attempt to control the spread of the Asiatic H5N1 virus. Although the total number of poultry affected by this HPAI still represents a small percentage of the total world
+
+ARTICLE IN PRESS
+
+T. van den Berg et al. / Comp. Immun. Microbiol. Infect. Dis. 31 (2008) 121­165
+
+123
+
+poultry production (more than 20 billion per year), the continuing endemic situation of H5N1 in parts of Asia and the spread to other continents are a matter of great concern to the international community. Developed countries (European Union (EU), USA) have established surveillance programs for AI in wild birds and poultry [12,13]. Such surveillance is indispensable for early detection before control and eradication measures can come into motion.
+Surveillance, biosecurity, culling, and movement restrictions are the first line of defense against AI and have been successfully applied in Europe and North America to eradicate HPAI outbreaks. These measures could not be correctly implemented in most developing countries, however, and vaccination was therefore used as an additional measure to control AI. In poultry, it is recommended to use vaccines that permit identification of infected animals in a vaccinated flock vaccinated from infected animals in order to allow continuing surveillance. Other important prerequisites for veterinary vaccines are low cost, easy mass administration, safety and quality.
+Wild waterfowl have always been considered as subclinical carriers of low pathogenic avian influenza (LPAI) viruses, and consequently, wild ducks play an important role in the epidemiology of influenza [14­17]. Transmission events of LPAI viruses from wild to domestic birds with subsequent mutation to highly pathogenic viruses have been increasingly reported [18]. But the spillover of HPAI from domestic to wild avifauna had only been observed once before [17]. Since the end of 2002 wild birds became infected with the HP H5N1 strain in Asia [19­22]. Finally, the endemic situation that evolved from this point forward and the scientific information around the key epidemiological role of (domestic and wild) ducks [23­27] makes the study of vaccination of ducks also a research priority.
+There are numerous reviews on vaccination for AI in poultry [28­41]. This paper will attempt to review the current status of licensed and future vaccines, and compare vaccination strategies against influenza in animals and humans with emphasis on the control of AI in birds.
+
+2. Avian influenza viruses and epidemiology
+AI was first discovered in Italy in 1878 and called ``fowl plague'' [42]. At that time, it was defined as a disease causing high mortality in chickens. Decades later, in 1955, Schafer demonstrated that the fowl plague virus was a member of the influenza A virus group whose genomic composition was virtually identical to that of the human influenza virus [43]. By then it was already shown that human influenzas identified as viruses in 1933 [44], shared with their avian counterparts many biological properties including the ability to grow in chick embryos and agglutinate red blood cells [45]. AI is an infectious disease caused by specific influenza A viruses, which belong to the Orthomyxoviridae family of viruses. Influenza A viruses are endemic, affecting various avian species but also mammals such as pigs, horses and humans. Orthomyxoviridae are single-stranded RNA viruses that have a spherical or filamentous virion with numerous surface glycoprotein projections, a helical
+
+ARTICLE IN PRESS
+
+124
+
+T. van den Berg et al. / Comp. Immun. Microbiol. Infect. Dis. 31 (2008) 121­165
+
+nucleocapsid, and a genome consisting of 6­8 segments of single-stranded antisense RNA [46]. The genome of Influenzavirus A is composed of a single RNA species consisting in 8 segments with a total length of about 14 kb.
+Influenza A viruses can be extremely virulent and have been the cause of several pandemics in the past. These viruses are known to infect naturally birds, humans, pigs, horses, minks, whales and seals [47,48]. Recently, some cases involving cats, leopards, tigers, civets and dogs have been described [49].
+
+2.1. Natural history
+
+The natural history of influenza virus A starts in wild birds of the orders Anseriformes (ducks, geese, swans) and Charadriiformes (gulls, terns, sandpipers), which are carriers of the full variety of subtypes, and thus constitute the reservoir of the virus [14­17,50]. These species live with their viruses, in an evolutionary stasis. Indeed, wild waterfowls usually remain asymptomatic and shed the virus in their feces. Excretion usually occurs during the two first weeks of infection. Among the bird population, peak excretion titers of up to 108.7 50% egg-infectious dose (EID50) per gram feces have been measured [51]. The excretion of the virus by the fecal route results in the contamination of the environment and keeps the infection cycle going.
+Influenza A viruses are further subtyped on the basis of the two key surface proteins: the hemagglutinin (HA) and the neuraminidase (NA). So far, 16 antigenically different HA antigens and 9 NA antigens have been isolated from aquatic birds, the natural reservoir of influenza A viruses. Each of the 16 HAs can be paired with one of the 9 NA antigens, resulting in 144 possible combinations. The HA is responsible for virus attachment to cell receptors and for fusion of viral and cellular membranes. The NA also serves important function: it cleaves cellular sialic acids on which glycosylated HA binds during virus budding to facilitate the release and spread of the virus to new cells. These two glycoproteins represent thus major targets for the neutralizing antibodies (for a more comprehensive description of the glycoproteins, see [49]).
+
+2.1.1. Humans Once introduced into new hosts, like land-based Galliformes or mammalian
+species, the virus can adapt, evolve rapidly and establish itself in the new population (Table 1).
+Current influenza A viruses circulating in humans are mostly H1N1 and H3N2. They have established themselves in humans, and are referred to as human flu viruses. The H2 subtype circulated in humans between the H2N2 Asian flu of 1956 and the H3N2 Hong Kong flu of 1968 pandemics. Humans have also been accidentally infected by H5, H7 and H9 avian viruses [8], as well as by swine influenza viruses [52] but these subtypes never established themselves in the population.
+
+2.1.2. Poultry AI refers to the infection caused by established subtypes of HA (mainly H5, H6,
+H7 and H9) in susceptible poultry (Galliformes). There seem to be no restriction
+
+ARTICLE IN PRESS
+
+T. van den Berg et al. / Comp. Immun. Microbiol. Infect. Dis. 31 (2008) 121­165
+
+125
+
+Table 1 Distribution of major HA and NA subtypes in influenza a viruses of different species
+
+Species
+
+HA subtype
+
+NA subtype
+
+Wild birds Anseriformes
+American lineagesa Eurasian lineagesb
+Charadriiformes American lineagesa Eurasian lineagesb
+Humana Poultry (Galliformes)a Piga Horsea Sea mammalsa Cats and wild feline Dogs Minka
+
+All
+3­6 1­2­3­4­5­6­7­10­11
+9­11­13 13­16
+1­(2)­3 5­6­7­9 1­3 3­(7) 3­4­7­13 5 3­5 10
+
+All
+2­6­8 1­2­3­6­7­8­9
+6­9 3­8
+1­2 1­2­3­4­7­9 1­2 (7)-8 2­5­6­7­9 1 1­8 4
+
+Numbers in brackets are subtypes that are not currently circulating. aMain subtypes, Source: [49]. bMain subtypes, Source: [50].
+
+regarding NA. AI can develop into two forms of disease known as HPAI and LPAI on the basis of high and low extremes of virulence in the susceptible population. The LPAI virus phenotype can convert to highly pathogenic through the introduction of basic amino acids residues at the HA cleavage site by mutations or insertions during circulation of the virus, which facilitates systemic virus replication. The type of HA of LPAIs can only be cleaved by trypsin-type enzymes (e.g. plasmin, tryptase Clara, miniplasmin, etc.), which can be found only in the respiratory and intestinal tracts, to which virus replication is restricted. On the contrary, HPAIs have a HA that can be cleaved by ubiquitous proteases, such as furin or PC6, which can be found in virtually all organs [53,54]. Current international legislation [55,56] defines AI as ``an infection of poultry or other birds caused by any influenza A virus of the H5 or H7 subtype or by any influenza virus with an Intravenous Pathogenicity Index (IVPI) 41.2''. This means that the term AI applies now to all viruses of the H5 or H7 subtype regardless of the virulence for poultry, as these two subtypes have the potential to mutate into HPAI, and is referred now as to ``notifiable'' AI (reviewed in [30]).
+2.1.3. Pigs Swine flu (or ``pig influenza'') refers to subtypes of avian or human origins that
+adapted to and are endemic in pigs (mainly H1N1, H1N2 and H3N2). Swine influenza isolates circulating in Europe and Asia differ from their counterparts circulating in America [57,58]. Pigs have been shown to be occasionally infected by
+
+ARTICLE IN PRESS
+
+126
+
+T. van den Berg et al. / Comp. Immun. Microbiol. Infect. Dis. 31 (2008) 121­165
+
+H9N2 [59], but rarely by H5N1 [60]. They were found to be resistant to experimental infection with H5N1 HPAI [60,61].
+
+2.1.4. Horses Horse flu refers to two main types of virus called A/equi-1 (H7N7) and A/equi-2
+(H3N8), which have adapted to equines and are responsible for severe respiratory diseases in horses, zebra or donkeys. The former has not been isolated from horses since 1980 and may be extinct. Outbreaks of influenza in horses due to avian H3N8 occurred in China [62,63].
+
+2.1.5. Other mammals In addition, some subtypes also have established in sea mammals or minks, and
+some viruses normally seen in one species sometimes can cross over and cause illness in another species. For example, until 1997, only H1N1 viruses circulated widely in the US pig population. However, in 1997, H3N2 viruses from humans were introduced into the pig population and caused widespread disease among pigs [57]. More recently, two examples of adaptation to new species have been described with viruses jumping to new hosts: H3N8 viruses from horses have crossed over and caused outbreaks in dogs [64] while H5N1 viruses have been transmitted from birds to cats and wild felids [10].
+
+2.2. Evolution
+
+Influenza viruses continuously modify their antigenic properties through antigenic drift and antigenic shift. Antigenic drift is caused by point mutations and refers to minor, gradual, antigenic changes in the HA or NA proteins. The cause of antigenic drift lies in the lack of proofreading activity among RNA polymerases during the replication of the virus, which is an error-prone process. Some of these mutations give rise to new variants that can have an advantage over the parent virus. In humans, the benefit can be that the new viruses will no longer be recognized and neutralized by several vaccine antibodies which act thus as selection pressure. Indeed, there are five major antibody binding sites (``epitopes'') on the HA protein, and mutation in one of these antigenic sites will decrease the efficiency of neutralization by current immune sera. The same mechanism of antigenic drift also occurs in AI viruses [65], but, there is usually not such selection pressure because the birds are currently not vaccinated and emergence of new variants is more ``at random'' with increased virulence or modified tropism as possible consequences. However, mass vaccination of chickens, as done for example in 1995 in Mexico against epidemic H5N2 influenza, had a similar effect in poultry by selecting a mutant virus [66]. Antigenic drift also occurs in horses [67] and swine [68,69], but at a much lower rate than in humans.
+In contrast, antigenic shift implies major antigenic changes resulting in new HA and/or NA proteins. Because the proteins are distinct from the previously circulating strain, populations will have no immunity to the new subtype. In humans, this shift leads to high infection rates and further pandemics. Antigenic shift may occur as a result of genetic reassortment, which occurs when a host cell is infected by two
+
+ARTICLE IN PRESS
+
+T. van den Berg et al. / Comp. Immun. Microbiol. Infect. Dis. 31 (2008) 121­165
+
+127
+
+influenza A viruses at the same time. Viruses of different species may be involved in the co-infection. The segmented nature of the genome facilitates this mechanism, allowing a `mix and match' process to occur. The new virus has elements from both original viruses but has unpredictable pathogenicity; that is to say, the virus may lack the requisite virulence factors and be non-viable, but it may also possess full virulence for the new target host. Although never formally demonstrated [70], a number of findings have suggested a possible role for pigs in the emergence and transmission of new pandemic strains, with the pigs acting as mixing vessels through reassortment when they are co-infected with avian and human viruses [71­74]. Recently, a new concept has been proposed for the emergence of pandemic strains through adaptation of waterfowl viruses to land-based poultry, leading to viruses better able to replicate in humans due to a change in receptor specificity, without the need of the pig as an intermediary host [49,75].
+Pandemic influenza occurs when a new virus to which the human population has no or little immunity emerges and therefore poses a great threat [49]. In order to become pandemic, a strain must have several characteristics: it must be able to enter and replicate in the human body; to cause illness in humans and be excreted substantially; to spread easily between humans (transmissibility); and to penetrate a nai¨ ve population (absence of antibodies in the majority of the humans). When an AI virus has all of these qualities and has established itself in the human population, it ceases to be referred to as AI and becomes human influenza [76,77].
+
+3. Protective immune response
+Specific acquired immunity operates through clonal selection, whereby the B lymphocytes that produce antibodies and display them on the cell surface, and the T lymphocytes (helper and cytotoxic) which recognize a concrete antigen are activated, followed by multiplication and development of immune defensive actions. In addition, immune memory is established as a part of the lymphocytes that responded to the primary infection are preserved and may later in time activate again in response to a second invasion by the same type of microorganism. Cellular memory depends on the persistence of antigen-sensitized T cells that are able to rapidly respond to a secondary virus infection. The capacity of these cells to mediate accelerated responses is due to a number of factors, including their higher precursor frequency and reduced activation requirements compared to nai¨ ve T cells [78,79]. In this context, vaccination acts in a way similar to primary infection. When a dead or attenuated vaccine is injected into an animal, an immune response occurs. A protective immune response to vaccination may be due to the production of antibodies (humoral immunity), the action of sensitized T lymphocytes (cellular immunity), or a combination of both. Moreover, mucosal immunology is increasingly gaining attention as an area of great potential for the development of vaccines. Indeed, mucosal surfaces are the major place of entry of many infectious agents into the body. The mucosae contain several defined lymphoid tissues that respond specifically to invading antigens, and this immune response can be either
+
+ARTICLE IN PRESS
+
+128
+
+T. van den Berg et al. / Comp. Immun. Microbiol. Infect. Dis. 31 (2008) 121­165
+
+cellular or humoral (IgA). The characterization of a protective immune response requires the definition of which aspects of the immune reaction are responsible for the protection afforded (systemic, humoral, mucosal or cellular). All this information is necessary to ensure that a given in vitro potency test is also relevant for assessing in vivo efficacy, and for making sure that the relevant immune response is being measured against the adequate antigens. Recovery or prevention of influenza relies on targeting both innate and adaptative responses to the respiratory tract mucosa. Influenza infection induces both systemic and local antibody (humoral immunity), as well as cytotoxic T-cell responses (cellular immunity), each of which is important in recovery from acute infection and resistance to reinfection.
+
+3.1. Humoral immunity
+
+Infection results in the systemic production of antibody to both influenza glycoproteins HA and NA, as well as M (matrix) and NP (nucleoprotein) proteins. The anti-HA neutralizing antibodies protect against both disease and infection with homologous virus, and the induction of neutralizing antibodies is one of the main goals of immunization with vaccines. In contrast to anti-HA antibodies, anti-NA antibodies do not neutralize virus infectivity, but instead reduces the efficient release of virus from infected cells [80]. However, influenza virus, as well as many pulmonary virus pathogens, have developed strategies to evade humoral immune response by producing variants that rapidly mutate their coat proteins (HA and NA). Antibody-mediated protection is therefore inadequate against heterologous strains with serologically distinct coat proteins, requiring reformulation of the influenza vaccine to fit to the circulating strains [81]. Unlike HA and NA, the extracellular domain of the M2 protein (M2e) does not seem to be subjected to severe immune selection pressure and is very well conserved in all influenza type A viruses [82]. Moreover, mice vaccinated with a M2e and Hepatitis B virus core fusion protein (M2e-HBc) appear completely protected from homologous and heterologous highly pathogenic human influenza challenge [83]. The external part of the M2 protein could potentially induce cross-protective antibodies against AI viruses of all HA and NA subtypes. However, no work has been published yet to determine if antibody to M2e would be protective in poultry.
+The most abundant structural protein of the virion is the matrix protein, M1, which lies beneath the virus envelope. This structural protein induces a cross-protective immunity against influenza A virus in mice [84­86] and could be investigated as immunogen and protective antigen in chickens. The antibody response, measured by haemagglutination inhibition titers is used in chicken as a serological marker of immunological response to the vaccine or of efficacy. Levels of serum antibody correlate usually well with immune protection against clinical disease.
+
+3.2. Cell-mediated immunity
+
+Although cellular immune responses are not able to block the initial infection, they are able to reduce the severity of infection and substantially lower morbidity and mortality rates [87,88]. During the primary influenza infection, viral clearance
+
+ARTICLE IN PRESS
+
+T. van den Berg et al. / Comp. Immun. Microbiol. Infect. Dis. 31 (2008) 121­165
+
+129
+
+depends on CD8 T lymphocytes. In the mouse model, virus is cleared within 10 days after infection with no indication of persistent antigen or viral antigen [89]. Both CD4 and CD8 memory T-cell subsets respond to and mediate control of an influenza virus re-infection [90]. In influenza infection, CD4 T lymphocytes help B lymphocytes generate anti-HA and anti-NA antibodies and may also promote the generation of virus-specific CD8 cytotoxic T lymphocytes. Th cells can be further subdivided into at least Th1 and Th2 cells, based on the type of cytokines they produce. In mice, influenza infection induces a strong Th1 response, but Th2 cytokines (IL-4, IL-5, IL-6, IL-10) have also been found in the lungs of infected animals. Some evidence indicates that protective immunity is mediated by Th1-like responses. In influenza infection, CD8 cytotoxic T lymphocytes (CTL) recognize epitopes from HA or from internal proteins M, NP, or PB2 presented on MHC class I molecules [91]. These cellular immune responses which are able to target conserved viral proteins eliminate the need for frequent reformulation of the vaccine. Memory CD8T cells may play a role in ameliorating the severity of disease and facilitating recovery upon reinfection. Influenza-specific CTL responses arise 2 days faster than the primary response with a greatly increased level of activity. However, the antiviral capacity of these virus-specific CD8 cells is strongly dependent of their ability to migrate and to localize to the lung and infected airway epithelium, where they appear 5­7 days after infection [92]. The critical question is how these goals can be achieved through vaccination. Current data suggest that a mucosally delivered vaccine (i.e. delivered via the respiratory tract) might be the best approach [93].
+A few studies in chickens describe a CTL response to influenza [94,95]. It seems that pulmonary cellular immunity, and especially CD8+T cells expressing ChIFN-g, may be very important in protecting nai¨ ve natural hosts against lethal influenza viruses [95]. The cell-mediated immune response after vaccination can be investigated by detection of local accumulation of immune cells populations. Following infection or vaccination with respiratory pathogens such as avian Metapneumovirus or infectious bronchitis virus, local accumulation of immune cells in the Harderian gland, a lymphoid tissue located close to the lacrimal glands of the birds, has been detected. Furthermore, the presence of activated lymphocytes that recognize certain antigens and which actively multiply in the presence of these antigens was detected in chickens infected with respiratory pathogens. In this way, it is possible to study this proliferation or release of interleukins such as ChIFN-g in vitro. Based on previous studies in poultry, the measurement of ChIFNg released by T cells from spleen or blood after in vitro stimulation may be a good evaluation of cell-mediated immunity (CMI) in the chicken [96­98]. The development of a capture ELISA for the detection of ChIFNg has allowed the measurement of the CMI response after mitogen or recall antigen stimulation on chicken T cells [99]. The system has been evaluated after different Newcastle Disease vaccination [100].
+
+3.3. Mucosal immunity
+
+The mucosal immune response against influenza in human, as measured in nasal secretions, is characterized by the presence of IgA against HA. Studies suggest that
+
+ARTICLE IN PRESS
+
+130
+
+T. van den Berg et al. / Comp. Immun. Microbiol. Infect. Dis. 31 (2008) 121­165
+
+resistance to reinfection is predominantly mediated by locally produced HA-specific IgA, although IgG might be relevant as well [101]. IgA immunodeficient mice were found to be highly susceptible to influenza infection [102]. Antibodies act in immunity against influenza by neutralization of the virus or lysis of infected cells via complement or antibody-dependent cellular toxicity. There are no available data on IgA mucosal responses to influenza viruses in chickens. Mucosal immunology research has been hampered by the difficulty and labor-intensiveness of collecting samples and by the lack of results in poultry. Indeed, chickens do not have encapsulated lymph nodes such as those found in mammals, but instead develop diffuse mucosa-associated lymphoid tissues (MALT) wherever they are antigenically stimulated in the body: the head (HALT:head-associated lymphoid tissue), the gut (GALT:gut-associated lymphoid tissue) and the lung (BALT:bronchus-associated lymphoid tissue). HALT immunity is principally evaluated by the detection of specific IgA in the tears, particularly after Newcastle disease virus (NDV) vaccination of chicken [103]. To evaluate GALT immunity, the detection of specific IgA in bile and in supernatant of ex vivo culture of intestinal tissue has been already developed [95,103­105]. Regarding BALT immunity and particularly lung secretions, virus-neutralizing antibodies in gut-lavage and tracheal washes have already been demonstrated against different RNA viruses in poultry.
+Since the emergence of the highly pathogenic H5N1 viruses in 1997, concern has arisen that the biological activity of these viruses, including their diverse tissue tropism in a number of animal models, may influence the ability of the immune response to control infection. A negative role for the innate immune response has actually been suggested in view of the extremely high levels of inflammatory cytokines (``cytokine storm'') produced in response to H5N1 infection in humans [106­108].
+
+4. Influenza vaccines
+There are several different types of influenza vaccines licensed for humans or animals (Table 2). These different types of vaccines, as well as other types in R&D stage, are reviewed below.
+4.1. Vaccines based on influenza virus production
+The manufacturing process of most licensed influenza vaccines includes a step of multiplication of the influenza virus. The end-product contains live or killed influenza virus that may be more or less purified. Reverse genetics has been recently used to design optimally fitted vaccine strains.
+4.1.1. Inactivated vaccines Inactivated vaccine production process includes an upstream step of growing the
+seed influenza virus, followed by a downstream step that includes chemical or
+
+ARTICLE IN PRESS
+
+T. van den Berg et al. / Comp. Immun. Microbiol. Infect. Dis. 31 (2008) 121­165
+
+131
+
+Table 2 Types of influenza vaccines licensed or in a late phase of approval for humans and animals
+
+Vaccine types Human
+
+Equine
+
+Swine
+
+Avian
+
+Inactivated
+Attenuated Reverse genetics inactivated HA subunit Vector
+
+Whole, split or subunit--mostly non-adjuvanted-- produced in eggs (majority) or in cell culture Cold-adapted Pandemic vaccine candidate H5N1 subtype Baculovirusexpressed ­
+
+Whole or split-- adjuvanted-- produced in eggs (majority) or in cell culture
+Cold-adapted ­
+­
+Canarypox vector
+
+Whole or split-- adjuvanted-- produced in eggs
+­ ­
+­ ­
+
+Wholeadjuvanted-- produced in eggs
+­ H5N1 and H5N3
+­ Fowlpox vector and Newcastle disease vector
+
+physical inactivation of the influenza virus. These types of vaccines are the most widely used in humans and domestic animals.
+The choice of the influenza vaccine seed strain depends on the target species. For the human epidemic vaccine, each year the World Health Organization (WHO) decides and provides the manufacturers with the seed strains (currently, two influenza A (H1N1 and H3N2) and one influenza B), based on a thorough analysis of the antigenic drift of recent circulating strains. For the equine vaccine, a WHO/OIE panel also recommends inclusion of specific strains in equine influenza vaccines (currently, a representative H3N8 virus of the European and the American lineage).
+There is no such recommendation made for swine and poultry vaccine seeds. Antigenic drift occurs in the swine population at a rate six times slower than the rate in the human population [69]. The slower drift, the amount of antigen, and the strength of adjuvant in swine influenza vaccines make the need for updating seed strains infrequent [109]. Swine influenza strains circulating in the USA are antigenically different from European strains and seed viruses present in American and European swine flu vaccines are different. The European vaccines traditionally contain the H1N1 and the H3N2 subtypes. Recent data showed that such vaccine does not confer adequate protection against the recent H1N2 subtype, whose circulation is increasing in Europe [110].
+Avian inactivated vaccines can be either ``homologous'' (same HA and NA subtype as the field virus) or ``heterologous'' (same HA but different NA subtype). The former contains a seed strain that matches the field strain, but the use of such homologous vaccine does not allow detection of infection in a vaccinated flock. In contrast, infection can be identified in a flock vaccinated with a heterologous vaccine by detecting antibodies against the NA subtype of the field virus (DIVA concept, see
+
+ARTICLE IN PRESS
+
+132
+
+T. van den Berg et al. / Comp. Immun. Microbiol. Infect. Dis. 31 (2008) 121­165
+
+below). Heterologous vaccines are also used to control HPAI outbreaks, such as H5N1 for which no matching LPAI isolate is available. Indeed, vaccines made with homologous HPAI are discouraged because of biosecurity and biosafety manufacturing concerns. A remarkable feature of inactivated vaccines in poultry is their large cross-protection against diverse field viruses [111]. Recently, AI vaccines containing old (as old as 1968) or more recent North American or Eurasian lineages were shown to be protective against the 2003­2004 Asian H5N1 HPAI viruses despite the low homology (as low as 84%) between the HA1 amino acid sequence of the vaccine and challenge strains [112,113]. Immune response to AI viruses in poultry appears to be broader than in humans. In fact, the amount of antigen and the nature of adjuvant might play a more important role in the potency of the AI vaccines than the choice of the vaccine seed strain [114].
+Most influenza vaccines are grown in embryonated eggs, and their production depends therefore on the availability of embryonated chicken eggs from managed, biosecure flocks. Cell-culture human flu vaccines have been recently developed and are in late phases of regulatory approval. The cell culture process reduces the potential for contamination, reduces the lead-time linked to the selection of vaccine strain and egg supply, and generates higher initial purity antigens.
+Different downstream processes may lead to a ``whole virus'' vaccine, containing inactivated whole virus particles, a ``split-virus'' vaccine, in which the inactivated virus has been chemically disrupted and further purified, or a ``subunit'' vaccine, essentially containing only HA and NA. Whole virus vaccines are generally considered as more immunogenic [115] but also more reactogenic than other vaccine types. AI vaccines contain non-purified inactivated whole virus, whereas those for mammals are more purified.
+The active ingredient is associated (animals) or not (human epidemic) with an adjuvant. In poultry, water-in-oil (w/o) vaccine emulsions are used and are able to strongly activate antibody production. The adjuvant potential of the oil phase is presumably related to a depot function which is still poorly understood and varies with the type of oil, non-metabolizable mineral oil evoking higher antibody responses than biodegradable oil [116,117]. It is assumed that the oil acts as an inert depot from which the emulsified antigen is slowly released for a prolonged period of time, continuously boosting the immune response. In addition, the immunopotentiating effect is also related to the induction of a local inflammatory response at the site of injection leading to attraction and activation of antigen presenting cells, improving antigenic-specific humoral response. The combination of a depot-release function resulting in prolonged antigen residence and the direct local immune stimulation likely contributes to the increase in the affinity of the produced antibody. The choice of the adjuvant is thus a critical point for the efficacy of animal influenza vaccines. The qualities of the oil and the surfactant, as well as the emulsifying properties with the antigen, are particularly critical [118]. Recent data with human vaccines showed a positive effect of different types of adjuvant [119­122]. On the other hand, the quality and the quantity of the antigen content will also play an important role. It has to match as much as possible the challenge virus but also has to be present in sufficient concentration to induce a strong immune response. Among
+
+ARTICLE IN PRESS
+
+T. van den Berg et al. / Comp. Immun. Microbiol. Infect. Dis. 31 (2008) 121­165
+
+133
+
+other factors, residual presence of inactivating agent could also affect the quality of the antigen and the stability of the emulsion. Each of these factors might induce strong variations in the vaccine performances.
+Inactivated vaccines must be administered individually by parenteral route. Doing so is inconvenient in poultry because individual administration is time consuming, expensive, and increases the risk of wild-type virus spread through the vaccination crews.
+Efficacy of inactivated vaccines depends on the vaccine as well as on the targeted host. The immune status and the age of the host are important factors influencing the immunogenicity of influenza vaccines in all species. AI vaccines are developed mainly for chickens, but they also are used in the field in multiple avian species, from domestic poultry (turkeys, ducks, geese, quails) to exotic or endangered species.
+Pekin and Muscovy ducks, as well as geese, can be successfully vaccinated with inactivated vaccines [38,123], but they may react differently. Three doses of the vaccine inoculated in geese could induce a 34 weeks protection, while 2 doses induced more than 52 weeks protection in ducks [124]. Results of field vaccinations of zoo birds in Europe indicate that most vaccinated wild birds produce a significant immune response after a double vaccination [125]. For most avian species, the poultry dose is suitable; for some larger species, a higher dose, adjusted to body weight, induces higher serum antibody titers [125]. Re-vaccination 6­10 months post-vaccination may be required to maintain protective titers among the large variety of avian species in zoos [126].
+
+4.1.2. Attenuated vaccines Cold-adapted attenuated vaccines have been developed for humans [127] and for
+equines [128]. These vaccines are attractive for many reasons: they stimulate immunity after a single dose of vaccine, present an excellent safety profile, induce cross-reactive immune responses [129], and are efficient in young individuals [130]. In addition, they offer advantages over conventional ones. They are administered by nasal spray and trigger mucosal and cellular immunity. International organizations such as OIE and Food and Agriculture Organization (FAO) do not recommend the use of attenuated vaccines in poultry, especially for the H5 and the H7 subtypes. Indeed, adaptation to chickens of such influenza subtypes and/or reassortment with field influenza virus may potentially generate HPAI mutant. Detection of infection in a flock vaccinated with such live vaccine may also be problematic.
+
+4.1.3. Reverse genetics to generate influenza vaccine seed Reverse genetics allows rescuing infectious influenza viruses from plasmid DNAs
+transfected into tissue culture cells [131]. This breakthrough technology permits the construction of high-yield 6:2 seed viruses by mixing the 6 plasmid DNAs from a good-growing laboratory strain with the HA and NA DNAs obtained by cloning relevant genes from currently circulating viruses [132]. The backbone of the virus is prepared in advance, and the HA- and NA-coding segments of the circulating strain are cloned and used for rescue in the plasmid-only reverse genetics system. This technique drastically accelerates the seed production and can provide more time to
+
+ARTICLE IN PRESS
+
+134
+
+T. van den Berg et al. / Comp. Immun. Microbiol. Infect. Dis. 31 (2008) 121­165
+
+select the appropriate strain. In addition, it can convert HPAI into LPAI vaccine candidates by mutating the HA cleavage site, allowing an easier and safer handling for vaccine manufacturers [133].
+Pandemic H5N1 vaccines for humans have been developed based on reverse genetics H5N1 seeds [115,134]. Two AI-inactivated vaccines (an homologous H5N1 and an heterologous H5N3) using this technology have recently been licensed [124,135­139]. These vaccines which contain an homologous HA gene have been shown to be more protective in ducks and geese than conventional vaccines with a more distant HA gene [124,137].
+The reverse genetics technology can also generate genetically attenuated mutants that could be used as live vaccine [140,141]. Truncated mutants in the NS1 gene have been evaluated as live vaccine for swine [142] and equine [143], and they were shown to provide a good level of protection. Similar candidates are under evaluation for poultry [36]. Chimeric AI virus that expressed the ectodomain of the HA­NA gene of the NDV instead of the NA protein of the H5N1 AI virus and that could potentially provide immunity against two important avian diseases has been generated [144]. Reverse genetics allows also the evaluation of influenza virus as a vector [145] against other diseases such as HIV [146] or chlamydia [147].
+
+4.2. Vaccines based on influenza protein expression
+
+4.2.1. Protective proteins of influenza HA is without contest the most protective antigen of influenza. Antibodies raised
+against HA are able to block attachment and entry of the influenza virus into target cells. However, immunity generated against HA is only protective against field strains sharing closely matched HA. This is especially true for human and equine vaccines, which need to be regularly updated due to antigenic drift of field isolates. Different HA-based vaccines are described in the following sections.
+NA induces antibodies that reduce the efficient release of virus from infected cells; therefore, NA alone is generally less protective than HA. However, in mice, NA-based DNA vaccines protected well against H1N1 or H9N2 [148­150]. Baculovirusexpressed NA induces protection in mice [151,152], as well as partial protection (88%) in chickens against a HPAI H5N2 challenge, but failed to affect viral shedding [153]. A fowlpox recombinant expressing HA (H5) and NA (N1) from an H5N1 isolate was shown to protect chickens against HPAI H5N1, as well as against HPAI H7N1 [154]. However, another fowlpox expressing the NA alone of an H7N1 subtype induced partial (30%) protection against an HPAI H7N1 challenge (D. Swayne, personal communication). Supplementation of conventional trivalent influenza or HA-based vaccines with NA induces a balanced and broadened immune response [155­157]. Cross-reactive NA antibodies raised against human N1 afforded partial protection against H5N1 in mice. These antibodies are present in unexposed humans suggesting that a portion of the human population could have some degree of resistance to H5N1 influenza [158]. Altogether, these data show that immunity raised against NA may be protective but to a lower degree than that against HA.
+
+ARTICLE IN PRESS
+
+T. van den Berg et al. / Comp. Immun. Microbiol. Infect. Dis. 31 (2008) 121­165
+
+135
+
+The immunogenicity of other influenza proteins has been assessed in order to develop a ``universal'' influenza A vaccine able to protect against all HA and NA subtypes [159]. Among the protein tested, the M2 protein is the most promising [160]. This M2 protein has only 23 amino acids exposed on the outer membrane surface. This extracellular part, M2e, has been remarkably conserved in all human influenza A strains since 1933. By fusing the M2e sequence to hepatitis B virus core protein, highly immunogenic particles could be obtained that were shown to induce complete, strain-independent, long-lasting protection in mice against a lethal viral challenge [83,161,162]. However, similar vaccines tested in pigs were non-protective [163]. Other M2e-based vaccines also have been shown to be immunogenic in mice, ferrets and/or rhesus monkeys [164­166]. A potential issue with M2e-based vaccine could be the apparition of escape mutants [167].
+The NP has also been evaluated as a universal vaccine for its ability to induce cellmediated immunity. Protection results obtained in mice with NP-based plasmid DNA vaccination are variable [148,168­172]. A vaccinia virus recombinant expressing the NP protein of influenza H1N1 virus-induced specific antibodies and protected mice against low-dose challenge by mouse H3N2 or H5N2 influenza virus strains [173]. Similarly, a MVA vaccinia-NP recombinant provided partial protection in horses [174]. Strong antibody and T-cell responses as well as protection against lethal challenge with highly pathogenic H5N1 virus was induced in mice with a DNA prime-recombinant adenoviral boost immunization to NP [175]. However, in chickens, immunization with a recombinant fowlpox virus expressing the crossreactive NP antigen did not provide protective immunity and provided no benefit above HA expressed alone [176]. Similarly, a NP-expressing retrovirus vector stimulated an influenza virus-specific antibody response, but failed to protect chickens against a lethal challenge [177].
+The protective effect of NP depends therefore on the expression system, challenge model, and species used.
+The M1 protein has also been shown to be protective in mice [84­86]. The few studies performed with other influenza proteins did not or show partial protection [148,178]. Association of M1 to HA and/or NA may provide a benefit by producing virus-like particles (see below) [179].
+
+4.2.2. Subunit vaccines based on in vitro expression of influenza virus gene(s) The baculovirus expression system has been used to produce subunit hemagglutinin
+(HA0) vaccine [180]. A trivalent human epidemic vaccine was shown to be safe and immunogenic in a healthy adult and elderly population and is at a late phase of approval [181­183]. Safety and immunogenicity was also demonstrated in humans with an H5 subunit vaccine [184]. Baculovirus-produced HA was found to be protective in chickens; HA-based vaccines for chickens would allow detection of infection in vaccinated animals by testing antibodies against other influenza proteins (NP, M) [111,185,186].
+NA was expressed [151,187] to complement HA-based vaccines [157,188]. Furthermore, baculovirus expressing M1 together with HA and NA led to the production of virus-like particles (VLPs). These VLPs have been shown to be highly
+
+ARTICLE IN PRESS
+
+136
+
+T. van den Berg et al. / Comp. Immun. Microbiol. Infect. Dis. 31 (2008) 121­165
+
+Table 3 Studies performed with viral vector-based influenza vaccines
+
+Viral family and vector virus
+
+Influenza gene/ subtype
+
+Animal model
+
+References
+
+Poxviridae Fowlpox virus Fowlpox virus Fowlpox virus Fowlpox virus Fowlpox virus Vaccinia Vaccinia Vaccinia Vaccinia Vaccinia Vaccinia
+Vaccinia Vaccinia Vaccinia Vaccinia Vaccinia Canarypox virus Canarypox virus Myxomatosis virus
+
+H5, H1, H7 or H9 H5 H5 and N1 NP or H5 and NP H5 H1, H2, H3, or H5 HA and NP N1 H3 NP or NP peptide H3, H1, N1, N2 or other genes HA H5 or H1 N2 H1 HA and NP H3 H3 HA
+
+Chicken Duck Chicken Chicken Cat Mouse Mouse Mouse Mouse Mouse Ferret
+Rabbit Chicken Chicken Cattle, sheep Horse Horse Dog Rabbit
+
+[40,111,176,185,202,204­206,208,319­326] [123,287] [154,207,327] [176] [209] [210,328­341] [342,343] [340] [333] [173,329,330,335,340,344] [345]
+[346] [347­349] [350] [348] [174,212] [198] [201] [351]
+
+Herpesviridae Infectious laryngotracheitis virus Pseudorabies
+
+H5 or H7 H3
+
+Chicken
+
+[225,226]
+
+Mouse
+
+[229]
+
+Adenoviridae Human adenovirus 5 Human adenovirus 5 Human adenovirus 5 Human adenovirus 5 Canine adenovirus type 2
+
+H3 or H5 HA H3 H5 H5
+
+Mouse Human Swine Chicken Cat
+
+[220,352,353] [224] [222,223,352,354] [220,221] [355]
+
+Mononegavirales Avian Paramyxovirus type 1 (Newcastle disease virus; Paramyxoviridae) Avian Paramyxovirus type 1 (Newcastle disease virus; Paramyxoviridae) Parainfluenza type 5 (SV5) (Paramyxoviridae)
+
+H5 or H7 H5 H3
+
+Chicken
+
+[144,203,214,215]
+
+Mouse
+
+[203]
+
+Mouse
+
+[219]
+
+ARTICLE IN PRESS
+
+T. van den Berg et al. / Comp. Immun. Microbiol. Infect. Dis. 31 (2008) 121­165
+
+137
+
+Table 3 (continued )
+
+Viral family and vector virus
+
+Influenza gene/ subtype
+
+Vesicular stomatitis H1 or H5 virus (Rhabdoviridae)
+
+Togaviridae (alphavirus)
+
+Venezuelan equine H5
+
+encephalitis virus
+
+(replicon particles)
+
+Venezuelan equine HA
+
+encephalitis virus
+
+(replicon particles)
+
+Semliki forest
+
+NP and HA
+
+(replicon particles)
+
+Retroviridae
+
+Retrovirus
+
+NP
+
+Retrovirus
+
+H7
+
+Baculoviridae
+
+Baculovirus
+
+H1
+
+Animal model Mouse
+Chicken
+Mouse
+Mouse
+Chicken Chicken Mouse
+
+References [217,218]
+[231] [233] [232]
+[177] [230] [234]
+
+immunogenic in mice [189­191] and ferrets [191,192], as well as in muscovy ducks [193]. They are protective in mice even after intranasal administration [189] and elicit broader immune responses than whole virions [194].
+Subunit vaccines containing other influenza proteins have been discussed above. As for inactivated vaccines, special formulation and/or addition of adjuvant improved immunogenicity of these subunit vaccines [191,195].
+4.2.3. Vector vaccines based on in vivo expression of influenza virus gene(s) The vector vaccine technology uses a vector to deliver protective protein(s) to the
+immune system of the vaccinated host. The vector may be a virus, a bacteria or a plasmid DNA. The nucleotide sequence of these vectors has been modified using genetic engineering by inserting of one or several protective genes and adequate upstream (promoter) and downstream (terminator) regulatory sequences. Licensed and experimental influenza vector vaccines are reported in Tables 2 and 3.
+Influenza vectored vaccines have been licensed for horses and for chickens (Table 3). In horses, the best-known vector vaccine comprises two canarypox recombinant viruses [196,197] expressing the HA from an American and from an Eurasian H3N8 lineage [198]. This non-replicative canarypox-based vaccine induced humoral immunity, primed cell-mediated immunity [128,199], provided an early protection after the first administration [200], and a long duration of immunity [198]. It was also immunogenic in dogs [201], and could potentially be used as a vaccine to protect dogs against the recently described canine influenza outbreak [10,64].
+
+ARTICLE IN PRESS
+
+138
+
+T. van den Berg et al. / Comp. Immun. Microbiol. Infect. Dis. 31 (2008) 121­165
+
+In chickens, there are currently two types of AI H5 vector vaccines that are licensed in one or several countries and used in the field (see Table 2): one type is based on the fowlpox virus (FPV) vector, which has been used since 1998 [202], and the other is more recent and is based on the NDV vector [203]. The advantages of these vectors are that (1) they induce a broad immunity, including humoral, cellular and mucosal (NDV vectors) responses; (2) they do not express the NP and M proteins and therefore, commercial anti-NP-based ELISA tests or agar gel precipitation (AGP) can be used as DIVA tests to detect infection; (3) they induce a rapid onset of immunity; (4) they are bivalent (AI and fowlpox or ND, depending on the vector); and (5) their production poses less risk for the environment than inactivated vaccines in case of accidental release.
+
+4.2.3.1. Poxvirus vectors. FPV-based AI vaccines are designed to be administered in 1-day-old chick at the hatchery [204]. Hatchery vaccination has many advantages over farm vaccination: (1) biosecurity at hatcheries are higher than in farms; (2) automatic or semi-automatic administration systems (in ovo, subcutaneous or spray) are available; (3) the number of hatcheries is lower than the number of farms, allowing an easier control of vaccination in a specific area; (4) different vaccines can be mixed (e.g. rFP-H5 and Marek's disease (MD) vaccine) or administered simultaneously using specific devices; and (5) birds are vaccinated and protected at a younger age than birds vaccinated at the farm. A fowlpox-based AI vector vaccine (rFPV-H5) protected specific pathogen free (SPF) chickens against a wide panel of HPAI H5 isolates including recent Asian H5N1 HPAI [111,185,205,206]. Chickens vaccinated with this vector vaccine are protected against mortality and morbidity, and shed much less virus than the unvaccinated birds. There was a significant positive correlation in HA sequence similarity between challenge viruses and vaccine, and the ability to reduce titers of challenge virus isolated from the oropharynx, but there was no similar correlation for reducing cloacal virus titers [206]. The onset of protection induced by these FPV-based vaccines is short (1 week; [205,207]) and the duration of immunity is long (at least 20 and 40 weeks post-vaccination for the rFPV-H5 and the rFPV-H5N1, respectively [205,207]). Previous active immunity induced by fowlpox infection or vaccination significantly reduced efficacy of the rFPV-H5 vaccine [208], whereas anti-FP and/or anti-AI passive immunity (maternally derived antibodies--MDA) had less effects [202]. The rFPV-H5 vector vaccine is not licensed for other species than the chicken, although experimental data showed that it can also be immunogenic and/or protective in other species including avian [123] and mammalian [209] species, in which the fowlpox vector does not replicate. Vaccinia and myxomatosis poxviruses expressing influenza gene were also evaluated as candidate vector vaccines in different species (see Table 3). The MVA vaccinia vector appears to be a promising candidate [174,210­213].
+
+4.2.3.2. Newcastle disease virus vector. Initial data on NDV used as a vector for AI vaccine in an H7 model were disappointing [214], but recent studies done in an H5 model gave very encouraging data [144,203,215], leading to the license of two products in China and Mexico. NDV-based AI vector vaccines induce protection
+
+ARTICLE IN PRESS
+
+T. van den Berg et al. / Comp. Immun. Microbiol. Infect. Dis. 31 (2008) 121­165
+
+139
+
+against both ND and AI, two major diseases of poultry. They are administered using mucosal route and provide therefore mucosal immunity. They can potentially be mass administered by spray or drinking water. However, the efficacy of the vaccine by these two latter administration modes has not been reported yet; only the eye drop route of administration was used in the published data. In SPF chickens, one administration can provide a strong immunity against HPAI challenge. The effect of AI and/or NDV maternal antibodies on vaccine uptake has not been reported. The NDV vector AI vaccine has been widely used in China in 2006. In field conditions, repeated administrations are needed to provide a good protection. This is probably due in part to the interference of AI and ND MDA on vaccine uptake. In regions highly infected with ND, repeated ND vaccination is also needed to control ND. Additional data are needed to clearly assess the benefit of such promising vaccine in field conditions. The NDV vector can also be used in mammals. A NDV-vector AI vaccine was shown to be protective in mice [216]. Other negative RNA viruses are developed as vectors such as the rhabdovirus vesicular stomatitis virus [217,218] and the parainfluenza type 5 (SV5) [219] which were protective in mice.
+
+4.2.3.3. Other viral vectors. Other viral vectors have been evaluated as influenza vaccine candidates in different species. Non-replicative human Adenovirus 5 (hAd5) protected 100% and 50% of chickens from an HPAI H5N1 challenge [220] after IM and IN administration, respectively. In ovo administration of similar hAd5 was shown to be protective [221]. The human adenovirus-5 vector has been evaluated as an influenza vaccine in pigs. High doses prevented nasal virus shedding after challenge exposure [222]; in addition, recombinant hAd5 vaccine primed the immune system to override the effects of maternally derived antibodies, which interfere with conventional SIV vaccines [223]. Safety and immunogenicity of adenovirus-vectored nasal and epicutaneous influenza vaccines have been assessed in humans too [224]. A canine adenovirus type 2 expressing HA from an H5N1 was found recently to be immunogenic in cats [220].
+In chickens, the infectious laryngotracheitis herpesvirus (ILTV) expressing the HA gene from an H7 or an H5 subtype protected chickens against lethal HPAI H7 [225] or H5 [226,227] challenges, respectively, and could potentially be used as a vaccine for mass administration (spray, drinking water) [228]. The pseudorabies herpesvirus (PRV) expressing HA from swine influenza (H3N2) protected mice from virulent challenge and needs now to be evaluated in pigs [229]. Protection against HPAI H7 challenge in chickens was provided by a retrovirus vector [230] or an alphavirus replicon system [231] expressing HA. Similar alphavirus vector protected mice against influenza challenge [232,233]. The insect baculovirus containing an HA gene inserted under the control of a eukaryotic promoter has been tested as a gene delivery system in eukaryotic host. Protection against lethal influenza was achieved in mice after intranasal administration only, but significant protection was also observed in the baculovirus control group suggesting that it may be due to strong innate immune response [234]. Other replicative virus vectors have been developed for poultry including adenovirus CELO [235,236] and herpesvirus of turkey [237] which may potentially be good vector candidates for AI vaccines.
+
+ARTICLE IN PRESS
+
+140
+
+T. van den Berg et al. / Comp. Immun. Microbiol. Infect. Dis. 31 (2008) 121­165
+
+4.2.3.4. Bacterial vectors. Bacteria, such as Salmonella can be also used as vectors. Combination of B- and T-cell epitopes can be individually expressed within an immunogenic molecule (salmonella flagellin) and the resultant recombinant flagellae serve both as a carrier and as an adjuvant. The mixture of recombinant flagellae expressing the appropriate epitopes administered intranasally to mice led to effective protection against challenge infection with different strains of influenza virus (reviewed in [238]). Oral followed by intranasal immunization of Salmonella typhimurium aroA mutant expressing NP induced significant protection in mice [239]. Recently, Cole et al. [240] evaluated recombinant Salmonella expressing M2e and CD154 as a vaccine vector for AI. Listeria monocytogenes expressing NP induced a faster clearance of influenza in mice lungs [241].
+
+4.2.3.5. DNA vaccines. DNA vaccines have been shown to be safe and efficacious in a high number of models [242] but only a few of them have reached the market in animal health. In contrast to viral and bacterial vectors, naked DNA vectors do not induce an immune response against the vector. Many studies have been performed using plasmid DNA as an influenza gene delivery vector [243,244] in mice [150,245­262], in ferrets [263,264], in chickens [179,265­271], in horses [272­274] and in pigs [163,275­277]. Variable levels of protection were induced by DNA vaccines depending on the promoter used, the inserted gene (HA being the more immunogenic), the presence of an adjuvant, the co-administration of a plasmid expressing an immunomodulator, the method and route of administration, and the challenge model. As low as two doses of 10 mg of optimized plasmid DNA fully protected chickens against HPAI H5N1 challenge [271]. DNA vaccines may be well suited for newborns [169,278­280], or aged individuals [281,282]. The immunogenicity of an epidermal DNA vaccine was recently evaluated in humans [283]. Production of large quantity of plasmid DNA will be challenging but seems feasible [284]. An alternative way is to use bacteria such as Shigella flexneri to deliver plasmid DNA vector to cells [285].
+
+4.3. Influenza vaccines combinations--``prime-boost'' regimens
+
+The combination of different types of influenza vaccines may potentially induce a better immunity than the repeated use of a single vaccine. HI titers induced by an inactivated vaccine administered at 2 weeks of age were clearly higher when the rFP-H5 vaccine was administered previously at 1 day of age indicating a clear priming effect of the rFP-H5 [286]. A recent study performed in ducks with an experimental fowlpox vectored vaccine expressing HA from an H5N1 isolate and an inactivated H5N9 vaccine showed that the prime-boost regimen (fowlpox vector followed by inactivated vaccine) induced a wider antibody response than two administrations of inactivated vaccine [287]. Similar results were obtained in chickens (Bublot et al., unpublished) and licensed vaccine associations were also shown to be highly immunogenic in China [356]. DNA priming followed by a boost with inactivated or subunit vaccines induced a better protection in chickens [179] and in pigs [276] compared to DNA or protein only. Priming with DNA and boosting
+
+ARTICLE IN PRESS
+
+T. van den Berg et al. / Comp. Immun. Microbiol. Infect. Dis. 31 (2008) 121­165
+
+141
+
+with a viral vector has been also found to provide optimal immunity in mice [175,288,289] and in horses [174]. The reasons for a better immunogenicity induced by the heterologous prime-boost regimen may be multiple. The antigen presentation of the two vaccines may differ: for instance, vaccination with a live vector vaccine preferentially orienting the immune response toward cellular immunity, whereas inactivated vaccines rather induce humoral immunity; combining the two types of vaccines may provide a wider immune response. The vectored vaccines express only one (HA) or two (HA+NA) protective genes of AI. The booster effect of an inactivated vaccine after priming with a vector vaccine will therefore be focused preferentially on one or two of these protective proteins, providing a better protective immunity. If the HA gene present in the vector vaccine is different from that present in the inactivated vaccine, the booster immune response provided by the inactivated vaccine will be more focused on these epitopes that are common to both HA genes, generating a broader immunity against isolates belonging to the same HA subtype.
+
+5. Prevention strategies in poultry
+5.1. Hygiene and biosecurity
+Hygiene and biosecurity are essential measures to decrease the risk of influenza infection in all species. Most of the human cases of H5N1 were contracted by close contacts with infected poultry and poor hygiene, and could have been avoided by elementary precautions. Because of its potentially devastating economic impact, HPAI is subject to vigilant supervision and strict legislation throughout the world. Measures to be taken against HPAI will depend on the epidemiological situation of the region.
+An outbreak of HPAI in a commercial poultry farm does not necessarily always lead to a large epidemic. Recent H5N1 outbreaks in poultry farms in France, Denmark (2006) and UK (2007) have clearly demonstrated that these could be efficiently controlled without devastating consequences. Whether or not the control of an epidemic can be successful depends on many factors, such as population density in the region, speed of first diagnosis, level of biosecurity on the farms, preparedness of the governments, availability of sufficiently trained personnel and equipment, availability of an accurate identification and registration system and the accuracy of the execution of the imposed control measures [290]. Based upon the knowledge that the circumstances in which an infection of HPAI occurs largely determine the probability of spread of the infection, the OIE has issued some guidelines for the application of control policies for notifiable avian influenza (NAI) (Table 4).
+Until recently, the mass culling of animals was the most efficient measure to stop the spreading of the AI epidemics. After the H5N1 AIV outbreak in Hong Kong in 1997, the mass culling of all poultry animals was performed within a few days. This measure is thought to have prevented the potential start of a human AI pandemic at the time. However, since 2003, the H5N1 epidemic has spread too far to be contained only with a stamping-out policy without involving the mass culling of billions of
+
+ARTICLE IN PRESS
+
+142
+
+T. van den Berg et al. / Comp. Immun. Microbiol. Infect. Dis. 31 (2008) 121­165
+
+Table 4 Guidelines for the application of control policies for AI
+
+H5/H7 virus pathogenicity
+HPAI/LPAI HPAI/LPAI
+
+Index case flock
+Backyard Backyard
+
+Evidence of spread to industrial sector
+No Yes
+
+HPAI/LPAI HPAI/LPAI
+
+Industrial No Industrial Yes
+
+Source: OIE.
+
+Population density in area
+High/low Low High High/low Low High
+
+Policy
+Stamping-out Stamping-out Vaccination Stamping-out Stamping-out Vaccination
+
+birds. The rationale of vaccination and mass culling should be carefully evaluated. Key elements to take into account by decision makers include the level of veterinary surveillance systems in place, the efficacy of early warning systems, the economic impact, and the export policy of the country. Countries, which are able to rapidly detect, contain and eradicate the disease, based on a well-built surveillance system and control measures should continue with the stamping-out of infected flocks, following OIE recommendations. For instance, the recent incursions of H5N1 have demonstrated the efficacy of the contingency plans in the EU Member States.
+In the EU, a body of legislation has been laid down and is continually reviewed in order to respond adequately to the latest avian situation and threat. Before 2005, there was only one directive (Council Directive 92/40/CEE) [291] laying down HPAI control measures [30,292]. New European regulations have been adopted to update the first directive, especially as far as vaccination was concerned. Commission Decision 2005/744/EC [293] now allows vaccination of certain bird categories such as zoo birds. Council Directive 2005/94/CE adds a few other measures. It states that a Member State may introduce emergency vaccination as a short term measure, in order to contain an outbreak when a risk assessment indicates there is a significant and immediate threat of AI spreading within or into the Member State concerned. In addition, the Directive introduces the possibility of preventive vaccination as a longterm measure in accordance with its Article 56. However, vaccination is subject to stringent controls and vaccinated birds have to be constantly monitored. Preventive vaccination is authorized only with inactivated viruses, provided that the Commission is informed and that a vaccination plan with a precise strategy is laid out. In the past 20 years, the poultry industry has undergone many changes, resulting in greater animal densities per territorial unit. Carrying out biosecurity programmes has therefore become more complicated, and in order to avoid the depopulation of millions of birds, various control strategies should be pursued. In highly populated areas, the use of vaccines allowing the differentiation between healthy and infected birds can be considered (DIVA strategy, see later). In conclusion, a basic rule to follow when implementing vaccination against AI is that the use of vaccines is only one of several tools to prevent or contain an epidemic outbreak in unaffected flocks.
+
+ARTICLE IN PRESS
+
+T. van den Berg et al. / Comp. Immun. Microbiol. Infect. Dis. 31 (2008) 121­165
+
+143
+
+In addition to biosecurity, other effective preventive measures include surveillance, early warning systems, education and contingency planning.
+
+5.2. AI prophylaxis
+
+Poultry is susceptible to different subtypes (mainly H5, H6, H7 & H9) of AI, and it is impossible to predict which subtype they will be exposed to. Once the subtype involved in the outbreak is identified, vaccination may be a good tool to bring the infection under control, protect the economic interest, and maintain the confidence and cooperation of producers. As far as the veterinary world is concerned, vaccination pursues three objectives: protection from clinical disease and mortality (most vaccines generally achieve this goal); protection from infection with virulent virus (the risk of infection of vaccinees with a virulent virus is generally reduced but not completely prevented); and protection from virus excretion (which reduces the risks of circulation in vaccinated flocks and transmission to humans). However, no vaccine has so far proved able to achieve all these goals [38].
+Until recently, vaccination against AI viruses was not considered or practised routinely in industrialized countries because of the cost of vaccines, the necessary manpower (individual vaccination) and the implied export bans on live poultry as serology could not be used anymore to guarantee a virus-free status. The indirect costs linked to exportation bans for countries using AI vaccination could be controlled by applying vaccination based on a DIVA strategy. A country could recover its full exportation capacity if there is sufficient evidence of absence of contamination in vaccinated flocks, depending on the requirements of international authorities. In 2001, Italy was able to recover its poultry trade capacity while using a H7N3 heterologous vaccine against a H7N1 LPAI outbreak by applying the DIVA concept to detect infected birds within the vaccinated population [294]. Similarly, in the USA, vaccination has been sparingly used for the control of LPAI outbreaks on a case-by-case basis, even for H5 or H7 viruses, and vaccination for non-H5/H7 has been considered primarily in the turkey segment of the industry as a cost-effective alternative strategy [37]. Mexico is currently using vaccination against LPAI H5N2 using both inactivated and recombinant fowlpox virus vaccines [295,296]. But in the future, for all these countries, control of HPAI will still be by eradication.
+
+5.2.1. Advantages of avian flu vaccination When used correctly, AI vaccines increase the host resistance to AI disease by
+inducing a strong immune response with the production of neutralizing antibodies against AIV. Experimental and field studies have shown that properly used vaccines will accomplish several goals: (1) protect against clinical signs and death, (2) reduce shedding of field virus if vaccinated poultry become infected, (3) prevent contact transmission of the field virus [297], (4) provide at least 20 weeks protection following a single vaccination for chickens (this may require 2 or more injections in turkeys or longer-lived chickens), (5) protect against challenges by low to high doses of field virus, (6) protect against a changing virus, and (7) increase a bird's resistance to AI virus infection [39,292]. These positive qualities are essential in contributing to AI control
+
+ARTICLE IN PRESS
+
+144
+
+T. van den Berg et al. / Comp. Immun. Microbiol. Infect. Dis. 31 (2008) 121­165
+
+strategies. Several criteria, including serology (HI test or seroneutralization test) and
+sequence analysis, can be used for the definition of a good vaccine but they are poorly
+standardized. Among indicative criteria, less than four-fold difference in HI titers between field and vaccine strain, o5% amino acid sequence difference, and at least two log reduction of excretion have been proposed [39,298], but the most accurate way to
+measure vaccine efficacy is through animal challenge model.
+
+5.2.2. Limitations and inconveniences of avian flu vaccination Because total prevention of infection, i.e. sterile immunity, is not achievable
+against AI, AI vaccines could only partially reduce virus shedding, and the bird or the flock might still spread the virus without showing any symptoms of disease [39,299]. This may mask the circulation of the virus and increase the time taken to detect and eradicate the virus. This might give a false sense of security, resulting in a relaxation of biosecurity and vigilance. Research concerning the protection of virus transmission using the H7N1 and H7N3 vaccines against a H7N7 challenge indicated that both vaccines prevent horizontal virus transmission 14 days postvaccination [300]. The question remains of whether these characteristics are shared by H5 vaccines. Influenza viruses can mutate rapidly, which could render a vaccine less useful. Furthermore, AI vaccines may promote the selection of mutations in the circulating virus and thereby perpetuate the risk of infection in the original species or in another species. For example, the H5N2 vaccines that have been used in Mexico since 1995 might be, among other factors, at the origin of an antigenic drift of the field virus away from the vaccine strain [66]. If this was to occur, the vaccine protective efficacy could be impaired in time, and the use of a specific vaccine strain would eventually become obsolete. Finally, there also are welfare implications for birds through increased handling, especially when speed is necessary and with vaccines containing a strong adjuvant.
+
+5.2.3. Efficacy of AI vaccines in other bird species Most AI vaccine studies and field use have focused on chickens and turkeys
+because of their high death rates and the high amounts of HPAI virus excreted into the environment by these species. However, with the changing epidemiology of the H5N1 HPAI virus in Asia, the infection of domestic ducks and geese has become a very important contributor to the maintenance and spread of the H5N1 HPAI virus [27]. Most of the AI vaccines have been validated for chickens and turkeys but less is known about their efficacy in other species. Field experience with vaccination against HPAI is scarce, especially in different exotic bird species [125]. Evaluation has mainly been performed on poultry and recently also ducks [38,123,137,297]. Data on vaccination of other species against HPAI remain limited [300­302].
+
+5.2.3.1. Ducks and geese. Current inactivated AI vaccines have a limited efficacy in Anseriformes and require twice the antigenic load used for chickens and/or the addition of a strong stimulator of the immune response to be effective [123,287]. Recently, it was shown that a double dose of a bivalent vaccine protected ducks from disease and mortality, although only low antibody responses were induced (4­8 log2)
+
+ARTICLE IN PRESS
+
+T. van den Berg et al. / Comp. Immun. Microbiol. Infect. Dis. 31 (2008) 121­165
+
+145
+
+and virus could be reisolated from some (13%) of the vaccinated ducks (100% for non-vaccinated ducks) [137]. The failure of the challenge H5N1 virus to stimulate a secondary antibody response in ducks vaccinated with the closely related H5 in the monovalent vaccine is very strong evidence for minimal to no replication of the challenge virus in those ducks [137]. Another study showed the protection of chickens, geese, and ducks from clinical disease and death after challenge with HPAI H5N1, and the reduction of viral shedding after vaccination with a reverse geneticsderived H5N1-inactivated vaccine [124]. The duration of immunity upon vaccination in these species is unknown. In ducks, antibodies could be detected up to 10 months post-vaccination, and the animals were protected from challenge infection at this time. The longevity of antibodies in geese, however, proved to be much shorter [124]. Results from field and laboratory evaluation of in waterfowl [303] indicates that factors such as maternally derived antibody, duck species and proper use of vaccines also may significantly influence the outcome of the H5 vaccination program.
+
+5.2.3.2. Zoo birds. Vaccination as an additional preventive measure against HPAI virus infection of birds kept in Belgian, Dutch and German zoos was first allowed during an outbreak of HPAI H7N7 virus in poultry in 2003 but only practised in The Netherlands (Decision 2003/291/EC) [125,304]. Anseriformes, Galliformes and Phoenicopteriformes showed a better seroconversion (HI-titersX40) than other birdorders [302]. Differences in responses between and within taxonomic orders were also reported with H5 vaccines [126]. In a study in the Zoo of Singapore, 72% (26/36) of birds tested (Egyptian Goose, Peafowl, Bar-headed Goose, Spur-winged Goose, and Guineafowl) had an antibody titer 416 when tested 6 months post boostervaccination, although antibody titers had declined over the course of the 6 months [126]. Re-vaccination 6­10 months post-vaccination may therefore be required to maintain protective titers among the large variety of avian species in zoos. A vaccination field trial was performed on 11 species of exotic birds with an H5N2-based inactivated vaccine [305]. Antibody titers obtained after vaccination proved to be comparable with those considered as protective in poultry [305]. The longevity of serum antibody titers upon vaccination in these species is however unknown.
+Decision 2005/744/EC has allowed vaccination in European zoos against the encroaching H5N1 subtype. Results of these `in-field' vaccinations of wild birds in Europe indicate that most vaccinated wild birds produce a significant immune response after a double vaccination [125]. For most avian species, the poultry dose is suitable; for some larger species, a higher dose, adjusted to body weight, induces higher serum antibody titers [125]. A general overview of the serologic response after vaccination has been recently published [301].
+
+5.2.4. AI vaccination strategies Different vaccination strategies can be applied according to the infectivity level of
+a country [30,34,38,39]:
+
+(a) Emergency vaccination should be conducted when there is an outbreak of HPAI within or very close to their territory. It is a short-term measure based on risk
+
+ARTICLE IN PRESS
+
+146
+
+T. van den Berg et al. / Comp. Immun. Microbiol. Infect. Dis. 31 (2008) 121­165
+
+assessment in order to contain an outbreak in poultry or other captive birds and stop it from spreading. All unaffected animals within and around an outbreak quarantine zone should be vaccinated. The size of the ring vaccination zone depends on the transmission rate and initial spread during the high-risk period and should be defined within the contingency plan by professionals and/or national and international authorities. As protective immunity takes a minimum of 2 weeks to develop, the efficacy of this strategy depends on various factors including vaccine availability and the feasibility of its rapid administration. (b) Preventive vaccination can be used in a country free of disease but at high risk of disease introduction. For instance, if a country feels that certain poultry or captive birds in certain areas would be more at risk, should there be an outbreak (poultry) or a case (wild birds), preventative vaccination could be undertaken. Therefore, it is theoretically a more long-term measure, the duration of which will last according to the threat. All birds at high risk should be vaccinated. For instance, in 2006, in addition to zoo birds, France vaccinated ducks, and The Netherlands vaccinated some backyard and free-range birds, which could not be easily contained due to the threat of H5N1 infection in migratory areas. In this context, preventive vaccination of zoo birds or rare species could become a longterm, and even a permanent, measure in the future. (c) Systematic vaccination can be applied when the disease has become endemic. Birds are vaccinated systematically against the same subtype of the virus circulating in poultry to obtain a minimum protective level within the ``at risk'' population. The final goal of the approach is to control or eradicate the disease within the country. This is a long-term vaccination plan, which should be applied nationwide to all commercial and backyard poultry. Strict control measures including stamping-out and surveillance should be applied to affected flocks to better coordinate this approach. (d) As alternative vaccination strategy (vaccination of wild birds), because AI is an epizootic and a zoonotic disease maintained in nature by wildlife reservoirs, it might be indicated from a preventive and economical point of view to consider vaccinating key wild life reservoirs instead of millions of poultry farms or the world's human population [306]. Vaccination of wildlife has been a success story in the control of rabies [307] and is now considered for the control of Lyme Disease [308]. This approach has been little considered so far, mainly because of the lack of an efficient vaccine that could be given by the oral route to wild ducks.
+
+The choice of implementing vaccination also should be considered from an economic perspective. Cost-effectiveness and cost­benefit analyses should be conducted to determine direct (e.g. price of doses, administration) and indirect costs (post-vaccination surveillance, commercial losses, export bans, etc.) before the implementation of vaccination.
+
+5.3. Monitoring after AI vaccination: DIVA strategies
+
+In most developed countries, vaccination against AI is not authorized, mostly because vaccination can affect the serological surveillance in domestic poultry.
+
+ARTICLE IN PRESS
+
+T. van den Berg et al. / Comp. Immun. Microbiol. Infect. Dis. 31 (2008) 121­165
+
+147
+
+However, with the emergence of the HPAI H5N1 strain in Asia and its peculiar characteristics (persistence in wild birds, high mortality rate in a human), vaccination might be an important tool to control the circulation of this strain. But if a good control and prevention strategy could justify the implementation of a vaccination program, it will also need a good surveillance plan of the vaccinated birds with DIVA tools. Indeed, vaccination reduces the risk of virus infection but may also mask the occurrence of subclinical infection in bird populations and more importantly the circulation of viruses among this population. More than a technique, DIVA is a concept, allowing the detection of infection in a vaccinated flock [294,309].
+Ideally, this implies that new vaccines should be developed with validated companion DIVA tests. Up to now, several vaccines and DIVA companion tests have been developed or are under development to allow the differentiation of AI-vaccinated birds versus vaccinated and infected animals (vaccinated/infected). A DIVA companion test is not strictly limited to a particular vaccine and can be used with different vaccines depending on the context. Indeed, DIVA strategies based on sentinel birds or on non-structural or M2 proteins can be used with all inactivated vaccines (homologous or heterologous) and recombinant sub-unit vaccines, such as fowlpox- or NDV-vectored vaccines. Quite obviously, structural proteins like NA or NP cannot be used as markers of infection for birds vaccinated with the inactivated whole virion vaccines, unless an heterologous NA protein is used in the vaccine (Table 5).
+Sentinel birds are non-vaccinated birds that are introduced in the vaccinated flocks and routinely tested for AI infection. This detection can be done by serological or virological methods. This is a common strategy but not always easy to manage because the sentinel birds must be marked and easily recognized. This method has been used in Italy [34] and is currently used for the surveillance of the vaccinated ducks and geese population in France [310].
+The NS1 protein of influenza A, a non-structural protein, is expressed in large amounts in virus-infected cells, but is not packaged into the infectious viral particles [15]. It can, therefore, be used as marker for infection because viral infection induces antibodies to both structural and non-structural antigens, while vaccination with inactivated virus elicits only antibodies to structural proteins. Moreover, the NS1 protein is well conserved among AI viruses subtypes and allows the detection of all the subtypes. Different ELISA tests using recombinant NS1 protein as the antigen, have recently been developed [311,312], and some are commercially available. However, none of them have been validated under field conditions so far.
+The M2 protein, a pH inducible ion channel, is produced in large amounts in infected cells, but it is scarcely packaged on the surface of the viral particles [15]. It can be used like the NS1 protein as a marker for infection and provides a tool to distinguish vaccinated animals from infected animals. As this M2 protein is highly conserved among type A AI, it can be used to detect all the subtypes. Recently, an M2e ELISA-based on the external part of the M2 virus protein has been developed [313]. As indicated earlier for the NS1 protein, the M2e-ELISA can be a companion test with all the inactivated vaccines and recombinant sub-unit vaccines.
+
+ARTICLE IN PRESS
+
+148
+
+T. van den Berg et al. / Comp. Immun. Microbiol. Infect. Dis. 31 (2008) 121­165
+
+Table 5 Applicability of the different DIVA tests
+
+Inactivated vaccines
+
+Homologous
+
+Neuraminidase
+
+No
+
+NS1
+
+Yes
+
+M2
+
+Yes
+
+NP
+
+No
+
+Sentinels birds
+
+Yes
+
+Heterologous
+Yes Yes Yes No Yes
+
+Recombinant vaccines
+Yes Yes Yes Yes Yes
+
+The NP is present in the viral particles and much conserved among sub-types. As a consequence, it cannot be used as marker of infection with the inactivated whole virion vaccines (homologous or heterologous). However, this protein can serve as marker of infection with subunit or vector vaccines (fowl pox-vectored vaccine or Newcastle disease recombinant vaccine). Several commercial ELISA based on NP are available.
+The NA protein can be used as a marker of infection with the vaccines for which only the HA protein is used to induce protection in vaccinated animals. This is the case for the inactivated heterologous vaccines or the recombinant sub unit vaccines.
+This strategy was validated in the field with the use of inactivated heterologous vaccine in Italy during H7N1 outbreaks in 1999­2001 [294] and during an H7N3 LPAI epidemic in 2002 and 2003 [309]. During these last LPAI outbreaks, chickens and turkeys were vaccinated with a H7N1 heterologous inactivated vaccine, and a DIVA strategy was applied [309]. The discriminatory test was an indirect immunofluorescence method that detects anti-N3 antibodies. The IIF DIVA test is the only DIVA test validated under field conditions. In addition to the need for specific material for immunofluorescence, one major limitation of this kind of test relies in the subjective interpretation of the results that necessitates well-trained lab workers.
+In this sense, other methods might be considered to detect the presence of NA antibodies such as NA inhibition tests or ELISA tests, which are more objective as they rely on the detection of a colorimetric signal by optical material. More recently, with the emergence of the highly pathogenic H5N1, several commercial ELISA have been developed to specifically detect antibodies to the N1 NA.
+All these DIVA tests have their drawbacks and limitations; however, each one can have a relevant use according to the required objective.
+DIVA tests such as tests detecting antibodies to non-structural protein NS1, the M2 protein or the NP protein might be very useful in nai¨ ve populations, i.e. chicken or turkey flocks with a very low or even no history of AI infection. But in the case of the domestic waterfowl (ducks, goose) and zoo birds, these tests might be difficult to use in regard of the unnoticed AI infections in these animals. Indeed, about 30% of the waterfowl and of the zoo birds population in different park in Belgium were NP
+
+ARTICLE IN PRESS
+
+T. van den Berg et al. / Comp. Immun. Microbiol. Infect. Dis. 31 (2008) 121­165
+
+149
+
+positive (S. Marche´ , personal communication). This indicates a circulation of nonH5 or non-H7 AI among these bird population, and these unnoticed infections might interfere with the DIVA strategy. In this case, the use of the NA identification test or sentinel birds may help to identify correctly the vaccinated/infected animals. The major drawback of the NA DIVA tool is that it will always be restricted to the detection of a specific subtype, i.e. serotype N1 in case of HPAI H5N1 survey. As consequence, the challenge strain might not be detected if it is not of the expected field type. However, NA DIVA test might be helpful for the detection of a specific field strain in an endemic situation with a public health concern such as the HPAI H5N1 situation in Asia. In this context, knowing the circulation of the field strain among poultry population is truly important.
+Sentinels birds are not easy to manage, but this might be the only DIVA strategy in remote part of countries or in rather poor countries.
+One of the most important concerns for all DIVA tests is field validation to determine the best use of these different methods. Until now, only the sentinel birds and the NA DIVA test have been field validated. The main limitation for all the DIVA tests is the small amount of antibodies generated in vaccinated animals after challenge with the virulent field strain due to a limited replication in the vaccinated animals. As a consequence, to be efficient, the candidate DIVA test must have a very high sensitivity and be designed for high throughput screening.
+
+5.4. AI vaccination field experience
+
+Poultry vaccination is more often a mass vaccination aimed at protecting a maximum number of birds in a single space. This proportion will greatly depend on the incriminated agent and the epidemiological situation. For epizootic diseases like AI or Newcastle disease, protection must be maximized; whereas in many other circumstances (enzootic diseases), the purpose will be to decrease the economic impact of the disease. In general, it should be emphasized that although experimental studies may show good protection after vaccination, in the complexity of the field, vaccine use and protection will not reach maximum potential [314]. Most of the efficacy studies published on AI vaccines have been performed in experimental conditions with SPF or well-controlled birds. In field conditions, many factors can influence the success of the vaccination. Maintaining the cold chain during transport and storage and the correct administration of vaccine with appropriate material are key factors of success. The age and immune status of the birds may also influence the outcome of vaccination. In particular, infection with immunodepressive diseases, such as infectious bursal disease (IBD), chicken anemia (CA) or MD, as well as other vaccinations, may potentially decrease the immune response induced by an AI vaccine. Different species or breeds of birds respond differently to the vaccine: for instance, antibodies induced in local breeds were shown to be lower than in commercial chicken lines. MDA against AI may also interfere with vaccination with all types of vaccines, especially when performed at a young age. For vectored vaccines, both passive (MDA) and active (previous infection or vaccination) immunity against AI and the vector may potentially interfere with vaccination.
+
+ARTICLE IN PRESS
+
+150
+
+T. van den Berg et al. / Comp. Immun. Microbiol. Infect. Dis. 31 (2008) 121­165
+
+AI vaccination has been used in different countries with variable success. AI vaccines have been used in Mexico, Italy, Pakistan, and the USA to control low pathogenic AI [39]. Prior to the HPAI H5N1 outbreak in southeast Asia, only a few attempts to control HPAI outbreaks by the means of vaccination had been reported: the HPAI H5N2 outbreak in Mexico (1994); the HPAI H7N1 outbreak in Italy (2000), and the HPAI H7N3 outbreak in Pakistan (2003) [296,315,316], but those vaccination strategies were implemented after eradication of the incriminated HPAI. In Mexico, vaccination implemented after the H5N2 HPAI outbreak has allowed fair control of the situation, but the H5N2 LPAI still circulates occasionally in commercial flocks [66].
+So far, Asia is the only example of vaccination in face of an HPAI outbreak [317]. In Hong Kong, several campaigns of vaccination have significantly decreased AI occurrence. Systematic vaccination of imported birds, as well as other biosecurity measures, are currently in place to avoid outbreaks [318]. Interesting data on the use of vaccination as an emergency measure to control an AI outbreak have shown that an inactivated vaccine can provide protection 18 days after vaccination [318]. Regular infections of commercial flocks (mainly turkeys and layers) with different subtypes of influenza also have been controlled in Italy by vaccination and intense monitoring [299]. In Vietnam, the increased number of human cases and the failure of the stamping out and movement control strategies have led the government to initiate a massive vaccination campaign. This campaign, added to other measures, successfully stopped human infections and reduced outbreaks in poultry. Vaccination is being used also in Indonesia and Egypt, but benefits have not been observed so far.
+
+6. Conclusions
+Vaccination is a widely used tool to control human, equine, swine and AI diseases. Although classical inactivated vaccines are the most widely used in different species, several new technology vaccines have been recently licensed for humans, equine, and AI, or are in an advanced stage of R&D. These new vaccines, as well as combinations of different vaccine types (prime-boost), will certainly contribute to a better protection against influenza in the different species. In contrast to other influenza vaccinations, the final objective of poultry vaccination against H5 and H7 subtypes is to stop transmission in order to achieve efficient control and eradication. In order to reach this objective, vaccination should be part of an overall integrated strategy to control the disease, including surveillance, biosecurity, movement restrictions, and monitoring of infection in vaccinated flocks (DIVA approach). There is a clear need in the future for a new generation of cost-effective and efficient poultry vaccines that can be applied by mass immunizing methods (spray, drinking water) and induce strong local immunity in order to control the shedding of the virus. To achieve this, several vectored vaccines show promise as the next generation of AI vaccines. Field studies are also necessary to evaluate vaccine efficacy in real conditions. Control or eradication can only be achieved if all aspects of the intervention strategy are operational.
+
+ARTICLE IN PRESS
+
+T. van den Berg et al. / Comp. Immun. Microbiol. Infect. Dis. 31 (2008) 121­165
+
+151
+
+References
+[1] Sims LD, et al. Origin and evolution of highly pathogenic H5N1 avian influenza in Asia. Vet Rec 2005;157(6):159­64.
+[2] Guan Y, et al. H5N1 influenza: a protean pandemic threat. Proc Natl Acad Sci USA 2004;101(21): 8156­61.
+[3] Li KS, et al. Genesis of a highly pathogenic and potentially pandemic H5N1 influenza virus in eastern Asia. Nature 2004;430(6996):209­13.
+[4] Webster RG, et al. The spread of the H5N1 bird flu epidemic in Asia in 2004. Arch Virol Suppl 2005(19):117­29.
+[5] Webster RG, et al. H5N1 outbreaks and enzootic influenza. Emerg Infect Dis 2006;12(1):3­8. [6] Alexander DJ. Summary of avian influenza activity in Europe, Asia, Africa, and Australasia,
+2002­2006. Avian Dis 2007;51(1 Suppl):161­6. [7] Capua I, Alexander DJ. Human health implications of avian influenza viruses and paramyxoviruses.
+Eur J Clin Microbiol Infect Dis 2004;23(1):1­6. [8] Perdue ML, Swayne DE. Public health risk from avian influenza viruses. Avian Dis 2005;49(3):
+317­27. [9] WHO, Cumulative Number of Confirmed Human Cases of Avian influenza A /(H5N1) Reported to
+WHO as of 11 April 2007. /http://www.who.int/csr/disease/avian_influenza/country/cases_table_ 2007_04_11/en/index.htmlS. [10] Thiry E, et al. Highly pathogenic avian influenza H5N1 virus in cats and other carnivores. Vet Microbiol 2007;122(1­2):25­31. [11] OIE, Terrestrial Animal Health Code. 2005. 14th Edition chapter 2.7.12.1 on avian influenza. /www.oie.int/eng/normes/mcode/en_chapter_2.7.12.htmS, 2005. [12] Morgan A. Avian influenza: an agricultural perspective. J Infect Dis 2006;194(Suppl 2):S139­46. [13] Brown IH, et al. Recent epidemiology and ecology of influenza a viruses in avian species in Europe and the Middle East. Dev Biol (Basel) 2006;124:45­50. [14] Munster VJ, et al. Towards improved influenza a virus surveillance in migrating birds. Vaccine 2006;24(44­46):6729­33. [15] Webster RG, et al. Evolution and ecology of influenza a viruses. Microbiol Rev 1992;56(1):152­79. [16] Olsen B, et al. Global patterns of influenza a virus in wild birds. Science 2006;312(5772):384­8. [17] Alexander DJ. A review of avian influenza in different bird species. Vet Microbiol 2000;74(1­2): 3­13. [18] Munster VJ, et al. Mallards and highly pathogenic avian influenza ancestral viruses, northern Europe. Emerg Infect Dis 2005;11(10):1545­51. [19] Chen H, et al. Properties and dissemination of H5N1 viruses isolated during an influenza outbreak in migratory waterfowl in western China. J Virol 2006;80(12):5976­83. [20] Normile D. Avian influenza. Evidence points to migratory birds in H5N1 spread. Science 2006;311(5765):1225. [21] Zhou JY, et al. Characterization of a highly pathogenic H5N1 influenza virus derived from barheaded geese in China. J Gen Virol 2006;87(Part 7):1823­33. [22] Pantin-Jackwood MJ, Swayne DE. Pathobiology of Asian highly pathogenic avian influenza H5N1 virus infections in ducks. Avian Dis 2007;51(1 Suppl):250­9. [23] Webster RG, et al. Changing epidemiology and ecology of highly pathogenic avian H5N1 influenza viruses. Avian Dis 2007;51(1 Suppl):269­72. [24] Sturm-Ramirez KM, et al. Are ducks contributing to the endemicity of highly pathogenic H5N1 influenza virus in Asia? J Virol 2005;79(17):11269­79. [25] Gilbert M, et al. Free-grazing ducks and highly pathogenic avian influenza, Thailand. Emerg Infect Dis 2006;12(2):227­34. [26] Sturm-Ramirez KM, et al. Reemerging H5N1 influenza viruses in Hong Kong in 2002 are highly pathogenic to ducks. J Virol 2004;78(9):4892­901. [27] Hulse-Post DJ, et al. Role of domestic ducks in the propagation and biological evolution of highly pathogenic H5N1 influenza viruses in Asia. Proc Natl Acad Sci USA 2005;102(30):10682­7.
+
+ARTICLE IN PRESS
+
+152
+
+T. van den Berg et al. / Comp. Immun. Microbiol. Infect. Dis. 31 (2008) 121­165
+
+[28] Capua I, Marangon S. The challenge of controlling notifiable avian influenza by means of vaccination. Avian Dis 2007;51(1 Suppl):317­22.
+[29] Capua I, Marangon S. Control of avian influenza infections in poultry with emphasis on vaccination. Expert Rev Anti Infect Ther 2006;4(5):751­7.
+[30] Capua I, Alexander DJ. The challenge of avian influenza to the veterinary community. Avian Pathol 2006;35(3):189­205.
+[31] Capua I. Avian influenza--past, present and future challenges. Dev Biol (Basel) 2006;124:15­20. [32] Capua I, Marangon S. Vaccination for avian influenza in Asia. Vaccine 2004;22(31­32):4137­8. [33] Capua I, Marangon S. Vaccination in the control of avian influenza in the EU. Vet Rec 2003;
+152(9):271. [34] Capua I, Marangon S. Control of avian influenza in poultry. Emerg Infect Dis 2006;12(9):1319­24. [35] Laddomada A. Control and eradication of O.I.E. list A diseases--the approach of the European
+Union to the use of vaccines. Dev Biol (Basel) 2003;114:269­80. [36] Lee CW, Suarez DL. Avian influenza virus: prospects for prevention and control by vaccination.
+Anim Health Res Rev 2005;6(1):1­15. [37] Suarez DL, Lee CW, Swayne DE. Avian influenza vaccination in North America: strategies and
+difficulties. Dev Biol (Basel) 2006;124:117­24. [38] Swayne DE. Principles for vaccine protection in chickens and domestic waterfowl against avian
+influenza: emphasis on asian H5N1 high pathogenicity avian influenza. Ann N Y Acad Sci 2006; 1081:174­81. [39] Swayne DE. Vaccines for list A poultry diseases: emphasis on avian influenza. Dev Biol (Basel) 2003;114:201­12. [40] Swayne DE. Application of new vaccine technologies for the control of transboundary diseases. Dev Biol (Basel) 2004;119:219­28. [41] Tollis M, Di Trani L. Recent developments in avian influenza research: epidemiology and immunoprophylaxis. Vet J 2002;164(3):202­15. [42] Perroncito E. Epizoozia tifoide neigalliancei. Ann Acad Agric Torino 1878:87­126. [43] Schafer W. Vergleichende sero-immunologische untersuchungen uber die viren der influenza unf klassichen geflugelpest. Z Naturforsch 1955;10B:81­91. [44] Smith W, Andrewes CH, Laidlaw PP. A virus obtained from influenza patients. Lancet 1933;II: 66­8. [45] Hirst GK. The agglutination of red cells by allantoic fluid of chick embryos infected with influenza virus. Science 1941;94:22­3. [46] Palese P, Shaw ML. Orthomyxoviridae: the viruses and their replication. In: Knipe DM, editor. Fields Virology. 5th ed. USA: Lippincott, Williams & Wilkins (LWW); 2007. [47] Alexander DJ. Ecological aspects of influenza a viruses in animals and their relationship to human influenza: a review. J R Soc Med 1982;75(10):799­811. [48] Webster RG. Influenza virus: transmission between species and relevance to emergence of the next human pandemic. Arch Virol Suppl 1997;13:105­13. [49] Wright P, Neumann G, Kawaoka Y. Orthomyxoviruses. In: Knipe DM, editor. Fields Virology. 5th ed. USA: Lippincott, Williams & Wilkins (LWW); 2007. p. 1691­740. [50] Munster VJ, et al. Spatial, temporal, and species variation in prevalence of influenza A viruses in wild migratory birds. PLoS Pathog 2007;3(5):e61. [51] Webster RG, et al. Intestinal influenza: replication and characterization of influenza viruses in ducks. Virology 1978;84(2):268­78. [52] Myers KP, Olsen CW, Gray GC. Cases of swine influenza in humans: a review of the literature. Clin Infect Dis 2007;44(8):1084­8. [53] Stieneke-Grober A, et al. Influenza virus hemagglutinin with multibasic cleavage site is activated by furin, a subtilisin-like endoprotease. EMBO J 1992;11(7):2407­14. [54] Horimoto T, et al. Cleavability of hemagglutinin from an extremely virulent strain of avian influenza virus containing a unique cleavage site sequence. J Vet Med Sci 1995;57(5):927­30. [55] OIE, W.H.O.f.A.H., World Health Organisation for Animal Health, terrestrial Animal Health Code. 2005. 14th: p. chapter 2.7.12.1 on avian influenza.
+
+ARTICLE IN PRESS
+
+T. van den Berg et al. / Comp. Immun. Microbiol. Infect. Dis. 31 (2008) 121­165
+
+153
+
+[56] CEC, Council Directive 2005/94/EC of 20 December 2005 on Community measures for the control of avian influenza and repealing 92/40/EEC. Official Journal of European Commission, 2006(L10/ 16, 14.01).
+[57] Olsen CW. The emergence of novel swine influenza viruses in North America. Virus Res 2002;85(2): 199­210.
+[58] Brown IH. The epidemiology and evolution of influenza viruses in pigs. Vet Microbiol 2000;74(1­2):29­46.
+[59] Choi YK, et al. Continuing evolution of H9N2 influenza viruses in Southeastern China. J Virol 2004;78(16):8609­14.
+[60] Choi YK, et al. Studies of H5N1 influenza virus infection of pigs by using viruses isolated in Vietnam and Thailand in 2004. J Virol 2005;79(16):10821­5.
+[61] Isoda N, et al. Pathogenicity of a highly pathogenic avian influenza virus, A/chicken/Yamaguchi/7/ 04 (H5N1) in different species of birds and mammals. Arch Virol 2006;151(7):1267­79.
+[62] Guo Y, et al. Characterization of a new avian-like influenza a virus from horses in China. Virology 1992;188(1):245­55.
+[63] Guo Y, et al. Seroepidemiological and molecular evidence for the presence of two H3N8 equine influenza viruses in China in 1993­94. J Gen Virol 1995;76(Part 8):2009­14.
+[64] Crawford PC, et al. Transmission of equine influenza virus to dogs. Science 2005;310(5747):482­5. [65] Suarez DL. Evolution of avian influenza viruses. Vet Microbiol 2000;74(1­2):15­27. [66] Lee CW, Senne DA, Suarez DL. Effect of vaccine use in the evolution of Mexican lineage H5N2
+avian influenza virus. J Virol 2004;78(15):8372­81. [67] Daly JM, et al. Comparison of hamster and pony challenge models for evaluation of effect of
+antigenic drift on cross protection afforded by equine influenza vaccines. Equine Vet J 2003;35(5): 458­62. [68] de Jong JC, et al. Antigenic and molecular heterogeneity in recent swine influenza A (H1N1) virus isolates with possible implications for vaccination policy. Vaccine 2001;19(31):4452­64. [69] de Jong JC, et al. Antigenic and genetic evolution of swine influenza A (H3N2) viruses in Europe. J Virol 2007;81(8):4315­22. [70] Van Reeth K. Avian and swine influenza viruses: our current understanding of the zoonotic risk. Vet Res 2007;38(2):243­60. [71] Castrucci MR, et al. Genetic reassortment between avian and human influenza A viruses in Italian pigs. Virology 1993;193(1):503­6. [72] Scholtissek C. Molecular evolution of influenza viruses. Virus Genes 1995;11(2­3):209­15. [73] Scholtissek C, et al. On the origin of the human influenza virus subtypes H2N2 and H3N2. Virology 1978;87(1):13­20. [74] Webster RG, et al. Influenza viruses from avian and porcine sources and their possible role in the origin of human pandemic strains. Dev Biol Stand 1977;39:461­8. [75] Kuiken T, et al. Host species barriers to influenza virus infections. Science 2006;312(5772):394­7. [76] Brankston G, et al. Transmission of influenza A in human beings. Lancet Infect Dis 2007;7(4): 257­65. [77] Poland GA, Jacobson RM, Targonski PV. Avian and pandemic influenza: an overview. Vaccine 2007;25(16):3057­61. [78] Seder RA, Ahmed R. Similarities and differences in CD4+ and CD8+ effector and memory T cell generation. Nat Immunol 2003;4(9):835­42. [79] Dutton RW, Bradley LM, Swain SL. T cell memory. Annu Rev Immunol 1998;16:201­23. [80] Johansson BE, Bucher DJ, Kilbourne ED. Purified influenza virus hemagglutinin and neuraminidase are equivalent in stimulation of antibody response but induce contrasting types of immunity to infection. J Virol 1989;63(3):1239­46. [81] Stamboulian D, et al. Influenza. Infect Dis Clin North Am 2000;14(1):141­66. [82] Suarez DL, Schultz-Cherry S. Immunology of avian influenza virus: a review. Dev Comp Immunol 2000;24(2­3):269­83. [83] De Filette M, et al. Universal influenza A vaccine: optimization of M2-based constructs. Virology 2005;337(1):149­61.
+
+ARTICLE IN PRESS
+
+154
+
+T. van den Berg et al. / Comp. Immun. Microbiol. Infect. Dis. 31 (2008) 121­165
+
+[84] Okuda K, et al. Protective immunity against influenza A virus induced by immunization with DNA plasmid containing influenza M gene. Vaccine 2001;19(27):3681­91.
+[85] Plotnicky H, et al. The immunodominant influenza matrix T cell epitope recognized in human induces influenza protection in HLA-A2/K(b) transgenic mice. Virology 2003;309(2):320­9.
+[86] Ozaki T, et al. Cross-reactive protection against influenza A virus by a topically applied DNA vaccine encoding M gene with adjuvant. Viral Immunol 2005;18(2):373­80.
+[87] Flynn KJ, et al. Virus-specific CD8+ T cells in primary and secondary influenza pneumonia. Immunity 1998;8(6):683­91.
+[88] Belshe RB, et al. Correlates of immune protection induced by live, attenuated, cold-adapted, trivalent, intranasal influenza virus vaccine. J Infect Dis 2000;181(3):1133­7.
+[89] Allan W, et al. Cellular events in the lymph node and lung of mice with influenza. Consequences of depleting CD4+ T cells. J Immunol 1990;144(10):3980­6.
+[90] Woodland DL. Cell-mediated immunity to respiratory virus infections. Curr Opin Immunol 2003;15(4):430­5.
+[91] Treanor JJ, et al. Rapid licensure of a new, inactivated influenza vaccine in the United States. Hum Vaccine 2005;1(6):239­44.
+[92] Lawrence CW, Ream RM, Braciale TJ. Frequency, specificity, and sites of expansion of CD8+ T cells during primary pulmonary influenza virus infection. J Immunol 2005;174(9):5332­40.
+[93] Gallichan WS, Rosenthal KL. Long-lived cytotoxic T lymphocyte memory in mucosal tissues after mucosal but not systemic immunization. J Exp Med 1996;184(5):1879­90.
+[94] Seo SH, Webster RG. Cross-reactive, cell-mediated immunity and protection of chickens from lethal H5N1 influenza virus infection in Hong Kong poultry markets. J Virol 2001;75(6):2516­25.
+[95] Seo SH, Peiris M, Webster RG. Protective cross-reactive cellular immunity to lethal A/Goose/ Guangdong/1/96-like H5N1 influenza virus is correlated with the proportion of pulmonary CD8(+) T cells expressing gamma interferon. J Virol 2002;76(10):4886­90.
+[96] Breed DG, et al. Peripheral blood lymphocytes from Eimeria tenella infected chickens produce gamma-interferon after stimulation in vitro. Parasite Immunol 1997;19(3):127­35.
+[97] Breed DG, et al. Vaccination against Eimeria tenella infection using a fraction of E. tenella sporozoites selected by the capacity to activate T cells. Int J Parasitol 1999;29(8):1231­40.
+[98] Karaca K, et al. Nitric oxide inducing factor as a measure of antigen and mitogen-specific T cell responses in chickens. J Immunol Methods 1996;192(1­2):97­103.
+[99] Lambrecht B, et al. Production of antibodies against chicken interferon-gamma: demonstration of neutralizing activity and development of a quantitative ELISA. Vet Immunol Immunopathol 2000;74(1­2):137­44.
+[100] Lambrecht B, et al. Assessment of the cell-mediated immune response in chickens by detection of chicken interferon-gamma in response to mitogen and recall Newcastle disease viral antigen stimulation. Avian Pathol 2004;33(3):343­50.
+[101] Renegar KB, et al. Role of IgA versus IgG in the control of influenza viral infection in the murine respiratory tract. J Immunol 2004;173(3):1978­86.
+[102] Arulanandam BP, et al. IgA immunodeficiency leads to inadequate Th cell priming and increased susceptibility to influenza virus infection. J Immunol 2001;166(1):226­31.
+[103] Jayawardane GW, Spradbrow PB. Mucosal immunity in chickens vaccinated with the V4 strain of Newcastle disease virus. Vet Microbiol 1995;46(1­3):69­77.
+[104] Al-Garib SO, et al. Immunoglobulin class distribution of systemic and mucosal antibody responses to Newcastle disease in chickens. Avian Dis 2003;47(1):32­40.
+[105] Girard F, et al. Adjuvant effect of cholera toxin on systemic and mucosal immune responses in chickens infected with E. tenella or given recombinant parasitic antigen per os. Vaccine 1999; 17(11­12):1516­24.
+[106] Wong SS, Yuen KY. Avian influenza virus infections in humans. Chest 2006;129(1):156­68. [107] Szretter KJ, et al. Role of host cytokine responses in the pathogenesis of avian H5N1 influenza
+viruses in mice. J Virol 2007;81(6):2736­44. [108] Pearson H. Controlling immune response may cut bird flu death rate. Nat Med 2006;12(10):
+1105.
+
+ARTICLE IN PRESS
+
+T. van den Berg et al. / Comp. Immun. Microbiol. Infect. Dis. 31 (2008) 121­165
+
+155
+
+[109] Van Reeth K, et al. Efficacy of vaccination of pigs with different H1N1 swine influenza viruses using a recent challenge strain and different parameters of protection. Vaccine 2001;19(31):4479­86.
+[110] Van Reeth K, Van Gucht S, Pensaert M. Investigations of the efficacy of European H1N1- and H3N2-based swine influenza vaccines against the novel H1N2 subtype. Vet Rec 2003;153(1): 9­13.
+[111] Swayne DE, et al. Vaccines protect chickens against H5 highly pathogenic avian influenza in the face of genetic changes in field viruses over multiple years. Vet Microbiol 2000;74(1-2):165­72.
+[112] Swayne DE, Lee CW, Spackman E. Inactivated North American and European H5N2 avian influenza virus vaccines protect chickens from Asian H5N1 high pathogenicity avian influenza virus. Avian Pathol 2006;35(2):141­6.
+[113] Bublot M, et al. Efficacy of Two H5N9-Inactivated vaccines against challenge with a recent H5N1 highly pathogenic avian influenza isolate from a chicken in Thailand. Avian Dis 2007;51(S1):332­7.
+[114] Swayne D, et al. Influence of virus strain and antigen mass on efficacy of H5 avian influenza inactivated vaccines. Avian Pathol 1999;28:245­55.
+[115] Lin J, et al. Safety and immunogenicity of an inactivated adjuvanted whole-virion influenza a (H5N1) vaccine: a phase 1 randomised controlled trial. Lancet 2006;368(9540):991­7.
+[116] Jansen T, et al. Structure- and oil type-based efficacy of emulsion adjuvants. Vaccine 2006;24(26): 5400­5.
+[117] Jansen T, et al. Structure­activity relations of water-in-oil vaccine formulations and induced antigen-specific antibody responses. Vaccine 2005;23(8):1053­60.
+[118] Ascaratei S, Dupuis L. Surfactants in vaccine adjuvants: description and perspectives. Vaccine 2006;24(Suppl 2):S2-83­5.
+[119] Baldo V, et al. MF59-adjuvanted influenza vaccine confers superior immunogenicity in adult subjects (18­60 years of age) with chronic diseases who are at risk of post-influenza complications. Vaccine 2007;25(20):3955­61.
+[120] Baldo V, et al. Response to influenza vaccine in people with non-protective HI antibody titers. Eur J Epidemiol 2006;21(11):843­5.
+[121] Ben-Yehuda A, et al. Immunogenicity and safety of a novel liposomal influenza subunit vaccine (INFLUSOME-VAC) in young adults. J Med Virol 2003;69(4):560­7.
+[122] Gluck R, et al. Immunogenicity of new virosome influenza vaccine in elderly people. Lancet 1994;344(8916):160­3.
+[123] Steensels M. et al. Efficacy of an inactivated vaccine and a fowlpox recombinant in Muscovy ducks against an Asian HPAI H5N1 challenge. Avain Dis 2007;51(S1):325­31.
+[124] Tian G, et al. Protective efficacy in chickens, geese and ducks of an H5N1-inactivated vaccine developed by reverse genetics. Virology 2005;341(1):153­62.
+[125] E.F.S.A. Scientific opinion on vaccination against avian influenza of H5 and H7 subtypes as a preventive measure carried out in member states in birds kept in zoos under community approved programmes. EFSA J 2007;450(EFSA-Q-2006-156):1­35.
+[126] Oh S, et al. Field study on the use of inactivated H5N2 vaccine in avian species. Vet Rec 2005;157(10):299­300.
+[127] Belshe RB. Current status of live attenuated influenza virus vaccine in the US. Virus Res 2004;103(1­2):177­85.
+[128] Paillot R, et al. Vaccination against equine influenza: quid novi? Vaccine 2006;24(19):4047­61. [129] Halloran ME, et al. Efficacy of trivalent, cold-adapted, influenza virus vaccine against influenza A
+(Fujian), a drift variant, during 2003­2004. Vaccine 2007;25(20):4038­45. [130] Belshe RB, et al. Live attenuated versus inactivated influenza vaccine in infants and young children.
+N Engl J Med 2007;356(7):685­96. [131] Garcia-Sastre A, Palese P. Genetic manipulation of negative-strand RNA virus genomes. Annu Rev
+Microbiol 1993;47:765­90. [132] Horimoto T, et al. The development and characterization of H5 influenza virus vaccines derived
+from a 2003 human isolate. Vaccine 2006;24(17):3669­76. [133] Subbarao K, Katz JM. Influenza vaccines generated by reverse genetics. Curr Top Microbiol
+Immunol 2004;283:313­42.
+
+ARTICLE IN PRESS
+
+156
+
+T. van den Berg et al. / Comp. Immun. Microbiol. Infect. Dis. 31 (2008) 121­165
+
+[134] Bresson JL, et al. Safety and immunogenicity of an inactivated split-virion influenza A/Vietnam/ 1194/2004 (H5N1) vaccine: phase I randomised trial. Lancet 2006;367(9523):1657­64.
+[135] Liu M, et al. Preparation of a standardized, efficacious agricultural H5N3 vaccine by reverse genetics. Virology 2003;314(2):580­90.
+[136] Kumar M, et al. Association of serologic and protective responses of avian influenza vaccines in chickens. Avian Dis 2007;51(1 Suppl):481­3.
+[137] Middleton D, et al. Efficacy of inactivated vaccines against H5N1 avian influenza infection in ducks. Virology 2007;359(1):66­71.
+[138] Webster RG, et al. The immunogenicity and efficacy against H5N1 challenge of reverse geneticsderived H5N3 influenza vaccine in ducks and chickens. Virology 2006.
+[139] Lee CW, Senne DA, Suarez DL. Generation of reassortant influenza vaccines by reverse genetics that allows utilization of a DIVA (differentiating infected from vaccinated animals) strategy for the control of avian influenza. Vaccine 2004;22(23­24):3175­81.
+[140] Suguitan Jr. AL, et al. Live, attenuated influenza A H5N1 candidate vaccines provide broad crossprotection in mice and ferrets. PLoS Med 2006;3(9):e360.
+[141] Watanabe T, et al. Influenza A virus with defective M2 ion channel activity as a live vaccine. Virology 2002;299(2):266­70.
+[142] Richt JA, et al. Vaccination of pigs against swine influenza viruses by using an NS1-truncated modified live-virus vaccine. J Virol 2006;80(22):11009­18.
+[143] Quinlivan M, et al. Attenuation of equine influenza viruses through truncations of the NS1 protein. J Virol 2005;79(13):8431­9.
+[144] Park MS, et al. Engineered viral vaccine constructs with dual specificity: avian influenza and Newcastle disease. Proc Natl Acad Sci USA 2006;103(21):8203­8.
+[145] Garcia-Sastre A, Palese P. Influenza virus vectors. Biologicals 1995;23(2):171­8. [146] Gherardi MM, et al. Prime-boost immunization schedules based on influenza virus and vaccinia
+virus vectors potentiate cellular immune responses against human immunodeficiency virus Env protein systemically and in the genitorectal draining lymph nodes. J Virol 2003;77(12): 7048­57. [147] He Q, et al. Live-attenuated influenza viruses as delivery vectors for Chlamydia vaccines. Immunology 2007. [148] Chen Z, et al. Comparison of the ability of viral protein-expressing plasmid DNAs to protect against influenza. Vaccine 1998;16(16):1544­9. [149] Chen J, et al. Protection against influenza virus infection in BALB/c mice immunized with a single dose of neuraminidase-expressing DNAs by electroporation. Vaccine 2005;23(34): 4322­8. [150] Qiu M, et al. Protection against avian influenza H9N2 virus challenge by immunization with hemagglutinin- or neuraminidase-expressing DNA in BALB/c mice. Biochem Biophys Res Commun 2006;343(4):1124­31. [151] Kilbourne ED, et al. Protection of mice with recombinant influenza virus neuraminidase. J Infect Dis 2004;189(3):459­61. [152] Deroo T, Jou WM, Fiers W. Recombinant neuraminidase vaccine protects against lethal influenza. Vaccine 1996;14(6):561­9. [153] Sylte MJ, Hubby B, Suarez DL. Influenza neuraminidase antibodies provide partial protection for chickens against highly pathogenic avian influenza infection. Vaccine 2007;25(19):3763­72. [154] Qiao CL, et al. Protection of chickens against highly lethal H5N1 and H7N1 avian influenza viruses with a recombinant fowlpox virus co-expressing H5 haemagglutinin and N1 neuraminidase genes. Avian Pathol 2003;32(1):25­32. [155] Johansson BE, Matthews JT, Kilbourne ED. Supplementation of conventional influenza A vaccine with purified viral neuraminidase results in a balanced and broadened immune response. Vaccine 1998;16(9­10):1009­15. [156] Johansson BE, Pokorny BA, Tiso VA. Supplementation of conventional trivalent influenza vaccine with purified viral N1 and N2 neuraminidases induces a balanced immune response without antigenic competition. Vaccine 2002;20(11­12):1670­4.
+
+ARTICLE IN PRESS
+
+T. van den Berg et al. / Comp. Immun. Microbiol. Infect. Dis. 31 (2008) 121­165
+
+157
+
+[157] Brett IC, Johansson BE. Immunization against influenza A virus: comparison of conventional inactivated, live-attenuated and recombinant baculovirus produced purified hemagglutinin and neuraminidase vaccines in a murine model system. Virology 2005;339(2):273­80.
+[158] Sandbulte MR, et al. Cross-reactive Neuraminidase antibodies afford partial protection against H5N1 in mice and Are present in unexposed humans. PLoS Med 2007;4(2):e59.
+[159] Livingston BD, Higgins D, Van Nest G. Evolving strategies for the prevention of influenza infection: potential for multistrain targeting. BioDrugs 2006;20(6):335­40.
+[160] Neirynck S, et al. A universal influenza a vaccine based on the extracellular domain of the M2 protein. Nat Med 1999;5(10):157­63.
+[161] De Filette M, et al. Improved design and intranasal delivery of an M2e-based human influenza A vaccine. Vaccine 2006;24(44­46):6597­601.
+[162] Fiers W, et al. A ``universal'' human influenza A vaccine. Virus Res 2004;103(1­2):173­6. [163] Heinen PP, et al. Vaccination of pigs with a DNA construct expressing an influenza virus M2-
+nucleoprotein fusion protein exacerbates disease after challenge with influenza A virus. J Gen Virol 2002;83(Part 8):1851­9. [164] Mozdzanowska K, et al. Induction of influenza type A virus-specific resistance by immunization of mice with a synthetic multiple antigenic peptide vaccine that contains ectodomains of matrix protein 2. Vaccine 2003;21(19­20):2616­26. [165] Jegerlehner A, et al. Influenza A vaccine based on the extracellular domain of M2: weak protection mediated via antibody-dependent NK cell activity. J Immunol 2004;172(9):5598­605. [166] Fan J, et al. Preclinical study of influenza virus A M2 peptide conjugate vaccines in mice, ferrets, and rhesus monkeys. Vaccine 2004;22(23­24):2993­3003. [167] Zharikova D, et al. Influenza type A virus escape mutants emerge in vivo in the presence of antibodies to the ectodomain of matrix protein 2. J Virol 2005;79(11):6644­54. [168] Chen Z, et al. Protection and antibody responses in different strains of mouse immunized with plasmid DNAs encoding influenza virus haemagglutinin, neuraminidase and nucleoprotein. J Gen Virol 1999;80(Part 10):2559­64. [169] Bot A, et al. DNA immunization of newborn mice with a plasmid-expressing nucleoprotein of influenza virus. Viral Immunol 1996;9(4):207­10. [170] Saha S, et al. A fused gene of nucleoprotein (NP) and herpes simplex virus genes (VP22) induces highly protective immunity against different subtypes of influenza virus. Virology 2006;354(1):48­57. [171] Ulmer JB, et al. Heterologous protection against influenza by injection of DNA encoding a viral protein. Science 1993;259(5102):1745­9. [172] Yankauckas MA, et al. Long-term anti-nucleoprotein cellular and humoral immunity is induced by intramuscular injection of plasmid DNA containing NP gene. DNA Cell Biol 1993;12(9):771­6. [173] Altstein AD, et al. Immunization with influenza A NP-expressing vaccinia virus recombinant protects mice against experimental infection with human and avian influenza viruses. Arch Virol 2006;151(5):921­31. [174] Breathnach CC, et al. Immunization with recombinant modified vaccinia Ankara (rMVA) constructs encoding the HA or NP gene protects ponies from equine influenza virus challenge. Vaccine 2006;24(8):1180­90. [175] Epstein SL, et al. Protection against multiple influenza A subtypes by vaccination with highly conserved nucleoprotein. Vaccine 2005;23(46­47):5404­10. [176] Webster RG, et al. Efficacy of nucleoprotein and haemagglutinin antigens expressed in fowlpox virus as vaccine for influenza in chickens. Vaccine 1991;9(5):303­8. [177] Brown DW, et al. Assessment of retrovirus-expressed nucleoprotein as a vaccine against lethal influenza virus infections of chickens. Avian Dis 1992;36(3):515­20. [178] Crowe SR, Miller SC, Woodland DL. Identification of protective and non-protective T cell epitopes in influenza. Vaccine 2006;24(4):452­6. [179] Le Gall-Recule G, et al. Importance of a prime-boost DNA/protein vaccination to protect chickens against low-pathogenic H7 avian influenza infection. Avian Dis 2007;51(1 Suppl):490­4. [180] Wang K, et al. Expression and purification of an influenza hemagglutinin--one step closer to a recombinant protein-based influenza vaccine. Vaccine 2006;24(12):2176­85.
+
+ARTICLE IN PRESS
+
+158
+
+T. van den Berg et al. / Comp. Immun. Microbiol. Infect. Dis. 31 (2008) 121­165
+
+[181] Treanor JJ, et al. Dose-related safety and immunogenicity of a trivalent baculovirus-expressed influenza-virus hemagglutinin vaccine in elderly adults. J Infect Dis 2006;193(9):1223­8.
+[182] Treanor JJ, et al. Safety and immunogenicity of a baculovirus-expressed hemagglutinin influenza vaccine: a randomized controlled trial. JAMA 2007;297(14):1577­82.
+[183] Safdar A, et al. Dose-related safety and immunogenicity of baculovirus-expressed trivalent influenza vaccine: a double-blind, controlled trial in adult patients with non-Hodgkin B cell lymphoma. J Infect Dis 2006;194(10):1394­7.
+[184] Treanor JJ, et al. Safety and immunogenicity of a recombinant hemagglutinin vaccine for H5 influenza in humans. Vaccine 2001;19(13­14):1732­7.
+[185] Swayne DE, et al. Efficacy of vaccines in chickens against highly pathogenic Hong Kong H5N1 avian influenza. Avian Dis 2001;45(2):355­65.
+[186] Crawford J, et al. Baculovirus-derived hemagglutinin vaccines protect against lethal influenza infections by avian H5 and H7 subtypes. Vaccine 1999;17(18):2265­74.
+[187] Dalakouras T, et al. Development of recombinant protein-based influenza vaccine. Expression and affinity purification of H1N1 influenza virus neuraminidase. J Chromatogr A 2006;1136(1):48­56.
+[188] Johansson BE. Immunization with influenza a virus hemagglutinin and neuraminidase produced in recombinant baculovirus results in a balanced and broadened immune response superior to conventional vaccine. Vaccine 1999;17(15­16):2073­80.
+[189] Galarza JM, Latham T, Cupo A. Virus-like particle vaccine conferred complete protection against a lethal influenza virus challenge. Viral Immunol 2005;18(2):365­72.
+[190] Quan FS, et al. Virus-like particle vaccine induces protective immunity against homologous and heterologous strains of influenza virus. J Virol 2007;81(7):3514­24.
+[191] Pushko P, et al. Evaluation of influenza virus-like particles and Novasome adjuvant as candidate vaccine for avian influenza. Vaccine 2007;25(21):4283­90.
+[192] Pushko P, et al. Influenza virus-like particles comprised of the HA, NA, and M1 proteins of H9N2 influenza virus induce protective immune responses in BALB/c mice. Vaccine 2005;23(50):5751­9.
+[193] Prel A, et al. Assessment of the protection afforded by triple baculovirus recombinant coexpressing H5, N3, M1 proteins against a homologous H5N3 low-pathogenicity avian influenza virus challenge in Muscovy ducks. Avian Dis 2007;51(1 Suppl):484­9.
+[194] Bright RA, et al. Influenza virus-like particles elicit broader immune responses than whole virion inactivated influenza virus or recombinant hemagglutinin. Vaccine 2007;25(19):3871­8.
+[195] Jones T, et al. A nasal proteosome influenza vaccine containing baculovirus-derived hemagglutinin induces protective mucosal and systemic immunity. Vaccine 2003;21(25­26):3706­12.
+[196] Paoletti E. Applications of pox virus vectors to vaccination: an update. Proc Natl Acad Sci USA 1996;93(21):11349­53.
+[197] Poulet H, et al. Development and registration of recombinant veterinary vaccines: the example of the canarypox vector platform. Vaccine 2006;25(30):5606­12.
+[198] Minke JM, et al. Efficacy of a canarypox-vectored recombinant vaccine expressing the hemagglutinin gene of equine influenza H3N8 virus in the protection of ponies from viral challenge. Am J Vet Res 2007;68(2):213­9.
+[199] Paillot R, et al. Antibody and IFN-gamma responses induced by a recombinant canarypox vaccine and challenge infection with equine influenza virus. Vet Immunol Immunopathol 2006;112(3­4):225­33.
+[200] Edlund Toulemonde C, et al. Efficacy of a recombinant equine influenza vaccine against challenge with an American lineage H3N8 influenza virus responsible for the 2003 outbreak in the United Kingdom. Vet Rec 2005;156(12):367­71.
+[201] Karaca K, et al. Evaluation of the ability of canarypox-vectored equine influenza virus vaccines to induce humoral immune responses against canine influenza viruses in dogs. Am J Vet Res 2007; 68(2):208­12.
+[202] Bublot M, et al. Development and use of fowlpox vectored vaccines for avian influenza. Ann N Y Acad Sci 2006;1081:193­201.
+[203] Ge J, et al. Newcastle disease virus-based live attenuated vaccine completely protects chickens and mice from lethal challenge of homologous and heterologous H5N1 avian influenza viruses. J Virol 2007;81(1):150­8.
+
+ARTICLE IN PRESS
+
+T. van den Berg et al. / Comp. Immun. Microbiol. Infect. Dis. 31 (2008) 121­165
+
+159
+
+[204] Bublot M, et al. TROVAC AI H5, an avian influenza fowlpox vector vaccine, as an alternative vaccine for hatcheries. In: OIE/FAO International Scientific Conference on Avian Influenza. Paris, France: Dev Biol, Karger, Basel; 2005.
+[205] Swayne DE, Beck JR, Mickle TR. Efficacy of recombinant fowl poxvirus vaccine in protecting chickens against a highly pathogenic Mexican-origin H5N2 avian influenza virus. Avian Dis 1997; 41(4):910­22.
+[206] Swayne DE, et al. Protection against diverse highly pathogenic H5 avian influenza viruses in chickens immunized with a recombinant fowlpox vaccine containing an H5 avian influenza hemagglutinin gene insert. Vaccine 2000;18(11­12):1088­95.
+[207] Qiao C, et al. Development of a recombinant fowlpox virus vector-based vaccine of H5N1 subtype avian influenza. Dev Biol (Basel) 2006;124:127­32.
+[208] Swayne DE, Beck JR, Kinney N. Failure of a recombinant fowl poxvirus vaccine containing an avian influenza hemagglutinin gene to provide consistent protection against influenza in chickens preimmunized with a fowl pox vaccine. Avian Dis 2000;44(1):132­7.
+[209] Karaca K, et al. Immunogenicity of fowlpox virus expressing the avian influenza virus H5 gene (TROVAC AIV-H5) in cats. Clin Diagn Lab Immunol 2005;12(11):1340­2.
+[210] Kreijtz JH, et al. Recombinant modified vaccinia virus ankara-based vaccine induces protective immunity in mice against infection with influenza virus H5N1. J Infect Dis 2007;195(11):1598­606.
+[211] Gherardi MM, Esteban M. Recombinant poxviruses as mucosal vaccine vectors. J Gen Virol 2005; 86(Part 11):2925­36.
+[212] Breathnach CC, Rudersdorf R, Lunn DP. Use of recombinant modified vaccinia Ankara viral vectors for equine influenza vaccination. Vet Immunol Immunopathol 2004;98(3­4):127­36.
+[213] Sutter G, Staib C. Vaccinia vectors as candidate vaccines: the development of modified vaccinia virus Ankara for antigen delivery. Curr Drug Targets Infect Disord 2003;3(3):263­71.
+[214] Swayne DE, et al. Recombinant paramyxovirus type 1-avian influenza-H7 virus as a vaccine for protection of chickens against influenza and Newcastle disease. Avian Dis 2003;47(3 Suppl): 1047­50.
+[215] Veits J, et al. Newcastle disease virus expressing H5 hemagglutinin gene protects chickens against newcastle disease and avian influenza. Proc Natl Acad Sci USA 2006;103(21):8197­202.
+[216] Nakaya T, et al. Recombinant Newcastle disease virus as a vaccine vector. J Virol 2001;75(23): 11868­73.
+[217] Schwartz JA, et al. Vesicular stomatitis virus vectors expressing avian influenza H5 HA induce crossneutralizing antibodies and long-term protection. Virology 2007;1:1­2.
+[218] Roberts A, et al. Vaccination with a recombinant vesicular stomatitis virus expressing an influenza virus hemagglutinin provides complete protection from influenza virus challenge. J Virol 1998;72(6): 4704­11.
+[219] Tompkins SM, et al. Recombinant parainfluenza virus 5 (PIV5) expressing the influenza A virus hemagglutinin provides immunity in mice to influenza A virus challenge. Virology 2007;62(1):139­50.
+[220] Gao W, et al. Protection of mice and poultry from lethal H5N1 avian influenza virus through adenovirus-based immunization. J Virol 2006;80(4):1959­64.
+[221] Toro H, et al. Protective avian influenza in ovo vaccination with non-replicating human adenovirus vector. Vaccine 2007;25(15):2886­91.
+[222] Wesley RD, Lager KM. Evaluation of a recombinant human adenovirus-5 vaccine administered via needle-free device and intramuscular injection for vaccination of pigs against swine influenza virus. Am J Vet Res 2005;66(11):1943­7.
+[223] Wesley RD, Lager KM. Overcoming maternal antibody interference by vaccination with human adenovirus 5 recombinant viruses expressing the hemagglutinin and the nucleoprotein of swine influenza virus. Vet Microbiol 2006;118(1­2):67­75.
+[224] Van Kampen KR, et al. Safety and immunogenicity of adenovirus-vectored nasal and epicutaneous influenza vaccines in humans. Vaccine 2005;23(8):1029­36.
+[225] Veits J, et al. Deletion of the non-essential UL0 gene of infectious laryngotracheitis (ILT) virus leads to attenuation in chickens, and UL0 mutants expressing influenza virus haemagglutinin (H7) protect against ILT and fowl plague. J Gen Virol 2003;84(Part 12):3343­52.
+
+ARTICLE IN PRESS
+
+160
+
+T. van den Berg et al. / Comp. Immun. Microbiol. Infect. Dis. 31 (2008) 121­165
+
+[226] Luschow D, et al. Protection of chickens from lethal avian influenza A virus infection by live-virus vaccination with infectious laryngotracheitis virus recombinants expressing the hemagglutinin (H5) gene. Vaccine 2001;19(30):4249­59.
+[227] Fuchs W, et al. Molecular biology of avian infectious laryngotracheitis virus. Vet Res 2007;38(2): 261­79.
+[228] Fuchs W, Veits J, Mettenleiter TC. Recombinant viruses of poultry as vector vaccines against fowl plague. Berl Munch Tierarztl Wochenschr 2006;119(3­4):160­6.
+[229] Tian ZJ, et al. A recombinant pseudorabies virus encoding the HA gene from H3N2 subtype swine influenza virus protects mice from virulent challenge. Vet Immunol Immunopathol 2006;111(3­4):211­8.
+[230] Hunt LA, et al. Retrovirus-expressed hemagglutinin protects against lethal influenza virus infections. J Virol 1988;62(8):3014­9.
+[231] Schultz-Cherry S, et al. Influenza virus (A/HK/156/97) hemagglutinin expressed by an alphavirus replicon system protects chickens against lethal infection with Hong Kong-origin H5N1 viruses. Virology 2000;278(1):55­9.
+[232] Berglund P, et al. Immunization with recombinant Semliki Forest virus induces protection against influenza challenge in mice. Vaccine 1999;17(5):497­507.
+[233] Pushko P, et al. Replicon-helper systems from attenuated Venezuelan Equine Encephalitis virus: expression of heterologous genes in vitro and immunization against heterologous pathogens in vivo. Virology 1997;239(2):389­401.
+[234] Abe T, et al. Baculovirus induces an innate immune response and confers protection from lethal influenza virus infection in mice. J Immunol 2003;171(3):1133­9.
+[235] Francois A, et al. Avian adenovirus CELO recombinants expressing VP2 of infectious bursal disease virus induce protection against bursal disease in chickens. Vaccine 2004;22(17­18):2351­60.
+[236] Francois A, et al. Construction of avian adenovirus CELO recombinants in cosmids. J Virol 2001; 75(11):5288­301.
+[237] Darteil R, et al. Herpesvirus of turkey recombinant viruses expressing infectious bursal disease virus (IBDV) VP2 immunogen induce protection against an IBDV virulent challenge in chickens. Virology 1995;211(2):481­90.
+[238] Ben-Yedidia T, Arnon R. Towards an epitope-based human vaccine for influenza. Hum Vaccine 2005;1(3):95­101.
+[239] Tite JP, et al. Anti-viral immunity induced by recombinant nucleoprotein of influenza A virus. III. Delivery of recombinant nucleoprotein to the immune system using attenuated salmonella typhimurium as a live carrier. Immunology 1990;70(4):540­6.
+[240] Cole K, et al. Development and primary evaluation of a recombinant Salmonella expressing M2e and CD154 as a vaccine vector for avian influenza. Vaccination: a tool for the control of avian influenza. in Vaccination: a tool for the control of avian influenza, An OIE/FAO/IZSVe scientific conference. 2007, Verona, Italy.
+[241] Ikonomidis G, et al. Influenza-specific immunity induced by recombinant listeria monocytogenes vaccines. Vaccine 1997;15(4):433­40.
+[242] Laddy DJ, Weiner DB. From plasmids to protection: a review of DNA vaccines against infectious diseases. Int Rev Immunol 2006;25(3­4):99­123.
+[243] Chen Z. Influenza DNA vaccine: an update. Chin Med J (Engl) 2004;117(1):125­32. [244] Ulmer JB. Influenza DNA vaccines. Vaccine 2002;20(Suppl 2):S74­6. [245] Donnelly JJ, et al. Preclinical efficacy of a prototype DNA vaccine: enhanced protection against
+antigenic drift in influenza virus. Nat Med 1995;1(6):583­7. [246] Mitchell JA, et al. Induction of heterosubtypic immunity to influenza A virus using a DNA vaccine
+expressing hemagglutinin-C3d fusion proteins. Vaccine 2003;21(9­10):902­14. [247] Montgomery DL, et al. Heterologous and homologous protection against influenza A by DNA
+vaccination: optimization of DNA vectors. DNA Cell Biol 1993;12(9):777­83. [248] Robinson HL, et al. DNA immunization for influenza virus: studies using hemagglutinin- and
+nucleoprotein-expressing DNAs. J Infect Dis 1997;176(Suppl 1):S50­5. [249] Kodihalli S, et al. DNA vaccine encoding hemagglutinin provides protective immunity against
+H5N1 influenza virus infection in mice. J Virol 1999;73(3):2094­8.
+
+ARTICLE IN PRESS
+
+T. van den Berg et al. / Comp. Immun. Microbiol. Infect. Dis. 31 (2008) 121­165
+
+161
+
+[250] Orson FM, et al. Protection against influenza infection by cytokine-enhanced aerosol genetic immunization. J Gene Med 2006;8(4):488­97.
+[251] Olsen CW, et al. Immunogenicity and efficacy of baculovirus-expressed and DNA-based equine influenza virus hemagglutinin vaccines in mice. Vaccine 1997;15(10):1149­56.
+[252] Applequist SE, et al. Activation of innate immunity, inflammation, and potentiation of DNA vaccination through mammalian expression of the TLR5 agonist flagellin. J Immunol 2005;175(6): 3882­91.
+[253] Kong WP, et al. Protective immunity to lethal challenge of the 1918 pandemic influenza virus by vaccination. Proc Natl Acad Sci USA 2006;103(43):15987­91.
+[254] Huber VC, et al. Distinct contributions of vaccine-induced immunoglobulin G1 (IgG1) and IgG2a antibodies to protective immunity against influenza. Clin Vaccine Immunol 2006;13(9):981­90.
+[255] Epstein SL, et al. DNA vaccine expressing conserved influenza virus proteins protective against H5N1 challenge infection in mice. Emerg Infect Dis 2002;8(8):796­801.
+[256] Operschall E, et al. Mechanism of protection against influenza A virus by DNA vaccine encoding the hemagglutinin gene. Intervirology 2000;43(4­6):322­30.
+[257] Operschall E, et al. Enhanced protection against viral infection by co-administration of plasmid DNA coding for viral antigen and cytokines in mice. J Clin Virol 1999;13(1­2):17­27.
+[258] Henke A, et al. Co-expression of interleukin-2 by a bicistronic plasmid increases the efficacy of DNA immunization to prevent influenza virus infections. Intervirology 2006;49(4):249­52.
+[259] Zhang F, et al. Maternal immunization with both hemagglutinin- and neuraminidase-expressing DNAs provides an enhanced protection against a lethal influenza virus challenge in infant and adult mice. DNA Cell Biol 2005;24(11):758­65.
+[260] Wang D, et al. Intranasal immunization with liposome-encapsulated plasmid DNA encoding influenza virus hemagglutinin elicits mucosal, cellular and humoral immune responses. J Clin Virol 2004;31(Suppl 1):S99­S106.
+[261] Charo J, et al. Protective efficacy of a DNA influenza virus vaccine is markedly increased by the coadministration of a Schiff base-forming drug. J Virol 2004;78(20):11321­6.
+[262] Laddy DJ, et al. Immunogenicity of novel consensus-based DNA vaccines against avian influenza. Vaccine 2007;25(16):2984­9.
+[263] Ljungberg K, et al. DNA vaccination of ferrets with chimeric influenza A virus hemagglutinin (H3) genes. Vaccine 2002;20(16):2045­52.
+[264] Donnelly JJ, et al. Further protection against antigenic drift of influenza virus in a ferret model by DNA vaccination. Vaccine 1997;15(8):865­8.
+[265] Robinson HL, Hunt LA, Webster RG. Protection against a lethal influenza virus challenge by immunization with a haemagglutinin-expressing plasmid DNA. Vaccine 1993;11(9):957­60.
+[266] Fynan EF, Robinson HL, Webster RG. Use of DNA encoding influenza hemagglutinin as an avian influenza vaccine. DNA Cell Biol 1993;12(9):785­9.
+[267] Kodihalli S, Kobasa DL, Webster RG. Strategies for inducing protection against avian influenza A virus subtypes with DNA vaccines. Vaccine 2000;18(23):2592­9.
+[268] Suarez DL, Schultz-Cherry S. The effect of eukaryotic expression vectors and adjuvants on DNA vaccines in chickens using an avian influenza model. Avian Dis 2000;44(4):861­8.
+[269] Kodihalli S, et al. Cross-protection among lethal H5N2 influenza viruses induced by DNA vaccine to the hemagglutinin. J Virol 1997;71(5):3391­6.
+[270] Cherbonnel M, Rousset J, Jestin V. Strategies to improve protection against low-pathogenicity H7 avian influenza virus infection using DNA vaccines. Avian Dis 2003;47(3 Suppl):1181­6.
+[271] Jiang Y, et al. Enhanced protective efficacy of H5 subtype avian influenza DNA vaccine with codon optimized HA gene in a pCAGGS plasmid vector. Antiviral Res 2007.
+[272] Lunn DP, et al. Antibody responses to DNA vaccination of horses using the influenza virus hemagglutinin gene. Vaccine 1999;17(18):2245­58.
+[273] Soboll G, et al. Regional antibody and cellular immune responses to equine influenza virus infection, and particle mediated DNA vaccination. Vet Immunol Immunopathol 2003;94(1­2):47­62.
+[274] Soboll G, et al. Mucosal co-administration of cholera toxin and influenza virus hemagglutinin-DNA in ponies generates a local IgA response. Vaccine 2003;21(21­22):3081­92.
+
+ARTICLE IN PRESS
+
+162
+
+T. van den Berg et al. / Comp. Immun. Microbiol. Infect. Dis. 31 (2008) 121­165
+
+[275] Macklin MD, et al. Immunization of pigs with a particle-mediated DNA vaccine to influenza A virus protects against challenge with homologous virus. J Virol 1998;72(2):1491­6.
+[276] Larsen DL, Karasin A, Olsen CW. Immunization of pigs against influenza virus infection by DNA vaccine priming followed by killed-virus vaccine boosting. Vaccine 2001;19(20­22): 2842­53.
+[277] Larsen DL, Olsen CW. Effects of DNA dose, route of vaccination, and coadministration of porcine interleukin-6 DNA on results of DNA vaccination against influenza virus infection in pigs. Am J Vet Res 2002;63(5):653­9.
+[278] Radu DL, et al. Effect of maternal antibodies on influenza virus-specific immune response elicited by inactivated virus and naked DNA. Scand J Immunol 2001;53(5):475­82.
+[279] Pertmer TM, et al. DNA vaccines for influenza virus: differential effects of maternal antibody on immune responses to hemagglutinin and nucleoprotein. J Virol 2000;74(17):7787­93.
+[280] Pertmer TM, Robinson HL. Studies on antibody responses following neonatal immunization with influenza hemagglutinin DNA or protein. Virology 1999;257(2):406­14.
+[281] Radu DL, et al. Plasmid expressing the influenza HA gene protects old mice from lethal challenge with influenza virus. Viral Immunol 1999;12(3):217­26.
+[282] Bender BS, et al. Immunogenicity and efficacy of DNA vaccines encoding influenza A proteins in aged mice. Vaccine 1998;16(18):1748­55.
+[283] Drape RJ, et al. Epidermal DNA vaccine for influenza is immunogenic in humans. Vaccine 2006;24(21):4475­81.
+[284] Hoare M, et al. Bioprocess engineering issues that would be faced in producing a DNA vaccine at up to 100 m3 fermentation scale for an influenza pandemic. Biotechnol Prog 2005;21(6):1577­92.
+[285] Vecino WH, et al. Mucosal immunization with attenuated Shigella flexneri harboring an influenza hemagglutinin DNA vaccine protects mice against a lethal influenza challenge. Virology 2004;325(2): 192­9.
+[286] Arriola JM, et al. Experiencias de campo en el uso de vacunas contra influenza. Proc de Enfermedades Respiratorias de las Aves, Asociacion Nacional de Especialistas en Cienvias Avicolas, Mexico City 1999:3­13.
+[287] Steensels M, et al. Prime-boost with fowlpox vector and inactivated AI vaccine is highly immunogenic in Pekin ducks challenged with Asian H5N1 HPAI. in Vaccination: a tool for the control of avian influenza; An OIE/FAO/IZSVe scientific conference, Verona, 2007.
+[288] Woodberry T, et al. Prime boost vaccination strategies: CD8 T cell numbers, protection, and Th1 bias. J Immunol 2003;170(5):2599­604.
+[289] Degano P, et al. Gene gun intradermal DNA immunization followed by boosting with modified vaccinia virus Ankara: enhanced CD8+ T cell immunogenicity and protective efficacy in the influenza and malaria models. Vaccine 1999;18(7­8):623­32.
+[290] Dewulf J, et al. Uitbraken en bestrijding van klassieke varkenspest, mond- en klauwzeer en hoogpathogene aviaire influenza in de Europese Unie. Vlaams Diergeneeskundig Tijdschrift 2005;74:103­16.
+[291] EC, Council Directive 92/40/EEC of 19 May 1992 introducing Community measures for the control of avian influenza. Official Journal of European Commission. 1992; L167(1).
+[292] Capua I, Alexander DJ. Avian influenza: recent developments. Avian Pathol 2004;33(4):393­404. [293] CEC, Commission Decision 2005/744/EC of 21 October 2005 laying down the requirements for the
+prevention of highly pathogenic avian influenza caused by influenza A virus of subtype H5N1 in susceptible birds kept in zoos in the Member States (notified under document number C 2005 4197), 2005. [294] Capua I, et al. Development of a DIVA (differentiating infected from vaccinated animals) strategy using a vaccine containing a heterologous neuraminidase for the control of avian influenza. Avian Pathol 2003;32(1):47­55. [295] Villarreal-Chavez C, Rivera-Cruz E. An update on avian influenza in Mexico. Avian Dis 2003;47(3 Suppl):1002­5. [296] Villareal DL. Control and eradication strategies of avian influenza in Mexico. Dev Biol (Basel) 2006;124:125­6.
+
+ARTICLE IN PRESS
+
+T. van den Berg et al. / Comp. Immun. Microbiol. Infect. Dis. 31 (2008) 121­165
+
+163
+
+[297] van der Goot JA, et al. Effect of vaccination on transmission of HPAI H5N1: the effect of a single vaccination dose on transmission of highly pathogenic avian influenza H5N1 in peking ducks. Avian Dis 2007;51(1S):323­4.
+[298] AFSSA, Jestin V. Avis de l'Agence relatif a` l'opportunite´ du recours a` la vaccination des volailles domestiques et des oiseaux captifs des parcs zoologiques contre l'influenza aviaire hautement pathoge` ne. 2005. Available online at /http://www.afssa.fr/ftp/afssa/32599-32600.pdfS.
+[299] Capua I, Marangon S. The use of vaccination to combat multiple introductions of notifiable avian influenza viruses of the H5 and H7 subtypes between 2000 and 2006 in Italy. Vaccine 2007;25(20):4064­72.
+[300] van der Goot JA, et al. Quantification of the effect of vaccination on transmission of avian influenza (H7N7) in chickens. Proc Natl Acad Sci USA 2005;102(50):18141­6.
+[301] Philippa J, et al. Vaccination against highly pathogenic avian influenza H5N1 virus in zoos using an adjuvanted inactivated H5N2 vaccine. Vaccine 2007;25(19):3800­8.
+[302] Philippa JD, et al. Highly pathogenic avian influenza (H7N7): vaccination of zoo birds and transmission to non-poultry species. Vaccine 2005;23(50):5743­50.
+[303] Cristalli A, Capua I. Practical problems in controlling H5N1 high pathogenicity avian influenza at village level in Vietnam and introduction of biosecurity measures. Avian Dis 2007;51(1 Suppl): 461­2.
+[304] EC, Commission Decision 2003/291/EC of 25 April 2003 laying down the requirements for the prevention of avian influenza in susceptible birds kept in zoos in Belgium and the Netherlands (notified under document number C (2003) 1439). 2003.
+[305] Obon E, et al. Preliminary results of a field trial using the H5N2 avian influenza vaccine in zoological collections in Dubai. Wildlife Middle East 2006;1(1):4.
+[306] Fish D. What about the ducks? An alternative vaccination strategy. Yale J Biol Med 2005;78(5): 301­8.
+[307] Pastoret PP, Brochier B. Epidemiology and control of fox rabies in Europe. Vaccine 1999;17(13­14): 1750­4.
+[308] Tsao JI, et al. An ecological approach to preventing human infection: vaccinating wild mouse reservoirs intervenes in the Lyme disease cycle. Proc Natl Acad Sci USA 2004;101(52):18159­64.
+[309] Cattoli G, et al. Development and validation of an anti-N3 indirect immunofluorescent antibody test to be used as a companion diagnostic test in the framework of a ``DIVA'' vaccination strategy for avian influenza infections in poultry. Avian Pathol 2006;35(2):154­9.
+[310] DG SANCO, Vaccination against high pathogenic avian influenza (DIVA-strategy). /http:// ec.europa.eu/food/animal/diseases/controlmeasures/avian/discussion_paper.pdfS, 2006, p. 1­21.
+[311] Zhao S, et al. Detection of antibodies to the nonstructural protein (NS1) of avian influenza viruses allows distinction between vaccinated and infected chickens. Avian Dis 2005;49(4):488­93.
+[312] Tumpey TM, et al. Diagnostic approach for differentiating infected from vaccinated poultry on the basis of antibodies to NS1, the nonstructural protein of influenza a virus. J Clin Microbiol 2005; 43(2):676­83.
+[313] Lambrecht B., et al. Development of a M2e-specific ELISA for DIVA testing. In: Avian diseases, sixth international symposium on avian influenza, vol. 51(S1), 2007, p. 221­6.
+[314] Swayne DE, Suarez DL. Highly pathogenic avian influenza. Rev Sci Tech 2000;19(2):463­82. [315] Marangon S, Capua I. Control of avian influenza in Italy: from stamping out to emergency and
+prophylactic vaccination. Dev Biol (Basel) 2006;124:109­15. [316] Naeem K, Siddique N. Use of strategic vaccination for the control of avian influenza in Pakistan.
+Dev Biol (Basel) 2006;124:145­50. [317] Ellis TM, et al. Vaccination of chickens against H5N1 avian influenza in the face of an outbreak
+interrupts virus transmission. Avian Pathol 2004;33(4):405­12. [318] Ellis TM, et al. Use of avian influenza vaccination in Hong Kong. Dev Biol (Basel) 2006;124:133­43. [319] Boyle DB, Coupar BE. Construction of recombinant fowlpox viruses as vectors for poultry vaccines.
+Virus Res 1988;10(4):343­56. [320] Taylor J, et al. Protective immunity against avian influenza induced by a fowlpox virus recombinant.
+Vaccine 1988;6(6):504­8.
+
+ARTICLE IN PRESS
+
+164
+
+T. van den Berg et al. / Comp. Immun. Microbiol. Infect. Dis. 31 (2008) 121­165
+
+[321] Tripathy DN, Schnitzlein WM. Expression of avian influenza virus hemagglutinin by recombinant fowlpox virus. Avian Dis 1991;35(1):186­91.
+[322] Boyle DB, Heine HG. Influence of dose and route of inoculation on responses of chickens to recombinant fowlpox virus vaccines. Vet Microbiol 1994;41(1­2):173­81.
+[323] Webster RG, et al. Immunity to Mexican H5N2 avian influenza viruses induced by a fowl pox-H5 recombinant. Avian Dis 1996;40(2):461­5.
+[324] Boyle DB, Selleck P, Heine HG. Vaccinating chickens against avian influenza with fowlpox recombinants expressing the H7 haemagglutinin. Aust Vet J 2000;78(1):44­8.
+[325] Cheng J, et al. Recombinant fowlpox virus expressing HA from subtype H9N2 of avian influenza virus and its protective immunity against homologous challenge in chickens. Wei Sheng Wu Xue Bao 2002;42(4):442­7.
+[326] Bublot M, et al. Efficacy of a fowlpox-vectored avian influenza H5 vaccine against Asian H5N1 highly pathogenic avian influenza virus challenge. Avian Dis 2007;51(1 Suppl):498­500.
+[327] Qiao C, et al. Vaccines developed for H5 highly pathogenic avian influenza in China. Ann N Y Acad Sci 2006;1081:182­92.
+[328] Andrew ME. Protective efficacy of a recombinant vaccinia virus in vaccinia-immune mice. Immunol Cell Biol 1989;67(Part 5):339­41.
+[329] Andrew ME, et al. Cell-mediated immune responses to influenza virus antigens expressed by vaccinia virus recombinants. Microb Pathog 1986;1(5):443­52.
+[330] Andrew ME, et al. The roles of influenza virus haemagglutinin and nucleoprotein in protection: analysis using vaccinia virus recombinants. Scand J Immunol 1987;25(1):21­8.
+[331] Coupar BE, et al. Temporal regulation of influenza hemagglutinin expression in vaccinia virus recombinants and effects on the immune response. Eur J Immunol 1986;16(12):1479­87.
+[332] Flexner C, et al. Successful vaccination with a polyvalent live vector despite existing immunity to an expressed antigen. Nature 1988;335(6187):259­62.
+[333] Itamura S, et al. Characterization of antibody and cytotoxic T lymphocyte responses to human influenza virus H3 haemagglutinin expressed from the haemagglutinin locus of vaccinia virus. J Gen Virol 1990;71(Part 12):2859­65.
+[334] Rota PA, et al. Comparison of inactivated, live and recombinant DNA vaccines against influenza virus in a mouse model. Virus Res 1990;16(1):83­93.
+[335] Endo A, et al. Homotypic and heterotypic protection against influenza virus infection in mice by recombinant vaccinia virus expressing the haemagglutinin or nucleoprotein of influenza virus. J Gen Virol 1991;72(Part 3):699­703.
+[336] Meitin CA, Bender BS, Small Jr PA. Influenza immunization: intranasal live vaccinia recombinant contrasted with parenteral inactivated vaccine. Vaccine 1991;9(10):751­6.
+[337] Ben-Yehuda A, et al. Recombinant vaccinia virus with influenza hemagglutinin protects old mice from influenza infection. Trans Assoc Am Physicians 1992;105:177­81.
+[338] Ben-Yehuda A, et al. Recombinant vaccinia virus expressing the PR/8 influenza hemagglutinin gene overcomes the impaired immune response and increased susceptibility of old mice to influenza infection. J Infect Dis 1993;168(2):352­7.
+[339] Karupiah G, et al. Recombinant vaccine vector-induced protection of athymic, nude mice from influenza a virus infection. Analysis of protective mechanisms. Scand J Immunol 1992;36(1): 99­105.
+[340] Epstein SL, et al. Beta 2-microglobulin-deficient mice can be protected against influenza A infection by vaccination with vaccinia-influenza recombinants expressing hemagglutinin and neuraminidase. J Immunol 1993;150(12):5484­93.
+[341] Johnson MP, et al. Recombinant vaccinia immunization in the presence of passively administered antibody. Vaccine 1993;11(6):665­9.
+[342] Sutter G, et al. A recombinant vector derived from the host range-restricted and highly attenuated MVA strain of vaccinia virus stimulates protective immunity in mice to influenza virus. Vaccine 1994;12(11):1032­40.
+[343] Bender BS, et al. Oral immunization with a replication-deficient recombinant vaccinia virus protects mice against influenza. J Virol 1996;70(9):6418­24.
+
+ARTICLE IN PRESS
+
+T. van den Berg et al. / Comp. Immun. Microbiol. Infect. Dis. 31 (2008) 121­165
+
+165
+
+[344] Lawson CM, et al. Primary pulmonary cytotoxic T lymphocytes induced by immunization with a vaccinia virus recombinant expressing influenza a virus nucleoprotein peptide do not protect mice against challenge. J Virol 1994;68(6):3505­11.
+[345] Jakeman KJ, Smith H, Sweet C. Mechanism of immunity to influenza: maternal and passive neonatal protection following immunization of adult ferrets with a live vaccinia-influenza virus haemagglutinin recombinant but not with recombinants containing other influenza virus proteins. J Gen Virol 1989;70(Part 6):1523­31.
+[346] Panicali D, et al. Construction of live vaccines by using genetically engineered poxviruses: biological activity of recombinant vaccinia virus expressing influenza virus hemagglutinin. Proc Natl Acad Sci USA 1983;80(17):5364­8.
+[347] Chambers TM, Kawaoka Y, Webster RG. Protection of chickens from lethal influenza infection by vaccinia-expressed hemagglutinin. Virology 1988;167(2):414­21.
+[348] Boyle DB, et al. Responses of cattle, sheep and poultry to a recombinant vaccinia virus expressing a swine influenza haemagglutinin. Res Vet Sci 1986;41(1):40­4.
+[349] De BK, et al. Protection against virulent H5 avian influenza virus infection in chickens by an inactivated vaccine produced with recombinant vaccinia virus. Vaccine 1988;6(3):257­61.
+[350] Webster RG, Reay PA, Laver WG. Protection against lethal influenza with neuraminidase. Virology 1988;164(1):230­7.
+[351] Gu W, et al. Antibody response in the female rabbit reproductive tract to influenza haemagglutinin encoded by a recombinant myxoma virus. Virology 2003;313(1):286­95.
+[352] Tang M, Harp JA, Wesley RD. Recombinant adenovirus encoding the HA gene from swine H3N2 influenza virus partially protects mice from challenge with heterologous virus: A/HK/1/68 (H3N2). Arch Virol 2002;147(11):2125­41.
+[353] Hoelscher MA, et al. Development of adenoviral-vector-based pandemic influenza vaccine against antigenically distinct human H5N1 strains in mice. Lancet 2006;367(9509):475­81.
+[354] Wesley RD, Tang M, Lager KM. Protection of weaned pigs by vaccination with human adenovirus 5 recombinant viruses expressing the hemagglutinin and the nucleoprotein of H3N2 swine influenza virus. Vaccine 2004;22(25­26):3427­34.
+[355] Gao YW, et al. Construction and experimental immunity of recombinant replication-competent canine adenovirus type 2 expressing hemagglutinin gene of H5N1 subtype tiger influenza virus. Wei Sheng Wu Xue Bao 2006;46(2):297­300.
+[356] Bu. H5N1 AI vaccines in China. Presentation at the OIE/FAO/IZSVe meeting on Vaccination: a tool for the control of avain influenza, Verona, Italy, March 20­22, 2007.

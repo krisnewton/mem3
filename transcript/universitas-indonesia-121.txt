@@ -1,0 +1,1668 @@
+UNIVERSITAS INDONESIA
+IDENTIFIKASI KAPANG ENDOFIT ES1, ES2, ES3, DAN ES4 DARI Broussonetia papyrifera Vent.
+DAN PENGUJIAN AKTIVITAS ANTIMIKROBA
+SKRIPSI
+KIRANA LISTIANDIANI 0706263990
+FAKULTAS MATEMATIKA DAN ILMU PENGETAHUAN ALAM DEPARTEMEN BIOLOGI DEPOK JULI 2011
+Identifikasi kapang ..., Kirana Listiandiani, FMIPA UI, 2011
+
+UNIVERSITAS INDONESIA
+IDENTIFIKASI KAPANG ENDOFIT ES1, ES2, ES3, DAN ES4 DARI Broussonetia papyrifera Vent.
+DAN PENGUJIAN AKTIVITAS ANTIMIKROBA
+SKRIPSI
+Diajukan sebagai salah satu syarat untuk memenuhi gelar Sarjana Sains
+KIRANA LISTIANDIANI 0706263990
+FAKULTAS MATEMATIKA DAN ILMU PENGETAHUAN ALAM DEPARTEMEN BIOLOGI DEPOK JULI 2011
+Identifikasi kapang ..., Kirana Listiandiani, FMIPA UI, 2011
+
+Identifikasi kapang ..., Kirana Listiandiani, FMIPA UI, 2011
+
+Identifikasi kapang ..., Kirana Listiandiani, FMIPA UI, 2011
+
+Identifikasi kapang ..., Kirana Listiandiani, FMIPA UI, 2011
+
+Identifikasi kapang ..., Kirana Listiandiani, FMIPA UI, 2011
+
+Identifikasi kapang ..., Kirana Listiandiani, FMIPA UI, 2011
+
+Identifikasi kapang ..., Kirana Listiandiani, FMIPA UI, 2011
+
+Identifikasi kapang ..., Kirana Listiandiani, FMIPA UI, 2011
+
+Identifikasi kapang ..., Kirana Listiandiani, FMIPA UI, 2011
+
+Identifikasi kapang ..., Kirana Listiandiani, FMIPA UI, 2011
+
+Identifikasi kapang ..., Kirana Listiandiani, FMIPA UI, 2011
+
+Identifikasi kapang ..., Kirana Listiandiani, FMIPA UI, 2011
+
+Identifikasi kapang ..., Kirana Listiandiani, FMIPA UI, 2011
+
+Identifikasi kapang ..., Kirana Listiandiani, FMIPA UI, 2011
+
+Identifikasi kapang ..., Kirana Listiandiani, FMIPA UI, 2011
+
+BAB 1 PENDAHULUAN
+Mikroorganisme endofit secara alami hidup di dalam jaringan tumbuhan, namun tidak memberikan dampak negatif terhadap tumbuhan tersebut (Tan dan Zou 2001: 448). Mikroorganisme endofit dapat berupa bakteri atau fungi (Simarmata dkk. 2007: 1--2), namun yang paling banyak ditemukan berupa fungi (kapang atau khamir) (Strobel dan Daisy 2003: 493).
+Salah satu tumbuhan yang menjadi inang untuk kapang endofit adalah Broussonetia papyrifera Vent. (de Errasti dkk. 2010: 29). Broussonetia papyrifera atau paper mulberry merupakan tumbuhan tropis dan termasuk ke dalam famili Moraceae (Whistler dan Elevitch 2006: 1). Tumbuhan B. papyrifera di Jawa Barat dikenal dengan nama saeh (Permadi 2005a: 2--3). Pemanfaatan tumbuhan B. papyrifera di negara-negara Asia Tenggara termasuk Indonesia adalah sebagai bahan pembuatan kertas dan obat-obatan (Whistler dan Elevitch 2006: 8). Kinghorn dkk. (2004: 12) melaporkan bahwa ekstrak tumbuhan B. papyrifera memiliki aktivitas antifungi, antihepatotoksik, dan antioksidan.
+Kapang endofit diisolasi dari organ tumbuhan yang masih dalam keadaan segar dan telah disterilkan permukaannya (Agusta 2009: 3). Isolasi kapang endofit dari sampel tumbuhan dapat dilakukan dengan metode surface sterilization menggunakan hipoklorit dan alkohol 70% sebagai disinfektan (Ando dkk. 2003: 12) dan kemudian sampel tumbuhan tersebut diletakkan pada medium agar (Tan dan Zou 2001: 448). Metode surface sterilization digunakan untuk menghilangkan mikroorganisme epifit pada tumbuhan (Larran dkk. 2001: 1).
+Kapang endofit yang telah diisolasi, umumnya diidentifikasi untuk mengetahui identitas dari kapang tersebut. Identifikasi kapang secara konvensional secara umum dapat dilakukan dengan pengamatan karakter morfologi secara mikroskopik dan makroskopik (Pitt 1979: 24). Tujuan dari pengamatan morfologi adalah memperoleh deskripsi karakter dari suatu kapang. Deskripsi yang diperoleh selanjutnya dibandingkan dengan literatur atau monograf untuk mengetahui identitas kapang tersebut (Gandjar dkk. 1999: 4).
+Kapang endofit dikenal sebagai sumber metabolit sekunder berupa enzim atau senyawa bioaktif lainnya (Kumala dan Siswanto 2007: 145). Sebagai contoh
+
+1
+
+Universitas Indonesia
+
+Identifikasi kapang ..., Kirana Listiandiani, FMIPA UI, 2011
+
+2
+adalah senyawa bioaktif sebagai antimikroba (antibakteri atau antifungi), yang dapat dimanfaatkan dalam bidang kedokteran dan farmasi (Strobel dan Daisy 2003: 493). Hingga saat ini, pencarian akan berbagai senyawa antimikroba masih terus dilakukan. Hal tersebut salah satunya disebabkan oleh berkurangnya efek dari obat-obatan (antibiotik) yang telah ada, seiring dengan terus berkembangnya resistensi dari mikroorganisme penginfeksi seperti Staphylococcus Rosenbach dan Mycobacterium Lehmann & Neumann (Strobel dan Daisy 2003: 491 & 497).
+Berbagai penelitian mengenai kapang endofit sebagai penghasil senyawa antimikroba telah dilaporkan. Kapang endofit Cryptosporiopsis quercina Petr. dari tumbuhan Tripterygium wilfordii Hook.f. menghasilkan senyawa cryptocandin sebagai antifungi yang menghambat pertumbuhan khamir patogen Candida albicans (Robin) Berkhout (Strobel dkk. 1999: 1919). Simarmata dkk. (2007: 90) melaporkan bahwa isolat-isolat kapang endofit dari tanaman sambung nyawa (Gynura procumbens (Lour.) Merr.) mampu menghambat pertumbuhan beberapa mikroorganisme, yaitu C. albicans, Escherichia coli (Migula) Castellani & Chalmers, dan Bacillus subtilis (Ehrenberg) Cohn.
+Pengujian aktivitas antimikroba yang dihasilkan oleh kapang endofit dapat dilakukan dengan metode difusi agar cara cakram (Kumala dkk. 2006: 46). Aktivitas antimikroba ditandai dengan terbentuknya zona hambat di sekeliling cakram yang mengindikasikan terjadinya difusi senyawa antimikroba ke dalam medium agar, sehingga pertumbuhan mikroorganisme yang terkandung di dalam medium tersebut menjadi terhambat (Benson 2001: 143). Beberapa contoh mikroorganisme uji yang umum digunakan antara lain E. coli, B. subtilis, dan C. albicans (Simarmata dkk. 2007: 90).
+Senyawa antimikroba mengandung berbagai macam komponen, baik berupa komponen aktif, maupun komponen tidak aktif. Pemisahan komponenkomponen tersebut dapat dilakukan dengan metode kromatografi lapis tipis (KLT) (Sudirman 2005: 67). Kromatografi lapis tipis adalah salah satu metode kromatografi yang dapat digunakan untuk proses pemisahan komponen penyusun suatu senyawa berdasarkan perbedaan kelarutan dan berat molekul yang terserap pada fase diam (padat) dan terlarut pada fase gerak (cair) (Bishop dkk. 1992: 123).
+Hasil KLT, namun demikian, tidak memberikan informasi mengenai
+Universitas Indonesia Identifikasi kapang ..., Kirana Listiandiani, FMIPA UI, 2011
+
+3
+komponen aktif pada senyawa antimikroba, sehingga perlu dikombinasikan dengan metode bioautografi (Sudirman 2005: 67). Metode bioautografi merupakan metode sederhana yang dapat digunakan untuk menunjukkan adanya aktivitas antimikroba. Metode tersebut menggabungkan penggunaan hasil teknik kromatografi dengan respon dari mikroorganisme yang diuji berdasarkan dari aktivitas biologi dari suatu sampel yang berupa antimikroba (Choma 2005: 1).
+Saat ini University of Indonesia Culture Collection (UICC) telah memiliki isolat-isolat kapang endofit dari daun tumbuhan B. papyrifera, di antaranya tiga isolat yang berasal dari Desa Bejijong (Kota Mojokerto). Namun demikian, identifikasi konvensional berdasarkan karakter morfologi kapang-kapang endofit tersebut belum dilakukan. Selain itu isolasi kapang endofit dari tumbuhan B. papyrifera asal Kota Bandung dan identifikasi konvensional berdasarkan karakter morfologinya belum dilakukan. Kapang-kapang endofit dengan aktivitas antimikroba yang dapat menghambat pertumbuhan mikroorganisme uji (E. coli ATCC 25922, B. subtilis ATCC 6633, dan C. albicans UICC Y-29) belum diketahui. Pemisahan komponen senyawa antimikroba dengan kromatografi lapis tipis (KLT) untuk mengetahui komponen yang memiliki aktivitas antimikroba dengan bioautografi belum dilakukan.
+Penelitian bertujuan untuk mengisolasi kapang endofit dari daun tumbuhan B. papyrifera asal Kota Bandung; mengidentifikasi konvensional berdasarkan karakter morfologi kapang-kapang endofit dari tumbuhan B. papyrifera asal Desa Bejijong dan Kota Bandung; mengetahui aktivitas antimikroba dari kapangkapang endofit terhadap mikroorganisme uji; melakukan pemisahan komponen senyawa antimikroba; dan mengetahui komponen yang memiliki aktivitas antimikroba. Hipotesis dari penelitian adalah diperoleh isolat kapang endofit dari daun tumbuhan B. papyrifera asal Kota Bandung; identitas kapang-kapang endofit dari tumbuhan B. papyrifera asal Desa Bejijong dan Kota Bandung dapat diketahui; terdapat kapang endofit yang memiliki aktivitas antimikroba; senyawa antimikroba dapat terpisah berdasarkan komponen penyusunnya; dan komponenkomponen yang telah terpisah tersebut memiliki aktivitas antimikroba. Target jangka panjang dari penelitian ini adalah senyawa antimikroba yang diperoleh dari kapang endofit dapat dimanfaatkan sebagai bahan dasar berbagai obat-obatan.
+Universitas Indonesia Identifikasi kapang ..., Kirana Listiandiani, FMIPA UI, 2011
+
+BAB 2 TINJAUAN PUSTAKA
+2.1. Fungi
+Fungi merupakan mikroorganisme eukariota (Hanson 2008: 1), memiliki dinding sel yang sebagian besar tersusun atas berbagai polisakarida dan kitin (Kavanagh 2005: 211). Fungi disebut organisme heterotrof karena memanfaatkan senyawa karbon organik sebagai sumber nutrien melalui penyerapan (Campbell dkk. 2003: 185). Fungi mensekresikan enzim ekstraselular untuk mengurai molekul yang bersifat kompleks menjadi bentuk yang lebih sederhana sehingga dapat diserap melalui hifa (Hogg 2005: 199).
+Menurut Deacon (2006: 16), Kingdom Fungi atau Eumycota digolongkan menjadi lima filum, yaitu Chytridiomycota, Zygomycota, Ascomycota, Basidiomycota, dan Glomeromycota. Penggolongan fungi menjadi filum-filum tersebut dilakukan berdasarkan alat reproduksi (spora) seksual yang dihasilkan (Hogg 2005: 199). Alat reproduksi seksual yang dihasilkan adalah zoospora oleh Chytridiomycota; zigospora oleh Zygomycota; askospora oleh Ascomycota; dan basidiospora oleh Basidiomycota (Carlile dkk. 2001: 32, 38, 44, 57). Fungi yang berasal dari filum Glomeromycota melakukan reproduksi dengan menghasilkan spora aseksual yang disebut glomerospora, dan hingga saat ini belum ditemukan spora seksualnya (Schüler dkk. 2001: 1414).
+Berdasarkan morfologi, fungi dapat berupa filamen (filamentous fungi) atau sel tunggal (unicellular fungi). Filamentous fungi terbagi menjadi kapang (mold) dan cendawan (mushroom), sedangkan fungi yang berupa sel tunggal disebut khamir (yeast) (Kavanagh 2005: 2). Kapang merupakan filamentous fungi dan tersusun atas filamen-filamen yang disebut hifa (Benson 2001: 48).
+Peran fungi di alam adalah sebagai saprofit atau parasit (Campbell dkk. 2003: 186). Fungi yang hidup sebagai saprofit menyerap nutrien dari bahan organik yang telah mati, menguraikannya menjadi zat-zat kimia yang lebih sederhana. Fungi yang hidup sebagai parasit yang menyerap nutrien dari sel-sel inang yang masih hidup (Sadava dkk. 2004: 604). Fungi dapat ditemukan hidup
+
+4
+
+Universitas Indonesia
+
+Identifikasi kapang ..., Kirana Listiandiani, FMIPA UI, 2011
+
+5
+bersimbiosis mutualisme dengan tumbuhan. Asosiasi antara fungi dan tumbuhan antara lain berupa lichen, mikoriza, dan endofit (Deacon 2006: 6--7).
+2.2. Fungi Endofit
+Fungi endofit secara alami dapat hidup di dalam jaringan, daun, akar, dan batang tumbuhan tanpa memberikan kerugian bagi tumbuhan tersebut (Khan dkk. 2007: 1). Menurut Simarmata dkk. (2007: 85), hubungan antara fungi endofit dengan tumbuhan inangnya merupakan simbiosis yang saling menguntungkan (mutualisme). Tumbuhan inang memberikan nutrien berupa materi organik dan proteksi bagi fungi endofit (Tan dan Zou 2001: 449). Sebaliknya, bagi tumbuhan inang, fungi endofit memberikan keuntungan berupa proteksi terhadap herbivora, serangga, atau mikroorganisme yang bersifat patogen (Simarmata dkk. 2007: 86).
+Petrini (1991, lihat Agusta 2009: 1--2) mendefinisikan endofit sebagai koloni organisme hidup yang tidak memberikan efek pada suatu jaringan tumbuhan inang, namun pada periode tertentu dapat menimbulkan penyakit. Menurut Photita dkk. (2004: 137), kapang endofit dapat bersifat patogen apabila tumbuhan inang memperoleh tekanan dari lingkungannya, di antaranya ketika inang kekurangan nutrien. Beberapa spesies kapang endofit seperti Cladosporium musae E.W. Mason, Colletotrichum gloeosporioides (Penz.) Sacc., dan Cordana musae (Zimm.) Höhn. diketahui dapat menyebabkan penyakit berupa bintik-bintik hitam pada daun tumbuhan Musa acuminata Colla.
+Menurut Suryanarayanan dkk. (2009: 5), apabila tumbuhan inang suatu fungi endofit mengalami kematian, maka fungi endofit tersebut dapat berkoloni dan mengurai jaringan tumbuhan inang yang telah mati, sehingga perannya berubah dari endofit menjadi saprofit. Oleh karena itu, fungi endofit dapat berubah peran sebagai dekomposer di alam.
+Fungi endofit dapat berupa kapang atau khamir. Beberapa kapang endofit yang telah dilaporkan yaitu: Alternaria alternata (Fr.) Keissl. dan Colletotrichum gloeosporioides dari tumbuhan Lycopersicon esculentum Mill. (Larran dkk. 2001: 181); Phoma chrysanthemicola Hollos dari tumbuhan Calotropis procera (Aiton) W.T. Aiton (Khan dkk. 2007: 2235); Coprinellus
+Universitas Indonesia Identifikasi kapang ..., Kirana Listiandiani, FMIPA UI, 2011
+
+6 micaceus (Bull.) Vilgalys, Hopple, & Jacq. Johnson dan Fusarium lateririum Ness dari tumbuhan Broussonetia papyrifera (de Errasti dkk. 2009: 33). 2.3. Broussonetia papyrifera Vent.
+Broussonetia papyrifera Vent.berasal dari Famili Moraceae. Broussonetia papyrifera merupakan tumbuhan berkayu yang mampu mencapai tinggi 4--15 m. Broussonetia papyrifera memiliki bunga jantan dan betina. Daun tumbuhan B. papyrifera berbentuk oval (ovatus), memiliki 3 lobus (trilobed), serta berukuran panjang 7--20 cm dan lebar 5--15 cm (Backer dan Brink 1965: 15--16). Daun tumbuhan B. papyrifera dimanfaatkan sebagai bahan makanan di Indonesia (Whistler dan Elevitch 2006: 3--8).
+Gambar 2.3. Daun Broussonetia papyrifera asal Bandung
+[Sumber: Dokumentasi pribadi.]
+Persebaran B. papyrifera meliputi daerah beriklim tropis dan tumbuh pada ketinggian 0--1.500 m di atas permukaan laut (Whistler dan Elevitch 2006: 1). Broussonetia papyrifera dapat ditemukan antara lain di Samoa, Hawai, China, Jepang, Korea, Myanmar, Vietnam, Thailand, dan Indonesia (Whistler dan
+Universitas Indonesia Identifikasi kapang ..., Kirana Listiandiani, FMIPA UI, 2011
+
+7
+Elevitch 2006: 4). Persebaran B. papyrifera di Indonesia meliputi pulau Jawa, Sumatera, Kalimantan, Sulawesi, Bali, Papua, dan Maluku (Permadi 2005b: 1--6). Broussonetia papyrifera disebut juga paper mulberry dan di Indonesia dikenal dengan nama laklak (Sumatera Utara), ranta (Sulawesi Selatan), glugu (Jawa dan Madura), atau saeh (Jawa Barat) (Permadi 2005a: 2--3).
+Ekstrak tumbuhan B. papyrifera diketahui memiliki aktivitas antifungi, antihepatotoksik, dan antioksidan. Tumbuhan B. papyrifera telah digunakan sebagai pengobatan impotensi dan ophthalmic disorder di negara China (Kinghorn dkk. 2004: 12). Pemanfaatan lain dari tumbuhan B. papyrifera diantaranya sebagai bahan dasar pembuatan kain tradisional dan kertas di negaranegara Asia Tenggara termasuk Indonesia (Whistler dan Elevitch 2006: 8). Menurut Permadi (2005b: 2), kulit kayu tumbuhan B. papyrifera di Indonesia telah lama dimanfaatkan sebagai bahan pembuatan kertas tradisional yang disebut kertas daluang.
+2.4. Isolasi Kapang Endofit
+Isolasi merupakan cara untuk memisahkan suatu mikroorganisme dari lingkungannya, sehingga diperoleh biakan yang sudah tidak tercampur dengan biakan lain atau disebut biakan murni (Gandjar dkk. 1992: 20). Sebelum dilakukan isolasi, diperlukan perlakuan-perlakuan awal (pretreatments) untuk keberhasilan proses isolasi tersebut. Pretreatments yang dilakukan tergantung dari karakteristik substrat atau inang tempat kapang endofit berada (Ando dkk. 2003: 11). Metode surface sterilization digunakan sebagai perlakuan awal (pretreatment) untuk mengisolasi kapang endofit (Ando dkk. 2003: 12) yang berasal dari organ tumbuhan yang masih dalam keadaan segar (Agusta 2009: 3). Metode tersebut bertujuan menghilangkan mikroorganisme epifit yang berada di permukaan tumbuhan, sehingga koloni yang diperoleh merupakan koloni endofit yang berasal dari dalam jaringan tumbuhan (Larran dkk. 2001: 181).
+Metode surface sterilization menggunakan alkohol dan hipoklorit sebagai disinfektan (Ando dkk. 2003: 12). Disinfektan adalah senyawa kimia yang digunakan dalam proses disinfeksi, yaitu proses mengurangi mikroorganisme
+Universitas Indonesia Identifikasi kapang ..., Kirana Listiandiani, FMIPA UI, 2011
+
+8
+patogen termasuk spora bakteri pada permukaan suatu objek (Rao 2008: 1). Disinfektan dalam metode surface sterilization digunakan untuk menghilangkan mikroorganisme epifit pada tumbuhan (Larran dkk. 2001: 1). Alkohol dan hipoklorit yang digunakan memiliki spektrum aktivitas yang berbeda. Alkohol bekerja dengan cara merusak lapisan membran sel mikroorganisme (Rao 2008: 7). Alkohol dapat melarutkan lipid dan mendenaturasi protein yang ada pada membran sel. Hal tersebut dapat mengganggu fungsi membran sel dalam mengatur transportasi cairan ke dalam dan keluar sel sehingga membuat sel mikroorganisme menjadi lisis (McDonnell dan Russell 1999: 151).
+Alkohol memiliki spektrum aktivitas yang relatif sempit, sehingga dalam proses surface sterilization dikombinasikan dengan disinfektan lain seperti natrium hipoklorit (NaOCl) (Agusta 2009: 3--4). Natrium hipoklorit merupakan senyawa klorin (Rao 2008: 8). Senyawa klorin diketahui mampu menghambat pertumbuhan sel mikroorganisme dengan cara mengganggu proses oksidasi dari enzim-enzim penting sehingga fungsi metabolisme dari sel tersebut terganggu dan sel mikroorganisme tidak dapat tumbuh (Valera dkk. 2009: 557).
+Proses isolasi umumnya diikuti dengan proses pemurnian atau purifikasi untuk mendapatkan kultur murni (Cappuccino dan Sherman 1996: 13). Salah satu teknik pemurnian yang umum digunakan adalah metode quadrant streak. Metode quadrant streak menggunakan jarum inokulasi untuk membantu persebaran selsel mikroorganisme dengan cara menggoreskan ujung jarum tersebut pada medium agar di dalam cawan petri. Proses purifikasi kemudian diikuti dengan inkubasi pada kondisi yang sesuai, hingga diperoleh koloni tunggal yang representatif. Koloni tunggal yang representatif tersebut diasumsikan berasal dari pertumbuhan sel tunggal sehingga seragam secara genetik (Hogg 2005: 85--86).
+2.5. Identifikasi Konvensional Berdasarkan Karakter Morfologi Kapang
+Identifikasi kapang secara konvensional dapat dilakukan dengan pengamatan karakter fenotipik di antaranya karakter morfologi dan selanjutnya dibandingkan dengan deskripsi suatu kapang pada literatur atau monograf. Tujuan dari pengamatan morfologi adalah memperoleh deskripsi dari suatu
+Universitas Indonesia Identifikasi kapang ..., Kirana Listiandiani, FMIPA UI, 2011
+
+9
+kapang untuk mengetahui identitas dari kapang tersebut. Pengamatan karakter morfologi dilakukan secara mikroskopik dan makroskopik (Gandjar dkk. 1999: 4).
+Kapang merupakan fungi yang berasal dari filum Ascomycota dan Zygomycota. Karakter utama yang membedakan kapang dari kedua filum tersebut adalah struktur alat reproduksi seksual atau spora seksual. Spora seksual dari Ascomycota disebut askospora, sedangkan spora seksual dari Zygomycota disebut zigospora (Benson 2001: 49). Apabila ditemukan struktur spora seksual, maka kapang tersebut berada pada fase teleomorf, sedangkan apabila hanya ditemukan struktur spora aseksual maka kapang tersebut berada pada fase anamorf (Webster dan Weber 2007: 32). Apabila hanya terdapat struktur hifa dan tidak ditemukan struktur spora, maka kapang tersebut merupakan hifa steril (Barnett dan Hunter 2003: 34).
+Gambar 2.5.(1). Zigospora dan Askospora [Sumber: Benson 2001: 50.]
+Filum Ascomycota bereproduksi secara seksual menghasilkan askospora. Askospora berada di dalam askus, dan askus terdapat pada tubuh buah atau karpus atau disebut juga askomata. Terdapat empat tipe askomata, yaitu apothecium, perithecium, pseudothecium, dan cleistothecium. Apothecium berbentuk seperti cawan yang lebar, atau seperti cangkir. Perithecium berbentuk seperti labu dengan leher panjang yang pada ujungnya terdapat lubang atau osteol. Pseudothecium berbentuk bulat seperti perithecium yang tidak memiliki leher namun memiliki osteol. Cleistothecium berbentuk bulat bulat yang seluruh permukaannya tertutup oleh hifa-hifa yang rapat mirip suatu dinding yang disebut peridium (Gandjar dkk. 2006: 48--50).
+Universitas Indonesia Identifikasi kapang ..., Kirana Listiandiani, FMIPA UI, 2011
+
+10
+Gambar 2.5.(2). Tipe-tipe karpus seksual yang dihasilkan Ascomycota [Sumber: Gandjar dkk. 2006: 49.] Spora aseksual pada kapang filum Zygomycota disebut sporangiospora karena dihasilkan di dalam suatu struktur kantung yang disebut sporangium. Sporangium dapat berbentuk bulat (seperti ditemukan pada Rhizopus, Mucor, dan Absidia) (Webster dan Weber 2007: 168) atau berbentuk silindris (seperti ditemukan pada Syncephalastrum) (Gandjar dkk. 2006: 62). Spora aseksual pada kapang filum Ascomycota disebut konidiospora atau konidia dan dihasilkan oleh sel konidiogenus atau sel penghasil konidia. Berdasarkan ukurannya, konidia dikelompokkan menjadi makrokonidia dan mikrokonidia (Benson 2001: 48--49). Bentuk dari konidia bervariasi, dapat berbentuk bulat, semibulat, oval, silindris, elips, seperti benang (scolecospora), seperti bulan sabit (lunata), seperti ginjal (reniform), seperti bintang (staurospora), atau berbentuk menggulung (helicospora). Selain itu terdapat jenis-jenis spora aseksual lainnya seperti klamidospora, arthrospora, dan blastokonidia (Gandjar dkk. 2006: 60--62). Hal-hal lain yang harus diperhatikan dalam pengamatan konidia kapang meliputi jumlah sel (uniselular atau multiselular), pengaturan konidia (tunggal, membentuk rantai, atau membentuk klaster), dan pengukuran konidia (Gandjar dkk. 1999: 5).
+Universitas Indonesia Identifikasi kapang ..., Kirana Listiandiani, FMIPA UI, 2011
+
+11
+Gambar 2.5.(3). Berbagai bentuk konidia
+[Sumber: Gandjar dkk. 2006: 61--62. Dengan modifikasi.]
+Kapang tersusun atas filamen-filamen yang disebut hifa. Hifa dapat dibedakan dengan ada atau tidaknya septum atau sekat (Benson 2001: 48). Hifa yang bersekat merupakan karakteristik dari fungi tingkat tinggi (higher fungi) yaitu fungi dari filum Ascomycota (Hogg 2005: 198). Hifa yang memiliki sekat disebut juga hifa septate. Sekat membagi hifa menjadi kompartemenkompartemen (Benson 2001: 48), dan di dalam setiap kompartemen terdapat satu inti sel (Gandjar dkk. 2006: 12). Sebaliknya, hifa yang tidak memiliki sekat dimiliki oleh fungi tingkat rendah (lower fungi), yaitu dari filum Zygomycota. Hifa yang tidak bersekat disebut hifa aseptate, memiliki sejumlah inti sel yang tersebar di dalam sitoplasma sehingga disebut juga hifa coenocytic (Hogg 2005: 198--199). Hal-hal lain yang harus diamati pada hifa adalah pigmentasi, yaitu dapat berpigmentasi hialin (tidak berwarna) atau gelap, dan perhitungan lebar hifa (Gandjar dkk. 1999: 4--5).
+Universitas Indonesia Identifikasi kapang ..., Kirana Listiandiani, FMIPA UI, 2011
+
+12
+Gambar 2.5.(4). Hifa bersekat dan tidak bersekat [Sumber: Benson 2001: 48.] Genus-genus kapang dari filum Ascomycota yang umum ditemukan antara lain adalah Aspergillus Mich. dan Fusarium Link. Aspergillus dapat dikenali dengan adanya struktur konidia yang berbentuk oval, semibulat, atau bulat dan ada membentuk rantai. Konidia melekat pada fialid (sel konidiogenus) dan fialid melekat pada bagian ujung konidiofor yang mengalami pembengkakan atau disebut vesikel. Fialid dapat melekat langsung pada vesikel (tipe sterigmata uniseriat) atau dapat melekat pada struktur metula (tipe sterigmata biseriat) (Samson dkk. 2004: 64). Secara makroskopik, warna koloni Aspergillus bervariasi dari kuning, hijau, kebiruan, putih, hingga hitam (Koneman dan Roberts 1985: 86). Aspergillus merupakan kapang anamorf karena hanya menghasilkan struktur konidia. Teleomorf dari Aspergillus antara lain adalah Eurotium Link. (Webster dan Weber 2007: 32). Eurotium dan Emericella menghasilkan askomata tipe cleistothecium (Samson dkk. 1981: 32).
+Gambar 2.5.(5). Struktur morfologi Aspergillus secara umum
+[Sumber: Benson 2001: 62.]
+Universitas Indonesia Identifikasi kapang ..., Kirana Listiandiani, FMIPA UI, 2011
+
+13
+Gambar 2.5.(6). Struktur morfologi Emericella nidulans [Sumber: Gandjar dkk. 1999: 57.] Fusarium Link. dapat menghasilkan konidia mikrokonidia dan makrokonidia. Mikrokonidia berupa sel tunggal, melekat pada fialid, dan ada yang membentuk rantai. Mikrokonidia tidak atau jarang ditemukan pada beberapa spesies Fusarium. Makrokonidia juga dihasilkan oleh fialid, multiselular (bersekat), dan berbentuk lurus atau sedikit melengkung menyerupai bulan sabit. Beberapa spesies Fusarium dapat menghasilkan klamidospora (Samson dkk. 2004: 120--121). Secara makroskopik koloni Fusarium secara umum berwarna putih, krem, kekuningan, kecokelatan, atau kemerahan. Tekstur dari koloni Fusarium seperti kapas (wooly atau cottony) (Koneman dan Roberts 1985: 91). Fusarium merupakan kapang yang berada pada fase anamorf. Genus teleomorf dari Fusarium antara lain adalah Albonectria Rossman & Samuels dan Cosmospora Rabenhorst. Fase teleomorf ditandai dengan adanya karpus seksual yang berbentuk perithecium pada beberapa spesies (Samson dkk. 2004: 120).
+Universitas Indonesia Identifikasi kapang ..., Kirana Listiandiani, FMIPA UI, 2011
+
+14
+
+Gambar 2.5.(7). Struktur morfologi Fusarium secara umum [Sumber: Samson dkk. 2004: 79.]
+Contoh genus kapang dari filum Zygomycota yang umum ditemukan antara lain adalah Rhizopus Ehrenb. dan Mucor Mich. Rhizopus dan Mucor merupakan kapang yang dapat menghasilkan spora seksual dan aseksual. Spora seksual berupa zigospora terbentuk dari pertemuan dua hifa dengan matting type yang berbeda. Spora aseksual berupa sporangiospora berada dalam sporangium. Sporangium melekat pada sporangiofor, yaitu hifa yang menopang sporangium (Benson 2001: 48--49). Rhizopus dan Mucor memiliki hifa yang tidak bersekat (aseptate) dan memiliki struktur seperti akar yang disebut rhizoid (Webster dan Weber 2007: 182). Pada Mucor terdapat percabangan pada sporangiofor (Samson dkk. 2004: 8).
+
+Mucor
+
+Rhizopus
+
+Gambar 2.5.(8). Struktur umum Mucor dan Rhizopus
+
+[Sumber: Benson 2001: 53.]
+
+Universitas Indonesia Identifikasi kapang ..., Kirana Listiandiani, FMIPA UI, 2011
+
+15
+Selain dilakukan identifikasi dengan pengamatan karakter morfologi secara mikroskopik, dapat dilakukan juga pengamatan karakter koloni atau secara makroskopik. Pengamatan morfologi secara makroskopik kapang dilakukan dengan mengamati karakteristik koloni suatu biakan, antara lain meliputi: warna dan struktur permukaan koloni; ada atau tidaknya tetes eksudat (exudate drops); ada atau tidaknya garis-garis radial (radial furrow) dari pusat ke arah tepi koloni; dan ada atau tidaknya lingkaran konsentris (zonasi). Pengamatan koloni dilakukan sejak awal penanaman hingga beberapa waktu tertentu, dan segala macam perubahan yang terjadi harus dicatat. Selain itu, dalam melakukan pengamatan morfologi kapang juga harus selalu memperhatikan medium yang dipakai, suhu inkubasi, dan umur biakan (Gandjar dkk. 1999: 4).
+2.6. Metabolit Sekunder dari Fungi Endofit
+Fungi secara umum melakukan metabolisme primer dan metabolisme sekunder. Metabolisme primer terdiri dari proses anabolisme dan katabolisme, memanfaatkan nutrien yang berasal dari lingkungannya untuk menghasilkan metabolit primer yang dibutuhkan bagi pertumbuhan fungi. Sebaliknya, senyawa metabolit sekunder yang berasal dari metabolisme sekunder merupakan senyawa tidak dibutuhkan untuk pertumbuhan (Kavanagh 2005: 115). Metabolisme sekunder pada fungi secara umum terjadi pada saat fase pertumbuhan akan segera berakhir dan mulai memasuki fase stasioner. Metabolisme sekunder pada fungi juga diasosiasikan dengan proses diferensiasi dan sporulasi. Fase terjadinya metabolisme sekunder dikenal dengan istilah idiofase (Carlile 2001:516), sehingga metabolit sekunder disebut juga dengan idiolite (Lengeler dkk. 1999: 627). Menurut Devaraju dan Satish (2011:75), metabolit sekunder disekresikan oleh fungi secara ekstraselular.
+Jalur pembentukan (biosynthesis pathways) metabolit sekunder sangat beragam, tergantung dari golongan senyawa yang dihasilkan. Terdapat tiga prekursor utama dalam pembentukan metabolit sekunder, yaitu asam shikimat, asam amino, dan asetil-CoA. Asam shikimat merupakan prekursor dari pembentukan berbagai senyawa aromatik, seperti asam amino aromatik, asam
+Universitas Indonesia Identifikasi kapang ..., Kirana Listiandiani, FMIPA UI, 2011
+
+16
+sinamat, dan berbagai polifenol. Asam amino merupakan prekursor pembentukan senyawa-senyawa alkaloid, dan beberapa antibiotik seperti penisilin dan sefalosporin. Asetil-CoA merupakan prekursor dari pembentukan poliasetilen, prostaglandin, antibiotik makrosiklik, polifenol, dan isoprenoid (terpene, steroid, dan karotenoid) (Mann 1995: 7).
+Jalur pembentukan metabolit sekunder pada fungi yang paling umum ditemukan adalah jalur pembentukan poliketida. Jalur pembentukan poliketida melibatkan asetil-CoA (asetat) sebagai prekursor. Pada jalur pembentukan tersebut, asetil-CoA sebagai prekursor mengalami karboksilasi dan membentuk malonil-CoA, selanjutnya tiga atau lebih molekul malonil-CoA berkondensasi dengan asetil-CoA dan membentuk rantai. Rantai tersebut kemudian membentuk struktur cincin (siklik) dan selanjutnya termodifikasi menjadi berbagai produk metabolit sekunder seperti antibiotik (griseofulvin dari Penicillium griseofulvum), aflatoksin (dari Aspergillus flavus dan A. parasiticus), dan mikotoksin (patulin dari Penicillium patulum). Jalur pembentukan lainnya adalah jalur pembentukan isoprenoid. Jalur pembentukan isoprenoid merupakan jalur biosintesis sterol yang juga melibatkan asetil-CoA sebagai prekursor. Tiga molekul asetil-CoA berkondensasi membentuk asam mevalonat. Asam mevalonat kemudian terkonversi menjadi unit isoprene yang selanjutnya terkondensasi membentuk rantai. Rantai tersebut mengalami serangkaian proses dan modifikasi menghasilkan metabolit sekunder, salah satunya adalah mikotoksin yang dihasilkan oleh Fusarium spp. (Deacon 2006: 133--136).
+Senyawa-senyawa metabolit sekunder yang berasal dari golongan alkaloid, flavonoid, terpenoid, anthrakuinon, alifatik, dan senyawa bioaktif lainnya telah diisolasi dan dikarakterisasi dari fungi endofit (Agusta 2009: 34). Berbagai potensi metabolit sekunder yang dihasilkan oleh fungi dapat dimanfaatkan pada berbagai bidang, di antaranya bidang kedokteran dan farmasi (Strobel dan Daisy 2003: 493). Sebagai contoh adalah senyawa antimikroba, yang sangat berpotensi untuk dikembangkan menjadi bahan baku obat dari berbagai penyakit (Radji 2005: 114). Hingga saat ini, pencarian akan senyawa antimikroba baru masih terus dilakukan. Salah satu penyebabnya adalah berkurangnya efek dari obatobatan (antibiotik) yang telah ada, seiring dengan terus berkembangnya resistensi
+Universitas Indonesia Identifikasi kapang ..., Kirana Listiandiani, FMIPA UI, 2011
+
+17
+dari mikroorganisme penginfeksi (Strobel dan Daisy 2003: 491) Berbagai penelitian mengenai kapang endofit yang memiliki aktivitas
+antimikroba telah dilaporkan. Simarmata dkk. (2007: 90) melaporkan bahwa beberapa isolat kapang endofit dari tanaman sambung nyawa (Gynura procumbens) mampu menghambat pertumbuhan mikroorganisme, yaitu khamir C. albicans, serta bakteri E. coli dan B. subtilis. Rubini dkk. (2005: 27) melaporkan bahwa kapang endofit Gliocladium catenulatum Gilman & Abbott dari tumbuhan Theobroma cacao L. berperan sebagai agen antifungi terhadap fungi patogen Crinipellis perniciosa (Stabel) Singer.
+Kapang endofit juga mampu menghasilkan berbagai metabolit sekunder yang bersifat bioaktif, antara lain senyawa imunosupresif, senyawa antivirus, dan senyawa antikanker. Kapang endofit Taxomyces andreanae Strobel, A. Stierle, D. Stierle & W.M. Hess dari tumbuhan Taxus brevifolia Nutt, mampu menghasilkan senyawa paclitaxel, suatu senyawa antikanker. Kapang endofit Fusarium subglutinans (Wollenw. & Reinking) P.E. Nelson, Toussoun & Marasas dari tumbuhan Tripterigium wilfordii mampu menghasilkan senyawa imunosupresif subglutinol A. Senyawa imunosupresif berpotensi dalam pengobatan penyakitpenyakit autoimun seperti reumathoid arthritis dan insulin-dependent diabetes (Strobel dan Daisy 2003: 498, 500). Kapang endofit Cytonaema sp. mampu menghasilkan senyawa antivirus cytonic acid A dan B. Senyawa tersebut merupakan protease inhibitor dan dapat menghambat cytomegalovirus (Guo dkk. 2000, lihat Radji 2005: 119).
+Gambar 2.6.(1). Subglutinol A, senyawa imunosupresan yang dihasilkan oleh kapang endofit Fusarium subglutinans
+[Sumber: Strobel dan Daisy 2003: 500.]
+Universitas Indonesia Identifikasi kapang ..., Kirana Listiandiani, FMIPA UI, 2011
+
+18
+Gambar 2.6.(2). Cytonic acid A dan B, senyawa antivirus yang dihasilkan oleh kapang endofit Cytonaema sp.
+[Sumber: Tan dan Zou 2001: 457.]
+Gambar 2.6.(3). Paclitaxel, senyawa antikanker yang dihasilkan oleh kapang endofit Taxomyces andreanae
+[Sumber: Strobel dan Daisy 2003: 498.]
+2.7. Senyawa Antimikroba Salah satu jenis metabolit sekunder yang dihasilkan oleh kapang endofit
+adalah senyawa antimikroba (Radji 2005: 114). Senyawa antimikroba merupakan senyawa kimia yang memiliki kemampuan dalam membunuh atau menghambat pertumbuhan mikroorganisme. Berbagai golongan senyawa antimikroba dari fungi endofit yang berhasil diperoleh antara lain: alkaloid, peptida, steroid, terpenoid, fenol, quinon, dan flavonoid (Yu dkk. 2010: 440)
+Universitas Indonesia Identifikasi kapang ..., Kirana Listiandiani, FMIPA UI, 2011
+
+19
+2.7.1. Senyawa Antibakteri
+Senyawa antibakteri merupakan senyawa antimikroba yang dapat menghambat pertumbuhan bakteri. Secara umum senyawa antibakteri dapat diklasifikasikan berdasarkan: spektrum aktivitas, efek terhadap bakteri, dan mekanisme kerja penghambatan (Giguére dkk. 2006: 3--5).
+Berdasarkan spektrum aktivitasnya, senyawa antibakteri terbagi menjadi spektrum luas (broad spectrum) dan spektrum sempit (narrow spectrum). Senyawa antibakteri dengan spektrum luas mampu menghambat pertumbuhan bakteri Gram negatif dan bakteri Gram positif, sedangkan senyawa antibakteri dengan spektrum sempit hanya mampu menghambat pertumbuhan bakteri Gram negatif atau Gram positif (Giguére dkk. 2006: 5).
+Berdasarkan efek terhadap bakteri, senyawa antibakteri dapat bersifat bakteriostatik dan bakterisidal. Bakteriostatik berarti senyawa antibakteri memiliki kemampuan menghambat pertumbuhan sel, yaitu dengan menahan pertumbuhan bakteri pada fase stasioner. Bakterisidal berarti senyawa antibakteri memiliki kemampuan membunuh sel bakteri. Namun demikian, penentuan senyawa antibakteri bersifat bakteriostatik atau bakterisidal tidak absolut karena dipengaruhi berbagai faktor. Penentuan suatu senyawa antibakteri bersifat bakteriostatik atau bakterisidal dapat dipengaruhi oleh konsentrasi senyawa antibakteri, jumlah inokulum bakteri, dan lama pengujian (inkubasi) (Pankey dan Sabath 2004: 864--865).
+Mekanisme kerja penghambatan pertumbuhan bakteri oleh senyawa antibakteri terbagi menjadi empat cara, yaitu menghambat sintesis dinding sel, mengganggu fungsi membran sel, menghambat sintesis protein, dan menghambat sintesis asam nukleat (Black 1999: 342). Penghambatan sintesis dinding sel bakteri terjadi karena kelompok senyawa antimikroba yang memiliki struktur cincin -laktam bekerja dengan mengikat enzim transpeptidase yang berperan dalam proses pembentukan dinding sel. Penghambatan dengan mengganggu fungsi membran sel bakteri terjadi karena senyawa antibakteri bekerja merusak lapisan fospolipid sehingga sel mengalami kebocoran. Penghambatan sintesis protein pada bakteri terjadi karena beberapa senyawa antibakteri bekerja dengan
+Universitas Indonesia Identifikasi kapang ..., Kirana Listiandiani, FMIPA UI, 2011
+
+20
+berikatan pada ribosom subunit 30S sehingga tidak dapat melekat pada subunit 50S. Hal tersebut dapat menghambat proses inisiasi dari sintesis protein. Penghambatan sintesis asam nukleat pada bakteri terjadi karena senyawa antibakteri bekerja dengan mengikat enzim RNA polimerase, sehingga mencegah produksi mRNA (Hogg 2005: 358--364).
+2.7.2. Senyawa Antifungi
+Senyawa antifungi merupakan senyawa antimikroba yang mampu membunuh atau menghambat pertumbuhan fungi (khamir dan kapang). Fungi merupakan mikroorganisme eukariotik, sehingga mekanisme kerja dari senyawa antifungi berbeda dengan senyawa antibakteri. Sebagian besar obat-abatan antifungi yang umum digunakan (polyene, azole) bekerja dengan merusak fungsi membran sel, yaitu melalui pengikatan pada ergosterol yang terdapat pada membran sel fungi (Giguére dkk. 2006: 8). Mekanisme penghambatan juga dapat terjadi dengan cara menghambat sintesis dinding sel, yaitu dengan menghambat biosintesis glukan yang merupakan salah satu komponen penyusun dinding sel fungi (Tortora dkk. 2010: 569).
+Kemampuan kapang endofit sebagai penghasil senyawa antifungi telah dilaporkan. Kapang endofit Cryptosporiopsis quercina dari tumbuhan Trypterigium wilfordii dilaporkan menghasilkan senyawa cryptocandin (Gambar 2.5.2) yang mampu menghambat pertumbuhan patogen C. albicans, Trichophyton mentagrophytes (C.P. Robin) R. Blanch, dan T. rubrum (Castell.) Sabour. (Strobel dan Daisy 2003: 495). Cryptocandin merupakan senyawa antifungi yang berasal dari golongan yang sama dengan senyawa echinocandin (Strobel dkk. 1999: 1925), yaitu antifungi yang bekerja menghambat sintesis dinding sel fungi (Tortora dkk. 2010: 569).
+Universitas Indonesia Identifikasi kapang ..., Kirana Listiandiani, FMIPA UI, 2011
+
+21
+Gambar 2.7.2. Cryptocandin, senyawa antifungi yang dihasilkan oleh kapang endofit Cryptosporiopsis quercina
+[Sumber: Strobel dan Daisy 2003: 496.]
+2.8. Ekstraksi Metabolit Sekunder Ekstraksi merupakan proses pelarutan senyawa kimia yang bersifat terlarut
+dari bahan yang tidak terlarut menggunakan pelarut cair. Ekstraksi dapat menggunakan beberapa pelarut yang berbeda kepolarannya untuk memisahkan suatu senyawa antimikroba yang diinginkan dari senyawa kimia lainnya. Perbedaan kepolaran tersebut merepresentasikan sifat kepolaran dari senyawa antimikroba yang diperoleh (Macek 1983, lihat Muliana 2007: 13). Menurut Rydberg (2004: 3), terdapat beberapa faktor yang memengaruhi ekstraksi seperti interaksi antara pelarut dan zat terlarut; aktivitas larutan pada fase cair; dan jenis pelarut organik yang digunakan.
+Proses ekstraksi untuk mendapatkan senyawa antimikroba dari fungi endofit telah dilaporkan dalam beberapa penelitian. Praptiwi dkk. (2009: 1) dalam penelitiannya menggunakan pelarut etil asetat dan berhasil mengekstraksi senyawa antimikroba fungi endofit dari tumbuhan kayu kuning (Arcangelisia flava (L.) Merr). Penelitian yang dilakukan Tong dkk. (2011: 831) menggunakan pelarut metanol untuk mengekstraksi senyawa antimikroba fungi endofit dari tumbuhan kumis kucing (Ortosiphon stamineus Benth.). Ekstraksi senyawa
+Universitas Indonesia Identifikasi kapang ..., Kirana Listiandiani, FMIPA UI, 2011
+
+22
+lovastatin dari kapang Aspergillus terreus Thom. dilaporkan oleh Férron dkk. (2005: 2). Proses ekstraksi tersebut menggunakan pelarut etil asetat dan dilakukan pada potongan medium agar yang ditumbuhi kapang. Senyawa lovastatin diperkirakan berdifusi ke dalam medium agar dan penambahan pelarut etil asetat bertujuan untuk melarutkan senyawa lovastatin tersebut.
+2.9. Pengujian Aktivitas Antimikroba
+Salah satu pengujian aktivitas antimikroba adalah metode difusi agar cara cakram. Metode tersebut umum digunakan dalam pengujian aktivitas antimikroba karena pengerjaannya mudah dan relatif murah. Secara umum, metode tersebut dilakukan dengan cara meletakkan kertas cakram yang mengandung senyawa antibiotik atau antimikroba di atas medium agar yang telah diinokulasikan dengan mikroorganisme uji, dan kemudian diinkubasi pada kondisi yang sesuai (Collins dkk. 2004: 168--171).
+Senyawa antimikroba yang terkandung dalam kertas cakram akan berdifusi ke segala arah (radial). Aktivitas antimikroba dari metode difusi agar cara cakram ditandai dengan terbentuknya zona hambat atau zona bening (clear zone) di sekitar cakram yang mengindikasikan terhambatnya pertumbuhan mikroorganisme oleh senyawa antimikroba tersebut (Benson 2001: 143). Diameter zona hambat yang terbentuk menunjukkan aktivitas suatu senyawa antimikroba dalam menghambat pertumbuhan mikroorganisme (Benson 2001: 145). Aktivitas suatu senyawa antimikroba juga dapat ditentukan dari jenis zona hambat yang terbentuk, yaitu dapat berupa zona hambat total dan zona hambat parsial (Madigan dkk. 2000: 751).
+Zona total ditandai dengan zona hambat yang bening sempurna. Hal tersebut menunjukkan bahwa senyawa antimikroba yang diuji mampu membunuh mikroorganisme sehingga tidak terdapat lagi pertumbuhan sel. Zona parsial ditandai dengan zona hambat yang tidak bening sempurna. Hal tersebut disebabkan masih terdapat pertumbuhan mikroorganisme. Zona hambat parsial menunjukkan bahwa senyawa antimikroba tidak mampu menghambat pertumbuhan seluruh mikroorganisme di sekitar cakram, sehingga masih terdapat
+Universitas Indonesia Identifikasi kapang ..., Kirana Listiandiani, FMIPA UI, 2011
+
+23
+pertumbuhan koloni mikroorganisme (Poeloengan 2009: 65--66).
+Gambar 2.9. Difusi Agar Cara Cakram
+[Sumber: Benson 2001: 143.]
+Aktivitas dari suatu senyawa antimikroba dalam membunuh atau menghambat pertumbuhan mikroorganisme juga dapat dipengaruhi oleh berbagai faktor lainnya. Faktor-faktor tersebut dapat berupa kemampuan difusi senyawa antimikroba, konsentrasi senyawa antimikroba yang terserap dalam kertas cakram, jumlah inokulum yang terkandung dalam medium, dan tipe medium (Benson 2001: 145).
+Berbagai penelitian tentang pengujian aktivitas antimikroba menggunakan metode difusi agar cara cakram telah dilaporkan. Taqwim (2007: 36--38) melakukan uji antibakteri terhadap Staphylococcus aureus, B. subtilis, E. coli, dan Pseudomonas aeruginosa. Hasil pengujian menggunakan metode difusi agar cara cakram menunjukkan 10 isolat kapang endofit dari tumbuhan Garcinia forbesii King memiliki aktivitas antibakteri yang ditunjukkan dengan terbentuknya zona hambat di sekitar kertas cakram. Metode difusi agar cara cakram juga digunakan oleh Muliana (2007: 84--85) dan menunjukkan 4 isolat kapang serasah memiliki aktivitas antibakteri terhadap Staphylococcus aureus dan B. subtilis
+Universitas Indonesia Identifikasi kapang ..., Kirana Listiandiani, FMIPA UI, 2011
+
+24
+2.10. Mikroorganisme Uji
+Mikroorganisme yang umum digunakan dalam pengujian aktivitas senyawa antimikroba antara lain adalah bakteri Gram negatif Escherichia coli, bakteri Gram positif Bacillus subtilis, dan khamir Candida albicans. Penggunaan mikroorganisme uji yang berasal dari kelompok berbeda dapat digunakan untuk mengetahui spektrum aktivitas dari suatu senyawa antimikroba (Giguére dkk. 2006: 5). Penggunaan E. coli, B. subtillis, dan C. albicans sebagai mikroorganisme uji telah banyak dilaporkan. Srimathi dkk. (2001: 13) menggunakan E. coli ATCC 25922 sebagai mikroorganisme uji untuk mengetahui aktivitas antimikroba yang dihasilkan Chaetomium atrobrunneum Ames. Kumala dkk. (2006: 46) menggunakan E. coli ATCC 25922, B. subtilis ATCC 6633, dan C. albicans ATCC 10231 sebagai mikroorganisme uji untuk mengetahui aktivitas antimikroba dari kapang endofit tumbuhan trengguli (Cassia futula L.).
+Escherichia coli merupakan bakteri Gram negatif berbentuk batang pendek berukuran 0,5 m x (1,0--3,0) m, mampu memfermentasi berbagai macam gula (glukosa, galaktosa, fruktosa, laktosa, maltosa) menghasilkan asam dan gas. Secara alami E. coli dapat ditemukan berada pada saluran pencernaan manusia (Salle 1954: 698). Secara biokimia, E. coli menunjukkan hasil positif dalam uji Indol dan Methyl Red, namun untuk uji Voges Proskauer dan uji sitrat hasilnya negatif (Barrow dan Feltham 1993: 135--136). Escherichia coli diketahui dapat menyebabkan infeksi pada saluran pencernaan manusia seperti penyakit diare dan muntah-muntah (Ryan dan Ray 2004: 356).
+Bacillus subtilis merupakan bakteri Gram positif dan dapat memproduksi endospora. Bakteri tersebut berbentuk batang dan berukuran (0,7--0,8) m x (2-3) m, koloni umumnya berwarna krem, permukaannya kusam, dan tepi koloni tidak rata. Bacillus subtilis hidup pada kondisi aerobik dan memiliki pH optimum 5,5--8,5. Kisaran suhu pertumbuhan B. subtilis adalah 5--55ºC, dengan suhu optimum 20--45ºC. Bacillus subtilis memiliki kemampuan memfermentasi glukosa menghasilkan asam dan asetoin, selain itu juga mampu menghidrolisis pati (Buchanan dan Gibbons 1974: 531--533). Bakteri tersebut diketahui sebagai penyebab kontaminasi dan kerusakan produk makanan (Collins dkk. 2004: 363).
+Universitas Indonesia Identifikasi kapang ..., Kirana Listiandiani, FMIPA UI, 2011
+
+25
+Bacillus subtilis dapat menyebabkan infeksi pada mata, jaringan halus, dan paru-paru, namun hal tersebut relatif jarang terjadi (Ryan dan Ray 2004: 307). Candida albicans berbentuk bulat hingga oval, memiliki diameter sel 3--6 m dan memiliki koloni berwarna putih hingga krem (Barnett dkk. 2000: 130). Kisaran suhu untuk pertumbuhan C. albicans adalah 20--40ºC, dan khamir tersebut dapat tumbuh pada lingkungan dengan kisaran pH 2--8. Candida albicans memiliki kemampuan memfermentasi berbagai jenis gula (glukosa, maltosa, sukrosa, dan xilosa) (Wilson 2005: 221). Khamir tersebut merupakan khamir dimorfik yang dapat tumbuh dalam fase uniselular atau fase filamen tergantung pada kondisi lingkungan sekitarnya (Mc Creath dkk. 1994: 2244). Candida albicans dapat menyebabkan infeksi pada rongga mulut, tenggorokan, vagina, dan kulit. Penyakit infeksi yang disebabkan Candida disebut candidosis atau kandidiasis. Candida albicans merupakan khamir oportunistik, dan keberadaannya tidak membahayakan apabila tubuh manusia dalam kondisi sehat (Spencer dan Spencer 1997: 61--62).
+2.11. Kromatografi Lapis Tipis (KLT) dan Bioautografi
+Kromatografi adalah sebuah teknik pemurnian biomolekul berdasarkan atas perbedaan interaksi molekul antara fase diam dan fase gerak (Sherma dan Fried 2003: 1). Metode kromatografi dapat dilakukan untuk proses pemisahan komponen-komponen dari suatu senyawa (Sudirman 2005: 67). Salah satu metode kromatografi yang dapat digunakan untuk proses pemisahan tersebut adalah kromatografi lapis tipis (KLT) atau thin layer chromatography (TLC). Kromatografi lapis tipis memisahkan komponen-komponen dari suatu senyawa berdasarkan perbedaan berat molekul dan kepolaran antara sampel dengan pelarut yang digunakan (Sharma dkk. 2009: 24). Fase diam pada KLT berupa plat silika, sedangkan fase gerak berupa pelarut maupun campuran pelarut yang disebut eluen (Sherma dan Fried 2003: 1--3).
+Pelarut atau eluen sebagai fase gerak berperan penting pada keberhasilan KLT. Kelarutan antara senyawa dengan eluen bergantung kepada sifat kepolaran dari masing-masing komponen. Pemilihan jenis-jenis eluen yang berbeda
+Universitas Indonesia Identifikasi kapang ..., Kirana Listiandiani, FMIPA UI, 2011
+
+26
+kepolarannya dalam KLT dapat digunakan untuk menguji suatu senyawa yang belum diketahui identitasnya. Hal tersebut bertujuan untuk mengetahui polaritas dari suatu senyawa uji (Yulia 2005: 80).
+Senyawa antimikroba dari bahan alam pada umumnya merupakan senyawa yang tidak berwarna (Kusumaningtyas dkk. 2008: 77), sehingga diperlukan teknik visualisasi untuk mengetahui bercak yang terbentuk pada kromatogram. Teknik visualisasi dapat menggunakan pencahayaan sinar ultraviolet (UV) atau menggunakan reagen kimia. Visualisasi dengan sinar UV menggunakan sinar dengan panjang gelombang 254 nm dan 365 nm. Panjang gelombang 365 nm akan membuat komponen senyawa yang telah terpisah terlihat berwarna merah, kuning, hijau, biru, atau ungu, sedangkan pelat KLT yang menjadi latar belakang akan terlihat gelap (Sherma dan Fried 2003: 208 & 215).
+Hasil KLT, namun demikian, tidak memberikan informasi mengenai komponen yang bersifat aktif pada senyawa antimikroba, sehingga perlu dikombinasikan dengan metode bioautografi (Sudirman 2006: 67). Metode bioautografi merupakan metode sederhana yang dapat digunakan untuk menunjukkan adanya aktivitas antimikroba. Metode tersebut menggabungkan penggunaan hasil teknik kromatografi dengan respon dari mikroorganisme yang diuji berdasarkan atas aktivitas biologi dari suatu sampel yang berupa antimikroba (Choma 2005: 1).
+Metode bioautografi terbagi menjadi bioautografi kontak, bioautografi agar overlay, dan bioautografi langsung. Bioautografi kontak dilakukan dengan meletakkan hasil kromatogram suatu senyawa ke permukaan medium agar yang sudah mengandung mikroorganisme uji. Bioautografi agar overlay menggunakan lempeng kromatogram yang dilapisi medium agar cair yang berisi mikroorganisme uji. Bioautografi langsung dilakukan dengan menyemprot lempeng kromatogram dengan mikroba uji, dan selanjutnya diinkubasi. Zona hambat yang terbentuk divisualisasikan dengan menyemprotkan pewarna tetrazolium dye (Choma 2005: 1--2).
+Masoko dan Eloff (2006: 1625) melaporkan penggunaan metode KLTbioautografi untuk mendeteksi senyawa antifungi dari Combretum spp. terhadap C. albicans, Cryptococcus neoformans (San Felice) Vuill., Aspergillus fumigatus,
+Universitas Indonesia Identifikasi kapang ..., Kirana Listiandiani, FMIPA UI, 2011
+
+27 Microsporum canis (E. Bodin) E. Bodin, dan Sporothrix schenckii Hektoen & C.F. Perkins. Metode KLT-bioautografi juga digunakan oleh Zheng dkk. (2005: 204) untuk melakukan penapisan dan identifikasi senyawa antibakteri yang dihasilkan oleh bakteri laut yang hidup berasosiasi dengan spons Hymeniacidon perleve (Montagu) terhadap B. subtilis, S. aureus, E. coli, Agrobacterium tumifaciens Smith & Townsend dan Saccharomyces cerevisiae Meyen ex E.C. Hansen. Senyawa antimikroba dari bakteri laut yang berhasil dipisahkan dengan KLT tersebut selanjutnya dibioautografi dan menunjukkan aktivitas antimikroba terhadap mikroorganisme uji.
+Universitas Indonesia Identifikasi kapang ..., Kirana Listiandiani, FMIPA UI, 2011
+
+BAB 3 METODOLOGI PENELITIAN
+3.1. Lokasi dan Waktu Penelitian
+Penelitian dilakukan di Laboratorium Mikrobiologi Departemen Biologi dan Laboratorium Center of Excellence for Indigenous Biological ResourcesGenome Studies (CoE IBR-GS), Depok mulai Februari hingga Mei 2011.
+3.2. Alat
+Alat-alat yang digunakan adalah autoklaf [Hirayama], oven [Heraeus], lemari pendingin [Gassio], kompor listrik [Sanyo], pemanas air [Sharp], timbangan digital [And EW-300 G], timbangan analitik [Sartorius], mikroskop cahaya [Boeco], mikroskop trinokular [Carl Zeiss], vorteks [Bio-Rad], tube mixer [Heidolph], bejana KLT, lampu UV (handheld), mikropipet [Gilson], tips mikropipet, tabung Eppendorf, tabung polypropylene [Iwaki], transfer box, erlenmeyer, gelas beaker, gelas ukur, jangka sorong, cawan Petri steril, tabung reaksi, rak tabung reaksi, jarum tanam tajam, jarum tanam bulat (ose), pipet, pinset, gunting, botol alkohol, dan pembakar spiritus.
+3.3. Bahan
+3.3.1. Sampel Tumbuhan
+Sampel yang digunakan adalah daun tumbuhan Broussonetia papyrifera yang berasal dari Kota Bandung.
+3.3.2. Mikroorganisme
+Mikroorganisme yang digunakan adalah isolat-isolat kapang endofit dari daun Broussonetia papyrifera asal Desa Bejijong (Kota Mojokerto), berjumlah 3 isolat dengan kode ES1, ES2, dan ES3. Bakteri uji yang digunakan adalah E. coli
+
+28
+
+Universitas Indonesia
+
+Identifikasi kapang ..., Kirana Listiandiani, FMIPA UI, 2011
+
+29
+ATCC 25922 dan B. subtilis ATCC 6633, sedangkan khamir uji yang digunakan adalah C. albicans UICC Y-29.
+3.3.3. Medium
+Potato Dextrose Agar (PDA) digunakan untuk pertumbuhan dan pemeliharaan isolat kapang endofit. Medium Nutrient Agar (NA) digunakan untuk pertumbuhan dan medium uji untuk bakteri. Medium Yeast Malt Agar (YMA) digunakan untuk pertumbuhan dan medium uji untuk khamir. Medium Plate Count Agar (PCA) untuk purifikasi kapang endofit dan khamir uji.
+3.3.4. Bahan Kimia
+Bahan kimia yang digunakan adalah NaOCl 1,78% [Bayclin], lactophenol cotton blue [Merck], tetrasiklin [Kimia Farma], kloramfenikol [Wako], nistatin [Pharos], alkohol 70% teknis, etanol 96% p.a. [Merck], aseton teknis, pelarut metanol 99,8% [Riedel-de Haën], pelarut n-heksana 99% [Merck], dan pelarut etil asetat 99,5% [Merck].
+3.3.5. Bahan Habis Pakai
+Bahan habis pakai yang digunakan adalah plastik tahan panas [Bell], masker, tissue gulung, kertas Yellow Pages, karet gelang, kertas saring, kertas cakram (paper disk) 6 mm [Fioroni], pelat KLT Silica Gel 60 F254 [Merck]. 3.4. Cara Kerja
+Skema cara kerja penelitian terdapat pada lampiran 1--8.
+Universitas Indonesia Identifikasi kapang ..., Kirana Listiandiani, FMIPA UI, 2011
+
+30
+3.4.1. Pembuatan Medium
+3.4.1.1. Potato Dextrose Agar (PDA)
+Pembuatan medium PDA berdasarkan instruksi pada kemasan. Medium PDA dibuat dengan melarutkan 39 g bubuk PDA dengan akuades hingga volume akhir mencapai 1 liter. Medium kemudian dipanaskan dengan penangas air hingga mendidih. Selanjutnya medium disterilkan menggunakan autoklaf selama 15 menit dengan suhu 121°C dan tekanan 2 atm. Medium yang telah steril disimpan pada suhu ruang hingga mengeras.
+3.4.1.2. Plate Count Agar (PCA)
+Pembuatan medium PCA berdasarkan instruksi pada kemasan. Medium PCA dibuat dengan melarutkan 23,5 g bubuk PCA dengan akuades hingga volume akhir mencapai 1 liter. Medium kemudian dipanaskan dengan penangas air hingga mendidih. Selanjutnya medium disterilkan menggunakan autoklaf selama 15 menit dengan suhu 121°C dan tekanan 2 atm. Medium yang telah steril disimpan pada suhu ruang hingga mengeras.
+3.4.1.3. Nutrient Agar (NA)
+Pembuatan medium NA berdasarkan instruksi pada kemasan. Medium NA dibuat dengan melarutkan 31 g bubuk NA dengan akuades hingga volume akhir mencapai 1 liter. Medium kemudian dipanaskan dengan penangas air hingga mendidih. Selanjutnya medium disterilkan menggunakan autoklaf selama 15 menit dengan suhu 121°C dan tekanan 2 atm. Medium yang telah steril disimpan pada suhu ruang hingga mengeras.
+Universitas Indonesia Identifikasi kapang ..., Kirana Listiandiani, FMIPA UI, 2011
+
+31
+3.4.1.4. Yeast Malt Agar (YMA)
+Pembuatan medium YMA berdasarkan Gandjar dkk. (1992: 83). Medium YMA dibuat dengan melarutkan yeast extract 3 g, malt extract 3 g, agar 15 g, pepton 5 g, glukosa 10 g, dengan akuades hingga volume akhir mencapai 1 liter. Medium kemudian dipanaskan dengan penangas air hingga mendidih. Selanjutnya medium disterilkan menggunakan autoklaf selama 15 menit dengan suhu 121°C dan tekanan 2 atm. Medium yang telah steril disimpan pada suhu ruang hingga mengeras.
+3.4.2. Isolasi Kapang Endofit
+Isolasi kapang endofit dari daun tanaman B. papyrifera menggunakan metode surface sterilization berdasarkan Wenny dan Dumroese (1987: 18--19). Tahap isolasi diawali dengan memotong sampel daun menjadi potongan-potongan kecil berukuran sekitar 1 cm2 di dalam suatu cawan Petri steril. Selanjutnya potongan daun dimasukkan ke dalam tabung polypropylene steril dan ditambahkan 10 ml NaOCl 1,78% untuk kemudian divorteks selama 5 menit. Larutan NaOCl tersebut kemudian dibuang. Akuades steril ditambahkan ke dalam tabung polypropylene dan kembali divorteks selama 5 menit. Pembilasan dengan akuades steril tersebut diulang sebanyak 3 kali. Potongan daun ditiriskan di atas kertas saring untuk menyerap sisa air yang tertinggal, kemudian daun tersebut diletakkan di atas permukaan medium PCA dalam cawan petri. Cawan petri diinkubasi pada suhu ruang selama 4--7 hari hingga terdapat pertumbuhan koloni kapang endofit.
+3.4.3. Pemurnian Mikroorganisme
+Pemurnian biakan kapang, khamir, dan bakteri menggunakan metode quadrant streak berdasarkan Benson (2001: 85). Isolat dari original culture diinokulasi menggunakan jarum tanam tajam dengan cara digoreskan pada medium PCA (untuk kapang dan khamir), dan medium NA (untuk bakteri).
+Universitas Indonesia Identifikasi kapang ..., Kirana Listiandiani, FMIPA UI, 2011
+
+32
+Biakan digoreskan pada empat kuadran medium. Jarum tanam tajam disterilkan menggunakan pembakar spiritus pada saat menggores dari satu kuadran ke kuadran lain. Medium-medium tersebut kemudian diinkubasi pada suhu ruang dalam keadaan terbalik selama beberapa hari (untuk kapang hingga bersporulasi) dan diperoleh koloni tunggal yang representatif.
+3.4.4. Pembuatan Stock Culture dan Working Culture
+Pembuatan stock culture dan working culture dilakukan dengan menginokulasi koloni tunggal biakan kapang, khamir, dan bakteri hasil purifikasi ke dalam 4 tabung reaksi berisi medium agar miring. Medium yang digunakan adalah medium PDA untuk kapang, YMA untuk khamir, dan NA untuk bakteri. Inokulasi biakan kapang dengan metode streak menggunakan jarum tanam tajam. Inokulasi biakan khamir dan bakteri menggunakan jarum tanam bulat (ose). Keempat tabung reaksi berisi masing-masing biakan diinkubasi pada suhu ruang selama 4--7 hari untuk biakan kapang (hingga terjadi sporulasi), 48 jam untuk biakan khamir, dan 24 jam untuk biakan bakteri. Dua tabung biakan digunakan sebagai working culture dan disimpan pada suhu ruang, sedangkan dua tabung lainnya digunakan sebagai stock culture dan disimpan pada suhu 4°C dalam lemari pendingin.
+3.4.5. Identifikasi Konvensional dengan Pengamatan Karakter Morfologi Kapang
+Identifikasi kapang endofit dilakukan dengan pengamatan karakter morfologi kapang. Hal-hal yang perlu diamati pada pengamatan karakter morfologi secara mikroskopik meliputi ada atau tidak, jenis, bentuk, dan ukuran spora seksual dan spora aseksual; struktur penghasil spora seksual dan spora aseksual; jenis hifa kapang, pigmentasi, dan pengukuran lebar hifa kapang; serta karakter lainnya. Pengamatan menggunakan mikroskop cahaya atau mikroskop trinokular, diawali dari perbesaran terkecil hingga terbesar. Pengukuran dilakukan dengan mikrometer yang terdapat pada lensa okuler mikroskop cahaya,
+Universitas Indonesia Identifikasi kapang ..., Kirana Listiandiani, FMIPA UI, 2011
+
+33
+atau dengan menggunakan program Infinity Analyze yang terhubung dengan mikroskop trinokular.
+Pengamatan morfologi kapang secara makroskopik dilakukan sejak hari pertama penanaman pada medium PDA dalam cawan petri. Inokulasi kapang ke medium PDA dilakukan dengan teknik stab. Satu stab dilakukan pada pusat medium, sehingga akan dihasilkan satu koloni kapang. Pengamatan morfologi kapang secara makroskopik meliputi warna dan tekstur koloni, ada tidaknya tetes eksudat (exudate drops), sporulasi, zonasi, garis-garis radial (radial furrow), zona pertumbuhan (growing zone), serta pengamatan sebalik koloni (reverse colony). Hal-hal lain yang perlu dicatat dan diperhatikan adalah umur biakan, medium untuk pertumbuhan, dan suhu inkubasi.
+Seluruh hasil pengamatan berupa deskripsi kapang selanjutnya dibandingkan dengan literatur atau monograf untuk mengetahui identitas kapang tersebut. Literatur yang digunakan antara lain: Introduction of Food and Airborne-Fungi oleh Samson dkk. (2004), Practical laboratory mycology oleh Koneman dan Roberts (1985), dan Identification of common Aspergillus species oleh Klich (2002).
+3.4.6. Pengujian Aktivitas Antimikroba dengan Blok Agar
+Isolat kapang endofit ditumbuhkan pada medium PDA dalam cawan Petri dan diinkubasi pada suhu ruang selama 4--7 hari (hingga sporulasi penuh). Selanjutnya medium agar yang ditumbuhi kapang endofit dipotong menjadi persegi empat berukuran 1 x 1 cm.
+Sebanyak 0,2 ml kultur bakteri umur 24 jam atau khamir umur 48 jam dengan kepadatan 106CFU/ml dicampurkan dengan 15 ml medium agar steril yang masih cair. Medium agar yang digunakan adalah medium NA untuk biakan bakteri dan YMA untuk biakan khamir. Selanjutnya campuran mikroorganisme dan medium dituang ke dalam cawan Petri dan dibiarkan mengeras.
+Potongan agar berukuran 1 x 1 cm yang ditumbuhi kapang endofit segera diletakkan di atas medium NA atau YMA yang telah mengandung mikroorganisme uji. Selanjutnya cawan Petri diinkubasi pada suhu ruang selama
+Universitas Indonesia Identifikasi kapang ..., Kirana Listiandiani, FMIPA UI, 2011
+
+34
+24 jam untuk bakteri dan 24--48 jam untuk khamir. Aktivitas antimikroba dari pengujian dengan blok agar ditandai dengan terbentuknya zona hambat disekitar potongan agar yang menunjukkan bahwa isolat kapang endofit tersebut memiliki aktivitas antimikroba.
+3.4.7. Ekstraksi Senyawa Antimikroba dari Kapang Endofit
+Ekstraksi senyawa antimikroba dilakukan berdasarkan Férron dkk. (2005: 125) dengan modifikasi. Modifikasi yang dilakukan adalah sebagai berikut: kapang endofit dengan aktivitas antimikroba hasil pengujian dengan blok agar ditanam pada seluruh permukaan medium PDA dalam cawan Petri dan diinkubasi selama 4--7 hari hingga bersporulasi. Kapang pada medium PDA dalam cawan Petri tersebut dipotong-potong dan dibagi menjadi tiga bagian sama banyak. Potongan agar kemudian dimasukkan ke dalam tiga tabung polypropylene dengan menggunakan spatula. Tiga mililiter pelarut (metanol, etil asetat, dan n-heksana) masing-masing dimasukkan ke dalam setiap tabung. Potongan agar yang mengandung kapang endofit kemudian dihaluskan dengan cara digerus menggunakan spatula. Selanjutnya ekstrak cair diambil sebanyak 1 ml dan dimasukkan ke dalam tabung Eppendorf. Ekstraksi diulang dengan menambahkan pelarut sebanyak 1 ml kedalam tabung polypropylene dan kembali dikocok menggunakan tube mixer selama 5 menit. Ekstrak cair kembali diambil sebanyak 0,5 ml ke dalam tabung Eppendorf. Selanjutnya tabung kembali dimasukkan pelarut 1 ml, dikocok dengan tube mixer selama 5 menit. Ekstrak cair diambil sebanyak 1 ml dan dimasukkan ke dalam tabung Eppendorf.
+Ekstrak senyawa antimikroba kapang endofit tersebut kemudian didiamkan selama 2--3 jam sehingga terbentuk dua lapisan, yaitu ekstrak cair (pelarut yang mengandung senyawa antimikroba) dan lapisan padat yang berupa sisa biomassa. Ekstrak cair dipisahkan dari biomassa dengan memindahkannya ke dalam tabung Eppendorf baru.
+Universitas Indonesia Identifikasi kapang ..., Kirana Listiandiani, FMIPA UI, 2011
+
+35
+3.4.7. Pengujian Aktivitas Antimikroba Ekstrak Kapang Endofit Terhadap Mikroorganisme Uji dengan Difusi Agar Cara Cakram
+Pengujian aktivitas antimikroba menggunakan difusi agar cara cakram berdasarkan Benson (2001: 143). Mikroorganisme uji yang digunakan adalah bakteri Gram positif B. subtilis, bakteri Gram negatif E. coli, dan khamir C. albicans. Sebanyak 0,2 ml kultur bakteri atau khamir dengan kepadatan 106CFU/ml dicampurkan dengan 15 ml medium agar steril. Medium yang digunakan adalah medium NA untuk biakan bakteri dan YMA untuk biakan khamir. Selanjutnya campuran mikroorganisme dan medium dimasukkan ke dalam cawan Petri dan dibiarkan mengeras. Medium agar kemudian dibagi menjadi 4 kuadran.
+Paper disk steril berdiameter 6 mm dan berkapasitas 20 µl dicelupkan ke dalam masing-masing ekstrak kapang endofit (ekstrak dalam metanol, etil asetat, dan n-heksana). Selanjutnya paper disk diletakkan secara aseptik pada kuadran 1 medium NA berisi bakteri uji atau medium YMA berisi khamir uji. Sebagai kontrol positif, pada kuadran 2 medium NA atau YMA diletakkan paper disk yang telah mengandung 20 µl antibiotik tetrasiklin 500 ppm untuk pengujian terhadap bakteri, atau nistatin 1.000 ppm untuk pengujian terhadap khamir. Sebagai kontrol negatif, pada kuadran 3 medium NA atau YMA diletakkan paper disk yang telah mengandung 20 µl pelarut (metanol, etil asetat, atau n-heksana). Sebagai kontrol medium, pada kuadran 4 medium NA atau YMA diletakkan paper disk yang telah mengandung 20 µl akuades steril. Pengulangan untuk setiap perlakuan dilakukan sebanyak 3 kali. Inkubasi medium berisi mikroorganisme uji dilakukan pada suhu ruang (27°C) selama 24 jam untuk bakteri, atau 24--48 jam untuk khamir. Aktivitas antimikroba ditandai dengan terbentuknya zona hambat yang mengindikasikan terhambatnya pertumbuhan mikroorganisme oleh ekstrak kapang endofit tersebut. Diameter zona hambat yang terbentuk diukur dengan jangka sorong. Indeks penghambatan dihitung berdasarkan Vilaseñor dkk. (2004):
+Indekspenghambatan= diameter zona hambat - diameter paper disk Indeks penghambatan =
+diameter paper disk
+Universitas Indonesia Identifikasi kapang ..., Kirana Listiandiani, FMIPA UI, 2011
+
+36
+3.4.9. Pemisahan Senyawa Antimikroba dengan Kromatografi Lapis Tipis
+Kromatografi senyawa antimikroba menggunakan Kromatografi Lapis Tipis (KLT) pada pelat silica gel 60 F254. Pelat KLT dipotong berukuran panjang 5 cm dan lebar 3 cm. Bagian bawah pelat ditandai dengan jarak 1 cm untuk batas bawah, dan 0,5 cm untuk batas atas dengan menggunakan pensil. Pada garis batas bawah ditandai sepanjang 1 cm sebagai tempat untuk menotolkan ekstrak sehingga terdapat tiga titik penotolan.
+Sebanyak 5 µl ekstrak kapang endofit yang memiliki aktivitas antimikroba ditotolkan pada setiap titik menggunakan mikropipet. Variasi eluen yang digunakan adalah pelarut tunggal n-heksana (non polar), etil asetat (semipolar), metanol (polar), etil asetat:metanol (7:3; 3:7), metanol:etil asetat:n-heksana (1:1:1). Pelat kemudian dimasukkan ke dalam bejana KLT berisi eluen selama beberapa menit hingga eluen mencapai batas atas, kemudian dikeringkan dan diamati di bawah sinar UV 365 nm. Bercak pada pelat diamati, nilai Rf (retention factor) dihitung berdasarkan Sherma dan Fried (2003: 5) dengan rumus:
+Rf = Jarak tempuh senyawa Rf = Jarak tempuh pelarut
+3.4.10. Bioautografi
+Pengujian bioautografi menggunakan metode kerik dan metode agar overlay berdasarkan Choma (2005: 1). Bioautografi dengan metode kerik dilakukan dengan mengerik bercak pada pelat hasil KLT secara hati-hati. Hasil kerikan tersebut kemudian ditempatkan di atas medium agar yang mengandung mikroorganisme uji. Bioautografi dengan metode agar overlay dilakukan dengan menempatkan pelat hasil KLT pada dasar cawan petri. Selanjutnya cawan petri tersebut diisi dengan medium agar yang telah mengandung mikroorganisme uji. Medium-medium tersebut diinkubasi pada suhu ruang selama 24 jam untuk biakan bakteri dan 24--48 jam untuk biakan khamir. Aktivitas antimikroba diindikasikan dengan terbentuknya zona hambat pada sekitar hasil kerikan pelat KLT atau pada sekitar bercak hasil KLT.
+Universitas Indonesia Identifikasi kapang ..., Kirana Listiandiani, FMIPA UI, 2011
+
+37 3.4.11. Pengolahan dan Analisis Data
+Data hasil penelitian berupa data kualitatif dan kuantitatif, dan disusun dalam bentuk tabel dan gambar. Data kualitatif meliputi hasil identifikasi konvensional berdasarkan pengamatan karakter morfologi kapang endofit, hasil pengamatan pengujian aktivitas antimikroba dengan blok agar, hasil pengamatan pengujian aktivitas antimikroba dengan difusi agar cara cakram, hasil pengamatan visualisasi KLT, dan hasil pengamatan bioautografi. Data kualitatif dianalisis secara deskriptif. Data kuantitatif meliputi hasil perhitungan diameter zona hambat pengujian aktivitas antimikroba dengan difusi agar cara cakram. Data kuantitatif dianalisis dengan standar deviasi.
+Universitas Indonesia Identifikasi kapang ..., Kirana Listiandiani, FMIPA UI, 2011
+
+BAB 4 HASIL DAN PEMBAHASAN
+4.1. Isolasi Kapang Endofit dari Daun Broussonetia papyrifera
+Isolasi kapang endofit dari daun tumbuhan Broussonetia papyrifera asal Kota Bandung menggunakan metode surface sterilization pada medium PCA menghasilkan koloni kapang yang tumbuh pada potongan daun. Koloni tersebut berwarna hijau lumut. Diperkirakan koloni tersebut merupakan koloni kapang endofit karena tumbuh pada potongan daun yang telah disterilkan permukaannya. Koloni tersebut diberi kode isolat ES4 dan selanjutnya diinokulasi ke medium agar lain untuk dilakukan pemurnian.
+
+1 cm
+Gambar 4.1. Hasil isolasi kapang endofit dari daun tumbuhan Broussonetia papyrifera asal Kota Bandung
+[Sumber: Dokumentasi pribadi.]
+Proses surface sterilization menggunakan natrium hipoklorit (NaOCl) 1,78% sebagai disinfektan bertujuan untuk menghilangkan mikroorganisme epifit dari permukaan sampel daun. Menurut Valera dkk. (2009: 557), natrium hipoklorit bekerja mengoksidasi enzim-enzim penting dalam proses metabolisme
+
+38
+
+Universitas Indonesia
+
+Identifikasi kapang ..., Kirana Listiandiani, FMIPA UI, 2011
+
+39
+sel mikroorganisme. Selain itu klorin juga bekerja dengan berikatan dengan komponen sitoplasma sel mikroorganisme, menghasilkan senyawa N-kloro yang bersifat toksik dan merusak sel mikroorganisme. Menurut Estrela dkk. (2002: 114), senyawa klorin dapat bereaksi dengan asam amino menghasilkan kloramin. Kloramin tersebut bersifat oksidatif dan dapat bersifat toksik sehingga menyebabkan kematian pada sel. Berdasarkan hal-hal tersebut, dapat diperkirakan bahwa penggunaan natrium hipoklorit telah menghilangkan mikroorganisme epifit dan koloni yang tumbuh pada permukaan medium agar di sekitar potongan daun memang merupakan koloni kapang endofit.
+Penggunaan metode surface sterilization telah dilaporkan pada beberapa publikasi. Caruso dkk. (2000: 3) berhasil mengisolasi sebanyak 150 isolat kapang endofit dari tumbuhan Taxus baccata dan Taxus brevifolia. De Errasti dkk. (2010: 29) melaporkan penggunaan metode surface sterilization untuk mengisolasi kapang endofit dari batang tumbuhan B. papyrifera di Argentina dan berhasil memperoleh 75 strain kapang endofit.
+4.2. Identifikasi Konvensional Berdasarkan Karakter Morfologi Kapang
+Identifikasi konvensional kapang endofit dilakukan dengan pengamatan karakter morfologi. Berdasarkan hasil pengamatan karakter morfologi, terlihat bahwa empat kapang endofit yang diisolasi dari daun B. papyrifera asal Desa Bejijong (isolat ES1, ES2, dan ES3) dan Kota Bandung (isolat ES4) memiliki karakteristik yang berbeda-beda dan diidentifikasi sebagai kapang Aspergillus subgenus Circumdati section Flavi (isolat ES1 dan ES4), Fusarium equiseti (isolat ES2), dan Cladosporium macrocarpum (isolat ES3). Hasil identifikasi berdasarkan karakter morfologi kapang endofit adalah sebagai berikut.
+4.2.1. Aspergillus subgenus Circumdati section Flavi ES1 dan ES4
+Pengamatan karakter morfologi dilakukan pada isolat kapang endofit ES1 dan ES4 berumur 7 hari, pada medium PDA, di suhu ruang. Berdasarkan hasil pengamatan karakter morfologi secara mikroskopik kapang endofit ES1 dan ES4, struktur reproduksi seksual tidak ditemukan. Hal tersebut menunjukkan bahwa
+Universitas Indonesia Identifikasi kapang ..., Kirana Listiandiani, FMIPA UI, 2011
+
+40
+kapang endofit ES1 dan ES4 berada pada fase anamorf. Selain itu ditemukan struktur spora aseksual (konidia), fialid, vesikel, konidiofor, dan hifa. Berdasarkan hasil pengamatan karakter morfologi secara makroskopik, koloni kapang endofit ES1 dan ES4 berwarna hijau olive dan bertekstur granular. Hasil yang diperoleh menunjukkan bahwa kapang endofit ES1 dan ES4 termasuk ke dalam genus Aspergillus sesuai dengan deskripsi karakter kapang Aspergillus oleh Samson dkk. (2004: 64) dalam Introduction to Food and Airborne-Fungi. Menurut Samson dkk. (2004: 64), kapang Aspergillus berasal dari filum Ascomycota, memiliki spora aseksual atau konidia yang dihasilkan oleh sel konidiogenus (fialid). Fialid dapat melekat pada metula (sterigmata biseriat), atau langsung melekat pada bagian ujung dari konidiofor yang mengalami pembengkakan atau disebut vesikel (sterigmata uniseriat). Menurut Koneman dan Roberts (1985: 86), Aspergillus sp. memiliki variasi warna koloni dari kuning, hijau, kebiruan, putih, hingga hitam.
+Hasil pengamatan karakter morfologi secara mikroskopik dari Aspergillus sp. ES1 berumur 7 hari, pada medium PDA, di suhu ruang, memperlihatkan struktur-struktur sebagai berikut: konidia berupa sel tunggal dan berbentuk bulat dengan ukuran diameter berkisar 4,41--9,64 µm. Aspergillus sp. ES1 memiliki konidia, fialid, dan vesikel sehingga tipe sterigmata adalah uniseriat. Kepala konidia berbentuk semibulat hingga bulat, 3/4 fertile, dan berukuran (60,8-155,2)x(61,9--176,2) µm. Jenis hifa Aspergillus sp. ES1 adalah hifa septate atau hifa bersekat. Hifa tidak berwarna (hialin) atau apabila diberi lactophenol cotton blue akan berwarna biru. Ukuran lebar hifa berkisar 10,6--34,5 µm. Hasil pengamatan karakter morfologi secara mikroskopik kapang endofit Aspergillus sp. ES1 dapat dilihat pada Tabel 4.2.1. dan Gambar 4.2.1.(1).
+Hasil pengamatan karakter morfologi secara makroskopik dari Aspergillus sp. ES1 adalah sebagai berikut: warna koloni adalah hijau lumut 168 (standar warna pada lampiran 9) dan telah bersporulasi. Sebalik koloni tidak berwarna (hialin). Koloni bertekstur granular atau granulose. Terdapat zonasi, growing zone, dan exudate drops. Tidak terdapat radial furrow. Hasil pengamatan karakter morfologi secara makroskopik kapang endofit Aspergillus sp. ES1 dapat dilihat pada Tabel 4.2.1. dan Gambar 4.2.1.(2).
+Universitas Indonesia Identifikasi kapang ..., Kirana Listiandiani, FMIPA UI, 2011
+
+41
+
+Tabel 4.2.1. Hasil pengamatan karakter morfologi secara mikroskopik dan
+
+makroskopik dari Aspergillus sp. ES1 dan Aspergillus sp. ES4
+
+umur 7 hari pada medium PDA di suhu ruang
+
+Karakter Morfologi
+
+Kapang Endofit
+
+Aspergillus sp. ES1
+
+Aspergillus sp. ES4
+
+Mikroskopik
+
+a. Spora seksual
+
+Tidak ada
+
+Tidak ada
+
+b. Bentuk kepala konidia Semibulat hingga bulat Semibulat hingga bulat
+
+c. Ukuran kepala konidia
+
+(60,8--155,2)x (61,9--176,2) µm
+
+(68,1--110,7)x (68,58--114,3) µm
+
+d. Sterigmata
+
+Uniseriat
+
+Uniseriat
+
+e. Bentuk konidia
+
+Bulat
+
+Bulat
+
+f. Diameter konidia
+
+4,41--9,64 µm
+
+5,44--10,03 µm
+
+g. Jenis hifa
+
+Bersekat (septate)
+
+Bersekat (septate)
+
+h. Lebar hifa
+
+10,6--34,5 µm
+
+3,0--35,7 µm
+
+Makroskopik
+
+a. Warna koloni
+
+Hijau lumut
+
+Hijau sap
+
+b. Tekstur koloni
+
+Granular
+
+Granular
+
+c. Sporulasi
+
+Ada
+
+Ada
+
+d. Zonasi
+
+Ada
+
+Ada
+
+e. Exudate drops
+
+Ada
+
+Tidak ada
+
+f. Radial furrow
+
+Tidak ada
+
+Tidak ada
+
+g. Growing zone
+
+Ada
+
+Tidak ada
+
+h. Warna sebalik koloni Tidak berwarna (hialin) Tidak berwarna (hialin)
+
+a e
+
+b
+
+c
+
+d 50 µm
+
+Keterangan a. Kepala konidia b. Konidia c. Vesikel d. Fialid e. Konidiofor
+
+Gambar 4.2.1.(1). Hasil pengamatan karakter morfologi secara mikroskopik dari Aspergillus sp. ES1 umur 7 hari pada medium PDA di suhu ruang
+[Sumber: Dokumentasi pribadi.]
+
+Universitas Indonesia Identifikasi kapang ..., Kirana Listiandiani, FMIPA UI, 2011
+
+42
+Hijau lumut 168
+1 cm Gambar 4.2.1.(2). Hasil pengamatan karakter morfologi secara
+makroskopik dari Aspergillus sp. ES1 umur 7 hari pada medium PDA di suhu ruang
+[Sumber: Dokumentasi pribadi.]
+Hasil pengamatan karakter morfologi secara mikroskopik dari Aspergillus sp. ES4 berumur 7 hari, pada medium PDA, di suhu ruang, memperlihatkan struktur-struktur sebagai berikut: konidia berupa sel tunggal dan berbentuk bulat dengan ukuran diameter berkisar 5,44--10,03 µm. Aspergillus sp. ES4 memiliki konidia, fialid, dan vesikel sehingga tipe sterigmata adalah uniseriat. Kepala konidia berbentuk semibulat hingga bulat, 3/4 fertile, dan berukuran (68,58-114,3)x(68,1--110,7) µm. Hifa dari Aspergillus sp. ES4 memiliki sekat, tidak berwarna (hialin), dan berukuran lebar 3,0--35,7 µm. Hasil pengamatan karakter morfologi secara mikroskopik Aspergillus sp. ES4 dapat dilihat pada Tabel 4.2.1 dan Gambar 4.2.1.(3).
+Hasil pengamatan karakter morfologi secara makroskopik dari Aspergillus sp. ES4 adalah sebagai berikut: koloni berwarna hijau sap (standar warna pada Lampiran 9) dan telah bersporulasi. Sebalik koloni tidak berwarna. Koloni bertekstur granular atau granulose. Terdapat zonasi pada koloni dan sebalik koloni. Tidak terdapat exudate drops, radial furrow, dan growing zone. Hasil pengamatan karakter morfologi secara makroskopik kapang endofit Aspergillus sp. ES4 dapat dilihat pada Tabel 4.2.1 dan Gambar 4.2.1.(4).
+Universitas Indonesia Identifikasi kapang ..., Kirana Listiandiani, FMIPA UI, 2011
+
+43
+
+b a
+
+d e
+50 µm
+f g h
+
+c 50 µm
+
+50 µm
+
+Keterangan: a. Kepala konidia; b. Hifa; c. Konidiofor; d. Sekat; e. Foot cell; f. Konidia g. Fialid; h. Vesikel
+Gambar 4.2.1.(3). Hasil pengamatan karakter morfologi secara mikroskopik dari Aspergillus sp. ES4 umur 7 hari pada medium PDA di suhu ruang
+[Sumber: Dokumentasi pribadi.]
+
+Hijau sap 167
+
+1 cm Gambar 4.2.1.(4). Hasil pengamatan karakter morfologi secara
+makroskopik dari Aspergillus sp. ES4 umur 7 hari pada medium PDA di suhu ruang
+[Sumber: Dokumentasi pribadi.]
+Universitas Indonesia Identifikasi kapang ..., Kirana Listiandiani, FMIPA UI, 2011
+
+44
+Hasil identifikasi berdasarkan karakter morfologi, diduga Aspergillus sp. ES1 dan Aspergillus sp. ES4 mendekati karakter morfologi Aspergillus subgenus Circumdati section Flavi seperti yang dideskripsikan oleh Klich (2002: 3--4) pada Identification of Common Aspergillus Species. Menurut Klich (2003: 5), Aspergillus subgenus Circumdati section Flavi memiliki konidia yang umumnya berwarna hijau kekuningan hingga hijau olive kecokelatan; vesikel berbentuk bulat (spherical); dan memiliki tipe kepala konidia uniseriat atau biseriat.
+Koneman dan Roberts (1985: 84) menyatakan kapang Aspergillus dapat ditemukan pada berbagai substrat, seperti permukaan biji-bijian permukaan tanah, dan permukaan daun. Verma dkk. (2010: 33) melaporkan bahwa ditemukan kapang endofit Aspergillus clavatus Desm. dari batang tumbuhan Azadirachta indica A. Juss. Kusari dkk. (2009: 1019) juga melaporkan bahwa ditemukan kapang endofit Aspergillus fumigatus dari tumbuhan Juniperus communis L.
+4.2.2. Cladosporium macrocarpum ES3
+Pengamatan karakter morfologi dilakukan pada isolat kapang endofit ES3 yang berumur 7 hari, pada medium PDA, di suhu ruang. Berdasarkan hasil pengamatan karakter morfologi secara mikroskopik kapang endofit ES3, struktur reproduksi seksual tidak ditemukan. Hal tersebut menunjukkan bahwa kapang endofit ES3 berada pada fase anamorf. Selain itu ditemukan struktur konidia, konidiofor, dan hifa. Secara makroskopik, koloni kapang endofit ES3 berwarna hitam dan bertekstur seperti beludru. Hasil yang diperoleh menunjukkan bahwa kapang endofit ES3 termasuk ke dalam genus Cladosporium sesuai dengan deskripsi karakter kapang Cladosporium oleh Samson dkk. (2004: 107) dalam Introduction to Food and Airborne-Fungi. Menurut Samson dkk. (2004: 107), kapang Cladosporium berasal dari filum Ascomycota. Secara mikroskopik Cladosporium memiliki konidia yang tersusun membentuk rantai dan dihasilkan oleh sel konidiogenus. Sebagian besar Cladosporium memiliki warna koloni gelap dan bertekstur velvety, floccose, atau powdery.
+Hasil pengamatan karakter morfologi secara mikroskopik Cladosporium sp. ES3 berumur 7 hari yang ditumbuhkan pada medium PDA dan diinkubasi
+Universitas Indonesia Identifikasi kapang ..., Kirana Listiandiani, FMIPA UI, 2011
+
+45
+
+pada suhu ruang menunjukkan terdapat konidia uniselular, berbentuk elips, dan terdapat penebalan pada kedua polarnya. Konidia berukuran (3,6--9,11)x(8,60-22,7) µm. Selain konidia uniselular, ditemukan juga konidia yang memiliki septa dan berukuran lebih besar. Hifa Cladosporium sp. ES3 berwarna cokelat tua, bersekat (septate) dan berukuran lebar 3,32--14,64 µm. Hasil pengamatan karakter morfologi secara mikroskopik Cladosporium sp. ES3 dapat dilihat pada Tabel 4.2.2 dan Gambar 4.2.2.(1).
+Berdasarkan hasil pengamatan karakter morfologi secara makroskopik, koloni Cladosporium sp. ES3 berdiameter 2,6--2,8 cm dan berwarna hitam 199 (standar warna pada Lampiran 9). Tekstur koloni yaitu velvety atau menyerupai beludru. Terdapat growing zone yang berwarna putih dan zonasi. Exudate drops tidak ditemukan. Sebalik koloni berwarna hitam 199 (standar warna pada Lampiran 9). Radial furrow terlihat pada sebalik koloni, namun tidak ada pada tampak depan koloni. Hasil pengamatan karakter morfologi secara makroskopik Cladosporium sp. ES3 dapat dilihat pada Tabel 4.2.2 dan Gambar 4.2.2.(2).
+
+Tabel 4.2.2. Hasil pengamatan karakter morfologi secara mikroskopik dan
+
+makroskopik dari Cladosporium sp. ES3 umur 7 hari pada medium
+
+PDA di suhu ruang
+
+Karakter Morfologi
+
+Cladosporium sp. ES3
+
+Mikroskopik
+
+a. Spora seksual
+
+Tidak ditemukan
+
+b. Bentuk konidia
+
+Elips, uniselular, terdapat penebalan di kedua polar; terdapat konidia bersekat
+
+c. Ukuran konidia
+
+(3,6--9,11)x(8,60--22,7) µm
+
+d. Jenis hifa e. Lebar hifa f. Pigmentasi hifa g. Karakter lain
+
+Bersekat (septate) 3,35--12,39 µm Cokelat tua (gelap)
+Konidiofor
+
+Makroskopik
+
+a. Warna koloni
+
+Hitam
+
+b. Tekstur koloni
+
+Velvety
+
+c. Sporulasi
+
+Ada
+
+d. Zonasi
+
+Ada
+
+e. Exudate drops
+
+Tidak ada
+
+f. Radial furrow
+
+Ada (Sebalik koloni)
+
+g. Growing zone h. Warna sebalik koloni
+
+Ada Hitam
+
+Universitas Indonesia Identifikasi kapang ..., Kirana Listiandiani, FMIPA UI, 2011
+
+46 a
+
+b c
+
+50 µm
+
+50 µm
+
+d e
+50 µm
+
+Keterangan: a. Sekat pada hifa (septate) b. Hifa berpigmentasi cokelat
+tua c. Konidiofor d. Konidia bersekat e. Konidia uniselular
+
+Gambar 4.2.2.(1). Hasil pengamatan karakter morfologi secara mikroskopik dari Cladosporium sp. ES3 umur 7 hari pada medium PDA di suhu ruang
+[Sumber: Dokumentasi pribadi.]
+
+a
+
+Hitam 199 b
+
+Hitam 199
+
+Keterangan: a. Tampak depan koloni; b. Sebalik koloni Gambar 4.2.2.(2). Hasil pengamatan karakter morfologi secara makroskopik
+Cladosporium sp. ES3 umur 7 hari pada medium PDA di suhu ruang
+[Sumber: Dokumentasi pribadi.]
+Berdasarkan hasil pengamatan karakter morfologi secara mikroskopik dan makroskopik yang diperoleh, diduga karakter morfologi kapang endofit Cladosporium sp. ES3 mendekati karakter morfologi spesies Cladosporium
+Universitas Indonesia Identifikasi kapang ..., Kirana Listiandiani, FMIPA UI, 2011
+
+47
+macrocarpum Preuss seperti yang dideskripsikan oleh Samson dkk. (2004: 112). Berdasarkan Samson dkk. (2004: 112), Cladosporium macrocarpum memiliki konidiofor yang bercabang simpodial; konidiofor dan hifa berwarna cokelat; konidia dapat membentuk rantai, berbentuk elips, memiliki 0--3 septa, namun yang banyak ditemukan berupa sel tunggal.
+a
+b
+Keterangan: a. Konidiofor; b. Konidia Gambar 4.2.2.(3). Struktur Cladosporium macrocarpum
+[Sumber: Samson dkk. 2004: 112. Dengan modifikasi.]
+Kapang Cladosporium umum ditemukan sebagai patogen atau saprofit pada tanaman. Devarajan dan Suryanarayanan (2002: 74) melaporkan bahwa ditemukan kapang endofit Cladosporium cladosporioides dari rumput laut Halophila ovalis. Zhang dkk. (2009: 227) melaporkan bahwa ditemukan kapang endofit Cladosporium cladosporioides dari tumbuhan Taxus spp.
+4.2.3. Fusarium equiseti ES2
+Pengamatan karakter morfologi dilakukan pada kapang endofit ES2 berumur 13 hari, pada medium PDA, di suhu ruang. Berdasarkan hasil pengamatan karakter morfologi secara mikroskopik kapang endofit ES2, struktur reproduksi seksual tidak ditemukan. Hal tersebut menunjukkan bahwa kapang
+Universitas Indonesia Identifikasi kapang ..., Kirana Listiandiani, FMIPA UI, 2011
+
+48
+endofit ES3 berada pada fase anamorf. Selain itu ditemukan struktur makrokonidia, konidiofor, hifa, dan klamidospora. Secara makroskopik, koloni kapang endofit ES2 berwarna putih dan bertekstur seperti kapas. Hasil yang diperoleh menunjukkan kapang endofit ES2 termasuk ke dalam genus Fusarium. Karakter morfologi Fusarium sp. ES2 sesuai dengan deskripsi kapang Fusarium oleh Samson dkk. (2004: 120) dalam Introduction to Food and Airborne-Fungi. Menurut Samson dkk. (2004: 120) kapang Fusarium berasal dari filum Ascomycota. Fusarium memiliki makrokonidia multiselular (bersekat); dan berbentuk lurus atau melengkung menyerupai bentuk bulan sabit. Beberapa spesies Fusarium dapat menghasilkan struktur klamidospora. Menurut Gandjar dkk. (2006: 12), klamidospora merupakan jenis spora aseksual yang terbentuk dari suatu kompartemen hifa yang menerima nutrien berlebih dan membentuk dinding sel yang tebal. Menurut Samson dkk. (2004: 120), koloni Fusarium pada medium PDA berstruktur seperti kapas berwarna putih, krem, kekuningan, kecokelatan, atau kemerahan.
+Hasil pengamatan karakter morfologi secara mikroskopik Fusarium sp. ES2 umur 13 hari, pada medium PDA, di suhu ruang menunjukkan Fusarium sp. ES2 memiliki konidia bersekat (multiselular) dan berukuran (4,40--9,21)x(26,4-50,17) µm. Jenis hifa septate atau bersekat, tidak berwarna (hialin), dan berukuran lebar 3,35--12,39 µm. Hifa dan konidiofor bercabang. Terdapat klamidospora yang tidak berwarna (hialin). Hasil pengamatan karakter morfologi secara mikroskopik Fusarium sp. ES2 dapat dilihat pada Tabel 4.2.3 dan Gambar 4.2.3.(1).
+Berdasarkan hasil pengamatan karakter morfologi secara makroskopik, koloni Fusarium sp. ES2 berwarna putih 101 (standar warna pada Lampiran 9); bertekstur wooly atau menyerupai kapas. Koloni tersebut memiliki diameter sebesar 5,0--5,2 cm; sudah bersporulasi penuh; memiliki growing zone; dan terdapat exudate drops yang menyerupai kristal-kristal kecil. Radial furrow dan zonasi tidak tampak pada koloni. Sebalik koloni berwarna cokelat 182 (standar warna pada Lampiran 9). Hasil pengamatan karakter morfologi secara makroskopik Fusarium sp. ES2 dapat dilihat pada Tabel 4.2.3 dan Gambar 4.2.3.(2).
+Universitas Indonesia Identifikasi kapang ..., Kirana Listiandiani, FMIPA UI, 2011
+
+49
+
+Tabel 4.2.3. Hasil pengamatan karakter morfologi secara mikroskopik dan
+
+makroskopik Fusarium sp. ES2 umur 13 hari pada medium PDA
+
+di suhu ruang
+
+Karakter Morfologi
+
+Fusarium sp. ES2
+
+Mikroskopik
+
+a. Spora seksual
+
+Tidak ditemukan
+
+b. Bentuk konidia
+
+Lurus atau sedikit melengkung, multiselular, dan bersekat
+
+c. Ukuran konidia
+
+(4,40--9,21)x(26,4--50,17) µm
+
+d. Jenis hifa
+
+Bersekat (septate), bercabang
+
+e. Lebar hifa
+
+3,35--12,39 µm
+
+f. Pigmentasi hifa
+
+Tidak berwarna (hialin)
+
+g. Karakter lain
+
+Klamidospora, konidiofor
+
+Makroskopik
+
+a. Warna koloni
+
+Putih
+
+b. Tekstur koloni
+
+Wooly
+
+c. Sporulasi
+
+Ada
+
+d. Zonasi
+
+Tidak ada
+
+e. Exudate drops
+
+Ada
+
+f. Radial furrow
+
+Tidak ada
+
+g. Growing zone
+
+Ada
+
+h. Warna sebalik koloni
+
+Cokelatan
+
+a 50 µm
+
+c b
+50 µm
+
+d e
+
+50 µm
+
+25 µm
+
+Keterangan: a. Makrokonidia; b. Percabangan pada hifa; c. Sekat pada hifa; d. Konidiofor; e. Klamidospora
+Gambar 4.2.3.(1). Hasil pengamatan karakter morfologi secara mikroskopik dari Fusarium sp. ES2 umur 13 hari medium PDA di suhu ruang
+[Sumber: Dokumentasi pribadi.]
+
+Universitas Indonesia Identifikasi kapang ..., Kirana Listiandiani, FMIPA UI, 2011
+
+50
+
+a
+
+Putih 101 b
+
+Cokelat 182
+
+Keterangan: a. Tampak depan koloni; b. Sebalik koloni Gambar 4.2.3.(2).Hasil pengamatan karakter morfologi secara makroskopik
+Fusarium sp. ES2 umur 13 hari pada medium PDA di suhu ruang.
+[Sumber: Dokumentasi pribadi.]
+Hasil identifikasi berdasarkan karakter morfologi, diduga Fusarium sp. ES2 memiliki/mendekati karakter morfologi spesies Fusarium equiseti (Corda) Sacc. seperti yang dideskripsikan oleh Samson dkk. (2004: 134). Berdasarkan Samson dkk. (2004: 134), Fusarium equiseti memiliki konidiofor yang bercabang; mikrokonidia tidak atau jarang ditemukan; makrokonidia berbentuk seperti bulan sabit, memiliki 3, 5, atau 7 sekat; dan memiliki klamidospora.
+
+Keterangan: a. Konidiofor; b. Makrokonidia; c. Klamidospora Gambar 4.2.3.(3). Struktur Fusarium equiseti
+[Sumber: Samson dkk. 2004: 134. Dengan modifikasi.]
+Menurut Samson dkk. (2004: 107), kapang Fusarium umum ditemukan sebagai patogen pada tanaman. Barik dkk. (2010: 8) melaporkan bahwa ditemukan spesies kapang Fusarium oxysporum yang diisolasi dari tumbuhan obat
+Universitas Indonesia Identifikasi kapang ..., Kirana Listiandiani, FMIPA UI, 2011
+
+51
+
+Acorus calamus. Mwaura dkk. (2009: 1130) melaporkan bahwa kapang endofit Fusarium oxysporum diisolasi dari tumbuhan Musa spp. De Errasti dkk. (2010: 32) melaporkan bahwa ditemukan spesies kapang Fusarium lateritium yang diisolasi dari batang tumbuhan Broussonetia papyrifera.
+
+4.3. Pengujian Aktivitas Antimikroba dengan Blok Agar
+
+Pengujian menggunakan blok agar dilakukan untuk mengetahui kapangkapang endofit yang memiliki aktivitas antimikroba. Pengujian aktivitas antimikroba dilakukan pada blok agar Aspergillus subgenus Circumdati section Flavi ES1 dan ES4, Cladosporium macrocarpum ES3, dan Fusarium equiseti ES2 yang telah bersporulasi terhadap mikroorganisme uji (E. coli ATCC 25922, B. subtilis ATCC 6633, dan C. albicans UICC Y-29).
+Hasil pengujian dengan blok agar (Tabel 4.3) menunjukkan dua dari total empat kapang endofit memiliki aktivitas antimikroba dan mampu menghambat pertumbuhan mikroorganisme uji, yaitu Aspergillus subgenus Circumdati section Flavi ES4 dan F. equiseti ES2. Aspergillus subgenus Circumdati section Flavi ES4 menunjukkan aktivitas antimikroba terhadap khamir C. albicans UICC Y-29, F. equiseti ES2 menunjukkan aktivitas antimikroba terhadap B. subtilis ATCC 6633, dan tidak ada kapang endofit yang menunjukkan aktivitas antimikroba terhadap bakteri E. coli ATCC 25922. Aktivitas antimikroba ditunjukkan dengan terbentuknya zona hambat di sekitar potongan agar.
+
+Tabel 4.3. Hasil pengujian aktivitas antimikroba menggunakan blok agar terhadap mikroorganisme uji, inkubasi selama 24 jam di suhu ruang
+
+Kapang Endofit
+
+E. coli
+
+B. subtilis C. albicans
+
+ATCC 25922 ATCC 6633 UICC Y-29
+
+Aspergillus subgenus Circumdati section Flavi ES1
+
+-
+
+Aspergillus subgenus Circumdati section Flavi ES4
+
+-
+
+-
+
+-
+
+-
+
++ (P)
+
+Cladosporium macrocarpum ES3
+
+-
+
+-
+
+-
+
+Fusarium equiseti ES2
+
+-
+
++ (T)
+
+-
+
+Keterangan: + = Terbentuk zona hambat - = Tidak terbentuk zona hambat
+
+(T) = Zona hambat total (P) = Zona hambat parsial
+
+Universitas Indonesia Identifikasi kapang ..., Kirana Listiandiani, FMIPA UI, 2011
+
+52
+Zona hambat yang terbentuk disebabkan Aspergillus subgenus Circumdati section Flavi ES4 dan F. equiseti ES2 yang telah bersporulasi mengindikasikan bahwa kapang tersebut menghasilkan metabolit sekunder secara ekstraselular melalui hifa berupa senyawa antimikroba yang berdifusi ke dalam medium agar dan menghambat pertumbuhan mikroorganisme uji yang terkandung di dalamnya. Kapang endofit selama diinkubasi 7 hari pada suhu ruang, melakukan proses metabolisme untuk pertumbuhan. Kapang endofit selama fase pertumbuhan (fase log) melakukan proses metabolisme primer, memanfaatkan nutrien yang terkandung di dalam substrat, yaitu medium PDA untuk menghasilkan metabolit primer berupa karbohidrat, protein, lipid, dan asam nukleat yang dibutuhkan sebagai building block. Selanjutnya, saat memasuki fase stasioner kapang melakukan metabolisme sekunder dan menghasilkan metabolit sekunder. Menurut Carlile dkk. (2001: 513), kapang yang telah bersporulasi mengindikasikan bahwa kapang tersebut telah memasuki fase stasioner dan diperkirakan telah menghasilkan metabolit sekunder. Menurut Bérdy (2005: 1), berbagai metabolit sekunder yang dihasilkan kapang bersifat bioaktif, salah satunya dapat berupa senyawa antimikroba. Xu dkk. (2010: 811), melaporkan spesies kapang endofit Fusarium redolens Wollenw. dari tumbuhan Dioscorea zingiberensis menghasilkan metabolit sekunder berupa senyawa antimikroba beauvericin. Maria dkk. (2005: 73) melaporkan bahwa kapang endofit Aspergillus sp. dari tumbuhan Acanthus ilicifolius L. menunjukkan aktivitas antifungi terhadap C. albicans.
+Zona hambat dari Aspergillus subgenus Circumdati section Flavi ES4 terhadap C. albicans UICC Y-29 adalah zona parsial (Gambar 4.3.b). Zona hambat parsial menunjukkan masih terdapat pertumbuhan C. albicans UICC Y-29 namun dalam jumlah yang lebih sedikit dibandingkan daerah yang tidak berada di sekitar cakram. Hal tersebut mengindikasikan bahwa Aspergillus subgenus Circumdati section Flavi ES4 yang berusia 7 hari menghasilkan senyawa antifungi yang bersifat fungistatik, atau tidak memiliki kemampuan membunuh, namun hanya menghambat pertumbuhan C. albicans UICC Y-29. Zona hambat dari F. equiseti ES2 terhadap B. subtilis ATCC 6633 adalah zona hambat total (Gambar 4.3.c) yang ditunjukkan sebagai zona hambat bening sempurna dan
+Universitas Indonesia Identifikasi kapang ..., Kirana Listiandiani, FMIPA UI, 2011
+
+53
+diduga tidak ada pertumbuhan bakteri di sekitar potongan agar. Hal tersebut mengindikasikan bahwa F. equiseti ES2 menghasilkan senyawa antibakteri yang bersifat bakterisidal. Menurut Poeloengan (2009: 65--66), zona total yang ditandai dengan zona hambat bening sempurna menunjukkan bahwa senyawa antimikroba yang diuji mampu membunuh mikroorganisme sehingga tidak terdapat lagi pertumbuhan sel, sedangkan zona parsial yang ditandai dengan zona hambat tidak bening sempurna menunjukkan bahwa senyawa antimikroba hanya menghambat pertumbuhan mikroorganisme, dan tidak membunuhnya.
+
+a
+
+ES1
+
+ES2
+
+b
+
+ES1
+
+ES3
+
+ES3
+
+ES4
+
+ES4
+
+ES2
+
+c
+ES1
+ES3
+
+1 cm
+
+zona parsial
+
+1 cm
+
+ES2
+zona total ES4
+
+Keterangan: a. Pengujian kapang endofit
+terhadap E. coli ATCC 25922 b. Pengujian kapang endofit
+terhadap C. albicans UICC Y-29 c. Pengujian kapang endofit
+terhadap B. subtilis ATCC 6633
+
+1 cm
+
+Gambar 4.2. Hasil pengujian aktivitas antimikroba kapang endofit dengan blok agar terhadap mikroorganisme uji, inkubasi selama 24 jam di suhu ruang
+[Sumber: Dokumentasi pribadi.]
+
+Universitas Indonesia Identifikasi kapang ..., Kirana Listiandiani, FMIPA UI, 2011
+
+54
+Zona hambat dari Aspergillus subgenus Circumdati section Flavi ES4 terhadap C. albicans UICC Y-29 dapat mengindikasikan bahwa Aspergillus subgenus Circumdati section Flavi ES4 menghasilkan senyawa yang memiliki aktivitas antifungi terhadap C. albicans UICC Y-29. Mekanisme penghambatan yang dilakukan oleh senyawa antifungi yang dihasilkan belum dapat diketahui, namun dapat diperkirakan mekanisme penghambatan yang terjadi hampir serupa dengan mekanisme penghambatan oleh agen antifungi yang dilaporkan mampu menghambat pertumbuhan C. albicans. Menurut Deacon (2006: 352), agen antifungi yang berasal dari kelompok azole (imidazole, triazole) dapat digunakan untuk mengobati penyakit infeksi yang disebabkan oleh C. albicans. Senyawa antifungi dari kelompok azole tersebut bekerja menghambat sintesis ergosterol, yaitu dengan menghambat pembentukan lanosterol menjadi ergosterol. Menurut Carlile dkk. (2001: 178--179), ergosterol merupakan komponen penting penyusun membran sel dari fungi, sehingga apabila sintesis ergosterol terhambat maka fungsi membran sel akan terganggu, dan pertumbuhan sel menjadi terhambat.
+Zona hambat dari F. equiseti ES2 terhadap B. subtilis ATCC 6633 dapat mengindikasikan bahwa F. equiseti ES2 menghasilkan senyawa yang memiliki aktivitas antibakteri terhadap bakteri Gram positif (B. subtillis) namun tidak menunjukkan aktivitas antimikroba terhadap bakteri Gram negatif (E. coli). Menurut Madigan dkk. (2000: 759), bakteri Gram positif memiliki sensitivitas lebih tinggi terhadap senyawa antibakteri dibandingkan bakteri Gram negatif. Salah satu mekanisme kerja dari suatu senyawa antibakteri adalah dengan menghambat sintesis dinding sel bakteri yaitu dengan berikatan pada enzim transpeptidase. Menurut Hogg (2005: 358--359), enzim transpeptidase dibutuhkan dalam proses sintesis peptidoglikan yang merupakan komposisi utama dinding sel bakteri Gram positif. Sehingga apabila enzim transpeptidase terikat pada senyawa antibakteri, maka sintesis peptidoglikan akan terhambat. Hal tersebut mengakibatkan dinding sel menjadi lemah, membuat sel bakteri lisis, dan sel mengalami kematian.
+Berdasarkan hasil pengujian, diketahui hanya satu dari dua Aspergillus subgenus Circumdati section Flavi yang memiliki aktivitas antimikroba, yaitu Aspergillus subgenus Circumdati section Flavi ES4. Hal tersebut diperkirakan
+Universitas Indonesia Identifikasi kapang ..., Kirana Listiandiani, FMIPA UI, 2011
+
+55
+karena kedua isolat Aspergillus subgenus Circumdati section Flavi tersebut diisolasi dari daun tumbuhan B. papyrifera yang berasal dari daerah berbeda, Aspergillus subgenus Circumdati section Flavi ES1 berasal dari Desa Bejijong sedangkan Aspergillus subgenus Circumdati section Flavi ES4 berasal dari Kota Bandung. Perbedaan habitat asal diduga menjadi faktor yang menyebabkan Aspergillus subgenus Circumdati section Flavi ES1 dan ES4 memiliki perbedaan kemampuan aktivitas antimikroba. Hal serupa dilaporkan oleh Maria dkk. (2005: 69--73) yang mengisolasi tiga kapang Aspergillus sp. dari tumbuhan mangrove di India, namun berasal dari lokasi yang berbeda. Hasil pengujian menunjukkan hanya satu kapang Aspergillus yang memiliki aktivitas antimikroba.
+4.4. Ekstraksi Senyawa Antimikroba dari Kapang Endofit
+Ekstraksi senyawa antimikroba dilakukan pada dua kapang endofit yang menunjukkan aktivitas antimikroba pada pengujian menggunakan blok agar, yaitu Aspergillus subgenus Circumdati section Flavi ES4 dan F. equiseti ES2. Proses ekstraksi dalam penelitian ini menggunakan tiga jenis pelarut yang berbeda kepolarannya, yaitu metanol yang bersifat polar, etil asetat yang bersifat semipolar, dan n-heksana yang bersifat nonpolar. Hasil ekstraksi berupa ekstrak cair. Pemilihan pelarut yang berbeda kepolarannya disebabkan sifat kepolaran dari senyawa antimikroba yang dihasilkan oleh kapang endofit Aspergillus subgenus Circumdati section Flavi ES4 dan F. equiseti ES2 belum diketahui. Diketahui bahwa untuk melarutkan senyawa antimikroba tersebut dibutuhkan pelarut dengan sifat kepolaran yang sesuai. Menurut Brooks (1974: 117), senyawa yang bersifat polar akan terlarut dalam pelarut polar, sedangkan senyawa yang bersifat nonpolar akan terlarut dalam pelarut nonpolar. Nithya dan Muthumary (2011: 45) melakukan ekstraksi senyawa antimikroba kapang endofit Phomopsis sp. dari Allamanda cathartica Linn. menggunakan pelarut etil asetat dan metanol. Senyawa antimikroba tersebut teridentifikasi sebagai golongan senyawa terpene.
+Universitas Indonesia Identifikasi kapang ..., Kirana Listiandiani, FMIPA UI, 2011
+
+56
+4.5. Pengujian Akivitas Antimikroba Ekstrak Kapang Endofit Terhadap Mikroorganisme Uji Dengan Difusi Agar Cara Cakram
+Pengujian aktivitas antimikroba ekstrak senyawa antimikroba kapang endofit dilakukan dengan metode difusi agar cara cakram. Pengujian dilakukan pada ekstrak senyawa antimikroba kapang endofit yang menunjukkan aktivitas antimikroba pada pengujian dengan blok agar, yaitu Aspergillus subgenus Circumdati section Flavi ES4 terhadap C. albicans UICC Y-29 dan F. equiseti ES2 terhadap B. subtilis ATCC 6633. Sebelum diinkubasi selama 24 jam pada suhu ruang, cawan petri berisi B. subtilis ATCC 6633 dan C. albicans UICC Y-29 disimpan pada suhu 4°C dalam lemari pendingin selama 14--18 jam. Hal tersebut bertujuan menahan pertumbuhan mikroorganisme uji sehingga senyawa antimikroba dari ekstrak kapang endofit terlebih dahulu berdifusi ke dalam medium agar sebelum terjadi pertumbuhan mikroorganisme uji.
+Hasil pengujian menunjukkan ekstrak senyawa antimikroba dari F. equiseti ES2 dalam etil asetat dan dalam metanol memiliki aktivitas antibakteri terhadap bakteri B. subtilis ATCC 6633, sedangkan hasil pengujian ekstrak senyawa antimikroba dari Aspergillus subgenus Circumdati section Flavi ES4 tidak menunjukkan adanya aktivitas antifungi terhadap C. albicans UICC Y-29. Hasil pengamatan uji aktivitas antimikroba dapat dilihat pada Tabel 4.5.(1).
+Aktivitas antimikroba dari pengujian ditandai dengan terbentuknya zona hambat di sekeliling kertas cakram yang mengandung ekstrak senyawa antimikroba dari F. equiseti ES2 dalam metanol dan etil asetat. Berdasarkan hasil pengujian aktivitas antimikroba dari F. equiseti ES2, diduga senyawa antibakteri yang diperoleh bersifat polar karena dapat terlarut dalam metanol yang bersifat polar dan bersifat semipolar karena dapat terlarut dalam etil asetat yang bersifat semipolar. Menurut Brooks (1974: 117), senyawa kimia secara umum akan terlarut dalam pelarut yang memiliki sifat kepolaran yang sesuai dengan senyawa tersebut. Menurut Logrieco dkk. (1998: 3084), salah satu contoh senyawa antifungi yang dihasilkan oleh spesies kapang Fusarium adalah beauvericin. Beauvericin diketahui bersifat aktif dalam menghambat pertumbuhan bakteri Gram positif dan mikobakteria.
+Universitas Indonesia Identifikasi kapang ..., Kirana Listiandiani, FMIPA UI, 2011
+
+57
+
+Tabel 4.5.(1). Hasil pengujian aktivitas antimikroba ekstrak kapang endofit dengan difusi agar cara cakram terhadap mikroorganisme uji, inkubasi selama 24 jam di suhu ruang
+
+Kapang Endofit
+
+Ekstrak n-
+
+B. subtilis ATCC 6633
+
+d rata-
+
++/-
+
+IP
+
+(mm) rata
+
+C. albicans UICC Y-29
+
+d rata-
+
++/-
+
+IP
+
+(mm) rata
+
+1 + (T) 9,89 9,51 0,64 -
+
+-
+
+-
+
+Metanol 2 + (T) 9,5 ± 0,58 -
+
+-
+
+-
+
+-
+
+3 + (T) 9,15 0,25 0,53 -
+
+-
+
+-
+
+1 + (T) 16,24 16,7 1,71 -
+
+-
+
+-
+
+F. equiseti Etil
+
+2 + (T) 16,14 ± 1,69 -
+
+-
+
+-
+
+-
+
+ES2
+
+asetat
+
+3 + (T) 17,87 0,74 1,98 -
+
+-
+
+-
+
+1 -
+
+-
+
+-
+
+-
+
+-
+
+-
+
+n-
+
+2 -
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+heksana
+
+3 -
+
+-
+
+-
+
+-
+
+-
+
+-
+
+1 -
+
+-
+
+-
+
+-
+
+-
+
+-
+
+Metanol 2 -
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+Aspergillus
+
+3 -
+
+-
+
+-
+
+-
+
+-
+
+-
+
+subgenus
+
+1 -
+
+-
+
+-
+
+-
+
+-
+
+-
+
+Etil
+
+Circumdati
+
+2 -
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+asetat
+
+section
+
+3 -
+
+-
+
+-
+
+-
+
+-
+
+-
+
+Flavi ES4
+
+1 -
+
+-
+
+-
+
+-
+
+-
+
+-
+
+n-
+
+2 -
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+heksana
+
+3 -
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+Keterangan:
+
+= Hasil negatif pada pengujian dengan blok agar (tidak dilakukan uji)
+
+n-
+
+= Pengulangan ke-
+
++
+
+= Terbentuk zona hambat
+
+-
+
+= Tidak terbentuk zona hambat
+
+d (mm) = diameter zona hambat dalam milimeter
+
+rata-rata = diameter zona hambat rata-rata dalam milimeter
+
+IP
+
+= Indeks Penghambatan
+
+Universitas Indonesia Identifikasi kapang ..., Kirana Listiandiani, FMIPA UI, 2011
+
+58
+
+a
+
+ES2 (EA)
+
+(+)
+
+H2O
+
+ES2 (EA) (EA)
+
+(-)
+
+1cm
+
+b
+
+ES2 (M)
+
+zona total ES2 (M)
+
+(+)
+
+H2O
+
+(-)
+
+1cm
+
+c
+
+ES2 (NH)
+
+zona total ES2 (NH)
+
+(+)
+
+H2O
+
+tidak ada zona hambat (-)
+1cm
+
+Keterangan:
+
+a. ES2 (EA) (ekstrak F. equiseti ES2 dalam etil asetat)
+
+b. ES2 (M) (ekstrak F. equiseti ES2 dalam metanol)
+
+c. ES2 (NH) (ekstrak F. equiseti ES2 dalam n-heksana)
+
+(+) = Kontrol positif (tetrasiklin)
+
+(-)
+
+= Kontrol negatif (pelarut organik)
+
+H2O = Kontrol akuades steril
+
+Gambar 4.5.(1). Hasil pengujian aktivitas antibakteri ekstrak F. equiseti ES2 dengan difusi agar cara cakram terhadap B. subtilis ATCC 6633, inkubasi selama 24 jam di suhu ruang
+[Sumber: Dokumentasi pribadi.]
+
+Universitas Indonesia Identifikasi kapang ..., Kirana Listiandiani, FMIPA UI, 2011
+
+59
+
+Kontrol positif yang digunakan dalam pengujian aktivitas antibakteri terhadap B. subtilis ATCC 6633 adalah antibiotik tetrasiklin dengan konsentrasi 500 ppm (b/v). Diameter zona hambat rata-rata tetrasiklin terhadap pertumbuhan B. subtilis ATCC 6633 lebih besar jika dibandingkan dengan ekstrak Fusarium ES2 dalam metanol dan etil asetat, yaitu berukuran 39,0 ± 0,35 mm. Menurut Hogg (2005: 363), tetrasiklin termasuk kelompok antibiotik dengan spektrum luas dan bersifat bakteristatik.
+Diameter zona hambat rata-rata ekstrak F. equiseti ES2 dalam metanol adalah 9,51 ± 0,25 mm. Aktivitas antibakteri dari ekstrak F. equiseti ES2 dalam metanol setara dengan aktivitas antimikroba dari antibiotik tetrasiklin dengan konsentrasi 121,9 ppm. Diameter zona hambat rata-rata ekstrak F. equiseti ES2 dalam etil asetat adalah sebesar 16,7 ± 0,74 mm. Aktivitas antibakteri dari ekstrak F. equiseti ES2 dalam etil asetat setara dengan aktivitas antimikroba dari antibiotik tetrasiklin dengan konsentrasi 214,1 ppm. Berdasarkan ukuran diameter zona hambat yang terbentuk, ekstrak F. equiseti ES2 dalam etil asetat memiliki kemampuan yang lebih baik dalam menghambat pertumbuhan B. subtilis ATCC 6633 dibandingkan ekstrak F. equiseti ES2 dalam metanol.
+
+Tabel 4.5.(2). Konsentrasi ekstrak F. equiseti ES2 yang disetarakan dengan konsentrasi antibiotik tetrasiklin berdasarkan perbandingan diameter zona hambat
+
+n- d (mm) rata-rata d (mm) Konsentrasi
+
+1
+
+Tetrasiklin
+
+2
+
+3
+
+1
+
+Ekstrak F. equiseti ES2 dalam metanol
+
+2 3
+
+1
+
+Ekstrak F. equiseti ES2 dalam etil asetat
+
+2
+
+3
+
+39,52 38,43 39,07 9,89 9,5 9,15 16,24 16,14 17,87
+
+39,0 ± 0,38
+
+500 ppm
+
+9,51 ± 0,25
+
+121,9 ppm
+
+16,7 ± 0,74
+
+214,1 ppm
+
+Hasil pengujian ekstrak senyawa antimikroba dari Aspergillus subgenus Circumdati section Flavi ES4 tidak menunjukkan aktivitas antifungi terhadap khamir C. albicans UICC Y-29. Hal tersebut terlihat dari tidak terbentuknya zona
+
+Universitas Indonesia Identifikasi kapang ..., Kirana Listiandiani, FMIPA UI, 2011
+
+60
+
+hambat di sekitar kertas cakram dan mengindikasikan bahwa ekstrak Aspergillus subgenus Circumdati section Flavi ES4 tidak memiliki kemampuan dalam menghambat pertumbuhan maupun membunuh mikroorganisme uji yaitu khamir C. albicans UICC Y-29. Aktivitas antimikroba hanya terlihat pada daerah di sekitar kertas cakram yang mengandung nistatin 1.000 ppm (v/v) (kontrol positif).
+Pengujian aktivitas antifungi ekstrak senyawa antimikroba dari Aspergillus subgenus Circumdati section Flavi ES4 dengan metode difusi agar cara cakram tidak menunjukkan adanya aktivitas penghambatan seperti yang ditunjukkan pada pengujian aktivitas antifungi dengan blok agar. Diduga senyawa antifungi dari Aspergillus subgenus Circumdati section Flavi ES4 tidak mampu dilarutkan dengan baik oleh pelarut organik yang digunakan pada saat proses ekstraksi. Pelarut organik tidak mampu melarutkan senyawa antimikroba karena diduga terdapat perbedaan interaksi yaitu perbedaan tingkat kepolaran dengan senyawa antimikroba tersebut.
+
+a ES4 (EA)
+
+b ES4 (M)
+
+c ES4 (NH)
+
+(+)
+
+H2O
+
+(+)
+
+H2O
+
+(+)
+
+H2O
+
+(-) 1 cm
+
+(-)
+
+1 cm
+
+(-)
+
+1 cm
+
+Keterangan: a. ES4 (EA) (ekstrak Aspergillus subgenus Circumdati section Flavi ES4
+dalam etil asetat) terhadap C. albicans UICC Y-29 b. ES4 (M) (ekstrak Aspergillus subgenus Circumdati section Flavi ES4
+dalam metanol) terhadap C. albicans UICC Y-29 c. ES4 (NH) (ekstrak Aspergillus subgenus Circumdati section Flavi ES4
+dalam n-heksana) terhadap C. albicans UICC Y-29 (+) = Kontrol positif (nistatin) (-) = Kontrol negatif (pelarut organik) H2O = Kontrol akuades steril
+Gambar 4.5.(2). Hasil pengujian aktivitas antifungi ekstrak Aspergillus subgenus Circumdati section Flavi ES4 dengan difusi agar cara cakram terhadap C. albicans UICC Y-29, inkubasi selama 24 jam di suhu ruang
+
+[Sumber: Dokumentasi pribadi.]
+
+Universitas Indonesia Identifikasi kapang ..., Kirana Listiandiani, FMIPA UI, 2011
+
+61
+Kemungkinan lain adalah konsentrasi senyawa antimikroba Aspergillus subgenus Circumdati section Flavi ES4 yang berhasil diekstraksi sangat rendah. Salah satu alternatif untuk memperoleh senyawa antimikroba dalam jumlah yang lebih banyak adalah dilakukan fermentasi pada medium cair. Pada penelitian ini Aspergillus subgenus Circumdati section Flavi ES4 hanya ditumbuhkan pada medium padat (PDA) sebelum dilakukan ekstraksi. Apabila kapang ditumbuhkan pada medium padat, kontak antara kapang dengan nutrien hanya terjadi pada permukaan medium, sehingga penyerapan nutrien oleh kapang menjadi terbatas. Apabila dilakukan fermentasi pada medium cair, kontak antara kapang dengan nutrien terjadi lebih optimal karena seluruh bagian dari kapang berada di dalam medium tersebut. Penyerapan nutrien yang lebih banyak akan membuat kapang lebih banyak menghasilkan metabolit sekunder yang dikeluarkan secara ekstraselular. Oleh karena itu, fermentasi dengan medium cair diperkirakan akan menghasilkan lebih banyak metabolit sekunder dibandingkan dengan medium padat. Sunkar dan Nachiyar (2011: 1136) melakukan proses fermentasi kapang endofit Aspergillus sp. dalam medium cair PDB selama 7 hari sebelum dilakukan ekstrasi senyawa antimikroba. Hasil pengujian menunjukkan ekstrak senyawa antimikroba mampu menghambat pertumbuhan B. subtilis.
+4.6. Pemisahan Senyawa Antimikroba
+Pemisahan golongan senyawa antimikroba dari ekstrak senyawa kapang endofit dilakukan dengan metode Kromatografi Lapis Tipis (KLT). Ekstrak senyawa kapang endofit yang dipisahkan komponennya adalah ekstrak senyawa F. equiseti ES2 dalam etil asetat dan metanol. F. equiseti ES2 menunjukkan aktivitas antimikroba terhadap bakteri B. subtilis ATCC 6633 pada saat pengujian dengan blok agar dan pengujian dengan difusi agar cara cakram, sehingga dapat diasumsikan bahwa ekstrak F. equiseti ES2 mengandung senyawa antibakteri. Hasil pengamatan KLT dan nilai Rf dapat dilihat pada Tabel 4.6.
+Pemisahan ekstrak senyawa antimikroba dari F. equiseti ES2 dalam etil asetat dengan eluen etil asetat:metanol (7:3) menghasilkan dua bercak. Pemisahan ekstrak senyawa antimikroba dari F. equiseti ES2 dalam metanol dengan eluen
+Universitas Indonesia Identifikasi kapang ..., Kirana Listiandiani, FMIPA UI, 2011
+
+62
+
+etil asetat:metanol (7:3) menghasilkan satu bercak. Pemisahan kedua ekstrak dengan menggunakan etil asetat:metanol (3:7) dan eluen metanol:etil asetat:nheksana (1:1:1) menghasilkan masing-masing satu bercak. Diduga komponen senyawa antimikroba tersebut tidak berhasil terpisah dengan baik oleh eluen sehingga hanya dapat menarik satu bercak. Diperkirakan antara eluen dengan senyawa antimikroba tidak sesuai sifat kepolarannya. Menurut Sharma dkk.(2009: 24), komponen-komponen dari suatu senyawa dapat terpisahkan berdasarkan kepolaran antara senyawa dengan eluen yang digunakan dan berdasarkan perbedaan berat molekul.
+
+Tabel 4.6. Hasil KLT untuk memisahkan senyawa antimikroba ekstrak F. equiseti ES2 divisualisasikan dengan sinar UV 365 nm
+
+Ekstrak F. equiseti ES2 Ekstrak dalam etil asetat
+
+EA:M (7:3) 0,57 0,97
+
+Nilai Rf EA:M (3:7)
+0,80
+
+M:EA:NH (1:1:1) 0,92
+
+Ekstrak dalam methanol
+
+0,56
+
+0,3
+
+0,73
+
+Keterangan: Rf = Retention factor EA = Etil asetat
+
+M = Metanol NH = n-heksana
+
+Pemisahan komponen senyawa dengan KLT menggunakan eluen etil asetat:metanol (7:3) menghasilkan bercak dari ekstrak dalam etil asetat dan metanol. Nilai Rf yang diperoleh hampir serupa, yaitu 0,57 dan 0,56. Nilai Rf yang hampir sama dapat mengindikasikan bahwa bercak-bercak tersebut meupakan komponen yang sama. Menurut Margino (2008: 92), apabila dua bercak memiliki nilai Rf yang hampir sama, maka kemungkinan besar komponen tersebut berasal dari kelompok senyawa yang sama.
+
+4.7. Bioautografi
+
+Bioautografi dilakukan pada pelat KLT yang mengandung ekstrak senyawa antimikroba dari F. equiseti ES2 (ektrak dalam etil asetat dan metanol) yang telah dipisahkan. Hasil yang diperoleh adalah bercak hasil pemisahan ekstrak senyawa F. equiseti ES2 (ekstrak dalam etil asetat dan metanol) tidak
+
+Universitas Indonesia Identifikasi kapang ..., Kirana Listiandiani, FMIPA UI, 2011
+
+63
+menunjukan aktivitas antimikroba, baik pada bioautografi kerik maupun agar overlay. Hal tersebut mengindikasikan bahwa senyawa antimikroba yang telah dipisahkan berupa bercak hasil KLT tidak mampu menghambat pertumbuhan B. subtilis ATCC 6633. Tidak adanya aktivitas antimikroba terlihat dari tidak terbentuknya zona hambat di sekitar hasil kerikan dan di sekitar bercak pada pelat KLT.
+Pengujian bioautografi tidak menunjukkan adanya aktivitas antimikroba seperti yang ditunjukkan pada pengujian dengan blok agar dan dengan difusi agar cara cakram. Hal tersebut diduga karena konsentrasi komponen aktif pada bercak pelat KLT sangat rendah, sehingga tidak mampu menunjukkan aktivitas antibakteri terhadap B. subtilis ATCC 6633. Kemungkinan lain adalah bercak pada pelat KLT tersebut bukan merupakan komponen aktif dari senyawa antimikroba, sehingga ketika diujikan pada bioautografi hasil yang diperoleh tidak menunjukkan adanya aktivitas antimikroba. Menurut Sudirman (2005: 67), senyawa antimikroba terdiri dari komponen aktif dan komponen tidak aktif. Berdasarkan hal tersebut dapat diasumsikan bahwa KLT yang dilakukan belum berhasil membuat komponen aktif senyawa antimikroba berdifusi pada kromatogram, sehingga pada uji bioautografi tidak terlihat adanya aktivitas antimikroba.
+Penelitian ini berhasil mengisolasi dan mengidentifikasi kapang endofit dari daun Broussonetia papyrifera. Kapang endofit Aspergillus subgenus Circumdati section Flavi ES4 dan Fusarium equiseti ES2 berpotensi sebagai penghasil senyawa antimikroba.
+Universitas Indonesia Identifikasi kapang ..., Kirana Listiandiani, FMIPA UI, 2011
+
+BAB 5 KESIMPULAN DAN SARAN
+5.1. Kesimpulan
+1. Diperoleh satu isolat kapang endofit dari daun B. papyrifera asal Kota Bandung dan diberi kode isolat ES4.
+2. Hasil identifikasi berdasarkan karakter morfologi diduga bahwa isolat kapang endofit ES1 dan ES4 merupakan Aspergillus subgenus Circumdati section Flavi; isolat kapang endofit ES3 merupakan Cladosporium macrocarpum; dan isolat kapang endofit ES2 merupakan Fusarium equiseti.
+3. Aspergillus subgenus Circumdati section Flavi ES4 memiliki aktivitas antifungi terhadap C. albicans UICC Y-29, dan Fusarium equiseti ES2 memiliki aktivitas antibakteri terhadap B. subtilis ATCC 6633 pada pengujian dengan blok agar.
+4. Diperkirakan sifat kepolaran senyawa antimikroba dari ekstrak F. equiseti ES2 adalah polar karena dapat terlarut dalam pelarut organik metanol yang bersifat polar dan semipolar karena dapat terlarut dalam etil asetat yang bersifat semipolar.
+5. Ekstrak senyawa antimikroba dari F. equiseti ES2 dalam metanol menunjukkan aktivitas antibakteri terhadap B. subtilis ATCC 6633 dengan diameter zona hambat rata-rata sebesar 9,51 ± 0,25 mm (setara dengan aktivitas antimikroba tetrasiklin 121,9 ppm), sedangkan ekstrak dalam etil asetat menunjukkan aktivitas antibakteri terhadap B. subtilis ATCC 6633 dengan diameter zona hambat rata-rata sebesar 16,7 ± 0,74 mm (setara dengan aktivitas antimikroba tetrasiklin 214,1 ppm).
+6. Bioautografi dari bercak hasil KLT ekstrak F. equiseti ES2 terhadap B. subtilis ATCC 6633 tidak menunjukkan aktivitas antimikroba.
+5.2. Saran
+1. Perlu dilakukan identifikasi kapang-kapang endofit Aspergillus subgenus Circumdati section Flavi ES1 dan ES4, Cladosporium macrocarpum ES3, dan
+
+64
+
+Universitas Indonesia
+
+Identifikasi kapang ..., Kirana Listiandiani, FMIPA UI, 2011
+
+65 Fusarium equiseti ES2 secara molekular untuk mendapatkan hasil identifikasi yang lebih akurat. 2. Perlu dilakukan fermentasi Aspergillus subgenus Circumdati section Flavi ES4 dalam medium cair, untuk mendapatkan senyawa antimikroba dalam konsentrasi yang lebih banyak. 3. Perlu dilakukan pemilihan eluen KLT lain untuk pemisahan komponen senyawa antimikroba yang lebih baik.
+Universitas Indonesia Identifikasi kapang ..., Kirana Listiandiani, FMIPA UI, 2011
+
+DAFTAR REFERENSI
+Agusta, A. 2009. Biologi dan kimia jamur endofit. Penerbit ITB, Bandung: vii + 110 hlm.
+Ando, K., C. Nakashima, J.Y. Park, & M. Otoguro. 2003. Workshop on isolation methods of microbes. Research and Development Center for Biotechnology Indonesia Institute of Science: 44 hlm.
+Atlas, R.M. 2010. Handbook of microbiological media. CRC Press Inc., Florida: vi + 2036 hlm.
+Backer, C.A. & R.C.B. Bakhuizen van Den Brink Jr. 1965. Flora of Java (Spermatophytes only). Vol II. Wolters-Noordhoff. N. V., Groningen: (72) + 641 hlm.
+Barik, B.P., K. Tayung, P.N. Jagadev, & S.K. Dutta. 2010. Phylogenetic placement of an endophytic fungus Fusarium oxysporum isolated from Acorus calamus rhizomes with antimicrobial activity. EJBS 2(1): 8--16.
+Barnett, H.L. & B.B. Hunter. 2003. Illustrated genera of imperfect fungi. 4th ed. Prentice Hall, Inc., U.S.A: xxi + 218 hlm.
+Barnett, J.A., R.W. Payne, D. Yarrow, & L. Barnett. 2000. Yeast: Characteristics and identification. 3rd ed. Cambridge University Press, Cambridge: 1150 hlm.
+Barrow, G.I. & R.K.A. Feltham. 1993. Cowan and Steel's manual for the identification of medical bacteria. 3rd ed. Cambridge University Press, Cambridge: xvii + 330 hlm.
+Benson, H.J. 2001. Microbiological application: Laboratory manual in general microbiology. The McGraw-Hills Company, Inc., New York: xi + 478 hlm.
+Bérdy, J. 2005. Bioactive microbial metabolites. J. Antibiot. 58 (1): 1--26. Bishop, C.B., M.B. Bishop, K.W. Whitten dan K.D. Gailey. Experimental in
+general chemistry. 2nd ed. Saunders College Publishing, Forth: xii + 966 hlm.
+
+66
+
+Universitas Indonesia
+
+Identifikasi kapang ..., Kirana Listiandiani, FMIPA UI, 2011
+
+67
+Black, G.J. 1999. Microbiology: Principles and exploration. 4th ed. John Wiley & Sons, Inc., Chichester: xxiv + 786 hlm.
+Brooks, D. 1974. Student's guide to chemistry, a modern introduction. W.B. Saunders Company, Philadelphia: xvii + 233 hlm.
+Buchanan, R.E., & N.E. Gibbons. 1974. Bergey's manual of determinative bacteriology. The Williams & Wilkins Company, Baltimore: xxvi + 1268 hlm.
+Campbell, N.A., J.B. Reece, L.G. Mitchell. 2003. Biologi Jilid 2. Terj. dari Biology; oleh Manalu, W. Erlangga, Jakarta: xxii + 404 hlm.
+Cappuccino, J.G. & N. Sherman. 1996. Microbiology: a laboratory manual. The Benjamin/Cummings Publishing Inc., California: xvii + 477 hlm.
+Carlile, M.J., S.C. Watkinson, & G.W. Gooday. 2001. The fungi. Academic Press, California: xix + 588 hlm.
+Caruso, M., A.L. Colombo, L. Fedeli, A. Pavesi, S. Quaroni, M. Saracchi, & G. Ventrella. 2000. Isolation of endophytic fungi and actinomycetes taxane producers. Annals of Microbiology 50: 3--13.
+Choma, I. 2005. The use of thin-layer chromatography with direct bioautography for antimicrobial analysis. LGCG Europe 18(9): 1--7.
+Collins, C.H., P. M. Lyne, J. M. Grange, & J. O. Falkinham III. 2004. Collins and Lyne's microbiological methods. 8th ed. Arnold Publisher, London: viii + 445 hlm.
+de Errasti, A., C.C. Carmaran, & M.V. Novas. 2010. Diversity and significance of fungal endophytes from living stems of naturalized trees from Argentina. Fungal Diversity 41: 29--40.
+Deacon, J.W. 2006. Fungal biology. Blackwell publishing, Cornwall: iv + 371 hlm.
+Devarajan, P.T. & T.S. Suryanarayanan. 2002. Endophytic fungi associated with the tropical grass Halophila ovagris (Hydrocharitaceae). Indian Journal of Marine Science 31(1): 73--74.
+Devaraju, R. & S. Satish. 2011. Endophytic mycoflora of Mirabilis jalapa L. and studies on antimicrobial activity of its endophytic Fusarium sp. Asian J. Exp. Biol. Sci. 2(1): 75--79
+Universitas Indonesia Identifikasi kapang ..., Kirana Listiandiani, FMIPA UI, 2011
+
+68
+Ding, G., S.C. Liu, L.D. Guo, Y.G. Zhou, & Y.S. Che. 2007. Antifungal metabolites from the plant endophytic fungus Pestalotiopsis foedan. J. Nat. Prod. 71: 615--618.
+Estrela, C., C.R.A. Estrela, E.L. Barbin, J.C.E. Spano, M.A. Marchesan, & J.D. Pecora. 2002. Mechanism of Action of Sodium Hypochlorite. Braz. Dent. J. 13(2): 113--117.
+Ferrón, M.A., J.L. López, J.A. Pérez, J.M. Sevilla, & Y. Chisty. 2005. Rapid screening of Aspergillus terreus mutants for overproduction of lovastatin. World J. Microbiol. Biotechnol. 21: 123--125.
+Gandjar, I., I.R. Koentjoro, W. Mangunwardoyo, & L. Soebagya. 1992. Pedoman praktikum mikrobiologi dasar. Jurusan Biologi FMIPA UI, Depok: vii + 79 hlm.
+Gandjar, I., R.A. Samson, K. van den Tweel-Vermeulen, A. Oetari, & I. Santoso. 1999. Pengenalan kapang tropik umum. Yayasan Obor Indonesia. Jakarta: xiii + 136 hlm.
+Gandjar, I., W. Sjamsuridzal, A. Oetari. 2006. Mikologi dasar dan terapan. Yayasan Obor Indonesia, Jakarta: xi + 236 hlm.
+Gehlot, P., I.H. Attitalla, & B. Salleh. 2010. Anamorphic fungi: an overview. Middle East Journal of Scientific Research 6(3): 201--208
+Giguère. S., J.F. Prescott, J.D. Baggot, R.D. Walker, & P.M. Dowling. 2006. Antimicrobial therapy in veterinary medicine. 4th ed. Blackwell Publishing, Iowa: xviii + 626 hlm.
+Hanson, J.R. 2008. The chemistry of fungi. RSC Publishing, Cambridge: xi + 221 hlm.
+Hogg, S. 2005. Essential microbiology. John Wiley & Sons Ltd., West Sussex: x + 468 hlm.
+Kavanagh, K. 2005. Fungi,biology and applications. John Wiley & Sons Ltd., West Sussex: xi + 267 hlm.
+Khan, R., S. Shahzad, M.I. Choudhary, S.A. Khan, & A. Ahmad. 2007. Biodiversity of the endophytic fungi isolated from Calotropis procera (ait.) R. Br. Pak. J. Bot. 39 (6): 2233--2239.
+Universitas Indonesia Identifikasi kapang ..., Kirana Listiandiani, FMIPA UI, 2011
+
+69
+Kinghorn, A.D., J.M. Pezzuto, L. Dongho, & K.P.L. Bhat. 2004. Aromatase inhibitors from Broussonetia papyrifera. United States Patent: 1--19.
+Klich, M.A. 2002. Identification of common Aspergillus Species. Centraalbureau voor Schimmelcultures., Netherlands: v + 116 hlm.
+Koneman, E.W. & G.D. Roberts. 1985. Practical laboratory mycology. 3rd ed. Williams and Wilkins Publisher, Baltimore: vii + 211 hlm.
+Kumala, S. & E.B. Siswanto. 2007. Isolation and screening of endophytic microbes from Morinda citrifolia and their ability to produce antimicrobial substances. Microbiology Indonesia 1(3): 145--148.
+Kumala, S., Syarmalina, & A.R. Handayani. 2006. Isolasi dan uji antimikroba substansi bioaktif mikroba endofit ranting tanaman Johar (Cassia siamea Lamk.). Jurnal Ilmu Kefarmasian Indonesia 4(1): 8--14.
+Kusari, S., M. Lamshöft, & M. Spiteller. 2009. Aspergillus fumigates Fresenius, an endophytic fungus from Juniperus communis L. Horstmann as a novel source of the anticancer pro-drug deoxypodophyllotoxin. J. Appl. Microbiol. 107(3): 1019--1030.
+Kusumaningtyas, E., E. Astuti, & Darmono. 2008. Sensitivitas metode bioautografi kontak dan agar overlay dalam penentuan senyawa antikapang. Jurnal Ilmu Kefarmasian Indonesia 6(2): 75--79.
+Larran, S., C. Mónaco, & H.E. Alippi. 2001. Endophytic fungi in leaves of Lycopersicon esculentum. World J. Microbiol. Biotechnol. 17: 181--184.
+Lengeler, J.W., G. Drews. & H.G. Schlegel. 1999. Biology of prokaryotes. George Thieme Verlag, Stuttgart: xxvii + 995 hlm.
+Nithya, K. & J. Muthumary. 2011. Bioactive metabolite produced by Phomopsis sp. an endophytic fungus in Allamanda cathartica. Linn. Rec. Res. Sci. Tech. 3(3): 44--48
+Madigan 2000, M.T., J.M. Martinko, & J. Parker. 2000. Brock: Biology of microorganisms. 9th ed. Prentice Hall, New Jersey: xix + 991 hlm.
+Mann, J. 1995. Secondary metabolism. 2nd ed. Oxford University Press Inc., New York: xv + 347 hlm.
+Margino, S. 2008. Produksi metabolit sekunder (antibiotik) oleh isolat jamur endofit Indonesia. Majalah Farmasi Indonesia 19(2): 86--94.
+Universitas Indonesia Identifikasi kapang ..., Kirana Listiandiani, FMIPA UI, 2011
+
+70
+Maria, G.L., K.R. Sridhar, & N.S. Raviraja. 2005. Antimicrobial and enzyme activity of mangrove endophytic fungi of southwest coast of India. J. Agr. Tech. 1: 67--80.
+Masoko, P., & J.N. Eloff. 2006. Bioautography indicates the multiplicity of antifungal compounds from twenty-four southern African Combretum species (Combretaceae). Afr. J. Biotechnol. 5 (18):1625--1647.
+McCreath, K.J., C. A. Specht, & P. W. Robbins. 1994. Molecular cloning and characterization of chitinase genes from Candida albicans. Proc. Nat. Acad. Sci. 92: 2544--2548
+McDonnell, G. & A.D. Russell. 1999. Antiseptic and disinfectants: Activity, action, and resistance. Clinical Microbiology Review 12(1): 147--179
+Mitchell, A.M., G.A. Strobel, E. Moore, R. Robinson, & J. Sears. 2010. Volatile antimicrobial from Muscodor crispan, a novel endophytic fungus. Microbiology 156: 270--277.
+Mueller, J.M., J.F. Bills, & M.S. Foster. 2004. Biodiversity of fungi: inventory and monitoring method. Elsevier Academic Press Inc., Amsterdam: xviii + 777 hlm.
+Muliana, D. 2007. Penapisan isolat kapang dari serasah penghasil senyawa antimikroba terhadap bakteri dan fungi uji. Skripsi S1 Departemen Biologi FMIPA UI, Depok: vii + 107 hlm.
+Mwaura, P., T. Dubois, T. Losenge, D. Coyne, & E. Kahangi. 2010. Effect of endophytic Fusarium oxysporum on paralysis and mortality of Pratylenchus goodeyi. African Journal of Biotechnology 9(8): 1130--1134.
+Pankey, G.A. & L.D. Sabath. 2004. Clinical relevance of bacteriostatic versus bactericidal mechanisms of action in the treatment of Gram-positive bacterial infection. Oxford Journal 38: 864--870.
+Permadi, T. 2005a. Konservasi tradisi pembuatan daluang sebagai salah satu upaya penyelamatan teknologi tradisional nusantara. Disampaikan pada Diskusi Pakar dengan tema "Pemenuhan Hak Atas Ilmu Pengetahuan dan Teknologi, Budaya dan Seni" di Permata Bidakara Bandung Hotel, 28--29 November 2005.
+Universitas Indonesia Identifikasi kapang ..., Kirana Listiandiani, FMIPA UI, 2011
+
+71
+Permadi, T. 2005b. Asal-usul pemanfaatan dan karakteristik daluang-Bahan naskah dalam tradisi tulis nusantara. Disampaikan pada Diskusi Pakar dengan tema "Pemenuhan Hak Atas Ilmu Pengetahuan dan Teknologi, Budaya dan Seni" di Permata Bidakara Bandung Hotel, 28--29 November 2005.
+Photita, W., S. Lumyong, P. Lumyong, E.H.C. McKenzie, & K.D. Hyde. 2004. Are some endophytes of Musa acuminata latent pathogens?. Fungal Diversity 16: 131--140.
+Poeloengan, M. 2009. Uji aktivitas antibakteri ekstrak metanol daun miana (Coleus seutellarioides (L.) Benth) terhadap bakteri Salmonella enteritidis dan Staphylococcus aureus. Jurnal Biotika 7(2): 61--68
+Praptiwi, Y., S. Jamal, A. Fathoni, & A. Agusta. 2009. Antimicrobial metabolite from the culture of endophytic fungus AFK-8 isolated from kayu kuning (Archangelisia flava (L.) Merr.). International Seminar Biotechnology: 1-9.
+Radji, M. 2005. Peranan bioteknologi dan mikroba endofit dalam pengembangan obat herbal. Majalah Ilmu Kefarmasian 2(3): 113--126.
+Rao, S. 2008. Sterilization and disinfection. Juni 2008: 10 hlm. www.microrao.com/micronotes/sterilization.pdf. 1 April 2009. pk. 18:23.
+Rubini, M.R., R.T. Silva-Ribeiro, A.W.V. Pomella, C.S. Maki, W.L. Araujo, D.R. dos Santos, & J.L. Azevedo. 2005. Diversity of endophytic fungal community of cacao (Theobroma cacao L.) and biological control of Crinipellis perniciosa, causal agent of Witches' Broom Disease. Int. J. Bio. Sci. 1: 24--33.
+Ryan, K. J. & C. J. Ray. 2004. Sherris Medical microbiology: An introduction to infectious diseases. 4th ed. The McGraw Hills Companies, Inc.: xii + 937 hlm.
+Rydberg, J. 2004. Solvent extraction principles and practice. 2nd ed. CRC, New York: 750 hlm.
+Sadava, D., W.K. Purves, C. Heller, & G.H. Orians. 2004. Life - The science of biology. 7th ed. W.H.Freeman & Co Ltd, Virginia: 1121 hlm.
+Universitas Indonesia Identifikasi kapang ..., Kirana Listiandiani, FMIPA UI, 2011
+
+72
+Salle, A.J. 1954. Fundamental principles of bacteriology. 4th ed. McGraw-Hill Book Company, Inc., New York: vii + 782 hlm.
+Samson, R.A., E.S. Hoekstra, & J.C. Frisvad. 2004. Introduction to food and airborne fungi. Centraalbureau Voor Schimmelcultures, Utrecht: 383 hlm.
+Sati, S.C., M. Belwal, & N. Pargaien. 2008. Diversity of water borne conidial fungi as root endophyte in temperate forest of western Himalaya. Nature and Science 6: 59-69.
+Sharma, A., V.K. Patel, & P. Ramteke. 2009. Identification of vibrocidal compound from medical plant. World. J. Microbiol. Biotehnol. 25: 19--25.
+Sherma, J. & B. Fried. 2003. Handbook of thin-layer chromatography. 3rd ed. Marcel Dekker, Inc., New York: xv + 997 hlm.
+Schüler, A., D. Schwarzott, & C. Walker 2001. A new fungal phylum, the Glomeromycota: phylogeny and evolution. Mycol. Res. 105(12): 1413-- 1421.
+Siddiquee, S., U.K. Yusuf, & N.A. Zainudin. 2010. Morphological and molecular detection of Fusarium chlamydosporum from root endophytes of Dendrobium crumenatum. Afr. J. Biotechnol. 9(26): 4081--4090.
+Simarmata, R., S. Lekatompessy, & H. Sukiman. 2007. Isolasi mikroba endofitik dari tanaman obat sambung nyawa (Gynura procumbens) dan analisis potensinya sebagai antimikroba. Berk. Penel. Hayati 13: 85--90.
+Srimathi, S., K.S.D. Narayani, & J. Muthumary. 2011. Studies on antimicrobial activities of Chaetomium atrobrunneum Ames against selected microorganisms. J. Exp. Sci. 2(5): 13--18.
+Spencer, J.F.T. & D.M. Spencer. 1997. Yeast in natural and artificial habitats. Springer, Berlin: 381 hlm.
+Strobel, G. & B. Daisy. 2003. Bioprospecting for microbial endophytes and their natural products. American Society of Microbiology 67(4): 491--502.
+Strobel, G., R.V. Miller, C. Miller, M. Condron, D.B. Teplow, & W.M. Hess. 1999. Cryptocandin, a potent antimycotic from endophytic fungus Cryptosporipsis quercina. Microbiology 145: 1919--1926
+Sudirman, L.I. 2005. Deteksi senyawa antimikroba yang diisolasi dari beberapa Lentinus tropis dengan metode bioautografi. Hayati 12(2): 67--72.
+Universitas Indonesia Identifikasi kapang ..., Kirana Listiandiani, FMIPA UI, 2011
+
+73
+Sunkar, S. & C.V. Nachiyar. 2011. Isolation and characterization of antimicrobial compounds produced by endophytic fungus Aspergillus sp. isolated from Writhia tinctoria. J. Pharm. Res. 4(4): 1136--1137.
+Suryanarayanan, T.S., N. Thirunavukkarasu, M.B. Govindarajulu, F. Sasse, R. Jansen, & T.S. Murali. 2009. Fungal Endophytes and Bioprospecting: An appeal for a concerted effort. Fungal Biology Reviews 23 (1--2): 9--19.
+Tan, R.X. & W.X. Zou. 2001. Endophyte: a rich source of functional metabolites. Nat. Prod. Rep 18: 448--459.
+Tanaka, M., H. Sukiman, M. Takebayashi, K. Saito, M. Suto, T.K. Prana, M.S. Prana, & F. Tomita. 1999. Isolation, screening, and phylogenetic identification of endophytes from plants in Hokkaido Japan and Java Indonesia. Microbes and Environments 14 (4): 237--241.
+Taqwim, F.S. 2007. Uji toksisitas dan uji antibakteri metabolit sekunder kapang endofit Garcinia forbesii King dan Garcinia porrecta Wall terhadap Staphylococcus aureus, Bacillus subtilis, Escherichia coli, Salmonella typhosa, dan Pseudomonas aeruginosa. Skripsi S1 Departemen Farmasi FMIPA UI, Depok: xvi + 109 hlm.
+Tong, W.Y., I. Darah, & Z. Latiffah. 2011. Antimicrobial activities of endophytic fungal isolated from medicinal herb Ortosiphon stamineus Benth. J. Med. Plant Res. 5(5): 831--836.
+Tortora, G.J., B.R. Funke, & C.L. Case. 2010. Microbiology, an introduction. 10th ed. Pearson Education Inc., San Francisco: xxxi + 812 hlm.
+Valera, M.C., K. da Silva, L.E. Maekawa, C. Carvalho, C.Y. Koga-Ito, C.H. Camargo, & R.S. Lima. 2009. Antimicrobial activity of sodium hypochlorite associated with intracanal medication for Candida albicans and Enterococcus faecalis inoculated in root canals. J. Appl. Oral Sci. 17(6): 555--559.
+Vaz, A.B., R.C. Mota, M.R. Bomfim, M.L. Vieira, C.L. Zani, C.A. Rosa, & L.H. Rosa. 2009. Antimicrobial activity from endophytic fungi associated with Orchidaceae in Brazil. Can. J. Microbiol. 55(12): 1381--1391.
+Universitas Indonesia Identifikasi kapang ..., Kirana Listiandiani, FMIPA UI, 2011
+
+74
+Verma, V.C., R.N. Kharwar, & A.C. Grange. 2010. Biosynthesis of antimicrobial silver nanoparticles by the endophytic fungus Aspergillus clavatus. Nanomedicine (Lond). 5(1): 33--40.
+Villaseñor, I.M., A.P. Canlas, K.M. Faustino, & K.G. Plana. 2004. Evaluation of the bioactivity of triterpene mixture isolated from Carmona retusa (Vahl.) Masam leaves. J. Ethnopharmacol. 92: 53--56.
+Webster, J. & R.W.S. Weber. 2007. Introduction to fungi. 3rd ed. Cambridge University Press, New York: xix + 841 hlm.
+Wenny, D.L. & R.K. Dumroese. 1987. Germination of conifer seeds surfacesterilized with bleach. Tree Planters Notes: 18--21.
+Whistler, W.A. & C.R. Elevitch. 2006. Broussonetia papyrifera (paper mulberry). Species Profiles for Pacific Island Agroforestry: 1--13.
+Wilson, M. 2005. Microbial inhabitants of human: their ecology and role in health and disease. Cambridge University Press, Cambridge: xix + 455 hlm.
+Xu, L., J. Wang, J. Zhao, P. Li, T. Shan, X. Li, & L. Zhou. 2010. Beauvericin from endophytic fungus, Fusarium redolens, isolated from Dioscorea zingiberensis and its antibacterial activity. Nat. Prod. Commun. 5(5): 811-814.
+Yu, H., L. Zhang, L. Li, C. Zheng, L. Guo, W. Li, P. Sun, & L. Qin. 2010. Recent development and future prospects of antimicrobial metabolites produced by endophytes. Microbiol. Res. 165(6): 437--449.
+Yulia, P.R. 2007. Isolasi dan seleksi kapang endofit penghasil antimikroba pada beberapa tanaman obat tradisional Indonesia. Sripsi S1 Departemen Farmasi FMIPA UI, Depok: xi + 127 hlm.
+Zhao, K., W. Ping, Q. Li, S. Hao, L. Zhao, T. Gao, & D. Zhou. 2009. Aspergillus niger var. taxi, a new species variant of taxol-producing fungus isolated from Taxus cuspidata in China. Journal of Applied Microbiology 107: 1202--1207.
+Zhang, P., P. Zhou, & L.J. Yu. 2009. An endophytic taxol producing fungus from Taxus media, Cladosporium cladosporioides MD2. Curr. microbial. 59(3): 227--232.
+Universitas Indonesia Identifikasi kapang ..., Kirana Listiandiani, FMIPA UI, 2011
+
+75
+Lampiran 1. Skema Kerja Penelitian
+Isolasi kapang endofit dari daun tumbuhan Broussonetia papyrifera asal Kota Bandung
+Identifikasi konvensional berdasarkan karakter morfologi kapang endofit dari daun tumbuhan Broussonetia papyrifera asal Desa Bejijong dan Kota Bandung
+Purifikasi kapang endofit dan mikroorganisme uji Pembuatan stock culture dan working culture
+Pengujian aktivitas antimikroba kapang endofit dengan blok agar Ekstraksi senyawa antimikroba dari kapang endofit
+Pengujian aktivitas antimikroba ekstrak kapang endofit terhadap mikroorganisme uji dengan difusi agar cara cakram
+Pemisahan komponen senyawa antimikroba dari ekstrak kapang endofit dengan kromatografi lapis tipis Bioautografi Penyusunan dan analisis data Penulisan skripsi
+Universitas Indonesia Identifikasi kapang ..., Kirana Listiandiani, FMIPA UI, 2011
+
+76
+Lampiran 2. Skema Cara Kerja Purifikasi Mikroorganisme Serta Pembuatan Stock Culture dan Working Culture
+
+original culture
+
+medium PCA (fungi) atau NA (bakteri)
+Diinkubasi suhu ruang hingga terbentuk koloni tunggal representatif
+
+Working culture
+
+Stock culture
+
+Inkubasi pada suhu ruang selama 4-7 hari untuk kapang (hingga sporulasi); 48 jam untuk khamir; atau 24 jam untuk bakteri.
+
+Lampiran 3. Skema Cara Kerja Identifikasi Konvensional Berdasarkan Karakter Morfologi Kapang Endofit
+
+Biakan umur 7 hari
+
+Medium PDA, metode stab Diinkubasi hingga sporulasi
+
+Pengamatan mikroskopis: Bentuk konidia Ukuran konidia Warna konidia Jenis hifa Ukuran (lebar) hifa Pigmentasi hifa Karakter khusus lainnya
+
+Preparat diamati dibawah mikroskop
+
+Pengamatan makroskopis: warna koloni
+tekstur permukaan zonasi
+growing zone radial furrow exudate drops warna sebalik koloni
+
+hasil pengamatan yang diperoleh dibandingkan dengan deskripsi pada literatur (Samson dkk. 2004 atau Koneman & Roberts 1984).
+
+Universitas Indonesia Identifikasi kapang ..., Kirana Listiandiani, FMIPA UI, 2011
+
+77
+Lampiran 4. Skema Cara Kerja Pengujian Aktivitas Antimikroba Dari Kapang Endofit Dengan Blok Agar
+Koloni dipotong berukuran 1 x 1 cm
+
+Biakan dari Working culture diinokulasi ke medium PDA & diinkubasi 7 hari, suhu ruang
+Zona hambat yang terbentuk diamati
+
+Blok agar diletakkan pada permukaan medium mengandung mikroorganisme
+uji
+Diinkubasi di suhu ruang selama 24 jam (bakteri) atau 24--48 jam (khamir)
+
+Lampiran 5. Skema Cara Kerja Ekstraksi Senyawa Antimikroba Dari Kapang Endofit
+
+Working culture  diinokulasi ke seluruh permukaan medium PDA & diinkubasi 7 hari, suhu ruang
+Ekstrakcair dipisahkan dari biomassa,
+dipindahkan ke dalam tabung Eppendorf
+
+Dipotong menjadi 3 bagian, masingmasing dimasukkan ke dalam tabung
+
+Pelarut organik
+
+metdanimolasukkeatnilke
+
+dalam n-heksana
+
+asetat
+
+Tabungtabung dikocok dengan tube mixer selama 5 menit pada suhu
+
+potongan agar dihaluskan dengan cara digerus menggunakan spatula
+
+Proses ekstraksi diulang sebanyak 3 kali, dimulai dari penambahan larutan hingga ekstrak cair dipindahkan ke dalam tabung Eppendorf
+
+Universitas Indonesia Identifikasi kapang ..., Kirana Listiandiani, FMIPA UI, 2011
+
+78
+
+Lampiran 6. Skema Cara Kerja Pengujian Aktivitas Antimikroba Ekstrak Kapang Endofit Terhadap Dengan Difusi Agar Cara Cakram
+
+Paper disc steril (d= 6 mm)
+Kapasitas 20 µl
+
+medium yang berisi mikroba uji
+1 2
+
+Medium diinkubasi, diamati zona hambat yang terbentuk, dihitung diameter dan indeks penghambatan (IP)
+1 2
+
+Dicelupkan dalam ekstrak kapang endofit
+
+3 4
+
+1 = Larutan uji 2 = Kontrol positif (antibiotic) 3 = Kontrol negatif (pelarut) 4 = Kontrol medium (akuades)
+
+3 4
+IP = diameter (zona hambat-paper disk) diameter paper disk
+
+Keterangan: Pengulangan untuk setiap larutan uji sebanyak 3 kali. Mikroba uji yang digunakan adalah E. coli, B. subtilis, dan C. albicans. Diinkubasi selama 24 jam (bakteri) atau 24--48 jam (khamir) pada suhu ruang
+· Hasil (+) terbentuk zona hambat, ada aktivitas antimikroba. · Hasil (-) tidak terbentuk zona hambat, tidak ada aktivitas antimikroba.
+
+Lampiran 7. Skema Cara Kerja Kromatografi Lapis Tipis
+
+Pelat silica gel 1 cm
+
+ditotolkan sebanyak jumlah sampel uji x 5 µl dengan mikropipet
+
+Chamber
+
+1 cm
+Nilai Rf dihitung
+Rf = Jarak tempuh senyawa Jarak tempuh pelarut
+
+Eluen
+Dikeringkan dan diamati di bawah sinar UV 254 nm
+
+Universitas Indonesia Identifikasi kapang ..., Kirana Listiandiani, FMIPA UI, 2011
+
+79 Lampiran 8. Skema Cara Kerja Bioautografi
+
+Pelat yang mengandung bercak hasil KLT
+
+Bercak pada pelat dikerik dengan hati-hati. Hasil kerikan diletakkan pada permukaan medium agar yang mengandung mikroorganisme uji
+
+Pelat KLT yang telah dikerik diletakkan pada dasar cawan petri. Medium berisi mikroorganisme uji dimasukkan ke dalam cawan petri
+
+Cawan petri pengujian bioautografi diinkubasi pada suhu ruang selama 24 jam (bakteri) atau 24--48 jam
+(khamir). Zona hambat yang menunjukkan aktivitas antimikroba di sekitar kerikan bercak dan di sekitar
+pelat KLT diamati.
+
+Universitas Indonesia Identifikasi kapang ..., Kirana Listiandiani, FMIPA UI, 2011
+
+80 Lampiran 9. Standar Warna Faber Castell
+Universitas Indonesia Identifikasi kapang ..., Kirana Listiandiani, FMIPA UI, 2011

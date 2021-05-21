@@ -1,0 +1,258 @@
+Molecular Immunology 46 (2009) 2210­2217
+Contents lists available at ScienceDirect
+Molecular Immunology
+journal homepage: www.elsevier.com/locate/molimm
+
+A pseudotype baculovirus-mediated vaccine confers protective immunity against lethal challenge with H5N1 avian influenza virus in mice and chickens
+Qunfeng Wu a,b, Liurong Fang a,b,, Xuebao Wu a,b, Bin Li a,b, Rui Luo a,b, Zhengjun Yu a,b, Meilin Jin a,b, Huanchun Chen a,b, Shaobo Xiao a,b,
+a State Key Laboratory of Agricultural Microbiology, Huazhong Agricultural University, Wuhan 430070, China b Laboratory of Animal Virology, College of Veterinary Medicine, Huazhong Agricultural University, Wuhan 430070, China
+
+article info
+Article history: Received 24 February 2009 Received in revised form 12 April 2009 Accepted 16 April 2009 Available online 14 May 2009
+Keywords: H5N1 avian influenza virus Pseudotype baculovirus Hemagglutinin protein Vaccine
+
+abstract
+Baculovirus has emerged recently as a novel and attractive gene delivery vehicle for mammalian cells. In this study, baculovirus pseudotyped with vesicular stomatitis virus glycoprotein was used as a vector to express the hemagglutinin (HA) protein of highly pathogenic H5N1 avian influenza virus, A/Chicken/Hubei/327/2004 (HB/327). The resultant recombinant baculovirus (BV-G-HA) mediated gene delivery and HA expression efficiently in mammalian cells. Mice immunized with 1 × 109 PFU of BV-GHA developed significantly higher levels of H5-specific antibodies and cellular immunity than those that received 100 g of DNA vaccines expressing HA, and were completely protected from lethal challenge with HB/327. Different vaccination doses were further tested in chickens, and these experiments demonstrated that 1 × 108 PFU of BV-G-HA offered complete protection from challenge with 100 LD50 of HB/327. These data indicate that the pseudotype baculovirus-mediated vaccine could be utilized as an alternative strategy against the pandemic spread of H5N1 influenza virus.
+© 2009 Elsevier Ltd. All rights reserved.
+
+1. Introduction
+Since 2003, repeated outbreaks of infection with highly pathogenic avian influenza (HPAI) H5N1 virus have occurred in poultry in eastern Asia and have had significantly deleterious effects on the poultry industry of the region (Webster et al., 2006). It has also been reported that the HPAI H5N1 virus can be transmitted directly from infected poultry to humans, and that it has caused a staggering 60% case fatality rate (http://www.who.int/ csr/disease/avain influenza/country/cases table 2009 04 08/en/). These serious cases highlight the urgent need to develop safer vaccines for the control of emerging H5N1 influenza viruses and the prevention of transmission of these viruses between poultry and humans.
+Currently, inactivated whole virus vaccines, which are prepared by growing the virus in embryonated chicken eggs, are used to prevent and control HPAI H5N1. However, owing to their high pathogenicity, handling of the wild-type viruses requires biosafety level-3 (BSL-3) containment. Moreover, the inactivated whole virus vaccines can induce immune responses to the nucleo-
+ Corresponding authors at: Laboratory of Animal Virology, College of Veterinary Medicine, Huazhong Agricultural University, 1 Shi-zi-shan Street, Wuhan 430070, China. Tel.: +86 27 8728 6884; fax: +86 27 8728 2608.
+E-mail addresses: fanglr@mail.hzau.edu.cn (L. Fang), vet@mail.hzau.edu.cn (S. Xiao).
+0161-5890/$ ­ see front matter © 2009 Elsevier Ltd. All rights reserved. doi:10.1016/j.molimm.2009.04.017
+
+protein antigen, which interferes with epidemiological surveillance by prohibiting direct serological distinction between vaccinated and field-exposed birds (James et al., 2008; Subbarao and Joseph, 2007). Several vaccine strategies have been explored in attempts to overcome these obstacles. Live vaccines based on viral vectors, such as poxvirus (Kreijtz et al., 2007), adenovirus (Gao et al., 2006), and Newcastle disease virus (DiNapoli et al., 2007; Ge et al., 2007), have been developed, and efficiently protective immunity can be produced under experimental conditions. However, pre-existing antibodies against viral vectors, attributable to previous exposure or vaccination, will interfere with administration of the recombinant genes to the host and will result in inconsistent protection for vaccinated birds. In addition, DNA immunization can elicit both humoral and cell-mediated immune responses and has been demonstrated to be a promising vaccination strategy, but the technology is still being developed for use in poultry, and cost and practicality issues need to be addressed (Jiang et al., 2007; Lalor et al., 2008).
+The baculovirus Autographa californica multiple Nucleopolyhedrovirus (AcMNPV) has been used traditionally as an efficient vehicle to overexpress recombinant proteins in insect cells. Recently, accumulating evidence has revealed that baculovirus carrying mammalian cell-active promoters is capable of transferring and expressing foreign genes in a variety of primary and established mammalian cells, as well as in animal models (Hofmann et al., 1995; Tani et al., 2003). Furthermore, it has been reported that a pseudotype baculovirus that displays the glycoprotein of vesicular stomatitis virus (VSV-G) on the envelope has an extended host
+
+Q. Wu et al. / Molecular Immunology 46 (2009) 2210­2217
+
+2211
+
+range and increased efficiency of transduction in mammalian cells and in mouse skeletal muscle (Pieroni et al., 2001; Barsoum et al., 1997). Thanks to its highly efficient gene delivery mechanism, baculovirus has stimulated increasing interest as a novel vector for vaccine development. Several research groups have demonstrated that direct vaccination with recombinant baculovirus can induce high-level humoral and cell-mediated immunity against various antigens (Lu et al., 2007; Strauss et al., 2007; Facciabene et al., 2004; Bai et al., 2008).
+In this study, a recombinant baculovirus (BV-G-HA) encoding the HA protein of H5N1 influenza virus A/Chicken/Hubei/327/2004 was constructed. The expression of the construct was characterized in vitro and its immunogenicity was investigated in vivo. Stronger immune responses were induced in a mouse model and the natural chicken host immunized with BV-G-HA than in those vaccinated with a DNA vaccine encoding the same antigen. Furthermore, complete protection against lethal challenge with HPAI H5N1 virus was observed in mice and chickens, suggesting that HA vaccination using the pseudotype baculovirus could be utilized as an alternative strategy to aid in the control of the pandemic spread of HPAI H5N1 virus.
+
+harvested after 2 days and stored in aliquots at -80 C. All experiments with HPAI virus were performed in a BSL-3 containment facility.
+2.2. Construction of recombinant baculoviruses
+The baculovirus transfer vector pFastBac-VSV/G and the pseudotype baculoviruses BV-G-CMV and BV-G-EGFP have been described previously (Wang et al., 2007). To generate a pseudotype baculovirus expressing the HA protein (BV-G-HA), the DNA fragment containing the HA expression cassette (CMV-HA-BGH polyA) was released from pCI-HA (a DNA vaccine construct that expresses the HA protein of HB/327) and inserted into pFastBac-VSV/G, which resulted in pFastBac-VSV/G-HA (Fig. 1A). Recombinant baculovirus was subsequently generated in the Bac-to-Bac® system (Invitrogen). Virus purification was performed as described previously (Facciabene et al., 2004), and the titer was determined using the BacPAKTM Baculovirus Rapid Titer kit (Clontech).
+2.3. Baculovirus transduction, immunofluorescence and confocal microscopy analysis
+
+2. Materials and methods
+2.1. Cells and virus
+Spodoptera frugiperda 9 (Sf-9) cells were propagated in Grace's medium (Invitrogen) supplemented with 10% (v/v) heatinactivated fetal bovine serum at 27 C. Baby hamster kidney (BHK-21) cells and Madin-Darby canine kidney (MDCK) cells were grown in Dulbecco's Modified Essential Medium (DMEM) containing 10% FBS at 37 C and 5% CO2. Influenza virus H5N1 A/Chicken/Hubei/327/2004 was inoculated into the allantoic cavity of 11-day-old embryonated chicken eggs. The allantoic fluid was
+
+Baculovirus transduction was performed as described previously (Fan et al., 2008). At 36 h post-transduction, cells were processed for indirect immunofluorescence assay (IFA) with a monoclonal antibody (2C9) against the HA of HB/327. Cell nuclei were counterstained with 0.1% DAPI (Sigma) for 5 min. Fluorescent images were examined under a confocal laser scanning microscope (LSM 510 Meta, Carl Zeiss).
+2.4. Animal experiments
+Groups of 6-week-old BALB/c mice (twenty mice per group) were immunized intramuscularly (i.m.) with 1 × 109 PFU of BV-
+
+Fig. 1. Construction and expression of pseudotype baculovirus BV-G-HA. (A) Schematic diagram of transfer plasmid for construction of recombinant baculovirus. (B and C) BHK-21 cells were transduced with BV-G-HA (B) or BV-G-CMV (C) at an MOI of 100, respectively. At 36 h post-transduction, cells were fixed and IFA was performed using an MAb (2C9) against the HA of HB/327, followed by FITC-conjugated goat anti-mouse IgG. Cell nuclei were counterstained with 0.1% DAPI. Fluorescent images were examined under a confocal laser scanning microscope.
+
+2212
+
+Q. Wu et al. / Molecular Immunology 46 (2009) 2210­2217
+
+G-HA, 1 × 109 PFU of BV-G-EGFP, 100 g of pCI-HA or 100 l of PBS on day 0 and on day 21, respectively. Blood samples were collected on day 20 and day 42 for serological tests. On day 42, the splenocytes of six mice per group were isolated for IFN- analysis. The remaining 14 mice were challenged intranasally (i.n.) with 50 50% mouse lethal doses (MLD50) of HB/327 and observed for clinical signs for 14 days. Six days after challenge, six mice per
+
+group were sacrificed for analysis of histopathological changes and viral replication in various tissues.
+For the avian study, groups of 4-week-old SPF chickens were immunized i.m. with 1 × 107, 1 × 108, or 1 × 109 PFU of BV-G-HA, or 1 × 109 PFU of BV-G-EGFP and PBS on day 0 and on day 21, respectively. On day 35, the chickens were challenged i.n. with 100 50% chicken lethal doses (CLD50) of HB/327 and observed for clinical
+
+Fig. 2. Humoral and cellular immune responses in mice immunized with BV-G-HA. Mice were immunized i.m. with BV-G-HA, BV-G-EGFP, pCI-HA or PBS, respectively. An identical booster immunization was performed 3 weeks later. Serum samples were collected on day 20 (blank bars) and day 42 (black bars) to determine the HI antibody titers (A), VN antibody titers (B), and HA1-specific IgG antibody titers (C). Splenocytes were isolated 42 days after primary immunization and stimulated with purified HA1 proteins for 72 h to determine IFN- secretion by ELISA (D), or to determine IFN- mRNA expression by real-time RT-PCR (E), using -actin gene expression as a housekeeping gene. All data represent the mean ± S.D.
+
+Q. Wu et al. / Molecular Immunology 46 (2009) 2210­2217
+
+2213
+
+signs for 14 days. Serum samples were collected on days 20 and 34 for serological tests. Oropharyngeal and cloacal swabs were collected from all chickens at 3, 5 and 7 days post-challenge for virus isolation in SPF embryonated eggs.
+2.5. Serological tests
+The hemagglutination inhibition (HI) assay and the virus neutralization (VN) assay were performed as described previously (Lalor et al., 2008). The HA-specific IgG antibodies were detected by enzyme-linked immunosorbent assay (ELISA) using 2.2 g/ml of purified recombinant HA1 protein as the antigen.
+
+indicating that BV-G-HA can enter mammalian cells efficiently and express the HA protein.
+3.2. Humoral and cellular immune responses in immunized mice
+To investigate the immunogenicity of BV-G-HA in a mouse model, mice were immunized i.m. with BV-G-HA, BV-G-EGFP, pCIHA, and PBS, respectively. At 20 days after primary immunization, all the mice immunized with BV-G-HA developed detectable H5-
+
+2.6. Analysis of IFN- expression by real-time RT-PCR and ELISA
+Mouse splenocytes were stimulated in vitro with 5 g/ml of purified HA1 protein. After 24 h stimulation, cells were collected and the expression of IFN- mRNA was detected by real-time RTPCR (Wang et al., 2007). For the IFN- ELISA, the supernatants were collected after 72 h stimulation and evaluated using a mouse IFN- ELISA kit (Biosourse).
+
+2.7. Real-time RT-PCR analysis of viral replication in tissues
+At 6 days post-challenge, the lungs, brains, hearts, livers, kidneys and spleens were collected from three mice in each group. The organs were weighed and homogenized in cold PBS (1 ml PBS per 1 g tissue). The total RNA was extracted, treated with DNase and reverse transcribed. Real-time RT-PCR was performed in a SYBR® Green mixture with gene-specific primers based on the HB/327 nucleoprotein gene (GAGAACGCCAGAATGCTAC/TCAGCCTCCCTTCATAGTCA) or mouse -actin (AACAGTCCGCCTAGAAGCAC/CGTTGACATCCGTAAAGACC).
+
+2.8. Histopathological analysis
+For microscopic evaluation of the pathological changes, the lungs and brains of three mice per group were collected at 6 days post-challenge. After fixation with 10% formalin, the lungs and brains were embedded in paraffin, sectioned, and stained with hematoxylin and eosin (HE).
+
+2.9. Statistical analysis
+An analysis of variance and Student's t-test were used to evaluate potential differences among the different groups with regard to the humoral and cellular immune responses, viral burdens, and body weights. Differences between groups were considered significant at P < 0.05.
+
+3. Results
+3.1. HA expression in mammalian cells transduced with recombinant baculovirus BV-G-HA
+To investigate whether the pseudotype baculovirus BV-G-HA can express the HA protein in mammalian cells, BHK-21 cells were transduced with BV-G-HA at an MOI of 100, and subjected to IFA at 36 h post-transduction. As shown in Fig. 1B, the expressed HA proteins with bright fluorescence could be detected by HA-specific MAb in BV-G-HA-transduced cells, but not in cells transduced with BV-G-CMV (Fig. 1C). Furthermore, it was found that nearly 90% of the cells had been transduced and were expressing HA proteins by counting the fluorescent cells from nine random fields per well,
+
+Fig. 3. Protective efficacy of BV-G-HA in mice. Mice were immunized as described for Fig. 2 and challenged with 50 MLD50 of HB/327 on day 42 after primary immunization. Mean weight loss (A) and survival (B) was evaluated for 14 days after challenge. Mean weight loss is expressed as a percentage of original weight. On day 6 post-challenge, three mice in each group were sacrificed. Viral burdens (C) in lungs (blank bars) and brains (black bars) were analyzed by real-time RT-PCR. Results are presented as means ± S.D. for three mice.
+
+2214
+
+Q. Wu et al. / Molecular Immunology 46 (2009) 2210­2217
+
+specific HI antibodies (Fig. 2A) and VN antibodies (Fig. 2B), while the titers were very low in mice immunized with pCI-HA. Following booster immunization, the mean titers of HI and VN antibodies increased greatly in mice immunized with BV-G-HA, and were significantly higher than those of the group vaccinated with pCI-HA (P < 0.01). The results of the H5-specific ELISA (Fig. 2C) showed a similar pattern to that seen with the HI and VN assays.
+Cellular immune responses were also evaluated after the booster immunization by measuring the expression of IFN- in splenocytes that had been stimulated with HA1 proteins in vitro. As shown in Fig. 2D, group BV-G-HA secreted the highest concentration of IFN-, which was at least fourfold higher than that of the BV-GEGFP group, fivefold higher than that of the pCI-HA group, and
+
+30-fold higher than that of the PBS control group, respectively. The expression of IFN- mRNA in splenocytes was also analyzed using real-time RT-PCR (Fig. 2E), and the results showed a similar pattern to that detected using the IFN- ELISA.
+3.3. Protection against challenge in vaccinated mice
+Three weeks after booster immunization, mice were challenged with 50 MLD50 of HB/327. Starting from day 3 post-challenge, the mice immunized with PBS or BV-G-EGFP demonstrated serious weight loss (Fig. 3A) and signs of illness. Moderate signs of illness were also observed in mice immunized with pCI-HA. In contrast, the BV-G-HA group only experienced slight weight loss during the
+
+Fig. 4. Histological lesions in the lungs and brains of mice after challenge with HB/327. At day 6 post-challenge, three mice in each group were euthanized and the lungs and brains were collected. The organs were fixed, embedded, sectioned, and stained with HE for histopathological evaluation. Original magnification: 400×.
+
+Q. Wu et al. / Molecular Immunology 46 (2009) 2210­2217
+
+2215
+
+the mice immunized with PBS or BV-G-EGFP, and at slightly lower level in the mice immunized with pCI-HA. Compared with those of the pCI-HA group, significantly reduced viral burdens were found in the lungs and brains of mice immunized with BV-G-HA (P < 0.01). The viral burdens in the hearts, livers, kidneys and spleens were also analyzed, but they were much lower than those in the lungs and brains (data not shown).
+Histological changes were also evaluated in the collected lungs and brains. Severe lesions were found in the lungs of mice immunized with PBS and BV-G-EGFP at 6 days post-infection (Fig. 4A and B). The main lesions in the brains of mice in these two groups were nonsuppurative encephalitis, characterized by focal necrosis of the cerebrum, cerebral vessels infiltration, diffuse gliosis, and necrosis of neurons (Fig. 4E and F). The mice immunized with pCI-HA showed a moderate interstitial pneumonia (Fig. 4C) and nonsuppurative encephalitis with neuronophagia (Fig. 4G). In contrast, the mice immunized with BV-G-HA mice did not exhibit obvious lesions in their lungs or brains (Fig. 4D and H). These results, together with the data from the analysis of viral burdens, indicate that immunization with BV-G-HA can efficiently prevent virus replication in the lungs and brains after lethal challenge.
+
+Fig. 5. Immune responses and protective efficacy in chickens immunized with BVG-HA. Chickens were vaccinated with the indicated doses of BV-G-HA at 0 and 21 days. On day 35, chickens were challenged with 100 CLD50 of HB/327. (A) HI antibody titers. Serum samples were collected on day 20 (blank bars) and day 34 (black bars) to determine the HI antibody titers against HB/327. Data are presented as means ± S.D. (B) Survival in chickens after challenge i.n. with 100 CLD50 of HB/327. All chickens were monitored for clinical signs and survival for 14 days.
+early period post-challenge. The survival rates in the BV-G-HA and pCI-HA groups were 100% and 62.5%, respectively, at 14 days postchallenge (Fig. 3B).
+To determine the viral burdens in tissues, six mice in each group were killed on day 6 post-challenge, and their lungs, brains and other internal organs were collected for analysis. As shown in Fig. 3C, viruses replicated at a high level in the lungs and brains of
+
+3.4. Protective immunity in chickens immunized with BV-G-HA
+To further investigate the immune response and protective efficiency induced by BV-G-HA in the natural chicken host. Groups of chickens were immunized with 1 × 107, 1 × 108, or 1 × 109 PFU of BV-G-HA, or with 1 × 109 PFU of BV-G-EGFP or PBS, respectively. Two weeks after the second immunization, all the chickens were challenged with 100 CLD50 of HB/327. The HI antibodies induced by BV-G-HA in different groups of chickens increased in a dosedependent manner (Fig. 5A). Chickens in the PBS and BV-G-EGFP groups did not survive for more than 2 days. All chickens immunized with 1 × 108 and 1 × 109 PFU of BV-G-HA survived the challenge without obvious clinical signs of disease, while there was a 66.7% survival rate in the group given 1 × 107 PFU (Fig. 5B). These results showed that immunization with 1 × 108 PFU of BV-G-HA was sufficient to offer complete protection from challenge with 100 CLD50 of HB/327. Oral and cloacal measurements of virus shedding showed that BV-G-HA vaccination greatly reduced excretion of the virus in a dose-dependent manner (Table 1).
+4. Discussion
+In this study, we investigated the immunogenicity and protective efficiency of the pseudotype baculovirus expressing the HA protein of HPAI H5N1 virus. Our results clearly showed that immunization with BV-G-HA could induce robust humoral and cellular immune responses and confer effective protection against lethal virus challenge in a mouse model and in the natural chicken host,
+
+Table 1 Positive virus isolated from oropharyngeal and cloacal swabs in individual chicken after challenge with 100 CLD50 of HB/327.
+
+Group
+
+Virus isolation from the swabs on different days post-challenge
+
+3 Days post-challenge
+
+5 Days post-challenge
+
+7 Days post-challenge
+
+Oropharyngeal
+
+Cloacal
+
+Oropharyngeal
+
+Cloacal
+
+Oropharyngeal
+
+Cloacal
+
+PBS
+
+NDa
+
+ND
+
+ND
+
+ND
+
+ND
+
+ND
+
+BV-G-EGFP 1 × 109 PFU
+
+ND
+
+ND
+
+ND
+
+ND
+
+ND
+
+ND
+
+BV-G-HA 1 × 107 PFU
+
+1/6b
+
+2/6
+
+0/4
+
+0/4
+
+0/4
+
+0/4
+
+BV-G-HA 1 × 108 PFU
+
+0/6
+
+1/6
+
+0/6
+
+0/6
+
+0/6
+
+0/6
+
+BV-G-HA 1 × 109 PFU
+
+0/6
+
+0/6
+
+0/6
+
+0/6
+
+0/6
+
+0/6
+
+Note: 2 weeks after the booster immunization, all chickens were challenged i.n. with 100 CLD50 of HB/327 and observed for clinical signs for 14 days. The swabs were collected at 3, 5 and 7 days post-challenge and then suspended in 1 ml cold PBS for virus isolation in embryonated eggs.
+a The chickens died before collecting swabs. b Data are numbers of positive swabs/total swabs.
+
+2216
+
+Q. Wu et al. / Molecular Immunology 46 (2009) 2210­2217
+
+which indicates that BV-G-HA may represent an alternative vaccine that could be used to prevent and control the pandemic spread of H5N1 influenza virus.
+Although the mechanisms of the adaptive immune response that are responsible for mediating vaccine-induced protective immunity have not been fully elucidated, it is widely accepted that measures of humoral immunity could represent valuable parameters by which to evaluate the efficacy of vaccines against homologous viruses (McMurry et al., 2008). The cell-mediated immunity has also been suggested to have important implication for protective immunity against serologically distinct viruses (Doherty et al., 2006; Gao et al., 2006). Therefore, the simultaneous induction of strong humoral immunity and robust cellular immunity should be considered when developing a new generation of vaccines against influenza virus. In this study, all the mice immunized with BV-G-HA developed stronger humoral and cellular immune responses than the mice immunized with pCI-HA. More importantly, compared with the DNA vaccine, BVG-HA induced significantly enhanced protective immunity against lethal challenge with H5N1 avian influenza virus. The enhanced immunogenicity of the recombinant baculovirus BV-G-HA may be attributable to its higher efficiency of transduction in vivo and more efficient antigen presentation to dendritic cells (DCs), which are the most important antigen presenting cells (Strauss et al., 2007). Nearly 90% of mammalian cells were transduced by BV-G-HA in our study. Similarly, Martyn et al. demonstrated that transduction by recombinant baculovirus was more efficient than the transfection of conventional DNA plasmids driven by the CMV promoter in both cell lines and primary cells (Martyn et al., 2007). The transduction of primary marmoset hepatocytes with recombinant baculovirus was 55 times more efficient than DNA transfection (Martyn et al., 2007), highlighting a major advantage of recombinant baculovirus for the delivery of foreign genes to mammalian cells. In addition, recent studies have demonstrated that baculovirus itself has the ability to induce innate immune responses through a signaling pathway that is dependent on Toll-like receptor 9 (TLR9)/MyD88, which results in the production of various cytokines, including members of the IFN family (Abe et al., 2005; Facciabene et al., 2004; Hervas-Stubbs et al., 2007). The unique ability of baculovirus to induce innate immunity may have contributed to the stronger expression of IFN- in mice immunized with BV-G-HA.
+In this study, we also investigated the immune response and protective efficiency induced in chickens by different doses of BV-G-HA. The results showed that 1 × 108 PFU of BV-G-HA was sufficient to offer complete protection against 100 CLD50 of HB/327, although it elicited only modest levels of HI antibody compared to the inactivated whole virus vaccine (data not shown). It is plausible that cell-mediated immunity also contributes to the protection. An obvious advantage of pseudotype baculovirus vaccine is easy manipulation, high yields (>1010 PFU/ml) and simple scale-up (Hu, 2005; Kost et al., 2005), which make the BV-G-HA vaccine suitable for pre-clinical and clinical trials and possible commercialization.
+Accumulating evidence has shown that HPAI H5N1 virus has evolved into several clades, which has led to distinct antigenicities of their hemagglutinins (Murakami et al., 2008). Thus, an ideal vaccine against H5N1 avian influenza should overcome the antigenic variability of the virus. In previous studies, recombinant adenoviruses (Gao et al., 2006), vaccinia virus (Kreijtz et al., 2007), Newcastle disease virus (DiNapoli et al., 2007; Ge et al., 2007), as well as plasmid DNA (Jiang et al., 2007; Lalor et al., 2008) expressing the full-length H5 HA were found to be immunogenic and protective against challenge with heterologous H5N1 influenza virus to some extents. In our study, the HI and VN antibody titers against HPAI H5N1 virus A/Goose/ZF/ZFE/2004, a virus that has diverged from HB/327, were also measured, and better cross-neutralization was observed in serum samples collected from mice immunized
+
+with BV-G-HA than those given pCI-HA (data not shown). To achieve more efficient cross-protective immunity against antigenic variant, several strategies have been developed recently. For example, to co-express several HA proteins or to express a consensus H5N1 hemagglutinin (HA) sequence derived from different clades of H5N1 avian influenza virus has been demonstrated to elicit a broad and cross-clade protective immunity (Chen et al., 2008). In addition, previous studies have demonstrated that co-expression of HA and other immunogenic proteins of H5N1 influenza virus, such as neuraminidase (NA) and M2, could significantly enhance the immune responses and protective efficiency (Bright et al., 2008; Holman et al., 2008; Lalor et al., 2008). The baculovirus vector has the advantage of being able to accommodate a large exogenous DNA genome (>30 kb) (Hu, 2005), which makes it suitable for co-expression of multiple heterologous antigens under independent promoters and allow for simultaneous induction of high-level humoral and cellular immunity, providing the possibility to develop more immunogenic, broader-spectrum vaccines. These studies are ongoing in our laboratory.
+In conclusion, the strong immunogenicity of BV-G-HA in mice and chickens, together with the unique advantages of the pseudotype baculovirus, which include easy manipulation, simple scale-up, lack of toxicity, and, more importantly, lack of pre-existing antibody against baculovirus in the host, indicates that gene delivery mediated by the pseudotype baculovirus could be utilized as an alternative strategy in the development of a new generation of vaccines against H5N1 HPAI virus.
+Acknowledgements
+This work was supported by the National Basic Research Program (973) of China (2005CB523200), the Key Technology R&D Programme (2006BAD06A04), the Key Project of Chinese Ministry of Education (108094) and the New Century Excellent Talent Project (NCET-06-0662).
+References
+Abe, T., Hemmi, H., Miyamoto, H., Moriishi, K., Tamura, S., Takaku, H., Akira, S., Matsuura, Y., 2005. Involvement of the Toll-like receptor 9 signaling pathway in the induction of innate immunity by baculovirus. J. Virol. 79, 2847­2858.
+Bai, B., Lu, X., Meng, J., Hu, Q., Mao, P., Lu, B., Chen, Z., Yuan, Z., Wang, H., 2008. Vaccination of mice with recombinant baculovirus expressing spike or nucleocapsid protein of SARS-like coronavirus generates humoral and cellular immune responses. Mol. Immunol. 45, 868­875.
+Barsoum, J., Brown, R., McKee, M., Boyce, F.M., 1997. Efficient transduction of mammalian cells by a recombinant baculovirus having the vesicular stomatitis virus G glycoprotein. Hum. Gene. Ther. 8, 2011­2018.
+Bright, R.A., Carter, D.M., Crevar, C.J., Toapanta, F.R., Steckbeck, J.D., Cole, K.S., Kumar, N.M., Pushko, P., Smith, G., Tumpey, T.M., Ross, T.M., 2008. Cross-clade protective immune responses to influenza viruses with H5N1 HA and NA elicited by an influenza virus-like particle. PLoS. ONE 3, e1501.
+Chen, M.W., Cheng, T.J., Huang, Y., Jan, J.T., Ma, S.H., Yu, A.L., Wong, C.H., Ho, D.D., 2008. A consensus-hemagglutinin-based DNA vaccine that protects mice against divergent H5N1 influenza viruses. Proc. Natl. Acad. Sci. U.S.A. 105, 13538­13543.
+DiNapoli, J.M., Yang, L., Suguitan Jr., A., Elankumaran, S., Dorward, D.W., Murphy, B.R., Samal, S.K., Collins, P.L., Bukreyev, A., 2007. Immunization of primates with a Newcastle disease virus-vectored vaccine via the respiratory tract induces a high titer of serum neutralizing antibodies against highly pathogenic avian influenza virus. J. Virol. 81, 11560­11568.
+Doherty, P.C., Turner, S.J., Webby, R.G., Thomas, P.G., 2006. Influenza and the challenge for immunology. Nat. Immunol. 7, 449­455.
+Facciabene, A., Aurisicchio, L., La Monica, N., 2004. Baculovirus vectors elicit antigenspecific immune responses in mice. J. Virol. 78, 8663­8672.
+Fan, H., Pan, Y., Fang, L., Wang, D., Wang, S., Jiang, Y., Chen, H., Xiao, S., 2008. Construction and immunogenicity of recombinant pseudotype baculovirus expressing the capsid protein of porcine circovirus type 2 in mice. J. Virol. Methods 150, 21­26.
+Gao, W., Soloff, A.C., Lu, X., Montecalvo, A., Nguyen, D.C., Matsuoka, Y., Robbins, P.D., Swayne, D.E., Donis, R.O., Katz, J.M., Barratt-Boyes, S.M., Gambotto, A., 2006. Protection of mice and poultry from lethal H5N1 avian influenza virus through adenovirus-based immunization. J. Virol. 80, 1959­1964.
+Ge, J., Deng, G., Wen, Z., Tian, G., Wang, Y., Shi, J., Wang, X., Li, Y., Hu, S., Jiang, Y., Yang, C., Yu, K., Bu, Z., Chen, H., 2007. Newcastle disease virus-based live attenuated vac-
+
+Q. Wu et al. / Molecular Immunology 46 (2009) 2210­2217
+
+2217
+
+cine completely protects chickens and mice from lethal challenge of homologous and heterologous H5N1 avian influenza viruses. J. Virol. 81, 150­158. Hervas-Stubbs, S., Rueda, P., Lopez, L., Leclerc, C., 2007. Insect baculoviruses strongly potentiate adaptive immune responses by inducing type I IFN. J. Immunol. 178, 2361­2369. Hofmann, C., Sandig, V., Jennings, G., Rudolph, M., Schlag, P., Strauss, M., 1995. Efficient gene transfer into human hepatocytes by baculovirus vectors. Proc. Natl. Acad. Sci. U.S.A. 92, 10099­10103. Holman, D.H., Wang, D., Raja, N.U., Luo, M., Moore, K.M., Woraratanadharm, J., Mytle, N., Dong, J.Y., 2008. Multi-antigen vaccines based on complex adenovirus vectors induce protective immune responses against H5N1 avian influenza viruses. Vaccine 26, 2627­2639. Hu, Y.C., 2005. Baculovirus as a highly efficient expression vector in insect and mammalian cells. Acta. Pharmacol. Sinica 26, 405­416. James, C.M., Foong, Y.Y., Mansfield, J.P., Vind, A.R., Fenwick, S.G., Ellis, T.M., 2008. Evaluation of a positive marker of avian influenza vaccination in ducks for use in H5N1 surveillance. Vaccine 26, 5345­5351. Jiang, Y., Yu, K., Zhang, H., Zhang, P., Li, C., Tian, G., Li, Y., Wang, X., Ge, J., Bu, Z., Chen, H., 2007. Enhanced protective efficacy of H5 subtype avian influenza DNA vaccine with codon optimized HA gene in a pCAGGS plasmid vector. Antiviral Res. 75, 234­241. Kost, T.A., Condreay, J.P., Jarvis, D., 2005. Baculovirus as versatile vectors for protein expression in insect and mammalian cells. Nat. Biotechnol. 23, 567­575. Kreijtz, J.H., Suezer, Y., van Amerongen, G., de Mutsert, G., Schnierle, B.S., Wood, J.M., Kuiken, T., Fouchier, R.A., Lower, J., Osterhaus, A.D., Sutter, G., Rimmelzwaan, G.F., 2007. Recombinant modified vaccinia virus Ankara-based vaccine induces protective immunity in mice against infection with influenza virus H5N1. J. Infect. Dis. 195, 1598­1606. Lalor, P.A., Webby, R.J., Morrow, J., Rusalov, D., Kaslow, D.C., Rolland, A., Smith, L.R., 2008. Plasmid DNA-based vaccines protect mice and ferrets against lethal challenge with A/Vietnam/1203/04 (H5N1) influenza virus. J. Infect. Dis. 197, 1643­1652.
+
+Lu, L., Yu, L., Kwang, J., 2007. Baculovirus surface-displayed hemagglutinin of H5N1 influenza virus sustains its authentic cleavage, hemagglutination activity, and antigenicity. Biochem. Biophys. Res. Commun. 358, 404­409.
+Martyn, J.C., Dong, X., Holmes-Brown, S., Pribul, P., Li, S., Drummer, H.E., Gowans, E.J., 2007. Transient and stable expression of the HCV envelope glycoproteins in cell lines and primary hepatocytes transduced with a recombinant baculovirus. Arch. Virol. 152, 329­343.
+McMurry, J.A., Johansson, B.E., De Groot, A.S., 2008. A call to cellular and humoral arms: enlisting cognate T cell help to develop broad-spectrum vaccines against influenza A. Hum. Vaccin. 4, 148­157.
+Murakami, S., Iwasa, A., Iwatsuki-Horimoto, K., Ito, M., Kiso, M., Kida, H., Takada, A., Nidom, C.A., Mai, L.Q., Yamada, S., Imai, H., Sakai-Tagawa, Y., Kawaoka, Y., Horimoto, T., 2008. Cross-clade protective immunity of H5N1 influenza vaccines in a mouse model. Vaccine 26, 6398­63404.
+Pieroni, L., Maione, D., La Monica, N., 2001. In vivo gene transfer in mouse skeletal muscle mediated by baculovirus vectors. Hum. Gene. Ther. 12, 871­881.
+Strauss, R., Huser, A., Ni, S., Tuve, S., Kiviat, N., Sow, P.S., Hofmann, C., Lieber, A., 2007. Baculovirus-based vaccination vectors allow for efficient induction of immune responses against plasmodium falciparum circumsporozoite protein. Mol. Ther. 15, 193­202.
+Subbarao, K., Joseph, T., 2007. Scientific barriers to developing vaccines against avian influenza viruses. Nat. Rev. Immunol. 7, 267­278.
+Tani, H., Limn, C.K., Yap, C.C., Onishi, M., Nozaki, M., Nishimune, Y., Okahashi, N., Kitagawa, Y., Watanabe, R., Mochizuki, R., Moriishi, K., Matsuura, Y., 2003. In vitro and in vivo gene delivery by recombinant baculoviruses. J. Virol. 77, 9799­9808.
+Wang, S., Fang, L., Fan, H., Jiang, Y., Pan, Y., Luo, R., Zhao, Q., Chen, H., Xiao, S., 2007. Construction and immunogenicity of pseudotype baculovirus expressing GP5 and M protein of porcine reproductive and respiratory syndrome virus. Vaccine 25, 8220­8227.
+Webster, R.G., Peiris, M., Chen, H., Guan, Y., 2006. H5N1 outbreaks and enzootic influenza. Emerg. Infect. Dis. 12, 3­8.

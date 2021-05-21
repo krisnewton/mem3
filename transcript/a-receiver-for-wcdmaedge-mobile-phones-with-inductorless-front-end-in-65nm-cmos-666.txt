@@ -1,0 +1,1844 @@
+PEMBUATAN MIKROORGANISME EFEKTIF DAN PENERAPANNYA PADA LAHAN JAMBU KRISTAL
+(Psidium guajava L.) DI UD. BUMIAJI SEJAHTERA KOTA BATU
+LAPORAN MAGANG KERJA
+Oleh : AHMAD ILHAM TANZIL
+105040201111134 MINAT HAMA DAN PENYAKIT TUMBUHAN
+PROGRAM STUDI AGROEKOTEKNOLOGI
+UNIVERSITAS BRAWIJAYA FAKULTAS PERTANIAN
+PROGRAM STUDI AGROEKOTEKNOLOGI JURUSAN HAMA DAN PENYAKIT TUMBUHAN
+MALANG 2013
+i
+
+LEMBAR PENGESAHAN LAPORAN MAGANG KERJA
+JUDUL : PEMBUATAN MIKROORGANISME EFEKTIF DAN PENERAPANNYA
+PADA LAHAN JAMBU KRISTAL (Psidium guajava L.) DI UD. BUMIAJI SEJAHTERA KOTA BATU
+
+Disetujui oleh:
+
+Pembimbing Lapangan,
+
+Pembimbing Utama,
+
+Rakhmad Hardiyanto, ST.
+
+Dr. Anton Muhibuddin, SP., MP. NIP. 19771130 200501 1 002
+
+Mengetahui, Jurusan Hama dan Penyakit Tumbuhan
+Ketua
+Dr. Ir. Bambang Tri Rahardjo, SU NIP. 19550403 198303 1 003
+
+ii
+
+DATA PRIBADI PESERTA MAGANG KERJA SEMETER GENAP 2013/2014
+
+Nama
+
+: AHMAD ILHAM TANZIL
+
+NIM
+
+: 105040201111134
+
+Tempat / Tanggal Lahir
+
+: Malang / 29 Pebruari 1992
+
+Jurusan
+
+: HAMA DAN PENYAKIT TANAMAN
+
+Program Studi
+
+: AGROEKOTEKNOLOGI
+
+Memperoleh Magang Semester : 7 (Tujuh)
+
+Alamat Asal
+
+: Dusun Ngamprong, RT/RW 3/5, Desa Banjarejo, Kecamatan Pakis, Kabupaten Malang
+
+No Telp
+
+: (0341) 717678
+
+No HP
+
+: 085649910202
+
+Dosen Pembimbing Utama : Dr. Anton Muhibuddin, SP., MP.
+
+Lokasi Magang Kerja
+
+: UD. Bumiaji Sejahtera, Batu
+
+Komoditi
+
+: Tanaman Hortikultura
+
+Alamat Lokasi Magang Kerja :
+
+Jalan Kopral Kasdi No. 75, Dusun Banaran, RT/RW 3/1, Desa Bumiaji, Kecamatan Bumiaji, Kota Batu.
+
+iii
+
+RINGKASAN
+AHMAD ILHAM TANZIL. 105040201111134. PEMBUATAN MIKROORGANISME EFEKTIF DAN PENERAPANNYA PADA LAHAN JAMBU KRISTAL (Psidium guajava L.) DI UD. BUMIAJI SEJAHTERA KOTA BATU. Di bawah bimbingan Dr. Anton Muhibuddin, SP, MP, sebagai pembimbing utama dan Rakhmad Hardiyanto, ST, sebagai pembimbing lapangan.
+Mikroorganisme Efektif (EM) adalah suatu kultur mikroorganisme cair yang digabung menjadi satu, mengandung bakteri fotosintetik, ragi, Actinomycetesdan 90 % bakteri genus Lactobacillus dan genus Azotobacter yang dapat memfermentasikan bahan organik (kotoran hewan, sampah, rumput dan sisa-sisa tumbuhan) menjadi senyawa-senyawa organik, sehingga dapat diserap langsung oleh tanaman untuk dapat tumbuh dan berproduksi. Selain itu mikroorganisme dapat diaplikasikan sebagai inokulan untuk meningkatkan keragaman dan populasi mikroorganisme di dalam tanah dan selanjutnya dapat meningkatkan kesehatan, pertumbuhan dan produktifitas tanaman. Untuk meningkatkan kesuburan tanah, maka unsur hara yang sudah terkandung di dalamnya harus dipertahankan atau bahkan ditingkatkan seperti halnya unsur N, P, K, salah satu cara yang dapat dilakukan adalah dengan penambahan larutan EM. Langkah-langkah pemanfaatan EM secara terpadu dan efisien guna memperbesar keuntungan dalam budidaya jambu kristal.
+Kegiatan magang kerja ini dilakukan di Usaha Dagang (UD) Bumiaji Sejahtera, Kota Batu, Jawa Timur. Magang kerja dilaksanakan pada bulan Juli September 2013.
+Magang kerja ini dilaksanakan dengan mengikuti jadwal kegiatan atau aktivitas yang ada pada PO. Bumiaji Sejahtera sebagai berikut: 1) Kegiatan budidaya tanaman hortikultura dan ternak kambing etawa di lahan milik perusahaan: 2) Wisata petik desa wilayah UD. Bumiaji Sejahtera: 3) Pengolahan pasca panen dan pemasaran produk hasil olahan.
+UD. Bumiaji Sejahtera sebagai perusahaan milik swasta yang bergerak pada bidang pertanian yang mengandalkan wisata petik desa. Adapun komoditas yang dibudidayakan yaitu jambu kristal, jeruk manis/sunkis, jeruk citrun, apel, strawberry, belimbing, mawar, krisan, peacock, jendron, brokoli, sukini, lettuce, andewi merah, andewi hijau, kailan, sawi daging, ketumbar, tomat, jagung manis dan peternakan kambing etawa. Sedangkan untuk pengolahan hasil panen berupa bermacam-macam produk kripik dari buah dan sayur.
+iv
+
+SUMMARY
+AHMAD ILHAM TANZIL. 105040201111134. PRODUCTION EFFECTIVE MICROORGANISMS AND THE APPLICATION in CRYSTAL GUAVA FARM (Psidium guajava L.) at UD. BUMIAJI SEJAHTERA BATU CITY. Supervised by Dr. Anton Muhibuddin, SP, MP, as the main advisor and Rakhmad Hardiyanto, ST, as a field advisor.
+Effective Microorganisms (EM) is a microorganism culture cairyang merged into one, contain photosynthetic bacteria, yeast, Actinomycetesdan 90% bacterial genus Lactobacillus and the genus Azotobacter which can ferment organic matter (manure, garbage, grass and plant debris) into compound- organic compounds, so it can be absorbed directly by the plant to grow and produce. Additionally microorganisms can be applied as inoculants to increase the diversity and populations of microorganisms in the soil and can further improve the health, growth and productivity of plants. To improve soil fertility, the nutrient that is contained in them should be maintained or even improved as well as the elements N, P, K, one way to do is by adding a solution of EM. EM measures the utilization of an integrated and efficient in order to increase profits in the cultivation of guava crystal.
+This internship activities conducted at Usaha Dagang (UD) Bumiaji Prosperous, Batu, East Java. Internship was conducted in July-September 2013.
+Internship is carried out by following a schedule of activities or activities that exist on the UD. Bumiaji Sejahtera as follows: 1) cultivation of horticultural crops and livestock Etawa on private land: 2) Travel quotes village UD region. Bumiaji Prosperous: 3) post-harvest processing and marketing of the products.
+UD. Bumiaji Sejahtera as privately-owned company engaged in the field of agriculture that relies on picking tourist village. The commodity that is grown crystal guava, orange sweet / sunkis, citrun oranges, apples, strawberries, star fruit, roses, chrysanthemum, peacock, jendron, broccoli, sukini, lettuce, red endive, endive greens, kailan, cabbage meat, cilantro, tomatoes , sweet corn and livestock Etawa. As for the processing of the crops in the form of an assortment of products from fruit and vegetable chips.
+v
+
+KATA PENGANTAR
+Puji dan syukur penulis panjatkan kehadirat Tuhan Yang Maha Esa karena atas rahmat dan karunia-Nya, penulis dapat menyelesaikan penulisan Laporan Magang Kerja yang berjudul PEMBUATAN MIKROORGANISME EFEKTIF DAN PENERAPANNYA PADA LAHAN JAMBU KRISTAL (Psidium guajava L.) DI UD. BUMIAJI SEJAHTERA KOTA BATU.
+Pada kesempatan ini penulis menyampaikan terima kasih kepada Dr. Anton Muhibuddin, SP., MP., selaku dosen pembimbing utama. Kepada Bapak Rakhmat Hardiyanto, ST., dan Bapak Drs. Imam Ghozali, MM., selaku pembimbing lapangan. Kepada Manajer PO. Bumiaji Sejahtera, yang telah memberi izin tempat untuk pelaksanaan Magang Kerja. Kepada kedua orang tua dan segenap keluarga yang telah membantu dengan do'a serta memberi dorongan material, spiritual dan motivasi. Bapak Taufik, SP., Pak Yono, Pak Subandi, Pak Riyanto, dan Mbak Ayun yang begitu banyak membantu selama magang kerja berlangsung. Teman-teman Agroekoteknologi 2010, serta semua pihak yang telah membantu hingga terselesaikannya penulisan laporan ini.
+Penulis menyadari sepenuhnya bahwa penulisan laporan magang kerja ini banyak kekurangan. Oleh karena itu, segala kritik dan saran yang bersifat membangun sangat diharapkan demi perbaikan laporan ini.
+Malang, Oktober 2013
+Penulis
+vi
+
+DAFTAR ISI
+LEMBAR PENGESAHAN .................................................................................... ii DATA PRIBADI.................................................................................................... iii RINGKASAN ........................................................................................................ iv SUMMARY ............................................................................................................ v KATA PENGANTAR ........................................................................................... vi DAFTAR ISI......................................................................................................... vii DAFTAR TABEL .................................................................................................. ix DAFTAR GAMBAR .............................................................................................. x DAFTAR LAMPIRAN .......................................................................................... xi I. PENDAHULUAN ............................................................................................... 1
+1.1 Latar Belakang .............................................................................................. 1 1.2 Tujuan Magang Kerja.................................................................................... 2 1.3 Sasaran Kompetensi ...................................................................................... 2 II. TINJAUAN PUSTAKA ..................................................................................... 3 2.1 Sejarah Perkembangan Mikroorganisme Efektif........................................... 3 2.2 Pengertian Mikroorganisme Efektif .............................................................. 3 2.3 Manfaat Mikroorganisme Efektif .................................................................. 3 2.4 Manfaat Buah Nanas, Gula dan Air dalam Pembuatan EM .......................... 4 2.5 Jenis Mikroorganisme dalam Kultur EM serta Peranannya .......................... 4 2.6 Cara Membuat EM dari Buah Nanas ............................................................ 5 2.7 Kandungan Mikroorganisme pada EM dari Buah Nanas .............................. 5 2.8 Proses Kimiawi pada EM Buah Nanas .......................................................... 8 2.9 Aktivitas Mikroba Selama Pengomposan ..................................................... 9 2.10 Sejarah Tanaman Jambu Kristal (Psidium guajava L.) ............................. 12 2.11 Klasifikasi Tanaman Jambu Kristal........................................................... 12 2.12 Keunggulan Jambu Kristal ........................................................................ 13 III. METODE PELAKSANAAAN....................................................................... 14 3.1 Tempat dan Waktu ...................................................................................... 14 3.2 Pelaksanaan ................................................................................................. 14 IV. HASIL DAN PEMBAHASAN ...................................................................... 16 4.1 Profil UD. Bumiaji Sejahtera ...................................................................... 16
+vii
+
+4.1.1 Sejarah Singkat Perusahaan .................................................................. 16 4.1.2 Lokasi Perusahaan dan Letak Lahan .................................................... 16 4.1.3 Visi dan Misi Perusahaan ..................................................................... 20 4.1.4 Struktur Organisasi Perusahaan ............................................................ 20 4.2 Manajemen Pengendalian Mutu .................................................................. 22 4.3 Kegiatan Magang Kerja............................................................................... 24 4.3.1 Proses budidaya tanaman jambu kristal................................................ 24 4.3.2 Teknik penanaman jambu kristal .......................................................... 26 4.3.3 Pemeliharaan tanaman .......................................................................... 27 4.3.4 Hama dan Penyakit Penting Tanaman Jambu Kristal .......................... 30 4.4 Pembuatan dan Penerapannya di UD. Bumiaji Sejahtera............................ 36 4.4.1 Pembuatan Mikroorganisme Efektif ..................................................... 36 4.4.2 Aplikasi Mikroorganisme Efektif Pada Lahan Jambu Kristal .............. 40 V. KESIMPULAN DAN SARAN ........................................................................ 46 5.1 Kesimpulan.................................................................................................. 46 5.2 Saran ............................................................................................................ 46 DAFTAR PUSTAKA ........................................................................................... 47 LAMPIRAN .......................................................................................................... 50
+viii
+
+DAFTAR TABEL Tabel 1. Rencana Kegiatan Magang Kerja ........................................................... 14
+ix
+
+DAFTAR GAMBAR Gambar 1. Gambar Mikroskopis Sacharomices cerevisiae .................................... 7 Gambar 2. Bentuk mikroskopis A. Aceti ................................................................. 8 Gambar 3. Tanaman jambu kristal ....................................................................... 13 Gambar 4. Peta Geologi Desa Bumiaji ................................................................. 17 Gambar 5. Peta Lereng Desa Bumiaji................................................................... 19 Gambar 6. Peta Relief Desa Bumiaji .................................................................... 19 Gambar 7. Struktur UD. Bumiaji Sejahtera .......................................................... 20 Gambar 8. Serangan Kutu Putih............................................................................ 32 Gambar 9. Serangan Ulat Kantung ....................................................................... 32 Gambar 10. Lalat Buah ......................................................................................... 33 Gambar 11. Bercak Daun ...................................................................................... 34 Gambar 12. Hawar Daun....................................................................................... 34 Gambar 13. Serangan Embun Jelaga .................................................................... 35 Gambar 14. Serangan Karat Daun ........................................................................ 36 Gambar 15. Bahan Pembuatan EM ....................................................................... 38 Gambar 16. Alat Pembuatan EM .......................................................................... 39 Gambar 17. Proses pembuatan EM di UD. Bumiaji Sejahtera ............................. 40 Gambar 18. Tanda Serangan Lalat Buah .............................................................. 41 Gambar 19. Penyemprotan EM dan Pestisida Nabati Menggunakan Sprayer...... 42 Gambar 20. Cara aplikasi dengan mesin sprayer .................................................. 43 Gambar 21. Cara Aplikasi EM dan Pestisida Nabati pada Seresah Jambu........... 44 Gambar 22. Cara aplikasi menggunakan handsprayer .......................................... 44
+x
+
+DAFTAR LAMPIRAN Lampiran I..............................................................................................................50 Lampiran II.............................................................................................................51 Lampiran III...........................................................................................................52 Lampiran IV...........................................................................................................53 Lampiran V............................................................................................................54 Lampiran VI...........................................................................................................55 Lampiran VII.........................................................................................................57 Lampiran VIII........................................................................................................59
+xi
+
+1
+I. PENDAHULUAN
+1.1 Latar Belakang Limbah organik sisa panen dan seresah jambu terkadang dibuang bahkan dibakar. Jika dibuang maka akan terjadi ketidak seimbangan ekosistem karena hasil bumi diambil terus menerus tanpa dikembalikan lagi kedalam tanah sehingga nantinya tidak berlanjut karena produktivitas menurun. Jika dibakar maka akan menimbulkan polusi udara. Hal ini sangat disayangkan karena bahan organik masih dapat digunakan sebagai pupuk organik. Oleh karena itu perlu adanya mikroorganisme berupa EM yang memudahkan dalam mendekomposisi bahan organik tersebut mejadi senyawa yang mudah diserap tanaman. Sehingga tanah semakin subur dan produktivitas tanaman meningkat. Pengembangan pupuk organik menggunakan teknologi EM4 telah banyak dikembangkan di Indonesia. Teknologi EM4 adalah teknologi budidaya pertanian untuk meningkatkan kesehatan dan kesuburan tanah dan tanaman dengan menggunakan mikroba yang bermanfaat bagi pertumbuhan tanaman. EM4 mengandung mikroba ­mikroba antara lain Lactobacillus, ragi, bakteri fotosintetik, Actynomycetes dan jamur pengurai selulosa, untuk memfermentasi bahan organik tanah menjadi senyawa yang mudah yang mudah diserap oleh tanaman (Anonim a,1995 dalam Siti Umniyatie,dkk. 1999). EM4 yang merupakan kumpulan mikroba terpilih ini berbentuk cair dan dikemas dalam botol, sehingga mudah dibawa dan disimpan dengan aman.Penggunaan cairan EM4 ini sangat irit, dengan cara mencampurkannya dalam media yang berupa sampah organik atau bahan-bahan organik yang lainnya yang dapat dipakai sebagai bahan baku kompos. Manfaat EM yaitu dapat memfermentasikan bahan organik yang terdapat dalam tanah, dapat menekan pertumbuhan pathogen, dapat mempercepat dekomposisi limbah dan sampah organik, meningkatkan ketersediaan nutrisi dan senyawa organik bagi tanaman, meningkatkan aktivitas mikroorganisme indegenus yang menguntungkan misalnya saja Rhizobium, bakteri pelarut fosfat, menfiksasi nitrogen serta mengurangi kebutuhan pupuk serta pestisida kimia, dan mereaksikan logamlogam berat menjadi senyawa-senyawa untuk menghambat penyerapan logam berat tersebut oleh akar tanaman (Anonim 1993 dalam Syarifuddin, 2009).
+
+2
+Dari uaraian diatas, penulis ingin mengangkat tema cara pembuatan mikroba efektif dan penerapannya, baik dari penyediaan maupun penyerapan unsur hara. Mikroba efektif mempercepat proses dekomposisi bahan-bahan organik vegetatif dan meningkatkan kualitas kompos. Selain itu pemanfaatan EM untuk meningkatkan produksi tanaman jambu kristal.
+1.2 Tujuan Magang Kerja 1. Melatih mahasiswa di lapangan untuk aspek pertanian, perkebunan atau
+manajemen lingkungan yang tidak tercakup dalam proses perkuliahan. 2. Memberi kesempatan mahasiswa untuk mendapatkan pengalaman kerja sektor
+pertanian yang relevan dengan profesi yang akan dikembangkannya di masyarakat. 3. Memberikan pengalaman bekerja mahasiswa di lingkungan profesional pertanian atau agribisnis. 4. Memberikan keterampilan tambahan yang dimungkinkan berguna untuk kerja di masa depan.
+1.3 Sasaran Kompetensi Mahasiswa diharapkan untuk mendapatkan pengalaman kerja ditempat magang kerja setidaknya mencapai kompetensi minimal sebagai berikut: 1. Mampu menerapkan dan mensosialisasikan IPTEKS dibidang pertanian berdasarkan prinsip-prinsip pertanian berkelanjutan dan mengangkat kearifan lokal. 2. Mampu mengimplementasikan dan mengembangkan usaha inovatif sistem pertanian berkelanjutan dan mampu berkomunikasi dan menjalin kerjasama secara efektif dengan mengikuti etika bisnis.
+3. Mampu merencanakan, merancang, melaksanakan dan mengevaluasi sistem pertanian yang efektif dan produktif, dan mampu mengaktualisasikan potensi diri untuk bekerjasama dalam tim multidisiplin.
+4. Mampu belajar sepanjang hayat, dan mampu berpikir analitik untuk mengidentifikasi, merumuskan masalah dan akar masalah serta mencari solusi berbasis ilmiah dalam sistem pertanian yang berkelanjutan
+
+3
+II. TINJAUAN PUSTAKA
+2.1 Sejarah Perkembangan Mikroorganisme Efektif Menurut (Siti Umniyatie,dkk. 1999) teknologi EM4 ditemukan pertama kali oleh Prof. Dr. Teruo Higa dari Universitas Ryukyus, Jepang, dan telah diterapkan secra luas di Jepang, Amerika, Brasil,Thailand, Korea dan Negara-negara lain dibelahan dunia ini termasuk di Indonesia.
+2.2 Pengertian Mikroorganisme Efektif Mikroorganisme efektif atau EM adalah suatu kultur campuran berbagai mikrorganisme yang bermanfaat (terutama bakteri fotosintesis, bakteri asam laktat, ragi, Actinomycetes, dan jamur peragian) yang dapat digunakan sebagai inokulan untuk meningkatkan keragaman mikroba tanah dan memperbaiki kesehatan serta kualitas tanah. Pada gilirannya juga akan memperbaiki pertumbuhan serta jumlah mutu hasil tanaman (Yuwono, 2005).
+2.3 Manfaat Mikroorganisme Efektif Menurut (Hadisuwito, 2007) Effective Microorganism (EM) merupakan bahan yang membantu mempercepat proses pembuatan pupuk organik dan meningkatkan kualitasnya. Selain itu, EM juga bermanfaat dalam memperbaiki struktur dan tekstur tanah menjadi lebih baik, serta menyuplai unsur hara yang dibutuhkan tanaman. Adapun uraian manfaatnya antara lain menghambat pertumbuhan hama dan penyakit tanaman dalam tanah. Membantu meningkatkan kapasitas fotosintesis tanaman. Membantu proses penyerapan dan penyaluran unsur hara dari akar ke daun. Meningkatkan kualitas bahan organik menjadi pupuk. Meningkatkan kualitas pertumbuhan vegetatif dan generatif tanaman.
+Pengaruh Mikroorganisme Efektif yang menguntungkan adalah sebagai berikut (Sutanto, 2002 dalam Rahmawati, 2005):
+1. Memperbaiki kondisi lingkungan fisik, kimia, dan biologi tanah, serta menekan pertumbuhan hama dan peyakit.
+2. Memperbaiki perkecambahan, pembungaan, pembentukan buah dan pematangan hasil.
+3. Meningkatkan kapasitas fotosintesis tanaman. 4. Menungkatkan manfaat bahan organik sebagai sumber pupuk.
+
+4
+2.4 Manfaat Buah Nanas, Gula dan Air dalam Pembuatan EM Kandungan buah nanas diantaranya meliputi air dan gula. Peran dari air untuk mempercepat perbanyakan mikroorganisme serta sebagai pelarut dari gula. Sedangkan penambahan gula berfungsi sebagai memperbanyak kandungan gula pada campuran bahan EM. Selain itu supaya mikroorganisme dapat memecah gula tersebut menggunakan enzim yang sudah ada dalam buah nanas. Sehingga nantinya akan menjadi energi. Sedangkan buah nanas yang dihaluskan berfungsi sebagai media pertumbuhan mikroorganisme. Buah nanas mengandung 81,72 % air, 20,87 % serat kasar, 17,53 % karbohidrat, 4,41 % protein dan 13,65 % gula reduksi (golongan gula yg mengandung gugus aldehid atau keton yang dapat mereduksi senyawa-senyawa penerima elektron contoh glukosa, fruktosa). Menurut (Anonim b, 2007) kegunaan buah nanas adalah untuk menghilangkan bau hasil proses bakteri. Sedangkan menurut (Trubus, 2012) fungsi gula pasir sebagai glukosa atau sumber energi untuk mikroorganisme, buah-buahan dalam proses fermentasi (MOL) sebagai sumber bakteri. 2.5 Jenis Mikroorganisme dalam Kultur EM serta Peranannya A. Bakteri Fotosintesis (Rhodopseudomonas sp.) Bakteri fotosintesis membentuk zat-zat yang bermanfaat dari sekresi akar tumbuhan, bahan organik, dan gas-gas berbahaya (misalnya hidrogen sulfida) dengan menggunakan sinar matahari dan panas bumi sebagai sumber energi. Zatzat bermanfaat itu antara lain asam amino, asam nukleik, zat-zat bioaktif, dan gula. Semuanya mempercepat pertumbuhan dan perkembangan tanaman. Selain itu juga meningkatkan pertumbuhan organisme lainnya (Yuwono, 2005 dan Purwendro, 2007). B. Bakteri Asam Laktat Bakteri asam laktat menghasilkan asam laktat dari gula. Menekan pertumbuhan mikroorganisme yang merugikan, misalnya Fusarium ssp. Meningkatkan percepatan perombakan bahan-bahan organik. Serta dapat menghancurkan bahan-bahan organik seperti lignin dan selulosa. Selain itu, memfermentasikannya tanpa menimbulkan pengaruh-pengaruh merugikan yang diakibatkan oleh bahan-bahan organik yang tidak terurai nya (Yuwono, 2005 dan Purwendro, 2007).
+
+5
+C. Ragi atau yeast (Sacharomices sp.) Ragi membentuk zat antibakteri dan bermanfaat bagi pertumbuhan
+tanaman dari asam-asam amino dan gula yang dikeluarkan oleh bakteri fotosintesis. Meningkatkan jumlah sel aktif dan perkembangan akar nya (Yuwono, 2005 dan Purwendro, 2007). D. Actinomycetes
+Menghasilkan zat-zat antimikroba dari asam amino yang dihasilkan bakteri fotosintesis dan bahan organik. Juga menekan pertumbuhan jamur dan bakterinya (Yuwono, 2005 dan Purwendro, 2007). E. Jamur fermentasi (Aspergillus sp.)
+Menguraikan bahan organik secara cepat untuk menghasilkan alkohol, ester, dan zat-zat anti mikroba. Menghilangkan bau serta mencegah serbuan serangga dan ulat yang merugikan nya (Yuwono, 2005 dan Purwendro, 2007).
+2.6 Cara Membuat EM dari Buah Nanas Menurut (Rasmidi, 2013) pembuatan EM membutuhkan bahan-bahan seperti susu sapi atau susu kambing murni, isi usus ayam atau kambing, ¼ kg terasi (terbuat dari kepala/kulit udang, kepala ikan), 1 kg gula pasir, 1 kg bekatul, 1 buah nanas, 10 liter air bersih. Sedangkan alat-alat yang dibutuhkan berupa panci, kompor dan blender atau parutan untuk menghaluskan nanas. Adapun cara pembuatan yang pertama trasi, gula pasir, bekatul, nanas yang sudah dihaluskan dimasak sampai mendidih agar bakteri lain yang tidak diperlukan mati, setelah itu hasil adonannya didinginkan. Tahap selanjutnya, menambahkan susu yang belum basi agar kemampuan bakteri belum berkurang, isi usus ayam atau kambing. Kemudian ditutup rapat, setelah 12 jam timbul gelembung-gelembung. Apabila sudah siap jadi maka akan menjadi kental atau lengket.
+2.7 Kandungan Mikroorganisme pada EM dari Buah Nanas Nanas merupakan buah dengan kadar serat tinggi. Bahan tersebut memiliki potensi besar untuk diolah menjadi berbagai macam produk, misalnya sebagai bahan pakan ternak, bahan baku pupuk hayati, medium pertumbuhan mikroba, bahkan dapat digunakan sebagai salah satu bahan pengisi untuk pembuatan makanan ringan.
+
+6
+Bagian dalam jaringan tanaman biasaya bebas mikroorganisme, tetapi permukaannya dapat tercemari mikroorganisme. Taraf dan macam pencemaran mikroorganisme ditentukan oleh lingkugan tempat diambilnya buah-buaha tersebut, kondisi (kesegaran), metode penanganan, serta waktu dan kondisi peyimpanan. Buah-buahan biasanya rentan terhadap infeksi oleh bakteri, cendawan, dan virus. Serbuan mikroorganisme ke dalam jaringan tanaman dapat terjadi pada berbagai stadia perkembangan buah tersebut, dan bergantung kepada luasnya jaringan yang terserang, maka kemungkinan terjadinya perusakan akan bertambah. Faktor kedua yang memugkikan terjadinya pencemaran oleh mikroba ialah penanganannya pasca panen. Penanganan mekanis mungkin sekali menyebabkan terbukannya jaringan sehingga memudahkan penyerangan mikroorganisme (Pelczar, 2008).
+Kandungan EM dari buah nanas sangat beragam dan memiliki peran yang sangat banyak. Diantaranya sebagai dekomposer dalam pembuatan pupuk organik, dan juga sebagai mikroorganisme yang melaksanakan fermentasi pada buah nanas tersebut. Selain itu mikroorganisme dalam EM dapat juga sebagai penyakit antagonis sehingga nantinya dapat menjadi biokontrol atau pengendali hayati. Menurut (Yuwono, 2005 dan Purwendro, 2007), kandungan EM terdiri atas bakteri fotosintesis, bakteri asam laktat, ragi atau yeast, actinomycetes, jamur fermentasi.
+Mikrorganisme yang termasuk kelompok ragi atau yeast yaitu Saccharomyces cerevisiae dapat bertunas sehingga membentuk rantai sel yang menyerupai hifa atau hifa semu. Saccharomyces cerevisiae dapat berkembang biak secara seksual dan aseksual. Perkembangbiakan aseksual diawali dengan menonjolnya dinding sel ke luar membentuk tunas kecil. Tonjolan membesar dan sitoplasma mengalir ke dalamnya sehingga sel menyempit pada bagian dasarnya. Selanjutnya nukleus dalam sel induk membelah secara mitosis dan satu anak inti bergerak ke dalam tunas tadi. Sel anak kemudian memisahkan diri dari induknya atau membentuk tunas lagi hingga membentuk koloni. Dalam keadaan optimum satu sel dapat membentuk koloni dengan 20 kuncup. Perkembangbiakan seksual terjadi jika keadaan lingkungan tidak menguntungkan. Pada prosesnya, sel Saccharomyces cerevisiae berfungsi sebagai askus. Nukleusnya yang diploid (2n)
+
+7
+membelah secara meiosis, membentuk empat sel haploid (n). Inti-inti haploid tersebut akan dilindungi oleh dinding sel sehingga membentuk askospora haploid (n). Dengan perlindungan ini askospora lebih tahan terhadap lingkungan buruk. Selanjutnya, empat askospora akan tumbuh dan menekan dinding askus hingga pecah, akhirnya spora menyebar. Jika spora jatuh pada tempat yang sesuai, sel-sel baru akan tumbuh membentuk tunas, sebagaimana terjadi pada fase aseksual. Dengan demikian S. cerevisiae mengalami fase diploid (2n) dan fasehaploid (n) dalam daur hidupnya (Anonim c, 2013).
+Gambar 1. Gambar Mikroskopis Sacharomices cerevisiae (Anonim d, 2010)
+Selain itu ada mikroorganisme fermentasi asetat seperti Acetobacter aceti memiliki ciri-ciri bentuk sel bulat memanjang, respirasi aerobik, dapat tumbuh sampai suhu 30oC, serta mampu menghasilkan asam asetat. A. aceti merupakan gram negatif untuk kultur yang masih muda, gram positif untuk kultur yang sudah tua, obligat aerobic, membentuk batang dalam medium asam, sedangkan dalam medium alkali berbentuk oval, bersifat non mortal dan tidak membentuk spora, tidak mampu mencairkan gelatin, tidak memproduksi H2S, tidak mereduksi nitrat dan thermal death point pada suhu 65-70°C. Biasanya ukuran 0,6-0,8 x 1,0-4,0 µm. Acetobacter terdapat dibeberapa buah seperti anggur dan buah-buah yang telah membusuk. Beberapa penelitian menunjukkan bahwa genus Acetobacter mampu diisolasi dari suspensi campuran berupa buah cherry, apel, kurma, palm, kelapa, beberapa bunga dan masih berpotensi pada bahan-bahan yang lain (Anonim c, 2013).
+
+8
+Gambar 2. Bentuk mikroskopis A. Aceti (Anonim e, 2012)
+2.8 Proses Kimiawi pada EM Buah Nanas Nanas yang telah dihaluskan dan diberi air serta tambahan gula akan memberikan bagi mikroorganisme untuk melakukan aktivitasnya. Prokariota mampu mengkatalis ribuan reaksi kimia dalam jalur-jalur metabolisme yang saling berkaitan. Semua reaksi dikatalis oleh enzim. Kemungkinan dalam buah nanas sudah terdapat mikroorganisme endofit. Sehingga enzim dalam buah nanas digunakan mikroorganisme tersebut untuk memecahkan glukosa menghasilkan alkohol. Glukosa berfungsi sebagai energi untuk melakukan metabolime dalam kehidupan mikroorganisme. Adanya alkohol menandakan adanya mikroorganisme yang berperan dalam EM tersebut. Karena proses pembuatan EM dengan cara ditutup rapat sehingga kedap udara, maka terjadi reaksi fermentasi secara anaerob. Alkohol dalam proses fermentasi sering disebut etanol yang merupakan etil alkohol, alkohol murni. Fermentasi adalah perubahan kimia dalam bahan pangan yang disebabkan oleh enzim. Enzim yang berperan dapat dihasilkan oleh mikroorganisme atau enzim yang telah ada dalam bahan pangan. Fermentasi didefinisikan sebagai pembentukan energi melalui fosforilasi tingkat substrat. Fermentasi sebenarnya proses yang tidak memerlukan oksigen. Fungi mampu melakukan fermentasi dalam kondisi aerob. Jadi fermentasi sebenarnya adalah metabolisme tanpa melibatkan oksigen, tetapi organisme fermentatif terkadang memerlukan oksigen untuk proses metabolisme lainnya maupun untuk pertumbuhannya. Prokariota mampu melakukan fermentasi dan respirasi untuk menghasilkan energi. Respirasi aerob dilakukan, jika terdapat O2 sebagai akseptor elektron. Akan tetapi, jika tidak ada O2, maka prokariota
+
+9
+melakukan respirasi anaerob (jika ada akseptor elektron selain oksigen) atau fermentasi (jika tidak ada akseptor elektron) (Purwoko, 2009).
+Khamir Saccharomyces cerevisiae menggunakan jalur EMP dalam memfermentasi glukosa menjadi etanol pada kondisi netral atau sedikit asam dan anaerob. Pada kondisi mikroaerofil S. cerevisiae melakukan respirasi. Pada kondisi tersebut 10% glukosa biasanya direspirasi menjadi CO2. Fermentasi etanol oleh mikroorganisme ini menghasilkan etanol kurang dari 50%. Terdapat perubahan produk pada fermentasi etanol akibat perubahan kondisi media. Jika media yang terkandung natrium sulfit, maka akan menghasilkan gliserol sebagai produk yang dominan. Gliserol merupakan komponen yang menyusun berbagai macam lipid. Adapun fungsi lipid bagi mikroorganisme yaitu untuk menyimpan energi, sebagai komponen struktural membran sel, dan sebagai pensinyalan molekul. Proses pembentukan alkohol dengan yeast S. cerevisiae ini terjadi perombakan glukosa menjadi alkohol dan gas CO2dengan reaksi sebagai berikut :C6H12O6--->2 CH3CH2OH + CO2. Reaksi yang terjadi anaerob. Etanol adalah hasil utama fermentasi tersebut di atas, di samping asam laktat, asetaldehid, gliserol dan asam asetat. (Anonim c, 2013).
+2.9 Aktivitas Mikroba Selama Pengomposan Menurut (Djaja, 2008) tiga hal penting yang menyebabkan terjadinya proses pengomposan yaitu zat hara, mikroba, dan keadaan lingkungan hidup mikroba. Pada dasarnya, mikroba bekerja memanfaatkan zat hara bahan baku kompos di lingkungan yang sesuai untuknya. Mikroba memegang peranan utama pada pengomposan, walaupun cacing dan serangga ikut berperan setelah temperatur menurun. Umumnya, tidak ada spesies mikroba yang mendominasi, karena keadaan dan materi berbeda dan selalu berubah. Namun, kelompok utama yang berperan pada proses pengomposan adalah bakteri, jamur, dan aktinomycetes yang mempunyai spesies mesofilik dan termofilik. a. Bakteri Menurut (Janse, 2005) bakteri mempunyai sebuah sel tubuh dengan diameter rata-rata 1 m. Bentuknya bermacam-macam, ada yang berbentuk bulat (coccus) dengan diameter 0.1-1 m, batang (rod) biasanya panjang 1-2 m terkadang lebih dari 10 m, elips, dan spiral. Karena ukurannya yang kecil,
+
+10
+bakteri hanya dapat dilihat melalui mikroskop. Besar kecilnya bakteri bergantung pada keadaan medium dan umur bakteri. Bakteri tumbuh sebagai sel tunggal, berganda, dan bergandengan dalam bentuk rantai atau koloni. Dalam pengomposan, jumlah bakteri paling banyak dibandingkan dengan kelompok mikroba lainnya.
+Bakteri cenderung tmbuh subur, terutama saat awal pengomposn dilakukan. Sel bakteri terdiri dari dinding, sitoplasma, dan inti. Dinding sel bakteri tetbagi lagi menjadi lapisan lendir, dinding sel, dan membran sitoplasma. Lapisan lendir meyelimuti bagian luar bakteri dan berfungsi sebagai pertahanan diri. Lendir bakteri mengandung karbohidrat dan unsur seperti N dan P. Dinding selnya sangat tipis serta megandung substansi kimia seperti selulosa, hemiselulosa, dan khitin. Membran sitoplasma membungkus sitoplasmayang merupakan isi sel, susunannya berasal dari protein, karbohidrat, lemak, dan mineral. Inti bakteri tidak mempunyai membran, tetapi terdiri dari DNA.
+Bakteri bergerak menggunakan helai seperti cambuk yang disebut flagelum dan flagela. Bagian-bagian tubuh mikroba lainnya mitokhondria berfungsi menghasilkan energi pada proses metabolisme, kholoroplas untuk membentuk enerrgi dalam proses fotosintesis karena mengandung kholorofil, vakuola merupakan tempat berkumpulnya senyawa yangdiperlukan dalam proses metabolisme, mikrotubul dan mikrofilamen bertugas memberi bentuk kepada sel.
+Bakteri mutlak membutuhkan bahan organik yang digunakan untuk pertumbuhan dan perkembangbiaaknnya. Bakteri memperbanyak diri dengan cara membelah biner. Artinya, satu sel bakteri dapat membelah menjadi dua, dua menjadi empat, empat menjadi delapan, dan seterusnya, yang kesemuanya mengikuti rumus 2n. Maksud n disini adalah angka pembelahan. Setelah membelah, masing-masing sel tersebut akan tumbuh dan membesar. Waktu pembelahan yang dibutuhkan tergantung pada jenis bakteri, karena setiap bakteri mempunyai kemampuan membelah diri yang berbeda. Untuk penyebarannya, bakteri dibantu oleh angin, hujan dan air. b. Actinomycetes
+Actinomycetes sering juga disebut dengan aktinomisit. Umunya aktinomycetes berkembang dengan membentuk filamen seperti jamur,. Ukuran
+
+11
+kecil dan struktur selnya yang rumit menyebabkan dikelompokkan sebgai bakteri. Seperti jamur, aktinomisetes umumnya bersifat aerob. Aktinomisetes cederung terlihat tumbuh lebih jelas setelah senyawa kimia dipecah hbis dan kelembaban menjadi rendah. Pada dasarnya, mikroba ini tahan terhadap asam.
+Sel aktinomisetes berbentuk memanjang yang disebut dengan miselium. Mula-mula sel ini tidak bersekat, tetapi akhirnya bersekat setelah membelah diri. Pada bagian hifa, aktinomisetes membentuk tegakan konidia. Konidia ialah alat untuk mengembangkan diri secara vegetatif. Sementara itu, hifa adalah kumpulan beberapa miselium. Biasanya, aktinomisetes hidup berkelompok. Keompok aktinomisetes cukup besar, sehingga dapat dilihat dengan mata secara telanjang.
+Aktinomisetes berkembang biak dengan cara membelah diri. Tubuh aktinomisetes ada yang berpigmen dan ada yang tidak, tetapi umumnya tidak mempunyai flagela. Sama halnya dengan bakteri, aktinomisetes membutuhkan angin, hujan, dan air untuk penyebarannya (Djaja, 2008). c. Jamur
+Menurut (Agrios, 1988) jamur adalah organisme kecil, umumnya mikroskopis, eukariotik, berupa filamen (batang), bercabang, menghasilkan spora, tidak mempunyai krolofil, dan mempunyai dinding sel yang megandung kitin, selulosa atau keduanya. Tubuh jamur disebut miselium, dan cabang-cabang tunggal atau filamen dari miselium disebut hifa. Pada beberapa jamur, miselium terdiri atas banyak sel yang mengandung satu atau dua inti per sel (celluler). Miselium lain bersifat saenositik (caenocytic), yaitu mengandung banyak inti dan keseluruhan miselium berupa satu sel multi inti yang bersambungan, tubular (seperti pipa), bercabang atau tidak bercabang atau miselium tersebut dibagi oleh beberapa dinding melintang (septa), setiap segmen menjadi hifa multi inti. Pertumbuhan miselium terjadi pada ujung hifa. Sebagian besar bersifat saprofit, hidup pada bahan organik mati, yaitu membantu pelapukan. Akan tetapi selebihnya bersifat parasit sehingga membutuhkan inang untuk kelangsungan hidupnya.
+Jamur berkembang biak secara generatif dan vegetatif. Jamur memperbanyak diri melalui tunas, spora, dan membelah diri. Namun, jamur juga mampu berproduksi dengan membentuk spora dan melebur ini dari dua induk.
+
+12
+
+Jadi, spora ini ada yang aseksual dan ada pula yang seksual. Angin biasanya
+
+membantu penyebaran jamur ke tempat dengan membawa spora.
+
+Namun, spesies jamur yang berkaitan dengan pengomposan dapat
+
+menyebabkan reaksi alergi pada orang-orang tertentu. Bahkan dapat
+
+mengakibatkan komplikasi. Contoh jamur tersebut yaitu Aspergillus funigatus dan
+
+Aspergillus niger. Karena itu, kesehatan dan keselamatan kerja yang baik perlu
+
+diterapkan.
+
+2.10 Sejarah Tanaman Jambu Kristal (Psidium guajava L.)
+
+Jambu Kristal merupakan mutasi dari residu Muangthai Pak, ditemukan
+
+pada tahun 1991 di District Kao Shiung ­ Taiwan. Jambu kristal diperkenalkan di
+
+Indonesia pada tahun 1991 oleh Misi Teknik Taiwan. Jambu kristal sebetulnya
+
+tidak benar ­ benar tanpa biji tetapi jumlah bijinya kurang dari 3 persen bagian
+
+buah. Sebelum Jambu kristal diperkenalkan di Indonesia sudah terlebih dahulu
+
+ditemukan jenis jambu tanpa biji lainnya yaitu jambu sukun. Jenis jambu sukun
+
+juga merupakan jenis jambu tanpa biji, tetapi yang membedakan jambu sukun
+
+dengan jambu kristal adalah pada jambu sukun jika pohon ditanaman dan
+
+berbuah didekat jambu biji maka akan cenderung berbiji kembali sedangkan pada
+
+jambu kristal hal tersebut tidak terjadi (Trubus, 2010).
+
+2.11 Klasifikasi Tanaman Jambu Kristal
+
+Klasifikasi tanaman jambu dalam dunia tumbuh tumbuhan adalah sebagai
+
+berikut :
+
+Kingdom : Plantae
+
+Divisi
+
+: Spermatophyta
+
+Sub Divisi : Angiospermae
+
+Kelas
+
+: Dicotyledonae
+
+Ordo
+
+: Myrtales
+
+Family
+
+: Myrtaceae
+
+Sub Family : Myrtoideae
+
+Genus
+
+: Psidium
+
+Spesies
+
+: P. guajava Linneus
+
+13
+Gambar 3. Tanaman jambu kristal (Abdurrahman, 2012)
+2.12 Keunggulan Jambu Kristal Jambu kristal memang sangat menarik,berikut ini adalah gambaran tentang jambu dan struktur jambu secara umum (Trubus, 2010): a) Tanaman berbuah sepanjang tahun secara terus-menerus b) Produksi buah dalam sekali berbuah menghasilkan 15 ­ 30 buah, dalam usia tanam 2 tahun per tanaman bisa menghasilkan 70 ­ 80 kg selama 6 bulan. c) Bobot rata ­ rata buah 500 gram bahkan ada yg mencapai 900 gram. d) Bentuk buah simetris sempurna e) Kulit hijau mulus yang dilapisi lilin yang cukup tebal. Lapisan lilin membuat buah sulit ditembus hama. f) Warna daging buah putih dengan tekstur renyah saat hampir matang dan empuk saat di puncak kematangan. g) Kadar kemanisan mencapai 11 ­ 12o briks dan kadar air cukup tinggi (menyegarkan) h) Sosok tanaman dan daun relatif lebih besar ketimbang jambu biji lain. i) Tekstur daun lebih kaku sehingga Jambu Kristal lebih tahan gangguan kekeringan dan hama penyakit. j) Adaptif dengan lingkungan.
+
+14
+
+III. METODE PELAKSANAAAN
+
+3.1 Tempat dan Waktu Kegiatan magang kerja dilakukan di UD. Bumiaji Sejahtera, Kecamatan Bumiaji, Kota Batu, Jawa Timur. Magang kerja dilaksanakan pada bulan 1 Juli ­ 30 September 2013. Jenis kegiatan akan disesuaikan dengan kegiatan yang ada pada perusahaan. Dengan Perencanaan sebagai berikut :
+
+Tabel 1. Rencana Kegiatan Magang Kerja
+
+Nama
+
+Jun
+
+Jul
+
+Agt
+
+Sep
+
+Okt
+
+Nov
+
+Kegiatan 1 2 3 4 1 2 3 4 1 2 3 4 1 2 3 4 1 2 3 4 1 2 3 4
+
+Persiapan
+
+Pelaksanaan
+
+Magang
+
+Supervisi
+
+Analasis
+
+Informasi
+
+Data dan
+
+Laporan
+
+Kemajuan
+
+Pembuatan
+
+Draft
+
+Laporan
+
+Akhir
+
+Revisi
+
+Seminar
+
+Hasil
+
+Magang
+
+3.2 Pelaksanaan Magang kerja dilaksanakan dengan beberapa metode, yaitu: a. Studi Literatur
+Melakukan studi literatur atau studi kepustakaan dengan membaca dan mempelajari literatur berdasarkan teori (buku) atau dari hasil penelitian (jurnal, buletin dan laporan-laporn hasil penelitian yang lain) yang relevan.
+b. Praktek Kerja Langsung
+Mengikuti semua kegiatan dan beraktivitas langsung sesuai dengan bidang pekerjaan yang ada di UD. Bumiaji Sejahtera Kota Batu.
+
+15
+c. Diskusi dan Wawancara Diskusi dan wawancara dilakukan dengan pembimbing lapang dan petani
+lapang secara langsung mengenai peranan EM dan penerapannya di lahan jambu kristal.
+d. Pengumpulan Data Pengumpulan data dari praktek kerja langsung meliputi penelusuran data-
+data yang terkait, yaitu: 1. Pengumpulan data primer Pengumpulan data dilakukan dengan mengamati dan ikut serta praktek kerja secara langsung yang sesuai dengan aktivitas yang sedang dilakukan di UD. Bumiaji Sejahtera Kota Batu. Selain itu melaksanakan pembuatan EM dari nanas dan penerapannya dalam kebun jambu kristal. 2. Pengumpulan data sekunder Data sekunder didapatkan dari data luar seperti literatur-literatur serta laporan yang memuat tentang mikroorganisme efektif dan yang menyangkut tentang tanaman jambu kristal.
+
+16
+
+IV. HASIL DAN PEMBAHASAN
+
+4.1 Profil UD. Bumiaji Sejahtera
+
+4.1.1 Sejarah Singkat Perusahaan
+
+Pemilik UD. Bumiaji Sejahtera merupakan kepala SMKN 2 Batu. Pada
+
+tahun 2006 beberapa siswa SMKN 2 Batu yang dibimbing pemilik UD.
+
+Bumiaji Sejahtera mengikuti praktek kerja di Balai Penyuluhan Pertanian
+
+Mojokerto. Pada saat kegiatan praktek kerja Balai Penyuluhan Pertanian
+
+Mojokerto mendapatkan kunjungan dari Taiwan yang bertujuan
+
+memperkenalkan bibit jambu Kristal. Oleh karena itu, pemilik UD. Bumiaji
+
+Sejahtera membeli bibit jambu kristal sebanyak 12 bibit dengan harga Rp. 2,8
+
+juta yang kemudian ditanam di belakang rumah. Pada tahun 2008 pemilik UD.
+
+Bumiaji Sejahtera melakukan pencangkokan bibit jambu kristal sebanyak 56.
+
+Disamping itu tanaman stroberi mulai ditanam pemilik UD. Bumiaji Sejahtera
+
+pada bulan April 2013. Awal berdirinya agrowisata pada tahun 2005 dilakukan
+
+deklarasi desa wisata di Kecamatan Bumiaji Kota Batu setelah penulisan
+
+proposal Indonesia Daya Masyarakat oleh pemilik UD. Bumiaji Sejahtera.
+
+Pada proposal tersebut pemilik UD. Bumiaji Sejahtera menuliskan tiga prinsip
+
+pengubahan pola pikir :
+
+1. Pengubahan pola pikir produk ke proses
+
+2. Tengkulak ke konsumen
+
+3. Konvensional ke berkelanjutan
+
+Pada tahun 2011 UD. Bumiaji Sejahtera resmi mendapatkan izin dari
+
+pemerintah setempat. UD. Bumiaji Sejahtera memiliki jaringan dengan lima
+
+hotel antara lain Hotel Purnama yang tergabung dalam Persatuan Hotel
+
+Restoran Indonesia. Ini melakukan suplai produk pada hari rabu dan kamis,
+
+sedangkan agrowisata dilakukan pada hari sabtu dan minggu. Jenis sayur yang
+
+dibudidayakan ada lima macam, yaitu sukini, lettuce, kalian, andewi merah,
+
+dan brokoli.
+
+4.1.2 Lokasi Perusahaan dan Letak Lahan
+
+Nama Perusahaan : Bumiaji Sejahtera
+
+Pemilik
+
+: Imam Ghozali
+
+Direktur
+
+: Rakhmad Hardiyanto
+
+17
+
+Alamat
+
+: Jl. Kopral Kasdi 75 Banaran, Bumiaji, Kota Batu
+
+Telepon
+
+: (0341) 594 286
+
+HP
+
+: 081 7960 4950
+
+Nomor Ijin Usaha : 510/218/422.208/SIUP MI-025/2013
+
+Lokasi UD. Bumiaji Sejahtera terletak di Dusun Banaran, Desa Bumiaji,
+
+Kecamatan Bumiaji, kota Batu dengan batas-batas wilayah sebagai berikut:
+
+Utara
+
+: Desa Bulukerto dan Gunung Arjuno
+
+Selatan : Desa Pandanrejo
+
+Barat
+
+: Desa Sidomulyo
+
+Timur
+
+: Desa Giripurno
+
+Gambar 4. Peta Geologi Desa Bumiaji Dari segi orbitrasi atau jarak desa dengan pusat pemerintahan, jarak dengan Kecamatan Bumiaji ± 3 km, jarak dengan Kota Batu ± 3 km dan jarak dengan Propinsi Jawa Timur ± 111 km. Kendaraan umum yang digunakan sebagai sarana angkutan ke pusat pemerintahan adalah mikrolet. a. Letak lahan perusahaan Di UD.Bumiaji Sejahtera yang bergerak pada bidang pertanian, pariwisata dan home industri. Pada perusahaan ini yang diutamakan adalah pada bidang
+
+18
+
+agrotourism (wisata pertanian), komoditas utama yang di miliki untuk agrowisata
+
+ialah tanaman jambu kristal (Psidium guajava). Lahan yang di miliki di
+
+UD.Bumiaji Sejahtera total keseluruhan lahan 24.000 m2, dengan rician lahan :
+
+1. Lahan di daerah Junggo, Kecamatan Bumiaji, Batu
+
+:15.000 m2
+
+2. Lahan di daerah Dayakan, Kecamatan Bumiaji, Batu : 2.500 m2
+
+3. Lahan di daerah Keramat, Kecamatan Bumaji, Batu : 2.000 m2
+
+4. Lahan di daerah Banaran Barat, Kec. Bumiaji, Batu
+
+: 4.500 m2
+
+Luas lahan produktif untuk jambu kristal sebanyak 2.600 m2 yang terletak
+
+pada dua tempat yang berbeda yaitu pada kebun Dayakan (2.500 m2) dan kebun
+
+Keramat (100m2). Sedangkan sisa lahan yang lain pada kebun Keramat ditanami
+
+tumpang sari jambu kristal belum produktif, jeruk manis dan berbagai macam
+
+sayuran. Pada lahan Junggo setengah dari total lahan ditanami apel dan
+
+setengahnya ditanami berbagai macam sayuran. Untuk lahan Banaran Barat masih
+
+dalam proses penumbuhan hasil okulasi antara pohon awal jambu merah dan
+
+diokulasi jambu kristal serta dilakukan tumpangsari dengan berbagai sayuran.
+
+b. Topografi
+
+Kebun produksi UD. Bumiaji Sejahtera yang terletak di Desa Bumiaji
+
+terletak di lereng Gunung Arjuno dengan ketinggian 900-1.400 m dpl. Secara
+
+umum desa bumiaji memiliki 7 kelas lereng yaitu 0 sampai 3% (datar); 3
+
+sampai 8% (landai ); 8 sampai 15% (agak miring); 15 sampai 30% (miring); 30
+
+sampai 45% (agak curam); 45 sampai 60% (curam); dan lebih dari 60% (sangat
+
+curam). Adapun sebaran lereng dapat dilihat pada peta dibawah ini.
+
+19
+Gambar 5. Peta Lereng Desa Bumiaji Secara umum desa bumiaji terdiri dari 5 relief yang meliputi berombak, bergelombang, berbukit kecil, berbukit dan bergunung. Relief didapatkan dengan menghubungkan antara lereng dan beda tinggi yang berasal dari peta kontur dan hillshade. Adapun sebaran relief pada desa bumiaji dapat dilihat pada peta dibawah ini.
+Gambar 6. Peta Relief Desa Bumiaji c. Iklim Dusun Banaran merupakan daerah dengan tipe iklim yang agak basah. Menurut kondisi alam curah hujannya kurang lebih 1.860mm per tahun dengan suhu berkisar antara 140C ­ 370C, kelembaban 60-80 %, penyinaran matahari
+
+20
+pada musim kemarau antara 8-10 jam perhari, sedangkan pada musim penghujan 5 jam perhari.
+d. Jenis Tanah Jenis tanah di Desa Bumiaji adalah tipe tanah inceptisol, sangat gembur, dengan warna hitam hingga coklat gelap dan kaya kandungan unsur hara. Sebagian besar wilayah di desa ini digunakan dalam sektor pertanian baik untuk tanaman pangan dan hortikulura.
+4.1.3 Visi dan Misi Perusahaan Visi Perusahaan a. Menjadikan Bumiaji sebagai sentra agritourism Kota Wisata Batu pada 2014 b. Menjadikan Bumiaji sebagai sentra home industry makanan olahan Kota Wisata Batu pada 2014 Misi Perusahaan a. Menciptakan sumber daya manusia jujur, kreatif, inovatif dan berjiwa entrepreneur b. Mengeksplorasi potensi pariwisata dan ekonomi kreatif berbasis pemberdayaan masyarakat
+4.1.4 Struktur Organisasi Perusahaan Adapun struktur organisasi UD. Bumiaji Sejahtera berdasarkan profil UD.
+Bumiaji Sejahtera disajikan dalam diagram berikut :
+Gambar 7. Struktur UD. Bumiaji Sejahtera
+
+21
+Job Description (Diskripsi Pekerjaan) : a. Main Director (Direktur Utama) 1) Sebagai pimpinan perusahaan 2) Menentukan dan mengontrol jalannnya perusahaan 3) Menentukan kebijaksanaan yang ada kaitannya dengan perusahaan 4) Membuat segala perancangan yang berkaitan dengan bidang usaha perusahaan 5) Mengontrol dan bertanggungjawab pada semua bidang b. Owner (Pemilik) 1) Sebagai pemilik badan usaha 2) Memberi saran dan masukan yang berkaitan dengan pelaksanaan teknis perusahaan 3) Saling berkoordinasi dengan direktur utama mengenai rencana perusahaan 4) Memiliki saham berupa sarana dan prasarana perusahaan c. Finance, Human Research and Development Manager (Manajer Keuangan dan HRD) 1) Mengelola keuangan perusahaan 2) Mencacat segala pembiayaan perusahaan 3) Membuat laporan keuangan mingguan, bulanan, tahunan 4) Mencatat transaksi penjualan 5) Mencatat daftar gaji seluruh tenaga kerja 6) Membuat analisis dan perincian pekerjaan 7) Mengurus penerimaan tenaga kerja yang dibutuhkan 8) Mengatur kesejahteraan tenaga kerja 9) Membuat rencana tenaga kerja yang dibutuhkan d. Head Agroindustry and Marketing Post Processing (Kepala Agroindustri dan Pemasaran Pasca Pengolahan) 1) Membuat laporan hasil pasca pengolahan 2) Bertanggungjawab atas kegiatan pasca panen 3) Membuka peluang pasar 4) Memperluas pemasaran
+
+22
+5) Mempertahankan konsumen e. Head Fruits Farm (Kepala Kebun Buah)
+1) Mengawasi kegiatan produksi atau budidaya buah 2) Menjaga agar proses produksi buah berjalan dengan baik 3) Menetapkan target produksi buah sesuai dengan rencana 4) Membuat laporan keadaan bahan baku yang tersedia 5) Membuat laporan pengeluaran (produksi) buah f. Head Vegetable Farm (Kepala Kebun Sayuran) 1) Mengawasi kegiatan produksi atau budidaya sayuran 2) Menjaga agar proses produksi sayuran berjalan dengan baik 3) Menetapkan target produksi sayuran dengan rencana 4) Membuat laporan keadaan bahan baku yang tersedia 5) Membuat laporan pengeluaran (produksi) sayuran g. Assistant of Head Vegetable Farm (Asisten Kepala Kebun Sayuran) 1) Membantu peran kepala kebun sayuran dalam mengawasi tenaga kerja 2) Bertanggung jawab terhadap jalannya proses budiadaya 3) Membuat laporan aplikasi penggunaan pupuk dan pestisida secara
+rutin h. Head Marketing Vegetable (Kepala Pemasaran Sayur)
+1) Membuka peluang pasar dalam hal sayuran 2) Memperluas pemasaran sayuran 3) Mempertahankan konsumen i. Employee (Karyawan) 1) Menjalankan semua perintah dari atasan terkait tugas dan peran
+masing-masing 2) Sebagai mitra kerja perusahaan
+4.2 Manajemen Pengendalian Mutu Pengendalian dan pengawasan adalah Kegiatan yang dilakukan untuk menjamin agar kegiatan produksi dan operasi yang dilaksanakan sesuai dengan apa yang direncanakan dan apabila terjadi penyimpangan, maka penyimpangan tersebut dapat dikoreksi sehingga apa yang diharapkan dapat tercapai. Kegiatan manajemen pengendalian mutu yang diterapkan UD. Bumiaji Sejahtera adalah sebagai berikut :
+
+23
+a. Pemilihan klon pada saat perbanyakan bibit Sistem perbanyakan bibit jambu kristal yang diterapkan UD. Bumiaji Sejahtera adalah dengan sistem okulasi. Okulasi (budding) adalah penggabungan dua bagian tanaman yang berlainan sedemikian rupa sehingga merupakan satu kesatuan yang utuh dan tumbuh sebagai satu tanaman setelah terjadi regenerasi jaringan pada bekas luka sambungan atau tautannya. Bagian bawah (yang mempunyai perakaran) yang menerima sambungan disebut batang bawah (rootstock atau understock) atau sering disebut stock. Bagian tanaman yang ditempelkan atau disebut batang atas, entres (scion) dan merupakan potongan satu mata tunas (entres). Mata tunas yang diambil sebagai bahan okulasi adalah mata tunas yang cabangnya dalam keadaan tidak terlalu tua dan juga tidak terlalu muda (setengah berkayu). Warna kulitnya coklat muda kehijauan atau abu-abu muda. Mata tunas yang diambil dari cabang yang terlalu tua pertumbuhannya lambat dan persentase keberhasilannya rendah. Besar diameter cabang untuk entres ini harus sebanding dengan besarnya batang bawahnya cabang entres untuk okulasi ini sebaiknya tidak berdaun (daunnya sudah rontok). b. SDM yang menguasai budidaya jambu Kristal Dalam pemilihan sumber daya manusia UD. Bumiaji Sejahtera memiliki tenaga kerja yang sudah berpengalaman di bidang pertanian serta memiliki pola pikir yang mengarah pada sistem pertanian ramah lingkungan. Hal tersebut memudahkan perusahaan untuk melakukan proses budidaya jambu kristal, sehingga diharapkan produksi jambu Kristal memiliki mutu yang dapat memenuhi permintaan konsumen. c. Pengawasan dari awal tanam sampai panen Proses budidaya dimulai dari awal tanam sampai panen memberikan kontribusi terhadap pembentukan suatu produk. Proses tanam yang tidak sesuai dengan standart operasional proses akan menghasilkan produk dengan mutu yang rendah. Setiap tahapan proses memiliki persyaratan masing-masing untuk menciptakan kondisi yang ideal, dengan kondisi yang ideal diharapkan dapat menghasilkan produk yang diharapkan. Permasalahn yang muncul adalah sulitnya menciptakan kondisi yang ideal, hal tersebut disebabkan oleh faktor manusia
+
+24
+(human error), kondisi alat dan kondisi lingkungan yang tidak mendukung. Oleh karena itu UD. Bumiaji Sejahtera melakukan pengawasan pada setiap proses budidaya jambu kristal.
+d. Perawatan yang intensif Perawatan tanaman pada saat proses budidaya jambu kristal menjadi faktor terpenting untuk menghasilkan produk akhir yang bermutu mengingat bahwa tanaman jambu kristal sangat rentan oleh hama pengganggu tanaman. Proses perawatan ini meliputi penyiangan, penyiraman, pemupukan, pembungkusan buah, serta pengendalian hama secara manual yaitu dengan menggunakan perangkap hama ( yellow trap). e. Penjadwalan penyiraman Penyiraman dilakukan dengan tujuan agar kebutuhan air untuk tanaman dapat tercukupi dan unsur-unsur hara dapat terserap secara optimal. Hal tersebut membuat akar dapat menjalankan fungsinya dengan baik sehingga pertumbuhan tanaman jambu kristal dapat optimal. Selama pertumbuhan, penyiraman dilakukan setiap hari mengingat tanaman jambu kristal ini sangat membutuhkan banyak air. f. Sortasi, pencucian, dan perapian hasil panen Setelah proses panen dilakukan, perlu adanya proses sortasi, pencucian, dan perapian.Hal tersebut bertujuan untuk memenuhi permintaan konsumen yang mengharuskan produk memiliki mutu yang tinggi. Tindakan penyortiran dilakukan untuk memisahkan buah jambu kristal yang baik dan rusak, rusak oleh serangan hama dan penyakitatau rusak secara fisik atau mekanis saat panen dilaksanakan. Proses perapian dilakukan dengan memisahkan batang atau daun dari buah jambu kristal. Sedangkan pencucian dilakukan agar buah jambu kristal bersih dan terlihat lebih segar.
+4.3 Kegiatan Magang Kerja Kegiatan magang kerja dilaksanakan mulai tanggal 1 Juli 2012 sampai dengan 30 September 2012. Bentuk kegiatan yang dilakukan adalah mengikuti kegiatan di lapang. Sesuai dengan pengarahan pembimbing lapang beserta tenaga kerja di UD. Bumiaji Sejahtera. Adapun kegiatan yang diikuti adalah
+4.3.1 Proses budidaya tanaman jambu kristal a. Perbanyakan tanaman jambu kristal
+
+25
+1) Okulasi - Pilih batang bawah yang memenuhi syarat yaitu telah berumur 5 bulan - Ambil mata tunas tempel dari cabang atau batang sehat yang berasal
+dari pohon jambu kristal varietas unggul yang telah terbukti keunggulannya. - Buat lidah kulit batang yang terbuka pada batang bawah setinggi ± 20 cm dari pangkal batang dengan ukuran yang sesuai dengan mata tempel. - Masukkan mata tempel ke dalam lidah batang bawah sehingga menempel dengan baik - Setelah 2 -3 minggu, ikatan tempelan dapat dibuka dan disemprot dengan ZPT. - Pada okulasi yang jadi, kerat batang sekitar 2 cm di atas okulasi dengan posisi melintang sedikit condong keatas sedalam 2/3 bagian penampang. 2) Cangkok - Memlih dahan tanaman yang bergaris tangah ± 2 cm.panjang dahan ± 100 cm dan dahan tumbuh tegak. - Menyayat kulit cabang secara melingkar sepanjang 3 ­ 5 cm. kulit cabang yang di sayat sebaiknya berada tepat di bawah kuncup daun. - Mengkerat kulit dengan ujung pisau. Kikis kambium yang mungkin masih melekat pada bagian kayu, dan buang lendir yang membasahinya. - Mengeringkan bagian dahan yang telah di kupas dengan membiarkannya selama 2 ­ 5 hari. - Membungkus dahan yang telah di kelupas dengan mos atau serabut kelapa. Dan ikat bagian bawah lembaran pembungkus ± 6 cm di bawah sayatan. - Memasukkan tanah basah yang telah dicampur pupuk kancang ke dalam pembungkus. - Merapikan sehingga dahan yang terkelupas tertutup tanah seluruhnya. Kemudian ikat bagian atas lembaran pembungkus.
+
+26
+- Menyiram secara teratur pada pagi dan sore hari terutama jika tidak terjadi hujan.
+- Cangkokan yang telah tumbuh jangan langsung dilakukan penanaman di lahan. Sebelumnya tanam terlebih dahulu hasil cangkokan pada polybag dengan campuran tanah gembur dan pupuk kandang.
+- Setelah umur cangkokan pada polybag mencapai 3 bulan, maka cangkokan telah siap untuk dipindahkan ke lahan yang siap untuk ditanami. 4.3.2 Teknik penanaman jambu kristal
+a. Pengolahan tanah Lahan yang akan ditanami tanaman jambu kristal sebelumnya dilakukan
+pengolahan tanah terlebih dahulu. Pengolahan tanah pada lahan di fungsikan sebagai sanitasi lahan dan pembersihan dari OPT yang berada di dalam tanah agar pada saat di tanaman OPT tersebut tidak akan menyerang tanaman jambu kristal. Dengan cara membalik tanah dan membuat bedengan ­ bedengan denagn ukuran 1 m x 50 m. Memblik tanah bagian bawah selain untuk mengendalikan hama atau penyakit yang ada di dalam tanah, juga berfungsi untuk memberikan hara yang ada di lapisan top soil tanah agar berada di atas dan mudah dalam penyerapan hara untuk tanaman. b. Penentuan jarak tanaman
+Tanaman jambu kristal dapat di budidayakan secara monokulture maupun intercropping dengan tanaman di bawahnya. Jarak tanam jambu kristal yang di lakasanakan di UD. Bumiaji Sejahtaera di desa Bumiaji, Kecamatan Bumiaji, Kota Batu. Di peruntukan dengan jarak tanam 300 cm x 400 cm dengan secara mono kulture, sedang dengan pola tanam intercroping di lakukan pada bagian bawah tanaman jambu kristal, yaitu di tanam tanaman yang tidak membutuhkan penyinaran yang lama dan cahaya yang sedikit. c. Pembuatan lubang tanam
+Ukuran lubang tanam untuk penanaman jambu kristal di PO. Bumiaji Sejahtera yaitu 30 cm x 50 cm x 50 cm. dimana tanah hasil galian pada bagian atas dan tanah bagian bawah di campur menjadi satu dengan menggunakan pupuk kandang sebanyak 1 kg/lubang tanam.
+
+27
+4.3.3 Pemeliharaan tanaman a. Penyiangan
+Proses penyiangan tanaman jambu akan dilaksanakan apabila terdapat gulma yang mengganggu pertumbuhan tanaman. Pada tanaman yang berjarak tanam rapat makan tidak perlu untuk di lakukan penyiangan, karena tajuk tanaman jambu yang rapat akan menggangu pertumbuhan gulma pada bagian bawah pohon tanaman jambu. Penyiangan dilakukan pada saat awal musim penghujan dimana semua tanaman mulai tumbuh, pada saat sebelum musim penghujan maka lahan yang ada di sekitar tanaman jambu digemburkan kembali untuk agar gulma pada sekitar tanaman jambu tidak tumbuh kembali. b. Pembumbunan tanaman
+Tanaman jambu kristal dilakukan pembumbunan pada saat musim penghujan. Dengan kondisi tanah yang kering dan terkena air makan tanah akan terbawa oleh air, yang menyebabkan tanah yang ada di sekitar tanaman jambu menjadi berkurang dan menggenangi tanaman jambu kristal. dengan pembumbunan tanaman maka air akan dapat mengalir dengan lancar dan tidak menggenangi tanaman jambu. c. Pemangkasan
+Pemangkasan yang dilakukan untuk tanaman jambu kristal ini bertujuan untuk memaksimalkan hasil fotosintat darihasil proses fotosintesis ke jaringan tanaman yang lebih muda atau tunas baru yang masih dapat melakukan proses fase vegetatif yang cepat. Dengan cara memangkas bagian dahan atau ranting tanaman yang sudah tua atau sudah tidak dapat berproduksi, atau pada tangkai yang telah dipetik. Tangkai tanaman yang menghasilkan buah dan telah dipetik tidak dapat memproduksi bunga, maka dengan pemangkasan bisa memaksimalkan produksi bunga pada tanaman pada cabang baru setelah pemangkasan cabang tanaman yang telah tua.
+Selain itu, pemangkasan yang pada jambu kristal dapat mempercepat proses pembungaan pada cabang baru atau tunas baru. Dengan mempercepat proses pembungaan makan produksi buah meningkat. Karena pemangkasan yang dilakukan dapat memusatkan hasil fotosintesis tanaman pada cabang baru dengan bunga dari calon buah tanaman jambu kristal.
+
+28
+Dengan pemengkasan juga dapatn membuat sinar matahari dapat masuk melewati sela ­ sela daun. Dengan penyinaran yang maksimal maka pada bagian bawah dari tajuk tanaman tidak ternaungi dan tidak menyebabkan kelembapan menjadi tinggi. Kelembapan yang tinggi dapat menjadikan tempat tinggal dari penyakit ­ penyakit tanaman berupa jamur, bakteri dll, serta juga dapat menjadi tempat tinggal beberapa hama tanaman jambu. Pemangkasan tanaman jambu kristal ini akan dilakukan setelah umur 3 ­ 6 bulan. d. Pemupukan tanaman
+Pemupukan dilakukan pada 3 tahap daiman pada tahap pertama umur 0 ­ 6 bulan, tahap kedua pada umur 6 ­ 12 bulan dan tahap ketiga umur 12 ­ 24 bulan. 1) Tahap pertama ( 0 ­ 6 bulan)
+Pemupukan tahap awal diman tanaman di tanam sampai tanaman berumur 6 bulan dilakukan pemupukan dengan menggunakan pupuk kandang atau kompos sebanyak 5 kg/1000 m2 sebagai pupuk dasar untuk penanaman jambu kristal, dan selanjutnya dilakukan pemupukan dengan menggunakan pupuk aorganik berupa Urea : Tsp : ZK ( 3 : 2 : 1 ) per 1000 m2. Dengan cara kocor, dimana pupuk dilarutkan kedalam air agar pupuk dapat di serap langsung oleh tanaman.
+Pemupukan pada umur 0 ­ 6 bulan dilakukan setiap 2 minggu sekali, dengan tujuan untuk mempercepat proses vegetatif tanaman. setelah proses vegetatif tanaman pertumbuhannya lebih cepat maka tanaman akan cepat untuk berbungan dan menghasilkan buah. 2) Tahap kedua (6 ­ 12 bulan)
+Pada umur 6 ­ 12 bulan tanaman dilakukan pemupukan dengan menggunakan pupuk yang sama dan dosis yang sama, yaitu Urea : Tsp : ZK ( 3 : 2 : 1 ) per 1000 m2. Tetapi jarak waktu pemberian pupuk lebih lama di bandingkan pada awal fase vegetatif dengan selang waktu 1 bulan sekali. Pemberian pupuk pada umur 6 ­ 12 bulan dengan cara di taburkan pada daerah areal perakaran tanaman jambu secara melingkar. Karena pada tahap ini sudah memulai fase generatif atau pembentukan bunga.
+
+29
+Maka asupan pupuk yang diberikan dikurangi untuk mempercepat pembuahan pada tanaman. 3) Tahap ketiga (12 ­ 24 bulan)
+Pada umur tanaman jambu yang telah mencapai 2 tahun takaran pupuk yang digunakan tetap sama dengan umur 6 ­ 12 bulan, tetapi selang waktu pemupukan yang digunakan dikurangi, dengan tujuan untuk mepercepat proses pemasakan buah. Jarak waktu yang digunakan untuk pemupukan tanaman umur 12 ­ 24 bulan, dilakukan setiap 3 bulan sekali. e. Pengairan tanaman
+Pemberian air pada tanaman jamb ukristal ini dilakukan 2 kali dalam minggu pertama setelah penanam, yaitu pada pagi dan sore hari. Setelah tanaman telah mulai beradapatasu dengan lingkungan sekitar dapat dikurangiimenjadi sekali dalam sehari. Setelah tanaman tumbuh kuat frekuensi penyiraman dapat dikurangi lagi atau penyiraman dilakukan saat diperlukan saja. Jika turun hujan yang lebat diusahakan agar sekeliling tanaman tidak tergenang air dengan cara membuat lubang saluran untuk mengalirkan air. Sebaliknya pada musim kemarau tanah akan terlihat mengering dan merakah maka di perlukan penyiraman yang lebih dari pada penyiraman yang terdahulu dan dilakukan sehari sekali setiap sore hari. f. Pengendalian OPT (Organisme Pengganggu Tanaman) 1) Tahap pertama (0 ­ 6 bulan)
+Pengendalian OPT pada awal tanam sampai tanaman berumur 6 bulan dilakukan dengan menggunakan pestisida anorganik. Pestisida yang digunakan adalah Dorstick (pelekat, penabur) sebanyak 25 cc/100 Lt, ANTONIK (zat perangsang tumbuh tanaman) sebanyak 25 cc/100 Lt, dan menggunakan fungsida yaitu CABRIO 250EC sebanyak 25 cc/ 100 Lt dan FOLICUR 25WP sebanyak 25 cc/100 Lt. 2) Tahap kedua (6 ­ 12 bulan)
+Pengendalian OPT pada umur tanaman mencapai 6 ­ 12 bulan. Pengandalian tetap menggunakan dosis yang sama, akan tetapi penggunaan air dan dosis pestisida ditambahkan 10 % dari takaran air seblumnya menjadi 110 Lt air yang digunakan pada saat penyemprotan dengan dosis
+
+30
+Dorstick (pelekat, penabur) menjadi 35 cc/110 Lt, ANTONIK (zat perangsang tumbuh tanaman) sebanyak 35 cc/110 Lt, dan menggunakan fungsida yaitu CABRIO 250EC sebanyak 35 cc/ 110 Lt dan FOLICUR 25WP sebanyak 35 cc/110 Lt. 3) Tahap ketiga (12 ­ 24 bulan)
+Dengan bertambahnya umur tanaman yang sudah mencapai dua tahun maka takaran air dan dosis yang digunakan untuk menyemprot tanaman bertambah manjadi 20 %. Maka takaran air dan dosis dalam penyemprotan atau pengendalian OPT pada umur tanaman mancapai 2 tahun di perlukan dosis Dorstick (pelekat, penabur) menjadi 55 cc/130 Lt, ANTONIK (zat perangsang tumbuh tanaman) sebanyak 55 cc/130 Lt, dan menggunakan fungsida yaitu CABRIO 250EC sebanyak 55 cc/ 130 Lt dan FOLICUR 25WP sebanyak 55 cc/130 Lt. g. Pemeliharaan lain 1) Penjarangan buah
+Penjarangan dilakukan untuk meningkatkan kualitas buah yaitu besar seragam, kulit baik, dan sehat, dilakukan dengan membuang buah yang tidak normal (terserang hama penyakit atau kecil-kecil). Untuk mendapatkan buah yang baik satu tunas hendaknya berisi 3 ­ 5 buah. 2) Pembungkusan buah
+Pembungkuasn buah tanaman jamb dilakukan pada saat buah tanaman sudah sudah berumur 1,5 bulan atau bakal buah tanaman, dengan cara membungkusnya dengan menggunakan plastik bening ukuran 15 x 35 cm. Dan pada bagaian pucuk plastik dipotong untuk memberikan lubang udara pada buah, lubang udara berfungsi sebagai pembuang air yang dikeluar oleh proses penguapan buah tanaman. pembungkusan bertujuan untuk menghindari keruskan secara mekanis dari tanaman itu sendir dan serangan serangga hama yang akan merusak buah tanaman jambu.
+4.3.4 Hama dan Penyakit Penting Tanaman Jambu Kristal 1. Kutu daun (Aphid sp)
+Gejala yang disebabkan oleh kutu daun terjadi pada bagian pertumbuhan tunas, pucuk, daun dan bunga terganggu. Bentuknya berubah
+
+31
+mengeriting, mengkerut, atau mengerdil serta akhirnya rontok. Daun berubah menjadi kuning kecoklatan kemudian layu.
+Penyebab awal populasi aphid bisa meledak lantaran betina mampu berpatogenesis ­ memperbanyak diri tanpa perkawinan. Oleh karena itu, setiap saat mampu bereproduksi. Di dataran rendah dan tropis aphid berkembang sangat pesat. Itu terjadi terutama pada awal musim kemarau. Tumbuhnya tunas ­ tunas mampu menarik aphid datang. Untuk siklus hidup reproduksi aphid terbagi dalam 2 fase seksual melalui perkawainan dan asesksual melalui pertogenesisl. Dalam kondisi dingin, umumnya aphid dewasa berkembang biak secara parogenesis. Aphis betina mampu menghasilakn ribuan aphid baru dalam waktu 4 ­ 6 minggu. Nimfa akan melewati 4 fase sebelum mejadi serangga dewasa dalam kurun waktu 8 ­ 10 minggu. Serangga dewasa berproduksi lagi 2 ­ 3 hari kemudian.
+2. Kutu putih (Pseudococcidae sp.) Gejala yang disebabkan pada bagian tunas yang baru muncul gagal
+tumbuh, daun tua menguning dan layu daun rontok satu persatu. Dan pada saat dibongkar, tampak akar menjadi kurus dengan permukaan cekung mengempis. Tanaman menguning kemudian akan layu menghitam. Apabila menyarang pangkal daun, daun akan kuning layu dan rontok.
+Penyebab adalah serangga in imampu berpindah dari satu tempat ketempat yang lainnya, dan ada beberapa yang dibantu oleh angin, burung dan manusia karena ukuran yang sangat kecil dan ringan. Oelah karenanya mudah melakat ke kaki burung, pakaian atau alat ­ alat berkebun. Siklus hidup kutu putih yaitu satu generasi membutuhkan waktu 1 ­ 5 bulan tergantung jenis iklim, dan tempat tumbuh. Setiap tahunm, ham ini mempu melahirkan 2 ­ 4 generasi. Imago betina menghasilkan 300 ­ 500 butir. Setlah 6 ­ 20 hari kemudian, telus menetas.
+Cara menanggulangi secara mekanis jika tampak kutu berada di premukaan media tanamn makan akar tanaman sudah terserang. Untuk itu perlu pembongkaran tanaman dari pot dan dibersihkan bagian yang terserang dengan kapas yang sudah dibasahi alkohol 70 %. Bagian yang rusak dipotong dan kemudian di bakar. Untuk kimiawi yaitu menggunakan pestisisda
+
+32 berbahan aktif imikdakplorid, prefenofos, lamda sihalotrin. Sedang secara budidaya yaitu menanam sermpak, membersihkan seresah dan gulma.
+Gambar 8. Serangan Kutu Putih 3. Ulat kantung (Psychidae sp.)
+Gejala yaitu daun berlubang pada jarak berdekatan. Serangan berat mampu membuat warna daun di sekitar lubang menguning.
+Penyebabnya pada saat musim kemarau memicu pupa menjadi serangga dewasa yang akan segera kawin dan bertelur. Siklus hidupnya identik dengan ulat kupu dan ngengat lainnya. Telus menetas dalam kantung menjadi ulat. Pada saat stadia ulat mampu mengelurkan benang dan menybar di bantu angin dan binatang. Perkembangan dalam satu generasi mata bervariasi.
+Penanggulangan secara mekanis yaitu memusnahkan ulat dan kantung ­ kantung yang terlihat, untuk kimiawi menggunakan pestisida berbahan aktif deltametrin dan klorantraniliprol. Sedangkan secara budidaya yaitu membersihkan seresah dari sekitar pohon.
+Gambar 9. Serangan Ulat Kantung
+
+33
+4. Lalat buah Gejala yang disebabkan pada stadia larva yaitu menggerek buah dan
+menyebabkan buah membusuk di bagia dalam. Tampak getah yagn sudah mengering di permukaan buah. Kadang tampak lubang kecil kehitanaman bekas tusukan dan buah banyak yang keriput dan rontok.
+Penyebab adalah lalat buah akan datang pada saat bersamaan musim penghujan. Karena kelembapan memicu pupa untuk keluar menjadi lalat dewasa. Siklus hidup pada lalat buah betina akan menyuntikkan 50 100 telur ke buah muada kemuaida 2 ­ 5 hari belatung keluar dari telurn dan segera merusak daging bah setelh 4 ­ 7 hari keluar dai buah dengan meulbangi kulit buah menjatuhkan diri dan menjadi pupa dalam tanah, 3 ­ 5 hari kemudian lalat dewasa bersayap keluar dari pupa, kurang dari 1 menit langsung mengudara dan melakuka perkawinan serta bertelur.
+Penanggulangan secara mekanis, buah atau bungan yang terserang di pangkas dan dibakar, disekitarnya dicangkul dan dibalik agar pupa yang bersembunyi terkena sinar matahari dan mati. Perangkap yang menggunakan zat metil eugenol atau lem kuning cukup efektif mengurangi serangan. Untuk kimiawai menggunakan insektisida berbahan aktif deltamtrin, prefonos dan abamectin, dan penyemprotan dilakukan pada pagi hari saat lalat sedang aktif, sedang secara budidaya yaitu sanitasi lahan sebelum menanam, memangkas kanopi untuk membentuk tajuk dan mengurangi kerimbunan kanopi.
+Gambar 10. Lalat Buah
+
+34
+5. Bercak daun dan hawar daun Pestalotiopsis spp Gejala yang terjadi bercak abu ­ abu di permukaan daun yang menjalar
+ke ranting dan tangkai buah. Awalnya bercak berwarna kuning, cokelat, atau hitam. Pada beberapa spesies, bercak berubah menjadi abu-abu dengan tepuan hitam. Meskipun tergolong parasit lemah, serangan berat mengurangi kemampuan fotosintesis yang berakibat menurunnya produksi buah. Cendawan Pestalotiopsis spp masuk lewat luka terbuka pada daun tua, kulit buah, atau kulit batang. Spora menyebar dengan batuan angin dan air, baik percikan air hujan maupun penyiraman.
+Pengendalian secara mekanis dengan cara memotong dan musnahkan bagian yang terserang. Pengendalian kimiawi dengan menyeprot fungisida berbahan aktif klorotanil. benomil azoksistrobin, dan mankozeb. Pangkas tajuk jambu secara teratur untuk mengurangi kerimbunan tajuk dan bersihkan seresah.
+
+Gambar 11. Bercak Daun
+
+Gambar 12. Hawar Daun
+
+6. Cendawan Jelaga Capnodium spp Kehadirannya sebagai penyakit minor karena patogen tidak menyerap
+nutrisi tanaman hanya sebatas menumpang pada permukaan daun. Namun
+
+35
+dapat menutupi permukaan daun yang mengakibatkan terganggunya proses fotosintensi sehingga mengganggu vigor tanaman. gejalanya muncul bintikbintik hitam mirip jelaga pada permukaan daun. Cendawan ini hadir sat ada cairan manis yang dikeluarkan apids, thrip, mealy bug, maupun serangga parasit lain. Cara memberantasnya dengan mengendalikan serangga vektor tersebut dengan insektisida. Pada permukaan daun terbentuk selaput hitam tipis. Saat udara kering, selaput lepas dari daun dan terpecah menjadi bagian kecil-kecil. Bagian tersebutlah yang terhembus angin dan menyebar ke segala penjuru. Umumnya, cendawan berkembang baik saat kemarau tiba. Sebaliknya saat musim hujan jauh berkurang karena terbatasnya produksi cairan manis serangga.
+Pengendalian mekanis dengan menggunakan belerang dan abu gosok pada daun yang terserang. Penangulangan kimia dengan fungisida berbahan aktif benomil, mankozeb, mandipropamid, dan propineb. Sedangkan cara budidaya dengan memangkas teratur untuk mengurangi kerimbunan tajuk. Tanaman di bawah naungan memiliki intensitas serangan lebih tinggi.
+Gambar 13. Serangan Embun Jelaga 7. Karat Puccinia spp
+Cendawan ini bersifat parasit obligat, dan menyerang daun, tangkai daun, serta batang. Selain itu juga menyerang bakal bunga dan buah serta menyebabkan mati pucuk. Gejala yang ditimbulkan yaitu muncul bercak-
+
+36
+bercak cokelat memanjang atau bulat di batang dan permukaan daun bagian bawah. Di permukaan daun bagian atas, bercak kecoklatan terlihat lebuh terang dikelilingi tepian berwarna kuning. Lama-kelamaan bercat menjadi kumpulan spora berwarna orange yang mudah diterbangkan angin. Di permukaan atas daun, bercak berwarna coklat kemerahan lalu muncul kumpulan spora berwarna orange dalam jumlah yang lebih sedikit. Pada serangan berat seluruh daun dapat tertutup kumpulan spora hingga akhirnya daun mengering dan mati.
+Penyebab Puccinia spp dibantu angin, udara lembab, dan percikan air hujan. Selain itu benih dan bibit yang terkontaminasi juga menbjadi sumber penyebaran ke tanaman sehat. Penanggulangan mekanis dengan cara cabut dan musnahkan tanaman yang terserang agar tidak menyebar. Cara kimiawi dengan menyemprot fungisida berbahan aktif klorptalonil, azoksistrobin, tebukonazol, triadimefon, atau difekanazol. Pengendalian kultur teknis dengan mengatur jarak tanam agar semua tanaman tersinari matahari. Pangkas teratur agar tidak ada yang ternaungi.
+Gambar 14. Serangan Karat Daun 4.4 Pembuatan dan Penerapannya di UD. Bumiaji Sejahtera
+4.4.1 Pembuatan Mikroorganisme Efektif UD. Bumiaji Sejahtera merupakan badan usaha yang bergerak dalam bidang agribisnis pertanian, usaha kecil menengah keripik buah, serta wisata petik desa. Mulai menjalankan pertanian organik, salah satunya dengan membuat mikroorganisme efektif (EM). Bahan-bahannya berupa buah nanas yang sudah matang, air jernih dari sumur atau sumber yang belum dimasak,
+
+37
+
+dan gula pasir. Mikroorganisme efektif pada UD. Bumiaji dibuat dari bahan-
+
+bahan terpilih berdasarkan pengalaman pemilik perusahaan UD. Bumiaji dan
+
+informasi dari beberapa literatur pertanian serta kegiatan seminar ataupun
+
+sarasehan tentang pertanian organik.
+
+Pemilihan buah nanas sebagai bahan pembuatan EM karena buah nanas
+
+memiliki mikroorganisme endofit yang nantinya sangat bermanfaat bagi
+
+pertanian. Adapun mikroorganisme tersebut berupa dekomposer, mikroba
+
+fermentatif, penyakit antagonis, serta mikroba yang berperan dalam
+
+penyuburan tanah dan tanaman. Selain itu kandungan air dan gula glukosa
+
+dalam buah nanas cukup tinggi sehingga mampu untuk media
+
+perkembangbiakan mikroorganisme dalam buah nanas tersebut. Dalam buah
+
+nanas juga terdapat enzim-enzim yang dapat membantu mikroorganisme dalam
+
+mengkatalis substrat-substrat. Fungsi dari gula pasir sebagai penambah
+
+kandungan gula dalam EM tersebut agar mikroorganisme memperoleh energi
+
+dalam mengkatalis substrat-substrat yang ada dalam buah nanas. Bahan
+
+tambahan lain berupa air yang berperan dalam pelarut gula, memudahkan
+
+nanas saat proses penghalusan, serta membantu mikroorganisme untuk tumbuh
+
+dan berkembangbiak.
+
+Proses pembuatan mikroorganisme efektif dari bahan baku buah nanas,
+
+gula pasir, dan air mentah yang jernih adalah seperti berikut:
+
+a. Bahan yang digunakan untuk pembuatan EM di UD. Bumiaji Sejahtera
+
+sebagai bahan penyubur tanah dan pengurai bahan organik antara lain:
+
+1. Buah Nanas (matang) Varietas Bogor : 1,5 kilogram (5 buah)
+
+2. Gula Pasir
+
+: ¼ kilogram
+
+3. Air Jernih (belum matang)
+
+: 6 liter
+
+38
+
+Gambar 15. Bahan Pembuatan EM
+
+b. Alat yang digunakan dalam pembuatan EM di UD. Bumiaji Sejahtera
+
+antara lain:
+
+1. Pisau dapur (tajam) ukuran p=12 cm
+
+: 1 buah
+
+2. Ember d=atas 25 cm, d=bawah 20 cm, t=25 cm + tutup : 2 buah
+
+3. Gelas takar plastik bening ukuran 500 ml
+
+: 1 buah
+
+4. Blender merk National 190 watt model MX-1110GN: 1 buah
+
+5. Timbangan Ion Kitchen Ek 02A Henherr tenaga baterai : 1 buah
+
+Alat-alat yang digunakan memiliki fungsi yang berbeda-beda. Pisau
+
+dapur digunakan untuk mengupas kulit buah nanas dan memotongnya menjadi
+
+lebih kecil supaya memudahkan dalam proses menghaluskan. Ember bersih
+
+dan kering digunakan sebagai wadah air jernih dan tempat fermentasi bahan-
+
+bahan yang sudah tercampur. Gelas takar plastik digunakan dalam mengukur
+
+jumlah air yang diperlukan. Super blender merk National 190 watt model
+
+MX-1110GN digunakan dalam menghaluskan nanas dan melarutkan gula
+
+pasir. Timbangan Ion Kitchen Ek 02A Henherr ukuran 179(W) X 179(L) X
+
+55(H) Mm tenaga baterai 2 X Cr2032 sebagai alat ukur berat bahan buah
+
+nanas yang dikelupas dan gula pasir yang diperlukan
+
+39
+Gambar 16. Alat Pembuatan EM c. Proses pembuatan mikroorganisme efektif di UD. Bumiaji Sejahtera
+Proses pembuatan mikroorganisme efektif dimulai dengan persiapan alat dan bahan. Kemudian mulai mengupas kulit nanas selanjutnya cuci bersih pada air yang mengalir. Timbang nanas sebanyak 1,5 kilogram dan gulan ¼ kilogram. Selanjutnya memotong buah nanas menjadi kecil-kecil agar memudahkan dalam proses menghaluskan. Setelah itu mulai menimbang bahan sesuai komposisi yang diperlukan. Tancapkan blender pada saluran aliran listrik dan masukkan buah nanas dan air sebanyak 200 ml setiap kali menghaluskan. Penambahan air untuk memudahkan dalam proses penghalusan. Setelah itu blender sampai halus sekitar 1 menit, setelah itu letakkan pada ember kosong yang bersih dan kering. Proses selanjutnya larutkan gula ¼ kilogram dengan 200 ml air hingga homogen pada blender. Proses yang terakhir yaitu menambahkan larutan gula dan 5 liter air jernih yang mentah pada nanas yang telah halus serta tutup dan diamkan selama 5 sampai 7 hari. Simpan ditempat kering, sejuk dan terhindar dari sinar matahari langsung. Pada hari ke-7 Buka tutup ember dan berbau seperti alkohol bahwa fermentasi berhasil.
+
+40
+
+Siapkan alat dan bahan
+
+Blender nanas dengan menambah 200 ml air setiap
+menghaluskan
+
+Letakkan pada ember yang
+kosong, kering dan bersih
+
+Kupas kulit buah nanas
+
+Potong nanas mejadi keciil-kecil
+
+Larutkan gula 1/4 kg dengan 200 cc
+
+Cuci bersih nanas
+
+Timbang nanas 1,5 kg dan gula pasir
+1/4 kg
+
+Campurkan larutan gula, nanas + 5 liter air dan fermentasi
+selama 5-7 hari
+
+Gambar 17. Proses pembuatan EM di UD. Bumiaji Sejahtera
+4.4.2 Aplikasi Mikroorganisme Efektif Pada Lahan Jambu Kristal Pembuatan mikroorganisme yang telah selesai dapat langsung
+diaplikasikan di lahan pertanian. Namun dalam prosesnya perlu mengunakan air metah dan jernih dari sumber ataupun sumur sebagai pelarut atau pengencer. Untuk 1 liter EM dapat digunakan pada lahan jambu produktif 100 m2. Berhubung di UD. Bumiaji Sejahtera ada 2.600 m2 lahan jambu kristal produktif maka dibutuhkan 26 liter EM untuk aplikasi. Namun yang diuji coba saat magang kerja hanya sebanyak 1 liter saja. Aplikasi dilakukan setiap tiga hari sekali, sehingga untuk semua lahan produktif jambu kristal dalam sekali aplikasi membutuhkan 26 liter EM. Maka dalam sebulan membutuhkan 260 liter EM karena perbulan dilakukan 10 kali aplikasi. Untuk cara aplikasi di UD. Bumiaji Sejahtera menggunakan mesin sprayer berbahan bakar bensin. Adapun proses aplikasinya seperti berikut:
+Mikroorganisme efektif yang sudah dibuat dapat digunakan sebagai campuran pestisida nabati yang terbuat dari daun tanaman mimba untuk mengendalikan hama utama jambu kristal yaitu lalat buah. Hama lalat buah, khususnya dari jenis Bactrocera spp., adalah hama yang sangat merugikan. Kerugian yang diakibatkannya diperkirakan mencapai Rp 22 milyar per tahun.
+
+41
+Serangan lalat buah mengakibatkan menurunnya kuantitas dan kualitas produk hortikultura, khususnya buah-buahan dan mengakibatan ekspor buah-buahan ditolak (Daryanto, 2003 dalam Kardinan, 2007).
+
+Gambar 18. Tanda Serangan Lalat Buah
+
+Bahan-bahan yang diperlukan untuk aplikasi mikroorganisme efektif
+
+dengan campuran pestisida nabati dari daun mimba yaitu:
+
+EM dari buah nanas
+
+: 1 liter
+
+Air jernih dan mentah
+
+: 100 liter
+
+Pestisida nabati daun mimba, tomat, merica
+
+: 1 liter
+
+Perekat
+
+Latron 750 L ba alkil gleserol flalat : 0,1 liter
+
+Manfaat EM sebagai bahan degradasi atau pengurai pada seresah atau
+
+buah jambu yang terserang lalat buah. Air jernih sebagai pelarut bahan lainya.
+
+Pestisida nabati sebagai repellent pada pertanaman jambu. Perekat Latron
+
+750 L selain sebagai perekat agar bahan tidak mudah hanyut terbawa air selain
+
+itu sebagai perata dan pengelmulsi.
+
+Alat-alat yang diperlukan untuk aplikasi mikroorganisme efektif dengan
+
+campuran pestisida nabati dari daun mimba yaitu:
+
+Mesin (bensin) Power Sprayer IndoKoyo SC-30 10 -40 BAR : 1 set
+
+Selang sprayer dan nozzle
+
+: 100 m
+
+Drum kapasitas 100 liter
+
+: 1 buah
+
+Kayu pengaduk
+
+: 1 buah
+
+Ember d=atas 25 cm, d=bawah 20 cm, t=25 cm
+
+: 1 buah
+
+Gelas takar ukuran 500 ml
+
+: 1 buah
+
+42
+Fungsi mesin Power Sprayer IndoKoyo SC-30 tekanan 10 -40 BAR dengan bahan bakar bensin untuk menyemprotkan campuran larutan EM, pestisida nabati dan perekat Latron 750 L. Selang sprayer berguna dalam menyalurkan campuran homogen EM, pestisida nabati dan perekat Latron 750 L berbahan aktif alkil gleserol flalat. Sedangkan nozzle untuk mengatur bentuk semprotan. Drum untuk wadah mencampur bahan-bahan. Kayu pengaduk berfungsi menghomogenkan bahan-bahan. Ember untuk mengambil air dari saluran irigasi untuk diletakkan ke drum. Gelas takar untuk mengetahui ukuran bahan mikroorganisme efektif, pestisida nabati dan perekat.
+Adapun caranya yaitu masukkan air jernih 100 liter ke dalam drum. Kemudian mengambil takaran mikroorganisme efektif (ME) dan pestisida nabati mimba masing-masing 1 liter serta perekat Latron 750 L 100 ml masukkan ke dalam drum. Aduk dengan kayu supaya tercampur merata. Nyalakan mesin sprayer dengan menarik tuas dan mengatur choke. Setelah itu sambung selang ke nozzle. Lalu masukkan selang penyedot ke dalam drum. Buka katub nozzle dan semprot ke pertanaman jamu juga seresah jambu. Lakukan aplikais 3 kali dalam seminggu. Tetapi perlu harus dilaksanakan saat cuaca berawan tidak dalam keadaan berangin, hujan maupun panas.
+Gambar 19. Penyemprotan EM dan Pestisida Nabati Menggunakan Sprayer
+
+43
+
+Siapkan alat dan bahan
+
+Sambung selang penyedot dengan
+nozzle
+
+Masukkan selang penyedot atau penyaring ke drum
+
+Tambahkan air 100 liter jernih ke dalam
+drum
+
+Nyalakan mesin sprayer
+
+Buka nozzle, semprot ke pertanaman jambu dan seresah jambu
+
+Masukkan EM 1 liter, Pestisida Nabati 1 liter dan perekat 100 ml
+
+Aduk dengan kayu pengaduk hingga
+homogen
+
+Lakukan 3 kali dalam seminggu
+
+Gambar 20. Cara aplikasi dengan mesin sprayer
+Cara aplikasi lain yaitu menggunakan hand sprayer kapasitas 2 liter merk Shohor. Saat mengambil larutan mikroorganisme efektif harap menyaring dahulu di saringan agar sprayer tidak macet karena tersumbat serat buah nanas. Ambil cairan EM yang telah disaring sebanyak 20 ml, pestisida nabati dari daun mimba 20 ml kemudian masukkan ke dalam botol sprayer. Lalu gojok atau aduk campuran larutan tersebut hingga tercampur merata. Cara penggunaan handsprayer Shohor 2 liter yaitu dengan memompa untuk menimbulkan gaya dorong. Kemudian tekan pelatuk supaya cairan keluar. Lalu atur nozzle dengan memutar supaya hasil spray menyebar. Setelah itu baru dapat diaplikasikan dengan cara menyemprot ke area pertanaman jambu kristal termasuk buah jambu yang belum dibungkus plastik dan seresah tanaman hasil pemangkasan maupun penjarangan buah serta buah yang sudah busuk.
+
+44
+
+Gambar 21. Cara Aplikasi EM dan Pestisida Nabati pada Seresah Jambu
+
+Siapkan alat dan bahan
+
+Saring larutan EM dengan kasa
+
+Takar EM dan Pestisida Nabati masing-masing 20
+ml
+
+Tutup penutup dan kocok selama 1 menit
+
+Tambahkan air jernih sebanyak 2
+liter
+
+Masukkan ke botol handsprayer
+
+Putar nozzle agar hasil semprotan
+menyebar
+
+Arahkan pada pertanaman dan seresah jambu
+
+Aplikasi selama 3 kali dalam seminggu
+
+Gambar 22. Cara aplikasi menggunakan handsprayer
+Menurut (Putra, 1997) buah yang terserang lalat buah jatuh ke tanah akan menjadi inang larva lalat buah matang yang akan menempuh kehidupan larvanya. Fungsi campuran ME dan pestisida nabati mimba yaitu agar kedua larutan dapat bersinergi selain dapat mendekomposisi buah jambu yang sudah terifeksi lalat buah juga dapat memberikan peranan menjaga stabilitas mikroorganisme dalam tanah. Menurut (Wididana, 1994 dalam Syarifuddin, 2009) penggunaan EM4 dapat menurunkan populasi nematoda parasit tanaman, tetapi EM4 bukan pestisida. Teknologi EM4 merupakan salah satu
+
+45
+teknologi pemanfaatan microorganisme yang hidup di tanah yang bisa bekerja sama secara sinergis dalam memperbaiki tingkat kesuburan tanah dan sifatsifat fisik tanah ( Salikin, 2003 dalam Yulhasmir, 2009).
+Untuk keberlanjutan produksi EM di UD. Bumiaji Sejahtera masih dalam tahap pengembangan. Pemberian EM pada seresah jambu dan limbah organik sisa panen supaya menjadi kompos pada tanah. Selain itu diungkapkan pula bahwa kompos yang terlalu masak biasanya memiliki keasaman yang terlalu tinggi dan bila kurang masak kompos cenderung bersifat basa. Tanaman akan memanfaatkan nutrisi dengan maksimal, jika unsur hara pada proses pengomposaan sempurna. Pengomposan merupakan upaya untuk memfermentasikan media dapat dipakai larutan EM4. EM4 mengandung empat jenis mikroorganisme utama yaitu Lactobasillus (bakteri asam laktat yang merupakan bagian terbesar dari kandungan EM4 serta dalam jumlah sedikit bakteri fotosintetik, ragi dan Actinomycetes (Roy dan Cender, 2006 dalam Andayanie, 2013).
+
+46
+V. KESIMPULAN DAN SARAN
+5.1 Kesimpulan Berdasarkan hasil magang kerja di UD. Bumiaji Sejahtera tentang pembuatan EM dan pengaplikasian padalahan jambu kristal dapat disimpulkan bahwa: 1. Penggunaan EM dengan pestisida nabati pengendali lalat buah dapat mengurangi resiko penyebaran hama penting tersebut dengan menyemprotkan pada seresah pertanaman jambu. 2. Pemanfaatan EM sebagai dasar proses pengomposan bahan organik untuk mendukung pertanian yang berkelanjutan. 3. EM merupakan mikrorganisme yang sangat bermanfaat dan multifungsi seperti dapat menguraikan bahan organik, menyediakan senyawa yang dibutuhkan tanaman, menyuburkan tanah, meningkatkan produktivitas tanaman, dan dapat juga sebagai antagonis penyakit.
+5.2 Saran Pembuatan EM pada UD. Bumiaji Sejahtera perlu dibuat dalam skala besar karena peranannya yang sangat besar dalam komponen agroekosistem. Selain itu, perlu dilakukannya penelitian guna mengetahui efektifan EM dalam menguraikan bahan organik, meningkatkan produktivitas tanaman, dan antagonis penyakit tumbuhan tersebut secara ilmiah.
+
+47
+
+DAFTAR PUSTAKA
+
+Abdurrahman, Nail. 2012. Cara Membudidaya Tanaman Jambu Kristal.
+
+http://www.aggressiveoptiontrader.com/2012/08/cara-
+
+membudidaya-tanaman-jambu-kristal/. Diakses tanggal 3 Juni
+
+2013 (Online).
+
+Agrios, George N. 1988. Plant Pathology, Third Edition. Academic Press
+
+University of Florida, Gainesville. Hal: 567
+
+Andayanie, Wuye Ria. 2013. Penambahan EM4 dan Lama Pengomposan Media
+
+Tanam terhadap Pertumbuhan dan Hasil Jamur Tiram Putih
+
+(Pleurotus florida). Agri-tek Unmer Madiun. Anonim a. 1995. Fermentasi Bahan Organik Dengan Teknologi Effective
+
+Mocroorganismes -4 (EM4). Indonesiaan Kyusei Nature Farming
+
+Societies and PT. Songgolangit Persada. Jakarta. ________b. 2007. Cara Membuat Effective Microorganism (EM).
+
+http://petanidesa.wordpress.com/2007%E2%80%A6roorganism-
+
+________c.
+
+em/. Diakses tanggal 30 November 2013 (Online).
+
+2013.
+
+Pembuatan
+
+Cuka
+
+Nanas.
+
+http://lordbroken.wordpress.com/2013/04/28/pembuatan-cuka-
+
+________d,
+
+nanas/. Diakses tanggal 3 Desember 2013 (Online).
+
+2010.
+
+Saccaromyces
+
+cereviciae.
+
+http://anwarqomaruz.blogspot.com/2010/12/jamur-ragi.html.
+
+________e.
+
+Diakses tanggal 3 Desember 2013 (Online).
+
+2012.
+
+Acetobacter
+
+aceti
+
+bacteria.
+
+http://sabrinacampagna.tumblr.com/post/32039089810/acetobacte
+
+r-aceti-bacteria-are-a-widespread-group. Diakses tanggal 4
+
+Desember 2013 (Online).
+
+Arau´ jo et al. 2009. Municipal solid waste compost amendment in agricultural
+
+soil: changes in soil microbial biomass. Agricultural Science
+
+Center, Soil Quality Lab, Federal University of Piaui´, Teresina,
+
+PI, Brazil
+
+Djaja, Willyan. 2008. Langkah Jitu Membuat Kompos dari Kotoran Ternak &
+
+Sampah. AgroMedia Pustaka. Jakarta. hal: 20-26
+
+48
+Hadisuwito, Sukamto. 2007. Membuat Pupuk Kompos Cair. AgroMedia Pustaka. Jakarta. hal: 19-20
+Janse, J. D. 2005. Phytobacteriology : principles and practice. CABI Publising. Wallingford
+Kardiman, Agus. 2007. Pengaruh Campuran Beberapa Jenis Minyak Nabati Terhadap Daya Tangkap Lalat Buah. Balai Penelitian Tanaman Obat dan Aromatik. Bogor.
+Pelczar, Michael J. 2008. Dasar-Dasar Mikrobiologi II. Penerbit Universitas Indonesia (UI-Press). Jakarta.
+Purwendro, Setyo. 2007. Mengolah Sampah Untuk Pupuk Dan Pestisida Organik. Penebar Swadaya. Jakarta. Hal: 17
+Purwoko, Tjahjadi. 2009. Fisiologi Mikroba. PT. Bumi Aksara. Jakarta. Putra, Nugroho Susetya. 1997. Hama Lalat Buah dan Pengendaliannya. Penerbit
+Kanisius. Yogyakarta. Rahmawati, Nini. 2005. Pemanfaatan Biofertilizer Pada Pertanian Organik. USU
+Repository. Medan Rasmidi, 2013. Cara Membuat Pupuk Organik Cair (MOL) dan Kompos.
+http://warasfarm.wordpress.com/2013/03/19/cara-membuatpupuk-organik-cair-mol-dan-kompos/. Diakses tanggal 30 November 2013 (Online). Siti Umniyatie, dkk. 1999. Pembuatan Pupuk Organik Menggunakan Mikroba Efektif (Effective Microorganisms 4). Laporan PPM UNY: Karya Alternatif Mahasiswa. Sutanto, Agus. 2011. Degradasi Bahan Organik Limbah Cair Nanas oleh Bakteri Indigen. El-Hayah. Pendidikan Biologi Universitas Muhammadiyah Metro Lampung. Syarifuddin, Amir. 2009. Pengaruh Konsentrasi Mikroorganisme Efektif 4 (EM4) dan Dosis Azolla terhadap Pertumbuhan Bibit Mahoni (Swietenia macrophylla King). Universitas Muhammadiyah Malang. Trubus. 2010. www.trubus-online. co.id/trindo3/buah/page-6.html. Diakses tanggal 14 Mei 2013 (Online).
+
+49
+Trubus, 2012. Mikroba Juru Masak Tanaman Dongkrak Hasil Panen 3 Kali Lipat. PT. Trubus Swadaya. Depok
+Yulhasmir, 2009. Konsentrasi EM4 (Effective Microorganisme) dan Jarak Tanam Terhadap Pertumbuhan dan Produksi Tanaman Jagung (Zea mays. L.) dengan Sistem Tanpa Olah Tanah. Agrobis. Fakultas Pertanian Universitas Baturaja.
+Yuwono, Dipo. 2005. Kompos. Penebar Swadaya. Jakarta. Hal: 70
+
+50
+
+Lampiran I
+
+LAMPIRAN
+
+51 Lampiran II
+
+52 Lampiran III
+
+53 Lampiran IV
+
+1 Lampiran V
+
+Lampiran VI Pembuatan mikroorganisme efektif (EM) dari buah nanas
+
+1
+
+2
+
+3
+
+8
+
+7
+
+6
+
+10
+
+11
+
+9
+
+2 4 5 12
+
+3
+Skema cara kerja: 1. Siapkan alat dan bahan 2. Kupas kulit buah nana 3. Cuci buah nanas dengan air jernih dan bersih 4. Timbang buah nanas 1,5 kg 5. Timbang gula pasir ¼ kg 6. Potong buah kecil-kecil kemudian masukkan blender dan tambahkan air 200 ml 7. Tutup penutup blender lalu nyalakan blender untuk menghaluskan nanas selama 1menit 8. Masukkan hasil nanas yang telah dihaluskan ke ember yang kering dan bersih 9. Masukkan gula dan tambahkan air 200ml kemudian blender selama 1 menit, lalu masukan pada ember yang telah berisi nanas 10. Tambahkan 5 liter air pada campuran nanas dan gula 11. Tutup rapat ember dan simpan di tempat kering dan teduh 12. Setelah 7 hari, buka tutup jika berbau alkohol menandakan fermentasi berhasil dan EM siap digunakan
+
+4
+Lampiran VII Aplikasi mikroorganisme efektif (EM) dengan pestisida nabati dari daun mimba, tomat, merica
+
+1
+
+1
+
+2
+
+2
+
+5
+
+4
+
+3
+
+3
+
+6
+
+6
+
+5
+Cara Kerja: 1. Siapkan alat dan bahan 2. Isi drum dengan 100 liter air jernih, takar 1 liter mikroorganisme efektif dari nanas lalu masukkan drum 3. Takar 1 liter pestisida nabati dari mimba, merica dan tomat, kemudian masukkan dalam drum 4. Takar 100 ml perekat Latron 750 L dan masukkan dalam drum, lalu aduk dengan kayu pengaduk 5. Rakit dan sambung semua selang termasuk nozzle, masukkan selang penyaring dalam drum, nyalakan mesin sprayer 6. Atur tuas nozzle sesuai besar semburan, arahkan ke pertanaman jambu dan seresah
+
+6
+
+Lampiran VIII KEGIATAN MAGANG KERJA
+UD. BUMIAJI SEJAHTERA KOTA BATU
+
+Nama
+
+: Ahmad Ilham Tanzil
+
+NIM
+
+: 105040201111134
+
+Pembimbing Utama
+
+: Dr. Anton Muhibuddin, SP., MP.
+
+Pembimbing Lapangan
+
+: Rakhmat Hardiyanto, ST.
+
+Hari/Tanggal
+
+Jam Kerja
+
+Kegiatan
+
+Senin, 1 Juli 2013
+
+06.30-12.00 dan 15.30-17.00 a. Menyiram bibit jambu kristal
+
+b. Memangkas, menyiangi gulma, dan
+
+peremajaan strawberry
+
+c. Melakukan perawatan tanaman tomat
+
+dengan cara mengikat pada ajir
+
+d. Menyiangi gulma pada per tanaman
+
+jambu kristal dan memperbaiki
+
+bedengan jambu kristal
+
+e. Memangkas dahan jambu kristal
+
+f. Evaluasi harian
+
+Selasa, 2 Juli 2013
+
+06.30-12.00 dan 14.30-15.30 a. Mengaliri tanaman ketumbar dan
+
+jambu
+
+b. Memangkas tanaman apel
+
+c. Memindahkan hasil cangkok tanaman
+
+leci cina ke polibag
+
+Rabu, 3 Juli 2013
+
+06.30-12.00
+
+a. Kumpul magang
+
+b. Koordinasi dengan manajer dan
+
+pekerja
+
+c. Menggemburkan tanah pada media
+
+strawberry
+
+Kamis, 4 Juli 2013
+
+06.30-12.00 dan 19.25-20.15 a. Kumpul magang
+
+b. Pemangkasan tanaman apel
+
+7
+
+Jum'at, 5 Juli 2013 Sabtu, 6 Juli 2013 Senin, 8 Juli 2013
+Selasa, 9 Juli 2013
+
+c. Pemberian mulsa jerami pada
+
+tanaman ketumbar
+
+d. Koordinasi dengan manajer tentang
+
+rencana kemudian hari
+
+06.30-10.30, 14.00-17.00, dan a. Kumpul magang
+
+17.40-18.40
+
+b. Peremajaan tanaman strawberry dan
+
+penggemburan tanah
+
+c. Pemangkasan tanaman jambu kristal
+
+dan penjarangan buah
+
+d. Menyiangi gulma pada hasil cangkok
+
+bibit jambu kristal
+
+e. Sharing dengan pembimbing lapang
+
+06.30-12.00
+
+a. Kumpul magang
+
+b. Mencampurkan pupuk phospat dan
+
+mutiara untuk diaplikasikan pada
+
+tanaman jeruk, bibit jambu, brokoli
+
+dan strawberry
+
+06.30-12.00 dan 14.00-17.00 a. Kumpul magang
+
+b. Pemupukan strawberry
+
+c. Pemanenan tomat
+
+d. Perawatan tomat dengan mengikatkan
+
+ke ajir
+
+e. Membeli polibag
+
+f. Memindah bibit jambu ke polibag yag
+
+lebih besar
+
+g. Menyiram bibit jambu
+
+h. Pelatihan okulasi jambu kristal
+
+06.30-12.00 dan 15.00-17.30 a. Kumpul magang
+
+b. Penyiangan gulma, penggemburan
+
+tanah, pemberian bokashi pada media
+
+tanam sukini
+
+c. Pemangkasan tanaman jambu, dan
+
+8
+
+Rabu, 10 Juli 2013 Kamis, 11 Juli 2013 Sabtu, 13 Juli 2013
+
+penjarangan buah
+
+d. Pemangkasan tanaman strawberry
+
+dan penyiraman
+
+e. Sharing dan evaluasi
+
+06.30-13.00
+
+a. Kumpul magang
+
+b. Pembelian bokashi dan cocopit
+
+c. Penanaman benih sukini
+
+d. Pewiwilan cabang tomat dan
+
+pengikatan
+
+e. Pemanenan cabai hijau besar
+
+f. Pemanenan jagung manis
+
+g. Sharing dengan pembimbing lapang
+
+06.30-11.00 dan 13.00-15.00 a. Kumpul magang
+
+b. Pembelian fungisida Folicur
+
+c. Pewiwilan tanaman jambu merah
+
+pasca okulasi dengan mata tunas
+
+jambu kristal
+
+d. Pemindahan bibit jambu ke polibag
+
+yang lebih besar + penyiraman
+
+e. Observasi dan kunjungan ke kios
+
+Bumiaji Store milik PO. Bumiaji
+
+Sejahtera di SPBU Bumiaji
+
+06.30-14.00
+
+a. Kumpul magang
+
+b. Pemberian ajir dan pengikatan
+
+tanaman jambu kristal yang masih
+
+kecil
+
+c. Pemupukan tanaman sukini dengan
+
+cocopit
+
+d. Kunjungan ke perkebunan
+
+strawberry, krisan, mawar, peacock,
+
+belimbing, jeruk, dan jambu kristal
+
+jawa
+
+Minggu, 14 Juli 2013
+Senin, 15 Juli 2013 Selasa, 16 Juli 2013 Rabu, 17 Juli 2013
+
+06.30-14.00
+06.30-13.00 06.30-12.00 06.30-13.00
+
+9
+
+e. Okulasi tanaman jambu kristal
+
+taiwan
+
+f. Pemanenan tomat
+
+g. Menerima wisatawan dan melayani
+
+pemanenan jambu kristal
+
+a. Kumpul magang
+
+b. Pengambilan ajir, molase, jerigen,
+
+kascing, bibit jambu kristal,
+
+timbangan,
+
+pisau
+
+dengan
+
+menggunakan pick up
+
+c. Penanaman bibit jambu kristal
+
+d. Penyiraman persemaian tomat dan
+
+sawi daging
+
+e. Pemangkasan apel, jambu kristal,
+
+jeruk
+
+f. Pemberian ajir dan pengikatan jambu
+
+kristal
+
+g. Pembuatan saluran irigasi
+
+h. Pemanenan jeruk sunkies + citrun,
+
+jambu kristal
+
+i. Melayani wisatawan
+
+a. Kumpul magang
+
+b. Pengambilan bibit lettuce
+
+c. Penanaman bibit lettuce
+
+d. Penyiraman bibit setelah tanaman
+
+a. Kumpul magang
+
+b. Pengambilan bibit lettuce
+
+c. Penanaman bibit lettuce
+
+d. Penyiraman bibit setelah tanam
+
+a. Kumpul magang
+
+b. Pengambilan bibit andewi hijau
+
+c. Penanaman bibit andewi hijau
+
+10
+
+Kamis, 18 Juli 2013
+Jum'at, 19 Juli 2013 Sabtu, 20 Juli 2013
+Minggu, 21 Juli 2013
+
+d. Penyiraman bibit setelah tanaman
+
+e. Pemanenan tomat
+
+06.30-14.00
+
+a. Kumpul magang
+
+b. Pembungkusan jambu kristaldengan
+
+platik
+
+c. Pembuatan media di polibag untuk
+
+peremajaan bibit strawberry
+
+d. Penyemaian bibit andewi merah dan
+
+sawi daging
+
+e. Pengambilan kotoran kambing etawa
+
+sebagai pupuk kandang
+
+f. Pemasangan perangkap yellow trap
+
+dan pheromone sex pada pertanaman
+
+jambu kristal
+
+20.00-22.00
+
+Membicarakan teknis hari berikutnya
+
+dengan para guide karena ada kunjungan
+
+dari mahasiswa Arizona University
+
+(USA) sebanyak 30 orang.
+
+06.30-13.00 dan 15.30-17.00 a. Kumpul magang
+
+b. Penyiraman pesrsemaian tanaman
+
+kailan, andewi merah, dan sawi
+
+daging dan juga hasil penanaman
+
+bibt andewi hijau dan lettuce
+
+c. Melayani wisatawan dari mahasiswa
+
+Arizona University untuk petik
+
+jambu kristal, strawberry, peternakan
+
+kambing etawa, jeruk dan ke rumah
+
+lukis
+
+d. Pelayanan pembeli bibit jambu
+
+kristal
+
+06.30-11.00
+
+a. Kumpul magang
+
+b. Persiapan pembuatan green house
+
+11
+
+Senin, 22 Juli 2013
+Selasa, 23 Juli 2013 Rabu, 24 Juli 2013
+
+c. Pengambilan uang untuk pembelian
+
+pisau okulasi
+
+06.30-17.00
+
+a. Kumpul magang
+
+b. Penyiraman tanaman strawberry
+
+c. Penyiraman tanaman letucce, andewi,
+
+ketumbar
+
+d. Pemanenan tanaman jagung
+
+e. Pendistribusi bibit jambu kristal
+
+melalui travel
+
+f. Pembelian suku cadang sealer
+
+(perekat plastik pembungkus kripik)
+
+g. Mengunjungi mitra kerja UKM kripik
+
+tempe dan reseller kripik lainnya
+
+h. Penawaran/promosi macam-macam
+
+kripik buah ke akademisi VEDC
+
+i. Perbaikan sealer
+
+j. Pemberian label Bumiaji Food kepada
+
+mitra kerja UKM pembuat kripik
+
+kentang dan talas
+
+06.30-13.00 dan 14.00-17.00 a. Kumpul magang
+
+b. Penyiraman bibit tanaman jambu
+
+c. Penanaman tanaman bawang prei
+
+d. Pemupukan tanaman lutucce + andewi
+
+dengan pupuk Rustika Mutiara
+
+e. Pemanenan buah tomat
+
+f. Pengemasan kripik ubi madu
+
+Cilembu
+
+06.30-13.00
+
+a. Kumpul magang
+
+b. Penyiraman bibit jambu kristal
+
+c. Pemanenan jambu kristal dan
+
+strawberry
+
+d. Peminjaman sealer dan timbangan ke
+
+12
+
+Kamis, 25 Juli 2013 Sabtu, 27 Juli 2013
+Minggu, 28 Juli 2013
+
+mitra kerja UKM
+
+e. Sanitasi lahan jambu kristal dengan
+
+membakar bekas bungkus plastik
+
+f. Pengambilan bibit jambu kristal
+
+untuk dikirim BPS
+
+g. Reboisasi lahan dengan menanam
+
+bibit jabon hasil sumbangan
+
+Kementan
+
+06.30-12.00
+
+a. Kumpul magang
+
+b. Penyiraman bibit jambu
+
+c. Penyemprotan tanaman lettuce,
+
+andewi dan ketumbar
+
+06.30-16.30
+
+a. Kumpul magang
+
+b. Penyiraman jambu dan hasil
+
+persemaian andewi merah, dan sawi
+
+daging
+
+c. Pemupukan andewi hijau dan lettuce
+
+dengan pupuk Phonska
+
+d. Perawatan tanaman strawberry
+
+dengan penyiangan gulma,
+
+penggemburan tanah, penyiraman
+
+dan peremajaan)
+
+e. Melakukan penyulaman bibit sukini
+
+06.30-12.30, 15.00-16.30, dan a. Kumpul magang
+
+17.00-20.30
+
+b. Penyiraman tanaman lettuce, andewi
+
+dan ketumbar
+
+c. Pemanenan tanaman brokoli
+
+d. Pengambilan kayu untuk pembuatan
+
+green house
+
+e. Penataan bibit jambu kristal
+
+f. Distribusi kripik pepaya ke toko
+
+g. Berbuka dan terawih bersama
+
+13
+
+Senin, 29 Juli 2013 Selasa, 30 Juli 2013 Rabu, 31 Juli 2013
+Kamis, 1 Agustus 2013
+
+06.30-12.30 06.30-17.30 06.30-13.00
+06.30-12.00 dan 14.00-17.30
+
+karyawan PO. Bumiaji Sejahtera a. Kumpul magang b. Menyiram bibit jambu kristal dan
+persemaian andewi merah + sawi daging c. Sanitasi gudang di lahan a. Kumpul magang b. Mengaliri tanaman jambu kristal dan persemaian andewi merah + sawi daging c. Menyiram tanaman strawberry d. Melayani wisatawan Australia dan dosem FP-UB e. Distribusi kripik ke Kota Malang a. Kumpul magang b. Pengambilan bbit lettuce c. Penanaman bibit lettuce d. Penyiraman bibit lettuce yang telah ditanam e. Penyiraman bibit tanaman jambu kristal yang di okulasi dan persemaian andewi merah + sawi daging f. Pemanenan tanaman brokoli a. Kumpul magang b. Penanaman bibit lettuce c. Penyiraman tanaman lettuce yang telah ditanam d. Penyiraman bibit jambu kristal yang telah di okulasi dan persemaian andewi merah + sawi daging e. Distribusi kripik nangka, sukun, dan
+
+Jum'at, 2 Agustus 2013
+Sabtu, 3 Agustus 2013
+Minggu, 4 Agustus 2013 s/d Selasa, 13 Agustus 2013 Rabu, 14 Agustus 2013 Kamis, 15 Agustus 2013
+
+06.30-11.00 06.30-11.00
+06.30-14.30 06.30-14.30
+
+14
+kentang a. Kumpul magang b. Pengambilan bibit lettuce c. Penanaman bibit tanaman lettuce d. Penyiraman bibit tanaman lettuce e. Penyiraman bibit jambu kristal
+okulasi dan persemaian andewi merah + sawi daging a. Kumpul magang b. Penanaman bibit lettuce dan penyiraman c. Penyiraman bibit jambu kristal okulasi dan persemaian andewi merah + sawi daging d. Mengaliri air pada pertanama jambu kristal yang sudah berproduksi e. Penyiraman tanaman strawberry dan sukini LIBUR HARI RAYA IDUL FITRI 1434
+H a. Kumpul magang b. Penyiangan pada pertanaman andewi,
+lettuce dan ketumbar c. Pemangkasan tanaman jambu kristal d. Pengiriman pesanan buah jambu
+kristal ke Green Palm a. Kumpul magang b. Penyiraman tanaman strawberry c. Penyiangan tanaman strawberry d. Penanaman bibit tomat e. Penanaman sawi daging f. Mencari daun paitan untuk
+
+15
+
+Jum'at, 16 Agustus 2013 Sabtu, 17 Agustus 2013
+Minggu, 18 Agustus 2013 Senin, 19 Agustus 2013 s/d Jum'at, 23 Agustus 2013
+Sabtu, 24 Agustus 2013
+Minggu, 25 Agustus 2013
+
+biopestisida
+
+g. Mendampingi wisatawan memetik
+
+jambu kristal dan tomat
+
+06.30-11.00
+
+a. Kumpul magang
+
+b. Penanaman sawi daging
+
+c. Penyiraman tanaman tomat
+
+06.30-14.30 dan 17.30-20.30 a. Kumpul magang
+
+b. Pemindahan bibit jambu kristal hasil
+
+okulasi
+
+c. Bersih gudang
+
+d. Menemani wisatawan memetik jambu
+
+kristal dan strawberry
+
+e. Mengantar keripik ke POJA (Pusat
+
+Oleh-Oleh Jawa Timur)
+
+f. Mengambil etalase
+
+08.30-16.30
+
+a. Membantu melayani pembeli di toko
+
+b. Memetik pesanan jambu kristal
+
+Izin mengurus STNK, SIM, KTM yang
+
+hilang, membayar SPP dan mengurus
+
+KRS, serta izin halal bihalal di kampus,
+
+juga izin check up kesehatan di RST
+
+08.00-16.30
+
+a. Penyiangan tanaman ketumbar,
+
+lettuce, andewi
+
+b. Pembelian
+
+plastik
+
+untuk
+
+membungkus jambu kistal
+
+c. Sharing pembuatan cara standarisasi
+
+jambu kristal di PO. Bumiaji
+
+08.00-18.00
+
+a. Persiapan untuk menyambut
+
+wisatawan
+
+b. Melayani wisatawan petik
+
+c. Memanen andewi, lettuce, kailan,
+
+tomat, brokoli, jambu kristal dan
+
+Senin, 26 Agustus 2013 Selasa, 27 Agustus 2013 Rabu, 28 Agustus 2013 Kamis, 29 Agustus 2013 Sabtu, 31 Agustus 2013
+
+11.30-17.30 10.00-16.00 07.00-14.30 08.00-14.00 10.00-14.00
+
+16
+strawberry d. Menyiram bibit jambu kristal,
+persemaian andewi merah dan sawi daging e. Mengalirkan air irigasi ke lahan sukini, strwaberry, tomat, sawi daging daging dan jambu krital f. Membuat pestisida nabati dari daun paitan g. Mengerjakan standarisasi jambu kristal di PO. Bumiaji Sejahtera a. Pembuatan proposal standarisasi b. Penyemprotan bibit c. Transplanting bibit a. Ke perpus untuk mencari literatur guna membuat proposal standarisasi b. Melayani wisatawan petik sukini dan jambu kristal c. Pemanenan jambu kristal a. Ke perpus untuk mencari literatur guna membuat proposal standarisasi b. Melayani wisatawan petik sukini dan jambu kristal c. Pemanenan jambu kristal a. Penyiraman bibit jambu kristal b. Mengukur dan merancang desain pick up untuk persiapan karnaval oleh PO. Bumiaji Sejahtera a. Membantu wisatawan belanja di Bumiaji Store b. Memantu prosesi karnaval PO. Bumiaji Sejahtera
+
+Minggu, 1 September 2013
+Senin, 2 September 2013 Selasa, 3 September 2013 Rabu, 4 September 2013 Kamis, 5 September 2013 Sabtu, 6 September 2013
+Minggu, 8 September 2013
+
+07.00-14.30
+09.00-18.00 08.00-17.00 08.00-17.00 08.00-16.00 08.00-15.00
+08.00-16.30
+
+17
+a. Penyiraman bibit jambu kristal okulasi
+b. Memanen andewi hijau c. Mengisi kolam penampungan air d. Membuat MOL e. Melayani wisatawan a. Pemanenan andewi b. Pengairan di lahan jambu c. Pemanenan jambu kristal d. Sharing OPT berkaitan proposal
+standarisasi a. Ke perpus untuk mencari literatur
+tentang judul magang b. Menghadap dosen pembimbing a. Pemanenan jambu dan pembersihan b. Pengiriman jambu c. Membeli polibag ukuran 30x30cm
+untuk transplanting bibit jambu a. Pemanenan jambu dan pembersihan b. Pengiriman jambu a. Panen jambu b. Pengambilan pesanan pepino c. Pendistribusian d. Pembuatan ekstrak sirsak untuk
+pestisida nabati e. Sharing tentang OPT jambu dan
+penanggulanganya menggunakan nepenthes (kantong semar) dan Venus Flytrap a. Pembelian nanas untuk pembuatan EM b. Menyurvei nursery nepenthes
+
+18
+
+Senin, 9 September 2013 Selasa, 10 September 2013 Rabu, 11 September 2013
+Kamis, 12 September 2013 Jumat, 13 September 2013 Sabtu, 14 September 2013 Minggu, 15 September 2013
+
+c. Melayani wisatawan petik jambu dan
+
+strawberry
+
+d. Membuat
+
+EM
+
+(Efektif
+
+Mikroorganisme)
+
+10.00-16.00
+
+a. Mencari info tentang tata cara uji
+
+analisa kadungan di FTP dan FMIPA-
+
+UB
+
+b. Sharing dengan manajer PO. Bumiaji
+
+Sejahtera
+
+08.00-15.00
+
+a. Sanitasi lahan
+
+b. Pembelian
+
+plastik
+
+untuk
+
+membungkus jambu
+
+09.00-15.00
+
+a. Pememanenan jambu, andewi hijau
+
+serta merah ,lettuce, kailan
+
+b. Penyortiran ketumbar
+
+c. Menerima kunjungan dari dinas
+
+pariwisata dan pekerbunan Kota Batu
+
+d. Sanitasi lahan
+
+08.00-14.00
+
+a. Melakukan uji kandungan gizi pada
+
+buah jambu kristal
+
+b. Izin hotstamp KTM
+
+09.00-11.00 dan 12.30-16.30 a. Pemanenan jambu
+
+b. Pemangkasan dahan jambu kristal
+
+c. Kunjungan supervisi
+
+06.00-15.00
+
+a. Penyiraman sukini, sawi daging,
+
+tomat dan bibit jambu kristal
+
+b. Melayani wisatawan petik
+
+c. Pembelian kresek
+
+d. Pemanenan jambu
+
+06.00-16.00
+
+a. Persiapan penyambutan rombongan
+
+wisatawan dari UGM
+
+b. Pemupukan jambu dan sukini dengan
+
+Senin, 16 September 2013
+Selasa, 17 September 2013 Rabu, 18 September 2013
+Kamis, 19 September 2013 Jumat, 20 September 2013 Sabtu, 21 September 2013 Senin, 23 September 2013 Selasa, 24 September 2013
+
+08.00-16.00
+06.00-13.00
+06.00-14.00 06.00-14.00 06.00-14.00 09.30-15.30 06.00-18.00
+
+19
+pupuk kandang c. Melayani wisatawan petik jambu d. Melakukan aplikasi EM dan pestisida
+nabati e. Pengambilan bibit jambu kristal f. Pengepakan bibit jambu dan buah
+jambu g. Melayani wisatawan yang survei
+lokasi untuk fieldtrip h. Mengirim pesanan bibit dan buah
+jambu ke jasa pengiriman a. Menyiram bibit b. Membuat pupuk kompos dengan
+aplikasi EM c. Memanen jambu Izin karena ada anggota famili kecelakaan a. Menyiram bibit b. Menanam andewi merah c. Memberi perangsang daaun pada bibit
+jambu d. Mencangkok jambu kristal a. Menyiram bibit b. Memumupuk ketumbar a. Distribusi barang b. Melayani pejualam di toko a. Perbaikan guludan b. Menyiram bibit c. Pembungkusan buah jambu a. Penyiraman bibit jambu b. Memupuk ketumbar a. Menyiram bibit
+
+Rabu, 25 September 2013
+Kamis, 26 September 2013 Jumat, 27 September 2013 Sabtu, 28 September 2013 Senin, 30 September 2013
+
+09.00-15.00
+09.00-15.00 09.00-15.30 09.00-16.00
+
+20
+b. Memanen jambu c. Mengemas buah jambu untuk di
+kirim ke Solo d. Memperbaiki gembor ke tukang
+gembor e. Melayani wisatawan a. Menyiram bibit b. Memindahkan bibit jambu c. Memanen jambu d. Menyortir buah jambu e. Memberi perangsang daun pada bibit
+jambu dan strawberry f. Mengambil mesin penyemprot di
+bengkel g. Mengemas kripik talas a. Memindahkan etalase b. Menjaga toko a. Diskusi mengenai pembuatan
+proposal sertifikasi bibit b. Memanen jambu c. Mengirim pesanan jambu ke BPS
+Kota Batu a. Membeli plastik untuk membungkus
+jambu b. Melayani pejualan di Bumiaji Store Perpisahaan
+
+21 LAMPIRAN IX
+
+MASJID
+
+MAKAM
+
+BATU SUKI
+
+MU
+
+Rumah PAK
+
+SH
+
+IMAM GHOZALI
+
+OLL
+
+A
+
+KLETENG BCA
+
+MASJID PLAZA
+ALUN-ALUN KOTA BATU

@@ -1,0 +1,742 @@
+Zuyasna et al. (2011)
+
+J. Floratek 6: 92 - 103
+
+PERTUMBUHAN DAN HASIL JAMUR MERANG AKIBAT PERBEDAAN MEDIA TANAM DAN KONSENTRASI PUPUK SUPER A-1
+Effect of Media and Concentration of Super A-1 Fertilizer on Growth and Yield of Mushrooms
+Zuyasna, Mariani Nasution, dan Dewi Fitriani
+Prodi Agroteknologi Fakultas Pertanian Universitas Syiah Kuala Darussalam Banda Aceh
+ABSTRACT
+The objectives of this study were to investigate several media and liquid organic fertilizer on the growth and the yield of mushroom (Volvariella Volvaceae L) and also to identify the interactions between the two factors. The research was conducted at Lee Guna Gampong Peurada Banda Aceh from 15 June to 23 July 2010. A factorial randomized completely design with three replications was used in this experiment. The first factor evaluated was medium (dried rice stalks, cane bagasse, and cardboard), and the second factor was Super A-1 fertilizer concentrations (0 cc, 7.5, and 15 cc/L). The results showed that media significantly affected stem weight and cap diameter of mushroom. However, the media did not influence primordial initiation, the number of mushrooms, length and diameter of stems. Mushrooms grew best on the medium of cane bagasse. Super A-1 concentration significantly influenced the number of mushrooms, diameter of mushroom cap, and stem diameter, but did not affect mushroom weight. The best concentration of Super A-1 for mushrooms growth was 15cc/L. There were no interactions between the media and concentration Super A-1 based on variables observed in this experiment.
+Keywords: mushroom, rice stalk, cane pulp, cardboard, organic liquid fertilizer
+
+PENDAHULUAN
+Jamur merang (Volvariella volvaceae L) telah dikenal dan dibudidayakan sebelum abad ke-18 di Cina. Tapi baru sekitar tahun 19321935, jamur merang ini diintroduksi oleh orang-orang Cina ke daerah Filipina, Malaysia dan Negara-negara Asia Tenggara lainnya. Di Indonesia, jamur merang mulai dikembangkan sejak tahun 1955 (Sinaga, 2007).
+Jamur merang merupakan bahan makanan yang enak dan kaya akan protein, mineral serta vitamin.
+
+Menurut Nurman dan Kahar (1990), jamur merang mengandung protein 2,68%, lemak 2,24%, karbohidrat 2,6%, vitamin C 206,27 mg, kalsium 0,75%, fosfor 36,6% dan kalium 44,2%. Bahkan Mayun (2007) berpendapat bahwa kandungan mineral yang ada dalam jamur merang lebih tinggi dibandingkan daging sapi dan domba.
+Dengan semakin meningkatnya pemahaman masyarakat tentang peranan makanan bergizi bagi kesehatan, maka semakin tinggi pula kebutuhan masyarakat terhadap
+
+92
+
+Zuyasna et al. (2011)
+
+J. Floratek 6: 92 - 103
+
+bahan makanan bergizi terutama
+
+sekali bahan makanan yang
+
+berprotein tinggi. Salah satu usaha
+
+untuk memenuhi kebutuhan protein
+
+bagi masyarakat adalah mengena-
+
+bangkan budidaya jamur merang.
+
+Pada awalnya, jamur ini hanya
+
+dibudidayakan pada media merang
+
+saja atau tangkai padi. Akan tetapi,
+
+seiring dengan perkembangannya,
+
+ternyata jamur ini juga dapat
+
+dibudidayakan dengan menggunakan
+
+media alternatif lain, seperti limbah
+
+biji kopi, ampas batang aren, ampas
+
+tebu, limbah kelapa sawit, limbah
+
+kapas, ampas tebu bahkan limbah
+
+kardus (Agromedia, 2009).
+
+Pada musim tertentu jerami
+
+padi sulit di dapat, karena jerami padi
+
+hanya tersedia pada musim panen
+
+saja. Oleh karena terbatasnya keter-
+
+sediaan jerami padi setelah beberapa
+
+bulan panen dan beberapa daerah
+
+yang memiliki lahan penanaman padi
+
+yang terbatas, perlu dicari alternatif
+
+media lain sebagai tempat yang baik
+
+untuk pertumbuhan jamur merang.
+
+Salah satu usaha untuk memenuhi
+
+kebutuhan tersebut adalah melalui
+
+pemanfaatan limbah pertanian.
+
+Limbah pertanian dapat memberikan
+
+nilai tambah dalam kegiatan usaha
+
+tani, antara lain dapat dijadikan
+
+kompos dan digunakan sebagai
+
+media tumbuh jamur merang
+
+(Nilawati et al., 2007).
+
+Untuk perkembangan jamur
+
+diperlukan sumber nutrisi atau
+
+makanan dalam bentuk unsur-unsur
+
+hara yang diperoleh dari bahan
+
+tambahan lainnya seperti pemakaian
+
+pupuk untuk kebutuhan nutrisi dan
+
+makanan bagi jamur. Pupuk sangat
+
+penting peranannya dalam mening-
+
+katkan produksi dan produktivitas
+
+tanaman.
+
+Marsono
+
+(2005)
+
+menyatakan bahwa pupuk bermanfaat
+
+dalam menyediakan unsur hara yang
+
+kurang atau bahkan tidak tersedia di tanah atau media untuk mendukung pertumbuhan tanaman.
+Berdasarkan komponen penyusunnya pupuk dapat digolongkan atas dua yaitu pupuk anorganik dan pupuk organik. Pupuk organik merupakan pupuk yang berasal dari pelapukan sisa-sisa makhluk hidup, seperti tanaman dan kotoran hewan. Pupuk ini umumnya mengandung unsur hara makro dan mikro yang diperlukan oleh tanaman meskipun dalam jumlah sedikit. Salah satu bentuk pupuk organik yang banyak beredar di pasaran adalah pupuk organik cair.
+Penggunaan pupuk organik cair dewasa ini terus meningkat. Salah satu pupuk organik cair yang beredar di pasaran adalah pupuk organik cair super A-1. Keunggulan yang dimiliki pupuk cair super A-1 adalah kandungan haranya yang mengandung unsur hara makro dan mikro, 14 mineral esensial, pengendali hama alami, mengandung senyawa pengatur tumbuh alami giberelin (GA3), Zeatin, 17 macam asam amino, asam organik, enzim, vitamin dan mobilisasi nutrisi. Pemberian pupuk organik cair super A-1 harus memperhatikan konsentrasi yang diaplikasikan terhadap tanaman. Konsentrasi yang biasa digunakan untuk tanaman sayursayuran dan tanaman pangan adalah 2-4 cc/L air dan untuk jamur tiram dan kayu 3-5 cc/L air (Harsono, 2009).
+Dewasa ini permintaan akan jamur merang makin meningkat, namun untuk memenuhi permintaan tersebut diperlukan media tumbuh yang sesuai agar diperoleh pertumbuhan dan hasil yang baik dan dapat dipanen setiap saat tanpa bergantung pada ketersediaan
+
+93
+
+Zuyasna et al. (2011)
+
+J. Floratek 6: 92 - 103
+
+merang. Untuk itu perlu dilakukan penelitian tentang penggunaan jenisjenis media pengganti merang yang dapat digunakan untuk pertumbuhan jamur merang sehingga dapat lebih meningkat hasilnya. Sebagai sumber nutrisi bagi pertumbuhan jamur merang, perlu juga dilakukan penelitian tentang penggunaan pupuk Super A-1 pada pertumbuhan jamur merang.
+Penelitian ini bertujuan untuk mencari jenis media dan konsentrasi pupuk Super A-1 yang tepat untuk pertumbuhan dan hasil jamur merang yang maksimal. Di samping itu, penelitian ini juga bertujuan untuk mengetahui ada tidaknya interaksi antara kedua faktor tersebut.
+BAHAN DAN METODE PENELITIAN
+Penelitian dilaksanakan di Kumbung Budidaya Jamur Merang Lee Guna, Jalan Kayee Adang, Lr. Ketapang Wangi No.7 Gampong Peurada, Banda Aceh, yang dimulai dari tanggal 14 Juni sampai dengan 22 Juli 2010. Bahan yang digunakan dalam percobaan ini adalah bibit, yang dipesan 10 hari sebelum melakukan penanaman pada tanggal yang direncanakan, sehingga bibit yang ditanam tidak terlalu muda atau kadaluwarsa. Bibit yang dipakai adalah bibit Super F2 hasil pembiakan murni yang dibeli dari pengusaha jamur merang di Bogor. Jumlah bibit yang digunakan sebanyak 7 bungkus (isi 400 g/bungkus). Bibit yang digunakan untuk setiap unit percobaan sebanyak 100 g. Penelitian dilakukan dalam bentuk percobaan dengan menggunakan rancangan faktorial 2 faktor yang disusun dalam pola Rancangan Acak Lengkap. Faktor pertama
+94
+
+adalah media tanam (M) dalam 3
+
+taraf, yaitu M1=jerami padi, M2=ampas tebu, dan M3=kardus bekas. Faktor kedua adalah
+
+konsentrasi pupuk organik cair Super
+
+A-1 (P) dalam 3 taraf, yaitu P0 = 0 cc/L air (kontrol), P1 = 7,5 cc/L air, dan P2 = 15 cc/L air. Bahan lain yang digunakan untuk budidaya
+
+jamur merang dalam penelitian ini
+
+adalah air, kapur, dan dedak.
+
+Kapur (CaCO3) digunakan sebanyak 10% dari berat media yang
+
+digunakan, yang berguna untuk
+
+menetralkan pH media tanam agar
+
+sesuai dengan syarat tumbuh jamur
+
+merang dan sebagai sumber kalsium.
+
+Bahan lain yang digunakan sebagai
+
+pelengkap media adalah dedak, yang
+
+dipakai sebanyak 25% dari berat
+
+media yang digunakan dan diambil
+
+dari kilang padi di Indrapuri Aceh
+
+Besar. Dedak kaya akan karbohidrat,
+
+karbon, nitrogen dan vitamin B
+
+kompleks yang bisa mempercepat
+
+pertumbuhan misellium dan
+
+mendorong perkembangan tubuh
+
+buah jamur. Dedak yang baik
+
+digunakan sebagai campuran media
+
+pertumbuhan jamur merang harus
+
+yang masih baru dan tidak berbau.
+
+Sedangkan alat yang digunakan
+
+adalah drum untuk sterilisasi, bak air,
+
+sekop, pipa, Termometer, pH meter,
+
+jangka Sorong, sprayer timbangan,
+
+mistar, timba, alat tulis menulis.
+
+Model Matematika dari
+
+rancangan yang digunakan dalam
+
+penelitian ini adalah:
+
+Yijk =  + Mi + Pj + (MP)ij + ijk
+
+Dimana :
+
+Yijk : Nilai pengamatan untuk
+
+faktor media tanam (M)
+
+pada taraf ke-i dan faktor
+
+konsentrasi pupuk (P)
+
+pada taraf ke-j dan
+
+ulangan ke-k
+
+
+
+: Nilai tengah umum
+
+Zuyasna et al. (2011)
+
+J. Floratek 6: 92 - 103
+
+Mi
+
+: Pengaruh faktor media
+
+tanam (M) taraf ke-i (i =
+
+1, 2, 3)
+
+Pj
+
+: Pengaruh faktor konsen-
+
+trasi pupuk (P) taraf ke-j (j
+
+= 1, 2, 3)
+
+(MP)ij : Pengaruh interaksi faktor
+
+media tanam (M) taraf ke-
+
+i dan konsentrasi pupuk
+
+(P) pada taraf ke-j
+
+ijk : Galat percobaan
+
+Analisis data menggunakan
+
+uji F dan BNJ. Apabila uji F
+
+menunjukkan pengaruh yang nyata
+
+maka dilanjutkan dengan uji Beda
+
+Nyata Jujur pada level 5% (BNJ0,05) dengan rumus :
+
+KTA
+
+BNJ0,05 = q 0,05 (p ; dbA)
+
+r
+
+Dimana :
+
+BNJ0,05 : Beda Nyata Jujur pada level 5%
+
+q0,05 (p;dbA): Nilai baku q pada level 5% (jumlah perlakuan
+
+dan derajat bebas
+
+acak)
+
+KTA
+
+: Kuadrat tengah acak
+
+r
+
+: Jumlah ulangan
+
+Pembuatan bangunan kumbung Kumbung adalah suatu
+bangunan rumah yang digunakan untuk penanaman jamur merang. Kumbung jamur merang terdiri dari 2 bangunan, yaitu bangunan luar dan bangunan dalam. Bangunan luar terbuat dari rangka bambu dan berdinding anyaman bambu dapat dilihat pada Gambar 1 (a) kumbung dilihat dari luar dan (b) kumbung dilihat dari dalam.
+Bangunan kumbung dibuat berukuran panjang 7 m, lebar 5 m, dan tinggi 5 m. Kumbung bagian dalam terbuat dari rangka bambu yang berisi 6 rak yang disusun di bagian kiri dan kanan. Sebagai pelindung, rangka dinding dilapisi plastik dengan panjang 6 m, lebar 4 m dan tinggi 4,5 m. Jarak antara bangunan luar dengan bangunan dalam adalah 30 ­ 40 cm.
+
+a
+
+b
+
+.
+
+.
+
+Gambar 1. Kumbung tempat penelitian
+
+Persiapan Media Tanam dan Pengomposan
+Media tanam yang digunakan dalam penelitian ini adalah jerami padi, kardus bekas, dan ampas tebu. Cara pemakaian untuk media jamur jerami padi dan ampas tebu merujuk kepada Makarim et al. (2007). Periode pengomposan jerami padi
+
+selama 7 hari, dengan ketebalan jerami padi untuk pertumbuhan substrat Volvariella adalah 20 cm. Sedangkan untuk cara penggunaan media kardus merujuk kepada cara Trisno (2009), yaitu kardus disobeksobek dan direndam dengan air kapur selama 5 hari. Kemudian kardus dimasukkan ke dalam kumbung atau
+
+95
+
+Zuyasna et al. (2011)
+
+J. Floratek 6: 92 - 103
+
+rak, (tidak perlu dikomposkan seperti jamur dengan media jerami). Khusus untuk media jerami padi dan ampas tebu dikomposkan terlebih dahulu, selanjutnya masing-masing media dicampur dengan dedak dan kapur. Media tumbuh yang telah dicampur, sebelum ditanami jamur merang dipasteurisasi terlebih dahulu dengan temperatur berkisar 80oC selama 3 jam.
+
+Pembangkit Uap Pembangkit uap dilakukan
+dengan menggunakan dua buah drum yang disambung dengan pipa paralon ke dalam kumbung. Pipa yang berada di bagian dalam kumbung diberi lubang-lubang untuk mengeluarkan uap air panas yang berasal dari air di dalam tangki yang dididihkan (Gambar 2).
+
+Gambar 2. Drum Pembangkit Uap
+
+Pengisian Media dan Pasteurisasi Setelah dilakukan pengom-
+posan media, bahan kompos ini kemudian dimasukkan ke dalam rakrak percobaan setebal 15 cm. Kemudian, media dipasteurisasi dengan cara mengalirkan uap panas ke dalam kumbung melalui pipa hingga suhu dalam ruangan mencapai 70°C, dibiarkan selama 2-4 jam. Setelah pasteurisasi, jendela kumbung dibuka agar udara segar dapat masuk dan suhu turun hingga mencapai 32­35°C. Biasanya proses penurunan suhu memerlukan waktu selama 24 jam.
+Penanaman Bibit Bibit yang digunakan setiap
+plot percobaan sebanyak 100 g. Setelah suhu turun mencapai 32­ 35°C, bibit jamur merang ditanam dengan cara menaburkan bibit di seluruh permukaan kompos. Setelah
+
+selesai penanaman bibit, jendela dan pintu kumbung ditutup selama tiga hari. Pada hari keempat, setelah penanaman bibit, jendela ventilasi dibuka selama 5 menit. Apabila media terlihat mengalami kekeringan, maka seluruh permukaan media disirami air.
+Pemeliharaan Pemeliharaan tanaman jamur
+meliputi pengaturan suhu dan kelembaban udara serta pengendalian hama dan penyakit. Pengaturan suhu dan kelembaban udara dilakukan dengan cara sebagai berikut. Jamur merang membutuhkan suhu 32-38°C dan kelembaban 80-90% untuk menumbuhkan tubuh buahnya. Termometer dan higrometer yang dipasang di dalam kumbung harus selalu diperiksa untuk memastikan suhu dan kelembabannya berada pada tingkat yang sesuai. Salah satu cara
+
+96
+
+Zuyasna et al. (2011)
+
+J. Floratek 6: 92 - 103
+
+menjaga suhu dan kelembaban kumbung adalah dengan melakukan pengabutan air menggunakan sprayer yang dilengkapi dengan nozzle. Pada musim hujan pengabutan cukup dilakukan sekali pada pagi hari. Sedangkan pada musim kemarau pengabutan dilakukan dua kali sehari, pada pagi dan sore hari.
+Pengendalian hama dan penyakit dilakukan dengan prosedur sebagai berikut. Hama yang banyak menyerang jamur merang antara lain serangga, kutu, lalat, cacing, dan tikus. Cara mengendalikannya adalah (1) pengontrolan kualitas bahan baku media. Media tanam sebaiknya tidak mengandung hama dan penyakit jamur. (2) Peralatan yang digunakan selama budidaya harus dalam kondisi bersih. (3) Membuang jamur yang pertumbuhannya berbeda dengan jamur yang ditanam atau jamur yang tidak dikehendaki. (4) Pemanenan dilakukan dengan menggunakan tangan dan peralatan yang steril (sebelum memanen basahi tangan dengan menggunakan alkohol 70%).
+Panen Pemanenan jamur dilakukan
+pada hari ke 12 setelah penanaman bibit. Periode panen berlangsung sekitar satu bulan dengan interval waktu 5 hari sekali. Data produksi untuk penelitian ini diambil dari pemanenan sebanyak 3 kali.
+Pengamatan Adapun peubah yang diamati
+pada penelitian ini adalah sebagai berikut:
+1. Pembentukan primordial stadia kepala jarum (hari). Pembentukan primordial (stadia kepala jarum) diawali oleh terbentuknya benang-benang halus
+
+(hifa) atau miselium yang kemudian berkembang menjadi primordial atau disebut juga stadia kepala jarum. Peubah ini dihitung sejak penanaman bibit sampai terbentuknya gumpalan kecil, biasanya berukuran sebesar kepala jarum pentul (pin head). Pengamatan dimulai sejak hari ke 4 setelah tanam.
+2. Jumlah Badan Buah (Biji). Jumlah badan buah dihitung pada saat tahap panen pertama sampai tahap panen ketiga, dan dihitung untuk setiap unit percobaan. Untuk panen pertama data diambil pada hari ke 12 setelah tanam, panen kedua pada hari ke 17 setelah tanam dan panen ke tiga pada hari ke 22 setelah tanam.
+3. Berat Badan Buah (g). Peubah ini ditimbang pada saat tahap panen pertama sampai tahap panen ketiga. Berat badan buah ditimbang untuk setiap unit percobaan. Untuk panen pertama data diambil pada hari ke 12 setelah tanam, panen kedua pada hari ke 17 setelah tanam dan panen ke tiga pada hari ke 22 setelah tanam.
+4. Diameter Badan Buah (cm). Diameter badan buah diukur pada saat jamur berada pada stadium kancing, diukur pada dua bagian sisi jamur dan kemudian diambil rataratanya, diukur pada hari ke 12 setelah tanam.
+5. Diameter Tudung (cm). Diameter tudung diukur pada saat jamur dewasa yang telah mekar dan berbentuk seperti payung. Data di ambil pada hari ke 14 setelah tanam.
+6. Panjang Batang (cm). Panjang batang diukur pada saat panen, mulai dari pangkal batang sampai tangkai di bawah bilah jamur. Data di ambil pada hari ke 14 setelah tanam.
+
+97
+
+Zuyasna et al. (2011)
+
+J. Floratek 6: 92 - 103
+
+7. Diameter Batang (mm). Diameter batang diukur pada saat jamur dewasa, diukur pada bagian pangkal batang jamur. Data diambil pada hari ke 14 setelah tanam.
+HASIL DAN PEMBAHASAN
+Media Tanam Hasil uji F pada analisis
+ragam menunjukkan bahwa media
+
+tanam berpengaruh sangat nyata terhadap berat buah dan diameter tudung, namun berpengaruh tidak nyata terhadap pembentukan primordial, jumlah badan buah, diameter badan buah, panjang batang dan diameter batang jamur merang. Rata-rata berat badan buah pada berbagai media tanam disajikan pada Gambar 3.
+
+Gambar 3. Rata-rata Berat Badan Buah pada Berbagai Media Tanam.
+
+Dari hasil penelitian yang telah dilakukan dapat dilihat pada Gambar 3, yaitu perlakuan media tanam yang tepat dijumpai pada media ampas tebu (M2) yang memberikan pertumbuhan yang lebih baik terhadap berat badan buah. Semakin baik media yang digunakan semakin baik pula pertumbuhan jamur merang yang dihasilkan. Data nilai rata-rata dari semua peubah yang diamati pada berbagai perlakuan media tanam disajikan pada Tabel 1.
+Dari penelitian ini dapat dilihat bahwa jenis media ampas tebu memiliki nutrisi dan kelembaban yang baik untuk pertumbuhan jamur merang. Menurut Gunawan (2000),
+
+jamur merang membutuhkan nutrisi untuk pertumbuhan dan perkembangannya. Nutrisi tersebut dapat diperoleh dari media yang ada di sekitarnya secara langsung baik dalam bentuk ion, unsur hara maupun molekul sederhana. Lebih lanjut Nurman dan Kahar (1990) menjelaskan bahwa pada umumnya unsur hara yang dibutuhkan jamur untuk pertumbuhannya adalah unsur C dalam bentuk karbohidrat dan unsur N dalam bentuk amonium yang akan diubah menjadi protein. Selain itu, dibutuhkan juga Ca yang sangat penting untuk menetralkan asam oksalat yang dikeluarkan oleh misselium.
+
+98
+
+Zuyasna et al. (2011)
+
+J. Floratek 6: 92 - 103
+
+Kelembaban media juga diduga merupakan faktor yang mempengaruhi pertumbuhan jamur merang. Ampas tebu merupakan salah satu media yang baik untuk pertumbuhan jamur. Hal ini mungkin di sebabkan oleh struktur ampas tebu yang memiliki banyak rongga yang biasanya diperlukan untuk menyimpan nira tebu. Adanya rongga memungkinkan tersimpannya air dalam jumlah yang cukup sehingga kebutuhan air untuk pertumbuhan jamur dan kelembaban terpenuhi untuk pertumbuhan yang lebih baik. Hal ini sesuai dengan pernyataan Husin (dalam Anwar, S. 2008),
+
+bahwa ampas tebu mengandung air 48 - 52%, gula rata-rata 3,3% dan serat rata-rata 47,7%. Serat ampas tebu tidak dapat larut dalam air dan sebagian besar terdiri dari selulosa, pentosa dan lignin. Sedangkan menurut Budiono (dalam Trisno, 2009), ampas tebu mengandung 52,67% kadar air; 55,89% C-organik; N-total 0,25%; 0,16% P2O5; dan 0,38% K2O. Dengan demikian dapat dikatakan bahwa ampas tebu selain dapat memberikan suplai air, juga menyediakan C-organik, N, P dan K yang sangat dibutuhkan untuk pertumbuhan jamur.
+
+Tabel 1. Nilai Rata-rata dari peubah yang diamati pada berbagai perlakuan media
+
+tanam
+
+Peubah
+
+Perlakuan Media Tanam
+
+Rerata
+
+(M1) Jerami padi
+
+6,66
+
+Pembentukan Primordial (hari)
+
+(M2) Ampas Tebu
+
+7,55
+
+(M3) Kardus Bekas
+
+7,89
+
+Jumlah Badan Buah (Biji)
+
+(M1) Jerami Padi (M2) Ampas Tebu (M3) Kardus bekas
+
+30,22 42,78 33,78
+
+Berat Badan Buah (g)
+
+(M1) Jerami Padi (M2) Ampas Tebu (M3) Kardus Bekas BNJ 0,05
+
+471,51 ab 600,65 b 369,27 a 136,62
+
+Diameter Badan Buah (cm)
+
+(M1) Jerami Padi (M2) Ampas Tebu (M3) Kardus Bekas
+
+12,48 11,58 11,19
+
+Diameter Tudung (cm)
+
+(M1) Jerami Padi (M2) Ampas Tebu (M3) Kardus Bekas BNJ 0,05
+
+12,58 b 10,36 a 12,17 b 1,15
+
+Panjang Batang (cm)
+
+(M1) Jerami Padi
+
+7,93
+
+(M2) Ampas Tebu
+
+7,33
+
+(M3) Kardus Bekas
+
+7,62
+
+Diameter Batang (mm)
+
+(M1) Jerami Padi
+
+1,67
+
+(M2) Ampas Tebu
+
+1,52
+
+(M3) Kardus Bekas
+
+1,51
+
+Keterangan: angka yang diikuti oleh huruf yang sama pada kolom yang sama berbeda
+
+tidak berbeda nyata pada taraf 5% (BNJ 0,05).
+
+99
+
+Zuyasna et al. (2011)
+
+J. Floratek 6: 92 - 103
+
+Gunawan (2000) berpendapat bahwa secara umum jamur memerlukan kelembaban (RH) yang relatif tinggi yaitu 95% sampai dengan 100% untuk menunjang pertumbuhan yang maksimum. Kelembaban udara yang dibutuhkan untuk produksi optimum jamur merang adalah 95% untuk perkembangan misselium dan 80-85% untuk pertumbuhan tubuh buah jamur. Dalam penelitian yang dilakukan kelembaban dalam kumbung mencapai 80% sehingga sangat baik untuk pertumbuhan jamur. Hal ini didukung oleh pendapat Sutedjo dan Kartasapoetra (1988) bahwa air sebagian besar diserap oleh jamur dari dalam media dan sebagian lagi diperoleh dari udara dalam bentuk uap air.
+Pertumbuhan jamur pada media yang berbeda akan memberikan respons pertumbuhan dan hasil yang berbeda pula. Perbedaan ini erat kaitannya dengan ketersediaan unsur hara yang tersedia dalam media. Wihardjo (1997) menyatakan bahwa tanaman akan tumbuh subur apabila semua unsur hara yang dibutuhkan tersedia dalam jumlah yang cukup. Lebih lanjut Buckman dan Brady (1982) menambahkan, bahwa suatu tanaman akan tumbuh dengan subur dan baik apabila unsur hara yang dibutuhkan cukup tersedia dan berada dalam jumlah yang seimbang.
+Penggunaan kardus sebagai media pertumbuhan jamur sebenarnya cukup logis mengingat bahan dasar kardus mirip dengan kandungan yang terdapat dalam merang atau jerami, yaitu selulosa. Hal ini terbukti dari hasil penelitian seperti yang dapat dilihat pada Tabel
+
+1, dimana pertumbuhan jamur pada ketiga media (merang, ampas tebu, dan kardus) tidak memberikan perbedaan yang nyata untuk peubah Pembentukan Primordial, Jumlah Badan Buah, Diameter Badan Buah, Panjang Batang, dan Diameter Batang. Jadi dapat dikatakan bahwa media kardus dan ampas tebu bisa digunakan sebagai media alternatif untuk pertumbuhan jamur merang jika persediaan merang terbatas.
+
+Pengaruh Konsentrasi Pupuk
+
+Hasil penelitian menunjukkan
+
+bahwa
+
+konsentrasi
+
+pupuk
+
+berpengaruh sangat nyata terhadap
+
+jumlah badan buah, diameter badan
+
+buah, diameter tudung, dan
+
+berpengaruh nyata terhadap berat
+
+badan buah. Nilai rata-rata dari
+
+peubah yang diamati pada berbagai
+
+perlakuan konsentrasi pupuk Super
+
+A-1 disajikan pada Tabel 2.
+
+Pemberian pupuk yang
+
+terbaik dijumpai pada perlakuan 15
+
+cc/L air. Pada konsentrasi 15 cc/L
+
+air, unsur hara yang dibutuhkan oleh
+
+tanaman tersedia dan seimbang di
+
+dalam pupuk organik cair Super A-1.
+
+Ini membuktikan bahwa adanya
+
+peningkatan kebutuhan unsur hara
+
+yang harus diperoleh oleh tanaman
+
+tersebut, sehingga konsentrasi 15 cc/l
+
+air merupakan konsentrasi optimal
+
+untuk fase pertumbuhan jamur
+
+merang. Menurut Agussalim et al.
+
+(2003) bahwa pertumbuhan dan hasil
+
+tanaman yang baik dapat tercapai
+
+apabila unsur hara yang dibutuhkan
+
+untuk
+
+pertumbuhan
+
+dan
+
+perkembangan berada dalam bentuk
+
+tersedia, seimbang dan dalam
+
+konsentrasi yang optimum serta
+
+didukung oleh faktor lingkungannya.
+
+100
+
+Zuyasna et al. (2011)
+
+J. Floratek 6: 92 - 103
+
+Tabel 2. Nilai Rata-rata dari peubah yang diamati pada berbagai perlakuan
+
+konsentrasi pupuk Super A-1
+
+Peubah
+
+Perlakuan Konsentrasi Pupuk
+
+Rerata
+
+Pembentukan Primordial (hari) Jumlah Badan Buah (Biji)
+
+P0 (kontrol) P1 (7,5 cc/liter air) P2 (15 cc/liter air) P0 (Kontrol) P1 (7,5 cc/l air) P2 (15 cc/l air)
+
+7,11 6,78 7,78 27,00 a 32,89 a 46,89 b
+
+BNJ 0,05
+
+11,61
+
+Berat Badan Buah (g)
+
+P0 (kontrol) P1 (7,5 cc/l air) P2 (15 cc/ l air)
+
+376,09 a 490,82 ab 574,51 b
+
+BNJ 0,05
+
+136,62
+
+Diameter Badan Buah (cm)
+
+P0 (kontrol) P1 (7,5 cc/l air) P2 (15 cc/l air) BNJ 0,05
+
+10,89 a 11,06 a 13,30 b
+1,26
+
+Diameter Tudung (cm)
+
+P0 (kontrol) P1 (7,5 cc/l air) P2 (15 cc/l air)
+
+10,68 a 11,34 a 13,08 b
+
+BNJ 0,05
+
+1,15
+
+Panjang Batang (cm)
+
+P0 (kontrol)
+
+7,29
+
+P1 (7,5 cc/l air)
+
+7,39
+
+P2 (15 cc/l air)
+
+8,26
+
+P0 (kontrol)
+
+1,45
+
+Diameter Batang (mm)
+
+P1 (7,5 cc/l air)
+
+1,51
+
+P2 (15 cc/l air)
+
+1,74
+
+Keterangan: angka yang diikuti oleh huruf yang sama pada kolom yang sama berbeda
+
+tidak berbeda nyata pada taraf 5% (BNJ 0,05).
+
+Hal ini sesuai dengan pendapat Leiwakabessy (1977) yang menyatakan bahwa suatu tanaman menghendaki konsentrasi atau dosis yang optimum. Bila konsentrasi atau dosis pupuk yang diberikan terlalu tinggi maka laju pertumbuhan akan terganggu dan jika dosis atau konsentrasi terlalu rendah maka akan menyebabkan terhambatnya pertumbuhan.
+Terhadap peubah pembentukan primordial, panjang batang dan diameter batang, konsentrasi pupuk tidak berpengaruh nyata. Namun, secara umum konsentrasi 15 cc/L air memberikan hasil yang cenderung
+
+lebih baik dibanding konsentrasi lainnya.
+Pertumbuhan, perkembangan dan hasil suatu tanaman ditentukan oleh dua faktor utama yaitu faktor genetik dan faktor lingkungan. Salah satu faktor yang menunjang tanaman untuk tumbuh dan berproduksi secara optimal adalah ketersediaan unsur hara dalam jumlah yang cukup di dalam media. Hasil ini sesuai dengan pendapat Lingga (2005), yang menyatakan bahwa pertumbuhan dan hasil tanaman sangat dipengaruhi oleh unsur hara yang tersedia. Pertumbuhan tanaman akan maksimum jika unsur hara yang tersedia dalam keadaan berimbang.
+
+101
+
+Zuyasna et al. (2011)
+
+J. Floratek 6: 92 - 103
+
+Kebutuhan akan unsur hara makro dan mikro dalam jumlah optimal akan mendorong pertumbuhan dan hasil tanaman yang lebih baik.
+Komposisi hara yang dikandung pupuk super A-1 sangat baik untuk meningkatkan hasil produksi jamur sehingga terlihat jelas pada penelitian yang dilakukan. Jamur yang dihasilkan lebih besar dan padat sehingga menambah berat badan buah jamur dan jumlah badan buah yang dihasilkan. Menurut Ibra (2008), pupuk organik memiliki kandungan hara lengkap, bahkan di dalam pupuk organik juga terdapat senyawa-senyawa organik lain yang bermanfaat bagi tanaman, seperti asam humik, asam sulvat dan senyawa organik lain, namun kandungan hara tersebut rendah tidak seperti kandungan hara pada pupuk kimia. Kekurangan salah satu unsur hara akan mengakibatkan pertumbuhan tanaman tidak berkembang dan tumbuh dengan baik, sehingga tanaman cepat sekali memperlihatkan tanda-tanda kekurangan unsur hara atau sebaliknya ada yang lambat.
+Interaksi Hasil penelitian menunjukkan
+bahwa terdapat interaksi yang tidak nyata antara media tanam dan konsentrasi pupuk terhadap semua peubah yang diamati.
+SIMPULAN DAN SARAN
+Simpulan 1. Media tanam berpengaruh tidak
+nyata terhadap terbentuknya primordial, jumlah badan buah, diameter badan buah, panjang batang, dan diameter batang dan berpengaruh sangat nyata terhadap berat badan buah dan
+
+diameter tudung. Media tanam yang terbaik untuk perkembangan jamur merang adalah ampas tebu. 2. Pemberian pupuk super A-1 berpengaruh sangat nyata terhadap, jumlah badan buah, diameter badan buah, diameter tudung, dan berpengaruh nyata terhadap berat badan buah. Konsentrasi pupuk super A-1 yang terbaik untuk pertumbuhan jamur merang adalah 15 cc/L air. 3. Terdapat interaksi yang tidak nyata antara media tanam dan konsentrasi pupuk yang diberikan terhadap semua peubah yang diamati.
+Saran Perlu dilakukan penelitian
+lebih lanjut tentang konsentrasi pupuk yang diberikan dengan konsentrasi yang lebih tinggi sehingga memberikan hasil yang lebih baik bagi pertumbuhan dan perkembangan jamur merang.
+DAFTAR PUSTAKA
+Agromedia. 2009. Buku Pintar Bertanam Jamur Konsumsi. Agromidia Pustaka. Jakarta.
+Agussalim, A.; Mustafa dan Suhardi. 2003. Acuan Rekomendasi Pemupukan Spesifik Lokasi untuk Tanaman Kakao di Sulawesi Tenggara. Paket Informasi Coklat. 2 (16).
+Anwar, S. 2008. Ampas Tebu. Catatan Ringan Nur Hidayat. http://bioindustri.blogspot.com /2008/04/ampas-tebu.html. [diakses 26 Maret 2011].
+Buckman, H.O. dan N.C. Brady. 1982. Ilmu Tanah (Terjemahan Soegiman). Bharata Karya Aksara. Jakarta.
+
+102
+
+Zuyasna et al. (2011)
+
+J. Floratek 6: 92 - 103
+
+Gunawan, A.W. 2000. Usaha Pembibitan jamur. Penebar Swadaya. Jakarta.
+Harsono, B. 2009. Pupuk Super A1Pupuk Hemat Organik. http://bim2-pupuksupera1.blogspot.com. [diakses 23 Mei 2009].
+Ibra. 2008. Gejala Kekurangan Unsur Hara Bagi Tanaman. http:/ /www.ibra75's weblog.com. [diakses 24 November 2008].
+Leiwakabessy, F.M. 1977. Ilmu Kesuburan Tanah dan Penuntun Pratikum. Departemen Ilmu Tanah. Fakultas Pertanian IPB. Bogor.
+Lingga. 2005. Petunjuk Penggunaan Pupuk. Penebar Swadaya. Jakarta.
+Makarim, A.K., Sumamo dan Suyamto. 2007. Jerami Padi Pengelolaan dan Pemanfaatan. Pusat Penelitian dan Pengembangan Pangan Badan Penelitian dan Pengembangan Pertanian. Bogor. http://www.pustakadeptan.go.id.
+Marsono. 2005. Pupuk Akar. Penebar Swadaya. Jakarta.
+Mayun, I.A. 2007. Pertumbuhan Jamur Merang (volvariella
+
+volvacea) Pada Berbagai Media
+
+Tumbuh. Jurnal AGRITROP Vol
+
+26 (3):124-128. Fakultas Per-
+
+tanian Universitas Udayana.
+
+Denpasar. Bali.
+
+Nilawati E., Abd.Rahman A. dan
+
+Syaifuddin. 2007. Pengaruh
+
+Panjang Pengomposan Jerami
+
+dan Lama Pengomposan Ter-
+
+hadap Produksi Jamur Merang.
+
+Jurnal Agrisistem. Vol.3. No.2
+
+Sekolah Tinggi Penyuluhan
+
+Pertanian (STPP) Gowa.
+
+Nurman dan A. Kahar. 1990.
+
+Bertanam Jamur Merang dan
+
+Seni Memasaknya. Angkasa.
+
+Bandung.
+
+Sinaga. 2007. Jamur Merang dan
+
+Budidayanya (Edisi Revisi).
+
+Penebar Swadaya. Jakarta.
+
+Sutedjo, M.M. dan A.G.
+
+Kartasapoetra. 1988. Pengantar
+
+Ilmu Tanah. Bina Aksara.
+
+Jakarta.
+
+Trisno, M. 2009. Budida-
+
+ya Jamur Kardus.
+
+(http://
+
+trisprancis.wordpress.com/2009/
+
+02/20/ budi-daya-jamur-kardus).
+
+[diakses 20 februari 2009].
+
+Wihardjo. 1997. Bertanam Semang-
+
+ka. Kanisius. Yogyakarta.
+
+103

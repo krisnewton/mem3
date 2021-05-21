@@ -1,0 +1,2828 @@
+1
+
+KEMENTERIAN PENDIDKAN DAN KEBUDAYAN UNIVERSITAS NEGERI MANADO
+LEMBAGA PEMBINAAN DAN PENGEMBANGAN AKTIVITAS INSTRUKSIONAL
+___________________________________________________________
+
+PENYUNTING PENULISAN BUKU AJAR UNIVERSITAS NEGERI MANADO TAHUN 2015
+
+Pelindung Ketua Penyunting Sekretaris Penyunting
+
+: Prof.Dr.Ph.E.A.Tuerah, M.Si., DEA : Dr.Jefry H. tamboto, M.Pd : Drs.J.L.M.Sumakul,M.Pd
+
+Dewan Penyunting
+
+: 1. Prof.Dr. Ph.E.A.Tuerah, MSi., DEA 2. Prof.Dr.Pj.Pasandaran, M.Pd 3. Prof.Dr.Arie Kawulur, M.Si 4. Prof.Dr.Theo Mautang, M.Si 5. Prof.Dr.H.R.Lumapouw, M.Pd 6. Dr. Jefry H.Tamboto, M.Pd
+
+Penyunting Teknik
+
+: 1. Pof.Dr. Maria V.Wantah, M.Pd 2. Prof.Dr.Cosmas Poluakan, M.Si 3. Drs. J.L.M.Sumakul, M.Pd
+
+Secretariat Pelaksana
+
+:1. Paulina Pongoh,S.Pd 2. Dra. Agusti Tulong 3. Nova Sigal, SE 4. Dra.H.J Kaunang
+
+2
+
+KATA PENGANTAR
+Puji syukur yang sebesar-besarnya kehadirat TUHAN Yang Maha Pengasih dan Penyayang, atas limpahan rahmat dan karuniaNya sehingga penyusunan buku ajar Taksonomi Tumbuhan Tak Berpembuluhini dapat diselesaikan. Buku ajar ini ditujukan bagi mahasiswa biologi FMIPA UNIMA semester empat (4) yang mengambil mata kuliah Botani Tumbuhan Rendah dengan beban kredit 3 sks, berisikan materi perkuliahan selama satu semester. Terima kasih yang tulus kami sampaikan kepada LP2AI UNIMA yang telah membiayai seluruh penyusunan buku ajar ini. Tanpa bantuan dana, penyusunan buku ajar ini tidak dapat berjalan dengan baik. Terima kasih juga kami sampaikan kepada semua pihak yang telah banyak membantu baik langsung maupun tidak langsung. Program Hibah Kompetisi Konten Mata Kuliah ELearning ini sangat terasa manfaatnya karena proses pembelajaran mahasiswa atau transfer of knowledge dapat berjalan lebih efektif dan efisien. Semoga program ini dapat terus dilanjutkan di tahuntahun mendatang. Kritik dan saran sangat diharapkan demi penyempurnaan buku ajar ini. Semoga buah karya ini ada juga manfaatnya.
+Tondano , Desember 2015 Tim Penyusun
+3
+
+DAFTAR ISI
+
+Hal
+
+Halaman identitas dan pengesahan
+
+1
+
+Kata Pengantar ............................... 3
+
+Daftar Isi..................................................... 4
+
+Peta Kompetensi ............................... 6
+
+Tinjauan Mata Kuliah ......................... 7
+
+Bab I. Pendahuluan ........................... 12
+
+Bab II. Konsep Taksonomi ................... 19
+
+Bab III. Schizophyta
+
+(Tumbuhan belah) ..................... 44
+
+Kelas Bakteri (Schisomycetes)...... 44
+
+Kelas Alga Biru Hijau
+
+(Schizophieae)......................... 78
+
+Bab IV. Thallophyta........................... 90
+
+A. Ganggang .........................
+
+91
+
+Chlorophyta........................
+
+98
+
+Phyrophyta .........................
+
+106
+
+Chrysophyta .........................
+
+115
+
+Phaeophyta ........................
+
+117
+
+Rhodophyta ....................... B. Jamur/Fungi ....................... C. Mikoriza ...........................
+Ektomikoriza ..................... Endomikoriza .....................
+
+122 128 142 142
+
+Lichenes ...........................
+
+143
+
+Bab V. Bryophyta ............................ 156
+
+Bab VI. Pterydophyta ... ..................... 184
+
+Bab VII. Sumber Bukti Taksonomi ......... 203
+
+Peranan Bukti taksonomi ........ 203
+
+4
+
+Sumber Bukti Taksonomi........ 203 Teknik Herbarium ................ 207 Latihan soal ..................................... 211 Daftar Pustaka ................................. 226
+5
+
+PETA KOMPETENSI MATA KULIAH TAKSONOMI TUMBUHAN TAK
+BERPEMBULUH (PETA KONSEP PERKULIAHAN) TAKSONOMI TUMBUHAN TAK BERPEMBULUH
+Pendahuluan
+Konsep Taksonomi
+Tumbuhan Tak Berpembuluh
+
+Shyzophyta Bakteri Alga Biru Hijau
+
+Thallophyta Fungi
+ChTlohraolplohpyhtayta
+phyta
+Phyrophyta
+
+Mikoriza Bryophyta
+
+Chrysophyt a Phaeophyta
+Rhodophyta
+
+Peranan Bukti taksonomi
+
+Pterydophyta
+
+Sumber Bukti taksonomi
+
+Teknik Herbarium
+
+6
+
+TINJAUAN MATA KULIAH
+
+A. IDENTITAS MATA KULIAH:
+
+Mata Kuliah
+Kode Mata Kuliah Semester/Program Bobot SKS Tempat Pelaksanaan Dosen Pelaksana
+
+:Taksonomi Tumbuhan Tak Berpembulu : : Ganjil/Pend. Biologi : 3 SKS : Kelas sesuai rencana :Dr.E.S.N.Kaunang,M.Pd Dany Posumah, M.Si
+
+A. Deskripsi
+
+Mata kuliah ini memiliki kekuatan tersendiri dalam mengaplikasikan pengetahuan yang dimiliki berkaitan dengan bagaimanan pemahanan menerapkan dalam pembelajaran juga dalam meletarikan keanekaragaman tumbuhan rendah. Mata kuliah taksonomi tumbhan tak berpem bulu merupakan mata kuliah bidang basic yang harus dipahami dan dimengerti dengan baik agar dalam penerapannya dapat dengan mudah dimengerti dan dipahami karena dalam pembelajaran ditekankan secra kontekstual langsung berkenaan dilapangan, serta dapat diikuti dan dapat melakukan penggolangan tumbuhan dengan baik sesuai dengan pembelajaran yang diberikan.
+
+B. Tujuan
+
+7
+
+Tujuan mata kuliah taksonomi tumbuhan tak berpembulu adalah menggolong-golongkan dan menyusun dalam suatu sistem yang sesuai dengan ilmu pengetahuan, sehingga dapat tercermin jauh dekatnya kekerabatan antar tumbuhan, mengenal dan memb eri nama serta memberikan candra/deskripsinya kepada semua macam tumbuhan. serta untuk memberikan pemahaman yang baik dan benar kepada mahasiswa tentang bagaimana cara-cara member nama, mengelompokkan derta dapat membuat klasifikasi tumbuhan . Ketika mahasiswa telah mampu memahami materi dengan baik maka diharapkan dapat diterapkan dengan baik. Tujuan yang ingin dicapai dalam penulisan buku ajar taksonomi tumbuhan tak berpembulu ini adalah sebagai berikut: 1. Memberikan pemahaman kepada mahasiswa
+tentang apa taksonomi tumbuhan tak berpembukumelalui pengetahuannya terhadap kajian yang ada dalam taksonomi tobuhan, sehingga mahasiswa diharapkan mampu mengetahui, serta dapat mengaplikasikan dalam kehidupan sehari-hari. 2. Tersedianya buku ajar yang dapat memberikan panduan kepada mahasiswa dalam rangka melengkapi kompetensi yang harus dimilki dan harus dicapai, cakupan materi pada setiap pertemuan tatap muka, tugas-tugas dilengkapi dengan referensi/buku literature yang memadai untuk dijadikan kajian lebih lanjut dalam memperdalam materi. 3. Tersedianya buku ajar yang lebih mengarah kepada peningkatan kualitas proses belajar-mengajar yang
+8
+
+akan lebih mendorong ke. mampuan mahasiswa dalam mempelajari taksonomi tumbuhan tak berpembulu. Selanjutnya tujuan khusus:
+a. Memberikan pemahaman mahasiswa terhadap evaluai pembelajaran biologi
+b. Dari hasil kajian yang ada dalam mahasiswa diharapkan taksonomi tumbuhan tak berpembulu dapat mengetahui dan menerapkan dalam kehidupan sehari-hari
+c. Dari hasil proses perkuliahan dapat mnjadi dasar dalam pelaksanaan praktek disekolah atau dalam bidang yang ada kaitannya dengan biologi
+C. Silabi
+Mata Kuliah : Taksonomi Tumbuhan Tak Berpembulu Bobot kredit : 3 (tiga) SKS
+Urutan Bahan Ajar/Materi Pembelajaran:
+
+No
+
+Pokok Bahasan
+
+1. Pendahuan : pengertian taksonomi,Tujuan Dan Manfaat taksonpmi tumb. tak berpembulu
+2. Shizophyta, Cyanophyta
+
+9
+
+Jumlah tatap Muka 1X (1)
+2X (2-3)
+
+3. Cholorophyta, Phyrophyta 4. Crysophyta, Phaeophyta,
+Rhodophyta 5. Mid semester 6. Jamur, Mikorisa 7. Bryophyta 8. Pteridophyta 9. Ujian Semester
+
+3X (4-5) 2X (6-7)
+1X (8) 2X (9-10) 2X (11-12) 4x (13-17) 1x (18)
+
+D. Pokok Pendekatan Kegiatan
+
+Pendekatan yang dilakukan dalam perkuliahan
+
+adalah pendekatan topik dimana
+
+penekanan
+
+pembelajaran mengacu pada topik dan pokok
+
+pembahasan yang berbasis kontekstual dan pendekatan
+
+elearning dengan memberikan pemahaman analisis dan
+
+kajian dalam memberikan tugas perkuliahan dengan
+
+menysun tes butan berdasarkan pokok /materi pelajaran
+
+yang ada dijenjang pendidikan SMP atau SMA
+
+berdasarkan kaidah-kaidah penyususnan tes yang baik.
+
+Selanjunya dilakukan uji coba disekolah sesuai dengan
+
+materi pelajaran yang disusun.
+
+Metode Perkuliahan:
+
+Proses belajar dilakukan melalui kegiatan tatap muka, yang meliputi perkuliahan di kelas melalui pendekatan kooperatif,dan setiap kelompok siswa yang dibentuk akan mempresentasikan materi dan saling memberikan masukkan dan untuk kebutuhan bersama dalm pembelajaran.
+
+10
+
+Tugas yang diberikan:
+
+Setiap mahasiswa wajib membuat tugas, baik berkenaan dengan setiap topic yang diberikan maupun tugas praktikum membuat soal buatan.
+
+E. Indikator Dan Kriteria Keberhasilan
+
+Kriteria keberhasilan dalam proses pembelajaran mata kulia ini menggunakan skala penguasaan yang menunjukan tingkat keberhasilan dalam belajar yang dilihat dari capaian belajar:
+
+F. Rancangan evaluasi
+
+Aspek penilaian meliputi:
+
+ Absensi kuliah: 20% (bobot 1)
+
+ Tugas
+
+: 30% (bobot 2)
+
+ UTS (Mid) : 25% (bobot 2)
+
+ UAS
+
+: 25% (bobot 3)
+
+_________________________
+
+Total
+
+: 100% (bobot 8)
+
+Prinsip penilaian yang digunakan adalah proporsi sama penting artinya untuk keempat aspek penilaian tersebut harus terpenuhi
+
+11
+
+BAB I Pendahuluan
+Mendengar nama Indonesia, yang terbesit dalam benak orang adalah satu kawasan yang memiliki keanekaragaman luar biasa. Menengok data yang dikompilasi oleh UNEP World Conservation Monitoring Centre (WCMC), Indonesia menempati peringkat teratas di kawasan Asia Tenggara. Di tingkat dunia, posisi kehati Indonesia baru `kalah' oleh negaranegara Amerika Selatan, khususnya Brasil. Namun itu pun tidak secara total, hanya pada poin-poin tertentu saja. Angka kekayaan Indonesia akan semakin melejit jika ditambahkan data kelompok takson yang lain.
+Salah satu kekayaan keanekaragaman hayati yang ada adalah keanekaragaman dibidang flora atau tumbuhan. Lebih kurang sekitar 30.000 sampai 40.000 jenis tumbuhan yang tersebar dari Aceh sampai Papua, dari daratan rendah hingga dataran tinggi dari daerah tropik hingga daerah sejuk, jenis-jenis pohon di Indonesia sangat banyak. Oleh Endert, seorang pakar tumbuh-tumbuhan Belanda yang pernah bekerja di Indonesia ditaksir ada kira-kira 4.000 jenis pohon dan dari 4.000 jenis ini belumlah kita kenal semua baik namanya maupun sifatnya.
+Keanekaragaman hayati berkaitan dengan keanekaragaman ekosistim, spesies dan genetik. Hilangnya spesies berarti kehilangan keanekaragaman genetik. Oleh karena itu penting untuk memahami arti kehilangan keragaman hayati khususnya flora bagi kehidupan manusia. Motivasi konservasi mempunyai kaitan yang positif dengan pembangunan umat
+12
+
+manusia. Dan konservasi keanekaragaman hayati sangat terkait dengan kelengkapan informasi tentang spesies, baik keberadaan, sifat hidup dan penyebarannya. Namun pengetahuan tentang spesies sangat terbatas, terutama disebabkan karena terbatasnya perkembangan bidang taksonomi
+Beragamnya mahkluk hidup dengan adanya variasi bentuk, penampilan serta ciri-ciri yang lainnya, maka mendorong diperlukannya suatu cara untuk mengelompokkan mahkluk hidup agar mudah dipelajari dan dipahami. Para ilmuwan dari bidang biologi mengembangkan suatu sistem pengelompokan yang memudahkan untuk memahami, mempelajari, dan mengenali mahkluk hidup dengan suatu sistem klasifikasi. Cabang ilmu biologi yang mempelajari klasifikasi suatu mahkluk hidup disebut dengan taksonomi atau sistematik. Bergantung pada golongan makhluk hidup yang dijadikan obyek studi, apabila yang merupakan obyek studinya adalah tumbuhan maka istilah yang digunakan adalah Taksonomi atau Sistematik Tumbuhan, yakni menggolong-golongkan dan menyusun dalam suatu system yang sesuai dengan ilmu pengetahuan, sehingga dapat tercermin jauh dekatnya hubungan kekerabatan antar tumbuhan, mengenal dan memberi nama serta memberikan candra/deskripsi kepada semua macam tumbuhan, dan begitu juga berlaku pada obyek studi hewan.
+1.1 Definisi dan Tujuan Taksonomi
+Istilah taksonomi diciptakan oleh A.P. de Candolle, seorang ahli tumbuhan bangsa Swiss
+13
+
+diherbarium Genewa, yang artinya teori tentang klasifikasi tumbuhan (Rideng, 1989). Secara etimologi taksonomi berasal dari bahasa Yunani: takson artinya unit atau kelompok, dan nomos artinya hukum; jadi hukum atau aturan yang digunakan untuk menempatkan suatu makhluk hiduppada takson tertentu. Kegiatan pokok taksonomi tumbuhan ada tiga yaitu penamaan, pertelaan ciri-ciri dan penggolongan. Taksonomi merupakan bagian dari sistematika (Rifai,1976). Sistematika cakupannya lebih luas yaitu meliputi taksonomi, studi evolusi dan filogeni (Stuessy,1989).
+Tujuan taksonomi adalah : 1. Untuk penemuan flora-flora baru di dunia 2. Memberikan sebuah metode identifikasi dan
+komunikasi yang efektif 3. Menghasilkan sistem klasifikasi yang terkait dan
+menyeluruh 4. Memberikan nama ilmiah yang benar pada setiap
+takson tumbuhan sesuai dengan aturantata nama tumbuhan. 5. Membuat keteraturan dan keharmonian ilmu pengetahuan mengenai organisme sehingga tercipta suatu sistim yang sederhana dan dapat digunakan orang lain.
+Disamping tujuan, taksonomi tumbuhan juga mempunyai peranan dalam program-progam pembangunan menuju ke swasembada pangan mencakup: a. Intensifikasi; yaitu dengan memberikan saran
+dalam memilih tumbuhan antar varietas atau antar
+14
+
+jenis yang hendak disilangkan untuk memperoleh
+
+bibit unggul.
+
+b. Diversifikasi (pembudidayaan berbagai jenis
+
+tanaman); taksonomi tumbuhan dapat membantu
+
+memilih jenis-jenis tumbuhan yang cocok untuk
+
+tujuan tersebut.
+
+c. Ekstensifikasi (perluasan areal); taksonomi dapat
+
+memilih
+
+jenis
+
+tumbuhan yang dapat
+
+digunakansebagai indikator tanah.
+
+Di samping itu taksonomi juga berperan dalam
+
+pengembangan obat-obat tradisional.
+
+1.2 Kaitan Taksonomi Tumbuhan dengan Ilmu Botani yang Lain
+Seorang ahli taksonomi harus mempunyai pengetahuan tentang morfologi, embriologi,anatomi, sitogenetik dan ilmu sejenis lainnya. Cabang ilmu ini merupakan dasar dari botani, tapi dilain pihak perkembangannya sangat tergantung pada kemajuan cabang-cabang botani lainnya. Data-data yang diungkapkan sebagai hasil penelitian sitologi, genetika, anatomi, ekologi, morfologi,palinologi, palaentologi, fitogeografi, fitokimia dan cabang-cabang botani lain sangat berguna bagi botani sistematika. Akan tetapi ilmu-ilmu itu sendiri tidaklah akan berjalan pesat secara efisien tanpa bantuan botani sistematika. Percobaanpercobaan yang dilakukan dalam cabang-cabang botani yang banyak tersebut tidak mungkin dapat diulangi dan kebenaran kesimpulannya dikukuhkan kalau identitas atau nama tumbuhan objeknya meragukan.
+15
+
+Kekurangcermatan dalam penamaan objek percobaan akan menyebabkan nilai suatu penelitian merosot atau bahkan tidak ada harganya sama sekali (Rifai, 1989).
+1.3. Tahap Perkembangan Taksonomi
+Perkembangan menurut Davis and Heywood (1963), ada 4 tahapan perkembangan taksonomi yaitu: 1. Fase eksplorasi; 2. Fase konsolidasi; 3. Fase biosistematik; 4. Fase ensiklopedik. Sedangkan Turril (1935) membagi tahap ini dengan cara yang berbeda, lebih menunjukkan kesinambungan antara satu fase ke fase yang lain. yaitu: taksonomi alfa yang ekuivalen dengan fase eksplorasi dan konsolidasi, dan taksonomi omega ekuivalen dengan fase ensiklopedik. Taksonomi alfa lebih kurang sepenuhnya tergantung pada ciri marfologi luar, sedangkan taksonomi omega menekankan pada semua ciri taksonomi yang ada.
+a. Fase Eksplorasi Fase eksplorasi disebut juga fase pioner, sesuai dengan salah satu tujuan taksonomi yaitu inventarisasi semua tumbuhan yang ada di muka bumi. Pada fase ini yang lebih ditekankan adalah identifikasi yang didasarkan pada herbarium yang jumlahnya terbatas. Acuan utama adalah morfologi dan distribusi tumbuhan tersebut.
+b. Fase Konsolidasi
+Fase ini disebut juga fase sistematika. Pada fase ini studi lapangan dilakukan secara intensif dan bahan
+16
+
+herbarium sudah lebih lengkap. Banyak tumbuhan yang dinyatakan sebagai sejenis pada fase eksplorasi ternyata merupakan varian dari jenis lainnya dan banyak menemukan jenis-ienis baru. Pada fase ini flora dan dasar-dasar monografi mulai diterbitkan.
+
+c. Fase Biosistematika
+
+Fase ini disebut juga fase eksperimental.
+
+Pengetahuan terhadap tumbuhan bukan hanya pada
+
+distribusi geografis tetapi juga informasi pada
+
+tingkat yang lebih luas rnisalnya jumlah dan
+
+rncrfologi krornosom. Pada fase ini kegiatan yang
+
+menonjol adalah: analisis sistem kawin silang, pola
+
+variasi dan penelitian yang menyangkut aspek-
+
+aspek taksonomi
+
+di bidang
+
+kimia
+
+(kemotaksonomi), taksonomi kuantitatif (numerical
+
+taxonomy), sitologi, anatorni,
+
+embriologi,
+
+palinologi.
+
+d. Fase Ensiklopedik
+
+Fase ini merupakan koordinasi dari ketiga fase sebelumnya. Sernua data (ciri taksonomi) yang ada dianalisis dan disintesis untuk membuat satu atau lebih sistem klasifikasi yang mencerminkan hubungan kekerabatan secara filogenetis
+
+17
+
+Evaluasi Jawablah pertanyaan di bawah ini dengan singkatdanjelas! 1. Jelaskan tentang definisi Taksonomi Tumbuhan? 2. Jelaskan tentang Tujuan dari kegiatan Taksonomi
+Tumbuhan ? 3. Jelaskan Bagaimana kedudukan taksonomi tumbuhan
+dengan cabang-cabang ilmu biologi lainnya ? 4. apakah yang dimaksud dengan taksonomi alfa dan
+taksonomi omega, berilah penjelasan ? 5. Jelaskan bagaimana tahap-tahap perkembangan
+taksonomi ?
+18
+
+BAB II KONSEP TAKSONOMI
+Mengenai unsur utama yang tercakup dalam lingkup taksonomitumbuhan seperti identifikasi, Deskripsi, Determinasi, tatanama, dan klasifikasi serta konsep-konsepdasar mengenai taksonomi tumbuhan diuraikan sebagai berikut :
+2.1. Identifikasi  Selain mengadakan penggolongan atau klasifikasi, unsur utama dalamtaksonomi salah satunya adalah pengenalan atau identifikasi. Melakukanidentifikasi tumbuhan berarti mengungkapkan atau menetapkanidentitas (jati diri) suatu tumbuhan (meliputi : menentukan nama yangbenar, tempat yang tepat dalam sistem klasifikasi).  Identifikasi tumbuhan adalah menentukan namanya yang benar dantempatnya yang tepat dalam sistem klasifikasi.Tumbuhan yang akan diidentifikasikan mungkin belum dikenal oleh duniailmu pengetahuan (belum ada nama ilmiahnya), atau mungkin sudahdikenal oleh dunia ilmu pengetahuan.  Penentuan nama baru dan penentuan tingkattingkat takson harusmengikuti aturan yang ada dalam KITT (Kode Internasional TatanamaTumbuhan).  Prosedur identifikasi tumbuhan yang untuk pertama kali akandiperkenalkan ke dunia ilmiah
+19
+
+memerlukan bekal ilmu pengetahuanyang mendalam tentang isi KITT.  Untuk identifikasi tumbuhan yang telah dikenal oleh dunia ilmupengetahuan, memerlukan sarana antara lain bantuan orang, specimen herbarium, buku-buku flora dan monografi, kunci identifikasi dan lembaridentifikasi jenis.
+2.2. Deskripsi Deskripsi disebut juga pertelaan, yaitu
+penggambaran dengan kata-kata mengenai batasan suatu takson. Dalam penerbitan yang memuat hasil penelitian botani sistematika maka deskripsi merupakan bagian yang terpenting karena memuat data-data baku penelitian, jadi menyimpan kumpulan pengetahuan tentang takson-takson itu. Deskripsi umumnya berisi sifat-sifat beserta cirinya, yang untuk sebagian besar bersumber pada sifat-sifat morfologi tumbuhan. Deskripsi mengenai tumbuhan dapat dilihat di buku-buku botani dan flora, misalnya: Blumea, Kew Bulletin, Flora Malesiana dan lain-lain.  Bentuk Dan Isi Deskripsi
+Deskripsi tumbuhan harus singkat, tepat, terperinci lengkap dan menyeluruh dan dapat dibandingkan sesamanya. Penyusunan deskripsi umumnya mengikuti suatu pola tertentu yang urutan-urutannya konsisten, yaitu mulai dari yang umum ke khusus, dari dasar ke ujung.
+20
+
+Dalam botani sistematik, dikenal dua macam deskripsi yaitu deskripsi analisis dan diagnosis.Deskripsi analisis berisi penggambaran secara lengkap dan terperinci dengan kata-kata tentangbatasan takson, sedangkan diagnosis merupakan uraian singkat yang hanya memuat ciri utamaterpenting yang khas untuk suatu takson sehingga memungkinkan orang membedakannya dengansegera dari kerabatkerabat dekatnya.
+
+ Pencirian
+
+Hampir semua kegiatan botani sistematik
+
+melibatkan sifat dan ciri tumbuhan
+
+besertavariasinya. Sifat dan ciri inilah yang
+
+memungkinkan orang menggambarkan konsep
+
+dan mengenalsesuatu takson. Sifat secara umum
+
+dapat diartikan sebagai petanda yang mengacu
+
+pada bentuk,susunan atau kelakuan tumbuhan
+
+yang dapat digunakan untuk membandingkan,
+
+mendeterminasi,menginterpretasi
+
+atau
+
+memisahkan suatu tumbuhan dari yang lainnya.
+
+Pernyataan atau keadaanvariasi sifat disebut ciri
+
+suatu sifat. Contoh sifat: tinggi tumbuhan,
+
+pinggir daun. Tinggi pohon 5m,pinggir daun rata,
+
+beringgit, merupakan ciri daripada sifat tinggi
+
+pohon dan pinggir daun itu.
+
+2.3 Determinasi Determinasi yaitu membandingkan suatu
+tumbuhan dengan satu tumbuhan lain yang sudah dikenal sebelumnya (dicocokkan atau
+
+21
+
+dipersamakan). Karena di dunia ini tidak ada dua benda yang identik atau persis sama, maka istilah determinasi (Inggris to determine = menentukan, memastikan) dianggap lebih tepat daripada istilah identifikasi (Inggris to identify = mempersamakan (Rifai,1976).  Cara Mendeterminasi Tumbuhan
+Untuk mendeterminasi tumbuhan pertama sekali adalah mempelajari sifat morfologi tumbuhan tersebut (seperti posisi, bentuk, ukuran dan jumlah bagian-bagian daun, bunga, buah dan lainlainnya). Langkah berikut adalah membandingkan atau mempersamakan ciri-ciri tumbuhan tadi dengan tumbuhan lainnya yang sudah dikenal identitasnya, dengan menggunakan salah satu cara dibawah ini: 1. Ingatan
+Pendeterminasian ini dilakukan berdasarkan pengalaman atau ingatan kita. Kita mengenal suatu tumbuhan secara langsung karena identitas jenis tumbuhan yang sama sudah kita ketahui sebelumnya, misalnya didapatkan di kelas, atau pernah mempelajarinya, pernah diberitahukan orang lain dan lain-lain. 2. Bantuan Orang
+Pendeterminasian dilakukan dengan meminta bantuan ahli-ahli botani sistematika yang bekerja dipusat-pusat penelitian botani sistematika, atau siapa saja yang bisa memberikan pertolongan. Seorang ahli umumnya dapat cepat melakukan pendeterminasian karena pengalamannya, dan kalau menemui kesulitan maka dia akan menggunakan kedua cara berikutnya.
+22
+
+3. Spesimen Acuan Pendeterminasian tumbuhan dapat juga
+dilakukan dengan membandingkan secara langsung denganspecimen acuan yang biasanya diberi label nama. Spesimen tersebut bisa berupa tumbuhan hidup,misalnya koleksi hidup di kebun raya. Akan tetapi specimen acuan yang umum dipakai adalahkoleksi kering atau herbarium. 4. Pustaka
+Cara lain untuk mendeterminasi tumbuhan adalah dengan membandingkan atau mencocokkan ciri-ciritumbuhan yang akan dideterminasi dengan pertelaan-pertelaan serta gambar-gambar yang adadalam pustaka. Pertelaan-pertelaan tersebut dapat dijumpai dalam hasil penelitian botani sistematikayang disajikan dalam bentuk monografi, revisi, flora, buku-buku pegangan ataupun bentuk lainnya. 5. Komputer
+Berkat pesatnya kemajuan teknologi dan biometrika akan ada mesin elektronika modern yangdiprogramkan untuk menyimpan, mengolah dan memberikan kembali keterangan-keterangan tentangtumbuh-tumbuhan. Dengan demikian pendeterminasian tumbuh-tumbuhan nantinya akan dapatdilakukan dengan bantuan komputer.  Aturan Pembuatan Kunci Determinasi Kunci determinasi merupakan suatu alat yang diciptakan khusus untuk memperlancar pelaksanaanpendeterminasian tumbuh-tumbuhan. Kunci determinasi dibuat secara bertahap, sampai bangsa saja,suku, marga atau jenis dan seterusnya.
+23
+
+Ciri-ciri tumbuhan disusun sedemikian rupa sehinggaselangkah demi selangkah si pemakai kunci dipaksa memilih satu di antara dua atau beberapa sifatyang bertentangan,begitu seterusnya hingga akhirnya diperoleh suatu jawaban berupa identitastumbuhan yang diinginkan. Beberapa syarat kunci determinasi yang baik menurut Vogel (1989) antara lain: 1. Ciri yang dimasukkan mudah diobservasi,
+karakter internal dimasukkan bila sangat penting. 2. Menggunakan karakter positif dan mencakup
+seluruh variasi dalam grupnya. Contoh : 1. Leaves opposites
+2. Leaves either in whorls, or spirally arranged, or distichous Bukan 1. Leaves opposites, 2. Leaves not opposites 3. Deskripsi karakter dengan istilah umum yang dimengerti orang 4. Menggunakan kalimat sesingkat mungkin, hindari deskripsi dalam kunci 5. Mencantumkan nomor couplet 6. Mulai dari ciri umum ke khusus, bawah ke atas  Menggunakan Kunci Determinasi Saran-saran dalam penggunaan kunci determinasi: 1. Kumpulkan informasi sebanyak mungkin tentang ciri tumbuhan yang akanDideterminasi(kalau ada lengkap vegetatif dan generatif) 2. Pilih kunci yang sesuai dengan materi tumbuhan dan daerah geografi di mana Tumbuhantersebut diperoleh
+24
+
+3. Baca pengantar kunci tersebut dan semua singkatan atau hal-hal lain yang lebih rinci
+4. Perhatikan pilihan yang ada secara hati-hati 5. Hendaknya semua istilah yang ada dipahami
+artinya. Gunakan glossary atau kamus 6.Bila spesimen tersebut tidak cocok dengan semua
+kunci dan semua pilihan layaknya Tidakkena, mungkin terjadi kesalahan, ulangi ke belakang. 7. Apabila kedua pilihannya mugkin, coba ikuti keduanya 8. Konfirmasikan pilihan tersebut dengan membaca deskripsinya 9. Spesimen yang berhasil dideterminasi sebaiknya diverifikasi dengan ilustrasi atau Specimenherbarium yang ada.
+ Jenis-Jenis Kunci Determinasi Tumbuhan Menurut Rifai (1976), berdasarkan cara
+penyusunan sifat-sifat yang harus dipilih maka dikenal tigamacam kunci determinasi, yaitu kunci perbandingan, kunci analisis dan sinopsis. Yang akan dibahasdi sini adalah kunci analisis.
+Kunci analisis merupakan kunci yang paling umum digunakan dalam pustaka. Kunci ini sering jugadisebut kunci dikotomi sebab terdiri atas sederetan bait atau kuplet. Setiap bait terdiri atas dua (atauadakalanya beberapa) baris yang disebut penuntun dan berisi ciri-ciri yang bertentangan satu samalain. Untuk memudahkan pemakaian dan pengacuan, maka setiap bait diberi bernomor, sedangkanpenuntunnya ditandai dengan huruf.
+25
+
+Pemakai kunci analisis harus mengikuti bait-bait secara bertahapsesuai dengan yang ditentukan oleh penuntun. Dengan mempertentangkan ciri-ciri yang tercantumdalam penuntun-penuntun itu akhirnya hanya akan tinggal satu kemungkinan dan kita dituntunlangsung pada nama takson yang dicari. Kunci analisis dibedakan menjadi dua macam berdasarkancara penempatan bait-baitnya yaitu kunci bertakik (kunci indent) dan kunci paralel.Pada kunci bertakik maka penuntun-penuntun yang sebait ditakikkan pada tempat tertentu daripinggir (menjarak pada jarak tertentu dari pinggir), tapi letaknya berjauhan. Di antara keduapenuntun itu ditempatkan bait-bait takson tumbuhan, dengan ditakikkan lebih ke tengah lagi daripinggir yang memenuhi ciri penuntun pertama, juga dengan penuntun-penuntun yang dipisahberjauhan. Dengan demikian maka unsure-unsur takson yang mempunyai ciri yang sama jadi bersatusehingga bisa terlihat sekaligus.Penuntun-penuntun kunci paralel yang sebait ditempatkan secara berurutan dan semua baitnyadisusun seperti gurindam atau sajak. Pada akhir setiap penuntun diberikan nomor bait yang harusdiikuti, dan demikian seterusnya sehingga akhirnya diperoleh nama takson tumbuhan yang dicari.Kunci paralel lebih menghemat tempat, terutama kalau takson tumbuhan yang dicakupnya besarsekali. Buku Flora of Java yang ditulis oleh Backer dan Backuizen van den Brink semuanya ditulisdalam bentuk kunci paralel.
+26
+
+ Membuat Contoh Kunci Determinasi Sederhana Contoh kunci indent : A. Pohon tegak atau semak B. Petal bagian dalam sangat berbeda dengan bagian luar C. Bentuk petal deltoid, ovul tunggal pada masingmasing carpel.........Annona C. Bentuk petal linier, ovul banyak pada masingmasing karpel...........Xylopia B. Petal bagian dalam mirip dengan bagian luar C. Petal panjang bentuk lanseolatus, ovul banyak...........................Cananga C. Petal bentuk ovatus atau elongates, ovul dua............................Polyalthia A. Berupa semak B. Petal menggembung di bagian dasar dan menutupi anther...............Artabotrys B. Petal lebar dan pipih, tidak menutupi anther................................... Uvaria
+Contoh kunci paralel 1.a. Pohon tegak atau semak..................... 2 b.Berupa semak................................. 5 2.a. Petal bagian dalam sangat berbeda dengan bagian luar.................................3 b. Petal bagian dalam mirip dengan bagian luar.............................................4 3.a. Bentuk petal deltoid, ovul tunggal pada masingmasing karpel.............1. Annona b.Bentuk petal linier, ovul banyak pada masingmasing karpel............... 6. Xylopia 4.a. Petal panjang bentuk lanseolatus, ovul
+27
+
+banyak...............................3.Cananga b. Petal bentuk ovatus atau elongates, ovul dua................................4.Polyalthia 5.a. Petal menggembung di bagian dasar dan menutupi anther...............2. Artabotrys b. Petal lebar dan pipih, tidak menutupi anther................................... 5. Uvaria
+2.4. Tatanama Sejarah Tatanama Dulu nama-nama ilmiah tumbuhan itu merupakan sebuah pertelaan sehingga sering disebut nama pertelaan, yaitu terdiri atas tiga atau lebih kata (disebut juga polinomial). Sebagai contoh: Sambucus caule arboreo ramoso floribus umbellatis, artinya Sambucus dengan batang berkayu dan bercabang-cabang serta bunga bentuk payung. Bisa dibayangkan betapa rumitnya untuk berkomunikasi dengan nama yang panjang seperti ini. Berdasarkan hal ini para ahli botani berusaha untuk memperbaiki dan menyempurnakan sistim penamaan tersebut untuk mempermudah komunikasi. Sejak tahun 1753 sistim polynomial digantikan dengan binomial sejak publikasi "systema plantarum" oleh Carolus Linnaeus dan berlaku secara internasional. Sistim binomial yaitu sistim penamaan dimana nama jenis terdiri dari dua kata, kata pertama adalah nama marga dan kata kedua merupakan penunjuk jenis atau spesies epithet. Contoh: Hibiscus tiliaceus
+28
+
+ Peraturan tentang pemberian nama ilmiah perlu diciptakan agar adakesamaan pemahaman di antara ahli-ahli Botani di seluruh duniatentang apa yang dimaksud.
+ Nama ilmiah adalah nama-nama dalam bahasa Latin atau bahasa yangdiperlakukan sebagai bahasa Latin tanpa memperhatikan dari bahasamana asalnya.
+ Tujuan dari tatanama tumbuhan adalah sebagai berikut : a. Sebagai media untuk komunikasi b. Menunjukkan identitas tumbuhan c. Menunjukkan adanya kekerabatan
+ Sistem pemberian nama Ada 2 sistem dalam taksonomi untuk sistem pemberian nama antaralain : 1. Nama daerah/nama lokal/nama umum Pada awalnya nama suatu tumbuhan menggunakan bahasa indukorang yang member nama, dengan demikian satu jenis tumbuhandapat mempunyai nama yang berbeda-beda sesuai dengan bahasaorang yang memberikannya.Misal : orang Indonesia menyebut pisang, orang Inggris menyebutbanana, orang Jawa Timur menyebut gedang, orang Sundamenyebut cauk.Nama daerah atau nama lokal ini dasar pemberian nama berbedabedadan mempunyai sifat khusus, bersifat tidak universal artinyatanpa metode penamaan dan penggunaannya sangat terbatas.Beragamnya sebutan atau bahasa untuk satu jenis tumbuhan dalamtaksonomi
+29
+
+dikategorikan nama nama daerah/nama lokal/namaumum. 2. Nama ilmiah Berkembangnya ilmu taksonomi tumbuhan, maka muncul nama ilmiah(scientific name). Dimana sistem pemberian nama ilmiah ini bersifatnetral dan dapat diterima semua pihak, dimana setiap jenis memiliki satu nama ilmiah dan bahasa ilmiah yang dilatinkan sehingga dapatditerima dan digunakan oleh seluruh ilmu taksonomi di seluruh dunia.Sehingga dapat disimpulkan perbedaan nama umum dengan namailmiah adalah sbb:
+
+No Nama Umum Nama Ilmiah
+
+1. Tidak mengikuti Melalui kesepakatan
+
+ketentuan yang internasionalyang
+
+Manapun
+
+diatur dalam KITT
+
+2. Dalam bahasa Dalam bahasa yang
+
+sehari-hari yang digunakan
+
+bersifat lokal atau sebagai bahasa latin
+
+setempat
+
+3. Biasanya hanya Bersifat internasional
+
+dimengerti oleh
+
+penduduk
+
+setempat
+
+4. Mudah dieja dan Kadang-kadang sulit di
+
+dihafalkan
+
+eja dan dihafalkan
+
+5. Tidak jelas untuk Dengan indikasi yang
+
+kategori yang jelas untuk
+
+mana
+
+kategori mana nama itu
+
+nama
+
+itu dimaksud
+
+30
+
+digunakan 6. Satu takson dapat Suatu takson hanya
+mempunyai nama meempunyai yang berbeda satu nama yang benar menurut bahasa yang digunakan dan sering banyak sinonim serta homonim
+ Sistem Penamaan Binomial Tatanama binomial (binomial = dua nama) merupakan aturan penamaan bakubagi semua organisme (makhluk hidup) yang terdiri dari dua kata dari sistem taksonomi (biologi), dengan mengambil nama genus dan nama spesies. Namayang dipakai adalah nama baku yang diberikan dalam bahasa Latin ataubahasa lain yang dilatinkan. Oleh penyusunnya yaitu Carolus Linnaeus aturan inipada awalnya diterapkan untuk fungi, tumbuhan dan hewan, namun kemudiandikembangkan dan diterapkan juga untuk bakteri. Sebutan yang disepakatiuntuk nama ini adalah 'nama ilmiah' (scientific name). Nama ilmiah seringkalidisebut sebagai "nama latin" meskipun istilah ini tidak tepat sepenuhnya, karenasebagian besar nama yang diberikan bukan istilah asli dalam bahasa latinmelainkan nama yang diberikan oleh orang
+31
+
+yang pertama kali memberideskripsi (deskriptor) kemudian dilatinkan.  Aturan Penulisan a) Aturan penulisan dalam tatanama binomial
+selalu menempatkan namagenus di awal dan nama spesies mengikutinya. b) Nama genus SELALU diawali dengan huruf
+kapital (huruf besar,uppercase) dan nama spesies SELALU diawali dengan huruf biasa (hurufkecil, lowercase). c) Penulisan nama ini tidak mengikuti tipografi yang menyertainya, artinya:suatu teks yang semuanya menggunakan huruf kapital/balok, misalnyapada judul suatu naskah, tidak menjadikan penulisan nama ilmiahmenjadi huruf kapital semua) kecuali untuk hal berikut:  Pada teks dengan huruf tegak (huruf
+latin), nama ilmiah ditulisdengan huruf miring (huruf italik), dan sebaliknya. Contoh :Cyprinus carpio, Marsilea crenata  Pada teks tulisan tangan, nama ilmiah diberi garis bawah yangterpisah untuk nama genus dan nama spesies. d) Nama lengkap (untuk hewan) atau singkatan (untuk tumbuhan) darideskriptor boleh diberikan di belakang nama spesies, dan ditulis denganhuruf tegak (latin) atau tanpa garis bawah (jika tulisan tangan). Jikasuatu spesies digolongkan dalam genus yang berbeda dari yang berlakusekarang,
+32
+
+nama deskriptor ditulis dalam tanda kurung.
+
+Contoh : Glycinemax Merr., Passer
+
+domesticus (Linnaeus, 1978) (Merr. adalah
+
+singkatandari deskriptor (dalam contoh ini
+
+E.D. Merrill) yang hasil karyanya
+
+diakuiuntuk menggambarkan Glycine max.
+
+e) Pada penulisan teks yang menyertakan nama
+
+umum/trivial, nama ilmiahbiasanya menyusul
+
+dan diletakkan dalam tanda kurung. Contoh
+
+:PENGUJIAN AKTIVITAS PROTEIN
+
+ANTIMIKROBIA
+
+DARI
+
+BIJI
+
+MELINJO(Gnetum
+
+gnemon
+
+L.)
+
+TERHADAP BEBERAPA MIKROBIA
+
+PATOGENIKTANAMAN.
+
+f) Nama ilmiah ditulis lengkap apabila
+
+disebutkan
+
+pertama
+
+kali.Penyebutanselanjutnya cukup dengan
+
+mengambil huruf awalnama genus dan diberi
+
+titik lalu nama spesies secara lengkap
+
+.Contoh: salah satu penyebab penyakit
+
+penting pada tanamancabai adalah Fusarium
+
+oxysporum, karena menyebabkanrendahnya
+
+produksi. Kehilangan produksi akibat F.
+
+oxysporum iniberkisar 5-30%
+
+g) Singkatan "sp." (zoologi) atau "spec."
+
+(botani) digunakan jika namaspesies tidak
+
+dapat atau tidak perlu dijelaskan. Singkatan
+
+"spp."(zoologi dan botani) merupakan bentuk
+
+jamak. Contoh: Canis sp.,berarti satu jenis
+
+dari genus Canis; Adiantum spp., berarti
+
+jenis-jenisAdiantum
+
+33
+
+ Cara Pemberian Nama Kelas, Bangsa, Famili dan
+
+Spesies
+
+ Nama kelas: nama genus + nae; contoh:
+
+Psilophti + nae sehinggamenjadi kelas
+
+Psilophtinae. Kelas : Psilophtinae; Ordo:
+
+Psilotales;
+
+Famili:
+
+Psilotaceae;
+
+Spesies:Psilotum nudum
+
+ Nama ordo : nama genus + ales; contoh :
+
+Lycopodi + ales sehinggamenjadi ordo
+
+Lycopodiales. Kelas: Lycopodiinae; Ordo:
+
+Lycopodiales; Famili: Lycopodineae;
+
+Spesies: Lycopodium cernum
+
+ Nama famili: nama genus + aceae;
+
+contoh: Marchantia + ceaesehingga
+
+menjadi family Marchantiaceae. Kelas:
+
+Hepaticeae; Ordo: Marchantiales; Famili:
+
+Marchantiaceae; Spesies: Marchantia
+
+polymorpha
+
+2.5 Klasifikasi (Keanekaragaman dan Perkembangan
+
+Klasifikasi)
+
+ Tujuan dan Manfaat Klasifikasi
+
+1. Menyederhanakan obyek studi makhluk hidup
+
+yang sangat beranekaragam sehingga mudah
+
+untuk dipelajari
+
+2. Pengelompokan makhluk hidup untuk
+
+menghasilkan kelompok-kelompok takson
+
+3. Persamaan dan perbedaan ciri suatu makhluk
+
+hidup akan menentukan jenjang takson dan
+
+juga kekerabatannya
+
+4. Jenjang takson menunjukkan bahwa setiap
+
+kelompok
+
+kecil
+
+makhluk
+
+34
+
+hidupdengankesamaan
+
+ciri
+
+tertentu
+
+membentuk kelompok makhluk hidup yang
+
+lebih besar
+
+5.Kelompok spesies membentuk genus,
+
+kelompok genus membentuk famili, kemudian
+
+terus membentuk ordo, kelas dan devisio
+
+ Definisi
+
+Klasifikasi
+
+tumbuhan
+
+adalah
+
+pembentukan kelompok-kelompok dariseluruh
+
+tumbuhan yang ada di bumi ini hingga dapat
+
+disusun takson-taksonsecara teratur mengikuti
+
+suatu hierarki. Sifat-sifat yang dijadikandasar
+
+dalam mengadakan klasifikasi berbeda-beda
+
+tergantung orangyang mengadakan klasifikasi
+
+dan tujuan yang ingin dicapai
+
+denganpengklasifikasian itu.
+
+ Ada tiga sistem klasifikasi dalam taksonomi
+
+tumbuhan yaitu system klasifikasi buatan,
+
+sistem klasifikasi alam, dan sistem klasifikasi
+
+filogenetik.
+
+ Sistem klasifikasi alami: dipelopori oleh
+
+Theophrastus (370SM -285SM), salah satu murid
+
+Aristoteles. Sistem ini didasarkan padabentuk
+
+yang dapat dilihat dengan mata
+
+biasa(morfologi).Theophrastus menggolongkan
+
+tumbuhan menjadi 4 kelompok:pohon, semak,
+
+perdu dan herba.
+
+ Sistem klasifikasi buatan : diciptakan oleh
+
+Carolus Linnaeus (1707-1778), ilmuwan swedia
+
+yang dikenal sebagai Bapak Klasifikasi.Dasar
+
+yang digunakan adalah alat reproduksi seksual,
+
+dasar lainyang digunakan adalah morfologi.
+
+35
+
+Sistem klasifikasi buatan inimerupakan penggolongan mahluk hidup berdasarkan pengaruhnya terhadap manusia, misalnya : beracun atauberguna, piaraan atau liar, gulma atau sayuran.  Sistem klasifikasi filogenetik: diciptakan oleh Charles Darwin 1859,menerbitkan buku tentang teori evolusi. Ia menyatakan bahwapersamaan struktur tubuh menunjukkan hubungan kekerabatanyang lebih dekat. Sistem ini didasarkan pada urutanperkembangan mahluk hidup (filogeni) serta mengetahuihubungan kekerabatan antara satu dengan yang lainnya.  Berdasarkan sejarah perkembangannya ketiga sistem klasifikasi tersebutdibagi menjadi empat periode yaitu periode sistem habitus, periodesistem numerik, periode sistem alam, dan periode sistem filogenetik.  Sistem klasifikasi yang tinjauannya didasarkan modifikasi dari sistem yangtelah ada dengan penambahan data yang baru, disebut system kontemporer.  Pengelompokan semua organisme hidup oleh Carl von Linne (Latin:Carolus Linnaeus), seorang naturalis berkebangsaan Swedia dibuattingkatan taksonomi yang terdiri dari enam takson, yaitu : a. Kingdom (kerajaan) b. Filum (divisi) c. Kelas (classis) d.Ordo (Bangsa), e.Familia (Suku),
+36
+
+f. Genus (Marga), dan g.Spesies (Jenis)  Kemajuan ilmu pengetahuan dan teknologi akan berpengaruh pulaterhadap perkembangan ilmu taksonomi tumbuhan.  Perubahan klasifikasi organisme hidup yang semula dua dunia kemudianmenjadi empat dunia, atau dari empat dunia menjadi lima dunia, telahmengakibatkan sekelompok atau sebagian kelompok organisme yangsemula termasuk dalam dunia tumbuhan dipindahkan ke dalam dunia(regnum) baru atau regnum yang lain. Berikut beberapa sistem klasifikasi(sistem Klasifikasi Lima Kingdom):
+4. Sistem Dua Kingdom Pada awalnya para ahli taksonomi mengklasifikasikan mahkluk hidupmenjadi 2 kerajaan (sistem dua kingdom) yaitu Tumbuhan (KingdomPlantae) dan Hewan (Kingdom Animalia), hal ini didasarkan pada : a. Bahwa pada kenyataannya kelompok tumbuhan memiliki dinding selyang tersusun dari selulosa, b. Tumbuhan memiliki klorofil yang berfungsi untuk membuat makanan sendiri dengan melalui proses fotosintesis, dan tidak bisa bergerak danberpindah tempat c. Hewan tidak memiliki dinding sel sehingga tidak bisa membuatmakanannya sendiri, dan bisa bergerak serta berpindah tempat.
+37
+
+5. Sistem Tiga Kingdom
+
+Sistem klasifikasi terus berkembang dengan
+
+ditemukannya bahwa adatumbuhan yang tidak
+
+mempunyai klorofil sehingga tidak bisa
+
+membuatmakanannya sendiri yaitu jamur (fungi),
+
+sehingga oleh para ahlitaksonomi dikelompokkan
+
+tersendiri
+
+kedalam
+
+kingdom
+
+fungi.Pengelompokan mahkluk hidup menjadi
+
+tiga kelompok yaitu Tumbuhan(Kingdom
+
+Plantae), Hewan (Kingdom Animalia) dan Fungi
+
+(jamur).
+
+6. Sistem Empat Kingdom Dengan berkembangnya ilmu pengetahuan tentang struktur sel/susunansel, maka para ahli meneliti tentang ada tidaknya inti sel mahkluk hidup,dimana sel yang memiliki membran inti disebut eukariotik dan sel yangtidak mempunyai membran inti disebut prokariotik. Monera tergolongmahkluk hidup yang prokariotik. Pengelompokan mahkluk hidupdidasarkan pada ada tidaknya membran inti sel ini, sehingga moneradikelompokkan kedalam kingdom tersendiri. Pengelompokan mahklukhidup menjadi empat kelompok yaitu Tumbuhan (Kingdom Plantae),Hewan (Kingdom Animalia), Fungi (jamur), dan Monera (bakteri).
+
+7. Sistem Lima Kingdom
+
+38
+
+Robert H. Wittaker pada tahun 1969 mengelompokkan mahkluk hidupmenjadi lima kingdom yaitu Tumbuhan (Kingdom Plantae), Hewan(Kingdom Animalia), Fungi (jamur), Monera (bakteri) dan Protista.Pengelompokan ini berdasarkan pada susunan sel, cara makhluk hidupmemenuhi makanannya dan tingkatan tingkatan mahkluk hidup. Pengelompokan Makhluk Hidup 1. Kingdom Monera
+Monera merupakan golongan organisme yang bersifat prokariotik (intiselnya tidak memiliki selaput inti). Kingdom ini dibagi atas duagolongan yaitu : a. Golongan bakteri (Schizophyta) b. Golongan ganggang biru (Cyanophyta)
+2. Kingdom Protista Protista merupakan organisme yang
+bersifat eukariotik (inti selnya sudahmemiliki selaput inti). Pembentukan regnum ini diusulkan oleh ErnstHaeckel atas pertimbangan adanya organise-organisme yang memilikiciri tumbuhan (berklorofil) sekaligus memiliki ciri hewan (dapat bergerak). Yang termasuk dalam kingdom ini adalah : a. Protozoa b. Ganggang bersel satu
+3. Kingdom Fungi (Jamur) Fungi merupakan organisme uniseluler
+(bersel satu) dan multiseluler(bersel banyak)
+39
+
+yang tidak berklorofil, fungi multiseluler dapatmembentuk benang-benang yang disebut hifa. Seluruh anggota dariregnum ini bersifat heterotrof. Kingdom ini dibagi menjadi beberapa divisiyaitu: a. Oomycotina b. Zygomycotina c. Ascomycotina d. Basidiomycotina e. Deuteromycotina
+4. Kingdom Animalia (Kerajaan Hewan) Meliputi organisme bersel banyak, yang selselnya tidak berdinding sel dan tidak berklorofil sehingga bersifat heterotrof. Yang termasuk kingdom ini adalah filum: a. Porifera b. Coelenterata c.. Platyhelminthes d. Nemathelminthes e. Annelida f. Echinodermata g. Arthropoda h. Chordata
+5. Kingdom Plantae (Tumbuhan Hijau) Meliputi organisme bersel banyak
+(multiseluler) dan sel-selnya mempunyaidinding sel. Hampir seluruh anggota berklorofil sehinga sifatnya autotrof.Yang termasuk dalam Kingdom Plantae adalah:
+40
+
+a. Ganggang bersel banyak (diluar ganggang biru) b. Lumut (Bryophyta) c. Paku-pakuan (Pteridophyta) d. Tumbuhan Berbiji (Spermatophyta)
+Dalam ekosistem terdapat salah satu komponennya yang berperan sebagai penyedia oksigen yang disebut juga dengan produsen , misalnya lumut yang dapat hidup hampir di semua tempat yaitu mulai dari kutub utara yang melintasi daerah tropis hingga daerah kutub selatan. Hal ini dikarenakan kingdom plantae mempunyai cirri-ciri umum yaitu : 1.Organisme eukariot multiseluler 2. Mempunyai dinding sel yang tersusun selulosa 3. Mempunyai klorofil a dan b yang digunakan
+untuk fotosintesis 4.Mampu menyimpan karbohidrat berupa zat
+tepung 5.Embrionya dilindungi oleh jaringan tumbuhan parental
+Seperti yang sudah dijelaskan pada bab pendahuluan bahwa kingdom plantae mempunyai anggota ± 500.000 spesies dimana dapat dibedakan berdasarkan pengelompokan menurut struktur tubuh yaitu : a) Habitus tumbuh (tegak, menjalar dll) b) Struktur organ tubuh (akar, batang dan daun) c) Tipe ikatan pembuluh (konsentris, kolateral) d) Keberadaan jaringan pengangkut e) Kedudukan bentuk, ukuran dan tulang daun f) Alat reproduksi dan cara reproduksi
+41
+
+Berdasarkan alat perkembangbiakannya, kingdom plantae digolongkan menjadi dua yaitu :
+1.Kormophyta berbiji (Spermatophyta) 2. Kormophyta berspora (Cryptogamae) Tumbuhan tingkat rendah dikelompokkan menjadi beberapa Divisi, yaitu :Divisi Schizophyta (tumbuhan belah), Thallophyta (tumbuhan talus), Bryophyta(tumbuhan lumut), dan Pteridophyta (tumbuhan paku). Setiap divisi terbagibeberapa anak divisi, kelas, bangsa, famili dan spesies. Dari penjelasan sistem klasifikasi lima kingdom diatas dapat disimpulkanbahwa setiap kingdom mempunyai ciri-ciri utama yaitu sebagai berikut :
+
+No Kelompok Utama
+1 Plantae 2 Animalia 3 Fungi
+4 Protista
+5 Monera
+
+Ciri Utama
+Eukariotik, multiseluler, melakukan fotosintesis Eukariotik, multiseluler, bersifat heterotrof Eukariotik, multiseluler/uniseluler, menyerap zat makanan dari lingkungan Eukariotik, multiseluler/uniseluler, heterotrof/autotrof Prokariotik, berukuran renik, uniseluler
+
+42
+
+Evaluasi Jawablah pertanyaan di bawah ini dengan singkatdanjelas! 1. Sebutkan urutan tingkatan klasifikasi makhluk hidup
+menurut Carolus Linnaeus dari tingkatan paling besar ke tingkatan paling kecil! 2. Apakahkuncideterminasiitu? 3. Bagaimanakah sistem pemberian nama pada makhlukhidup? 4. Apakah yang dimaksud dengan klasifikasi makhluk hidup? 5. Apa tujuan dari klasifikasi makhluk hidup
+43
+
+BAB III SCHIZOPHYTA (Tumbuhan Belah)
+A. Pendahuluan Schizophyta atau tumbuhan belah merupakan
+kelompok yang mempunyai ciri khusus yaitu berkembang biak dengan membelah diri.Schizophyta berasal dari bahasa Yunani scizein artinya membelah dan phytonadalah tumbuhan. Tumbuhan belah dianggap sebagai kelompok tumbuhan dengan tingkat perkembangan filogenetik yang paling rendah sehingga darisegi evolusi merupakan kelompok tumbuhan yang paling tua dan palingprimitif. Ciri umum dari kelompok ini adalah :
+ Berkembang biak dengan cara membelah diri,  Tubuh terdiri dari satu sel  Protoplas belum terdeferensiasi dengan jelas
+sehingga inti sel danplastidanya belum jelas Kelompok schizophyta mempunyai dua kelas yaitu kelas bakteri dan ganggang hijau biru B. Kelas Bakteri (Schizomycetes) Bakteri berasal dari kata Bakterion (Yunani) yang artinya batang kecil.Didalam klasifikasi bakteri digolongkan dalam Divisio Schizomycetes.
+a. Ciri-ciri umum : Tubuh uniseluler (bersel satu) Tidak berklorofil (meskipun ada beberapa jenis bakteri yang memilikipigmen seperti klorofil sehingga mampu berfotosintesis) Hidupnya bersifat autotrof
+44
+
+Reproduksi dengan cara membelah diri (dengan pembelahan Amitosis)
+Habitat bakteri hidup dimana-mana/kosmopolit (tanah, air, udara,mahluk hidup) Satuan ukuran bakteri adalah mikron (10 - 3 )
+Gambar. Struktur umum sel bakteri
+b. Sifat Morfologi Dan Struktur Tubuh
+Bentuk ­ Bentuk Bakteri a. Kokus : bentuk bulat, monokokus, diplokokus,
+streptokokus, stafilokokus,sarkina b. Basil : bentuk batang, diplobasil, streptobasil c. Spiral : bentuk spiral, spirilium (spiri kasar), spirokaet
+(spiral halus) d. ibrio : bentuk koma
+45
+
+Gambar. Bentuk-bentuk bakteri
+Alat Gerak Bakteri Gambar. Tipe Alat gerak bakteri
+46
+
+Beberapa bakteri mampu bergerak dengan menggunakan bulucambuk/flagel. Berdasarkan ada tidaknya flagel dan kedudukan flageltersebut, dibedakan 5 macam bakteri, yaitu : a. Atrich : bakteri tidak berflagel. contoh: Escherichia
+coli b. Monotrich : mempunyai satu flagel salah satu
+ujungnya. contoh: Vibriocholera c. Lopotrich : mempunyai lebih dari satu flagel pada
+salah satu ujungnya.contoh: Rhodospirillum rubrum d. Ampitrich : mempunyai satu atau lebih flagel pada
+kedua ujungnya.contoh: Pseudomonas aeruginosa e. Peritrich : mempunyai flagel pada seluruh permukaan
+tubuhnya. contoh:Salmonella typhosa
+Nutrisi Bakteri Dengan dasar cara memperoleh makanan, bakteri dapat dibedakan menjadidua yaitu : 1. Bakteri heterotrof : bakteri yang tidak dapat
+mensintesis makanannyasendiri. Kebutuhan makanan tergantung dari mahluk lain. Bakteri saprofitdan bakteri parasit tergolongbakteri heterotrof. 2. Bakteri autotrof bakteri yang dapat mensistesis makannya sendiri.Dibedakan menjadi dua yaitu : (a) bakteri fotoautotrof dan (b) bakterikemoautotrof.
+Kebutuhan Akan Oksigen Bebas Dengan dasar kebutuhan akan oksigen bebas untuk kegiatan respirasi, bakteridibagi menjadi dua :
+47
+
+1. Bakteri aerob: memerlukan O2 bebas untuk kegiatan respirasinya. Contoh: Nitrosococcus, Nitrosomonas, Nitrobacter
+2. Bakteri anaerob : tidak memerlukan O2 bebas untu kegiatan respirasinya. Contoh : Strepcoccus lactis.
+Pertumbuhan Bakteri Pertumbuhan Bakteri dipengaruhi oleh beberapa faktor : 1. Temperatur, umumnya bakteri tumbuh baik pada suhu
+antara 25 - 35 0 C. 2. Kelembaban, lingkungan lembab dan tingginya kadar
+air sangatmenguntungkan untukpertumbuhan bakteri 3. Sinar Matahari, sinar ultraviolet yang terkandung
+dalam sinar mataharidapat mematikan bakteri. 4. Zat kimia, antibiotik, logam berat dan senyawa-
+senyawa kimia tertentudapat menghambat bahkan mematikan bakteri.
+Struktur Bakteri 1) Dinding sel
+Dinding sel bakteri sangat tipis, tersusun atas peptidoglikan, yakni polisakaridayang berikatan dengan protein. Fungsi dinding sel untuk memberi bentuktertentu pada sel, melindungi protoplasma sel, proses pembelahan sel.
+Berdasarkan struktur peptidoglikan bakteri dapat dibedakan menjadi dua :
+Bakteri gram positif, peptidoglikan di luar membran plasma dan bila diberitinta cinaakan menimbulkan warna. Contoh : Clostridium tetani,
+48
+
+Bacillusanthracis,Staphylococcus
+
+albus,
+
+Staphylococcus aureus.
+
+Bakteri gram negatif, peptidoglikan terletak antara
+
+membran plasma danmembran luar, bila diberi
+
+tinta cina tidak menimbulkan perubahanwarna.
+
+Contoh: E. coli, Salmonella typhosa, Vibrio
+
+cholera, Neissiriagornorrhoe.
+
+2) Membran sel Tersusun atas molekul lemak dan protein dan bersifat selektif permeabel.Membran sel berfungsi mengatur masuknya zat makanan dan keluarnya sisametabolisme, berperan dalam pembelahan sel.
+
+3) Isi sel Tersusun atas organel-organel seperti: a.Inti, bersifat prokarion terdiri atas benang kromatin DNA dan RNA b. Mesosom, Terbentuk dari membran sel yang tidak membentuk lipatan. Organelini berfungsi sebagai tempat pemisahan dua molekul DNA dan berperan jugadalam pembentukan dinding sel baru antara kedua sel anak tersebut. c. Volutin, yaitu zat yang banyak mengandung DNA d. Ribosom, tersusun atas protein dan RNA, berfungsi sebagai tempat sintesisprotein e. Lembar fotosintesis, khusus bakteri yang berfotosintesis (bakteri ungu), terdapatlipatan ke arah sitoplasma yang berisi lembar fotosintesis f. Plasmid, adalah DNA non kromosom, plasmid mengandung gen-gen sepertigen kebal antibiotik, gen patogen. Dalam satu bakteri dapat terbentuk
+
+49
+
+10-20plasmid. Ukuran plasmid 1/1000 kali DNA kromosom.
+Reproduksi Bakteri Reproduksi Aseksual/vegetatif :
+Caranya dengan pembelahan biner atau pembelahan langsung (tanpamelalui tahapan seperti mitosis). Proses pembelahan diawali dengan prosesreplikasi DNA menjadi dua kopi DNA identik dan diikuti pembelahan sitoplasma.Proses pembelahan berlangsung cepat setiap 20 menit sekali. Contoh: E. coli.
+Reproduksi Seksual/generative : Caranya dengan konjugasi, pembelahan secara langsung materi genetik diantara dua sel bakteri melalui jembatan sitoplasma. Tidak dapat ditentukan jeniskelamin kedua bakteri yang berkonjugasi. Contoh: E. coli.
+Rekombinasi artinya bergabungnya dua DNA dari sumber yang berbeda.Rekombinasi DNA selain dengan proses konjugasi ada proses lain yaitutransformasi, transduksi, yang kemudian disebut proses paraseksual.
+Proses paraseksual meliputi : 1. Transformasi, ialah pemindahan sebagian materi
+genetik atau DNA atau hanyasatu gen bakteri ke bakteri lain dengan proses fisiologi yang kompleks. Proses inipertama ditemukan Frederick
+50
+
+Griffith
+
+tahun
+
+1982.
+
+Contoh:
+
+Streptococcuspnemoniaeu,
+
+Haemophillus,
+
+Bacillus. Diguga transformasi ini merupakan
+
+carabakteri menularkan sifatnya ke bakteri lain.
+
+Misalnya bakteri patogen yangsemula tidak kebal
+
+antibiotik dapat berubah menjadi kebal antibiotik
+
+karenatransformasi.
+
+Gambar : Proses Transformasi
+
+2. Transduksi, pemindahan materi genetik dengan perantara virus. Virus dapatmenyambungkan materi genetiknya ke DNA bakteri dan membentuk profag.Ketika terbentuk virus baru, di dalam DNA virus sering terbawa sepenggal DNAbakteri yang diinfeksinya. Virus yang terbentuk memiliki dua macam DNA yangdikenal partikel transduksi (transducing particle).
+51
+
+Gambar. proses transduksi
+3. Konjugasi: merupakan proses bergabungnya dua bakteri (- dan +) denganmembnetuk jembatan untuk pemindahan materi genetik (DNA).
+Gambar. proses konjugasi 52
+
+c. Klasifikasi Bakteri Berdasarkan Sifat Fisiologisnya Divisi : Schizophyta Kelas : Schizomycetes Terdiri dari beberapa ordo yaitu : a. Ordo Psudomonadales
+ciri ­ ciri : Sel beberbentuk batang lurus atau spiral Mengendung pigmen fotosintetik yang berwarna hijau Bergerak dengan flagel yang polar Terdiri dari beberapa famili yaitu : 1. famili : Thiohodacae Kelompok bakteri yang dapat melakukan fotosintesis, karena mempunyaisistem pigmen bakterioklorofil dan karetenoid. Contoh bakteri : Thiodictyonelegans, Thiocapsa floridana, Thiosarcina rosea, Thiospirillum sanguineum
+53
+
+Gambar. Beberapa tipe bakteri famili Thiohodacae 2. famili : Nitrobacteraceae Bakteri yang tergolong kemoautrotof dan memperoleh energi untukproses asimilasi dari oksidasi metan. Contoh: Nitrosomonas europaea,Nitrosococus nitrosus, Nitrobacter agile.
+54
+
+Gambar. Nitrosomonas europaea
+Gambar. Bakteri nitrat 55
+
+3. famili : Methanomonadaceae Bakteri yang tergolong kemoautrotof dan memperoleh energi untukproses asimilasi dari oksidasi metan, karbon monoksida, hidrogen. Contoh:Methanomonas methanica, Hydrogenomonas flava, Carboxydomonasoligocarbophila.
+Gambar. Methanomonas methanica 4. famili : Thiobactericeae Disebut juga dengan bakteri belerang, hal ini dikarenakan memperolehenergi dengan oksidasi dengan senyawa belerang dan dalam plasmaterdapat belerang bebas dalam bentuk butir-butir atau kristal. Contoh:Thiobacllus thioparus, Thiobacterium cristalliferum, Thiospora bipunctata
+Gambarbakteri belerang Thiobacillus neapolitamus 56
+
+5. famili : Psudomonadaceae
+
+Bakteri yang heterotrof, sel-selnya bersifat oksidatif
+
+atau kadang-kadang fermentatif. Contoh:
+
+Psudomonas
+
+solanacearum,
+
+Psudomonas
+
+malvacearum,Psudomonas denitrificans
+
+Gambar. Pseudomonas aeruginosa 6. famili : Spirillaceae Bakteri berbentuk koma hingga spiral. Contoh : Vibrio comma,Desulfovibrio desulfuricans, Spirillum minus, Spirillum lipoferum, Vibrio cholera
+57
+
+Gambar. Vibrio cholera
+b. ordo Chlamydobacteriales ciri ­ ciri :
+sel-sel berderet membentuk koloni didalam penyelubung koloni terdapat senyawa besi ordo Chlamydobacteriales terdiri dari beberapa famili yaitu :
+1. famili : Clamydobacteriaceae Bakteri berbentuk benang, dapat membentuk sel kembara,mengandung senyawa besi sehingga disebut
+58
+
+bakteri besi. Contoh :Spaerotilusnatans, Spaerotilus dichotomus, Lepthotrix ochracea 2. famili : Crenotrichaceae Bakteri berbentuk benang, tidak membentuk sel kembara, dan bergerakaktif. Contoh : Crenotrix polyspora c. ordo Eubacteriales
+ciri-ciri : sel bebrbentuk bulat dan bergerak dengan flagel yang peritrik koloni berupa rantai atau terpisah-pisah ordo Eubacteriales terdiri dari famili sbb : 1. famili : Azotobacteraceae Hidup bebas dalam tanah, penambat N2. Contoh: Azotobacterchroococcum, Azotobacter indicus, Azotobacter agilis
+59
+
+Gambar. Acetobacter xylinum
+2. famili : Rhizobiaceae Bersimbiosis dengan Leguminosae sehingga terbentuk bintil pada akar,penambat N2. contoh : Rhizobium leguminosarum, Rhizobium japonicum,Rhizobium phaseoli, agrobacterium tumefaciens
+60
+
+Gambar. Rhizobiumleguminosarum
+3. famili : Enterobactericeae Hidup bersifat patogen, terdapat pada saluran pernafasan, salurankencing pada vertebrata dan hidup
+61
+
+bebas, menimbulkan fermentasi anaerob pada glukosa. Contoh: Eschericia coli, Salmonella thyposa, Shigella dysenteriae
+Gambar. E.coli 4. famili : Micrococcaceae,Contoh: Sarcina lutea, Sarcina aurantiaca,Micrococus denitrificans, Stapylocus aureus
+62
+
+5. famili : Neisseriaceae,Contoh Neiseria gonorrhoeae, Neiseriameningtidis, Veillonella parvula Gambar. Neiseria meningtidisscanning EM
+63
+
+Gambar. Neisseria gonorrhoeae
+6. famili : Lactobacillaceae, Contoh: Lactobacillus caucasicus,Streptococus pyogens, Diplococcus pneumonia Gambar. Lactobacillus
+64
+
+7. famili : Bacillaceae, Contoh: Bacillus subtilis, Bacillus anthracis, Bacilluspolymixa, Clostridium pasteurianum Gambar. Clostridium pasteurianum
+65
+
+d. ordo Actinomycetales Ciri-ciri :
+sel memanjang dan hampir mirip hifa jamur ordo Actinomycetales terbagi menjadi beberapa famili, antara lain : 1. famili : Mycobacteriaceae Sel tidak membentuk miselium, Contoh : Mycobacterium tuberculosis,Mycobacterium leprae Gambar. Mycobacterium tuberculosis
+66
+
+Gambar. Mycobacterium leprae
+2. famili : Actinomycetaceae Sel membentuk miselium dan spora terbentuk dalam fragmen miselium.Contoh : Actinomyces bovis Gambar. Actinomyces
+67
+
+3. famili : Streptomycetaceae Sel membentuk miselium. Contoh: Streptomyces aureofaciens,Streptomyces griseus, Streptomyces fradiae, Streptomyces rimosus,Streptomyces venezuelae Gambar. Streptomyces aureofaciens
+Gambar. Streptomyces griseus
+68
+
+Gambar. Streptomyces fradiae Gambar.Streptomyces rimosus
+69
+
+e. ordo Beggiatoales
+
+Ciri-ciri :
+
+sel bebrbentuk kokus
+
+terdapat butir-butir belerang dipermukaaan atau
+
+dalam sel
+
+tidak mempunyai flagel
+
+ordo
+
+Beggiatoalesterdapat
+
+famili
+
+Begggiatoaceae,Contoh: Beggiatoa alba,Beggia
+
+gigantea, Thiospirillopsis floridana, Thiothrix
+
+nivea
+
+Gambar. Beggiatoa alba
+
+70
+
+Gambar. Thiothrix nivea
+f. ordo Myxobacteriales (bakteri lendir) Ciri-ciri :
+sel bebrbentuk batang dapat membentuk tubuh buah membentuk koloni tampak seperti lendir ordo Myxobacteriales terbagi menjadi beberapa famili, antara lain : 1. famili : Cryptophagaceae Sel tidak membentuk tubuh buah, dapat membentuk zat warna tertentu.Contoh : Cytophaga lutea ( zat
+71
+
+warna kuning), Cytophaga rubra (membentukzat warna merah jambu) Gambar. Cytophaga diffluens
+2. famili : Myxococcaceae Membentuk mikrosista (sel istirahat), menghasilkan tubuh buah. Contoh :Myxococcus virescens (tubuh buah berwarna kuning kehijauan),Sporocytophaga myxococcoides (sel menyerupai Myxococcus).
+72
+
+Gambar. Myxococcus virescens
+Gambar. Sporocytophaga myxococcoides 73
+
+g. Ordo Spirochaetales (bakteri spiral) Ciri-ciri :
+sel bebrbentuk spiral dengan ukuran panjang 6500, Ordo Spirochaetales terbagi menjadi beberapa famili : 1. famili : Spirochaetaceae Sel berukuran 30-500, sel mempunyai protoplasma, habitat di air tawaryang menggenang, air laut dan hidup dalam alat pencernaan makanan jeniskerang. Contoh : Spirochaeta plicatilis, Cristispira balbianii (parasit pada ikan), Spirochaeta americana.
+Gambar. Spirochaeta americana 74
+
+2. famili : Treponemataceae Panjang tubuh 4-16 , pembelahan belum sempurna. Contoh :Treponema pallidum (patogen pada manusia penyebab peyakit sifilis),Treponema pertenue, Borrelia anserina (patogen pada burung). Gambar.Treponema pallidum
+75
+
+Gambar. Borrelia anserina
+d. Peranan Bakteri Dalam Kehidupan
+a) Bakteri yang menguntungkan : Di bidang pertanian :
+1. Bakteri nitrogen: Mengikat N2, contoh : Azotobacter, Rhizobiumleguminosarum Clostridium posteurianum, Rhodospirilium rubrum
+2. Bakteri nitrifikasi: Membentuk senyawa nitrat. Contoh: Nitrosomonas,Nitrococcus Nitrobacter
+3. Bakteri sulfur : Membentuk asam sulfat dari S. contoh : Beggiatoa alba
+Fermentasi makanan :
+76
+
+1. Streptococcus lactis : Pembuatan keju dan mentega 2. Lactobacillus bulgaricus : Pembuatan yaghurt 3. L. casei : Pembuatan minuman 4. Acetobacter xylinum : Pembuatan nata de coco
+Menghasilkan asam 1. Streptomyces griseus : Menghasilkan streptomisin 2. S. aureofaciens : Menghasilkan aureomisin 3. S. venezuelae : Menghasilkan kloromistin 4. Bacillus brevis : Menghasilkan tirotrisin 5. B. polymyxa : Menghasilkan polimiksin
+Menghasilkanantibiotik 1. Acetobacter acetii : Menghasilkan asam asetat 2. Propionibacterium : Menghasilkan asam propionat 3. Clostridium sp : Menghasilkan asam butirat
+b) Bakteri yang merugikan : Parasit pada manusia
+a) Salmonella typhosa : penyebab Tipus b) Vibrio coma : penyebab Kolera c) Clostridium tetani : penyebab Tetanus d) Neisseria gonorrhoeae : penyebab Kencing nanah e) Tryponema palidum : penyebab Sipilis
+Parasit pada tumbuhan a) Pseudomonas cattleyae : Penyakit pada anggrek b) Pseudomonas solanacearum : Penyakit pada
+pisang c) Bacterium papaye : Penyakit pada pepaya
+Parasit pada hewan a) Bacillus anthracis Antrak pada hewan b) Mycobacterium bovis Penyakit pada lembu
+77
+
+c) M. avium Penyakit pada unggas C. Kelas Ganggang biru / ganggang belah (Chyanophyceae/Scizophyceae)
+Gambar. Ganggang biru hijau Cyanobakteri 1. Apakah ganggang hijau biru itu?
+Ganggang hijau biru termasuk kedalam monera, karena struktur selnya sama dengan struktur sel bakteri, yaitu bersifat prokariotik.Ganggang hijau biru berukuran mikroskopis, keberadaanya tersebar luas dan banyak ditemukan di perairan tanah yang lembab, permukaan dinding tembok, pot, batu karang yang lembab. Bahkan ditemukan pula di tempat yang kurang menguntungkan lingkungannya. Beberapa jenis dijumpai pada sumber air panas seperti mata air
+78
+
+panas Yellow Stone Park di Amerika. Ganggang Biru dikatakan sebagai salah satu vegetasi perintis karena mampu hidup pada perairan dengan suhu sampai 85 0C (sumber air panas).
+2. Ciri ­ ciri dan sifat ganggang hijau biru Tumbuhan bersel satu, berbentuk benang (filamen) dan hidup berkoloni Memiliki klorofil, karotenoid serta pigmen fikobilin yang terdiri dari fikosianin dan fikoeritin (sering disebut ganggang hijau biru) Dinding sel mengandung peptida, hemiselulosa dan selulosa, kadang-kadangberlendir Inti sel tidak memiliki membran (prokarion) Pada umumnya tidak bergerak (gerakan merayap atau meluncur padaalas yang basah) Tidak mempunyai bulu cambuk (gerakan adanya kontraksi tubuh danpembentukan lendir) Perkembangbiakan vegetatif (membelah) Contoh: a.Bentuk unisel (satu sel), contoh : Chroococcus, Gloeocapsa b. Bentuk koloni, contoh : Polycystis. c. Bentuk filamen, contoh : Oscilatoria, Nostoc, Anabaena, Rivularia.
+3. Klasifikasi Kelas Chyanophyceae dibagi menjadi 3 ordo, yaitu :
+a. ordo : Croococcales, ciri ­ ciri :
+Berbentuk tunggal tanpa spora
+79
+
+Memiliki warna biru kehijauan Membentuk selaput lendir pada cadas atau tembok Terbagi dalam famili Chroococcaceae, Contoh : Chroococcus turgidius, Ganggang ini biasanya hidup di dasar kolam yang tenang, tembok yang basah atau cadas. Biasanya sel-selyang muda tetap bersatu karena ada selubung yang mengikatnya.Pembiakan secara vegetatif, dengan membelah diri. Setelahpembelahan, sel-sel tetap bergandengan sehingga membentuk koloni. Gleocaspa sanguinea, Ganggang ini hidup pada batu-batuan dankadang-kadang dijumpai endofit (di dalam tubuh makhluk hidup), atauepifit pada tumbuhan lain. Koloni berbentuk benang yang dapat putusmenjadi hormogonium. Hormogonium dapat tumbuh menjadi kolonibaru. Gambar. Chroococcus
+80
+
+b. ordo : Chamaesiphonales ciri ­ ciri : Bersel tunggal atau koloni berbentuk benang dan mempunyai spora Apabila lingkungan tidak sesuai maka membentuk sel-sel awetandengan menambah zat makanan cadangan serta mempertebal dindingsel Terdapat famili : Chamaesiphonaceae, contoh : Chamaesiphonconfervicolus Gambar. Chamaesiphonconfervicolus
+81
+
+c. ordo : Hormogonales ciri ­ ciri : Sel merupakan koloni yang berbentukbenang (filamen) Mempunyai percabangan semu dan jarang mempunyai percabangan sejati
+Gambar. Nostoc Benang-benang selalu terdapat hormogonium Terbagi dalam tiga famili, yaitu : 1. Oscillatoriaceae dan didalamnya terbagi lagi menjadi genus : Oscillatoria. Ciri ­ ciri Oscillatoria yaitu: sel berbentuk bulat dan membentuk koloni yang berlendir, hidup dalam air atau diatas tanah yang basah. Contoh :Oscillatoria limosa, Oscillatoria princeps.
+82
+
+Gambar. Oscillatoria limosa
+Gambar. Oscillatoria princeps 83
+
+2. Rivulariaceae, terbagi dalam genus : Rivularia. Ciri ­ cirinya : koloni tampakadanya polaritas. Contoh : Rivularia bullata, Rivularia haematites
+Gambar. Rivularia bullata 3. Nostacaceae, terbagi dalam genus : a) Nostoc , dapat menambat N di udara dan
+bersimbiosis denganfungi membentuk Lichenes. Contoh : Nostoc commune, N.shepaeroides. Gambar.Nostoc commune
+84
+
+b) Anabaena, menambat N di udara dan bersimbiosis dengan tumbuhan lain. Contoh : A. cycadeae (bersimbiosis dengan pakishaji dan dalam akar-akarnya yang disebut dengan akar bunga karang), A. azollae (bersimbiosis dengan paku air/A. pinata yang hidup di sawah atau rawa.
+Gambar. A. azollae
+85
+
+4. Cara Perkembangbiakan Ganggang Hijau Biru a. Pembelahan sel Melalui cara ini sel dapat langsung terpisah atautetap bergabung membentuk koloni Misal:Gloeocapsa.
+Gambar. Gloeocapsa b. Fragmentasi
+Fragmentasi adalah cara memutuskan bagian tubuh tumbuhan yang kemudian membentuk individu baru. Fragmentasi terutama pada ganggang Oscillatoria. Pada filamen yang panjang, bila salah satu selnya mati, maka sel mati itu membagi filamen menjadi dua bagian atau lebih. Masingmasing bagian disebut Hormogonium.
+86
+
+Gambar. Oscilatoria yang dapat melakukan fragmentasi c. Spora Pada keadaan yang kurang menguntungkan akan terbentuk spora yang sebenarnya merupakan sel vegetatif. Spora membesar dan tebal karena penimbunan zat makanan.Contoh: Chamaesiphon comfervicolus.
+5. Peranan/Manfaat a) Sebagai vegetasi perintis hal ini karena ganggang tersebutmampu/dapat mengawali kehidupan sebelum organisme lainnya dapat hidup di suatu tempat. b) Sejumlah ganggang hijau biru berfilamen (bentuk benang) dapat mengikat nitrogen (N2) bebas dari atmosfer dan diubah menja diamoniak (NH3). Hal
+87
+
+ini dilakukan juga di dalam heterokista, sehingga dapat berperan dalam proses menyuburkan tanah. c) Jenis ganggang yang bermanfaat antara lain :
+Nostoc : Perendaman sawah selama musim hujan mengakibatkan Nostoc tumbuh subur dan memfiksasi N2 dan udara sehingga dapat membantu penyediaan nitrogen yang digunakan untuk pertumbuhan padi.
+Anabaena azollae : Hidup bersimbiosis dengan Azolla pinata (pakuair). Paku air mendapat keuntungan berupa amonia hasil fiksasi nitrogen oleh Anabaena azollae.
+Spirullina : Ganggang ini mengandung kadar protein yang tinggi, sehingga dijadikan sumber makanan.
+88
+
+Evaluasi 1. Sebutkan ciri-ciri umum dari bakteri ? 2. Gambarlah struktur bakteri beserta ciri-cirinya ? 3. Jelaskan bagaimana Peranan menguntungkan dan
+merugikan dari bakteri ? 4. Jelaskan ciri-ciri umum dari alga hijau biru ? 5. Jelaskan bagaimana proses perkembang biakan yang
+dilakukan alga hijau biru ?
+89
+
+BAB IV THALLOPHYTA (Tumbuhan Talus)
+Pendahuluan Thallophyta merupan kelompok tumbuhan yang
+mempunyai ciri utama yaitu tubuh berbentuk talus. Tumbuhan talus merupakan tumbuhan yangstruktur tubuhnya masih belum bisa dibedakan antara akar, batang dan daun.Sedangkan tumbuhan yang sudah dapat dibedakan antara akar, batang dandaun disebut dengan tumbuhan kormus.Ciri - ciri dari tumbuhan talus ini adalah tersusun oleh satu sel yangberbentuk bulat hingga banyak sel yang kadang-kadang mirip dengantumbuhan tingkat tinggi (sudah mengalami diferensiasi). Perkembangbiakanpada umumnya secara vegetatif (aseksual) dan generatif (seksual) denganspora sebagai alat perkembangbiakannya. Perkembangbiakan secarageneratif terjadi melalui peleburan gamet yang terbentuk didalam organ yangdisebut gametangium. Cara hidup pada tumbuhan talus ada tiga cara yaitu :autotrof (asimilasi dengan fotosintesis), heterotrof dan simbiosis.
+Divisi Thallophyta dibedakan menjadi tiga anak divisi, antara lain :
+90
+
+A. ALGA (GANGGANG)
+Alga merupakan tumbuhan talus yaitu tumbuhan yang belum mempunyai akar, batang dan daun. Alga adalah organisme berkloroplas yang dapat menghasilkan oksigen melalui proses fotosintesis. Ukuran alga beragam dan beberapa micrometer sarnpai beberapa meter panjangnya. Semua Alga mengandung klorofil oleh sebab itu dapat berfotosintesis. Disamping itu mengandung pigmen lain yang berbeda-beda tergantung divisi. Pigmen-pigmen ini tergkandung dalam plastida. Alga dalam istilah Indonesia sering disebut sebagai ganggang yang merupakan tumbuhan talus karena belum memiliki akar, batang dan daun sejati. (Lihat gambar 5.1).
+Gambar. Algae
+Alga ada yang bersel tunggal dan juga ada yang bersel banyak dengan bentuk serupa benang atau lembaran. Tubuh ganggang terdapat zat warna (pigmen) yaitu Fikosianin (warna biru), Klorofil (warna hijau), Fikosantin (warna pirang/ coklat), Fikoeritrin (warna merah), Karoten (warna keemasan), Xantofil (warna kuning).
+91
+
+1 CIRI-CIRI UMUM ALGA Secara umum Alga mempunyai ciri-ciri sebagai
+berikut, umumnya hidup ditempat-tempat yang berair baik air tawar maupun air laut, salain itu juga Alga hidup ditempat-tempat yang lembab lain seperti pohon dan lain sebagainya. Alga juga dapat dapat ditemukan pada tempat-tempat yang memiliki suhu-suhu ekstrem tinggi atau ekstrem rendah. Struktur tubuh sel, individuindividu uniseluler yang dapat bergerak (motil) dengan bantuan bulu cambuk(flagel) dan individu-individu yang multiseluler mempunyai beberapa bentuk antara lain: koloni senobium, koloni agregat, filamen, sifoneus, parenkimateus. Susunan sel, Alga memiliki dua tipe sel yang bersifat prokariaotik maupun eukariotik. Tipe plastida yang dijumpai pada Alga adalah kloroplas dengan bermacam-macam pigmen yang diperlukan untuk fotosintesis. Pigmen pada Alga memperlihatkan variasi warna yang cukup nyata seiring dengan perubahan-perubahan pada kondisi linkungan yang berbeda.
+2 HABITAT ALGA
+Alga bisa hidup dipermukaan, selain dipermukaan Alga juga dapat hidup dalam perairan (aquatik) maupun daratan (terestrial) yang terkena sinar matahari, namun kebanyakan hidup di perairan. Alga sangat berperan penting di dalam siklus unsur-unsur di bumi, mengingat jumlah massanya yang sangat banyak yang kemungkinan lebih besar dari jumlah tumbuhan di
+92
+
+daratan. Beberapa Alga laut bersel satu bersimbiosis dengan hewan invertebrata tertentu yang hidup di laut, misalnya spon, koral, cacing laut. Alga terestrial dapat hidup di permukaan tanah, batang kayu, dan lain-lain.
+3 MORFOLOGI ALGA Alga mempunyai bentuk yang bervariasi.
+Susunan kerangka Alga tidak dapat dibedakan antara akar, batang dan daun, sehingga keseluruhan tubuhnya dikenal dengan nama thallus. Beberapa tumbuhan mempunyai bentuk kerangka tubuh menyerupai tumbuhan berakar, berbatang dan berdaun atau berbuah, tetapi semua bentuk tubuh tumbuhan tersebut sebetulnya hanyalah thlallus. Thallus Alga memiliki struktur yang sangat bervariasi kadang-kadang menyerupai kormus tumbuhan tinggkat tinggi. Bentuk thallus Alga makroskopis bermacam-macam antara lain bulat, pipih, gepeng bulat seperti kantong dan seperti rambut.
+Percabangan thallus ada yang dichotomus (bercabang dua terus menerus), pectinate (sederet searah pada satu sisi thallus utama), pinnate (bercabang dua-dua pada sepanjang thallus utama secara berseling), ferticinate (cabangnya berpusat melingkari aksis atau sumbu utama), dan ada juga yang sederhana tidak bercabang.
+4 REPRODUKSI ALGA a Secara vegetative
+Secara vegetatif perkembangbiakan dilakukan dengan cara fragmentasi tubuhnya dan pembelahan sel, serta pembentukan sporik. (Lihat gambar).
+93
+
+Gambar : Perkembangbiakan secara Vegetatif
+Perkembangan vegetative yaitu dengan membentuk : a. Aplanospora, yaitu spora yang tidak dapat bergerak. b. Planospora, yaitu spora yang dapat bergerak. c. Autospora yang berasal dari aplanospora. d. Autokoloni yang berasal dari aplanospora, contoh: scenedesmus, pediastrum, dan crucigenia. b Secara aseksual
+Secara aseksual: yaitu dengan pembentukan zoospora, aplanospora, hipnospora, autospora, dan
+94
+
+konjugasi. Konjugasi, yaitu sel protoplas tumbuhan I ke tumbuhan II. Contoh: Spyrogira. Prosesnya, filament saling mendekat kemudian sama-sama membentuk tonjolan kecil, selanjutnya membentuk papilla, kemudian ke dua dinding papilla melebur hingga membentuk saluran, dilanjutkan dengan gamet jantan masuk ke sel betina melalui saluran itu. (Lihat gambar).
+Gambar: Spyrogira sp denganKonjugasi
+Gambar : Langkah konjugasi Spyrogira sp 95
+
+Konjugasi terbagi atas:
+1. Konjugasi bentuk tangga (skalariform), yaitu pertemuan 2 protoplas di saluran konjugasi.
+2. Konjugasi bentuk lateral, yaitu perkawinan antara 2 protoplas yang saling berlekatan yang berasal dari satu filament.
+3. Konjugasi silang yaitu perkawinan antara 2 protoplas yang tanpa saluran konjugasi.
+96
+
+c. Secara seksual Secara seksual yaitu dengan cara sebagai berikut yaitu : a. Isogami yaitu: gamet yang bentuk dan ukurannya sama (belum dapat dibedakan mana jantan dan betina).
+b. Anisogami : gamet yang bentuk dan ukurannya tidak sama (gamet yang bentuk dan ukurannya tidak sama).
+c. Oogami yaitu jenis anisogami dengan gamet jantan yang aktif (gametangium oogonium, dan gametangium spermatid).
+97
+
+5. BENTUK TUBUH ALGA Algae mempunyai bermacam-macam bentuk tubuh:
+a. Bentuk uniseluler : Bentuk uniseluler yang berflagela dan yang tidak berflagela.
+b. Bentuk multiseluler. a.Berkoloni : 1. Koloni yang motil 2. Koloni yang kokoid b. Agregasi: bentuk palmeloid, dendroid, dan rizopoidal.
+c Bentuk filamentik : filamen sederhana, filamen bercabang, filamen heterotrikh, filamen pseudoparenkhimatik yang uniaksial dan multiaksial.
+d Bentuk sifon/pipa. e Pseudoparenkhimatik.
+6. KLASIFIKASI Alga dapat diklasifikasikan sebagai berikut:
+1. Divisi Chlorophyta (Alga hijau). 2. Divisi Pyrrophyta. 3. Divisi Chrysophyta (Alga keemasan). 4. Divisi Phaeophyta (Alga coklat). 5. Divisi Rhodophyta (Alga merah). 6. Divisi Cyanophyta (Alga biru).
+Untuk lebih jelas maka akan dibahas masing-masing kelas dari alga, pembahasannya adalah sebagai berikut :
+1. Divisi Chlorophyta (Alga hijau)
+98
+
+Gambar : Beberapa jenis Chlorophyta (Alga hijau)
+Chlorophyta merupakan kelompok besar (lebih dari 7000 spesies) yang anggotanya terdiri dari alga hijau yang hidup sebagai plankton di air tawar dan sebagian kecil di air laut. berbentuk filamen nonmotil atau thaloid, dan mempunyai flagella. Sel-selnya dikelilingi oleh dinding selulosa yang sama dengan tanaman hijau multiseluler seperti halnya kloroplasnya. Hal ini mendukung argumentasi bahwa Chlorophyta termasuk dalam kingdom tumbuhan. Diduga ancestornya merupakan autotrof fotosintetik yang merupakan penyatuan endosimbiotik antara eukariotik heterotrofik dan cyanobacteria.
+A. Ciri-ciri umum Chlorophyta (Alga hijau) 1. Berwarna hijau terang.
+99
+
+2. Kosmopolitan (air tawar, payau, asin. Dari oligotrof sampai eutrof.
+3. Memiliki anggota terbanyak. 4. Eukariot. 5. Ada yang unisel, koloni dan filament. 6. Pigmen yang dimiliki: klorofil a,b, karote(,,) dan beberapa xantofil. 7. Dinding sel terbuat dari selulosa atau polimer xylosa atau mannosa atau hemiselulosa.
+B. Struktur tubuh Chlorophyta (Alga hijau) Struktur tubuh bervariasi baik dalam ukuran, bentuk maupun susunanya. Untuk mencakup sejumlah besar variasi tersebut, maka alga hijau dapat dikelompkkan sebagai berikut :
+1. Sel tunggal (uniseluler) dan motil. 2. Sel senobium (koloni yang mempunyai jumlah sel
+tertentu sehingga mempunyai bentuk yang relatif tetap). 3. Koloni tak baraturan, filamen (ada yang bercabang dan tidak bercabang). 4. Heterotrikus (filamen barcabang bentuknya terbagi menjadi prostate dan erect). 5. Foliaceus atau parenkimatis (filamen yang pembelahan sel vegetatif terjadi lebih dari satu bidang). 6.Tubular (talus yang memiliki banyak inti tanpa sekat melintang).
+C. Struktur Sel Chlorophyta (Alga hijau) 1. Dinding sel.
+100
+
+Dinding sel tersusunan atas dua lapisan dalam yang tersusun atas selulosa dan lapisan luar tersusun atas pektin. Tetapi beberapa alga bangsa volvocales dindingnya tidak mengandung selulosa. Melainkan tersusun atas glikoprotein. Dinding sel Chlorophyta mengandung xylan datau mannan. 2. Kloroplas atau tempat pembentukan klorofil.
+Gambar : Kloroplas
+Kloroplas terbungkus oleh sistem membran rangkap. Pigmen yang terdapat dalam kloroplas yaitu klorofil a dan klorofil b, beta karoten serta berbagai macam xantifil (lutein, violaxanthin, zeaxanthin) kloroplas dalam sel letaknya mengikuti bentuk dinding sel parietal,ex: ulotrix atau ditengah lumen sel (axial,ex:muogotia). Pada umumnya satu kloroplas setiap sel tetapi pada siponoles zygnemales terdapat lebih dari satu kloroplas setiap sel. (Lihat gambar 5.6). Bentuk kloroplas sangat berfariasi. Fariasi bentuk kloroplas adalah sebagai berikut :
+101
+
+1. Bentuk mangkuk 2. Bentuk sabuk 3. Bentuk cakram 4. Bentuk anyaman 5 Bentuk spiral 6. Bentuk bintang Amilum dari Chlorophyta seperti pada tumbuhan tingkat tinggi, tersusun sebagai rantai glukosa tak bercabang yaitu amilose dan rantai yang bercabang amilopektin. Sering kali amilum tersebut terbentuk dalam granula bersama dengan badan protein dalam plastida disebut pirenoid. Tetapi beberapa jenis tidak mempinyai pirenoid merupaka golongan chlorophyceae yang tinggi tingkatannya. Jumblah pirenoid umumnya dalam tiap sel tertentu dapat digunakan sebagai bukti taksonomi.
+
+D. Klasifikasi Chlorophyta (Alga hijau)
+
+Regnum : Protista
+
+Divisi
+
+: Chlorophyta
+
+Kelas
+
+: Chlorophyceae
+
+Ordo
+
+: Zygnematales
+
+Genus
+
+: Spirogirra
+
+Spesies
+
+: Spyrogira sp
+
+Gambar : Spyrogira sp
+
+E.
+
+102
+
+Perkembangbiakan Chlorophyta (Alga hijau) Gambar: Perkembangbiakan Chlorophyta
+103
+
+1.Secara vegetatif , dilakukan dengan fragmentasi tubuhnya dan pembelahan sel.
+2. Secara aseksual, dilakukan dengan cara membentuk sel khusus yang mampu berkembang menjadi individu baru tanpa terjadinya peleburan sel kelamin. Pada umumnya terjadi dengan perantara spora, oleh karena itu sering disebut perkembangbiakan secara sporik. zoopora dibentuk oleh sel vegetative, tetapi beberapa tumbuhan terbentuk dalam sel khusus disebut sporangia. Zoopora setelah periode berenang beberapa waktu berhenti pada subtract yang sesuai, umumnya dengan ujung anterior. Flagella dilepaskan dan terbentuk dinding , selama proses ini alga mensekresikan lendir yang berperan untuk mempertahankan diri. Selain dengan zoopora, perkembangbiakan secara aseksual dilakukan dengan pembentukan: Aplanospora, hipnospora, autospora. (Lihat gambar 5.8).
+3. Secara seksual, dengan anisogami. Gamet jantan menyerupai zoospora dan selalu bergerak bebas. Gamet betina kadang-kadang tidak bergerak, jadi merupakan suatu oogonium. Perkawinan terjadi karena adanya daya tarik yang bersifat kemotaksis. Zigot biasanya berupa suatu sel yang berdinding tebal, bulat, dan kadangkadang berwarna merah karena mengandung hematokrom. Pada kebanyakan Chlorophyta pembelahan reduksi terjadi pada perkecambahan zigot, jadi ganggang hijau adalah organisme haploid. Alat-alat perkembangbiakan seksual dan aseksual (gamet dasn spora) terdapat pada satu individu, tetapi tiap-tiap individu tidak menghasilkan kedua macam alat perkembangbiakan itu. Biasanya terdapat suatu deretan tumbuhan yang selalu berkembangbiak secara vegetatif
+104
+
+dan baru kemudian muncul individu yang berkembangbiak secara generatif. Jadi, meskipun keduaduanya haploid, ada yang bersifat vegetatif dan ada yang bersifat generatif. Dengan pemindahan tempat terjadinya pembelahan reduksi dari zigot ke sporangium pada fase aseksual, terjadilah pergiliran keturunan antara sporofit yang diploid dengan gametofit yang haploid. Pada pembelahan reduksi terjadi penentuan jenis kelamin.
+F. Habitat Chlorophyta (Alga hijau) Cholorophyta umumnya hidup di air tawar (90%)
+yang merupakan suatu penyusun plankton atau sebagai bentos bersel besar ada yang hidup di air laut(10%), terutama dekatpantai. Ada jenis chlorophyceae yang hidup pada tanah-tanah yang basah. Bahkan diantaranya ada yang tahan akan kekeringan. Sebagian lainnya hidup bersimbiosis dengan lichenes, dan ada yang intraseluler pada binatang rendah. Jenis yang hidup di air tawar bersifat kosmopolit, terutama hidup ditempat yang cahayanya cukup seperti : kolam, danau, genangan air hujan, pada air mengalir (sungai atau selokan). Alga hijau ditemukan pula pada lingkungan semi akatik yaitu pada batu-batuan, tanah lembab dan kulit batang pohon yang lembab (protococus dan trentepolia). Beberapa anggotanya hidup dii air mengapung atau melayang, sebagian hisup sebagai plankton. Beberapa jenis ada yang hidup melekat pada tumbuhan ataupun hewan.
+G. Peranan Chlorophyta (Alga hijau) Alga berperan sebagai produsen dalam
+ekosistem. Berbagai jenis alga yang hidup bebas di air
+105
+
+terutama yang tubuhnya bersel satu dan dapat bergerak aktif merupakan penyusun pitoplankton. Sebagian fitolankton adalah alga hijau, pigmen klorofil yang dimilikinya aktif melakukan fotosintesis sehingga alga hijau merupakan produsen utama dalam ekosistem perairan.
+Peranannya bagi kehidupan manusia antara lain, digunakan dalam penyelidikan metabolisme di laboratorium. Juga dimanfaatkan sebagai bahan untuk obat-obatan, bahan kosmetik dan bahan makanan. Serbuk Chlorella dalam industri obat-obatan dimasukkan dalam kapsul dan dijual sebagai suplemen makanan dikenal dengan "Sun Chlorella". Pengembangannya saat ini di kolam-kolam (contohnya di Pasuruan). 2. Divisi Pyrrophyta Gambar : Phyrrophyta
+106
+
+Pyrrophyta adalah alga uniselular (bersel satu) dengan dua flagel yang berlainan, berbentuk pita, keluar dari sisi perut dalam suatu saluran. Mengandung pigmen (klorofil A,C2 dan piridinin,sementara yang lain memiliki klorofil A,C1,C2 dan fucosantin) yang dapat berfotosintesis. Hanya dinoflagellata yang memiliki kemampuan untuk berfotosintesis. Berwarna kuning coklat.
+Alga yang termasuk Pyrrophyta ini disebut Dino Flagellata, tubuh tersusun atas satu sel memiliki dinding sel dan dapat bergerak aktif. Ciri yang utama bahwa di sebelah luar terdapat celah dan alur, masing-masing mengandung satu flagel.
+A. Ciri-ciri umum Pyrrophyta 1. Memiliki variasi nutrisi yang besar dari autototropik
+ke bentuk heterotropik yang mana terdapat vertebrata parasit dan ikan atau alga phagocytiza yang lain. 2. Memiliki peranan sebagai plankton baik di air tawar dan di air laut 3. Bentuk sel tunggal. 4. Mempunyai bintik mata (stigma), berupa kumpulan butir lipid yang mengandung pigmen karetinoid. 5. Tubuh primitif pada umumnya berbentuk ovoid tapi asimetri. 6. mempunyai dua flagella, satu terletak di lekukan longitudinal dekat tubuh bagian tengah yang disebut sulcus dan memanjang ke bagian posterior. Sedangkan flagella yang lain ke arah transversal dan ditempatkan dalam suatu lekukan (cingulum) yang
+107
+
+melingkari tubuh atau bentuk spiral pada beberapa belokan. 7. Sel terbagai secara transversal oleh cingulum menjadi epiteka dan hipoteka. 8. Dinding sel pada umumnya mengandung selulose. 9. Semua tipe mempunyai membran plasma yang berkesinambungan dengan membran flagel pada bagian luar. 10. Cadangan makanan berupa amilum yang terdapat dalam sitoplasma.
+B. Struktur tubuh Pyrrophyta Organisme ini memiliki peranan sebagai
+plankton baik di air tawar dan di air laut. Meskipun lebih berfariasi bentuk yang ditemukan di air laut. Klas dinophyceae motil tersusun oleh epiko dan hipokon yang terbagi secara melintang oleh girdre (sabuk/ sigulum) Epikon dan hipokon paa umumnya dibagi menjadi sejumlah lempengan (teka) dan jumlah serta susunan karakterisrik pada tingkat marga sulcus letaknya membujur. C. Struktur sel Pyrrophyta
+Pembagian Pyrrophyta dalam 2 golongan berdasarkan pada ada tidaknyanya penutup sel (ampiesma) yaitu yang telanjang (unarmored) dan mempunyai penutup sel (theca). Pada theca terdapat pelat-pelat seperti baja dengan komponen utama sellulosa. Jumlah dan letak pelat digunakan sebagai dasar dalam pemberian nama Peridinium. Mempunyai bintik mata (stigma), berupa kumpulan butir lipid yang mengandung pigmen karetinoid. Tubuh dinoflagellata primitif pada umumnya berbentuk ovoid tapi asimetri,
+108
+
+mempunyai dua flagella, satu terletak di lekukan longitudinal dekat tubuh bagian tengah yang disebut sulcus dan memanjang ke bagian posterior. Sedangkan flagella yang lain ke arah transversal dan ditempatkan dalam suatu lekukan (cingulum) yang melingkari tubuh atau bentuk spiral pada beberapa belokan. Lekukan tranversal disebut girdle, merupakan cincin yang simpel dan jika berbentuk spiral disebut annulus. Flagellum transversal menyebabkan pergerakan rotasi dan pergerakan kedepan, sedangkan flagellum longitudinal mengendalikan air ke arah posterior. Sel Dinoflagellata terbagai secara transversal oleh cingulum menjadi epiteka dan hipoteka. Pada Peridinium, epiteka tersusun atas 2 seri: apical dan precingular. Pada beberpara genus terdapat seri pelat yang tidak sempurna pada permukaan dorsal dengan 1-3 pelat interkalar anterior (a). Hipoteka tersusun atas 2 seri transversal: cingular dan antapikal juga sering terdapat seri yang tidak sempurna yaitu interkalar posterior.
+Dinding sel pada umumnya mengandung selulose, hal ini akan memberikan struktur karakteristik dari teka amfisema adalah nama yang digunakan untuk lapisan terluar khusus dari sel Dinophyceae. Semua tipe mempunyai membran plasa yang berkesinambungan dengan membran flagel pada bagian luar. Pada umumnya terdapat sejumlah pori dalam amfisema dengan trikosit dalam tipe pori.
+D. Klasifikasi Pyrrophyta Regnum : lantae Divisi :Dinophyta
+109
+
+Kelas :Dinoflagellata Ordo :Gonyaulacales Spesies:Gonyaulax balechii Gambar.Gonyaulax balechii
+E. Perkembangbiakan Pyrrophyta Cara Perkembangbiakan Pyrrophyta memiliki 2 cara perkembangbiakan, yaitu secara: a. Vegetatif, yaitu dengan pembelahan sel yang bergerak, jika sel memiliki panser, maka selubung akan pecah. Dapat juga dengan cara protoplas membelah membujur, lalu keluarlah dua sel telanjang yang dapat mengembara yang kemudian masing ­ masing membuat panser lagi. Setelah mengalami waktu istirahat zigot yang mempunyai dinding
+110
+
+mengadakan pembelahan reduksi, mengeluarkan sel kembar yang telanjang. b. Sexual, dalam sel terbentuk 4 isogamet yang masingmasing dapat mengadakan perkawinan dengan isogamet dari individu lain. c. Sporik, yaitu dengan zoospora .
+F. Habitat Pyrrophyta Mayoritas dari Pyrrophyta berasal dari lautan,
+tetapi ada beberapa spesies yang lain yang hidup dia sungai sungai. Pyrrophyta adalah kompenin yang penting dari plankton, khususnya pada kondisi hangat. Sebagai penambahan, beberap spesies adalah benthic atau terjadi dalam peristiwa simbiotik. Dinoflagellata memiliki variasi nutrisi yang besar, dari range nututropik ke bentuk heterotropik, yang mana terdapat juga invertebrata parasit dan ikan atau alga phagocytiza yang lain. Dinoflagellata yang memiliki sistem fotosintesis dan membutuhkan vitamindissebut autotropi dan yang membutuhkan energi disebut heterotrop. G. Peranan Pyrrophyta
+Pertumbuhan yang cepat dari plankton dinoflagelata mungkin akan menghasilkan warna coklat atau merah perubahan wama air disebut red tides. Red tides biasanya terjadi pada air pesisir pantai dan muara. Beberapa dinoflagelata menghasilkan red tides adalah luminescent Spesics lain mungkin mengandung racun yang dapat dilepaskan kedalam air atau terakumulasi dalam rantai makanan. Dalam beberapa kasus, racun dapat menyebabkan kematian ikan atau menyeliabkan keracunan manusia yang makan makanan yang terkontaminasi oleh moluska atau ikan.
+111
+
+3. Divisi Chrysophyta (Alga keemasan) Nama Chrysophyta berasal dari bahasa yunani
+yaitu Chryos yang berarti emas. Chrysophyta adalah satu kelas dari ganggang berdasarkan zat warna atau pigmentasinya. Chrysophyta memiliki klorofil A dan C dan klorofil tersebut tersimpan didalam kloroplas yang berbentuk cakram atau lembaran. (Lihat gambar. Contoh Chrysophyta Diatoms ).
+A. Ciri-ciri umum Chrysophyta (Alga keemasan) 1. Berwarna keemasan karena mengandung pigmen
+karoten dan xantofil. 2. Cadangan makanan pada Chrysophyta berupa tepung
+krisolaminarin. 3. Digolongkan ke dalam 3 kelas, yaitu Kelas alga Hijau-
+Kuning (Xanthophyceae), Kelas alga keemasan (Chrysophyceae), Kelas Diatom (Bacillariophyceae). B. Struktur tubuh Chrysophyta (Alga keemasan)
+112
+
+Bentuk tubuh Chrysophyta kebanyakan bersel satu (uniseluler) dan bersel banyak (multiseluler) dan ubuhnya biasanya berbentuk seperti benang. Susunan TubuhChrysophyta : a). Xantophyceae ada 3 bentuk
+1. Berbentuk sel tunggal. 2. Berbentuk filament. 3. Berbentuk tubular/tidak terbatas. b). Chrysophyceae ada 2 bentuk a Berbentuk sel tungggal. b Berbentuk koloni. c). Bacillariophyceae 1. Berbentuk sel tunggal berbentuk koloni dengan bentuk tubuh simetri bilateral (pennales) dan simetri radial (centrales).
+C. Struktur sel Chrysophyta (Alga keemasan) Chrysophyta umumnya tidak berdinding sel. Bila
+ada dinding selnya maka terdiri dari lorika (ex.Dinobryon dan kephryon). Atau tersusun dari lempengan silicon (ex. Sinura dan mallomonas) atau tersusun dari cakram kalsium karbonat (ex. Syracospoera). Struktur selnya tidak mempunyai dinding selulosa dan membrannya menunjukkan kewujudan silica. 1. Isi Sel
+a.Xantophyceae, Terdapat inti sel: berentuk tunggal dan berbentuk banyak inti. Terdapat plastid berbentuk cakram tanpa pienoid Pigmen : klorofil a dan b,  karoten, xantofilchrysophyceae Berinti tunggal Plastida, terdiri dari 1 atau 2 Pigmen, berupa
+113
+
+klorofil a, b, c  karotin, xantofil, berupa lutein, diadinoxantin, fukoxantin dan dinoxantin. b Berinti tunggal dan berinti diploid Pigmen, berupa klorofil a dan c  karotin, xantofil. 2. Kloroplas
+Kloroplas pada Chrysophyta berwarna coklat keemasan. Chrysophyta menunjukkan perbedaan struktur kloroplas dan sering kali terdapat tiga thylakoids disekitar periphery kloroplas (girdle lamina). Kloroplas terdiri dari dua membrane (CER), jarak periplastida antara dua kloroplas dan retikulumendoplasma sempit dan kurang adanya perbedaan struktur. 3. Ribosom
+Ribosom pada Chrysophyta terdapat pada permukaan luar CER. Alat gerak Chrysophyta memiliki alat gerak yang terdiri dari flagel dan jumlahnya tidak sama tiap marga (struktur dasar flagel pada alga mirip dengan flagel pada mahluk hidup lain. Susunan benang flagel menunjukkan pola 9+2 dengan tipe akronematik (whiplash) dan pantonematik (tinsei). 4. Vakuola Kontraktil
+Terdapat satu atau dua fakuola kontraktil dalam sel (tergantung pada spesies) yang terletak dekat dasar dari flagel. Masing-masing fakuola kontrakil terdiri atas vesikel kecil yang berdenyut dengan interfal yang teratur, mengeluarkan isinya dari sel. Fakuola kontraktil yang terdapat pada alga yang berflagel fungsi utamanya adalah osmoregulator. 5. Badan Golgi
+114
+
+Badan golgi terletak di antara inti dan kontraltil fakuola. Badan golgi adalah organela yang terdapat pada sel eukariotik, baik hewan maupun tumbuhan yang strukturnya terdiri dari tumpukan fesikel bentuk cakram atau kantung. 6. Nukleus
+Nukleus dan kloroplas dihubungkan oleh membran kloroplas ER yang mana berhubungan dengan pembungkus inti. D. Klasifikasi Chrysophyta (Alga keemasan) Domain : Eukaryota Regnum: Chloromaiveolata Divisi : Heterokontophyta Kelas : Chrysophyta
+Gambar: Chrysophyta
+115
+
+E. Perkembangbiakan Chrysophyta (Alga keemasan) Secara umum perkembangbiakan pada
+Chrysophyta terjadi secara generatif dan vegetatif. Dengan membelah secara longitudinal dan fragmentasi terjadi menjadi 2 macam yaitu: 1). Koloni memisah menjadi 2 atau lebih (sel tunggal melepaskan diri dari koloni kemudian membentuk koloni yang baru). 2). Sporik dengan membentuk 2 oospora (untuk sel yang tidak berflogel) dan statospora (tipe spora yang unik yang ditemukan pada Chrysophyta, dengan bentuk speris dan bulat, dinding spora bersilla, tersusun atas 2 bagian yang saling tumpang tindih, mempunyai lubang atau pori ditutupi oleh sumbat yang mengandung gelatin).
+Perkembangbiakan Chrysophyceae yang dilakukan scara vegetative dengan membelah secara longitudinal dan fragmentasi ada dua macam yaitu: a. Koloni memisah menjadi 2 bagian atau lebih. Sel tunggal melepaskan diri dari koloni kemudian membentuk koloni yang baru. b. Sporik, dengan membentuk zoospore (untuk sel-sel yang tidak berflagel) dan statospora. Statospora yaitu tipe spora paling unik yang diketemukan pada crysophyta, khususnya pada kelas chrysophyceae dengan membentuk speris dan bulat. Dinding spora bersilia tersusun atas 2 bagian yang saling tumpang tindih, mempunyai lubang atau poredan ditutupi oleh sumbat yang mengandung gelatin. F. Habitat Chrysophyta (Alga keemasan)
+Habitat Chrysophyta biasanya terdapat ditempattempat yang basah, air laut, air tawar dan ditanah yang lembab. Untuk xantophyceae hidup di air tawar, air laut dan tanah dan chrysophyceae hidupnya di air laut dan air
+116
+
+tawar sedangkan bacillariopphyceae di air laut, di air tawar ataupun pada tanah- tanah yang lembab.
+G. Peranan Chrysophyta (Alga keemasan) Chrysophyta merupakan bagian yang terdiri dari
+fitoplankton. Navicula merupakan fitoplankton dilaut sehingga dikenal sebagai grass of the sea. Beberapa hewan laut kecil seperti udang-udangan dan larva ikan memperoleh karbohidrat, lemak, dan protein dari diatomae. Sisa diaromae yang telah mati berbentuk deposit yang disebut tanah diatoni. Tanah diaromae sering dimanfaatkan sebagai penyerap trinitrogliserin (TNT) pada bahan peledak, campuran semen, sebagai bahan penggosok, bahan penyaring, solasi penyuling gasoline dan glukosa serta digunakan sebagai bahan untuk pembuat jalan.
+Disamping itu alga ini berguna sebagai bahan penggosok, bahan pembuat isolasi, penyekat dinamit, membuat saringan, bahan alat penyadap suara, bahan pembuat cat, pernis, dan piringan hitam. Chrysophyta merupakan bagian yang terdiri dari fitoplankton.
+4. Divisi Phaeophyta (Alga coklat)
+117
+
+Gambar: Beberapa jenis Phaeophyta (Ganggang coklat)
+Phaeophyta atau ganggang coklat adalah salah satu kelas dari dari ganggang berdasarkan zat warna atau pigmentasinya. Pigmen yang lebih dominan adalah pigmen xantofil yang menyebabkan ganggang berwarna coklat. Pigmen lain yang terdapat dalam Phaeophyceae adalah klorofil A dan C serta karoten. A. Ciri-ciri umum Phaeophyta (Alga coklat) 1. Sebagian besar Phaeophyta terdapat dilaut. 2. Phaeophyta banyak terdapat didaerah yang beriklim
+dingin. 3. Alga ini banyak mendominasi bagian lateral daerah
+artik dan antartik. 4. Ada jenis-jenis lainnya yang hidup didaerah tropic
+dan subtropik. 5. Sebagian besar dari phaeophyta hidup melekat pada
+subtract karang dan lainnya. 6. Beberapa diantaranya hidup sebagai epifit. 7. Semua berbentuk benang atau lembaran, bahkan ada
+yang menyerupai tumbuhan tingkat tinggi denganbagian-bagian serupa akar, batang, dan daun. 8. Umumnya bersifat makroskopis, dan dapat mencapai ukuran lebih dari30 meter, dan mempunyai gelembung-gelembung udara yang berfungsi sebagai pelampung. 9. Mempunyai peranan penting bagi kehidupan manusia di antaranya: Sebagai bahan makanan, pengasil alginate di laboratorium,dalam industri sebagai bahan kosmetik, farmasi, dan penyusun fosil.
+118
+
+B. Struktur tubuh Phaeophyta (Alga coklat) Tubuh selalu berupa talus yang multi seluler
+yang berbentuk filament atau lembaran atau menyerupai semak atau pohon yang dapat mencapai beberapa puluh meter, terutama jenis-jenis yang hidup di lautan daerah iklim, dingin. Panjang tubuh maximum mencapai 100m. C. Struktur sel Phaeophyta (Alga coklat)
+Sel mengandung khloroplas berbentuk bulat, bulat panjang, seperti pita,mengandung khorofil a dan klorofil c serta beberapa xantofil misalnya fukosatin. Cadangan makanan berupa laminarin dan manitol. Dinding sel menandung selulose dan asam alginate. Umumnya dapat ditemukan adanya dinding sel, yang tersusun dari tiga macam polimer, yaitu : selulosa, asam aginat, fukan dan fukoidin. Dimana algin dan fukoidin lebih kompleks dari selulosa dan gabungan dari keduanya membentuk fikokoloid. Kadang-kadang dinding selnya juga mengalami pengapuran. Inti selnya berinti tunggal, bagian pangkal berinti banyak. Kloroplas dengan berbagai macam bentuk, ukuran dan jumlah.
+
+D. Klasifikasi Phaeophyta (Alga coklat)
+
+Regnum
+
+: Protista
+
+Divisi
+
+: Phaeophyta
+
+Kelas
+
+: Phaeophyceae
+
+Ordo
+
+: Fucales
+
+Famili
+
+: Sargassaceae
+
+Genus
+
+: Sargassum
+
+Spesies
+
+: Sargassumsp.
+
+119
+
+Gambar: Sargassum sp
+E. Perkembang biakan Phaeophyta (Alga coklat) Perkembang biakan dengan frakmentasi dan
+membentuk spora (aplanospora dan zoospora). Zoospora yang dihasilkan memiliki 2 flagel yang tidak sama panjang dan terletak di bagian lateral. Reproduksi generatif dengan membentuk alat kelamin yang disebut konseptakel jantan dan konseptakel betina. Didalam konseptakel jantan terdapat anteridium dan di dalam konseptakel betina terdapat oogonium yang menghasilkan ovum. Spermatozoid membuahi ovum yang menghasilkan zigot.
+perkembang biakan pada bangsa ganggang coklat ini terjadi secara vegetatif, sporik dan gametik. Perkembang biakan secara vegetatif dilakukan dengan cperantara cabang-cabang kecil yang dibentuk di bagian basal dari thalussnya atau dapat pula dilakukan secara
+120
+
+fragmentasi thalussnya. Perkembangbiakan seksual dilakukan secara oogamis ganggang ini bersifat monoeisis atau diesis.
+F. Habitat Phaeophyta (Alga coklat) Phaeophyta sebagian besar hidup di air laut
+hanya beberapa saja yang hidup di air tawar. Dan ada yang terdampar di pinggir pantai, melekat pada batubatuan dengan alat pelekat semacam akar (hold fast). Phaeophyta ini juga hidup di tempat yang bersuhu dinggin dan sedang.
+Phaeophyta ditemukan di seluruh dunia. Hampir semua adalah organisme laut dan lebih dingin, air aktif, meskipun beberapa lebih suka iklim tropis dan subtropis. Phaeophytes yang lebih sejuk karena iklim sejuk air itu mampu bertahan lebih tinggi konsentrasi karbon dioksida, yang digunakan dalam fotosintesis. Mereka ditemukan di lepas pantai hampir setiap negara. Mereka adalah bagian penting dari flora laut, karena menyediakan makanan, tempat berlindung, pemijahan daerah, dan substrat untuk berbagai hewan laut.
+G. Peranan Phaeophyta (Alga coklat) Sebagian besar paeophyta di gunakan oleh
+masyarakat sebagai bahan makanan ada pula yang menggunakan sebagai bahan lab, dan ada juga yang memanfaatkan sebagai bahan obat dan pelekat fosil. Para ilmuwan memanfaatkan phaeophyta untuk melawan timbulnya kaker kulit yang di sebabkan oleh terpaparnya sinar matahari.
+121
+
+5. Divisi Rhodophyta (Alga merah)
+Gambar: Rhodophyta (Alga merah) Rhodophyta sering disebut juga sebagai alga merah,
+karena pigmen fotosintetik didominasi oleh fikoeritrin. Pigmen lain terdiri atas klorofil a, dan pada beberapa jenis mempunyai klorofil d, fikosianin, karoten, dan beberapa xantofil. (Lihat gambar). A. Ciri-ciri umum Rhodophyta (Alga merah)
+1. Berwarna merah. 2. Bahan cadangan makanan di dalam selnya
+berupa pati floridean, yaitu polisakarida yang mirip amilopektin. 3. Mempunyai dinding sel berupa selulosa, xylan, dan galaktan.
+122
+
+4. Alat gerak yang berupa flagela tidak ada. 5. Umumnya hidup di lautan, terutama di daerah
+tropis, beberapa spesies hidup di daerah dingin. 6. Dapat tumbuh sampai kedalaman lebih dari 175
+meter di perairan. 7. Kebanyakan tumbuh menempel pada bebatuan
+dan substrat lain atau lagae lain, tetapi ada juga yang hidup mengapung dengan bebas.
+B. Struktur sel Rhodophyta (Alga merah) Dinding selnya terdiri dua lapis, lapisan bagian
+dalam kasar (rigid) dan menyerupai mikrofibril, sedangkan bagian luar berbentuk lapisan mucilaginous. pada dinding selnya terdapat berbagai macam bahan selain selulosa, yaitu polisakarida sulfat, agar dan karagenin. Pada alga pembentuk koral, dapat mengumpulkan CaCO3 di dalam dinding selnya. Oleh karena hal tersebut jenis alga ini berperan penting dalam proses pembentukan karang.
+C. Struktur tubuh Rhodophyta (Alga merah) Umumnya tubuh berwarna merah karena adanya
+protein fikobilin,terutama fikoeritrin, tetapi warnanya bervariasi mulai dari merah ke coklat atau kadangkadang hijau karena jumlahnya pada setiap pigmen. Dinding sel terdiri dari sellulosa dan gabungan pektik, seperti agar-agar, karaginan dan fursellarin. Hasil makanan cadangannya adalah karbohidrat yang kemerah-merahan. Ada perkapuran di beberapa tempat pada beberapa jenis. Jenis dari divisi ini umumnya
+123
+
+makroskopis, filamen, sipon, atau bentuk thallus, beberapa dari mereka bentuknya seperti lumut.
+Tubuh ganggang ini juga berwarna merah sampai ungu, tetapi ada juga yang lembayung atau pirang atau kemerah ­ merahan, chromatofora berbentuk cakram atau lemabaran dan mengandung klorofil a, klorofil b dan karoteboid. Akan tetapi, warna lain tertutup oleh warna merah fikoiretrin sebagai pigmen utama yang mengadakan fluoresensi.
+
+D. Reproduksi Rhodophyta (Alga merah) Roduksi ganggang ini secara seksual dengan
+pembentukan dua ateridium pada ujung ­ ujung cabang talus. Arteridium menghasilakn gamet jantang yang berupa spermatium dan betinanya karpogamium terdapat pada ujung cabang lainnya.
+Selaian reproduksi seksusal ganggang ini juga bereproduksi sevcara aseksual terjadi dengan pembentukan tetraspora kemudian menjadi gametania jantan dan gametania betina, akan membentuk satu karkospofrafit. Karkosporafit akan menghasil tentranspora. Contoh anggota ganggang merah antara lain: porallina, parmalia, bateracospermum moniniformi, gelidium, gracilaria,eucheuma, dan skinaia furkellata.
+
+E. Klasifikasi Rhodophyta (Alga merah)
+
+Regnum : Protista
+
+Divisi : Rhodophycophyta
+
+Kelas : Rhodophyceae
+
+Ordo
+
+: Gigartinales
+
+Famili : Gracilariaceae
+
+Genus : Gracilaria
+
+124
+
+Spesies : Gracilaria sp Gambar : Gracilaria sp
+F. Habitat Rhodophyta (Alga merah) Ganggang ini kebanyakan hidup di laut dan beberapa jenis di air tawar, ada juga yang hidup didaerah dingin. 125
+
+G. Peranan Rhodophyta (Alga merah) Peranan ganggang ini antara lain sebagai bahan makanan dan kosmetik, misalnya eucheuma spinosum , selain itu juga dipakai untuk mengeraskan atau memadatkan media pertumbuhan bakteri.
+126
+
+Evaluasi 1. Sebutkan ciri-ciri umum dari Ganggang ? 2. Jelaskan klasifikasi alga secara umum beserta ciri-
+cirinya dan contoh spesies? 3. Jelaskan bagaimana Peranan menguntungkan dan
+merugikan dari alga merah? 4. Sebutkan bagaimana ciri-ciri khusus alga keemasan ? 5. Jelaskan bagaimana proses perkembang biakan yang
+dilakukan alga coklat?
+127
+
+B. JAMUR ATAU FUNGI
+Jamur merupakan organisme uniseluler maupun multiseluler (umumnyaberbentuk benang disebut hifa, hifa bercabang-cabang membentuk bangunanseperti anyaman disebut miselium, dinding sel mengandung kitin, eukariotik, tidakberklorofil. Hidup secara heterotrof dengan jalan saprofit (menguraikan sampah organik), parasit (merugikan organisme lain), dan simbiosis. Habitat jamur secara umumterdapat di darat dan tempat ang lembab. Jamur uniseluler dapat berkembangbiakdengan dua cara yaitu vegetatif dapat dilakukan dengan cara membentuk spora,membelah diri, kuncup (budding). Secara generatif dengan cara membentuk sporaaskus. Sedang untuk jamur multiseluler reproduksi vegetatif dengan cara fragmentasi,konidium, zoospora. Secara generatif dapat dilakukan dengan cara konjugasi, hifayang akan menghasilkan zigospora, spora askus, spora basidium. Cir-ciri jamur berbeda dengan organisme lain dalam hal struktur tubuh,habitat, reproduksi dan pertumbuhannya.
+1. Struktur Tubuh Jamur Struktur tubuh jamur tergantung pada jenisnya. Ada jamur yang satu sel, misalnyakhamir, ada pula jamur yang multiseluler membentuk tubuh buah besar yangukurannya mencapai satu meter, contoh jamur kayu. Tubuh jamur tersusun darikomponen dasar yang disebut hifa. Hifa membentuk jaringan yang disebut miselium.Miselium menyusun jalinan- jalinan semu menjadi tubuh buah. Hifa adalah strukturmenyerupai benang yang tersusun dari dinding berbentuk pipa.
+128
+
+Dinding inimenyelubungi membran plasma dan sitoplasma hifa. Sitoplasmanya mengandungorganel eukariotik. Kebanyakan hifa dibatasi oleh dinding melintang atau septa. Septamempunyai pori besar yang cukup untuk dilewati ribosom, mitokondria, dankadangkala inti sel yang mengalir dari sel ke sel. Akan tetapi, adapula hifa yang tidakbersepta atau hifa senositik. Struktur hifa senositik dihasilkan oleh pembelahan inti selberkali-kali yang tidak diikuti dengan pembelahan sitoplasma. Hifa pada jamur yangbersifat parasit biasanya mengalami modifikasi menjadi haustoria yang merupakanorgan penyerap makanan dari substrat; haustoria dapat menembus jaringan substrat.
+Gambar. Struktur morfologi jamur
+129
+
+2. Cara memperoleh makan dan Habitat Semua jenis jamur bersifat heterotrof. Namun,
+berbeda dengan organism lainnya, jamur tidak memangsa dan mencernakan makanan. untuk memperolehmakanan, jamur menyerap zat organik dari lingkungan melalui hifa dan miseliumnya,kemudian menyimpannya dalam bentuk glikogen. Oleh karena jamur merupakankonsumen maka jamur bergantung pada substrat yang menyediakan karbohidrat,protein, vitamin, dan senyawa kimia lainnya. Semua zat itu diperoleh darilingkungannya. Sebagai makhluk heterotrof, jamur dapat bersifat parasit obligat,parasit fakultatif, atau saprofit.
+Parasit obligat merupakan sifat jamur yang hanya dapat hidup padainangnya, sedangkan di luar inangnya tidak dapat hidup. Misalnya,Pneumonia carinii (khamir yang menginfeksi paru-paru penderita AIDS). Parasit fakultatif adalah jamur yang bersifat parasit jika mendapatkaninang yang sesuai, tetapi bersifat saprofit jika tidak mendapatkan inangyang cocok. Saprofit merupakan jamur pelapuk dan pengubah susunan zat organic yang mati. Jamur saprofit menyerap makanannya dari organisme yangtelah mati seperti kayu tumbang dan buah jatuh. Sebagian besar jamursaprofit mengeluarkan enzim hidrolase pada substrat makanan untukmendekomposisi molekul kompleks menjadi molekul sederhanasehinggamudah diserap oleh hifa. Selain itu, hifa dapat juga langsungmenyerap bahan-bahan organik dalam bentuk sederhana yangdikeluarkan oleh inangnya.
+130
+
+Cara hidup jamur lainnya adalah melakukan simbiosis mutualisme. Jamuryang hidup bersimbiosis, selain menyerap makanan dari organisme lainjuga menghasilkan zat tertentu yang bermanfaat bagi simbionnya.Simbiosis mutualisme jamur dengan tanaman dapat dilihat pada mikoriza,yaitu jamur yang hidup di akar tanaman kacang-kacangan atau padalumut kerak. Jamur berhabitat pada bermacam - macam lingkungan dan berasosiasidengan banyak organisme. Meskipun kebanyakan hidup di darat,beberapa jamur ada yang hidup di air dan berasosiasi dengan organismeair. Jamur yang hidup di air biasanya bersifat parasit atau saprofit, dankebanyakan dari kelas Oomycetes.
+3. Pertumbuhan dan Reproduksi Reproduksi jamur dapat secara seksual
+(generatif) dan aseksual (vegetatif). Secara aseksual, jamur menghasilkan spora. Spora jamur berbeda-beda bentukdan ukurannya dan biasanya uniseluler, tetapi adapula yang multiseluler.Apabila kondisi habitat sesuai, jamur memperbanyak diri dengan memproduksisejumlah besar spora aseksual. Spora aseksual dapat terbawa air atau angin.Bila mendapatkan tempat yang cocok, maka spora akan berkecambah dantumbuh menjadi jamur dewasa. Reproduksi secara seksual Pada jamur melalui kontak gametangium dankonjugasi. Kontak gametangium mengakibatkan terjadinya singami, yaitupersatuan sel dari dua individu. Singami terjadi dalam dua tahap,
+131
+
+tahappertama adalah plasmogami (peleburan sitoplasma) dan tahap kedua adalahkariogami (peleburan inti). Setelah plasmogami terjadi, inti sel dari masing-masinginduk bersatu tetapi tidak melebur dan membentuk dikarion. Pasanganinti dalam sel dikarion atau miselium akan membelah dalam waktu beberapabulan hingga beberapa tahun. Akhimya inti sel melebur membentuk sel diploidyang segera melakukan pembelahan meiosis.
+Gambar. Reproduksi jamur
+132
+
+4. Klasifikasi Jamur Kingdom fungi dibagi menjadi enam divisi yang berbeda dalam hal struktur hifa danstruktur penghasil spora, yaitu sbb : A. MYXOMYCOTINA (Jamur lendir) Myxomycotina merupakan jamur yang paling sederhana. Mempunyai 2 fasehidup, yaitu: fase vegetatif (fase lendir) yang dapat bergerak seperti amuba, disebutplasmodium dan fase tubuh buah.Reproduksi : secara vegetatif dengan spora, yaitu spora kembara yang disebut myxoflagelata. Contoh spesies : Physarum polycephalum
+B. OOMYCOTINA Tubuhnya terdiri atas benang/hifa tidak bersekat, bercabang-cabang danmengandung banyak inti. Reproduksi: Vegetatif : yang hidup di air dengan
+133
+
+zoospora yang hidup di darat dengansporangium dan konidia.
+Generatif : bersatunya gamet jantan dan betina membentuk oospora yangselanjutnya tumbuh menjadi individu baru. Contoh spesies : Saprolegnia sp. : hidup saprofit pada bangkai ikan, seranggadarat maupun serangga air. Phytophthora infestans: penyebab penyakit busukpada kentang.
+Gambar. Saprolegnia sp 134
+
+C. ZYGOMYCOTINA (kelas Zygomycetes)
+
+Habitat di darat, di tanah yang lembab atau sisa
+
+organisme mati
+
+Hifanya bercabang banyak tidak bersekat saat masih
+
+muda dan bersekatsetelah menjadi tua
+
+Reproduksi vegetatif dengan cara membentuk spora
+
+tak berflagel(aplanospora) dan generatif dengan cara
+
+gametangiogami
+
+dari
+
+dua
+
+hifa
+
+yangkompatibel/konjugasi dengan menghasilkan
+
+zigospora. Contohnya : Rhizopussp, mempunyai ciri
+
+sbb :
+
+1) Miseliumnya mempunyai tiga tipe hifa yaitu : stolon
+
+(hifa yangmembentuk jaringan di permukaan substrat
+
+seperti roti), rhizoid (hifa yangmnembus substrat dan
+
+berfungsi untuk menyerap makanan),sporangiofor
+
+(tangkai sporangium)
+
+2) Berkembangbiak dengan cara vegetatif yaitu membuat
+
+sporangiumyang menghasilkan spora. Generatif yaitu
+
+dengan konjugasi dua hifa (-)dan hifa (+).
+
+Peranan bagi manusia dan sekitar : 1) Rhizopus nigricans: Menghasilkan asam fumarat,
+pemasak buah 2) Rhizopus oryzae : Jamur tempe/untuk membuat
+tempe 3) Rhizopus nodusus : Menghasilkan asam laktat
+
+135
+
+Contoh gambar.Rhizopus
+
+D. ASCOMYCOTINA Hidup saprofit di dalam tanah atau hipogean, hidup di kotoran ternak kemudiandisebut koprofil ada juga yang parasit pada tumbuhan. Tubuhnya terdiri atas benang-benang yang bersekat atau ada yang unisel.Cara berkembangbiak ada dua cara:
+
+1) Secara vegetatif : Dengan cara klamidospora (spora
+
+berdinding tebal),fragmentasi
+
+(pemisahan sebagian cabang dari
+
+miselium
+
+yang
+
+selanjutnyatumbuh
+
+menjadi
+
+individu baru), tunas/kuncup
+
+136
+
+(budding)
+
+yaitu
+
+padaSaccharomyces.
+
+2) Secara generatif :Dengan menghasilkan spora yang
+
+dibentuk di dalam askus.Askus-
+
+askus akan berkumpul dalam
+
+badan yang disebut askokarp
+
+Peranan / Manfaat :
+1) Saccaharomyces cerevisiae dan S. ovale untuk membuat tape
+2) S. sake untuk membuat sake jepang 3) Penicillium notatum dan P. chryzogenum penghasil
+antibiotik penisilin 4) P. camemberti dan P. roquerforti mengharumkan keju 5) Aspergillus flavus menghasilkan alfatoksin 6) Aspergillus oryzae untuk membuat tape 7) A. wentii untuk membuat kecap 8) Claviseps purpurea untuk bahan obat-obatan 9) Neurospora sitophila untuk membuat oncom
+Penyebab Kerugian : 1) Aspergillus fumigatus parasit paru-paru burung 2) A. nidulans penyebab automikosis/penyakit telinga 3) Laboulbenia parasit pada serangga 4) Reosellina arcuata hidup pada potongan akar 5) Nectria cinabarina parasit pada kayu manis
+
+137
+
+Gambar. Ascomycotina, Sacahromyces sp.
+E. BASIDIOMYCOTINA Umumnya makroskopis atau mudah dilihat dengan mata telanjang Miseliumnya bersekat dan dapat dibedakan menjadi dua macam yaitu:
+a. miselium primer : miselium yang sel-selnya berinti satu, umumnya berasaldari perkembangan basidiospora
+b. miselium sekunder : miselium yang sel penyusunnya berinti dua, miseliumini merupakan hasil konjugasi dua miselium primer atau persatuan duabasidiospora
+Cara reproduksi dibedakan menjadi dua yaitu : 138
+
+a. vegetatif (dengan membentuk tunas, dengan konidia, dan fragmentasimiselium) dan
+b. generatif (dengan alat yang disebut basidium, basidium berkumpuldalam badan yang disebut basidiokarp, yang menghasilkan sporayang disebut basidiospora)
+Peranan a. Volvariella volvacea jamur merang, dapat dimakan b. Auricularia polytrica jamur kuping, dapat dimakan c. Ustilago compestris jamur kaleng d. Pleurotes (jamur tiram) Kerugian a. Puccinia graminis parasit pada rumput-rumputan b. Ustilago vireus parasit pada padi c. U. maydis parasit pada jagung d. Amanita phalloides menghasilkan racun falin yang
+merusak darah e. A. muscaria menghasilkan racun muskarin yang
+dapat membunuh lalat f. Exobasidium vexans parasit pada tanaman teh g. Corticium salmonella jamur upas, parasit pada
+pohon buah-buahan dan karet
+Gambar, Jamur Merang
+139
+
+F. DEUTEROMYCOTINA Belum diketahui tingkat seksualnya, disebut juga jamur tidak sempurna (fungiimperfecti) Pembiakan vegetatif dengan menggunakan konidium, sedang alat pembiakangeneratifnya (askus atau basidium) belum atau tidak dikenal. Contoh klasik ialahMonilia sitophila, jamur ini masuk Deuteromycotina. Tetapi setelah ditemukanalat pembiakan generetif oleh Dodge (1927) dan Dwijosoeputro (1961), jamur inidikelompokkan ke dalam Ascomycotina dan namanya diganti menjadiNeurospora sitophila. Kelompok jamur ini kebanyakan bersifat parasit bagi lingkungan sekitar, contoh : a) Sclerotium rolfsii parasit pada bawang merah b) Helminthosprium oryzae parasit pada padi c)Verticillium penyebab layu pada bibit-bibit tanaman d) Curvularia parasit pada rerumputan e) Tinea versicolor jamur panu f) Epidermophyton floocossum jamur kulit, parasit pada kaki atlit g) Peranan : Monila sitophila untuk jamur oncom
+140
+
+Evaluasi 1. Gambar dan jelaskan struktur jamur ? 2. Jelaskan klasifikasi Jamur secara umum beserta ciri-
+cirinya dan contoh spesies? 3. Jelaskan bagaimana Peranan menguntungkan dan
+merugikan dari Jamur ? 4. Sebutkan bagaimana ciri-ciri khusus jamur
+basidiomycotina ? 5. Jelaskan bagaimana proses perkembang biakan yang
+dilakukan asscomycotina?
+141
+
+C. MIKORIZA Mikoriza bukan takson dalam kingdom jamur, mikoriza merupakan jamur yang hifanya bersimbiosis dengan akar suatu tanaman. Berdasarkan kedalaman jaringan yang digunakannya mikoriza dapat digolongkan menjadi dua tipe mikoriza, yaitu: Ektomikoriza Yaitu jika hifa jamur hanya hidup di daerah permukaan akar, yakni pada jaringan epidermis. Dari tumbuhan inangnya memperolah bahan makanan seperti vitamin, gula, asam amino. Sedangkan inangnya mendapatkan air dan unsur-unsur dari tanah lebih banyak. Contohnya jamur ektomikoriza bersimbiosis dengan tanaman pinus, bentuknya seperti payung.
+Gambar. Tipe mikoriza
+142
+
+Endomikoriza Yaitu hifa jamur menembus akar hingga masuk
+ke jaringan korteks. Endomikoriza tidak mempunyai inang khusus. Contohnya jamur yang hidup pada akar anggrek, sayuran, dan berbagai jenis pohon.
+Lumut kerak atau Lichenes Lumut kerak merupakan simbiosis antara jamur
+dari golongan Ascomycotina atau Basidiomycotina (mikobion) dengan Chlorophyta atau Cyanobacteria bersel satu (fikobion). Tumbuhan ini tergolong tumbuhan perintis yang ikut berperan dalam pembentukan tanah. Lumut kerak bersifat endolitik karena dapat masuk pada bagian pinggir batu. Dalam hidupnya lichenes tidak memerlukan syarat hidup yang tinggi dan tahan terhadap kekurangan air dalam jangka waktu yang lama. Lichenes yang hidup pada batuan dapat menjadi kering karena teriknya matahari, tetapi tumbuhan ini tidak mati, dan jika turun hujan bisa hidup kembali.
+Morfologi Lumut Kerak
+Gambar. Lumut kerak
+143
+
+Tubuh lichenes dinamakan thallus yang secara vegetatif mempunyai kemiripan dengan alga dan jamur. Thallus ini berwarna abu-abu atau abu-abu kehijauan. Beberapa spesies ada yang berwarna kuning, oranye, cokelat atau merah dengan habitat yang bervariasi. Bagian tubuh yang memanjang secara selluler dinamakan hifa. Hifa merupakan organ vegetatif dari thallus atau miselium yang biasanya tidak dikenal pada jamur yang bukan lichenes. Alga selalu berada pada bagian permukaan dari thallus. Apabila lumut kerak disayat tipis kemudian diamati di bawah mikroskop, maka akan tampak adanya jalinan hifa jamur yang teratur dan dilapisan permukaan terdapat kelompok alga bersel satu yang terdapat di sela-sela jalinan hifa. Secara garis besar susunan anatomi lumut kerak dibedakan menjadi tiga lapisan, antara lain :
+144
+
+1. Lapisan Luar (korteks) : lapisan yang tersusun atas sel-sel jamur yang rapat dan kuat, menjaga agar lumut kerak tetap tumbuh.
+2. Lapisan Gonidium : merupakan lapisan yang mengandung ganggang dan menghasilkan makanan dengan berfotosintesis.
+3. Lapisan Empulur : lapisan yang tersusun atas sel-sel jamur yang tidak rapat berfungsi untuk menyimpan cadangan air dan tempat terjadinya perkembangbiakan.
+Pada lumut kerak berdaun (feliose) dan perdu (fruticose) memiliki korteks bawah yang susunannya sama dengan korteks atas, tetapi menghasilkan sel-sel tertentu untuk menempel pada substrat atau yang disebut dengan rizoid.
+Menurut bentuk pertumbuhannya, lumut kerak terbagi menjadi tiga tipe yaitu:
+a) Krustos, jika talus terbentuk seperti kerak (kulit keras),
+berukuran kecil, datar dan tipis. melekat erat pada substratnya (batu, kulit pohon atau tanah). Contohnya : Physcia,Graphis scipta, Haematomma puniceum, Acarospora atau Pleopsidium
+Lichen krustos yang tumbuh terbenam didalam batu hanya bagian tubuh buahnya yang berada di permukaan yang biasanya disebut endolitik,
+145
+
+Gambar : Caloplaca luteominea subspecies bolanderi (lichen endolitik)
+146
+
+b) Folios, jika talus berbentuk seperti daun. Thallusnya
+datar, lebar, banyak lekukan seperti daun yang mengkerut berputar. Bagian permukaan atas dan bawah berbeda. Lichenes ini melekat pada batu, ranting dengan rhizines. Rhizines ini juga berfungsi sebagai alat untuk mengabsorbsi makanan. Contohnya : Umbillicaria, Parmelia, Xantoria, Physcia, Peltigera. Haematomma accolens Acarospora
+147
+
+c) Frutikos, Jika talus tegak seperti semak atau menggantung
+seperti jumbai atau pita. Thallus tumbuh tegak atau menggantung pada batu, daun-daunan atau cabang pohon. Contohnya : Usnea longissima
+Gambar.Usnea longissima, Ramalina stenospora, Cladonia perforata d) Squalumose,
+Lichen ini memiliki lobus-lobus seperti sisik, lobus ini disebut squamulus yang biasanya berukuran kecil dan saling bertindih dan sering memiliki struktur tubuh buah yang disebut podetia. Contoh : Psorapseudorusselli, Cladonia carneola
+148
+
+Psora pseudorusselli
+Cladonia carneola
+Perkembangbiakan Lumut Kerak (Lichenes) Perkembangbiakan lichenes melalui tiga cara, yaitu : A. Secara Vegetatif
+Fragmentasi : 149
+
+Fragmentasi adalah perkembangbiakan dengan memisahkan bagian tubuh yang telah tua dari induknya dan kemudian berkembang menjadi individu baru. Bagian-bagian tubuh yang dipisahkan tersebut dinamakan fragmen. Pada beberapa fruticose, bagian tubuh yang lepas tadi, dibawa oleh angin ke batang kayu dan berkembang tumbuhan lichens yang baru. Reproduksi vegetatif dengan cara ini merupakan cara yang paling produktif untuk peningkatan jumlah individu. Isidia :
+Kadang-kadang isidia lepas dari thallus induknya yang masing-masing mempunyai simbion. Isidium akan tumbuh menjadi individu baru jika kondisinya sesuai. Soredia :
+Soredia adalah kelompok kecil sel-sel ganggang yang sedang membelah dan diselubungi benangbenang miselium menjadi suatu badan yang dapat terlepas dari induknya. Dengan robeknya dinding thallus, soredium tersebar seperti abu yang tertiup angin dan akan tumbuh lichens baru. Lichenes yang baru memiliki karakteristik yang sama dengan induknya.
+C. Secara Seksual Perkembangan seksual pada lichenes hanya
+terbatas pada pembiakan jamurnya saja. Jadi yang mengalami perkembangan secara seksual adalah kelompok jamur yang membangun tubuh lichenes.
+150
+
+Klasifikasi Lichenes Lichenes sangat sulit untuk diklasifikasikan
+karena merupakan gabungan dari alga dan fungi serta sejarah perkembangan yang berbeda. Para ahli klasifikasi taksonomi seperti Bessey (1950), Martin (1950) dan Alexopoulus (1956), berpendapat bahwa lichenes dikelompokkan dan diklasifikasikan ke dalam kelompok jamur sebenarnya. Bessey meletakkannya dalam ordo Leocanorales dari Ascomycetes. Smith (1955) menganjurkan agar lichenes dikelompokkan dalam kelompok yang terpisah yang berbeda dari alga dan fungi. Lichenes memiliki klasifikasi yang bervariasi dan dasar klasifikasinya secara umum adalah sebagai berikut : 1. Berdasarkan komponen cendawan yang menyusunnya :
+A. Ascolichens. Cendawan penyusunnya tergolong Pyrenomycetales, maka tubuh buah yang dihasilkan berupa peritesium. Contoh : Dermatocarpon dan Verrucaria. Cendawan penyusunnya tergolong Discomycetes. Lichenes membentuk tubuh buah berupa apothecium yang berumur panjang. Contoh : Usnea dan Parmelia.Dalam Klas Ascolichens ini dibangun juga oleh komponen alga dari famili: Mycophyceae dan Chlorophyceae yang bentuknya berupa gelatin. Genus dariMycophyceae adalah : Scytonema, Nostoc, Rivularia, Gleocapsa dan lainlain. Dari Cholophyceae adalah: Protococcus, Trentopohlia, Cladophora dll.
+151
+
+B. Basidiolichenes Berasal dari jamur Basidiomycetes dan alga Mycophyceae. Basidiomycetes yaitu dari famili : Thelephoraceae, dengan tiga genus Cora, Corella dan Dyctionema. Mycophyceae berupa filamen yaitu : Scytonema dan tidak berbentuk filamen yaitu Chrococcus.
+C. Lichen Imperfect Deutromycetes fungi, steril. Contoh : Cystocoleus, Lepraria, Leprocanlon,Normandia, dll.
+2. Berdasarkan alga yang menyusun thalus :
+A. Homoimerus Sel alga dan hifa jamur tersebar merata pada thallus. Komponen alga mendominasi dengan bentuk seperti gelatin, termasuk dalam Mycophyceae.
+B. Heteromerous Sel alga terbentuk terbatas pada bagian atas thallus dan komponen jamur menyebabkan terbentuknya thallus, alga tidak berupa gelatin Chlorophyceae. Contoh: Parmelia
+Secara umum Taksonomi lichenes menurut Misra dan Agrawal (1978) adalah sebagai berikut :
+Klas : Ascolichens Ordo : Lecanorales Famili:Lichinaceae,Collemataceae, Heppiaceae,
+152
+
+Pannariaceae,Coccocarpiaceae, erltigeraceae,Stictaceae,
+
+Graphidaceae, Thelotremataceae, Asterothyriaceae,
+
+Gyalectaceae,
+
+Lecidaeceae, Stereocaulaceae,
+
+Cladoniaceae, Umbilicariaceae, Lecanoraceae,
+
+Parmeliaceae, Usneaceae, Physciaceae, Theloshistaceae.
+
+Ordo : Sphariales Famili : Pyrenulaceae, Strigulaceae, Verrucariaceae Ordo : Caliciales Famili : Caliciaceae, Cypheliaceae, Sphaephoraceae Ordo : Myrangiales Famili : Arthoniaceae, Myrangiaceae Ordo : Pleosporales Famili : Arthopyreniaceae Ordo : Hysteriales Famili : Lecanactidaceae, Opegraphaceae, Rocellaceae Klas : Basidiolichens Famili : Herpothallaceae, Coraceae, Dictyonamataceae, Thelolomataceae. Klas : Lichens Imperfect Genus : Cystocoleus, Lepraria, Lichenothrix, Racodium.
+
+Gambar. Lichens Imperfect
+
+153
+
+Manfaat lumut kerak bagi kehidupan manusia diantaranya: 1. Dapat dibuat obat contoh : Usnea filipendula (antibiotik) 2. Digunakan sebagai penambah rasa dan aroma (masakan jepang) 3. Pigmen yang dihasilkan dapat dibuat kertas lakmus celup indikator pH 4. Pada daerah bebatuan, lumut kerak dapat melapukan
+bebatuan dan menambah kandungan zat-zat yang dimilikinya. 5. Dapat digunakan sebagai indikator pencemaran
+154
+
+Evaluasi 1. Sebutkan ciri-ciri umum Mikoriza ? 2. Gambarkan struktur endomikoriza dan ektomikoriza 3. Jelaskan bagaimana Peranan menguntungkan dan
+merugikan dari Mikoriza? 4. Sebutkan bagaimana proses perkembangbiakan lichen
+secara umum ? 5. Jelaskan bagaimana pernanan menguntungkan dan
+merugikan dari lichen?
+155
+
+BAB V DIVISI BRYOPHYTA(Tumbuhan Lumut)
+Gambar. Lumut Tumbuhan lumut merupakan sekumpulan
+tumbuhan kecil yang termasuk dalam divisio Bryophyta (dari bahasa Yunani bryum, "lumut"). Bryon= lumut + phyton= ialah tumbuhan lumut yang sering dijumpai di tempet-tempat yang lembab atau basah. Bentuknya merupakan tumbuhan peralihan dari thallus ke bentuk kormus.Tumbuhan ini sudah menunjukkan diferensiasi tegas antara organ penyerap hara dan organ fotosintetik namunbelum memiliki akar dan daun sejati.
+156
+
+Kelompok tumbuhan ini juga belum memiliki pembuluh sejati. Alih-alih akar, organ penyerap haranya adalah rizoid (harafiah: "serupa akar"). Daun tumbuhan lumut dapat berfotosintesis. Tumbuhan lumut merupakan tumbuhan pelopor, yang tumbuh di suatu tempat sebelum tumbuhan lain mampu tumbuh. Ini terjadi karena tumbuhan lumut berukuran kecil tetapi membentuk koloni yang dapat menjangkau area yang luas. Jaringan tumbuhan yang mati menjadi sumber hara bagi tumbuhan lumut lain dan tumbuhan yang lainnya.
+Dalam bahasa sehari-hari, istilah "lumut" dapat merujuk pada beberapa divisio. Klasifikasi lama pun menggabungkan pula lumut hati dan lumut tanduk ke dalam Bryophyta,sehinggaidalam Bryophyta terangkum lumut tanduk, lumut hati, dan lumut sejati (Musci).
+Perkembangan dalam taksonomi tumbuhan menunjukkan bahwa penggabungan ini parafiletik, sehingga diputuskan untuk memisahkan lumut hati dan lumut tanduk ke luar dari Bryophyta. Di dunia terdapat sekitar 4.000 spesies tumbuhan lumut (termasuk lumut hati), 3.000 di antaranya tumbuh di Indonesia[1]. Kebun Raya Cibodas di Jawa Barat memiliki "taman lumut" yang mengoleksi berbagai tumbuhan lumut dan lumut hati dari berbagai wilayah di Indonesia dan dunia.
+Bryophyta merupakan jenis tumbuhan rendah yang pertama beradaptasi dengan lingkungan darat, tidak seperti halnya jamur yang mesti kehilangan khlorofil. Para ahli tertarik dalam mempelajari Bryophyta karena anggotanya memperlihatkan tanda-tanda adaya peralihan dari bentuk thallus ke bentuk kormus.
+157
+
+1 CIRI-CIRI BRYOPHYTHA
+
+Lumut memiliki ciri-cir umum yaitu :
+
+1. Merupakan
+
+tumbuhan
+
+peralihan
+
+antara Thallophyta dan Kormophyta
+
+2. Akar berupa Rhizoid
+
+3. Batang, ada pada lumut daun
+
+4. Daun masih sederhana, tipis, hanya setebal satu
+
+lapis sel
+
+5. Tidak memiliki jaringan pengangkut
+
+( xylem dan floem )
+
+6. Habitat di tempat lembab
+
+7. Sel ­ sel penyusun tubuhnya telah memiliki
+
+dinding sel yang terdiri dari selulosa.
+
+Pada semua tumbuhan yang tergolong dalam
+
+lumut terdapat persaman bentuk susunan
+
+gemetangiumnya (anteridium maupun arkegonium)
+
+terutama susunan arkegoniumnya mempunyai susunan
+
+yang khas yang sering kita jumpai pada tumbuhan paku
+
+(pteridophyta). Batang dan daun pada tumbuhan lumut
+
+yang tegak memiliki susunan yang berbeda-beda jika
+
+batangnya di lihat secara melintang tampak bagian-
+
+bagian sebagai berikut:
+
+a) Selapis sel kulit, beberapa sel di antaranya
+
+memanjang membentuk rizoid-rizoid epidermis.
+
+b) Lapisan kulit dalam yang tersusun atas beberapa
+
+lapisan sel dinamakan korteks.
+
+c) Silindris pusat terdiri dari sel-sel parenkimatik
+
+yang memanjang dan berguna untuk
+
+mengangkutair dan garam-garam mineral
+
+(makanan). Jadi pada tumbuhan lumut belum
+
+terdapat floem maupun xylem.
+
+158
+
+8. Daun limut umumnya setebal satu lapis lapisan sel, kecuali ibu tulang daun, lebih dari satu lapis sel. Selsel daun kecil, smpit panjang dan mengandung kloroplas yang tersusun seperti jala.
+9. Pada tumbuhan lumut hanya terdapat pertumbuhan memanjang dan tidak ada pertumbuhan membesar.
+10.Rizoid tampak seperti rambut / benang-banang, yang berfungsi sebagai akar untuk melekat pada tempat tumbuhannya dan menyerap air serta garam-garam mineral (makanan).
+11.Struktur sapropit (sporongonium) tubuh lumut terdiri atas :
+a) Vaginula, kaki yang terselubungi sisa dinding arkegenium, 2 seta atau tangkai.
+b) Apofisisis, yaitu ujung seta yang agak melebar yang merupakan peralihan antara seta dan kotak spora.
+c) Kaliptra dan tundung, berasak dari dinding arkegenium sebelah atas manjdi tudung kotak spora.
+d) Kolumela, jaringan yang tidak ikut mengambil bagian dalam pembentukan spora. Lumut merupakan tumbuhan darat sejati,
+walaupun masih menyukai tempat yang lembab dan basah. Lumut yang hidup di air jarang kita jumpai, kecuali lumut gambut (sphagnum sp.). Lumut tumbuh di berbagai tempat, yang hidup pada daun-daun disebut sebagai epifil. Jika pada hutan banyak pohon dijumpai epifil maka hutan demikian disebut hutan lumut. Pada lumut, akar yang sebenarnya tidak ada, tumbuhan ini melekata dengan perantaraan Rhizoid (akar semu), olehkaren aitu tumbuhan lumut merupakan bentuk peralihan antara tumbuhan ber-Talus (Talofita) dengan tumbuhan ber-Kormus (Kormofita). Akar dan batang
+159
+
+pada lumut tidak mempunyai pembuluh angkut (xilem dan floem). Lumut adalah tumbuhan yang sudah terbentuk embrio, berspora tapi belum mempunyai akar, batang dan daun. Lumut mengalami metagenesis yaitu terjadinya pergiliran keturunan antara gametofit dan sporofit. Gametofit merupakan tumbuhan lumut itu sendiri dan generasi yang menghasilkan sperma atau ovum, sedang sporofit merupakan generasi yang menghasilkan spora.
+Lumut mempunyai anteridium (sel kelamin jantan) berbentuk seperti gada yang menghasilkan spermsa dan arkhegonium (sel kelamin betina) berbentuk seperti botol yang menghasilkan ovum. Selain pembiakan generatif lumut juga berkembangbiak secara vegetatif yaitu dengan kuncup dan daya regenerasi yang tinggi. Menurut letak gametangia, lumut dibedakan menjadi : 1. Lumut berumah satu : bila anteridium dan
+arkegonium terdapat dalam satu individu. 2. Lumut berumah dua : bila dalam satu individu
+terdapat anteridium dan arkegonium saja.
+2. MORFOLOGI Lumut merupakan tumbuhan darat sejati
+walaupun masih menyukai tempat yang lembab dan basah. Lumut yang hidup di air jarang kita jumpai, kecuali lumut gambut angkut Pada lumut, akar yang sebenarnya tidak ada, tumbuhan ini melekat dengan perantaraan Rhizoid (akar semu), oleh karena itu tumbuhan lumut merupakan bentuk peralihan antara tumbuhan ber-Talus (Talofita) dengan tumbuhan ber-
+160
+
+Kormus (kormofita). Lumut mempunyai klorofil sehingga sifatnya autotrof.
+Lumut tumbuh di berbagai tempat, yang hidup pada daun-daun disebut sebagai epifil. Jika pada hutan banyak pohon dijumpai epifil maka hutan demikian disebut hutan lumut. Struktur lumut dapat dilihat pada gambar 7.2
+Gambar. struktur lumut
+Akar dan batang pada lumut tidak mempunyai pembuluh angkut (xilem dan floem). Pada tumbuhan lumut terdapat Gametangia (alat-alat kelamin) yaitu: Alat kelamin jantan disebut Anteridium yang menghasilkan Spermtozoid, alat kelamin betina disebut Arkegonium yang menghasilkan Ovum. Jika kedua gametangia terdapat dalam satu individu disebut berumah satu (Monoesius). Jika terpisah pada dua individu disebut berumah dua (Dioesius). Gerakan spermatozoid ke arah ovum berupa gerak kemotaksis,
+161
+
+karena adanya rangsangan zat kimia berupa lendir yang dihasilkna oleh sel telur. Sporogonium adalah badan penghasil spora, dengan bagian bagian : Vaginula (kaki), seta (tangkai), apofisis (ujung seta yang melebar). Kotak Spora : kaliptra (tudung) dan kolumela (jaringan dalam kotak spora yang tidak ikut membentuk spora). Spora lumut bersifat haploid.
+3 STRUKTUR SEL Bryophytha memiliki berbagai struktur sel antara
+lain yaitu : Protonema. Spora berkecambah dan menghasilkan sebuah
+protonema. Ini biasanya berserat dan bercabang, tapi dalam beberapa kelompok itu tallose atau besar. Pada beberapa tempat di protonema, sel-sel apikal membedakan dan menghasilkan tunas foliose. Gametophore
+Sel apikal menghasilkan batang dan daun spiral diatur. Batang menghasilkan cabang di beberapa kombinasi arsitektur monopodial dan pucuk. Daun yang tetap, unlobed, dan sering dengan pelepah mengental. pelengkap lain untuk membendung adalah rhizoids multiseluler, rambut ketiak, paraphyllia, pseudoparaphyllia, dan berbagai jenis propagul aseksual. Pola jaringan sel daun dan papila sel daun menyediakan banyak karakter untuk pengaturan sistematis genus dan spesies. Gametangia.
+Archegonia dan antheridia diproduksi dalam kelompok, dengan Parafisa antara mereka, dan
+162
+
+dikelilingi oleh daun perichaetial atau perigonial. dan kondisi seksual dioicous ditemukan di banyak taksa Seta
+Sporophyte terdiri dari kaki, seta dan sebuah sporangium apikal Kaki tertanam dalam puncak batang atau cabang. rincian ultra zona transfer memberikan kesamaan penting dengan tanaman lahan lainnya. seta ini pendek atau memanjang. Ini memiliki sistem konduktif internal yang menghubungkan kaki dan kapsul di kedua ekstrem. Sporangium.
+Sebuah sporangium tunggal atau kapsul berkembang distal dari sporophytetidak bercabang. Sporangium akan terbuka oleh pori apikal, longitudinal terbelah atau paling sering oleh sebuah operkulum Lapisan sel eksternal (exothecium) sering memiliki stomata, terutama di leher. Kedua lapisan konsentris merupakan amphithecium Secara internal, endothecium terdiri dari sebuah silinder jaringan sporogenous, mengelilingi sebuah columnella sel steril. spora Moss adalah uniseluler, kadang-kadang mempertahankan tanda tetrad. Peristome.
+Disebagian besar lumut, puncak dari kapsul (operkulum) jatuh pada saat jatuh tempo dan mengungkapkan struktur yang disebut peristome . Ini adalah sebuah cincin dari segmen segitiga sempit sekitar mulut kapsul. Perubahan kondisi kelembaban menyebabkan gerakan peristome dan memfasilitasi penyebaran spora dalam kondisi kering menguntungkan. Dua jenis dasar peristomes ditemukan dalam lumut
+163
+
+pada tingkat mulut kapsul dan di atas, tiga cincin terdalam sel dari amphithecium yang terlibat dalam pembentukan gigi di taksa paling. Ketiga baris konsentris yang dikenal sebagai "luar", "primer" dan "batin" lapisan peristomial (OPL, PPL, IPL) lumut peristomate Sebagian besar jenis arthrodontous, di mana setiap gigi terdiri dari periclinal (tangensial) sisa-sisa dinding sel antara dua dari tiga lapisan sel konsentris peristomial Jika gigi dibentuk oleh dinding tangensial antara OPL dan PPL, deretan gigi secara kolektif dikenal sebagai exostome tersebut. Dalam kasus kedua, sisa-sisa dinding sel yang berada di antara cincin sel dari PPL dan IPL, sehingga baris segmen dikenal sebagai endostome Jenis mendasar kedua peristome adalah nematodontous, terstruktur oleh kolom sempit sisa-sisa seluruh dinding sel. Masing-masing gigi terdiri dari silinder diaglomerasi dibentuk oleh dinding periclinal dan Anticlinal sel menebal seperti di peristomes Arthrodontous, sel-sel peristomial berasal dari Amphithecium terdalam, tetapi beberapa lapisan peristomial konsentris berkontribusi dalam pembentukan gigi nematodontous.
+4. REPRODUKSI Sepertihalnya tumbuhan lumut reproduksi
+secara seksual (generative)melalui pembentukan sel kelamin jantan dan betina oleh alat ­ alat kelamin(gametogonium). Gametogonium jantan (anteredium) menghasilkan spermatozoid dan gametogonium betina menghasilkan sel telur (ovum). Tumbuhan lumut juga mengalami pergiliran keturunan dalam daur hidupnya. Apa yang dikenal orang sebagai tumbuhan lumut merupakan tahap gametofit
+164
+
+(tumbuhan penghasil gamet) yang haploid (x = n). Dengan demikian, terdapat tumbuhan lumut jantan dan betina karena satu tumbuhan tidak dapat menghasilkan dua sel kelamin sekaligus. Sel-sel kelamin jantan (sel sperma) dihasilkan dari anteridium dan sel-sel kelamin betina (sel telur atau ovum) terletak di dalam arkegonium. Kedua organ penghasil sel kelamin ini terletak di bagian puncak dari tumbuhan. Anteridium yang masak akan melepas sel-sel sperma. Sel-sel sperma berenang (pembuahan terjadi apabila kondisi lingkungan basah) menuju arkegonium untuk membuahi ovum.
+Ovum yang terbuahi akan tumbuh menjadi sporofit yang tidak mandiri karena hidup nya disokong oleh gametofit. Sporofit ini diploid (x = 2n) dan berusia pendek (3-6 bulan untuk mencapai tahap kemasakan). Sporofit akan membentuk kapsula yang disebut sporogonium pada bagian ujung. Sporogonium berisi spora haploid yang dibentuk melalui meiosis. Sporogonium masak akan melepaskan spora. Spora tumbuh menjadi suatu berkas-berkas yang disebut protonema. Berkas-berkas ini tumbuh meluas dan pada tahap tertentu akan menumbuhkan gametofit baru
+Gambar. pergiliran keturunan tumbuhan lumut
+165
+
+Reproduksi lumut bergantian antara seksual dengan aseksualnya, reproduksi aseksualnya dengan
+166
+
+spora haploid yang dibentuk dalam sporofit, sedangkan reproduksi seksualnya dengan membentuk gamet ­ gamet, baik gamet jantan maupun gamet betina yang dibentuk dalam gametofit. Ada 2 macam gametangium , yaitu sebagai berikut : a) Arkegonium adalah gametangium betina yang
+bentuknya seperti botol dengan bagian lebar yang disebut perut, bagian yang sempit disebut leher. b) Anteredium adalah gametangium jantan yang berbentuk bulat seperti gada. Dinding anteredium terdiri dari selapis sel sel yang mandul dan didalamnya terdapat sejumlah sel induk spermatozoid. Cara lumut bereproduksi a) Mengalami metagenesis atau pergiliranketurunan antara fase sporofit dan fase gametofit b) Fase gametofit adalah tumbuhan lumut, enghasilkan gamet, lebih dominan dan hidupnya lebih lama. c) Tumbuhan lumut sel-selnya haploid, sebab tumbuh langsung dari spora.
+167
+
+Gambar. Fase pertumbuhan Lumut a) Fase sporofit adalah sporogonium, menghsilkan
+spora, hidupnya tridak lama. b) Sporogonium sel-selnya diploid, tumbuh dari zigot Gambar. Struktur Metagenesis Lumut
+168
+
+169
+
+Berdasarkan skema daur hidupnya, tampak jelas dalam daur hidup lumut menunjukkan adanya pergiliran keturunan/metagenesis yang jelas. Perhatikan mulai dari spora tumbuh protonema dan seterusnya sampai menghasilkan anteridium dan arkegonium. Fase ini merupakan fase perkembangan yang haploid. Protonema dan lumutnya sendiri adalah gametofit sehingga disebut sebagai fase gametofit. Dari sel telur yang telah dibuahi tumbuh sporogonium dan merupakan fase perkembangan dioloid. Sporogonium ini tidak hidup sendiri, tetapi mendapatkan makanannya dari gametofitnya Sporogonium akan mengalami pembelahan secara reduksi menghasilkan spora, sehingga fase ini disebut sebagai fase sporofit. Demikian seterusnya kedua fase ini akan terjadi secara bergantian.
+7.5 KLASIFIKASI Klasifikasi tumbuhan lumut Dalam tata nama
+utamanaya penamaan berdasarkan binomial nomenklatur bryophyta dapat dituliskan sebagai berikut :
+Kingdom :Plantae Division :Bryophyte Class :Bryopsida Ordo :Dicranles Family :Leucobryaceae Genus :Leucobryum Species :Leucobryum glaucumv
+170
+
+Gambar. Leucobryum glaucum
+Divisio Bryophyta yakni yang disebut tumbuhan lumut. Lumut artinya tumbuhan yang pendek (dekat dengan dasar mediumnya). Bryophyta adalah tumbuhan yang belum memiliki pembuluh angkut. Lawannya yakni Tracheophyta (tumbuhan berpembuluh angkut).
+1. Klas Hepatocopsida / Hepaticae (Lumut Hati) Regnum : Plantae Division : Hepaticophyta Kelas : Hepaticosida Ordo : Hepaticoceales Family : Hepaticoceae Genus : Hepaticopsida Spesies : Hepaticopsid
+171
+
+Gambar. Hepaticopsida
+
+Lumut hati banyak ditemukan menempel di
+
+bebatuan, tanah, atau dinding tua yang lembab. Bentuk
+
+tubuhnya berupa lembaran mirip bentuk hati dan banyak
+
+lekukan. Tubuhnya memiliki struktur yang menyerupai
+
+akar, batang, dan daun. Hal ini menyebabkan banyak
+
+yang menganggap kelompok lumut hati merupakan
+
+kelompok
+
+peralihandari
+
+tumbuhan Thallophyta menuju Cormophyta. Terdapat riz
+
+oid berfungsi untuk menempel dan menyerap zat-zat
+
+makanan. Tidak memiliki batang dan daun. Reproduksi
+
+secara vegetatif dengan membentuk gemma (kuncup),
+
+secara generatif dengan membentuk gamet jantan dan
+
+betina. Tubuhnya terbagi menjadi dua lobus sehingga
+
+tampak seperti lobus pada hati. Siklus hidup lumut ini
+
+mirip dengan lumut daun. Didalam spongaria terdapat
+
+sel yang berbentuk gulungan disebut alatera. Elatera
+
+akan terlepas saat kapsul terbuka, sehingga membantu
+
+172
+
+memencarkan spora. Lumut ini juga dapat melakukan reproduksi dengan cara aseksual dengan sel yang disebut gemma, yang merupakan struktur seperti mangkok dipermukaan gametofit. Tubuhnya masih berupa talus dan mempunyai rhizoid gametofitnya membentuk anteredium dan arkegonium yg berbentuk seperti payung. Sporofit perumbuhannnya terbatas krn tdk mempunyai jaringan meristematik. Berkembang biak secara generatif dengan oogami, dan secara vegetatif dengan fragmentasi, tunas, dan kuncup eram, habitatnya ditempat lembab. Pada tempat-tempat yang basah, untuk struktur tubuh yang himogrof. Pada tempat-tempat yang kering, untuk struktur tubuh yang xeromorf (alat penyimpan air). Sebagai epifit umumnya menempel pada daun-daun pepohonan dalam rimba di daerah tropika. Berdasarkan bentuk talusnya, lumut hati dibagi menjadi 2 kelompok yaitu lumut hati bertalus dan lumut hati berdaun menyerupai talus (dorsiventral), bagian atas dorsal berbeda dengan bagian bawah ventral.
+Alat kelamin terletak pada bagian dorsal talus pada /pada jenis terletak pada bagian terminal, sporogonium sederhana tersusun atas bagian kaki dan kapsul atau kaki tangkai dan kapsul. Mekanisme merakahnya kapsul tidak menentu dan tidak teratur. Seperti pita bercabang menggarpu dan menyerupai rusuk ditengah mempunyai rizoid. Pada rusuk tengah, terdapat badan seperti piala dengan tepi yang bergigi, yang disebut piala eram atau keranjang eram kepala atau mangkok. Kemudian puncup-puncup eram atau tunas yang disebut gema mudah terlepas oleh air hujan protonema lumut hati umumnya hanya berkembang menjadi suatu bulu yang pendek. Sebagian besar lumut
+173
+
+hati mempunyai sel-sel yang mengandung minyak, minyak itu terdapat dalam bentuk yang spesifik kumpulan tetes-tetes minyak aksiri dalam bentuk demikian. Minyak tadi tidak pernah ditemukan pada tumbuhan lain. Tubuh lumut ini tipis, serupa kulit, memipihr ata di atas medium penunjangnya (air tenang atau tanah basah). Lumut banyak terdapat di permukaan dan dasar kolam.Tubuhnya terbagi menjadi dua lobus sehingga tampak seperti lobus pada hati. Siklus hidup lumut ini mirip dengan lumut daun. Didalam spongaria terdapat sel yang berbentuk gulungan disebut alatera. Elatera akan terlepas saat kapsul terbuka , sehingga membantu memencarkan spora. Lumut ini juga dapat melakukan reproduksi dengan cara aseksual dengan sel yang disebut gemma, yang merupakan struktur seperti mangkok dipermukaan gametofit. Peranan Hepatocopsida/Hepaticae (Lumut Hati) a). Fungsi
+Sebagai penyedia tanah bagi tumbuhan yang lebih besar yang tumbuh dipohon karena akarakar lumut dapat menyimpan tanah. Sebagai penyedia makanan bagi hean-hewan kecil dan tanaman lain yang semuanya tersimpan diakar lumut.
+Sebagai sarang hewan-hewan kecil Karen biasanya terdapat celah-celah pada tumbuhan tersebut segingga hewan bias masuk kedalamnya.
+Sebagai penyimpanan air dalam jumlah yang cuk up besar. Lumut menjaga kelembaban udara dan porositas tanah. b). Manfaat
+Lumut dari marga Polythrichum adalah salah satu contoh yang dapat digunakan sebagai penutup media
+174
+
+tanam tanaman hias atau taman dan bahan kasur. Manfaat lainnya, ada lumut yang dipercaya bisa digunakan sebagai bahan obat, meski masih diperlukan penelitian lebih lanjut, termasuk uji klinis. Secara tradisional lumut dari marga Marchantia (lumut hati) yang bentuknya mirip hati, digunakan untuk mengobati penyakit hepatitis. Sementara, lumut spagnum dikenal sebagai obat penyakit kulit dan mata. 2. Kelas Anthocerotopsida / Anthocerotae (Lumut Tanduk) Kingdom : Plantae Division : Antheceroptophyta Class :Antheceroptopsida Ordo :Antheceroptoceales Family :Antheceroptoceae Genus : Antheceroptopsida Species : Antheceroptopsida.sp Gambar Antheceroptopsida.sp
+175
+
+Bentuk tubuhnya seperti lumut hati yaitu berupa talus, tetapi sporofitnya berupa kapsul memanjang. Sel lumut tanduk hanya mempunyai satu kloroplas. Hidup di tepi sungai, danau, atau sepanjang selokan. Reproduksi seperti lumut hati. Mempunyai gametofit lumut hati. Perbedaannya adalah terletak pada sporofit lumut ini mempunyai kapsul memanjang yang tumbuh seperti tanduk dari gametofit, masing ­ masing mempunyai kloroplas tunggal yang berukuran besar, lebih besar dari kebanyakan tumbuhan lumut. Contoh lumut tanduk adalah anthoceros laevis.
+Lumut tanduk sering dijumpai hidup di tepi danau, sungai atau di sepanjang selokan. Lumut ini juga mengalami pergiliran keturunan antara generasi sporofit dan generasi gametofit. Generasi sporofitnya membentuk kapsul memanjang yang tumbuh seperti tanduk.
+Tubuh utama berupa gametofit yang mempunyai talus berbentuk cakram dengan tepi bertoreh, biasanya melekat pada tanah dengan perantara-perantara rizoidrizoid susunan talus masih sederhana, sel-selnya hanya mempunyai suatu kloroplas dengan satu pirunoid besar. Pada sisi bawah talus terdapat stoma dengan dua sel penutup berbentuk ginjal.
+Sporofit umumnya berupa kapsul yang berbentuk silender dengan panjang antara 5-6 cm. pangkal sporofitnya dibungkus dengan selubung dari jaringan gametofit.
+Perkembangbiakan secara seksual, dengan membentuk anteridium dan arkhegonium. Anteridium terkumpul pada suatu lekukan sisi atas talus arkegonium juga terkumpul pada suatu lekukan pada sisi atas talus. Zigot mula-mula membelah menjadi dua sel dengan
+176
+
+suatu dinding pisah melintang. Sel diatas terus membelah yang merupakan sporogenium diikuti oleh sel bagian bawah yang membelah terus-menerus membentuk kaki yang berfungsi sebagai alat penghisap, bila sporogenium masak maka akan pecah seperti buah plongan, menghasilakan jaringan yang terdiri dari beberapa deretan sel-sel mandul yang dinamakan kolum lainin diselubungi oleh sel jaringan yang kemudian menghasilkan spora, yang disebut arkespora. 3. Kelas Bryosida (Lumut Daun) Regnum : Plantae Division : Bryophyta Kelas : Bryopsidas Ordo : Bryopceales Family : Bryopcea Genus : Bryopsida Spesies : Bryopsida sp Gambar : Bryopsida sp
+177
+
+Lumut daun juga disebut lumut sejati. Bentuk tubuhnya berupa tumbuhan kecil dengan bagian seperti akar (rizoid), batang dan daun. Reproduksi vegetatif dengan membentuk kuncup pada cabang-cabang batang. Kuncup akan membentuk lumut baru.
+Lumut daun banyak terdapat ditempat ­ tempat yang lembab, mempunyai struktur seperti akar yang disebut rizoid dan struktur seperti daun.
+Bryopsida adalah kelas yang terbesar di antara anggota Bryophyta lainnya dan paling tinggi tingkat perkembangannya karena baik gametofit maupun sporofitnya sudah mempunyai bagian-bagian yang lebih kompleks. Gametofit dari lumut daun umumnya dibedakan dalam 2 tingkatan yaitu protonema yang terdiri dari benang bercabang-cabang, dan gametafora yang berbatang dan berdaun.Sporogonium dari lumut daun terdiri atas bagian kaki, seta dan kapsul. Selanjutnya bagian kapsul mempunyai bagian-bagian yang dinamakan apofise, kotak spora atau teka, dan tutup atau operculum. Kebanyakan ahli bryologi membagi Bryopsida menjadi 3 anak kelas yaitu Sphagnidae, Andreaeidae, dan Bryidae. Perbedaan dari ketiga anak kelas tersebut terutama terletak pada struktur anatomi sporogoniumnya. Anak kelas Sphagnidae mempunyai ciri-ciri antara lain: protonema berbentuk daun kecil yang terdiri dari satu lapis sel, gametafora pada ujungnya membentuk cabang-cabang sebagai roset yang menyerupai jambul dan tidak mempunyai rizoid.
+Sporofit didukung oleh perpanjangan ujung batang yang namanya pseudopodium. Andreaeidae mempunyai persamaan dengan Sphagnidae dalam hal sporofitnya yang didukung oleh pseudopodium, tetapi
+178
+
+berbeda dalam hal cara membukanya kapsul spora yaitu
+
+dengan membentuk 4 katup. Anggota Bryidae yang
+
+tergolong Stegocarpi mempunyai peristoma pada kapsul
+
+sporanya, didasarkan atas sifat dari peristomanya
+
+Bryidae dibedakan menjadi 2 golongan yaitu
+
+Nematodonteae dan Arthrodonteae. Peristoma adalah
+
+gigi-gigi atau rambut-rambut yang mengelilingi stoma
+
+pada kapsul spora-spora yang dapat mengadakan
+
+gerakan higroskopis, yaitu apabila spora-spora sudah
+
+masak peristoma bergerak membuka ke arah luar hingga
+
+spora dapat keluar. Dalam klasifikasi lumut daun, bentuk
+
+kapsul, jumlah gigi peristom, bentuk operkulum maupun
+
+kaliptra dapat dijadikan dasar penggolongan yang
+
+penting. Protonema sekunder ialah protonema yang tidak
+
+berasal dari perkecambahan spora, biasanya berupa
+
+benang-benang hijau seperti ganggang. Melalui tunas-
+
+tunas yang timbul dari prononema sekunder dapat
+
+terbentuk individu yang lebih banyak.
+
+Tumbuhan sudah menunjukkan diferensiasi tegas
+
+antara organ penyerap hara dan organ fotosintetik namun
+
+belum memiliki akar dan daun sejati. Kelompok
+
+tumbuhan ini juga belum memiliki pembuluh sejati.
+
+Alih-alih akar, organ penyerap haranya adalah rizoid
+
+(harafiah: "serupa akar"). Daun tumbuhan lumut dapat
+
+berfotosintesis.Secara lengkap ciri-ciri yang dimilik
+
+lumut daun yaitu: fase dominannya adalah fase gametofit
+
+akarnya belum berupa akar, masih berupa rhizoid.
+
+Reproduksi vegetatif dengan spora, generatif
+
+dengan
+
+arkegonium
+
+yang menghasilkan ovum dan anteridium yang menghasi
+
+lkan sperma. Mempunyai struktur seperti akar (rizoid)
+
+dan struktur seperti daun.
+
+179
+
+Sporofit pada umumnya lebih kecil, berumur pendek, dan hidup tergantung pada gametofit. Tubuhnya mempunyai struktur yg mirip batang, daun, dan akar, ttpi tdk mempunyai sel/jaringan dan fungsi seperti pada tumbuhan tingkat tinggi. Gametofit dibedakan dengan 2 tingkatan, yaitu protonema yang berbebtuk benang dan gametofora yang berupa tumbuhan lumut sporofitnya terdiri dari bagian seta, apofiksis, kapsul, gigi peristom, dan kaliptra. Spora terdiri 2 lapisan, yaitu endospora dan eksospora, habitatnya pada tempat lembab. Lumut daun dapat tumbuh diatas tanah-tanah gundul yang periodic mengalami masa kekeringan, bahkan diatas pasir yang bergerakpun dapat tumbuh. Selanjutnya lumut-lumut ini dapat juga kita jumpai diantara rumput-rumput, diatas batu-batu cadas, pada batang pohon dan cabang-cabang pohon, dirawa-rawa, tetapi jarang didalam air.Tumbuhan tersusun dari sumbu (batang), daun, dan rizoid multiseluler. Daun tersusun dalam 3 sampai 8 baris. Daun mempunyai rusuk (simetri radial). Sumbu batang pada lumut daun biasanya menunjukkan diferensiasi menjadi epidermis korteks, dan silinder pusat.
+Alat kelamin tubuh pada bagian ujung batang, sporogonium terdiri dari kaki, tangkai dan kapsul. Gigi peristoma terdapat satu atau dua deret melingkari lubang diujung kapsul. Alat-alat kelamin terkumpul pada ujung batang atau pada ujung cabang-cabangnya, dan dikelilingi oleh daun-daun yang letaknya paling atas. Daun-daun tersebut kadang-kadang mempunyai bentuk dan susunan yang khusus seperti pada jungermaniales juga dinamakan periantum. Alat-alat kelamin itu dikatakn bersifat banci atau berumah satu, jika dalam kelompok itu terdapat baik arkogenium dan dinamakn
+180
+
+berumah dua jika kumpulan arkegonium dan anteredium terpisah tempatnya. Diantara alat-alat kelamin dalam kelompok itu biasanya terdapat sejumlah rambut-rambut yang terdiri dari banyak sel dan dapat mengeluarkan suatu cairan. Seperti pada tubuh buah fungi rambutrambut steril itu dinamakan parafisis. Peranan Bryosida (Lumut Daun) a) Fungsi
+Memiliki peran dalam ekosistem sebagai penyedia oksigen, penyimpan air (karena sifat selnya yang menyerupai spons). Digunakan sebagai ornament tata ruang, spagnum sebagai pembalut atau pengganti kapass, jika spagnum ditambahkan ke tanah dapat menyerap air dan menjaga kelembaban tanah. b) Manfatat
+Lumut ini bisa digunakan sebagai bahan obat, meski masih diperlukan penelitian lebih lanjut, termasuk uji klinis. Secara tradisional lumut dari marga Usnea dipakai untuk obat diare atau sakit perut dengan cara direbus. Sementara dari marga lumut sphagnum dik enal sebag obat penyakit kulit dan mata.
+6. PERANAN TUMBUHAN LUMUT SECARA UMUM a) Fungsi
+Tumbuhan lumut memiliki peran dalam ekosistem yaitu :
+Sebagai penyedia oksigen, penyimpan air (karena sifat selnya yang menyerupai spons), dan sebagai penyerap polutan, sebagai penyedia tanah bagi tumbuhan yang lebih besar yang tumbuh dipohon karena akar-akar lumut dapat menyimpan tanah, sebagai penyedia
+181
+
+makanan bagi hean-hewan kecil dan tanaman lain yang semuanya tersimpan diakar lumut, sebagai sarang hewan-hewan kecil karena biasanya terdapat celah-celah pada tumbuhan tersebut sehingga hewan bisa masuk kedalamnya, sebagai penyimpanan air dalam jumlah yang cukup besar, lumut menjaga kelembaban udara dan porositas tanah. b) Manfaat
+Lumut dari marga Polythrichum adalah salah satu contoh yang dapat digunakan sebagai penutup media tanam tanaman hias atau taman dan bahan kasur. Manfaat lainnya, ada lumut yang dipercaya bisa digunakan sebagai bahan obat, meski masih diperlukan penelitian lebih lanjut, termasuk uji klinis. Secara tradisional lumut dari marga Marchantia (lumut hati) yang bentuknya mirip hati, digunakan untuk mengobati penyakit.
+182
+
+Evaluasi 1. Sebutkan ciri-ciri umum dari Lumut ? 2. Jelaskan klasifikasi lumut secara umum beserta ciri-
+cirinya dan contoh spesies? 3. Jelaskan bagaimana Peranan menguntungkan dan
+merugikan dari lumut ? 4. Jelaskan bagaimanakah fase pertumbuhan lumut
+beserta gambar ? 5. Jelaskan bagaimana struktur sporogonium lumut?
+183
+
+BAB VI PTERIDOPHYTA
+Merupakan golongan tumbuhan yang telah berkosmus (mempunyai akar , batang dan daun). 1. CIRI ­ CIRI TUMBUHAN PAKU
+Memiliki 4 struktur penting,yaitu lapisan pelindung sel (jaket steril)yang terdapat disekeliling organ reproduksi, embrio multiseluler yang terdapat dalam arkegonium, kutikula pada bagian luar , dan yang paling penting adalah sistem transport internal yang mengangkut air dan zat makanan dari dalam tanah.
+184
+
+Sistem transport ini sama baiknya seperti pengorganisasian transport air dan zat makanan pada tumbuhan tingkat tinggi. 2. STRUKTUR TUBUH 1) Akar
+Bersifat seperti akar serabut, ujungnya dilindungi kaliptra yang terdiri atas sel ­ sel yang dapat dibedakan dengan sel ­ sel akarnya sendiri. 2) Batang
+Pada sebagian jenis tumbuhan paku tidak tampak karena terdapat di dalam tanah berupa rimbang , mungkin menjalar atau sedikit tegak. Jika muncul di atas permukaan tanah, batangnya sangat pendek sekitar 0,5 m. akan tetapi ada batang beberapa jenis tumbuhan paku seperti paku pohon /paku tiang yang panjangnya mencapai 5 m dan kadang ­ kadang bercabang misalnya: Alsophilla dan Cyathea. 3) Daun
+Daun selalu melingkar dan menggulung pada usia muda . berdasarkan bentuk ukuran dan susunanya, daun paku dibedakan antara epidermis, daging daun, dan tulang daun. a) Mikrofil
+Daun ini berbentuk kecil ­ kecil seperti rambut atau sisik, tidak bertangkai dan tidak bertulang daun, belum memperlihatkan diferensiasi sel, dan tidak dapat dibedakan antara epidermis, daging daun dan tulang daun. b) Makrofil
+Merupakan daun yang bentuknya besar, bertangkai dan bertulang daun, serta bercabang­cabang. Sel ­ sel penyusunnya telah memperlihatkan
+185
+
+diferensiasi, yaitu dapat dibedakan antara jaringan tiang, jaringan bunga karang, tulang daun, serta stomata (mulut daun)
+Gambar : Susunan Sporangium dan Bagian-bagian Tumbuhan Paku
+Daun paku tumbuh dari percabangan tulang daun yang disebut frond, dan keseluruhan daun dalam satu tangkai daun disebut pinna. Jika diperhatikan pada permukaan bagian daun (frond) terdapat bentuk berupa titik-titik hitam yang disebut sorus, dalam sorus terdapat kumpulan sporangia yang merupakan tempat atau wadah dari spora. Gambar dibawah ini menunjukkan sporangia yang tergabung dalam struktur sorus (jamak sori).
+186
+
+Gambar : Bentuk daun paku
+Tidak semua daun paku memiliki sorus (sori), daun paku yang memiliki sorus merupakan daun fertil yang disebut daun sporofil, daun paku yang tidak memiliki sorus disebut daun steril. Daun ini banyak mengandung klorofil dan banyak dimanfaatkan untuk proses fotosintesis. Daun ini disebut daun tropofil. Ditinjau dari fungsinya , daun tumbuhan paku dibedakan atas: 1. Tropofil
+Merupakan daun yang khusus untuk fotosintesis. 2. Sporofil
+187
+
+Daun ini berfungsi untuk menghasilkan spora. Tetapi daun ini juga dapat melakukan fotosintesis, sehingga disebut pula sebagai troposporofil.
+Adapun struktur sorus adalah bagian luar dari sorus berbentuk selaput tipis yang disebut indusium. Bagian dalam sorus terdapat kumpulan sporangium yang di dalamnya berisi ribuan spora. Jika daun sporofil (daun fertil) diletakkan di atas permukaan kertas polos, maka bentuk spora akan terlihat seperti serbuk bedak berwarna hitam, coklat, kemerahan, kuning atau hijau tergantung jenis tumbuhan pakunya. Masing-masing spora akan tumbuh menjadi paku dewasa melalui proses yang kompleks.
+3.REPRODUKSI Reproduksi tumbuhan ini dapat secara aseksual
+(vegetative), yakni dengan stolon yang menghasilkan gemma (tunas). Gemma adalah anakan pada tulang daun atau kaki daun yang mengandung spora.
+Reproduksi secara seksual (generative) melalui pembentukan sel kelamin jantan dan betina oleh alat ­ alat kelamin (gametogonium). Gametogonium jantan (anteredium) menghasilkan spermatozoid dan gametogonium betina menghasilkan sel telur (ovum). seperti halnya tumbuhan lumut , tumbuhan paku mengalami metagenesis(pergiliran keturunan).
+188
+
+Gambar 8.4 : Siklus hidup Paku Sejati
+Ditinjau dari macam spora yang dihasilkan , tumbuhan paku dapat di bedakan menjadi tiga golongan seperti berikut ini. 1) Paku Homospora (isospora)
+Menghasilkan satu jenis spora , misalnya Lycopodium (paku kawat). Spora dari paku ini dikenal sebagai 'lycopodium powder' yang dapat meledak di udara apabila terkumpul dalam jumlah cukup banyak dan pada jaman dulu digunakan sebagai lampu kilat untuk pemotretan.
+189
+
+2) Paku Heterospora Menghasilkan dua jenis spora yang berlainan;
+yaitu mikrospora berkelamin jantan dan makrospora (mega spora) berkelamin betina, misalnya : Marsilea(semanggi), Selaginella (paku rane).
+190
+
+3) Paku Peralian
+
+Paku ini merupakan peralihan antara homospora
+
+dengan heterospora, yaitu paku yang menghasilkan spora
+
+yang bentuk dan ukurannya sama tetapi berbeda jenis
+
+kelaminnya, satu berjenis kelamin jantan dan lainnya
+
+berjenis
+
+kelamin
+
+betina,
+
+misalnya
+
+Equisetum debile (paku ekor kuda).
+
+191
+
+4.HABITAT TUMBUHAN PAKU Habitatnya di darat, terutama pada lapisan bawah
+tanah didataran rendah , tepi pantai , lereng gunung , 350 meter diatas permukaan laut terutama di daerah lembab, dan ada juga yang bersifat epifit (menempel) pada tumbuhan lain. Adapun faktor-faktor yang mempengaruhi pertumbuhan paku : · kadar air dalam tanah · kadar air dalam udara · Kandungan hara mineral dalam tanah
+192
+
+· kadar cahaya untuk fotosintesis
+
+· Suhu yang optimal
+
+· Perlindungan dari angin
+
+· perlindungan dari cahaya yang terlalu kuat.
+
+Tidak semua faktor tersebut berpengaruh, tapi
+
+tergantung
+
+pada
+
+jenis
+
+tumbuhan
+
+pakunya. Survive tidaknya suatu tumbuhan paku di suatu
+
+areal tergantung dari ketahanan gametofitnya, apakah
+
+akan berkembang secara alami di lingkungannya atau
+
+tidak.
+
+Seperti tanaman tingkat tinggi, tumbuhan paku
+
+tumbuh lingkungannya masing-masing (biasanya tempat
+
+lembab). beberapa paku dapat bertahan hidup di daerah
+
+yang ekstrim seperti lingkungan kering dan panas.
+
+Beberapa jenis paku dapat tumbuh di daerah gurun.
+
+Tumbuhan paku meletakkan dirinya tepat sesuai
+
+dengan nitchenya, tanah yang lembab, udara yang
+
+lembab, intensitas cahaya dan sebagainya. Jarang
+
+tumbuhan paku hidup diluar nitchenya. Jika anda ingin
+
+menumbuhkembangkan paku, maka anda harus
+
+menciptakan lingkungan yang sesuai sehingga tumbuhan
+
+paku tumbuh dan berkembang dengan optimal.
+
+5. PERANAN Dibawah ini adalah beberapa tumbuhan paku
+yang bermanfaat bagi manusia diantaranya adalah; 1. Penghasil obat ­ obatan misalnya: Aspidium sp,
+Dryopteris filix mas, danLycopodium clavatum. 2. Sebagai sayuran , misalnya semanggi (marsilea crenata)
+dan pteridium aqualium 3. Sebagai bahan pupuk hijau , misalnya Azolla piñata,
+
+193
+
+4. Dipelihara sebagai tanaman hias, misalnya paku tanduk rusa (Platycerium bifurcatum), paku sarang burung (Asplenium sp), suplir (Adiantum sp) dan paku rane (Selaginella sp)
+5. Sebagai salah satu bahan dalam pembuatan karangan bunga, misalnyaLycopodium cernuum.
+6.KLASIFIKASI TUMBUHAN PAKU Dibagi menjadi 4 subdivisi, yaitu Psilopsida,
+Lycophyta, Sphenophyta dan Pterophyta. 1). Paku Purba (Psilopsida)
+Tumbuhan paku purba yang masih hidup saat ini diperkirakan hanya tinggal 10 spesies sampai 13 spesies dari dua genus. Paku purba hidup di daerah tropis dan subtropis. Sporofit paku purba ada yang tidak memiliki akar sejati dan tidak memiliki daun sejati.
+Paku purba yang memilki daun pada umumnya berukuran kecil (mikrofil) dan berbentuk sisik. Batang paku purba bercabang dikotomi dengan tinggi mencapai 30 cm hingga 1 m. Paku purba juga tidak memiliki pembuluh pengangkut. Batang paku purba mengandung klorofil sehingga dapat melakukan fotosintesis. Cabang batang mengandung mikrofil dan sekumpulan sporangium yang terdapat di sepanjang cabang batang. Sporofil paku purba menghasilkan satu jenis spora (homospora). Gametofitnya tidak memiliki klorofil dan mengandung anteridium dan arkegonium. Gametofit paku purba bersimbiosis dengan jamur untuk memperoleh nutrisi. Contoh tumbuhan paku purba yaitu paku purba tidak berdaun (Rhynia) dan paku purba berdaun kecil (Psilotum).
+194
+
+2). Paku Kawat (Lycopsida)
+
+Paku kawat mencakup 1.000 spesies tumbuhan
+
+paku, terutama dari genusLycopodium dan Selaginella.
+
+Paku kawat banyak tumbuh di hutan-hutan daerah tropis
+
+dan subtropis. Paku kawat menempel di pohon atau
+
+hidup bebas di tanah. Anggota paku kawat memiliki
+
+akar, batang, dan daun sejati. Daun tumbuhan paku
+
+kawat berukuran kecil dan tersusun rapat. Sporangium
+
+terdapat pada sporofil yang tersusun membentuk
+
+strobilus pada ujung batang. Strobilus berbentuk kerucut
+
+seperti konus pada pinus. Oleh karena itu paku kawat
+
+disebut juga pinus tanah. Pada paku rane (Selaginella)
+
+sporangium terdiri dari dua jenis, yaitu mikrosporangium
+
+dan megasporangium. Mikrosporangium terdapat pada
+
+mikrosporofil
+
+(daun
+
+yang
+
+mengandung
+
+mikrosporangium). Mikrosporangium menghasilkan
+
+mikrospora yang akan tumbuh menjadi gametofit jantan.
+
+Megasporangium terdapat pada megasporofil (daun yang
+
+mengandung megasporangium). Megasporangium
+
+menghasilkan megaspora yang akan tumbuh menjadi
+
+gametofit betina.
+
+Gametofit paku kawat berukuran kecil dan tidak
+
+berklorofil. Gametofit memperoleh makanan dari jamur
+
+yang bersimbiosis dengannnya. Gemetofit paku kawat
+
+ada yang uniseksual, yaitu mengandung anteridium saja
+
+atau arkegonium saja. Gametofit paku kawat juga ada
+
+yang biseksual, yaitu mengandung anteridium dan
+
+arkegonium. Gametofit uniseksual terdapat
+
+pada Selaginella. Selaginella merupakan tumbuhan paku
+
+heterospora sedangkan gametofit biseksual terdapat pada
+
+Lycopodium.
+
+195
+
+Gambar : Lycopodium sp,
+
+3). Paku Ekor Kuda (Sphenopsida)
+
+Paku ekor kuda saat ini hanya tinggal sekitar 25
+
+spesies
+
+dari
+
+satu
+
+genus,
+
+yaituEquisetum. Equisetum terutama hidup pada habitat
+
+lembab di daerah subtropis. Equisetum yang tertinggi
+
+hanya mencapai 4,5 m sedangkan rata-rata
+
+tinggiEquisetum kurang dari 1 m. Equisetum memiliki
+
+akar, batang, dan daun sejati. Batangnya beruas dan pada
+
+setiap ruasnya dikelilingi daun kecil seperti
+
+sisik.Equisetum disebut paku ekor kuda karena bentuk
+
+batangnya seperti ekor kuda. Batangnya yang keras
+
+disebabkan dinding selnya mengandung silika.
+
+196
+
+Sporangium terdapat pada strobilus. Sporangium menghasilkan satu jenis spora, sehingga Equisetum digolongkan pada tumbuhan paku peralihan. Gametofit Equisetum hanya berukuran beberapa milimeter tetapi dapat melakukan fotosintesis. Gametofitnya mengandung anteridium dan arkegonium sehingga merupakan gametofit biseksual.
+Gambar. Equisetum debile
+4). Paku Sejati (Pteropsida) 197
+
+Gambar : Marsilea crenata
+Paku sejati mencakup jenis tumbuhan paku yang paling sering kita lihat. Tempat tumbuh paku sejati sebagian besar di darat pada daerah tropis dan subtropis. Paku sejati diperkirakan berjumlah 12.000 jenis dari kelas Filicinae. Filicinae memiliki akar, batang, dan daun sejati. Batang dapat berupa batang dalam (rizom) atau batang di atas permukaan tanah. Daun Filicinae umumnya berukuran besar dan memiliki tulang daun bercabang. Daun mudanya memiliki ciri khas yaitu tumbuh menggulung (circinnatus). Jenis paku yang termasuk paku sejati yaitu Semanggi (Marsilea crenata),
+198
+
+Paku tanduk rusa (Platycerium bifurcatum), paku sarang burung (Asplenium nidus), suplir (Adiantum cuneatum), Paku sawah (Azolla pinnata), danDicksonia antarctica..
+Berikut adalah klasifikasi lengkap menurut Smith et al. (2006): Kelas Psilotopsida Bangsa Ophioglossales Suku Ophioglossaceae (termasuk Botrychiaceae, Helminthostachyaceae) Bangsa Psilotales Suku Psilotaceae (termasuk Tmesipteridaceae) Kelas Equisetopsida [=Sphenopsida] Bangsa Equisetales Suku Equisetaceae Kelas Marattiopsida Bangsa Marattiales Suku Marattiaceae (termasuk Angiopteridaceae, Christenseniaceae, Danaeaceae, Kaulfussia ceae) Kelas Polypodiopsida [=Filicopsida, Pteridopsida] Bangsa Osmundales Suku Osmundaceae Bangsa Hymenophyllales Suku Hymenophyllaceae (termasuk Trichomanaceae) Bangsa Gleicheniales Suku Gleicheniaceae (termasuk Dicranopteridaceae, Stromatopteridaceae) Suku Dipteridaceae (termasuk Cheiropleuriaceae) Suku Matoniaceae Bangsa Schizaeales Suku Lygodiaceae Suku Anemiaceae (termasuk Mohriaceae)
+199
+
+Suku Schizaeaceae Bangsa Salviniales Suku Marsileaceae (termasuk Pilulariaceae) Suku Salviniaceae (termasuk Azollaceae) Bangsa Cyatheales Suku Thyrsopteridaceae Suku Loxomataceae Suku Culcitaceae Suku Plagiogyriaceae Suku Cibotiaceae Suku Cyatheaceae (termasuk Alsophilaceae, Hymenophy llopsidaceae) Suku Dicksoniaceae (termasuk Lophosoriaceae) Suku Metaxyaceae Bangsa Polypodiales Suku Lindsaeaceae (termasuk Cystodiaceae, Lonchitidaceae) Suku Saccolomataceae Suku Dennstaedtiaceae (termasuk Hypolepidaceae, Monachosoraceae, Pteridiaceae) Suku Pteridaceae (termasuk Acrostichaceae, Actiniopteridaceae, Adiantaceae Anopteraceae, Antrophyaceae, Ceratopteridaceae, Cheilanthaceae, Cryptogrammaceae,Hemionitidaceae, Negripteridaceae, Parkeriaceae, Platyzomataceae, Sinopteridaceae, Taenitidaceae, Vittariaceae) Suku Aspleniaceae Suku Thelypteridaceae Suku Woodsiaceae (termasuk Athyriaceae, Cystopteridaceae) Suku Blechnaceae (termasuk Stenochlaenaceae) Suku Onocleaceae
+200
+
+Suku Dryopteridaceae (termasuk Aspidiaceae,
+
+Bolbitidaceae, Elaphoglossacea, Hypodematia ceae,
+
+Peranemataceae)
+
+Suku Lomariopsidaceae (termasuk Nephrolepidaceae)
+
+Suku Oleandraceae
+
+Suku Davalliaceae
+
+Suku Polypodiaceae (termasuk Drynariaceae,
+
+Grammitidaceae,
+
+Gymnogrammitidaceae,
+
+Loxogrammaceae,
+
+Platyceriaceae,
+
+Pleurisoriopsidaceae).
+
+No Ciri-ciri 1 Ukuran
+2 Struktur tubuh
+3 Jaringan pembuluh
+4 Fase dominan
+
+Bryophyta Sangat kecil, biasanya tidak lebih dari 15 cm. Memiliki rizoid, berdaun sisik, dan tidak memiliki batang.
+Tidak ada Fase gametofit
+
+Pteridophtya
+Biasanya mencapai 1 m,beberapa dapat mencapai 12 cm. Memiliki akar, batang dan daun sejati
+Ada yaitu xilem dan floem
+Fase sporofit
+
+5 Fase Sporofit
+
+Sporogonium Tumbuhan Paku
+
+Tumbuhan
+
+6 Fase Gametofit Lumut
+
+Protalium
+
+7 Tumbuhan dewasa Berupa
+
+Berupa sporofit
+
+gametofit
+
+8 Gametofit dewasa Talus
+201
+
+Protalus,
+
+tidak
+
+sederhana
+
+menarik, hidup
+
+hidup
+
+bebas dan dapat
+
+bebas dan berfotosintesis
+
+dapat
+
+berfotosintesis,
+
+memiliki
+
+rizoid dan
+
+struktur seperti
+
+daun.
+
+9 Sporofit dewasa Tergantung Bentuk yang
+
+pada
+
+menonjol.Memiliki
+
+gametofit,
+
+akar, batang
+
+mempunyai dan daun sejati
+
+kapsul, seta
+
+dan kaki
+
+202
+
+Evaluasi 1. Sebutkan ciri-ciri umum dari Paku? 2. Berdasarkan keberadaan spora terdapat 3 jenis paku,
+jelaskan perbedaannya ? 3. Jelaskan bagaimana Peranan menguntungkan dan
+merugikan dari alga merah? 4. Sebutkan bagaimana ciri habitat tumbuhan paku ? 5. Jelaskan bagaimana peranan tumbuhan paku bagi
+kehidupan ?
+BAB VII 203
+
+SUMBER BUKTI TAKSONOMI
+1. Peranan Sumber Bukti Taksonomi Sifat dan ciri taksonomi sangat penting sebagai
+sumber bukti taksonomi untuk memecahkan berbagaipermasalahan taksonomi. Sifat-sifat yang dipakai sebagai bukti taksonomi dalam mendeterminasi,mencirikan dan menggolongkan jenis-jenis tumbuhan dapat berasal dari seluruh bagian dan darisemua fase serta proses pertumbuhan tumbuhan itu.
+2. Beberapa Sumber Bukti Taksonomi Berikut ini akan diungkapkan beberapa cabang
+biologi yang dapat dijadikan sebagai sumber buktitaksonomi: 1. Morfologi
+Data morfologi hingga sekarang masih tetap dipakai karena mudah diamati dan praktis digunakanuntuk kunci determinasi. Sifat yang mantap pada data morfologi adalah organ generative bunga danbuah. Data morfologi berupa organ vegetatif yang sering dipakai antara lain: habit, akar banir,penyebaran bulu pada bagian-bagian tumbuhan. Data morfologi sering menunjukkan caracaratumbuhan tersebut mengadaptasikan diri dengan lingkungannya dan evolusinya.Penggunaan: Melastomataceae ditentukan berdasarkan bentuk morfologi daunnyaCucurbitaceae ditentukan berdasarkan sulurnya. 2. Embriologi
+204
+
+Banyak macam data embriologi yang digunakan
+
+untuk memecahkan masalah taksonomi. Datatersebut
+
+berasal dari beberapa sumber baik yang berkaitan
+
+dengan struktur maupun proses,seperti: kepala sari,
+
+gametofit jantan, gametofit betina, bakal biji,
+
+pembuahan, endosperma, kulitbiji, apomiksis dan
+
+poliembrio. Pembagian utama Dikotil dan Monokotil
+
+didasarkan pada satusifat embrio (lembaga), tapi
+
+untuk taksa rendah masih jarang digunakan.
+
+3. Anatomi
+
+Dalam
+
+mendeterminasi,
+
+menunjukkan
+
+kecondongan evolusi atau kekerabatan secara
+
+filogeni.Data anatomi ini banyak digunakan untuk
+
+mendeterminasi kayu-kayu ekonomis.Beberapa
+
+contoh pemakaian data anatomi dalam taksonomi:
+
+- Orang menyimpulkan keprimitifan suku-suku
+
+Ranales diperkuat dengan tidak adanyapembuluh
+
+tapis; sifat ini juga dimiliki Gymnospermae dan
+
+Pteridophyta.
+
+- Susunan sel pelindung stomata berbeda-beda dan
+
+mantap untuk marga atau di atasnya.
+
+- Kerapatan stomata bisa membantu sampai jenis
+
+- Anatomi bunga; adanya bekas-bekas ikatan
+
+pembuluh meski bunga tereduksi, sehinggaorang
+
+dapat membuktikan adanya bekas-bekas mahkota
+
+pada Fagaceae, sehingga memperkuatdugaan bahwa
+
+suku tersebut dan sebangsanya mempunyai bunga
+
+yang tidak primitif.
+
+4. Palinologi
+
+Palinologi adalah studi tentang serbuk sari dan
+
+spora. Serbuk sari menjadi sumberr taksonomiyang
+
+penting. Variasi yang diperlihatkan serbuk sari antara
+
+205
+
+lain adalah jumlah dan letak alur danlubang di permukaannya, bentuk ukiran eksin (lapisan luar serbuk sari) serta bentuk umum dan ukurannya. Serbuk sari bisa khas untuk jenis, marga atau suku. 5. Sitologi
+Sitologi adalah ilmu tentang seluk beluk sel. Meskipun istilah sitologi menyangkut semua aspeksel, namun bila dikaitkan dengan taksonomi, pembahasan difokuskan pada kromosom danberbagai atributnya. Berbagai data kromosom yang digunakan untuk tujuan taksonomi, yaitu: jumlah, ukuran dan bentuk, perilaku pada waktu meiosis: diambil kariotipe (keadaan kromosom pada tingkat metaphase dalam proses mitosis), meliputi ukuran panjang kromosom, letaksentromer, ada tidaknya satelit. - Ukuran kromosom mantap untuk jenis - Jumlah kromosom semua individu yang tergolong satu jenis itu umumnya sama, kecuali dalam beberapa jenis tertentu. Secara garis besar terdapat tiga macam jumlah kromosom: 1. Sama untuk seluruh anggota golongan, misalnya Pinus ® seluruh jenisnya mempunyai n = 12 2. Kelipatan jumlah kromosom sehingga terjadi deret poliploidi pada anggota suatu golongantumbuhan, misalnya Taraxacum (Compositae): 2n = 16, 24, 32, 40, 48,. Dalam deret ini 8merupakan jumlah dasar. 3. Jumlah kromosom tidak beraturan disebut aneuploid, misalnya Brassica: n = 6, 7, 8, 9, atau 10 6. Fisiologi
+206
+
+Data-data fisiologi tidak dipakai secara
+
+langsung untuk keperluan bukti-bukti taksonomi.
+
+Musimberbunga, keperluan cahaya, pola perkawinan,
+
+penyebaran
+
+geografis
+
+penting
+
+untuk
+
+mempertegasperbedaan jenis-jenis tumbuhan.
+
+7. Fitokimia
+
+- Penggolongan ganggang didasarkan pada pigmen
+
+dalam plastidanya serta susunan kimiasenyawa
+
+cadangan makanan.
+
+- Adanya kandungan morfin dalam Papaver
+
+- Cadangan pati, bukti penguat anggota Gramineae
+
+- Kristal kalsium oksalat (rapid): membantu dalam
+
+penyusunan klasifikasi Rubiaceae,Liliaceae dan
+
+Compositae serta kekerabatan antara cactaceae
+
+dengan anggota Centrosperma
+
+8. Penyebaran geografis
+
+- Memegang peranan penting dalam menentukan
+
+apakah suatu kelompok populasi perludiperlakukan
+
+sebagai jenis tersendiri atau cukup sebagai sub
+
+spesies, varietas atau forma.
+
+- Erat hubungannya dengan factor ekologi yang
+
+menentukan beberapa sifat biologi
+
+- Mempelajari asal usul, sejarah perkembangan dan
+
+evolusi takson
+
+- Dengan peta penyebaran, setiap jenis dapat
+
+diselidiki daerah paling banyak jumlah jenisdan
+
+paling besar variasi ciri-cirinya yang dianggap
+
+sebagai pusat keanekaragaman dan seringdianggap
+
+tempat asal evolusi takson itu.
+
+207
+
+3. TEKNIK PEMBUATAN HERBARIUM a. Definisi Dan Fungsi Herbarium
+Herbarium berasal dari kata "hortus dan botanicus", artinya kebun botani yang dikeringkan. Secara sederhana yang dimaksud herbarium adalah koleksi spesimen yang telah dikeringkan,biasanya disusun berdasarkan sistim klasifikasi. Fungsi herbarium secara umum antara lain: 1. Sebagai pusat referensi; merupakan sumber utama
+untuk identifikasi tumbuhan bagi para ahlitaksonomi, ekologi, petugas yang menangani jenis tumbuhan langka, pecinta alam, para petugasyang bergerak dalam konservasi alam. 2. Sebagai lembaga dokumentasi® merupakan koleksi yang mempunyai nilai sejarah, seperti tipedari taksa baru, contoh penemuan baru, tumbuhan yang mempunyai nilai ekonomi dan lain-lain. 3. Sebagai pusat penyimpanan data ® ahli kimia memanfaatkannya untuk mempelajari alkaloid,ahli farmasi menggunakan untuk mencari bahan ramuan untuk obat kanker, dan sebagainya.
+b. Cara Mengkoleksi Tumbuhan Persiapan koleksi yang baik di lapangan
+merupakan aspek penting dalam praktek pembuatan herbarium. Spesimen herbarium yang baik harus
+memberikan informasi terbaik mengenai tumbuhantersebut kepada para peneliti. Dengan kata lain, suatu koleksi tumbuhan harus mempunyai seluruhbagian tumbuhan dan harus ada keterangan yang memberikan seluruh informasi yang tidak Nampak pada spesimen herbarium. Hal-hal yang
+208
+
+perlu diperhatikan dalam mengkoleksi tumbuhan antara lain: a. Perlengkapan
+Beberapa perlengkapan yang diperlukan untuk mengkoleksi tumbuhan di lapangan antaralain: gunting tanaman, buku catatan, label, pensil, lensa tangan, Koran bekas, penekan/penghimpit,tali pengikat, vasculum, kantong plastik, alkohol, kantong kertas (untuk cryptogamae, buah dan biji),peta, kamera dan sebagainya. b. Apa yang dikoleksi: 1. Tumbuhan kecil harus dikoleksi seluruh organnya 2. Tumbuhan besar atau pohon, dikoleksi sebagian cabangnya dengan panjang 30-40 cm yangmempunyai organ lengkap: daun (minimal punya 3 daun untuk melihat phylotaksis), bungadan buah, diambil dari satu tumbuhan. Untuk pohon yang sangat tinggi, pengambilan organgeneratifnya bisa dilakukan dengan galah, ketapel atau menggunakan hewan, misalnya beruk. 3. Untuk pohon atau perdu kadang-kadang penting untuk mengkoleksi kuncup (daun baru)karena kadangkadang stipulanya mudah gugur dan brakhtea sering ditemukan hanya padabagian-bagian yang muda. 4. Tumbuhan herba dikoleksi seluruh organnya kecuali untuk herba besar seperti Araceae. 5. Koleksi tumbuhan hidup; dianjurkan untuk ditanam di kebun botani dan rumah kaca. Contoh: - Epifit, anggrek® akarnya dibungkus dengan lumut, akar-akar paku, serat kelapa - Biji-biji tumbuhan air disimpan dalam air - Biji-biji kapsul kering jangan diambil dari kapsulnya.
+209
+
+c. Catatan lapangan
+
+Catatan lapangan segera dibuat setelah
+
+mengkoleksi tumbuhan, berisi keterangan-keterangan
+
+tentangciri-ciri tumbuhan tersebut yang tidak terlihat
+
+setelah spesimen kering. Beberapa keterangan
+
+yangharus dicantumkan antara lain: lokasi, habitat,
+
+habit, warna (bunga, buah), bau, eksudat,
+
+pollinator(kalau ada), pemanfaatan secara lokal, nama
+
+daerah dan sebagainya.
+
+d. Pengeringan spesimen
+
+Setelah dilabel (etiket gantung) koleksi dimasukkan
+
+ke dalam lipatan kertas koran ® dimasukkan
+
+kekantong plastik ® disiram dengan alkohol 70 %
+
+hingga basah® dikeringkan. Pengeringan
+
+dapatdilakukan dengan beberapa cara yaitu: panas
+
+matahari, menggunakan kayu bakar, arang dan
+
+denganlistrik.
+
+e. Proses pengeringan:
+
+- 5-10 spesimen diapit dengan penekan atau sasak
+
+ukuran 45 x 35 cm. Untuk specimen yangbanyak,
+
+bisa digunakan karton atau aluminium
+
+berombak/beralur
+
+untuk
+
+mengapit
+
+specimensehingga tidak perlu mengganti-ganti
+
+kertas Koran, diletakkan vertikal.
+
+- Buah-buah besar dipisah, dimasukkan ke dalam
+
+kantong, beri label dan keringkan terpisah.
+
+- Tumbuhan yang sangat lunak dimasukkan ke dalam
+
+air mendidih beberapa menit untukmembunuh
+
+jaringan dan mempercepat pengeringan.
+
+- Dibalik-balik secara teratur, kertas diganti beberapa
+
+kali terutama hari pertama, kalauspecimen sudah
+
+210
+
+kaku lebih ditekan lagi- 1,5-2 hari specimen akan kering
+f. Pembuatan herbarium 1. Mounting
+Spesimen yang sudah kering dijahit atau dilem di atas kertas karton - Gunakan kertas yang kuat atau tidak cepat rusak dan
+kaku, ukuran 29 x 43 cm - Untuk tumbuhan Palmae atau tumbuhan lain yang
+organnya besar, 1 spesimen dimountingpada beberapa lembar kertas. 2. Labeling -Label yang berisi keterangan-keterangan tentang tumbuhan tersebut diletakkan di sudutkiri bawah atau sudut kanan bawah -Spesimen dipisahkan sesuai dengan kelompoknya kemudian diidentifikasi -Dianjurkan membuat lembar label kosong untuk kemungkinan perubahan nama. 3. Pengasapan dan peracunan (Fumigasi) - Sebelum memasukkan spesimen ke herbariumterlebih dahulu harus diasap dengan carbonbisulfida dalam ruangan tertentu. Metode lain dapat dilakukan dengan menambahkan Kristal paradiklorobenzen.Umumnya herbarium-herbarium melakukan fumigasi dengan interval 1, 2,3 tahun. - Umumnya spesimen disusun ke dalam kotak atau lemari khusus berdasarkan alphabet
+211
+
+KUMPULAN SOAL EVALUASI UMUM
+
+A. PILIHLAH SALAH SATU JAWABAN YANG PALING TEPAT !
+
+1. Makhluk hidup Pernyataan ini a. Carolus Linnaeus b.Lamark c. Darwin d. Aristoteles e. Einsten
+
+dibagi menjadi dikemukakan
+
+dua kingdom. oleh ....
+
+2. Pemberian tata nama ganda diatur dalam Kode Internasional yang disebut dengan .... a. binomial nomenklatur b.pengelompokan c. kunci determinasi d.identifikasi e. klasifikasi
+3. Tingkatan terendah dari klasifikasi tumbuhan dan hewan adalah.... a. kingdom b. kelas c. spesies d. divisi e. filum
+
+212
+
+4. Urutan takson tumbuhan dari kelompok terbesar ke kelompokterkecil adalah .... a.kingdom-filum-bangsa-kelas-suku-marga-jenis b.kingdom-filum-kelas-bangsa-suku-marga-jenis c.kingdom-divisio-kelas-bangsa-suku-marga-jenis d.kingdom-divisio-bangsa-kelas-suku-marga-jenis e.kingdom-kelas-divisio-bangsa-suku-marga-jenis
+5. Suku kata pertama pada tata cara pemberian nama ganda menunjukkan .... a. kelas b. spesies c. ordo d. bangsa e. genus
+6. Pisang, mangga, kelengkeng, dan durian dikelompokkan dalam tumbuhan buah-buahan. Pengklasifikasian ini tergolong dalam klasifikasi system .... a. natural b.manfaat c. artifisial d.buatan e.praktis
+7. Penulisan nama Latin padi yang benar adalah .... a. Oryza sativa b. Oryza sativa c. oryza sativa d.Orizasativa
+213
+
+e. Oriza Sativa
+8. Pada taksonomi dari kingdom ke spesies, kondisi jumlah makhluk hidup yang berbeda dalam setiap takson akan ....
+a. semakin sedikit b. semakin banyak c. berubah-ubah d. mengikuti posisi taksonnya e. konstan
+9. Euglenakurang cocok jika hanya dimasukkan dalam animalia, karena Euglena juga memiliki ciri yang dimiliki oleh Plantae, yaitu....
+a. cara makannya autotroph b. bersifat tidak bergerak c. selalu bergerak d. cara hidup berkoloni e. cara makannya heterotroph
+10. Filum dalam klasifikasi hewan yang disebut juga .... a. divisio b. ordo c. genus d. spesies e. marga
+11. Semakin dekat hubungan kekerabatan makhluk hidup, semakin banyak ....
+214
+
+a. perbedaan sifat b. keragamannya c. persamaan sifat d. perbedaan dan e. keunikannya persamaannya
+12. Daftar yang memuat sejumlah keterangan suatu makhluk hidup yang dapat digunakan untuk mengidentifikasi dan menentukan kelompok makhluk hidup berdasarkan ciri-ciri yang dimilikinya disebut .... a. kunci dikotomi b. pengelompokan c. kunci determinasi d. animalia e. klasifikasi
+13. Spirogyra sp. mampu melakukan fotosintesis, tetapi dalam sistem klasifikasi kingdom bukan termasuk ke dalam Plantae, melainkan Protista. Alasannya adalah .... a. memiliki flagelata b. belum memiliki membran inti c. tidak memiliki dinding sel d. hidup secara anaerobic e. belum memiliki akar, batang, dan daun sejati
+14. Jenis makhluk hidup yang menyerupai tumbuhan dan hewan, tetapi bukan tumbuhan dan bukan hewan disebut .... a. Monera
+b. Plantae c. Fungi
+215
+
+d. Animalia e. Protista
+15. Pasangan yang memiliki kekerabatan paling dekat adalah .... a. rubah dan serigala b. serigala dan anjing c. rubah dan berang-berang d. serigala dan beruang e. rubah dan anjing
+16. Dalam klasifikasi makhluk hidup sering digunakan kunci determinasi sederhana yang disebut .... a. kunci klasifikasi b. kunci dikotomi c. kunci determinasi d. identifikasi e. klasifikasi
+17. Difa adalah seorang ahli ekologi. Manfaat taksonomi bagi Difa adalah .... a. menemukan adanya spesies baru b. menemukan adanya senyawa antibodi berciri khusus pada suatu makhluk hidup c. dapat memperkirakan tentang nenek moyang makhluk hidup tertentu d. mempelajari deversitas makhluk hidup yang ada e. mencocokkan pasangan hibrid agar dapat disilangkan dengan makhluk hidup lain 18. Berikut ini yang bukan termasuk variasi dalam spesies adalah ... a. cara reproduksi
+216
+
+b. ukuran tubuh c. jenis makanan d. warna tubuh e. bentuk tubuh
+19. Spesies adalah unit dasar dari klasifikasi biologi. Alasan dua individu yang berbeda dikelompokkan dalam satu spesies yang sama adalah.... a. mempunyai kesamaan nenek moyang b. mempunyai banyak persamaan c. mempunyai banyak perbedaan d. dapat saling kawin dan menghasilkan keturunan fertile e. dapat saling kawin dan menghasilkan keturunan steril
+20. Kata maniculata dari nama Latin Felis manuculata domesticus menunjukkan ....
+a. kelas b. marga c. spesies d. kingdom e. genus
+B. PERTANYAAN ESSAI BERIKUT DAN KUNCI JAWABAN
+1. Apakah unsur utama yang menjadi ruang lingkup Taksonomi Tumbuhan ?.. adalah pengenalan (identifikasi), pemberian nama dan penggolongan atau klasifikasi.
+217
+
+2. Apakah Tujuan Peraturan tentang pemberian nama ilmiah perlu diciptakan ?... agar ada kesamaan pemahaman di antara ahli-ahli Botani di seluruh dunia tentang apa yang dimaksud.
+3. Apakah yang dimaksud dengan Nama ilmiah ?. adalah nama-nama dalam bahasa Latin
+atau bahasa yang diperlakukan sebagai bahasa Latin tanpa memperhatikan dari bahasa mana asalnya. Setiap individu tumbuhan termasuk dalam sejumlah taksa yang jenjang tingkatnya berurutan. 4. Menurut anda apakah yang dimaksud dengan tingkat jenis (species) ?
+merupakan dasar dari seluruh takson yang ada. 5. Bagaimanakah system penamaan Nama-nama takson di atas tingkat suku (familia) ?...
+diambil dari ciri khas yang berlaku untuk semua warga dengan akhiran yang berbeda menurut tingkatnya. 6. Bagaimanakah cara pengambilan nama pada tingkat family ?
+Nama suku (familia) merupakan satu kata sifat yang diperlakukan sebagai kata benda berbentuk jamak. Nama tersebut diambil dari nama salah satu marga yang termasuk dalam suku tadi ditambah dengan akhiran -aceae. 7. Bagaimanakah cara pengambilan nama pada tingkat Marga ?..
+218
+
+Nama marga merupakan kata benda berbentuk mufrad atau suatu kata yang diperlakukan demikian. Kata ini dapat diambil dari sumber mana pun, dan dapat disusun dalam cara sembarang. 8. Bagaimanakah cara pengambilan nama pada tingkat Jenis ?..
+Nama ilmiah untuk jenis harus bersifat ganda, artinya terdiri atas dua suku kata yang berbentuk mufrad yang diperlakukan sebagai bahasa Latin. 9. Bagaimanakah cara pengambilan nama pada tingkat Suku ?..
+Nama takson tingkat suku ke bawah diikuti nama orang yang memberikan nama ilmiah dalam bentuk singkatan.
+10. Klasifikasi tumbuhan adalah ?.. Pembentukan kelompok-kelompok dari
+seluruh tumbuhan yang ada di bumi ini hingga dapat disusun takson-takson secara teratur mengikuti suatu hierarki. 11. Bagaimanakah Sifat-sifat yang dijadikan dasar dalam mengadakan klasifikasi ?..
+berbeda-beda tergantung orang yang mengadakan klasifikasi dan tujuan yang ingin dicapai dengan pengklasifikasian itu. 12. Bagaimanakah keberadaan takson dengan tingkat yang lebih rendah ?..
+Takson yang terdapat pada tingkat takson (kategori) yang lebih rendah mempunyai kesamaan sifat lebih banyak daripada takson
+219
+
+yang terdapat pada tingkat takson (kategori) di atasnya. 13. Apakah perbedaan Perbedaan antara istilah takson dengan kategori ?
+yaitu istilah takson yang ditekankan adalah pengertian unit atau kelompok yang mana pun, sedangkan istilah kategori yang ditekankan adalah tingkat atau kedudukan golongan dalam suatu hierarki tertentu.
+Dalam taksonomi tumbuhan istilah yang digunakan untuk menyebutkan suatu nama takson sekaligus menunjukkan pula tingkat takson (kategori). 14. Sebutkan tiga sistem klasifikasi dalam taksonomi tumbuhan ?..
+Yaitu sistem klasifikasi buatan, sistem klasifikasi alam, dan sistem klasifikasi filogenetik.
+15. Berdasarkan sejarah perkembangannya ketiga sistem klasifikasi terbagi atas 4 periode yaitu ?... Empat periode yaitu periode sistem habitus, periode sistem numerik, periode sistem alam, dan periode sistem filogenetik.
+16. Apakah yang dimaksud dengan sistem Klasifikasi kontemporer ?. Sistem klasifikasi yang tinjauannya didasarkan modifikasi dari sistem yang telah ada dengan penambahan data yang baru, disebut sistem kontemporer.
+17. Bagaimanakah perkembangan perubahan klasifikasi terhadap dunia tumbuhan ?
+220
+
+Perubahan klasifikasi organisme hidup yang semula dua dunia kemudian menjadi empat dunia, atau dari empat dunia menjadi lima dunia, telah mengakibatkan sekelompok atau sebagian kelompok organisme yang semula termasuk dalam dunia tumbuhan dipindahkan ke dalam dunia (regnum) baru atau regnum yang lain.
+18. Apakah yang dimaksud dengan Identifikasi tumbuhan Identifikasi tumbuhan adalah menentukan namanya yang benar dan tempatnya yang tepat dalam sistem klasifikasi. Tumbuhan yang akan diidentifikasikan mungkin belum dikenal oleh dunia ilmu pengetahuan (belum ada nama ilmiahnya), atau mungkin sudah dikenal oleh dunia ilmu pengetahuan.
+19. Bagaimanakah prosedur penentuan nama baru Tumbuhan ?.. penentuan tingkat-tingkat takson harus mengikuti aturan yang ada dalam KITT. Prosedur identifikasi tumbuhan yang untuk pertama kali akan diperkenalkan ke dunia ilmiah memerlukan bekal ilmu pengetahuan yang mendalam tentang isi KITT.
+20. Hal apa saja yang di perlukan sebagai sarana Untuk identifikasi tumbuhan yang telah dikenal oleh dunia ilmu pengetahuan, ?.. memerlukan sarana antara lain bantuan orang, spesimen herbarium, buku-buku flora dan
+221
+
+monografi, kunci identifikasi dan lembar identifikasi jenis. 21. Apakah yang dimaksud dengan flora ?
+Flora adalah suatu bentuk karya taksonomi tumbuhan yang memuat jenis-jenis tumbuhan yang ditemukan dalam suatu wilayah tertentu. 22. Apakah yang dimaksud dengan monograf ?..
+Monografi adalah suatu bentuk karya taksonomi tumbuhan yang memuat jenis-jenis tumbuhan yang tergolong dalam kategori tertentu. baik yang terbatas pada suatu wilayah tertentu saja maupun yang terdapat di seluruh dunia. 23. Apakh yang dimaksud dengan kunci Determinasi ?..
+Kunci identifikasi merupakan serentetan pertanyaan-pertanyaan yang jawabnya harus ditemukan pada spesimen yang akan diidentifikasi.Bila semua pertanyaan berturutturut dalam kunci identifikasi ditemukan jawabnya, berarti nama serta tempatnya dalam sistem klasifikasi tumbuhan yang akan diidentifikasi dapat diketahui. 24. Apakah yang dimaksud dengan lembar identifikasi ?..
+Lembar Identifikasi Jenis adalah sebuah gambar suatu jenis tumbuhan yang disertai dengan nama klasifikasi jenis yang bersangkutan.
+25. Bagaimanakah Linnaeus membagi 4 bangsa ?..
+222
+
+Linnaeus membagi Cryptogamae menjadi 4 bangsa yaitu: Filices, Musci, Algae dan Fungi. De Jussieu membagi tumbuhan menjadi 3 golongan, Acotyledoneae, Monocotyledoneae, Dicotyledoneae. 26. Bagaimana sejarah pembagian Cryptogamae ?..
+Tahun 1880 diperkenalkan suatu sistem yang membagi Cryptogamae menjadi Thallophyta, Bryophyta, Pteridophyta.
+
+27. Bagaimana pembagian 2 anak kelas Thallophyta
+
+?
+
+Thallophyta yang terdiri dari dua anak
+
+kelas Algae dan Fungi dibedakan dari Bryophyta
+
+dan Pteridophyta berdasarkan pada struktur alat
+
+penghasil spora dan gamet serta perkembangan
+
+zigotnya.
+
+28. Bagaimanakah permasalahan mengenai
+
+keabsahan Thallophyta ?..
+
+Dipermasalahkan mengenai keabsahan
+
+(validitas)
+
+dari
+
+Thallophyta.
+
+Algae dan Fungi mempunyai kesamaan ciri-ciri
+
+yang digunakan untuk memisahkan keduanya
+
+dari tumbuhan lain, atas dasar kesamaan ini
+
+dipertanyakan apakah fungi berasal dari algae?
+
+dalam kenyataan, tidak satu fungi pun berasal
+
+dari algae. Dengan demikian divisi Thallophyta
+
+tidak dapat dipertahankan, sehingga bukan
+
+merupakan divisi yang valid. Sebaiknya Algae
+
+dan Fungi ditempatkan dalam satu atau lebih
+
+divisi.
+
+223
+
+29. Bagaimana Ciri-ciri yang akan digunakan sebagai dasar untuk memberi definisi algae ?
+
+Ciri-ciri yang akan digunakan sebagai dasar
+
+untuk memberi definisi algae
+
+1. menurut Fritsch (1935): Algae harus
+
+holofitik yang gagal mencapai ciri
+
+deferensiasi Archegoniatae.
+
+2. Smith (1955 ) mendasarkan pada
+
+struktur organ seksualnya.
+
+30. Bagaimanakah 4 kelas algae ?..
+
+Sampai permulaan abad 20 telah dikenal
+
+4 kelas Algae, yaitu Chlorophyceae,
+
+Phaeophyceae,
+
+Rhodophyceae
+
+dan
+
+Myxophyceae
+
+(Cyanophyceae).
+
+Ahli
+
+Protozoologi menempatkan semua organisme
+
+bersel tunggal yang berkhlorofil, berflagella seta
+
+motil dalam kelas Mastigophora dari filum
+
+Protozoa. Para pakar botani mengeluarkan
+
+anggota-anggota tertentu dari deret (seri)
+
+Volvocin. Rabenhorst menempatkan seri
+
+Chlamydomonas-Volvox dalam ganggang hijau
+
+rumput dan diberi nama Chlorophyllaceae.
+
+Xanthophyceae (Heterokontae) dipisahkan dari
+
+Chlorophyceae pada permulaan abad 20 dan
+
+Fagellatae tertentu yang berpigmen dimasukkan
+
+dalam
+
+kelas
+
+Xanthophyceae.
+
+Berbagai macam kelompok yang semula oleh
+
+pakar Protozoologi dimasukkan dalam
+
+Mastigophora secara filogegenetik berhubungan
+
+dengan organisme yang bersifat algae sejati.
+
+224
+
+31. Bagaimanakah system klasifikasi algae seiring kemajuan ilmu pengetahuan terbaru ?.. Sistem klasifikasi algae ada bermacammacam. Seiring dengan majunya ilmu pengetahuan terutama dalam penelitian fisiologi, biokimia, dan penggunaan mikros- kop elektron, maka klasifikasi algae ke dalam divisinya, kini didasarkan pada: 1. pigmentasi, 2. hasil fotosintesis, 3. flagelasi, 4. sifat fisik dan kimia dinding sel, 5. ada atau tidak adanya inti sejati.
+Atas dasar hal tersebut, Smith membagi algae menjadi; Divisi: Chlorophyta, Euglenophyta, Pyrrophyta, Chrysophyta, Phaeophyta, Rhodophyta dan Cyanophyta. Pyrrophyta, Chrysophyta,dan Euglenophyta termasuk Protista (Protista algae); Cyanophyta termasuk Monera. 32. Jelaskan bagaimana morfologi Algae ?
+Algae mempunyai bermacam-macam bentuk tubuh:
+1. Bentuk uniseluler: bentuk uniseluler yang berflagela dan yang tidak berflagela.
+2. Bentuk multiseluler: 1. a. koloni yang motil, b. koloni yang kokoid 2. Agregasi: bentuk palmeloid, dendroid, dan rizopoidal.
+225
+
+3. Bentuk filamentik: filamen
+
+sederhana, filamen bercabang,
+
+filamen heterotrikh, filamen
+
+pseudoparenkhimatik
+
+yang
+
+uniaksial dan multiaksial.
+
+4. Bentuk sifon/pipa.
+
+5. Pseudoparenkhimatik
+
+33. Bagaimanakah cara reproduksi alga ?..
+
+Reproduksi 1. Vegetatif: fragmentasi, pembelahan sel, pembentukan hormogonia. 2. Aseksual: pembentukan mitospora, zoospora, aplanospora, hipnospora, stadium pamela. 3. Seksual: isogami, heterogami yang terdiri dari anisogami dan oogami, aplanogami, autogami.
+34. Bagaimanakah Pergantian keturunan alga ?
+
+Pergantian keturunan 1. Pergantian keturunan haplobiontik terdiri dari: pergantian keturunan yang haplontik dan diplontik. 2. Pergantian keturunan yang isomorfik dan heteromorfik.
+
+35. Jelaskan bagaimana teknik mengoleksi herbarium
+
+226
+
+DAFTAR PUSTAKA
+Bold, H.C., C.J. Alexopoulus, T. Delevoryas, 1987. Morphology of Plants and Fungi. Fifthedition. Harper and Row Publishers. New York.
+Brock, T.D. dan M.T. Madigan. 1991. Biology of Microorganisma. Prentice Hall, Inc. USA
+Duta, A.C. 1968. Botany for Degree Students. Oxford University Press. Bombay-Calcuta-Madras.
+Dwidjoseputro. 1992. Dasar-dasar Mikrobiologi. Erlangga. Jakarta.
+Iqbal, Ali. 2008. Sistematika Tumbuhan Cryptogamae. Jakarta: Erlangga.
+John, K. 1992. Biologi. Erlangga. Jakarta.
+Michel, J.P., dan E. C. S. Chan. 1986. Dasardasar Mikrobiologi. Universitas Indonesia. Jakarta.
+Misra, A. ,R.P. Agrawal. 1978. Lichens (A Preliminary Text). Oxford and IBH Publishing Co. New York-Bombay-Calcuta.
+Sharnoff. S. D. 2002. Lichen Biology And The Environment The Special Biology Of Lichens.
+227
+
+Sarwuni. 2003. Sistematika Cryptogamae. Malang: CV. Aditama.
+
+Tumbuhan
+
+Soeratman. 1999. Penggelompokan Tumbuhan Bryophyta. Jakarta: Erlangga.
+http:/ www.lichen.com. _________________. Lichens And Wildlife. http://www.lichen.com
+_________________. Lichens And People. For a Bibliographical Database of the Human
+Uses of Lichens. http://www.lichen.com
+Tjitrosoepomo, G. 1989. Taksonomi Tumbuhan. Gadjah Mada University Press.Yogyakarta.
+. Taksonomi Umum (Dasar-dasar taksonomi tumbuhan). GadjahMada University Press. Yogyakarta.
+
+228

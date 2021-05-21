@@ -1,0 +1,629 @@
+BUDIDAYA JAMUR MERANG
+Penulis: Bambang Sunandar
+Editor: Susi Mindarti Sri Murtiani Anna Sinaga Layout/Disain Cover: Bambang Unggul PS
+Saepudin Nadimin
+Alamat Redaksi BPTP Jawa Barat, Jl. Kayuambon No. 80
+Lembang, Bandung, 40391 Telepon : (022) 2786238, 2787163
+Faximile : (022) 2789846 E-mail : bptp-jabar@litbang.deptan.go.id Website : http//jabar.litbang.deptan.go.id
+BALAI PENGKAJIAN TEKNOLOGI PERTANIAN JAWA BARAT
+BALAI BESAR PENGKAJIAN DAN PENGEMBANGAN TEKNOLOGI PERTANIAN
+BADAN PENELITIAN DAN PENGEMBANGAN PERTANIAN KEMENTERIAN PERTANIAN 2010
+
+KATA PENGANTAR
+Petunjuk teknis Budidaya Jamur Merang disusun untuk memenuhi banyaknya permintaan mengenai budidaya jamur. Budidaya jamur saat ini menunjukkan peningkatan yang pesat, khususnya budidaya jamur merang. Jamur merang mempunyai keunggulan dapat tumbuh pada media limbah, karena jamur merang ini dapat mendegradasi limbah organik.
+Sasaran petunjuk teknis Budidaya Jamur Merang ini adalah para penyuluh pertanian, para penyuluh swadaya, pelaku utama usahatani, dan peminat lainnya, sebagai bahan informasi untuk penerapan teknologi budidaya jamur merang dan bahan penyebaran informasi kepada kelompoktani dan anggotanya.
+Kami menyampaikan terimakasih kepada semua pihak yang telah membantu dalam penyusunan Petunjuk Teknis ini, dan kami sangat mengharapkan saran-saran perbaikan Petunjuk ini pada masa yang akan datang.
+Harapan kami, semoga Petunjuk Teknis Budidaya Jamur Merang ini, dapat dimanfaatkan dengan sebaik baiknya.
+Lembang, November 2010 Kepala BPTP Jawa Barat
+Dr. Ir. Bambang Irawan, MS.
+i
+
+DAFTAR ISI
+
+K ata Pengantar ................................................................. i
+
+Daftar Isi ......................................................................... ii
+
+Daftar Tabel ........................................................................ iii
+
+Daftar Gambar ................................................................... iv
+
+I. Pendahuluan ............................................................ 1
+
+II. Manfaat Jamur
+
+................................................... 2
+
+III. Penyia pan Sarana Produksi ......................................... 4
+
+A. Pemilihan Lokasi .................................................. 4
+
+B . Rumah Jamur
+
+.............................................. 4
+
+C. Peralatan yang Dibutuhkan ................................... 8
+
+IV. B udidaya jamur Merang ............................................ 9
+
+A. Pembuatan K ompos .......................................... 9
+
+B . Sterilisasi ............................................................ 13
+
+C. Penanaman Bibit
+
+............................................ 14
+
+D. Penumbuhan Tubuh Buah .................................. 14
+
+E. Pemanenan ...................................................... 15
+
+F. Analis a Usahatani Jamur Me rang ...................... 17
+
+Daftar Pustaka .................................................................. 19
+
+ii
+
+DAFTAR TABEL Ta be l
+1. Kandungan Bahan Kimia dan Nilai Gizi Jamur ......... 2 2. Khasiat Jamur Sebagai Obat ................................. 3 3. Komposisi Lengkap Media Tanam Jamur Merang ....... 10 4. Analisa Usaha Budidaya Jamur Merang di Desa Cantigi
+Wetan .................................................................. 17
+iii
+
+DAFTAR GAMBAR
+
+Gambar
+
+1A. Denah Ruangan Budidaya Jamur Merang ................ 6
+
+1B. Denah Ruangan Budidaya Jamur Merang ................ 7
+
+2. Rumah Jamur (Kumbung) .................................. 8
+
+3. Ruangan Untuk Menyimpan Bahan Baku .................... 8 4. Bagan Pembuatan Media Kompos .......................... 11
+
+5. Pembuatan Media Kompos ................................ 13
+
+6. Proses Sterilisasi Dengan Sistem Sederhana ............. 13
+
+7. Proses Sterilisasi
+
+................................................ 14
+
+8. Masa Penumbuhan Tubuh Buah (Miselium) ............. 15
+
+9. Proses Pemanenan Jamur Merang .......................... 16
+
+iv
+
+I. PEN D A H U LU A N
+
+Jawa Barat sebagai provinsi yang memberikan kontribusi besar terhadap produksi beras nasional, memiliki ± 1.812.620 Ha areal persawahan. Areal tersebut mempunyai potensi limbah pertanian yang sangat besar. Kehadiran limbah sering menjadi masalah. Limbah yang hanya dibakar atau ditimbun saja akan menambah pencemaran lingkungan. Salah satu usaha untuk mengatasi limbah adalah dengan mengubah limbah menjadi media jamur. Limbah yang dapat diubah menjadi media tumbuh jamur adalah jerami padi, namun jerami perlu melewati proses pengomposan terlebih dahulu.
+
+Jamur merang dapat tumbuh pada media limbah, karena jamur mampu mendegradasi limbah organik. Dengan kemampuannya tersebut jamur dapat dimanfaatkan untuk menambah nilai guna limbah. Jamur merang termasuk dalam golongan jamur saprofit yaitu jamur yang tumbuh pada substrat organik dari hewan maupun tumbuhan yang sudah mati dan akan mengubah substrat menjadi zat yang mudah diserap.
+
+Jamur merang merupakan jenis jamur yang pertama kali dapat
+
+dibudidayakan di Cina sekitar tahun 1650, dan mulai dibudidayakan
+
+di Indonesia pada tahun 1950. Secara taksonomi menurut Singer
+
+(1975) jamur merang masuk dalam klasifikasi sebagai berikut :
+
+Kelas
+
+: Basidiomycetes
+
+Subkelas Ordo
+
+: Homobasidiomycetes : Agaricales
+
+Famili Genus
+
+: Plutaceae : Volvariella
+
+Spesies
+
+: Volvariella volvaceae
+
+1
+
+II. MANFAAT JAMUR
+
+Jamur mengandung berbagai macam asam amino essensial, lemak, mineral, dan vitamin, juga terdapat zat penting yang berpengaruh terhadap aspek medis. Oleh karena itu jamur sangat baik bagi kesehatan. Sejak berabad-abad lalu, jamur sudah menjadi makanan istimewa, sehingga banyak orang menjadi penggemar.
+
+Jamur Merang adalah makanan dengan gizi yang baik, dari hasil penelitian, rata-rata jamur mengandung 19-35 persen protein lebih tinggi dibanding beras (7,38 persen) dan gandum (13,2 persen). Asam amino esensial yang terdapat pada jamur, ada sekitar sembilan jenis dari 20 asam amino yang dikenal. Yang istimewa 72 persen lemaknya tidak jenuh, jamur juga mengandung berbagai jenis vitamin, antara lain B1 (thiamine), B2 (riboflavine), niasin dan biotin. Selain elemen mikro, jamur juga mengandung berbagai jenis mineral, antara lain K, P, Ca, Na, Mg, dan Cu. Kandungan serat mulai 7,4-24,6 persen sangat baik bagi pencernaan. Jamur mempunyai kandungan kalori yang sangat rendah sehingga cocok bagi pelaku diet.
+
+Pada Tabel 1 dapat dilihat nilai gizi jamur merang dibandingkan nilai gizi jamur jenis lainnya. Berdasarkan tabel tersebut, nilai gizi jamur merang cukup baik terutama kandungan protein jamur m era ng.
+
+Tabel 1. Kandungan Bahan Kimia dan Nilai Gizi Jamur
+
+Kompo sisi No bahan kimia
+/Nilai Gizi
+1. Lemak % Pro tein total
+2. %
+3. Karbohid rat %
+
+Tiram
+1.12.4 10.544 50.781.8
+
+Kup ing
+7.2 8.3 4.2 19.4 8 2.8 82.9
+
+Spisies Jamu r Merang Shiitake
+
+2.0-2.6 25 .9 28.5
+2.7-4.8
+
+4 .9- 9.0
+13 .41 7.6 67 .57 0.7
+
+Ling Z hi
+72.0
+19.035.0 9.578.0
+
+C ham pi gnon 1.7 -8.0 1.3 -4.8
+5 1.3 -62.5
+
+2
+
+Tabel 2. Khasiat Jamur Sebagai Obat
+
+Pemanfaatan untuk No
+Penyakit
+1. Anti firal 2. Anti Tumor 3. Anti inflamatory
+Turunkan tekanan 4.
+Darah 5. Turunkan kolesterol 6. Tonik Ginjal 7. Asma/Bronchitis 8. Hepatitis 9. Chitin 10. Anti Bakteri 11. Tonik Jantung 12. Turunkan Gula Darah 13. Penghambat PHA
+Tingkatkan sekresi 14.
+hati 15. Tingkatkan Libido 16. Reduksi Stres 17. Diabetes
+Perbaikan fungsi air 18.
+tubuh Perbaikan fungsi 19. saraf/otak 20. Anti biotik Proteksi terhadap 21. penyakit
+
+Spisies Jamur
+
+Tiram Kuping Merang
+Ö Ö Ö Ö Ö
+
+Ling Shiitake
+Zhi
+Ö Ö Ö Ö
+Ö Ö
+
+Ö
+
+Ö Ö
+
+Ö
+
+Ö
+
+Ö
+
+Ö
+
+Ö
+
+Ö
+
+Ö
+
+Ö
+
+Ö
+
+Ö
+
+Ö
+
+Ö
+
+Ö Ö Ö
+Ö
+
+Ö Ö Ö
+Ö
+
+Ö
+
+Ö
+
+Ö Ö
+
+3
+
+III. PENYIAPAN SARANA PRODUKSI
+Sebelum melangkah dalam tahap budi daya, persiapan sarana produksi sangatlah perlu. Dengan adanya dukungan sarana yang memadai, maka proses budi daya akan berjalan dengan baik.
+A. Pemilihan Lokasi
+1. Lokasi perlu dipilih sesuai dengan syarat tumbuh jamur. Syarat tumbuh yang utama adalah suhu, oleh karena itu lokasi harus disesuaikan dengan suhu lingkungan. Jamur merang dapat tumbuh dengan baik pada suhu 30­35°C dan sesuai dibudidayakan di dataran rendah.
+2. Lokasi juga harus bersih, jauh dari pabrik atau pembuangan limbah berbahaya. Hal ini bertujuan untuk menghindari jamur dari hama, penyakit, dan kontaminasi senyawa yang berbahaya. Jamur mempunyai kemampuan menyerap logam berat, meskipun konsentrasinya kecil.
+3. Untuk menghemat biaya produksi, sebaiknya tempat budi daya dekat dengan sumber bahan baku.
+4. Lokasi harus dekat dengan sumber air. Sumber air harus tersedia dalam keadaan cukup, bersih, dan tidak tercemar. Hal ini penting, karena air merupakan kebutuhan yang sangat penting, terutama pada saat proses pembuatan media dan masa pembentukan tubuh buah.
+5. Lokasi harus mudah akses ke instalasi listrik. Listrik dibutuhkan untuk memompa air, membantu dalam sirkulasi udara dan menerangi ruangan.
+B. Rumah Jamur (Kumbung)
+Budidaya jamur merang biasanya menggunakan rumah jamur (kumbung) sistem semi permanen. Sistem semi permanen yang dimaksud adalah bahan yang digunakan untuk membuat rumah jamur menggunakan bahan yang sederhana, sehingga akan mudah dipindahkan. Investasi untuk membuatnya kecil. Dengan demikian
+4
+
+cocok digunakan untuk budi daya jamur skala kecil atau industri menengah. Tempat untuk membudidayakan jamur atau rumah jamur sederhana berbentuk kumbung mempunyai manfaat sebagai berikut: 1. Melindungi jamur dari kondisi lingkungan luar yang kurang
+mendukung, misalnya angin yang terlampau kencang. 2. Memudahkan pengelolaan suhu di dalam kumbung. 3. Menghemat lahan karena dapat disusun dengan menggunakan
+rak. 4. Saat budi daya tidak tergantung pada musim.
+Bagian-bagian dari rumah kumbung tersebut sebagai berikut: 1. Dindingnya terbuat dari bilik bambu dilapisi plastik untuk lebih
+menstabilkan suhu dalam kumbung. Dibagian paling luar dinding bisa dilapisi lagi dengan steroform. 2. Permukaan lantai sebaiknya disemen untuk memudahkan dalam merawat kebersihan kumbung. Apabila tidak disemen tanah sebaiknya dilapisi dengan pasir dan kapur. 3. Dalam budidaya jamur merang, sterilisasi dilaksanakan dalam kumbung, maka di dalam kumbung harus dilengkapi dengan pipa yang diberi lubang-lubang kecil. Jarak antar lubang sekitar 20 cm. Kegunaan dari pipa tersebut adalah untuk mengalirkan uap air panas pada saat proses sterilisasi. 4. Atap bangunan dapat terbuat dari rumbia yang dilapisi plastik pada bagian dalamnya. 5. Untuk mengatur sirkulasi udara, kumbung harus dilengkapi vertilasi berupa jendela. Denah kumbung secara rinci dapat dilihat pada Gambar 1.
+5
+
+Gambar 1A. Denah Ruangan Untuk Budidaya Jamur Merang 6
+
+K eter angan co ntoh den ah r uang an untu k bud id aya jam ur : A. Jalan B. T em pat m eny im pan j er ami C. T em pat m eny im pan b ahan tamb ahan D. R uangan p engo mpo san E. R uang pen yiapan bibit F. R umah j am ur /k um bun g G. T em pat p engep akan (P asca panen )
+Ga mbar 1B . D enah Ruangan Untuk Budida ya Ja mur Mer ang
+7
+
+Selain rumah jamur, dalam budidaya jamur harus dilengkapi dengan ruangan untuk menyimpan bahan baku, ruangan untuk menyiapkan media, dan ruangan pascapanen. Ruangan ini dapat dibuat seperti kumbung juga atau berbentuk bangunan (gudang).
+Gambar 2. Rumah Jamur (Kumbung) Gambar 3. Ruangan Untuk Menyimpan Bahan Baku
+C. Peralatan yang Dibutuhkan Kebutuhan peralatan biasanya disesuaikan dengan besarnya
+skala usaha. Skala usaha jamur dapat dibagi menjadi 3 yaitu : 1. Skala kecil, hanya menggunakan satu kumbung (4 x 7
+m2),dengan kapasitas produksi (total produksi) 200 ­ 250 kg. 2. Skala menengah/sedang menggunakan 2 ­ 5 kumbung dengan
+kapasitas produksi 400 ­ 1250 kg. 3. Skala besar menggunakan lebih dari 5 kumbung dengan kapasitas
+produksi lebih dari 1250 kg. Budidaya jamur dalam skala kecil dan menengah memerlukan peralatan sebagai berikut : 1. Sekop, sekop garpu, terpal plastik, dan parang untuk menyiapkan media. 2. Drum sebagai tempat air, dan bahan bakar/kompor semawar untuk sterilisasi. 3. Sprayer untuk pengabutan dan pemeliharaan.
+8
+
+4. Keranjang dan pisau untuk membersihkan jamur saat pascapanen.
+5. Timbangan untuk mengukur berat sarana produksi dan hasil panen.
+6. Thermometer untuk mengukur suhu, dan Hygro meter untuk mengukur kelembaban.
+IV. BUDIDAYA JAMUR MERANG
+A. Pembuatan Kompos Pengomposan dilakukan dengan tujuan untuk mengaktifkan
+mikroflora termofilik, yakni bakteri dan fungi yang akan merombak selulosa, hemiselulosa, serta lignin, sehingga lebih mudah dicerna oleh jamur. Selama proses pengomposan akan timbul panas yang dapat mematikan organisme pesaing yang merugikan bagi pertumbuhan jamur.
+Sebagai bahan baku tempat (media) tumbuhnya jamur merang yaitu jerami. Bahan baku ini dapat dipadukan dengan limbah pertanian yang tersedia di sekitar lokasi budidaya, misalnya kapas bekas dari pemintalan benang, ampas aren, ampas tebu, kardus bekas, eceng gondok yang telah dikeringkan. Bahan tambahan lain yang diperlukan yaitu bekatul sebagai sumber karbohidrat, kapur untuk menetralkan media, dan kotoran ayam dapat ditambahkan untuk meningkatkan kadar nitrogen dalam media. Adapun secara lengkap komposisi media untuk budidaya jamur merang dengan total produksi 450 kg disajikan pada Tabel 3.
+9
+
+Tabel 3. Komposisi Lengkap Media Tanam Jamur Merang
+
+No
+
+Bahan
+
+Volume
+
+sa tua n
+
+1. Jerami kering
+
+2
+
+Ton
+
+2. Bekatul
+
+40
+
+Kg
+
+3. Kapur
+
+300
+
+Kg
+
+4. Kapas bekas pemintalan
+
+300
+
+Kg
+
+5. Urea
+
+2
+
+Kg
+
+6. Kotoran ayam
+
+100
+
+kg
+
+Pembuatan kompos dapat dilakukan di dalam ruangan atau di ruangan beratap, walaupun tidak berdinding. Permukaan bawah tempat pengomposan sebaiknya disemen atau dilapisi plastik/terpal. Dalam pembuatan kompos, bahan-bahan diatas dibagi dua, yaitu satu bagian dikomposkan tersendiri (media utama saja) dan satu bagian lagi diberi media tambahan, lalu dikomposkan (media utama + media tambahan). Setelah kedua kompos tersebut selesai, kedua macam kompos tersebut dicampur secara merata.
+Langkah-langkah pembuatan media kompos (media utama) sebagai berikut :
+
+10
+
+Jerami kering dipotong 10 cm
+
+Jerami di cuci dengan air
+mengalir selama 1 jam, kemudian ditiriskan
+
+Ditaburkan
+
+Jerami disusun setebal 10 cm
+
+Bekatul, kapur, kotoran ternak, urea dicampur
+
+Ditaburkan
+
+Jerami disusun setebal 10 cm
+
+Bekatul, kapur, kotoran ayam, urea dicampur
+
+Diulang hingga susunan lapisan
+mencapai ketinggian 1,5 m
+Ditutup dengan plastik
+
+Pembalikan media pada hari
+ke 4 dan 8 cm
+
+Pengomposan selesai pada hari
+ke 10 cm
+G am bar 4. Bagan Pem buatan M edia Kom pos
+M edia ta mbahan s eperti kapas atau am pas a ren seba iknya diko mpo skan s endiri, tetapi dalam waktu ya ng bers am aan. Tujuan pem berian me dia tam bahan ini untuk m eningkatkan has il pro duks i se kaligus untuk m em anfaa tka n lim bah yang a da di s ekitar l okas i.
+
+11
+
+Pembuatan media tam bahan Cara pembuatan media atas: §Ampas aren, pupuk ayam dicampur dengan kapur sebanyak 5 kg
+diaduk sampai rata. §Kemudian disirami dengan air. §Media yang sudah disiram ditutup rapat dengan plastik atau
+terpal dan diamkan selama 7-30 hari. §Media yang sudah dipermentasi dilakukan pembalikan dengan
+menambahkan dedak sebanyak 50-75 kg dan diaduk sampai me rat a. §Kemudian disiram lagi dengan air ± 20-30 liter. §Kemudian media ditutup kembali dan didiamkan selama tiga hari. Pengomposan media utama + media tambahan tidak berbeda dengan pengomposan media utama. Perbedaannya hanya pada lapisan jerami (diatasnya) diberi kapas atau ampas aren. Dengan demikian, susunannya menjadi jerami, diatasnya diberi kapas atau ampas aren, kemudian campuran dari bekatul, kapur, urea, dan kotoran ayam. Begitu seterusnya disusun secara berselang-seling hingga 1,5 m, kemudian ditutup dengan plastik/terpal. Ciri jerami yang telah menjadi kompos adalah : 1. Tidak berbau amoniak. 2. Warna kompos coklat sampai dengan hitam. 3. Teksturnya lunak. 4. Kadar air nya 65% yang diukur dengan cara memijatnya, bila terasa basah tetapi tidak menetes, berarti kadar airnya sudah sesu a i. 5. pH kompos 7 ­ 7,5.
+12
+
+Gambar 5. Pembuatan Media Kompos B. Sterilisasi
+Media yang telah dikomposkan kemudian disusun dalam rak setebal 20 cm, proses selanjutnya adalah sterilisasi. Tujuan dari proses sterilisasi ini adalah mematikan per tumbuhan mikroorganisme yang merugikan pertumbuhan jamur dan menghilangkan bau am o ni ak.
+Proses sterilisasi dengan cara mengalirkan uap air panas selama 8 jam dengan suhu 70° C ke dalam kumbung yang telah diisi media. Pada saat proses sterilisasi berlangsung sebaiknya seluruh celah pada kumbung ditutup rapat.
+Gambar 6. Proses Sterilisasi Dengan Sistem Sederhana
+13
+
+Ga mbar 7. Prose s Sterilisasi
+C. P enanaman Bibit Se te lah proses s te rilis asi se lesa i, s uhu kumbung dibia rkan turun
+sa mpai s uhu 30°C. Pada suhu ters ebut, se ge ra dilakukan penanam an bibit. Penanam an bibit dila kukan pa da suhu 30°C be rtujuan untuk m encega h tumbuhnya jam ur konta mina n, kar ena me dia sudah didom inas i terle bih da hulu ole h jam ur yang kita ta na m.
+Pe na nam an bibit dila kuka n de ngan cara m eneba rkan bibit s iap se ma i ke pe rm uka an da n la pisan te nga h m edia. B ibit se ba nya k 300 gr da pa t dipergunaka n untuk lua san 1 m2. Jum la h bibit yang diberika n tidak be rpenga ruh pada hasil, te ta pi berpengaruh pa da penekana n tum buhnya jam ur atau cenda wan kontam inan.
+Se lain dengan ke pa da ta n bibit, pertum buhan cendaw an kontam inan dapat dice ga h de ngan sterilnya perala ta n ma upun tangan peke rja (penanam ). A gar steril, pera latan dapat diber sihkan dengan alkohol. D . P enumbuhan Tubuh Buah S etelah p enan aman b ib it, tah ap berikutn ya adalah m asa inkub asi yaitu m asa pen um bu han m iselium . P ada saat inkub asi, pintu dan jen dela ku mb un g ditutu p rap at, karen a oksigen yang dibu tuh kan ha nya se dikit seka li. Dengan kondis i ya ng tertutup terse but, suhu r ua ngan diper ta ha nka n pada kis aran 30° C - 35° C.
+14
+
+Pengontrolan suhu dan pemeriksaan adanya kontaminan harus selalu dilakukan. Apabila terjadi kontaminasi, media yang ditumbuhi cendawan atau jamur lain harus segera dibuang.
+Pada hari ke 4 dari pemberian bibit, awal masa generatif yaitu penumbuhan calon tubuh buah. Pada fase ini jendela dibuka, agar cahaya matahari dan sirkulasi udara dapat berjalan baik. Hal ini dilakukan untuk memacu terbentuknya tubuh buah. Agar terbentuk tubuh buah diperlukan kadar karbon dioksida kurang dari 0,08 ­ 0,05 %. Kelembaban yang dibutuhkan pada saat penumbuhan tubuh buah 80 ­ 90 %. Kelembaban ini dapat diukur dengan melihat tingkat kebasahan media. Media tidak boleh kering, tetapi juga tidak terlalu basah. Kadar air media yang cukup, ditandai dengan tidak meneteskan air, bila media dipijit.
+Ga mbar 8. Ma sa Pe num buhan T ubuh Buah (M iselium) E. Pem anenan
+Apabila kondis i m edia m aupun lingkungan cukup baik, jam ur dapat dipa ne n pa da ha ri ke- 10 hingga ha ri ke- 14 dari pe na nam an bibit. Jam ur m era ng yang dipanen ada lah jam ur dalam stadium kancing. Ja mur m era ng yang pa yungnya sudah me kar tidak dim inati oleh konsume n. Oleh ka rena itu, dius ahakan w aktu panen tidak terla mbat.
+15
+
+Pemetikan (panen) jamur harus hati-hati, supaya tidak merusak miselium maupun calon tubuh buah yang lain. Panen dilakukan pada pagi hari dan sore hari selama 3 hari berturut-turut. Setelah 1 minggu kemudian, dapat dilakukan panen lagi. Dalam 2 periode, hasil panen yang diperoleh sekitar 25 ­ 40 % dari total produksi. Total pemanenan dapat berlangsung selama 1 bulan.
+Rata-rata produksi satu kumbung berukuran 4 m x 7 m sekitar 200 ­ 250 kg. Banyak sedikitnya hasil panen dipengaruhi oleh beberapa faktor, antara lain kualitas dari bibit termasuk didalamnya sifat genetik bibit yang digunakan, kualitas media, proses sterilisasi, dan kondisi lingkungan.
+Hasil panen umumnya sangat bervariasi dalam kualitasnya. Jamur merang yang dikatakan baik, bila masih dalam stadia kancing, berdiameter sekitar 3 ­ 5 cm, berwarna putih coklat muda, dan bentuknya tidak rusak, karena terserang mikroorganisme. Jamur dengan mutu yang baik ini dapat dipasarkan di pasar swalayan, tetapi sebelumnya bagian bawah yang kotor diiris dengan pisau, agar bersih dan kemudian dikemas dalam plastik. Adapun jamur yang kurang berkualitas dapat dipasarkan di pasar tradisional.
+Jamur hasil panen ini sebaiknya segera dipasarkan, karena daya tahannya tidak lama. Pada suhu kamar, jamur merang hanya bertahan 1 ­ 2 hari, sedangkan bila disimpan dalam lemari pendingin dapat bertahan 3 ­ 4 hari.
+Gambar 9. Proses Pemanenan Jamur Merang
+16
+
+F. Analisa Usahatani
+
+Usahatani jamur merang dapat menghasilkan produksi per daur usaha selama 40 hari. Analisis usahatani jamur merang selama satu musim pemeliharaan (40 hari) di Desa Cantigi Wetan pada tahun 2008 dapat dilihat pada Tabel 4. Berdasarkan tabel tersebut dapat dilihat bahwa pendapatan petani dari setiap kumbung sebesar Rp. 979.750,-/ periode (40 hari).
+
+Tabel 4. Analisis U saha Budidaya Jamur Merang di Desa Cantigi
+
+Wetan, Tahun 2008.
+
+No.
+
+U raia n
+
+Volu me sat uan
+
+A. Mo dal Tet ap
+
+1 Bam bu
+
+200 Batang
+
+2. Plastik (190 x 12 m )
+
+20 Kg
+
+3. Steroform
+
+100 Le mbar
+
+4. Bilik
+
+3 Le mbar
+
+5. Tam bang pla stik 6. Paku ukuran(12, 10, 7, 5 )
+
+5 Golong 2,5 Buah
+
+7. Drum
+
+2 Buah
+
+8. Pipa besi (3'')
+
+5 M
+
+9. Pasir
+
+1 colt
+
+10. Sem en
+
+2 Sak
+
+11. Bata m erah
+
+500 Buah
+
+12. Singkup
+
+2 Buah
+
+13. Garpu besi
+
+2 Buah
+
+14. Term om eter ITV m in & m ax
+
+1 Buah
+
+15. Term om eter (100° C)
+
+1 Buah
+
+16. Ember plastik 17. Embrat (5ltr)
+
+2 Buah 1 Buah
+
+18. Lakban putih
+
+1 R ol
+
+19. Tim ba ngan duduk (15 kg)
+
+1 Buah
+
+20. Hand sprayer (sw an)
+
+1 Unit
+
+21. Pom pa air ke cil (Esco)
+
+1 Unit
+
+22 Selang plastik
+
+50 m
+
+To tal Mod al Tetap
+
+B. Biaya Variabel
+
+I. Bahan
+
+1. Je ra mi kering
+
+1,5 Ton
+
+2. Dedak halus
+
+200 Kg
+
+3. Am pa s a re n/a mpas gula /lim ba h kap as
+
+20 Kg
+
+Har ga Sat uan
+( Rp )
+
+Jum lah (R p)
+
+5. 000 2 5 .00 0
+9. 000 2 5 .00 0 4 6 .50 0 1 8 .00 0 7 5 .00 0 3 2 .00 0 150. 000 5 2 .00 0
+40 0 4 0 .00 0 3 0 .00 0 5 0 .00 0 5 0 .00 0 2 2 .50 0 4 0 .00 0 1 0 .00 0 100. 000 450. 000 450. 000 3 0 .00 0
+
+1 .00 0 .0 0 0 50 0.0 0 0 90 0.0 0 0 7 5 .0 0 0 23 2.0 0 0 45 0.0 0 0 15 0.0 0 0 16 0.0 0 0 15 0.0 0 0 10 4.0 0 0 20 0.0 0 0 8 0 .0 0 0 6 0 .0 0 0 5 0 .0 0 0 5 0 .0 0 0 4 5 .0 0 0 4 0 .0 0 0 1 0 .0 0 0 10 0.0 0 0 45 0.0 0 0 45 0.0 0 0 3 0 .0 0 0
+5 .2 86 .50 0
+
+300. 000 1. 200 7. 500
+
+30 0.0 0 0 24 0.0 0 0 15 0.0 0 0
+
+17
+
+No.
+
+Uraian
+
+4. Bibit jamur
+
+Volume satuan 80 Log
+
+H arg a Satuan
+(R p) 3.500
+
+Jumlah ( Rp )
+280.000
+
+5. Gula putih 6. Kayu bakar
+
+3 Kg 2 M3
+
+6.000 80.000
+
+18.000 160.000
+
+7. Air
+
+1 Tangki
+
+150.000
+
+150.000
+
+8. Detergen
+
+1 kg
+
+15.750
+
+15.750
+
+Jum la h
+
+1. 31 3.7 50
+
+II. Tena ga Kerja
+
+1. Pencelupan, penataan, penaburan kapur & dedak pada je ra mi
+2. Membalik jerami, penataan & penaburan dedak
+
+3 HOK 2 HOK
+
+42.500
+
+127.500
+
+40.000
+
+80.000
+
+3. Pencampuran, pembalikan, penaburan media suplemen (dedak, limbah kapas, kapur & air)
+4. Memasukan dan penataan jerami diatas rak
+5. Perlakuan fumigasi (pengisian air di drum, pemasangan pipa, 7 pe mb akar an )
+6. Inok ulasi/penanaman 7. Penyiraman media jerami &
+suplemen pada media di rak 8. Pembongkaran media jerami 9. Membersihkan kumbung
+
+2 HOK
+2 HOK 2 HOK
+2 HOK 2 HOK 2 HOK 1 HOK
+
+Total Biaya variabel
+
+Hasil/Produksi (Super)
+
+175 kg
+
+(BS)
+
+35,6 kg
+
+P ener im aan
+
+P en dapat an
+
+Nilai efisiensi/ BC Ratio
+
+40.000
+
+80.000
+
+40.000 40.000
+
+80.000 80.000
+
+40.000 40.000
+
+80.000 80.000
+
+40.000 40.000
+15.000 10.000
+
+80.000 40.000 687.500 2. 00 1.2 50 2.625.000 356.000 2. 98 1.0 00 979.750 1,5
+
+Sumber: Laporan Primatani Kabupaten Indramayu, Tahun 2008
+
+18
+
+DAFTAR PU STAKA Budhi Widiastuti, Budidaya jamur kompos, jamur merang dan jamur
+kancing, Penebar Swadaya, 2007. Parjimo dan Agus Andoko, Budidaya jamur, jamur kuping, jamur
+tiram, dan jamur merang, Agro Media Pustaka 2007
+19

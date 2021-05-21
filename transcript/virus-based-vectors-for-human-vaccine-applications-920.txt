@@ -1,0 +1,456 @@
+DDT Vol. 7, No. 13 July 2002
+
+research focus reviews
+
+Virus-based vectors for human vaccine applications
+John M. Polo and Thomas W. Dubensky, Jr
+
+Vaccinology has experienced a dramatic resurgence recently, as traditional methodologies of using attenuated live pathogens or inactivated whole pathogens have been either ineffective or are not an acceptable risk for several disease targets, including HIV and Hepatitis C. Gene-based vaccines can stimulate potent humoral and cellular immune responses, and viral vectors might be an efficient strategy for both delivery of antigen-encoding genes, as well as facilitating and enhancing antigen presentation. Vectors derived from diverse viruses with distinct tropism and gene expression strategies have been developed, and are being evaluated in preclinical and clinical vaccine studies. Virus-based vaccines represent a promising approach for vaccines against infectious and malignant disease.
+
+John M. Polo* Chiron Corporation Immunology and Infectious
+Diseases 4560 Horton St Emeryville, CA 94608, USA *tel: +1 510 923 8140 fax: +1 510 923 2586 e-mail: john_polo@chiron.com Thomas W. Dubensky, Jr Cerus Corporation Cancer Research 2411 Stanwell Dr. Concord, CA 94520, USA
+
+w The field of vaccinology has historically experienced success in developing prophylaxes for a variety of infectious disease agents by using traditional approaches of attenuated or inactivated microorganisms, protein subunits, toxoids or capsular polysaccharides [1,2]. However, for several remaining or emerging infectious agents, including many that have enormous impact on global public health, such as HIV, conventional vaccine technologies have not provided protective immunity. This is likely to be because of a requirement for eliciting a broad combination of cellular, humoral and mucosal immune responses, without the inherent risk of using live, attenuated vaccines, or the lack of relevant antigen targets that have been identified. Thus, there is a tremendous need for the application of more recent technological advancements to the vaccine field. Genomics technology is proving useful for identification of new target antigens, not only for infectious disease agents but also an increasing number of tumor-associated antigens (TAA) important for the oncology field [3­5]. Yet, having effective means to stimulate the immune response
+
+remains crucial to vaccine development for infectious and malignant disease.
+Gene-based delivery of antigens, and in particular application of virus-derived vectors, offers several potential advantages over traditional vaccine technologies. These include, most notably, high-level production of authentic protein antigens directly within cells of the immunized host, potential adjuvanting effects from the viral delivery system itself and the possibility of efficient delivery of antigen directly to components of the immune system, such as antigen-presenting dendritic cells (DCs). The use of viral vectors as vaccines is not without its own unique issues, each of which must be addressed for commercial application. This review will provide detail on three viral vector vaccine systems receiving considerable attention in the literature and deemed by the authors to be most advanced. In addition, two other promising viral vectors still in their infancy of development will be discussed briefly.
+Poxvirus vectors Poxvirus vectors are the most advanced and widely tested of all vaccine vectors, based on the tremendous nonhuman primate and human clinical experience gained to date. The viruses are characterized by complex DNA genomes and replication mechanisms, as well as a diverse array of tropisms, from primate to avian to insect hosts. Poxvirus vaccine vectors have been developed from the Orthopoxvirus and Avipoxvirus genera, with variola virus, the causative agent of smallpox, and vaccinia virus, the smallpox vaccine belonging to the former, and with fowlpox and canarypox belonging to the latter [6,7]. Within large enveloped virion particles, poxvirus genomes are linear double-stranded DNA of up to 300 Kb pairs [6,7]. Unique
+
+1359-6446/02/$ ­ see front matter ©2002 Elsevier Science Ltd. All rights reserved. PII: S1359-6446(02)02324-3
+
+www.drugdiscoverytoday.com
+
+719
+
+reviews research focus
+
+DDT Vol. 7, No. 13 July 2002
+
+among DNA viruses, the replication cycle occurs entirely within the cytoplasm of the infected cell. To accommodate this cytoplasmic life cycle, the poxvirus genome must encode DNA and RNA polymerases, transcription factors and DNA biosynthesis elements. The genome also encodes a large number of structural proteins that make up the virion particle. As with most DNA viruses, transcription is generally modular, with early promoters active before DNA replication, and intermediate and late promoters active following replication. A variety of these temporally regulated promoters can be used for the expression of desired antigens, and the choice of promoter clearly influences the timing and level of expression.
+Initial work demonstrating the use of poxviruses as expression vectors was with vaccinia virus [8,9]. Properties of the virus that make it attractive for vector development include a broad host range, high-level gene expression from a variety of poxviral promoters, large payload capacity for large or multiple genes, vector temperature stability and cytoplasmic expression that facilitates coupled transcription and translation. It was also observed that large portions of the genome were dispensable for expression vector derivation [6,7]. However, the large genome size presents obstacles for heterologous gene insertion, unlike vectors derived from relatively simple virus genomes. Heterologous genes are inserted into the poxvirus genome by homologous DNA recombination within infected cells using a transfer plasmid vector that contains the complete expression cassette, including promoter, flanked by additional poxvirus sequences that direct recombination within a specified genome region [8,9]. Identification of recombinants can be accomplished by a variety of means, including recombination into the thymidine kinase (TK) locus and selection in TK-negative cells, or the incorporation of drug selection markers or reporter genes [6]. Alternatively, poxvirus vectors can be derived by direct ligation of genes into selected restriction sites within the viral genome, and transfection of the DNA into cells infected with a helper virus that contains a negative-selectable phenotype, such as temperature-sensitivity or restricted growth in particular cell types [10,11].
+Vaccinia virus vectors With the development of vaccinia virus vectors derived from smallpox vaccine strains came a desire to use parental strains that had potentially better safety profiles. This emphasis was fostered by severe complications that were occasionally observed during the smallpox eradication campaign and during clinical studies with the vector. One highly attenuated and well-characterized vaccinia virus was derived from the Ankara strain by ~570 serial passages
+
+in primary chick embryo fibroblasts (CEF). As a result, modified vaccinia virus Ankara (MVA) has extensive genome deletions, including at least two host-range genes, and is severely restricted for growth, replicating only in CEF cells [12]. Safety of the MVA virus has been well-documented through primary vaccination of >120,000 humans. Furthermore, the attenuating mutations have been mapped to the genome deletions [13]. Somewhat surprisingly, the defect for virus growth in mammalian cells did not impair transcription from the viral promoters or expression of heterologous genes within the vector format [12]. With similar results, defined molecular attenuation of vaccinia virus has been performed by deletion of 18 genes from the Copenhagen vaccine strain's genome, including several implicated in virulence and host range phenotypes [14]. This highly attenuated, engineered variant (designated NYVAC) efficiently expresses heterologous genes as a vaccine vector. MVA- and NYVAC-derived poxvirus vectors, as well as vectors derived from original vaccine strains, have been tested extensively in human and non-human primates for safety and immunogenicity. Human clinical studies demonstrated safety and the ability to induce, albeit somewhat inconsistently, antigen-specific immune responses [15­18]. These studies also raised concerns about the use of vaccinia vectors in individuals with pre-existing immunity from previous smallpox vaccination, as antigenspecific immune responses tended to be more consistent in vaccinia-naïve volunteers. Vector-specific immunity might also limit the effectiveness of multiple vaccinia vector administrations.
+Avipoxvirus vectors The avipox genus has received considerable attention as a poxvirus alternative to vaccinia because of its favorable safety profile of attenuation and severely restricted host range, with productive replication occurring only in avian cells. Avipoxviruses initiate an abortive infection of nonavian cells, thus permitting expression of genes under the control of relevant viral promoters, without subsequent viral DNA replication and production of progeny virus [7]. Manufacture of avipox vectors is in cultured permissive avian cells, which maintains the abortive replication phenotype in the mammalian vaccinee. Importantly, avipoxvirus-derived vectors are not neutralized by preexisting vaccinia immunity. Avipoxvirus vector development was performed initially using the fowlpox virus (FPV), an attenuated poultry vaccine. FPV vectors expressing the rabies virus glycoprotein were shown to induce protective immune responses against rabies virus challenge in several animal models [19]. Subsequently, canarypox virus vectors were also developed, and one commonly used vector
+
+720 www.drugdiscoverytoday.com
+
+DDT Vol. 7, No. 13 July 2002
+
+research focus reviews
+
+is from the ALVAC virus, a plaque derivative of the KANAPOX vaccine strain [14]. For reasons not understood, canarypox vectors seem to be more potent ­ perhaps as much as 100fold ­ over their fowlpox counterparts [20]. Therefore, significant efforts have focused on testing canarypox systems in nonhuman primates and human clinical studies [17,18,21,22]. In general, canarypox vectors were found to be immunogenic, but responses were not entirely consistent. In the few direct comparisons made between orthopox and avipox vectors, data tend to suggest higher potency of the former [17,18].
+
+(a) Ad genome
+
+Late Tx
+
+L1 L2 L3
+
+L4 L5
+
+E1A E1B E2B
+
+(b) Ad vectors
+Replication incompetent
+
+dl E1A/E1B
+
+E3 E2A
+
+E4
+
+dl E3 (dl E4)
+
+Ag cassette
+
+ITR/psi+
+
+ITR
+
+Helper
+
+dependent
+
+`Stuffer'-Ag cassette-`stuffer'
+
+Adenovirus vectors Adenovirus (Ad)-based vectors have
+
+Replication selective
+
+dl E1A or E1B
+
+dl E3b
+
+been used in multiple human gene
+
+Tissue-specific promoter
+
+Cytokine
+
+therapy clinical trials and historically have been among the most widely
+
+Drug Discovery Today
+
+used viral vectors in preclinical studies for both gene therapy and vaccine applications. Ad vectors are relatively easy to manipulate, can be produced consistently and cost-effectively at high titer (>1013 infectious units ml-1) and are highly infectious in vivo [23]. Three general types of Ad vectors have been developed, including: replication incompetent, helper-dependent or `gutless', and replication selective [23,24]. Each of these Ad vector configurations is being evaluated for various infectious disease and cancer vaccine
+
+Figure 1. Adenovirus (Ad)-based vectors. (a) Schematic of partial Ad genomic organization. Transcription (Tx) of adenoviral genes occurs from both DNA strands and expression is segregated temporally, occurring either before (viral early genes, E1­E4), or after DNA replication (viral late genes, encoding virus particle structural proteins). (b) Configuration of replication-incompetent, helper-dependent and replication-selective Ad-based vectors. Replication-incompetent vectors contain an antigen expression cassette substituted for the deleted E1A­E1B region. Typically, the E3 region is also deleted to accommodate larger insertions. Regions of E2 and/or E4 can be deleted to diminish expression of late viral genes. Helper-dependent vectors are deleted of all viral genetic information except the termini and the packaging sequence, which are required for vector propagation by helper systems. The antigen expression cassette is inserted into the deleted region together with a `stuffer' sequence, such that overall vector length is approximately the 36 Kb size of native Ad, to achieve efficient propagation. Replicationselective adenoviruses contain deletions in E1A or E1B, which render their propagation selective in cancer cells deficient in p53 or pRB function. Alternatively, tissue-specific promoters (e.g. prostate-specific antigen and -fetoprotein) can be substituted for the E1A promoter, so that productive virus infection occurs selectively in tumors having appropriate factors for activity of these promoters. Abbreviation: ITR, inverted terminal repeats.
+
+applications, and will be discussed
+
+later.
+
+The first Ad-based vector developed, and presently the the viral E4 region, which must be provided in trans for
+
+most widely used, is the replication-incompetent type [23]. production of recombinant virus, can also be deleted, to
+
+The common feature of all replication-incompetent Ad- increase coding capacity and reduce pro-inflammatory re-
+
+vectors is deletion of the viral E1 region (Fig. 1). The Ad E1 sponses in vivo [23]. To derive recombinant Ad vector parti-
+
+region encodes two genes, E1a and E1b, which through al- cles, an antigen-expression cassette is first engineered into
+
+ternative splicing express several distinct proteins. an Ad shuttle plasmid. This construct is then cotransfected
+
+Functions associated with the E1 region proteins include with the E1/E3-deleted Ad vector backbone into 293 cells,
+
+regulation of host cell p53 and pRb function to promote an embryonic kidney cell line that stably expresses the Ad
+
+entry into S-phase and inhibit induction of apoptosis, and E1 region proteins. Through homologous recombination,
+
+to facilitate viral mRNA transport late in the infectious life the antigen expression cassette is thus incorporated into
+
+cycle [25]. In addition, the viral E3 region (dispensable for the E1 region of the Ad vector [23]. This process has been
+
+production of recombinant virus) is typically deleted and dramatically facilitated through site-specific recombination,
+
+www.drugdiscoverytoday.com
+
+721
+
+reviews research focus
+
+DDT Vol. 7, No. 13 July 2002
+
+using bacteriophage or yeast recombinases and including their target sequences on the shuttle plasmid and vector [26]. Propagation of replication-incompetent Ad vector is also in 293 cells. However, replication-competent Ad (RCA) arises during production of vector particles, because of sequence complementarity between the vector and Ad sequences in the 293 cells. This problem has been resolved by the development of an analogous E1-transformed human retinal cell line (PER.C6), which does not contain sequences complementary to the vector [27].
+Clinical application of replication-incompetent Ad vectors has been overwhelmingly for cancer immunotherapy, in both ex vivo transduction of autologous tumor or DCs or direct administration settings. Ad encoding one of a variety of cytokines, including granulocyte-macrophage-colony stimulating factor (GM-CSF), interleukin-2 (IL-2), IL-12, interferon- (IFN-) or tumor necrosis factor- (TNF-) have been used in these clinical trials [24,28]. In addition, replication-incompetent Ad vectors expressing the melanomaspecific antigens MART-1 or gp100 have been used in a therapeutic cancer vaccine setting to immunize patients with metastatic melanoma, either alone or in combination with IL-2. Although a single complete response was observed among 16 patients treated with the MART-1 vector alone, other more frequently observed objective responses could be attributed to IL-2 [29]. Also, replication-incompetent Ad vectors are being used increasingly in both preventative and therapeutic infectious disease settings. Two of the most promising reports recently were studies in nonhuman primate models of the Ebola virus and HIV [30,31]. In each study, an immunization regimen that included priming with plasmid DNA followed by boosting with Ad vector particles was tested. Such a prime-boost strategy has been shown to augment responses compared with plasmid DNA alone [30]. In both studies, immunized animals were resistant to challenge with lethal doses of virus.
+Ad vectors that are completely devoid of any viral genes have been developed as `gutless', or `helper-dependent' vectors, which contain only the viral inverted terminal repeats (ITRs) and packaging sequence, and can accommodate 36 Kb of heterologous genetic material (Fig. 1). Production of gutless Ad vectors is by co-cultivation with a helper virus, but it has been difficult to produce materials that are not contaminated with wild-type Ad helper. An approach using the cre recombinase or loxP system to remove the packaging sequence from the helper virus has improved the production process [32]. Among the reasons why helper-dependent Ad vectors are being developed are: (1) to reduce viral protein-induced pro-inflammatory responses observed with first generation Ad vectors, resulting in a longer duration of transgene expression in vivo
+
+[33]; and (2) to accommodate larger insertions. Thus, helper-dependent Ad vectors were developed ostensibly for classical gene therapy applications. However, given the increased complexity of vaccines in development ­ requiring increased vector capacity ­ these vectors are also being tested for vaccine applications. Because it has been demonstrated that the Ad capsid itself stimulates pro-inflammatory cytokine responses in vivo, the helper-dependent Ad vectors would appear to be well-suited for vaccine applications.
+A rapidly emerging field that has shown promise in early- and mid-phase clinical trials is based on replication selective ­ also known as oncolytic ­ adenoviruses [34] (Fig. 1). Replication-selective Ad are based on the concept of selective growth and propagation in cells of solid tumors, resulting in reduction of the tumor mass without systemic toxicity. Because they can be propagated in selected unmodified cell lines, one attractive feature of Ad oncolytic viruses is efficient means for manufacture. Local destruction of tumors at the site of injection in both preclinical and clinical studies has been observed [35]. Efficacy following systemic virus administration in xenograft models of metastatic disease has also been observed [36]; although to date there has not been parallel evidence in human clinical trials. To enhance both local and systemic potency, technology has been developed to `arm' these viruses with transgenes ­ including cytokines ­ whose expression is conditional on virus DNA replication, which conceptually is limited to cancer cells [37]. Thus, virus-induced oncolysis is being combined with a cancer immunotherapy approach in an attempt to enhance the extent and durability of the anti-tumor response.
+Collectively, Ad-based vectors continue to be promising platforms for both malignant and infectious disease clinical applications. One limitation for these vectors might be multiple repeat administrations ­ an issue of particular importance for cancer immunotherapy, and an issue that might have prevented clinical responses in previous trials. To address this, Ad vector platforms have been derived from viruses other than subgroup C, of which Ad 5, the most commonly used vector, is a member. For example, Ad 35, a subgroup B virus, is serologically distinct from Ad 5, uses a distinct cellular receptor, and has also been reported to efficiently infect and activate human DCs [38]. These features, combined with a possible lower prevalence of pre-existing immunity as compared with Ad 5, suggest that Ad 35 ­ as well as other subgroup B viruses ­ might see increased future clinical application.
+Alphavirus vectors Compared with the poxvirus and Ad systems, vectors based on alphaviruses are less mature in their development.
+
+722 www.drugdiscoverytoday.com
+
+DDT Vol. 7, No. 13 July 2002
+
+research focus reviews
+
+Nonetheless, their promise as vaccinating agents is clear and evidenced by a
+
+Plasmid replicon
+
+rapidly expanding body of literature.
+
+CMV nsP1 nsP2 nsP3 nsP4
+
+Antigen
+
+Alphaviruses are members of the
+
+Togaviridae family and share common structural and replicative properties. Although some members of the group, such as eastern equine encephalitis virus, are serious human pathogens,
+
+(+) strand m7G 5 nsP1 nsP2 nsP3 nsP4 JR RNA
+
+Antigen
+
+Nucleus Cytoplasm 3 AAA
+
+others, including Sindbis virus (SIN)
+
+and Semliki Forest virus (SFV), are not
+
+linked to serious human disease. These
+
+(-) strand 3 RNA
+
+5
+
+two viruses have served as prototypes
+
+for the molecular study of all alphaviruses, and together with Venezuelan
+
+m7G
+
+Antigen
+
+AAA
+
+equine encephalitis virus (VEE) are being developed into expression vectors for vaccine applications [39,40].
+
+Antigen
+
+m7G m7G
+
+Antigen Antigen
+
+AAA AAA
+
+Alphaviruses possess a relatively small single-stranded RNA genome of positive polarity, which is approximately 12 Kb in length, capped and polyadenylated. The RNA interacts with viral capsid protein monomers to form nucleocapsids, which in turn are surrounded by a host cell-derived lipid envelope from which two viral glycoproteins ­ E1 and E2 ­ protrude, forming `spike' trimers of heterodimeric subunits. Two open reading frames (ORFs)
+
+Drug Discovery Today
+Figure 2. Plasmid DNA-based alphavirus replicon. Schematic of the replicon cDNA configuration within a typical RNA polymerase II (pol II) cassette. The positioning of replicon cDNA immediately adjacent to the pol II transcription start site provides for in vivo synthesis of a positive-stranded RNA replicon with an authentic 5-end. Following cytoplasmic RNA transport, translation of the four nonstructural genes (nsP1­4) as a polyprotein that is post-translationally processed results in an active replicase complex, which programs high-level cytoplasmic RNA amplification through a negative-stranded RNA intermediate. The nonstructural replicase proteins also mediate transcription of additional positive-stranded RNA and an abundant subgenomic mRNA encoding the antigen. Replicon RNA is devoid of the alphavirus structural protein genes, thereby eliminating the possibility of progeny virus or cell-to-cell spread. Abbreviation: CMV, cytomegalovirus.
+
+encode as polyproteins the enzymatic
+
+nonstructural replicase proteins (5 ORF) and the virion structural polyprotein genes, while maintaining the 5- and
+
+structural proteins (3 ORF). The structural polyprotein is 3-end cis replication signals, the nonstructural replicase
+
+translated from a highly abundant subgenomic mRNA, genes and the subgenomic promoter (Fig. 2). The complete
+
+which is transcribed from a strong internal alphavirus pro- absence of any structural protein genes renders alphavirus
+
+moter [39]. Replication of the genome occurs exclusively replicon vectors defective, in that RNA amplification and
+
+within the host cell cytoplasm as RNA and could thus high-level heterologous gene expression occurs within the
+
+provide inherent safety advantages for alphavirus-derived target cell, but cell-to-cell spread of vectors is not possible
+
+vectors by eliminating any possibility of DNA integration because of the inability to form progeny virions. Genetic
+
+events. Furthermore, alphavirus vector-containing cells manipulation of the replicon, including insertion of het-
+
+might eventually undergo an apoptosis-dependent cell erologous genes, is performed using a cDNA copy contained
+
+death. Additional properties that are considered to be ad- within a plasmid that is typically linked to a bacteriophage
+
+vantageous toward vaccine vector development include promoter enabling in vitro transcription of `infectious' vec-
+
+their overall simplicity, broad host range, transient but tor RNA [41,42]. From the plasmid cDNA form, advance-
+
+high levels of gene expression and a general lack of pre- ments to the system now permit the use of alphavirus
+
+existing immunity in the population.
+
+replicons for vaccine delivery in a variety of formats,
+
+The most common alphavirus expression vectors have including DNA, RNA and virus-like particles [40].
+
+exploited both the positive-stranded nature and modular
+
+organization of the RNA genome. These vectors, termed DNA-based replicons
+
+`replicons' because of their property of self-amplification, In the context of a rapidly growing DNA vaccine field
+
+permit insertion of heterologous genes in place of the and an increased desire to improve DNA vector potency,
+
+www.drugdiscoverytoday.com
+
+723
+
+reviews research focus
+
+DDT Vol. 7, No. 13 July 2002
+
+Replicon RNA, DNA or vector particles
+Integrated cassettes m7G 5 nsProteins Antigen 3 A(n)
+
+Replicase catalyzed amplification of RNAs m7G 5
+
+E2/E1 3 A(n)
+
+m7G 5 nsProteins
+
+m7G 5 Antigen 3 A(n)
+
+capsid 3 A(n)
+
+C, E1, E2
+
+simple adjuvant effects of the alphavirus replicase proteins. In addition, because the plasmid-based alphavirus replicons are indeed simple plasmid DNA, they can be formulated and delivered using any of the transfection facilitating agents or methods available, such as poly(lactide-coglycolide) (PLG) microparticles [47]. Similar to plasmidbased delivery, it has also been shown that in vitro transcribed replicon RNA itself can be used for the vaccination of animals [48].
+
+Particle-based replicons
+
+Replicon particle production
+
+In contrast to plasmid replicons, alphavirus replicon particles deliver antigen
+
+via `infection', using natural receptors
+
+Drug Discovery Today
+
+on the vaccinee's host cells, similar
+
+Figure 3. Alphavirus replicon packaging cell line (PCL). Schematic of the production of replication-defective alphavirus replicon particles using a stable PCL. PCLs generally contain two integrated expression cassettes that constitutively transcribe helper RNA molecules, which separately encode the alphavirus structural proteins [capsid (C), E2, E1] necessary for packaging of replicon RNA into virus-like particles. By maintaining alphavirus 5- and 3-end replication signals and subgenomic promoter control of the structural protein genes, the RNAs are amplified in trans by the replicon-encoded nonstructural proteins, and structural protein expression is tightly regulated and thus inducible. Vector replicon RNA encoding the antigen generally might be introduced into the PCL for packaging into virus-like particles by one of three means: transfection of in vitro transcribed replicon RNA, transfection of plasmid DNA-based replicon (see Fig. 2) or infection with a previously generated seed stock of replicon particles. Replicon particles produced using PCL are devoid of alphavirus structural protein genes, thereby eliminating the possibility of progeny virus or cell-to-cell spread.
+
+in concept to the previously described poxvirus and Ad vectors. Packaging of replicon RNA into particles can be accomplished by co-transfection of permissive cells with in vitro transcribed replicon RNA and `helper' RNA encoding the structural proteins under the control of their native subgenomic promoter. Helper RNAs maintain the 5- and 3-end cis signals for co-amplification with the replicon, but are devoid of any replicase genes and the
+
+packaging signal [42,49]. Because RNA
+
+plasmid-based alphavirus replicons are an attractive alter- recombination problems were observed with the original
+
+native over conventional DNA vaccines [43,44]. The basic single helper systems [42,49], resulting in significant levels
+
+premise of plasmid replicons is a `layered' expression strat- of contaminating replication-competent virus (RCV), a
+
+egy, wherein a eukaryotic promoter is linked to and tran- modified two-helper approach was developed to avoid the
+
+scribes replicon RNA from the cDNA copy (Fig. 2). In turn, generation of RCV. In the two-helper system, structural
+
+the replicon RNA programs its own cytoplasmic amplifi- polyprotein sequences were `split' into separate capsid and
+
+cation and high-level heterologous gene expression from envelope glycoprotein constructs [50­52]. More recently,
+
+the subgenomic promoter using alphaviral replicase en- technology for packaging replicon particles has been fur-
+
+zymes that remain encoded by the vector. This approach ther advanced toward large-scale commercial production
+
+has been shown for several antigens to dramatically in- capabilities, by the development of stable alphavirus repli-
+
+crease DNA vaccine potency in terms of the requisite DNA con particle packaging cell lines (PCL). Alphavirus PCLs
+
+dose needed to induce cellular or humoral responses com- contain two integrated DNA cassettes, encoding the capsid
+
+pared with conventional cytomegalovirus (CMV) promoter- or envelope glycoprotein genes in a split helper configura-
+
+driven vaccines [45,46]. This profound effect on potency tion, similar to the transient system [52] (Fig. 3). Although
+
+could result from several different factors, including antigen initial PCL produced modest replicon particle titers between
+
+expression levels, stimulation of the innate immune system 106 and 107 infectious units mL-1, as measured by a functional
+
+by double-stranded RNA (dsRNA) intermediates produced transfer of expression assay, more recent versions have
+
+during amplification, induction of apoptosis in replicon- achieved significant productivity increases to greater than
+
+containing cells that results in antigen cross-priming, or 108 infectious units mL-1 replicon particle titers (Greer et al.,
+
+724 www.drugdiscoverytoday.com
+
+DDT Vol. 7, No. 13 July 2002
+
+research focus reviews
+
+unpublished). Most recently, another feature of alphavirus replicon particles is being exploited for vaccine application ­ the ability to modify receptor tropism. In particular, alphavirus replicon particles have now been engineered for antigen delivery to DCs, a phenotype that has been demonstrated in both mouse [53] and human [54] DCs. Strikingly, alphavirus replicons induce activation, maturation and antigen presentation in DCs on infection, which is a property unlike many of the other viral vectors discussed [54].
+To date, evaluation of alphavirus replicon particles as gene-based vaccines has been performed extensively in small animal models and has shown particularly potent induction of protective immune responses, using a variety of immunization routes, including mucosal delivery [51,52,55]. However, the recent exploitation of RNA-based viral vectors as an alternative to their DNA counterparts means that only a limited number of primate studies have been published, demonstrating their utility in larger animals [56,57]. Clearly, a variety of ongoing nonhuman primate studies, as well as the initiation of human clinical studies with alphavirus replicon particles during the coming year, will provide a wealth of information going forward.
+Poliovirus vectors Poliovirus is a member of the Picornaviridae family and is a small positive-stranded RNA virus with a genome of approximately 7.5 Kb, which is encapsidated within a nonenveloped protein shell. Poliovirus is the etiological agent of poliomyelitis, and thus all poliovirus vectors have been derived from the highly characterized and attenuated Sabin vaccine strains to minimize safety issues. Expression of poliovirus gene products occurs via a single long polyprotein that is post-translationally cleaved into the final products (Fig. 4a), and this gene expression strategy is necessarily factored into vector designs.
+Initial poliovirus vectors were constructed as replicons, in which the virion coat protein genes VP2 and VP3 were replaced with a heterologous gene, by creating in-frame fusions with remaining portions of the capsid precursor protein P1. Release of the expressed antigen from the large poliovirus polyprotein was achieved by flanking the insert with engineered viral protease cleavage sites [58] (Fig. 4a). Replicon RNA is packaged into virus-like particles by transfecting in vitro transcribed RNA into cells infected with helper poliovirus or with vaccinia virus recombinants expressing the intact poliovirus P1 region [59]. Alternatively, `live' poliovirus vaccine strains have also been modified to express additional sequences as replication-competent vectors, again using a fusion protein approach with flanking
+
+(a) Ag
+Insertion Substitution
+
+5 VPG VP0 VP3 VP1 2A 2B 2C 3A 3C 3D An3
+
+P1
+
+P2
+
+P3
+
+(b)
+
+stop-start Ag stop-start
+
+3
+
+N
+
+PM
+
+G
+
+L
+
+5
+
+Drug Discovery Today
+
+Figure 4. Poliovirus and rhabdovirus vectors. (a) Schematic of poliovirus RNA genome and strategies for insertion of heterologous antigen sequences into replication-competent or replication-defective poliovirus vectors. Poliovirus genes comprise a single, long open reading frame (ORF) that is posttranslationally processed into the individual gene products. Replication-defective poliovirus replicons are constructed by replacing `in-frame' the virion coat protein gene sequences VP2 (portion of VP0) and VP3 with the antigen-encoding heterologous sequence flanked by protease cleavage sites. Replication competent, live poliovirus vectors are constructed by insertion of the heterologous sequence, again flanked by one or more protease cleavage sites, at the polyprotein amino terminus, or alternatively at the P1­P2 junction. (b) Schematic of rhabdovirus genome with insertion strategy for antigenencoding heterologous sequences to construct a replicationcompetent rhabdoviral vector. Gene expression from the relatively simple rhabdovirus genome occurs by transcription of the gene products sequentially, as the polymerase moves across the genome in a linear manner, encountering distinct intergenic transcription stop and start signals. Construction of vectors is accomplished by insertion of the antigen-encoding heterologous gene into the intergenic region following the envelope glycoprotein (G) gene, while ensuring that rhabdovirus transcription start­stop signals are present and flanking (upstream and downstream of) the heterologous gene. (N,P,M,G and L are rhabdovirus proteins.)
+
+protease cleavage sites. Insertion of heterologous genes at either the polyprotein amino terminus or the P1­P2 junction resulted in viable recombinant virus [60,61] (Fig. 4a). Because live poliovirus vectors are replication-competent, no helper strategy is required for production.
+Both configurations have been tested in mouse models, using a variety of immunization routes, including mucosal delivery. In addition, primate studies with simian immunodeficiency virus antigens have been published [62], with each vector platform demonstrating immunogenicity. Although polioviruses do offer a potentially potent delivery system, limitations include the size and stability of heterologous gene inserts [63] and high levels of pre-existing immunity to poliovirus vectors in the general population.
+
+www.drugdiscoverytoday.com
+
+725
+
+reviews research focus
+
+DDT Vol. 7, No. 13 July 2002
+
+Rhabdovirus vectors Two members of the Rhabdoviridae family are being evaluated for use as viral vaccine vectors, vesicular stomatitis virus (VSV) and rabies virus. Rhabdoviruses are relatively simple negative-stranded RNA viruses with a genome of ~11 Kb (Fig. 4b). Rhabdoviruses transcribe their gene products in a sequential manner as the polymerase moves across the genome in a linear manner, encountering distinct intergenic transcription stop and start signals. The relatively recent development of systems for recovering infectious material from cDNA clones for these negative-stranded viruses, by expressing in cells both antigenomic RNA and also the viral proteins (N, P and L) needed for formation of a transcriptionally active ribonucleoprotein (RNP) complex [64], has enabled their exploitation as expression vectors.
+Construction of expression vectors has primarily used an approach of duplicating the rhabdovirus transcription start­stop signals flanking either side of the heterologous gene and positioning this cassette into the intergenic region following the envelope glycoprotein (G) gene [65,66] (Fig. 4b). Following recovery of infectious virus, the initial seed stock can be used for subsequent high titer expansion of the recombinant virus preparation. Rhabdovirus vectors appear to offer genetic stability of the heterologous gene insert during virus passage, as determined by the maintenance of reporter gene expression following extensive cell culture passage [65,66]. Although these analyses indicated no significant reporter gene deletion or sequence modifications, minor sequence changes in the insert were observed over time [66]. Rhabdovirus vectors expressing different antigens have been shown to induce potent immune responses in murine models [67,68]. High vector neutralizing antibody titers generated after vaccination clearly preclude readministration of the same vector; however, substitution of the viral vector envelope glycoprotein might provide a limited number of opportunities to circumvent this issue [69]. Similar to the `live' poliovirus vectors, rhabdovirus vectors might face extensive safety concerns, although without the benefit of using a licensed human vaccine as starting material, such as for poliovirus.
+Conclusion Although a large and growing body of literature exists to support the general use of the diverse vector platforms presented here, little information is available about their comparative potencies. Certainly, in those instances in which alternative viral vectors have been tested in similar animal models, such as for the delivery of HIV or SIV antigens to Rhesus macaques, there are sufficient differences among the antigens and immunological assay protocols used to preclude any meaningful comparisons. Consequently,
+
+no conclusions can be drawn about the relative strengths of these vectors, until formal head-to-head studies are initiated, with vectors expressing a variety of identical antigen targets. It is likely that no single vector will provide the key for every vaccine application and that alternative vector systems might be required for different targets. Alternatively, a combination of different vectors could prove to stimulate the greatest breadth and depth of antigen-specific immune responses for a given single indication. In the meantime, each of these viral vectors will continue to move on the path to ­ and hopefully through ­ full human clinical evaluation.
+References
+1 Mäkelä, P.H. (2000) Vaccines, coming of age after 200 years. FEMS Microbiol. Rev. 24, 9­20
+2 Hilleman, M.R. (2000) Vaccines in historic evolution and perspective: a narrative of vaccine discoveries. Vaccine 18, 1436­1447
+3 Moingeon, P. (2001) Cancer vaccines. Vaccine 19, 1305­1326 4 Rappuoli, R. (2001) Reverse vaccinology, a genome-based approach to
+vaccine development. Vaccine 19, 2688­2691 5 Dhiman, N. et al. (2002) Gene expression microarrays: a 21st century
+tool for directed vaccine design. Vaccine 20, 22­30 6 Moss, B. (1996) Genetically engineered poxviruses for recombinant
+gene expression, vaccination, and safety. Proc. Natl. Acad. Sci. U. S. A. 93, 11341­11348 7 Paoletti, E. (1996) Applications of pox virus vectors to vaccination: an update. Proc. Natl. Acad. Sci. U. S. A. 93, 11349­11353 8 Mackett, M. et al. (1982) Vaccinia virus: a selectable eukaryotic cloning and expression vector. Proc. Natl. Acad. Sci. U. S. A. 79, 7415­7419 9 Panicali, D. and Paoletti, E. (1982) Construction of poxviruses as cloning vectors: insertion of the thymidine kinase gene from herpes simplex virus into the DNA of infectious vaccinia virus. Proc. Natl. Acad. Sci. U. S. A. 79, 4927­4931 10 Merchlinsky, M. and Moss, B. (1992) Introduction of foreign DNA into the vaccinia virus genome by in vitro ligation: recombinationindependent selectable cloning vectors. Virology 190, 522­526 11 Scheiflinger, F. et al. (1992) Construction of chimeric vaccinia viruses by molecular cloning and packaging. Proc. Natl. Acad. Sci. U. S. A. 89, 9977­9981 12 Sutter, G. and Moss, B. (1992) Nonreplicating vaccinia vector efficiently expresses recombinant genes. Proc. Natl. Acad. Sci. U. S. A. 89, 10847­10851 13 Meyer, H. et al. (1991) Mapping of deletions in the genome of the highly attenuated vaccinia virus MVA and their influence on virulence. J. Gen. Virol. 72, 1031­1038 14 Tartaglia, J. et al. (1992) NYVAC: a highly attenuated strain of vaccinia virus. Virology 188, 217­232 15 Cooney, E.L. et al. (1991) Safety of and immunological response to a recombinant vaccinia virus vaccine expressing HIV envelope glycoprotein. Lancet 337, 567­572 16 Ockenhouse, C.F. et al. (1998) Phase I/IIa safety, immunogenicity, and efficacy trial of NYVAC-Pf7, a pox-vectored, multiantigen, multistage vaccine candidate for Plasmodium falciparum malaria. J. Infect. Dis. 177, 1664­1673 17 Konishi, E. et al. (1999) Induction of Japanese encephalitis virus-specific cytotoxic T lymphocytes in humans by poxvirus-based JE vaccine candidates. Vaccine 16, 842­849 18 Kanesa-Thasan, N. et al. (2001) Safety and immunogenicity of NYVACJEV and ALVAC-JEV attenuated recombinant Japanese encephalitis virus­poxvirus vaccines in vaccinia-nonimmune and vaccinia-immune humans. Vaccine 19, 483­491 19 Taylor, J. et al. (1988) Recombinant fowlpox virus inducing protective immunity in non-avian species. Vaccine 6, 497­503
+
+726 www.drugdiscoverytoday.com
+
+DDT Vol. 7, No. 13 July 2002
+
+research focus reviews
+
+20 Taylor, J. et al. (1991) Efficacy studies on a canarypox-rabies recombinant virus. Vaccine 9, 190­193
+21 Fries, L.F. et al. (1996) Human safety and immunogenicity of a canarypox-rabies glycoprotein recombinant vaccine: an alternative poxvirus vector system. Vaccine 14, 428­434
+22 Belshe, R.B. et al. (2001) Safety and immunogenicity of a canarypoxvectored human immunodeficiency virus Type 1 vaccine with or without gp120: a Phase 2 study in higher- and lower-risk volunteers. J. Infect. Dis. 183, 1343­1352
+23 Hitt, M.M. and Graham, F.L. (2000) Adenovirus vectors for human gene therapy. Adv. Virus Res. 55, 479­505
+24 Kay, M.A. et al. (2001) Viral vectors for gene therapy: the art of turning infectious agents into vehicles of therapeutics. Nat. Med. 7, 33­40
+25 McCormick, F. (2000) Interactions between adenovirus proteins and the p53 pathway: the development of ONYX-015. Semin. Cancer Biol. 10, 453­459
+26 Ng, P. et al. (2000) An enhanced system for construction of adenoviral vectors by the two-plasmid rescue method. Hum. Gene Ther. 11, 693­699
+27 Fallaux, F.J. et al. (1998) New helper cells and matched early region 1-deleted adenovirus vectors prevent generation of replicationcompetent adenoviruses. Hum. Gene Ther. 9, 1909­1917
+28 Stewart, A.K. et al. (1999) Adenovector-mediated gene delivery of interleukin-2 in metastatic breast cancer and melanoma: results of a Phase I clinical trial. Gene Ther. 6, 350­363
+29 Rosenberg, S.A. et al. (1998) Immunizing patients with metastatic melanoma using recombinant adenoviruses encoding MART-1 or gp100 melanoma antigens. J. Natl. Cancer Inst. 90, 1894­1900
+30 Sullivan, N.J. et al. (2000) Development of a preventive vaccine for Ebola virus infection in primates. Nature 408, 605­609
+31 Shiver, J.W. et al. (2002) Replication-incompetent adenoviral vaccine vector elicits effective anti-immunodeficiency-virus immunity. Nature 415, 331­335
+32 Toietta G. et al. (2002) Generation of helper-dependent adenoviral vectors by homologous recombination. Mol. Ther. 5, 204­210
+33 Schnell, M.A. (2001) Activation of innate immunity in nonhuman primates following intraportal administration of adenoviral vectors. Mol. Ther. 3, 708­722
+34 Yoon, T-K.L. et al. (2001) Selectively replicating adenoviruses for oncolytic therapy. Curr. Cancer Drug Tar. 1, 85­107
+35 Khuri, F.R. et al. (2000) A controlled trial of intratumoral ONYX-015, a selectively-replicating adenovirus, in combination with cisplatin and 5-fluorouracil in patients with recurrent head and neck cancer. Nat. Med. 6, 879­885
+36 Ramachandra, M. et al. (2001) Re-engineering adenovirus regulatory pathways to enhance oncolytic specificity and efficacy. Nat. Biotechnol. 19, 1035­1041
+37 Hawkins, L.K. and Hermiston, T. (2001) Gene delivery from the E3 region of replicating human adenovirus: evaluation of the E3B region. Gene Ther. 8, 1142­1148
+38 Rea, D. et al. (2001) Highly efficient transduction of human monocytederived dendritic cells with subgroup B fiber-modified adenovirus vectors enhances transgene-encoded antigen presentation to cytotoxic T cells. J. Immunol. 166, 5236­5244
+39 Strauss, J.H. et al. (1994) The alphaviruses: gene expression, replication, and evolution. Microbiol. Rev. 58, 491­562
+40 Schlesinger, S. and Dubensky, T.W. (1999) Alphavirus vectors for gene expression and vaccines. Curr. Opin. Biotechnol. 10, 434­439
+41 Xiong, C. et al. (1989) Sindbis virus: an efficient, broad host range vector for gene expression in animal cells. Science 243, 1188­1191
+42 Liljestrom, P. and Garoff, H. (1991) A new generation of animal cell expression vectors based on the Semliki Forest virus replicon. Biotechnology 9, 1356­1361
+43 Dubensky, T.W. et al. (1996) Sindbis virus DNA-based expression vectors: utility for in vitro and in vivo gene transfer. J. Virol. 70, 508­519
+44 Herweijer, H. et al. (1995) A plasmid-based self-amplifying Sindbis virus vector. Hum. Gene Ther. 6, 1161­1167
+45 Hariharan, M.J. et al. (1998) DNA immunization against herpes simplex virus: enhanced efficacy using a Sindbis virus-based vector. J. Virol. 72, 950­958
+
+46 Leitner, W.W. et al. (2000) Enhancement of tumor-specific immune response with plasmid DNA replicon vectors. Cancer Res. 60, 51­55
+47 O'Hagan, D. et al. (2001) Induction of potent immune responses by cationic microparticles with adsorbed human immunodeficiency virus DNA vaccines. J. Virol. 75, 9037­9043
+48 Zhou, X. et al. (1994) Self-replicating Semliki Forest virus RNA as recombinant vaccine. Vaccine 12, 1510­1514
+49 Bredenbeek, P.J. et al. (1993) Sindbis virus expression vectors: packaging of RNA replicons by using defective helper RNAs. J. Virol. 67, 6439­6446
+50 Frolov, I. et al. (1997) Sindbis virus replicons and Sindbis virus: assembly of chimeras and of particles deficient in virus RNA. J. Virol. 71, 2819­2829
+51 Pushko, P. et al. (1997) Replicon-helper systems from attenuated Venezuelan equine encephalitis virus: expression of heterologous genes in vitro and immunization against heterologous pathogens in vivo. Virology 239, 389­401
+52 Polo, J.M. et al. (1999) Stable alphavirus packaging cell lines for Sindbis virus- and Semliki Forest virus-derived vectors. Proc. Natl. Acad. Sci. U. S. A. 96, 4598­4603
+53 MacDonald, G.H. and Johnston, R.E. (2000) Role of dendritic cell targeting in Venezuelan equine encephalitis virus pathogenesis. J. Virol. 74, 914­922
+54 Gardner, J.P. et al. (2000) Infection of human dendritic cells by a Sindbis virus replicon vector is determined by a single amino acid substitution in the E2 glycoprotein. J. Virol. 74, 11849­11857
+55 Berglund, P. et al. (1999) Immunization with recombinant Semliki Forest virus induces protection against influenza challenge in mice. Vaccine 17, 497­507
+56 Hevey, M. et al. (1998) Marburg virus vaccines based upon alphavirus replicons protect guinea pigs and nonhuman primates. Virology 251, 28­37
+57 Davis, N.L. et al. (2000) Vaccination of macaques against pathogenic simian immunodeficiency virus with Venezuelan equine encephalitis virus replicon particles. J. Virol. 74, 371­378
+58 Choi, W.S. et al. (1991) Expression of human immunodeficiency virus type 1 (HIV-1) gag, pol and env proteins from chimeric HIV-1poliovirus minireplicons. J. Virol. 65, 2875­2883
+59 Porter, D.C. et al. (1993) Encapsidation of genetically engineered poliovirus minireplicons which express human immunodeficiency virus type 1 gag and pol proteins upon infection. J. Virol. 67, 3712­3719
+60 Andino, R. et al. (1994) Engineering poliovirus as a vaccine vector for the expression of diverse antigens. Science 265, 1448­1451
+61 Mattion, N.M. et al. (1994) Attenuated poliovirus strain as a live vector: expression of regions of rotavirus outer capsid protein VP7 by using recombinant Sabin 3 viruses. J. Virol. 68, 3925­3933
+62 Crotty, S. et al. (2001) Protection against Simian immunodeficiency virus vaginal challenge by using Sabin poliovirus vectors. J. Virol. 75, 7435­7452
+63 Mueller, S. and Wimmer, E. (1998) Expression of foreign proteins by poliovirus polyprotein fusion: analysis of genetic stability reveals rapid deletions and formation of cardioviruslike open reading frames. J. Virol. 72, 20­31
+64 Schnell, M.J. et al. (1994) Infectious rabies viruses from cloned cDNAs. EMBO J. 13, 4195­4203
+65 Mebatsion, T. et al. (1996) Highly stable expression of a foreign gene from rabies virus vectors. Proc. Natl. Acad. Sci. U. S. A. 93, 7310­7314
+66 Schnell, M.J. et al. (1996) The minimal conserved transcription stop­start signal promotes stable expression of a foreign gene in vesicular stomatitis virus. J. Virol. 70, 2318­2323
+67 Roberts, A. et al. (1998) Vaccination with a recombinant vesicular stomatitis virus expressing an influenza virus hemagglutinin provides complete protection from influenza virus challenge. J. Virol. 72, 4704­4711
+68 Schnell, M.J. et al. (2000) Recombinant rabies virus as potential liveviral vaccines for HIV-1. Proc. Natl. Acad. Sci. U. S. A. 97, 3544­3549
+69 Rose, N.F. et al. (2000) Glycoprotein exchange vectors based on vesicular stomatitis virus allow effective boosting and generation of neutralizing antibodies to a primary isolate of human immunodeficiency virus type 1. J. Virol. 74, 10903­10910
+
+www.drugdiscoverytoday.com
+
+727

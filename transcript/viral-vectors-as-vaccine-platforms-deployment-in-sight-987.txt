@@ -1,0 +1,276 @@
+Available online at www.sciencedirect.com
+
+Viral vectors as vaccine platforms: deployment in sight
+
+Christine S Rollier1,a, Arturo Reyes-Sandoval2,a, Matthew G Cottingham2, Katie Ewer2 and Adrian VS Hill2
+
+A little more than a decade after the explosion of research into recombinant live-attenuated or replication-deficient viruses as vaccine platforms, many viral vector-based vaccines have been licensed for animals. Progress has been slower for humans but 2011 will see the licensure of the first viral-vectored vaccine for humans, against Japanese Encephalitis. In addition a vaccine with a viral-vectored component showed efficacy against HIV infection in humans. Viral-based vaccines have an excellent safety profile but must deal with the potential problem of pre-existing anti-vector immunity. Recent successes reflect diverse improvements such as development of new adenovirus serotypes and better prime-boost approaches, suggesting that many viral vectors are approaching their final years as vaccine `candidates' rather than vaccines.
+Addresses 1 Oxford Vaccine Group, Department of Paediatrics, Center for Clinical Vaccine and Tropical Medicine, University of Oxford, Churchill Hospital, Churchill Drive, Oxford OX3 7LJ, United Kingdom 2 The Jenner Institute, University of Oxford, Old Road Campus Research Building, Roosevelt Drive, Oxford OX3 7DQ, United Kingdom
+Corresponding author: Rollier, Christine S (Christine.rollier@paediatrics.ox.ac.uk) a These authors contributed equally to the manuscript.
+Current Opinion in Immunology 2011, 23:377­382
+This review comes from a themed issue on Vaccines Edited by Jeffrey Ulmer and Marcelo Sztein
+Available online 20 April 2011
+0952-7915/$ ­ see front matter # 2011 Elsevier Ltd. All rights reserved.
+DOI 10.1016/j.coi.2011.03.006
+Introduction The deployment of viruses as vaccine vectors utilizes mechanisms that evolved in these microbes for entering cells and hijacking the cellular machinery to express viral proteins [1]. Molecular virology has sufficiently advanced that recombinant viruses have been successfully rendered highly attenuated or replication deficient, giving them an excellent safety profile in animal and clinical trials. However, the host immune system has also evolved mechanisms to inhibit viral infections: activation of innate immunity can provide adjuvant activity, but may also decrease vector efficiency [2]. The adaptive immune responses to the vector may also block or reduce
+
+the induction of the desired responses against the vaccine antigen. This gave rise to concerns about the usefulness of such vaccines in target populations where pre-existing anti-vector immunity is high. Despite successes for veterinary use, such as the early licensure of a vaccinia virusbased vaccine against rabies, the scientific community has been awaiting clear success of such a vaccine against a human disease in clinical trials. Excitingly, a vectoredvaccine against Japanese Encephalitis for use in humans is now ready for development: Imojev (Sanofi Pasteur), a recombinant yellow fever virus encoding two structural proteins from the Japanese Encephalitis virus, was licensed in Australia at the end of 2010 for use from 12 months of age.
+We describe here the encouraging progress and success observed in the past two years to circumvent pre-existing immunity, in particular for adenovirus vectors, which indicates that boosting with the same vector can overcome pre-existing immunity, greatly broadening their potential application (O'Hara et al., submitted). Recent clinical trials have demonstrated that these vaccines can induce T-cell immune responses of unprecedented magnitude, and improvements in production and stabilization finally should make viral-vectored vaccines feasible for large-scale deployment.
+The basics: advantages of viral-vectored vaccines Opportunities for new vaccines exist for nearly 40 human pathogens. Most of the 30 licensed vaccines against 26 other viral and bacterial infections, based on subunits, inactivated microorganisms, live attenuated microorganisms and toxoids, protect by inducing antibodies. While these approaches have shown tremendous success in preventing disease, new technologies are required to overcome their limitations. For example, it has proved difficult to elicit antibody-mediated protection against HIV [3] while use of an attenuated HIV would generate substantial safety concerns [4].
+Viral vectors offer a series of advantages over traditional vaccines: in addition to inducing outstanding antibody responses, they also elicit cytotoxic T lymphocytes (CTL) that are crucial for control of intracellular pathogens and cancer, and that are not induced by proteinbased vaccines [2]. T-cell inducing vaccines can also elicit responses against highly conserved epitopes, potentially offering protection against several strains of the
+
+www.sciencedirect.com
+
+Current Opinion in Immunology 2011, 23:377­382
+
+378 Vaccines
+
+same pathogen [1], for example to generate universal heterosubtypic influenza [5] and HIV vaccines. For the latter, this development involved the construction of a multi-clade vaccine derived from the most conserved regions of the HIV-1 consensus proteome (HIVconsv), which has proven to be highly immunogenic in macaques [6,7]. Another approach, known as mosaic antigen design, utilizes in silico algorithms to generate synthetic immunogens that cover genetically diverse circulating virus isolates, increasing the breadth and depth of the CD8+ response compared to consensus immunogens [8,9]. For both approaches, recombinant viral vectors have played a central role in inducing high T-cell frequencies.
+Many viral species have been evaluated as recombinant vectors for vaccines, including alphaviruses (such as Semliki forest virus), adeno-associated viruses, vesicular stomatitis virus, measles virus, poliovirus and hepatitis B virus. Their potentials and concerns are well described in a review by Brave et al. [10]. Yellow fever virus is of particular interest as it is the first to reach human licensure; however, it is currently limited to expression of flavivirus antigens, such as those of dengue virus, or small epitopes, and as a replication competent vector induces a significant viremia. Several studies describing efficiency of other vectors in animal models have been reported in the last year, including baculovirus, Newcastle disease virus, ovine atadenovirus, rabies virus, pseudorabies virus, equine herpes virus, influenza A virus and coxsackievirus. One striking publication demonstrated that the lymphocytic choriomeningitis virus can elicit CTL responses equivalent to or greater than those obtained with human adenovirus 5 (AdHu5) or vaccinia virus, and crucially without eliciting vector-specific antibodies [11]. Such developments suggest that new viral-vectored vaccine platforms, although about 10 years behind adenoviruses (Ad) and poxviruses in clinical development, may well catch up during the coming decade. Currently however, the most widely evaluated vectors to date are AdHu5 and members of the poxvirus family (Box 1) [1].
+Tailoring the immune response to specific applications ­ different vectors, different routes, different outcomes Viral-vectored vaccines induce systemic T-cell responses that have been extensively characterized, including polyfunctional cytokine-secreting CD4+ and CD8+ T-cells [12]. More research is aimed at inducing immunity at the site of microbe encounter: the mucosa. Mucosal delivery has been investigated for many years, especially
+Box 1 Vaccines based on poxviruses are derived from vaccinia virus (the smallpox vaccine) or members of the avipox genus. Attenuated derivatives of vaccinia virus are used as vaccine platforms, such as NYVAC and Modified Vaccinia Ankara (MVA). The avian poxviruses infect but do not replicate in mammalian cells, and include attenuated canarypox virus (ALVAC) and fowlpox virus.
+
+for adenoviruses owing to the natural tropism of many serotypes to the respiratory epithelium. However viralvectored vaccines need not be delivered mucosally to elicit mucosal responses, and these responses can be elicited in unexpected sites: a systemic prime-boost-boost strategy (DNA-NYVAC-Adhu5) induces a anti-SIV Tcell response in the milk of lactating rhesus monkeys, as strong as that found in the blood and vaginal tract, suggesting that such a vaccine could reduce HIV transmission through breast-feeding [13]. Several studies have demonstrated that viral vector-based vaccines can impact on mucosal infection, in particular against rectal SIV or SHIV challenge in rhesus macaques immunized with a chimpanzee adenovirus prime and poxvirus boost [14], or with heterologous alphavirus prime-boost incorporating both intramuscular and mucosal delivery [15]. The differential phenotype and trafficking of vaccine-induced CD8+ T cells was investigated after adenoviral-vectored vaccine delivery by different routes (intramuscular, oral, intranasal, intrarectal, aerosol). The immunization route dramatically impacted not only the quantity but also the phenotype of CD8+ T-cells. In particular, intranasal immunization, despite inducing similar transgene expression as intramuscular injection, generated lower frequency and less polyfunctional T cells while respiratory administration by aerosol elicited systemic and mucosal polyfunctional CD8+ T cell responses [16].
+Investigation of the memory responses induced by viralvectored vaccines is of particular importance and should be the focus of more work, as immune memory is fundamental to the durable efficacy of prophylactic vaccines. Different viral vectors can indeed influence the type of memory responses elicited against the transgene as exemplified recently in a study comparing Ad and MVA (Reyes Sandoval et al., submitted). While Ad induces a strong CD8+ T cell effector memory response and little CD8+ T cell central memory, the opposite is induced after MVA immunization. This phenomenon, illustrated in Figure 1, is probably at least partly linked to the duration of antigen expression. In conclusion, all of these properties should be considered when selecting a vector able to induce the appropriate immune response for a particular disease. Furthermore, there is now interest in combining these vectors with known or new adjuvants, in order to increase or further modulate the immune responses elicited. This type of study will probably be increasingly important in the coming years.
+Circumventing pre-existing immunity to adenoviruses: the rise of chimpanzee serotypes Genetically modified human adenoviruses are a leading vaccine platform but their ability to induce vector-specific immune responses can result in a lack of prolonged expression of newly delivered genes upon re-administration of the same vector [14]. More importantly, despite
+
+Current Opinion in Immunology 2011, 23:377­382
+
+www.sciencedirect.com
+
+Viral vectors as vaccine platforms: deployment in sight Rollier et al. 379
+
+Figure 1 Immunization
+
+1 week
+
+2 / 3 weeks
+
+Ad
+
+Antigen expression & presentation
+
+Peak CD8+ effector response
+
+MHC I
+
+TE TE
+
+TEM
+
+TE
+
+TEM
+
+TEM
+
+TE E
+
+TE
+
+TE TE
+
+TEM
+
+EM
+
+TEM
+
+EM
+
+TEM
+
+TE TEM
+
+TEM
+
+TEM
+
+TEM
+
+TEM TEM
+
+TCM
+
+Immunization 12 hours
+
+1 week
+
+> 3 weeks
+
+> 2 months
+
+CD8+ MEMORY response
+
+TE TEM
+
+TE TEM
+
+TE TEM
+TEM
+
+TEM
+
+TEM
+
+TEM
+
+TEM
+
+TCM
+
+> 2 months
+
+MVA
+
+Antigen expression Peak CD8+ eff.
+
+& presentation
+
+response
+
+TE MHC I
+TEM
+TEM
+
+TEM
+
+TEM TEM
+
+TCM
+
+CD8+ MEMORY response
+
+TEM TEM
+TCM
+
+TEM TEM TCM
+
+TEM
+
+TEM
+
+TEM
+
+TCM
+
+TCM TCM
+
+Current Opinion in Immunology
+Difference between the Ad and MVA viral vectors in the kinetics of antigen-specific CD8+ T cell expansion, contraction and generation of memory phenotype. Three major subsets of antigen-experienced CD8+ T cells can be identified, based on the expression of CD62L (L-selectin) and CD127 (IL-7R a-chain): effector T cells (TE) (CD43hi, CD62LÀCD127À), effector memory T cells (TEM) (CD62LÀCD127+) and central memory T cells (TCM) (CD62L+CD127+). In a malaria model in mice, MVA induced lower CD8+ T cell responses as compared to Ad, peaking at week one, but accelerated TCM generation. In contrast, Ad vectors, which permit persistent antigen expression, resulted in delayed kinetics, with the peak of CD8+IFN-g+ cell expansion at three weeks, a slow contraction phase and a prolonged TE and TEM response (Reyes Sandoval et al., submitted).
+
+the efficient induction of humoral and cellular immune responses in animal models, a major problem is that most humans have high titres of neutralizing antibodies against several Ad serotypes including AdHu5, the most widely studied adenovirus as a vaccine platform, owing to exposure since early childhood, negatively affecting their performance as vectors [14]. This has prompted the development of alternative serotypes of adenovirus not circulating in human populations such that the prevalence of neutralizing antibodies is low [17,18]. One strategy is the identification and development of rare human serotypes such as AdHu35 [19], AdHu28 [20], or modification of the AdHu5 capsid [21,22]. Adenoviruses isolated from chimpanzees (AdC) have also been well characterized and developed as vectors. Chimpanzee adenoviruses ident-
+
+ified to date comprise a range of serotypes many of which are part of subgroup E, making them phylogenetically group phylogenectially with, but are distinct from, human species E adenoviruses [23]. The first report on the use of AdC vectors involved AdC68 expressing rabies virus glycoprotein and showed induction of high levels of antibodies protective against rabies challenge [24]. AdC vectors were subsequently utilized as T cell vaccines for HIV, inducing antigen-specific CD4+ and CD8+ T cell responses in mice [25] and rhesus macaques [26]. This made the AdC vectors an attractive option for other T-cell inducing vaccines, such as the pre-erythrocytic malaria vaccines, where excellent antibody and CD8+ T cell responses were induced with a single dose of simian adenovirus, relative to the earlier poxviral (fowlpox virus),
+
+www.sciencedirect.com
+
+Current Opinion in Immunology 2011, 23:377­382
+
+380 Vaccines
+
+MVA and the AdHu5 vectors [27]. More recently, their particular ability to efficiently prime T-cell responses has prompted their use in heterologous regimens using adenoviral vectors boosted with MVA to further augment the antigen-specific T-cell response [12,28]. These preclinical studies have laid the basis for the use of the AdC vectors in human trials, especially for malaria, as discussed below.
+The long-awaited success of viral-vectored vaccines in clinical trials The past two years have seen remarkable progress in the development of viral-vectored vaccines against some of the main diseases affecting global health. After the disappointing lack of efficacy and suggested, but probably unfounded, safety concerns over the use of AdHu5 in HIV-infected subjects [29,30], the HIV field quickly rebounded. The Thai efficacy trial of a prime-boost regimen comprising a canarypox vector (ALVAC-HIV, Sanofi Pasteur) followed by a gp120 subunit in Alum (AIDSVAX B/E, Global Solutions for Infectious Diseases), showed a statistically significant trend towards preventing HIV infection in an at-risk population [31]. As a booster vaccination, the AIDSVAX B/E vaccine achieved protective immunity, despite the previous lack of efficacy of AIDSVAX B/E alone in a Phase III trial. This highlights a key property of viral vectors as vaccine platforms in that they can be combined in a plethora of permutations to achieve the desired immunological endpoint. Despite the potential to combine viral vectors, most recently published Phase I trials of new candidate HIV vaccines employ a DNA prime, adenoviral boost regime that induces only modest T cell frequencies (median IFN-g spot forming cells per million of 891 [32] and 237 [33]) or employ only a single vector [34]. The addition of a second viral vector such as a poxvirus, which is currently the best boosting vector, should further enhance T cell immunity, particularly the CD8+ T cell frequencies that are so important to HIV immunity [35].
+Table 1 illustrates how the specific properties of each of the main groups of viral vectors are employed to harness their respective advantages. For example, a Phase I trial boosting BCG-induced immunity with an MVA vector induces high frequencies of CD4+ T cells with substantial
+
+durability [36]. Priming with a simian adenovirus and boosting with an MVA vector, both expressing a liverstage malaria antigen, induced unprecedented cellular immunogenicity and a previously unattainable degree of T cell mediated protection against experimental challenge with malaria parasite in a phase IIa trial (Ewer et al., submitted). In addition, the protection induced was still measurable more than 6 months later. However, vaccinemediated protection against the erythrocytic stage of malaria remains an elusive goal despite some 35 clinical trials. Of these, only 3 employed viral vectors, of which none has yet reported results; the remainder are mostly trials of protein-in-adjuvant formulations. However, an interesting pre-clinical development is the combination of protein-in-adjuvant with viral vectors in both priming and boosting vaccinations, harnessing the ability of the former to induce extremely high antibody titres and CD4+ T cell frequencies and the latter to induce protective CD8+ T cell responses. In murine and macaque studies, these combinations induced significantly higher titres than prime-boost with viral vectors alone [37] and this regimen is currently entering clinical trials in the UK.
+Reaching real life: improvements in design and deployability That such a large proportion of currently licensed vaccines are based on viruses, either live-attenuated or inactivated, suggests a priori that there is no fundamental barrier to product-scale manufacture of viral-vectored vaccines. However, the doses utilized in recent clinical trials ­ over 1010 viral particles of adenovirus and 108 plaque forming units of MVA ­ are substantially larger than those typically employed for traditional viral vaccines (but small by gene therapy standards). Although current processes are up to the task both in practical and safety terms, and indeed in operation for MVA in its original, non-recombinant incarnation as a `third-generation' smallpox vaccine [38], it is likely that development of products based on viral vectors will be accompanied by incremental advances in cell line and virus purification technology for manufacturing. In parallel, there is scope for enhancement of the vectors themselves, whose design for vaccine applications as tested in the clinic has changed little fundamentally since the inception of E1/E3-deleted adenovirus and recombinant vaccinia virus. In particular,
+
+Table 1
+
+Use of viral vectored vaccines in clinical trials registered at http://clinicaltrials.gov (accessed 20th December 2010)
+
+Disease
+Malaria Tuberculosis HIV/AIDS Cancer Total
+
+All vaccine trials (n)
+88 48 277 932 1345
+
+Viral vector vaccine n (%)
+15 (17) 23 (47.9) 94 (33.9) 76 (8.2) 208 (15.5)
+
+Adenovirus
+7 3 43 35 88
+
+Type of vector
+Vaccinia virus (MVA/NYVAC)
+11 19 26 14 70
+
+Fowlpox virus
+5 1 4 37 47
+
+ALVAC
+0 0 34 9 43
+
+Current Opinion in Immunology 2011, 23:377­382
+
+www.sciencedirect.com
+
+Viral vectors as vaccine platforms: deployment in sight Rollier et al. 381
+
+the recent application of bacterial artificial chromosome `recombineering' technology to genetic manipulation of MVA [39] and adenoviruses (M.J. Dicks et al., manuscript in preparation) greatly facilitates the generation of novel vectors with the linked goals of fine-tuning innate immune stimulation for optimal immunogenicity and overcoming the immunodominance of vector antigens over transgenic antigens. Excitingly, the recent development of a membrane-based low temperature drying technology able to thermostabilize adenovirus and MVA for up to 6 months at 45 8C in carbohydrate glass presents the opportunity to deploy any future vaccine based on these vectors in a refrigeration-free, single-dose format able to drive adoption in even the most impoverished districts of underdeveloped countries [40].
+Conclusions The field of viral vectors as vaccine platforms is evolving at high speed, and the diversity of related publications last year is an indication of how dynamic this field is and the enthusiasm of the scientific community. Although not covered in this review, research focusing on the mechanisms involved in the efficacy of viral-vectored vaccines has also been prolific recently [1]. Therefore, after the doubts and fear induced by one HIV vaccine clinical trial [29,30], the progress made in enhancing viral-vectored vaccine-induced immunity, the development of alternative adenoviral serotypes and improved vector production and stability have culminated in several successes, most notably the Thai HIV clinical trial [31].
+Acknowledgements
+Christine Rollier is supported by Oxford Biomedical Research Center, The Oxford Martin School and Meningitis UK. Arturo Reyes-Sandoval and Katie Ewer are research leadership fellows in the Nuffield Department of Medicine, University of Oxford. Matthew Cottingham is supported by the Oxford Martin School. Adrian VS Hill is a Jenner Institute Investigator. The funding sources had no involvement in the design, collection, analysis and interpretation of data, writing and decision to submit this paper for publication. We apologize to those whose work was not cited because of space constraints, and for those whose important work was not highlighted because it is more than two years past.
+References and recommended reading
+Papers of particular interest, published within the annual period of review, have been highlighted as:
+ of special interest  of outstanding interest
+1. Liu MA: Immunologic basis of vaccine vectors. Immunity 2010,  33:504-515. Excellent review on the mechanisms invloved in viral-vectored vaccine immune activation.
+2. Liu MA: Gene-based vaccines: recent developments. Curr Opin  Mol Ther 2010, 12:86-93. Excellent review, also compares viral-vectors with DNA immunization.
+3. Gao F, Morrison SG, Robertson DL, Thornton CL, Craig S, Karlsson G, Sodroski J, Morgado M, Galvao-Castro B, von Briesen H et al.: Molecular cloning and analysis of functional envelope genes from human immunodeficiency virus type 1 sequence subtypes A through G, The WHO and NIAID Networks for HIV Isolation and Characterization. J Virol 1996, 70:1651-1667.
+
+4. Ada G: Overview of vaccines and vaccination. Mol Biotechnol 2005, 29:255-272.
+5. Wei CJ, Boyington JC, McTamney PM, Kong WP, Pearce MB, Xu L, Andersen H, Rao S, Tumpey TM, Yang ZY et al.: Induction of broadly neutralizing H1N1 influenza antibodies by vaccination. Science 2010, 329:1060-1064.
+6. Letourneau S, Im EJ, Mashishi T, Brereton C, Bridgeman A, Yang H, Dorrell L, Dong T, Korber B, McMichael AJ et al.: Design and pre-clinical evaluation of a universal HIV-1 vaccine. PLoS ONE 2007, 2:e984.
+7. Rosario M, Bridgeman A, Quakkelaar ED, Quigley MF, Hill BJ, Knudsen ML, Ammendola V, Ljungberg K, Borthwick N, Im EJ et al.: Long peptides induce polyfunctional T cells against conserved regions of HIV-1 with superior breadth to singlegene vaccines in macaques. Eur J Immunol 2010, 40:1973-1984.
+8. Santra S, Liao HX, Zhang R, Muldoon M, Watson S, Fischer W, Theiler J, Szinger J, Balachandran H, Buzby A et al.: Mosaic vaccines elicit CD8+ T lymphocyte responses that confer enhanced immune coverage of diverse HIV strains in monkeys. Nat Med 2010, 16:324-328.
+9. Barouch DH, O'Brien KL, Simmons NL, King SL, Abbink P, Maxfield LF, Sun YH, La Porte A, Riggs AM, Lynch DM et al.: Mosaic HIV-1 vaccines expand the breadth and depth of cellular immune responses in rhesus monkeys. Nat Med 2010, 16:319-323.
+10. Brave A, Ljungberg K, Wahren B, Liu MA: Vaccine delivery methods using viral vectors. Mol Pharm 2007, 4:18-32.
+11. Flatz L, Hegazy AN, Bergthaler A, Verschoor A, Claus C,  Fernandez M, Gattinoni L, Johnson S, Kreppel F, Kochanek S
+et al.: Development of replication-defective lymphocytic choriomeningitis virus vectors for the induction of potent CD8+ T cell immunity. Nat Med 2010, 16:339-345. Comparison of CD8+ immune responses induced by LCMV as compared to AdHu5 and poxvirus-based vectors.
+12. Reyes-Sandoval A, Berthoud T, Alder N, Siani L, Gilbert SC,  Nicosia A, Colloca S, Cortese R, Hill AV: Prime-boost
+immunization with adenoviral and modified vaccinia virus Ankara vectors enhances the durability and polyfunctionality of protective malaria CD8+ T-cell responses. Infect Immun 2010, 78:145-153. Describes the induction of polyfunctional CD8+ responses after heterologous prime boost in mice.
+13. Wilks AB, Christian EC, Seaman MS, Sircar P, Carville A, Gomez CE, Esteban M, Pantaleo G, Barouch DH, Letvin NL et al.: Robust vaccine-elicited cellular immune responses in breast milk following systemic Simian Immunodeficiency Virus DNA prime and live virus vector boost vaccination of lactating rhesus monkeys. J Immunol 2010, 185:7097-7106.
+14. Lasaro MO, Ertl HC: New insights on adenovirus as vaccine vectors. Mol Ther 2009, 17:1333-1339.
+15. Barnett SW, Burke B, Sun Y, Kan E, Legg H, Lian Y, Bost K, Zhou F, Goodsell A, Zur Megede J et al.: Antibody-mediated protection against mucosal simian-human immunodeficiency virus challenge of macaques immunized with alphavirus replicon particles and boosted with trimeric envelope glycoprotein in MF59 adjuvant. J Virol 2010, 84:5975-5985.
+16. Kaufman DR, Bivas-Benita M, Simmons NL, Miller D, Barouch DH: Route of adenovirus-based HIV-1 vaccine delivery impacts the phenotype and trafficking of vaccine-elicited CD8+ T lymphocytes. J Virol 2010, 84:5986-5996.
+17. Xiang Z, Li Y, Cun A, Yang W, Ellenberg S, Switzer WM, Kalish ML, Ertl HC: Chimpanzee adenovirus antibodies in humans, subSaharan Africa. Emerg Infect Dis 2006, 12:1596-1599.
+18. Dudareva M, Andrews L, Gilbert SC, Bejon P, Marsh K, Mwacharo J, Kai O, Nicosia A, Hill AV: Prevalence of serum neutralizing antibodies against chimpanzee adenovirus 63 and human adenovirus 5 in Kenyan children, in the context of vaccine vector efficacy. Vaccine 2009, 27:3501-3504.
+19. Soloff AC, Liu X, Gao W, Day RD, Gambotto A, Barratt-Boyes SM: Adenovirus 5- and 35-based immunotherapy enhances the
+
+www.sciencedirect.com
+
+Current Opinion in Immunology 2011, 23:377­382
+
+382 Vaccines
+
+strength but not breadth or quality of immunity during chronic SIV infection. Eur J Immunol 2009, 39:2437-2449.
+20. Kahl CA, Bonnell J, Hiriyanna S, Fultz M, Nyberg-Hoffman C, Chen P, King CR, Gall JG: Potent immune responses and in vitro pro-inflammatory cytokine suppression by a novel adenovirus vaccine vector based on rare human serotype 28. Vaccine 2010, 28:5691-5702.
+21. Gabitzsch ES, Xu Y, Yoshida LH, Balint J, Gayle RB, Amalfitano A, Jones FR: A preliminary and comparative evaluation of a novel Ad5 [E1- E2b-] recombinant-based vaccine used to induce cell mediated immune responses. Immunol Lett 2009, 122:44-51.
+22. Bayer W, Tenbusch M, Lietz R, Johrden L, Schimmer S, Uberla K, Dittmer U, Wildner O: Vaccination with an adenoviral vector that encodes and displays a retroviral antigen induces improved neutralizing antibody and CD4+ T-cell responses and confers enhanced protection. J Virol 2009, 84:1967-1976.
+23. Rux JJ, Kuser PR, Burnett RM: Structural and phylogenetic analysis of adenovirus hexons by use of high-resolution x-ray crystallographic, molecular modeling, and sequence-based methods. J Virol 2003, 77:9553-9566.
+24. Xiang Z, Gao G, Reyes-Sandoval A, Cohen CJ, Li Y, Bergelson JM, Wilson JM, Ertl HC: Novel, chimpanzee serotype 68-based adenoviral vaccine carrier for induction of antibodies to a transgene product. J Virol 2002, 76:2667-2675.
+25. Fitzgerald JC, Gao GP, Reyes-Sandoval A, Pavlakis GN, Xiang ZQ, Wlazlo AP, Giles-Davis W, Wilson JM, Ertl HC: A simian replication-defective adenoviral recombinant vaccine to HIV-1 gag. J Immunol 2003, 170:1416-1422.
+26. Reyes-Sandoval A, Fitzgerald JC, Grant R, Roy S, Xiang ZQ, Li Y, Gao GP, Wilson JM, Ertl HC: Human immunodeficiency virus type 1-specific immune responses in primates upon sequential immunization with adenoviral vaccine carriers of human and simian serotypes. J Virol 2004, 78:7392-7399.
+27. Reyes-Sandoval A, Sridhar S, Berthoud T, Moore AC, Harty JT, Gilbert SC, Gao G, Ertl HC, Wilson JC, Hill AV: Single-dose immunogenicity and protective efficacy of simian adenoviral vectors against Plasmodium berghei. Eur J Immunol 2008, 38:732-741.
+28. Capone S, Reyes-Sandoval A, Naddeo M, Siani L, Ammendola V, Rollier CS, Nicosia A, Colloca S, Cortese R, Folgori A et al.: Immune responses against a liver-stage malaria antigen induced by simian adenoviral vector AdCh63 and MVA primeboost immunisation in non-human primates. Vaccine 2010, 29:256-265.
+29. McElrath MJ, De Rosa SC, Moodie Z, Dubey S, Kierstead L, Janes H, Defawe OD, Carter DK, Hural J, Akondy R et al.: HIV-1 vaccine-induced immunity in the test-of-concept Step Study: a case-cohort analysis. Lancet 2008, 372:1894-1905.
+30. Buchbinder SP, Mehrotra DV, Duerr A, Fitzgerald DW, Mogg R, Li D, Gilbert PB, Lama JR, Marmor M, Del Rio C et al.: Efficacy assessment of a cell-mediated immunity HIV-1 vaccine (the
+
+Step Study): a double-blind, randomised, placebo-controlled, test-of-concept trial. Lancet 2008, 372:1881-1893.
+31. Rerks-Ngarm S, Pitisuttithum P, Nitayaphan S, Kaewkungwal J,  Chiu J, Paris R, Premsri N, Namwat C, de Souza M, Adams E et al.:
+Vaccination with ALVAC and AIDSVAX to prevent HIV-1 infection in Thailand. N Engl J Med 2009, 361:2209-2220. The first viral-vectored vaccine against HIV to show efficacy in humans.
+32. Koup RA, Roederer M, Lamoreaux L, Fischer J, Novik L, Nason MC, Larkin BD, Enama ME, Ledgerwood JE, Bailer RT et al.: Priming immunization with DNA augments immunogenicity of recombinant adenoviral vectors for both HIV-1 specific antibody and T-cell responses. PLoS ONE 2010, 5:e9015.
+33. Kibuuka H, Kimutai R, Maboko L, Sawe F, Schunk MS, Kroidl A, Shaffer D, Eller LA, Kibaya R, Eller MA et al.: A phase 1/2 study of a multiclade HIV-1 DNA plasmid prime and recombinant adenovirus serotype 5 boost vaccine in HIV-Uninfected East Africans (RV 172). J Infect Dis 2010, 201:600-607.
+34. Schooley RT, Spritzler J, Wang H, Lederman MM, Havlir D, Kuritzkes DR, Pollard R, Battaglia C, Robertson M, Mehrotra D et al.: AIDS clinical trials group 5197: a placebo-controlled trial of immunization of HIV-1-infected persons with a replicationdeficient adenovirus type 5 vaccine expressing the HIV-1 core protein. J Infect Dis 2010, 202:705-716.
+35. Killian MS, Roop J, Ng S, Hecht FM, Levy JA: CD8+ cell anti-HIV activity rapidly increases upon discontinuation of early antiretroviral therapy. J Clin Immunol 2009, 29:311-318.
+36. Pathan AA, Sander CR, Fletcher HA, Poulton I, Alder NC, Beveridge NE, Whelan KT, Hill AV, McShane H: Boosting BCG with recombinant modified vaccinia ankara expressing antigen 85A: different boosting intervals and implications for efficacy trials. PLoS ONE 2007, 2:e1052.
+37. Draper SJ, Biswas S, Spencer AJ, Remarque EJ, Capone S, Naddeo M, Dicks MD, Faber BW, de Cassan SC, Folgori A et al.: Enhancing blood-stage malaria subunit vaccine immunogenicity in rhesus macaques by combining adenovirus, poxvirus, and protein-in-adjuvant vaccines. J Immunol 2010, 185:7583-7595.
+38. Kennedy JS, Greenberg RN: IMVAMUNE: modified vaccinia Ankara strain as an attenuated smallpox vaccine. Expert Rev Vaccines 2009, 8:13-24.
+39. Cottingham MG, Andersen RF, Spencer AJ, Saurya S, Furze J, Hill AV, Gilbert SC: Recombination-mediated genetic engineering of a bacterial artificial chromosome clone of modified vaccinia virus Ankara (MVA). PLoS ONE 2008, 3:e1638.
+40. Alcock R, Cottingham MG, Rollier CS, Furze J, De Costa SD,  Hanlon M, Spencer AJ, Honeycutt JD, Wyllie DH, Gilbert SC et al.:
+Long-term thermostabilization of live poxviral and adenoviral vaccine vectors at supraphysiological temperatures in carbohydrate glass. Sci Transl Med 2010, 2:19ra12. First demonstration of a method that allows stabilization of adenovirus and poxvirus up to 37 8C for up to 6 months.
+
+Current Opinion in Immunology 2011, 23:377­382
+
+www.sciencedirect.com

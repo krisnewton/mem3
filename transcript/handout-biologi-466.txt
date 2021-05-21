@@ -1,0 +1,1887 @@
+137
+
+"Konsentrasilah terhadap segala pekerjaanmu. Segala sesuatu tidak akan berhasil sampai anda mendapatkan sebuah fokus" -Alexander Graham Bell-
+138
+
+KATA PENGANTAR
+Puji syukur kami panjatkan kehadirat Allah swt. Atas Rahmat dan Hidayah-Nya Handout Biologi Kelas X SMA/MA ini dapat diselesaikan dengan baik. Handout Biologi ini membahas materi Plantae (Dunia Tumbuhan) dan spesifik membahas submateri Magnoliophyta (Angiospermae) dan Tanaman Obat berdasarkan kurikulum tahun 2013 yang mengembangkan proses pembelajaran peserta didik aktif dengan aspek kompetensi, yaitu Kognitif (Pengetahuan), Afektif (Sikap) dan Psikomotorik (Keterampilan).
+Handout ini diharapkan dapat membantu guru dalam proses pembelajaran yang digunakan sebagai salah satu bahan ajar utama dan Pengembangan Handout diharapkan menjadi inovasi dalam pengunaan bahan ajar. Handout ini juga diharapkan dapat membantu peserta didik dalam proses pembelajaran yang fokus pada pemberian pengalaman belajar peserta didik dalam mengembangkan kompetensinya agar mampu memahami dan menerapkannya dalam kehidupan sehari-hari.
+Terima kasih kepada ibu dosen pembimbing yang telah membimbing dalam proses pembuataan Handout ini. Dosen Pembimbing Utama ; Dra.Kasrina,M.Si dan Dosen Pembimbing Pendamping ; Dra.Sri Irawari,M.Pd. Karena telah memberikan arahan dan masukan sehingga Handout ini dapat dikembangkan.
+Penulis menyadari bahwa Handout ini masih jauh dari sempurna. Oleh karena itu, penulis mengharapkan kritik dan saran untuk perbaikan Handout ini pada masa yang akan datang. Akhir kata penulis mengucapkan banyak terima kasih kepada semua pihak yang telah membantu dalam penulisan, penyusunan hingga tercipta produk Handout ini.
+Bengkulu, Maret 2018
+Melda Nuari Handini
+139
+
+DAFTAR ISI
+Cover Identitas Pemilik ................................................................................................... i Kata Penghantar .................................................................................................... ii Daftar Isi ............................................................................................................... iii Daftar Gambar ...................................................................................................... iv Kompetensi Dasar dan Kompetensi Inti ............................................................... 1 Kerangka Handout ................................................................................................ 2 I. Konsep Utama ................................................................................................
+1.1 Pengertian Tumbuhan dan Pengklasifikasian secara umum ................. 4 1.2 Ciri Umum divisi utama plantae............................................................ 5 1.3 Pengertian Magnoliophyta (Angiospermae).......................................... 6 1.4 Ciri-ciri tubuh Magnoliophyta (Angiospermae).................................... 6 1.5 Ciri khusus Magnoliophyta (Angiospermae) ........................................ 7 1.6 Siklus Hidup Magnoliophyta (Angiospermae)...................................... 9 1.7 Klasifikasi Magnoliophyta (Angiospermae) ......................................... 10
+A. Kelas Magnoliopsida............................................................. 10 B. Kelas Liliopsida..................................................................... 13 II. Pemanfataan Magnoliophyta (Angiospermae) Sebagai Tanaman Obat......... 17 III. Penugasan ...................................................................................................... 27 A. Lembar Kerja Peserta Didik ................................................... 27 B. Teka-Teki Cerdas ................................................................... 31 C. Mind Map ............................................................................... 32 IV. Rangkuman .................................................................................................... 33 V. Uji Kompetensi .............................................................................................. 34 VI. Glosarium ...................................................................................................... 38 Daftar Pustaka ....................................................................................................... v
+Daftar Gambar
+1.1 Struktur bunga pada divisi Magnoliophyta ................................................................. 8 1.2 Siklus Hidup Magnoliophyta ...................................................................................... 9 1.3 Bunga Kembang Sepatu (Hibiscus rosa-sinensis) ...................................................... 10 1.4 Jambu Biji (Psidium guajava)..................................................................................... 11 1.5 Petai cina (Leucaena leucocephala)............................................................................ 11
+140
+
+1.6 Bunga Terompet (Allamanda cathartica) ................................................................... 11 1.7 Sirih (Piper betle) ....................................................................................................... 11 1.8 Mawar (Rosa hybrid) .................................................................................................. 12 1.9 Rimbang (Solanum torvum) ........................................................................................ 12 1.10 Jarak merah (Jatropha gossyfolia) ............................................................................ 12 1.11 Kemuning (Murraya paniculata).............................................................................. 13 1.12 Mentimun (Cucumis sativus) .................................................................................... 13 1.13 Kucai (Allium schoenoprasum)................................................................................. 14 1.14 Pandan (Pandanus amaryllifolius) ............................................................................ 14 1.15 Pinang (Areca catechu)............................................................................................. 14 1.16 Serai (Cymbopogon citratus...................................................................................... 15 1.17 Pisang Sabo (Musa acuminata)................................................................................. 15 1.18 Bangle (Zingiber purpureum) ................................................................................... 16 1.19 Srikaya ( Annona squamosa) .................................................................................... 18 1.20 Pepaya (Carica papaya)............................................................................................ 19 1.21 Ceridu/Euphorbia triculli.......................................................................................... 19 1.22 Katuk/Sauraphus androgynus................................................................................... 19 1.23 Kacang Gude (Cajanus cajan) .................................................................................. 20 1.24 Rosella (Hibiscus sabdariffa) .................................................................................... 20 1.25 Petai cina (Leucaena leucocephala).......................................................................... 21 1.26 Jambu Biji (Psidium guajava)................................................................................... 21 1.27 Keji Beling (Strobilanthes crispus)........................................................................... 21 1.28 Buah Makassar (Brucea javanica) ............................................................................ 22 1.29 Aren (Arenga pinnata) .............................................................................................. 22 1.30 Kerinyu (Eupatorium odoratum) .............................................................................. 23 1.31 Lidah Buaya (Aloe vera) ........................................................................................... 23 1.32 Kucai (Allium schoenoprasum)................................................................................. 23 1.33 Pisang Sabo (Musa acuminata)................................................................................. 24 1.34 Pandan (Pandanus amaryllifolius)............................................................................. 24 1.35 Serai (Cymbopogon citratus) .................................................................................... 25 1.36 Rimbang (Solanum torvum) ...................................................................................... 25 1.37 Kunyit (Curcuma domestica).................................................................................... 25 1.38 Bangle (Zingiber purpureum) ................................................................................... 26
+141
+
+KOMPETENSI INTI DAN KOMPETENSI DASAR
+
+KI
+
+·Memahami, menerapkan, menganalisis pengetahuan faktual, konseptual, prosedural berdasarkan rasa ingin tahunya tentang ilmu pengetahuan, teknologi, seni, budaya, dan humaniora dengan wawasan kemanusiaan, kebangsaan, kenegaraan, dan peradaban terkait penyebab fenomena dan kejadian, serta menerapkan pengetahuan prosedural pada bidang kajian yang spesifik sesuai dengan bakat dan minatnya untuk memecahkan masalah.
+·Mengolah, menalar, dan menyaji dalam ranah konkrit dan ranah abstrak terkait dengan pengembangan dari yang dipelajarinya di sekolah secara mandiri, dan mampu menggunakan metode sesuai kaidah keilmuan.
+
+KD
+
+· 3.8 Mengelompokkan tumbuhan ke dalam divisio berdasarkan ciri-ciri umum, serta mengaitkan peranannya dalam kehidupan.
+
+·Mengidentifikasi ciri-ciri umum dan pengelompokan divisi kingdom plantae · Mengidentifikasi ciri tubuh Magnoliophyta (angiospermae), siklus hidup,klasifikasi dan manfaatnya. · Mengklasifikasikan berbagai jenis tanaman obat di lingkungan sekitar
+Indikator berdasarkan pengamatan ciri-cirinya
+
+Tujuan Pembelajaran
+
+· Peserta didik mampu membandingkan ciri-ciri umum kingdom plantae (tumbuhan).
+· Peserta didik mampu mengelompokan divisi dalam kingdom plantae (tumbuhan).
+·Peserta didik mampu menjelaskan ciri tubuh Magnoliophyta (angiospermae), siklus hidup,klasifikasidan manfaatnya .
+· Peserta didik mampu mengklasifikasikan berbagai jenis tanaman obat di lingkungan sekitar berdasarkan pengamatan ciri-cirinya .
+
+142
+
+Kerangka HANDOUT biologi
+Sub Materi "Magnoliophyta (Angiospermae)"
+Handout ini terdiri dari beberapa bagian, yaitu : Memahami ciri-ciri umum kingdom plantae dan mengelompokkan divisi utama plantae, Mendeskripsikan CiriCiri Magnoliophyta (Angiospermae), Tumbuhan Obat beserta pemanfaatannya, Lembar Kerja Peserta Didik, MIND MAP, Teka-Teki Cerdas, Evaluasi dan Glosarium. Kerangka ini diharapkan dapat membantu peserta didik dalam memahami topik bahasan materi plantae submateri "Angiospermae", maka sebelum mempelajarinya perhatikan dengan baik kerangka Handout. Bagian-bagian kerangka Handout sebagai berikut :
+· Pendahuluan
+· Bagian ini berisi kerangka handout . Kerangka ini diharapkan dapat membantu peserta didik dalam bmemahami topik bahasan materi plantae submateri "Angiospermae" dan pemanfataan tanaman obat oleh masyarakat Suku Serawai.
+· MEMAHAMI MATERIUTAMA
+· Bagian ini berisi tentang materi yakni ciri-ciri utama kingdom plantae, pengelompokkan divisi dan materi utama submateri "Magnoliophyta (Angiospermae)" . Disajikan dalam bentuk pemaparan materi dan ilustrasi gambar yang akan mendukung daya berpikir dan imajinasi peserta didik, sehingga mudah memahami materi.
+· MEMAHAMI TANAMAN OBAT
+· Bagian ini berisi tentang penjelasan tanaman obat, ciri morfologi dan manfaat tanaman obat. Penyajian dalam bentuk gambar dan tabel yang bertujuan agar dapat meningkatkan daya pikir kreatif peserta didik dalam memahami materi yang ada.
+143
+
+· LEMBAR KERJA PESERTA DIDIK
+· Bagian ini bertujuan untuk memantapkan pengetahuan serta keterampilan peserta didik dalam kegiataan pengamatan, eksperimen sederhana, pemecahan masalah.
+·MIND MAP
+· Bagian ini bertujuan untuk memberikan informasi yang memiliki kadar kepentingan lebih utama sehingga
+membantu peserta didik dalam memahami materi dan mengingat bagian-bagian utama dalam materi magnoliophyta.
+·Teka-Teki Cerdas
+· Bagian ini bertujuan untuk mengetahui pemahaman peserta didik terhadap materi yang telah ada pada handout, Permainan dikemas dalam sebuah teka-teki silang cerdas. Terdiri dari beberapa soal yang terdiri dari soal mendatar dan menurun.
+· Evaluasi
+· Bagian ini bertujuan untuk mengetahui pemahaman peserta didik setelah mempelajari materi handout plantae dan tanaman obat. Dengan demikian dibagian ini terdapat beberapa pertanyaan yang harus dijawab oleh peserta didik.
+· Glosarium
+· Bagian ini berisikan kata kunci dari materi plantae yang harus dipahami oleh peserta didik sebagai tolak ukur pencapaian pembelajaran.
+144
+
+PENGERTIAN TUMBUHAN
+Tumbuhan (Plantae) merupakan organisme eukariotik (Memiliki membran inti); multiseluler (Bersel banyak); memiliki akar, batang, dan daun; memiliki dinding sel yang mengandung selulosa; pada umumnya memiliki klorofil a dan b sehingga dapat melakukan fotosintesis dan dapat menyimpan cadangan makanan dan bereproduksi secara vegetatif atau generatif (Irnaningtyas,2014).
+Tumbuhan terdiri dari divisi :
+1) Tumbuhan lumut (Bryophyta) : Merupakan divisi kingdom tumbuhan (plantae) yang paling sederhana dan merupakan bentuk peralihan antara tumbuhan bertalus (belum memiliki akar,batang dan daun sejati) dengan tumbuhan berkormus (memiliki akar, batang dan daun sejati), mengalami metagenesis generasi gametofit lebih dominan, tumbuh ditempat lembab. Klasifikasi lumut terbagi menjadi : Lumut hati (Hepaticopsida), Lumut tanduk (Anthoceropsida) dan Lumut daun (Bryopsida) (Irnaningtyas,2014).
+2) Tumbuhan paku (Pteridophyta) : Memiliki bentuk tubuh kormus, memiliki pembuluh angkut, mengalami metagenesis generasi sporofit lebih dominan, menghasilkan spora, memiliki rizom, daun muda mengulung, batang bercabang, tumbuh ditempat lembab. Klasifikasi paku terbagi menjadi : paku purba (Psilopsida), paku kawat (Lycopsida), paku ekor kuda (Equisetopsida) dan paku sejati (Pteropsida) (Irnaningtyas,2014).
+3) Tumbuhan berbiji terbuka (Pinophyta/Gymnospermae) : dikenal dengan Pinophyta (tumbuhan berbiji telanjang/terbuka), memiliki konus (strobilus atau runjung), bakal biji tumbuh dan terletak diluar megasporofil, berumah dua hanya memiliki satu strobilus (jantan atau betina), sedangkan yang berumah satu memiliki kedua jenis strobilus, sistem perakaran tunggang atau serabut, batang memiliki trakeid, daun memiliki bentuk yang bervariasi (Kasrina,2016)
+4) Tumbuhan berbiji tertutup (Magnoliophyta/Angiospermae) : Dikenal dengan Magnoliophyta, tumbuhan yang mengunakan bunga sebagai alat perkembangbiakan secara generatif, bakal biji berada dalam megasporofil yang termodifikasi menjadi daun buah (karpel). Akar berbentuk tunggang atau serabut, tipe daun bervariasi (menjari, sejajar atau menyirip) (Kasrina,2016).
+145
+
+CIRI dan KLASIFIKASI DIVISI UTAMA PLANTAE
+
+Pada kingdom plantae terdapat 4 divisi utama yakni Bryophyta (Tumbuhan lumut),
+
+Pteridophyta (Tumbuhan paku), Pinophyta (Tumbuhan berbiji terbuka) dan Magnoliophyta
+
+(Tumbuhan berbiji tertutup). Masing-masing divisi memiliki ciri yang dapat membedakan
+
+antara satu divisi dengan yang lainnya, pada Tabel 1.1 akan membahas secara umum ciri divisi
+
+utama plantae.
+
+Tabel 1.1 Perbedaan divisi pada kingdom plantae
+
+Indikator Bryophyta
+
+Bentuk Tubuh
+Habitus
+
+Peralihan antara talus
+dengan kormus
+
+Akar
+
+Rizoid
+
+Batang Daun
+
+Belum ada batang sejati
+Daun sangat tipis
+
+Pembuluh angkut
+
+Tidak ada
+
+Alat
+
+Spora
+
+Reproduksi
+
+Klasifikasi 1.
+
+Hepaticopsida
+
+2.Anthocorop
+
+sida
+
+3. Bryopsida
+
+(Sumber : Irnaningtyas,2014)
+
+Pteridophyta
+Kormus (memil iki akar, batang dan daun sejati)
+Rizoid berkembang menjadi akar
+Daun berukuran besar (Makrofil) Daun berukuran kecil (Mikrofil) Pembuluh angkut tipe radial.
+Spora
+
+Pinophyta
+
+Magnoliophyta
+
+(Gymnospermae) (Angiospermae)
+
+Kormus (memiliki Kormus
+
+akar, batang dan (memiliki akar,
+
+daun sejati)
+
+batang dan daun
+
+sejati)
+
+Semak,Perdu atau Semak,Perdu,Poh
+
+Pohon
+
+on atau Herba
+
+Tunggang
+
+Tunggang atau
+
+Serabut
+
+Tegak lurus, bercabang-cabang
+Daun bervariasi (Ada yang kecil dan tebal seperti jarum, ada yang seperti lembaran)
+Trakeid
+
+Bermacammacam,bercaban g atau tidak Daun bervariasi
+(Menjari, menyirip, sejajar)
+Xilem
+
+Strobilus
+
+Bunga
+
+1. Psilopsida 1. Cycadopsida 2. Lycopsida 2. Coniferopsida 3. Equisetopsida 3. Gingkoopsida 4. Pteropsida 4. Gnetopsida
+
+1. Liliopsida 2. Magnoliopsida
+
+146
+
+MAGNOLIOPHYTA (Angiospermae)
+1. Pengertian Magnoliophyta (Angiospermae)
+Angiospermae berasal dari kata angio yang berarti wadah dan spermae yang berarti biji, jadi Angiospermae adalah tumbuhan berbiji tertutup. Tumbuhan biji tertutup memiliki jumlah spesies lebih banyak dibandingkan dengan tumbuhan berbiji terbuka, karena anggota Angiospermae mencakup sekitar 300 famili dan lebih dari 250.000 spesies. Tumbuhan ini banyak ditemukan di semua daratan dunia ini. Ada banyak faktor yang menentukan sehingga angiospermae terdapat di mana-mana. Di antaranya adalah,
+1. Mampu berdaptasi dan bereproduksi di segala lingkungan 2. Membentuk buah, bunga dan biji.
+Magnoliophyta (Angiospermae) dibedakan atas 2 kelas yaitu tumbuhan monokotil/liliopsida (sekitar 65.000 spesies) dan tumbuhan dikotil/magnoliopsida (sekitar170.000spesies).Tumbuhandikotildanmonokotil dibedakan atas beberapa hal, antara lain: struktur biji (jumlah kotiledon), struktur bunga, distribusi berkas pembuluh pada batang, dan struktur akar.
+Secara umum, tumbuhan berbiji tertutup memiliki ciri yang sama dengan tumbuhan berbiji terbuka. Keunikan tumbuhan berbiji tertutup terletak pada bijinya yang tersusun oleh keping lembaga (kotyledon). (Widodianto,2014)
+2. Ciri-Ciri Tubuh Magnoliophyta (Angiospermae)
+Magnoliophyta (Angiospermae) memiliki ciri utama, yaitu bakal bijinya berada dalam megasporofil yang termodifikasi menjadi daun buah (karpel). Daun buah dan bakal biji seluruhnya merupakan Ginesium bunga. Pada Angiospermae ginesium selalu merupakan badan yang tertutup yang disebut dengan bakal buah (Ovarium). Tiap bakal buah mengandung 1 sampai tak terhingga bakal biji dan diatasnya terdapat satu alat untuk menangkap serbuk dan memperkecambahkan serbuk tersebut yang disebut dengan Kepala putik (stigma), antara kepala putik dan bakal buah terdapat suatu tangkai
+147
+
+putik (Stylus). Bakal buah, tangkai putik dan kepala putik dinamakan putik (Pistillum) (Tjitrosoepomo,2010)
+Bunga sebagai alat reproduksi generatif tumbuh dari tunas dengan empat lingkaran daun yang termodifikasi menjadi kelopak (sepal) yang pada umumnya berwarna hijau, mahkota (petal) yang umumnya berwarna cerah, benang sari (stamen) dan putik (Pistillum). Bunga bermacam-macam bentuk dan susunannya, pada bunga selalu terdapat bagian-bagian bunga yang tersusun berkarang dan hiasannya bunganya dapat dibedakan mahkota dan kelopak bunga. Bunga kebanyakan bunga banci (Hermaproditus) (Tjitrosoepomo,2010)
+Pada umumnya daun buah berdaging tebal, contohnya pada Mangga (Mangifera indica), Jeruk (Citrus Maxima). Pada kacang-kacangan, contohnya kacang panjang (Vigna cylindrica) daun buahnya berupa kulit polong yang tipis. Daun buah berfungsi melindungi biji agar tidak kekeringan saat mengalami dormansi (tidak aktif) (Irnaningtyas,2014)
+Tubuh Magnoliophyta (Angiospermae) memiliki bentuk dan ukuran yang bervariasi. Ada yang berupa tumbuhan berbunga terkecil hingga pohon raksasa dengan tinggi lebih dari 100 m. Tubuhnya terdiri dari akar, batang, daun dan bunga. Akar Magnoliophyta berbentuk serabut atau tunggang. Batangnya ada yang berkambium atau tidak berkambium, serta memiliki pembuluh xilem yang diperkuat oleh serat dengan dinding sel yang tebal dan berlignin. Daun Magnoliophyta memiliki tipe tulang daun yang bervariasi ; lurus, menyirip, menjari, sejajar atau melengkung (Irnaningtyas, 2014)
+3. Ciri Khusus Angiospermae
+Tumbuhan berbunga dibedakan dari kelompok lain berdasarkan apomorfi (ciriciri terwariskan) yang khas dikembangkan oleh kelompok ini. Kebanyakan ciri-ciri ini terletak pada bagian reproduktif. Berikut adalah ciri-ciri tersebut :
+a. Bunga Pada tumbuhan ini juga telah memiliki bunga yang sesungguhnya, memiliki bentuk dan susunan urat daun yang beranekaragam. Ada daun yang pipih, sempit, ataupun lebar, dan susunan urat daunnya ada yang menyirip, menjari, melengkung,
+148
+
+ataupun sejajar seperti pita. Alat perkembangbiakan secara generatif berupa bunga. Macam- macam bunga:
+1) Bunga lengkap Merupakan bunga yang memiliki semua bagian bunga tanpa terkecuali, yaitu tangkai bunga, kelopak bunga, mahkota bunga, benang sari, dan putik. 2) Bunga tidak lengkap Merupakan bunga yang tidak memiliki salah satu bagian bunga. 3) Bunga sempurna Merupakan bunga yang memiliki benang sari dan putik sekaligus, selain itu juga memiliki bagian-bagian bunga yang lain. 4) Bunga tidak sempurna Merupakan bunga yang hanya memiliki benang sari atau hanya memiliki putik saja, selain itu juga memiliki bagian-bagian bunga yang lain. Bagian-bagian lengkap bunga pada Magnoliophyta dapat diamati pada gambar 1.1 sebagai berikut ;
+Gambar 1.1 Struktur bunga pada divisi Magnoliophyta
+(Sumber : http://4.bp.blogspot.com/RPzu2Bu0e4Q/Vmr72Yg6y4I/AAAAAAAAGr8/kv0p5COupFs/s1600/bagian%2Bbunga)
+149
+
+4. SIKLUS HIDUP MAGNOLIOPHYTA (ANGIOSPERMAE) Dalam siklus hidupnya magnoliophyta (angiospermae)mengalami beberapa
+tahapan : Gametogenesis, penyerbukan (polinasi) dan pembuahan (fertilisasi). Alat reproduksi generatif magnoliophyta (angiospermae) adalah bunga.
+Tumbuhan berbunga yang kita lihat sehari-hari merupakan generasi sporofit (2n) yang dominan. Generasi gametofit pada angiospermae mengalami reduksi. Angiospermae bersifat heterospora. Bunga sporofit akan menghasilkan megaspora dan mikrospora.
+Siklus hidup Magnoliophyta (Angiospermae) adalah sebagai berikut : 1) Bunga pada sporofit (2n) : Sel induk mikrospora mengalami pembelahan secara
+meiosis  mikrospora yang haploid (n) 2) Mikrospora (n) mengalami Pembelahan mitosis  gametofit jantan yang
+haploid 3) Dalam bakal biji terdapat Sel induk megaspora (2n)  sel induk membelah
+menghasilkan 4 sel megaspora (n). 3 Mati dan 1 hidup. 4) Megaspora yang hidup akan membentuk gametofit betina  Inti kandung
+lembaga membelah secara mitosis menjadi 3 kali berturut-turut. 5) Jika terjadi penyerbukan, serbuk sari (n) akan berkecambah membentuk tabung
+serbuk sari. Bagian inti akan mengalami kariokinesis dan menghasilkan dua inti. 6) Tabung serbuk sari sampai di mikrofil, inti vegetatif mengalami degenerasi.
+Pembuahan (fertilisasi) pada Magnoliphyta disebut Pembuahan Ganda. 7) Zigot (2n) akan tumbuh menjadi embrio (2n) a. Endosperma berfungsi sebagai cadangan makanan bagi embrio b. struktur yang meliputi embrio, endosperma dan selaput biji disebut Biji. c. Bakal biji  biji, ovarium akan berkembang  buah yang melindungi biji. d. Biji jatuh ditempat yang cocok, biji akan tumbuh dan menjadi tumbuhan sporofit
+baru.
+Gambar 1.2 Siklus Hidup Magnoliphyta
+(Sumber : https://image.slidesharecdn.com/angiospermae-120726022909-phpapp01/95/angiospermae-6728.jpg?cb=1358648899)
+150
+
+KLASIFIKASI MAGNOLIOPHYTA (Angiospermae)
+
+Divisi Magnoliphyta (Angiospermae) dibagi menjadi dua kelas, yaitu Magnoliopsida (Dicotyledonae) dan Liliopsida (Monocotyledonae)
+
+a. Magnoliopsida (Dikotil)
+
+Magnoliopsida (tumbuhan dikotil) memiliki beberapa ciri, sebagai berikut :
+ Kotiledon dua  Berkas vaskuler (pembuluh angkut) pada batang bertipe kolateral terbuka (antara xilem dan
+floem terdapat kambium).  Batang dan akar berkambium sehingga terjadi pertumbuhan sekunder dan dapat tumbuh
+membesar.  Batang bercabang-cabang dengan ruas batang yang tidak jelas  Berakar tunggang yang bercabang-cabang  Tidak memiliki pelindung ujung akar (koleoriza) dan pelindung ujung batang (koleoptil)  Berdaun tunggal atau majemuk  Pertulangan daun menyirip atau menjari  Bagian bunga (kelopak bunga, mahkota bunga, benang sari) berjumlah 4 atau 5 atau
+kelipatanya (Irnaningtyas,2014)
+
+Anggota takson pada setiap kelas dikelompokkan menjadi beberapa famili. Famili pada takson tumbuhan akhiran ­aceae. Beberapa contoh famili dari kelas magnoliopsida serta contoh spesies tumbuhan beserta ciri-ciri.
+
+1) Famili Malvaceae
+
+Ciri-ciri utama famili malvaceae yakni berbentuk perdu atau
+
+pohon. Daun tunggal, tipe daun menjari,
+
+bunga memiliki 5 daun kelopak dan 5 daun mahkota.
+
+Contoh : Bunga Kembang Sepatu (Hibiscus rosa-sinensis)
+
+Berbentuk perdu atau pohon.
+
+Habitus perdu, akar tunggang, batang tegak. Daun tunggal
+
+bertangkai, berwarna hijau mengkilap, berbentuk bulat telur,
+
+pangkal meruncing, tepi bergerigi kasar dengan ujung runcing. Bunga berdiri sendiri diketiak daun atau sedikit mengantung.
+Daun mahkota bulat telur terbalik, berwarna putih dan merah. Tabung benang sari sama panjang dengan mahkota.
+
+(Sumber : Doc.Pribadi)
+Gambar 1.3 Bunga Kembang Sepatu (Hibiscus rosasinensis)
+
+151
+
+2) Famili Myrtaceae
+
+Ciri-ciri utama famili myrtaceae yakni berbentuk pohon
+
+atau perdu, daun selalu hijau dan apabila daun diremas beraroma.
+
+Contoh : Jambu Biji (Psidium guajava)
+
+Berbentuk pohon atau perdu.
+
+Akar tunggang. Batang keras.
+
+Daun selalu hijau dan daun diremas beraroma.
+
+Daun berbentuk bulat telur panjang atau memanjang. Bunga terletak diketiak daun berwarna putih. Buah berbentuk bulat.
+
+(Sumber : Doc.Pribadi)
+Gambar 1.4 Jambu Biji (Psidium guajava)
+
+3) Famili Mimosaceae Ciri-ciri utama famili Mimosaceae yakni berbentuk pohon atau perdu,daun tersebar, jarang berhadapan, majemuk. Contoh : Petai cina (Leucaena le ucocephala). Berbentuk pohon atau perdu. Daun tersebar, jarang berhadapan, majemuk. Tulang daun menyirip, ujung daun runcing dan pangkalnya tumpul dengan tepi rata. Bunga berupa bunga bongkol. Buah berupa buah polong, berbentuk lanset.
+4) Famili Apocynaceae
+Ciri-ciri utama famili Apocynaceae yakni berbentuk pohon, perdu atau liana berkayu. Batangnya bergetah putih, memiliki bunga dengan warna mencolok, berukuran besar . Contoh : Bunga Terompet (Allamanda cathartica) Berbentuk pohon, perdu atau liana berkayu. Batangnya bergetah putih dan batang tegak Daun tunggal, bentuk memanjang, duduk daun berkarang, tepi rata. Bunga dengan warna mencolok, berbentuk lonceng.
+
+(Sumber : Doc. Pribadi) Gambar 1.5 Petai cina (Leucaena leucocephala)
+(Sumber : Doc. Pribadi) Gambar 1.6 Bunga Terompet (Allamanda cathartica)
+
+5) Famili Piperaceae Ciri-ciri utama famili ini adalah memanjat dengan akar lekat, daun memiliki bau aromatik atau rasa pedas. Contoh : Sirih (Piper betle) Berbentuk liana, akar serabut, dan memiliki akar perekat.
+
+(Sumber : Doc.Pribadi) Gambar 1.7 Sirih (Piper betle)
+
+Batang bulat,tumbuhmemanjat.Dauntunggal,tumbuhberselingatautersebar,bertangkai, bentuk daun jantung, pangkal daun berlekuk, ujung daun meruncing, tepi daun rata dan berwarna hijau. Bunga majemuk tersusun dalam bulir.
+
+6) Famili Rosaceae
+Ciri-ciri utama famili ini adalah berbentuk semak, berduri dan ada yang tidak berduri, daun tunggal Contoh : Mawar (Rosa hybrid) Berbentuk semak. Batang tumbuh tegak, akar tunggang. Bentuk batang bulat, berwarna hijau dan terdapat duri berbentuk pengait. Daun majemuk menyirip gasal, berbentuk bulat telur, dengan ujung meruncing, pangkal membulat, tepi bergerigi kasar. Pertulangan daun menyirip, warna daun hijau. Bunga majemuk, warna merah. Buah kurung ganda.
+
+(Sumber : Doc.Pribadi) Gambar 1.8 Mawar (Rosa hybrid)
+
+7) Famili Solanaceae Ciri-ciri utama famili ini adalah termasuk kelompok terong-terongan, berbentuk perdu atau semak. Bunga berbentuk terompet. Contoh : Rimbang (Solanum torvum) Berbentuk perdu. Akar tunggang. Tumbuh tegak. Batang bulat, bercabang, berduri besar dan berambut halus. Daun tunggal, letak berseling, berbentuk bulat telur, ujung runcing. Warna daun hijau muda. Tangkai daun berambut rapat duri tempel. Bunga majemuk dengan mahkota berbentuk bintang, warna putih, bagian tengah kuning. Buah buni dan bulat
+
+(Sumber : Doc.Pribadi) Gambar 1.9 Rimbang (Solanum torvum)
+
+8) Famili Euphorbiaceae Ciri-ciri utama famili ini adalah berbentuk pohon atau perdu, daun tunggal atau majemuk, memiliki getah. Contoh : Jarak merah (Jatropha gossyfolia) Berbentuk berupa perdu. Batang tumbuh tegak, bulat, berwarna merah, akar tunggang. Daun bertangkai panjang, merupakan daun tunggal, helaian daun bentuk bulat, tepi daun bergerigi. Pertulangan daun menjari, pangkal berlekuk, ujung daun runcing, daun berwarna merah mengkilap.
+
+(Sumber : Doc.Pribadi) Gambar 1.10 Jarak merah (Jatropha gossyfolia)
+
+Bunga majemuk dalam bentuk malai, merah. Buah berkendaga 3, bulat memanjang, berwarna hijau
+
+9) Famili Rutaceae Ciri-ciri utama famili ini adalah berbentuk pohon atau perdu, daun memiliki kelenjar minyak. Contoh : Kemuning (Murraya paniculata) Berbentuk semak.Akartunggang. Batang keras, beralur, tidak berduri. Daun majemuk, letak berseling, permukaan licin, mengkilap, warnanya hijau. Bunga majemuk berbentuk tandan, warnanya putih, wangi, keluar dari ketiak daun. Buah buni berdaging, bulat telur atau bulat memanjang, masih muda hijau dan setelah tua merah mengkilap.
+
+(Sumber : Doc.Pribadi) Gambar 1.11 Kemuning (Murraya paniculata)
+
+10) Famili Cucurbitaceae
+
+Ciri-ciri utama famili ini adalah berbentuk memanjat dengan sulur spiral, daun majemuk. Contoh : Mentimun (Cucumis sativus) Berbentuk herba, akar tunggang. Tumbuh merayap atau memanjat. Bentuk batang bulat. Daun merupakan daun tunggal, bentuk bulat, ujung runcing, tepi daun berlekuk menjari permukaan kasar. Bunga tunggal, berwarna kuning. Buah pepo, bentuk silindris, warna hijau dan berlilin, ketika matang berwarna kuning atau oranye, permukaan halus.
+
+(Sumber : Doc.Pribadi) Gambar 1.12 Mentimun (Cucumis sativus)
+
+b. Liliopsida (Monokotil)
+Liliopsida memiliki ciri-ciri sebagai berikut ;  Berkotiledon satu  Berkas vaskuler pada batang bertipe kolateral tertutup  Batang dan akar tidak memiliki kambium  Pada umumnya batang tidak bercabang, memiliki rambut-rambut halus  Berakar serabut
+
+ Pada umumnya berdaun tunggal, tipe pertulangan daun sejajar atau melengkung dan berpelepah daun
+ Bagian bunga berjumlah tiga atau kelipatan tiga Berikut contoh famili dalam suatu ordo pada kelas Liliopsida serta contoh tumbuhannya.
+
+1) Famili Liliaceae
+Ciri-ciri utama famili ini adalah habitus semak basah, memiliki akar rimpang, umbi atau umbi lapis. Contoh : Kucai (Allium schoenoprasum) Berbentuk herba. Akar serabut. Batang pendek, berair, merupakan batang semu, tumbuh tegak, bentuk batang bulat, tertutup oleh pelepah daun, berwarna putih. Daun tunggal, duduk pada batang diatas tanah, bentuk daun bangun garis, dengan tepi daun rata, pangkal daun rata, dan ujung tumpul, warna daun hijau. Bunga majemuk, tersusun dalam karangan, berwarna putih.
+
+(Sumber : Doc.Pribadi) Gambar 1.13 Kucai (Allium schoenoprasum)
+
+2) Famili Pandanaceae Ciri-ciri utama famili ini adalah berbentuk perdu atau semak Daun terkumpul rapat dansejajar Ada cincin pada batang terdepat bekas daun lepas. Contoh : Pandan (Pandanus amaryllifolius) Berbentuk herba, bercabang lebar, kadang-kadang berbatang banyak, dengan akar tunjang di sekitar pangkal batang dan akar udara dari cabangnya. Daun tunggal, duduk dengan pangkal memeluk batang, tersusun berbaris tiga dalam garis spiral, berlilin dan berwarna hijau, helain daun berbentuk pita, tipis licin, ujung runcing, tepi rata.
+
+(Sumber : Doc.Pribadi) Gambar 1.14 Pandan (Pandanus amaryllifolius)
+
+3) Famili Arecaceae
+
+Berbentuk pohon atau memanjat, pada batang terdapat
+
+bekas daun berbentuk cincin. Daun menyirip atau berbentuk kipas
+
+dengan pangkal pelepah daun melebar.
+
+Contoh : Pinang (Areca catechu)
+
+(Sumber : Doc.Pribadi)
+
+Gambar 1.15 Pinang (Areca catechu)
+
+Berbentuk berupa pohon. Akar tunggang. Batang tumbuh tegak dengan bekas pelepah daun. Daun tunggal yang tumbuh pada ujung cabang membentuk roset batang, ujung robek, tepi bergerigi, tepi rata. Tongkol bunga dengan seludang (spatha) yang panjang mudah rontok, muncul dibawah daun. Buah buni bulat telur terbalik memanjang, warna merah orange, dinding buah berserabut.
+
+4) Famili Poaceae
+Ciri-ciri utama famili ini adalah kelompok rumput-rumputan, batang silindris, agak pipih, daun tunggal dan berpelepah, bunga tersusun dalam bulir, batang berbuku-buku. Contoh : Serai (Cymbopogon citratus) Berbentuk herba. Akar serabut. Berbatang basah, beruas- ruas, rumpun lebih besar dan menggerombol. Bentuk batang seperti silinder panjang. Daun bangun pita, panjang, tersusun sebagai roset akar, terdiri atas helaian, upih dan lidah-lidah, antara helaian dan upih jarang terdapat tangkai, berwarna hijau muda, tepi daun tajam dan permukaannya kasar.
+
+(Sumber : Doc.Pribadi) Gambar 1.16 Serai (Cymbopogon citratus)
+
+5) Famili Musaceae Ciri-ciri utama famili ini adalah kelompok pisang-pisangan, bentuk semak atau pohon, berbatang semu terdiri atas pelepah daun, tulang daun menyirip dan daun membentuk karangan. Contoh : Pisang Sabo (Musa acuminata) Berbentuk herba. Berumpun dengan akar rimpang Daun tersebar, helaian daun bentuk lanset memanjang mudah koyak/robek, pada bagian bawah berlilin Bunga berkelamin satu, berumah satu dalam tandan Buah buni dan tidak berbiji.
+
+(Sumber : Doc.Pribadi)
+Gambar 1.17 Pisang Sabo (Musa acuminata)
+
+6) Famili Zingiberaceae
+Ciri-ciri utama famili ini adalah Kelompok jahe-jahean, berbentuk semak basah menahun, memiliki batang tegal dengan daun berpelepah yang memeluk batang. Contoh : Bangle (Zingiber purpureum) Berbentuk herba. Akar serabut.
+
+Batang semu, berumpun dan berbatang basah. Daun tunggal, bentuk lanset, letak berseling pangkal dan ujung meruncing, warna hijau kekuningan. Bunga berwarna kuning pucat.
+
+(Sumber : Doc.Pribadi) Gambar 1.18 Bangle (Zingiber purpureum)
+Untuk lebih memahami klasifikasi pada divisi Magnoliophyta. Perhatikan contoh Tabel 1.3, tingkatan takson beberapa tumbuhan Magnoliophyta.
+
+Tabel 1.3 Contoh klasifikasi pada kelas Magnoliopsida dan Liliopsida
+
+Tingkatan takson
+Kingdom Divisi Kelas Ordo Famili Genus Spesies
+
+Kembang Sepatu Plantae Magnoliophyta Magnoliopsida Malvales Malvaceae Hibiscus Hibiscus rosasinensis
+
+Jenis tumbuhan
+
+Mawar Plantae Magnoliophyta Magnoliopsida Rosales Rosaceae Rosa Rosa hybrid
+
+Lidah buaya Plantae Magnoliophyta Liliopsida Liliales Liliaceae Aloe Aloe vera
+
+Jahe Plantae Magnoliophyta Liliopsida Zingiberales Zingiberaceae Zingiber Zingiber officinale
+
+PEMANFATAAN MAGNOLIOPHYTA (ANGIOSPERMAE)
+
+TANAMAN OBAT SUKU SERAWAI Dan MANFAATNYA
+
+Indonesia merupakan negara yang memiliki kekayaan tumbuhan cukup besar yang dapat dikembangkan terutama untuk obat tradisional yang merupakan bahan atau ramuan berupa bahan tumbuhan. Suku-Suku di Indonesia telah lama mengembangkan pengunaan tumbuhan sebagai tanaman obat. Salah satu Suku di Indonesia yang memanfaatkan tumbuhan obat sebagai tanaman obat adalah Suku Serawai. Suku Serawai adalah suku asli Bengkulu yang tersebar dari Seluma, Bengkulu Selatan dan Sebagian Kaur. Dari hasil penelitian di salah satu desa, yakni Desa Tumbuan Kecamatan Lubuk Sandi Kabupaten Seluma. Masyarakat desa masih banyak yang mengunakan tumbuhan sebagai obat dan digunakan untuk menyembuhkan berbagai macam penyakit, salah satunya adalah obat untuk melancarkan darah sehabis melahirkan yakni Puding Abang/Daun Wungu. Adapun pada Tabel 1.4 terdapat tanaman-tanaman yang dimanfaatkan masyarakat Suku Serawai sebagai obat (nama tanaman, nama daerah, nama latin, bagian tumbuhan yang digunakan, manfaat tanaman)
+
+Tabel 1.4 Tumbuhan obat dan manfaatnya
+
+No Nama Lokal/Nama Indonesia/Nama Latin
+
+Famili
+
+Kelas
+
+Bagian Manfaat
+
+yang
+
+digunakan
+
+1 Srikayo/Srikaya/Annona squamosa
+
+Annonaceae Magnoliopsida Daun
+
+Obat
+
+malaria,
+
+asam urat
+
+2 Sengsilo/Pepaya/Carica papaya
+
+Caricaceae Magnoliopsida Daun
+
+Malaria,
+
+digit ular
+
+dan
+
+cacingan
+
+3 Kayu tulang/Ceridu/Euphorbia tiruculli
+
+Euphorbiaceae Magnoliopsida Getah
+
+Kutil,
+
+patah
+
+tulang
+
+4 Cangkok manis/Katuk/Sauraphus androgynus
+
+Euphorbiaceae Magnoliopsida Daun
+
+Lancar
+
+ASI
+
+5 Kacang Kayu/ Kacang gude/
+
+Fabaceae
+
+Magnoliopsida Daun
+
+Batuk
+
+Cajanus cajan
+
+Menahun
+
+6 Rosella/Hibiscus sabdariffa
+
+Malvaceae
+
+Magnoliopsida Akar,
+
+Stroke
+
+batang
+
+dan daun
+
+7 Petai Cina/Lamtoro/ Leucaena leucocephala
+
+Mimosaceae Magnoliopsida Biji
+
+Cacingan
+
+8 Jambu batu/Jambu Biji/Psidium guajava
+
+Myrtaceae
+
+Magnoliopsida Daun
+
+Sakit
+
+Perut,
+
+malaria
+
+9 Pecah Beling/Keji Beling/ Strobilanthes crispus Rubiaceae Magnoliopsida Akar dan Batu
+
+daun
+
+Ginjal,
+
+kencing
+
+manis
+
+10 Pedu Beruang/Buah makassar/Brucea javanica
+
+Simaroubaceae Magnoliopsida Daun
+
+11 Enau/Aren/ Arenga pinnata
+
+Arecaceae
+
+12 Rumput malaysia/Kerinyu/Eupatorium odoratum Asteraceae
+
+Liliopsida Liliopsida
+
+Biji Daun
+
+Sakit Pinggang, malaria dan kutil Asam Urat, ginjal Obat Luka
+
+13 Lidah Buaya/Aloe vera
+
+Liliaceae
+
+Liliopsida
+
+14 Kucai/ Allium schoenoprasum 15 Pisang Sabo/Pisang Kapok/Musa acuminata
+
+Liliaceae Musaceae
+
+Liliopsida Liliopsida
+
+16 Pandan/ Pandanus amaryllifolius 17 Seghai/Serai/ Cymbopogon citratus
+
+Pandanaceae Liliopsida
+
+Poaceae
+
+Liliopsida
+
+18 Teghang/Rimbang/ Solanum torvum
+
+Solanaceae Liliopsida
+
+19 Kunyit/Curcuma domestica
+
+Zingiberaceae Liliopsida
+
+20 Bangle/ Zingiber purpureum
+
+Zingiberaceae Liliopsida
+
+Daun Daun Buah Daun Batang dan Daun Buah Rimpang
+Rimpang
+
+Rambut Subur Sembelit Lancar BAB Rematik Demam
+Mata Rabun Sakit Perut, maag dan nyeri setelah melahirkan Perut nyeri, masuk angin
+
+Beberapa spesies tumbuhan yang dimanfaatkan sebagai tanaman obat oleh masyarakat Suku Serawai di
+
+desa Tumbuan. Adapun klasifikasi, dan manfaat sebagai tanaman obat.
+
+A. Srikayo/Srikaya/Annona squamosa
+
+1. Klasifikasi
+
+Kingdom Divisi Kelas Ordo Famili Genus Spesies
+
+: Plantae : Magnoliophyta : Magnoliopsida : Magnoliales : Annonaceae : Annona : Annona squamosa
+
+(Sumber : Doc.Pribadi) Gambar 1.19 Srikaya ( Annona squamosa)
+
+2. Manfaat Memiliki banyak manfaat sebagai tanaman obat yakni obat asam urat dan Malaria.
+
+a) Asam Urat : 5-7 lembar daun direbus kemudian minum 2 kali sehari b) Malaria : 3-5 lembar Daun diremas lalu direbus, disaring dan diminum
+
+B. Sengsilo/Pepaya/Carica papaya
+
+1. Klasifikasi
+
+Kingdom
+
+: Plantae
+
+Divisi
+
+: Magnoliophyta
+
+Kelas
+
+: Magnoliopsida
+
+Ordo
+
+: Violales
+
+Famili
+
+: Caricaceae
+
+Genus
+
+: Carica
+
+Spesies
+
+: Carica Papaya
+
+2. Manfaat
+
+(Sumber : Doc.Pribadi) Gambar 1.20 Pepaya (Carica Papaya)
+
+Memilikimanfaat sebagaitanamanobat yakniobatmalaria,mencegahdiabetes, cacingandanobat digigit ular.
+
+a) Malaria : Rebus 1-2 lembar daun pepaya dan disaring kemudian diminum airnya
+
+b) Digigit ular : 3 buah akar dibersihkan kemudian dihaluskan dan ditempelkan pada bagian yang digigit
+
+ular.
+
+c) Cacingan : 1 lembar daun Carica papaya di tambahkan Brotowali direbus kemudian diminum.
+
+C. Kayu tulang/Ceridu/Euphorbia tiruculli
+
+1. Klasifikasi
+
+Kingdom
+
+: Plantae
+
+Divisi
+
+: Magnoliophyta
+
+Kelas
+
+: Magnoliopsida
+
+Ordo
+
+: Euphorbiales
+
+Famili
+
+: Euphprbiaceae
+
+Genus
+
+: Euphorbia
+
+Spesies
+
+: Euphorbia tiruculli
+
+2. Manfaat
+
+(Sumber : Doc.Pribadi) Gambar 1.21 Ceridu/Euphorbia tiruculli
+
+Memiliki manfaat sebagai tanaman obat yakni getahnya berfungsi untuk mengobati kutil dan patah tulang.
+
+a) Kutil : Patahkan batang kayu tulang dan oleskan pada bagian tubuh yang terkena kutil.
+
+b) Patah tulang : Getah dibalurkan pada bagian yang patah dan ditutup dengan daun bagian patah.
+
+D. Cangkok manis/Katuk/Sauraphus androgynus
+
+1. Klasifikasi
+
+Kingdom
+
+: Plantae
+
+Divisi
+
+: Magnoliophyta
+
+Kelas
+
+: Magnoliopsida
+
+Ordo
+
+: Euphorbiales
+
+Famili
+
+: Euphorbiaceae
+
+Genus
+
+: Sauraphus
+
+(Sumber : Doc.Pribadi) Gambar 1.22 Katuk/Sauraphus androgynus
+
+Spesies
+
+: Sauraphus androgynus
+
+2. Manfaat
+
+Memiliki manfaat sebagai tanaman obat yakni memperlancar ASI dan penyakit kuning.
+
+a) Mempelancar ASI : Daun katuk dimakan langsung atau direbus bening.
+
+b) Penyakit Kuning : 200 gram daun katuk + 50 gram remis direbus kemudian dimakan (dikonsumsi
+
+selama 6 bulan)
+
+E. Kacang Kayu/ Kacang gude/ Cajanus cajan
+
+1. Klasifikasi
+
+Kingdom
+
+: Plantae
+
+Divisi
+
+: Magnoliophyta
+
+Kelas
+
+: Magnoliopsida
+
+Ordo
+
+: Fabales
+
+Famili
+
+: Fabaceae
+
+Genus
+
+: Cajanus
+
+Spesies
+
+: Cajanus cajan
+
+3. Manfaat
+
+(Sumber : Doc.Pribadi) Gambar 1.23 Kacang Gude (Cajanus cajan)
+
+Memiliki manfaat sebagai tanaman obat yakni batuk menahun.
+
+a) Batuk menahun : 5-7 lembar daun kacang kayu ditambahkan air dan garam kemudia direbus dan
+
+diminum setiap pagi.
+
+F. Rosella/Hibiscus sabdariffa
+
+1. Klasifikasi
+
+Kingdom
+
+: Plantae
+
+Divisi Kelas
+
+: Magnoliophyta : Magnoliopsida
+
+Ordo Famili
+
+: Malvales : Malvaceae
+
+Genus Spesies
+
+: Hibiscus : Hibiscussabdariffa
+
+(Sumber : Doc. Pribadi) Gambar 1.24 Rosella (Hibiscus sabdariffa)
+
+2. Manfaat Memiliki manfaat sebagai tanaman obat yakni stroke.
+b) Stroke : 0,5 gram Akar, batang,daun, buah direbus sebanyak 10 liter air, setelah masak dibiarkan sampai air tersebut dingin, dimandikan untuk mengobati stroke.
+
+G. Petai Cina/Lamtoro/ Leucaena leucocephala 1. Klasifikasi
+
+Kingdom Divisi
+
+: Plantae : Magnoliophyta
+
+Kelas
+
+: Magnoliopsida
+
+Ordo
+
+: Fabales
+
+Famili
+
+: Mimosaceae
+
+Genus Spesies
+
+: Leucaena : Leucaena leucocephala
+
+2. Manfaat
+
+(Sumber : Doc. Pribadi) Gambar 1.25 Petai cina (Leucaena leucocephala)
+
+Memiliki manfaat sebagai tanaman obat yakni obat cacingan.
+
+c) Cacingan : Biji dimakan langsung sebagai obat cacingan.
+
+H. Jambu batu/Jambu Biji/Psidium guajava
+
+1. Klasifikasi
+
+Kingdom
+
+: Plantae
+
+Divisi
+
+: Magnoliophyta
+
+Kelas
+
+: Magnoliopsida
+
+Ordo
+
+: Mrytales
+
+Famili
+
+: Myrtaceae
+
+Genus
+
+: Psidium
+
+Spesies
+
+: Psidium guajava
+
+(Sumber : Doc.Pribadi) Gambar 1.26 Jambu Biji (Psidium guajava)
+
+2. Manfaat
+
+Memiliki manfaat sebagai tanaman obat yakni penyakit gula, obat mencret dan malaria.
+
+d) Obat penyakit gula : mengunakan satu buah jambu biji yang setengah masak direbus dan diminum
+
+airnya 2 kali sehari,
+
+e) Mencret : 3-5 lembar daun muda dan langsung makan.
+
+f) Malaria : Buah yang sudah masak dimakan langsung.
+
+I. Pecah Beling/Keji Beling/ Strobilanthes crispus
+
+1. Klasifikasi
+
+Kingdom : Plantae
+
+Divisi
+
+: Magnoliophyta
+
+: Magnoliopsida
+
+Ordo
+
+: Rubiales
+
+: Rubiaceae
+
+Genus
+
+: Strobilanthes
+
+: Strobilanthes crispus
+
+(Sumber : Doc.Pribadi) Gambar 1.27 Keji Beling (Strobilanthes crispus)
+
+2. Manfaat Memiliki manfaat sebagai tanaman obat yakni obat menghancurkan batu ginjal dan kencing manis.
+a) Batu ginjal : Akar dan daun dijemur + Ilalang 50 gram dan 50 gram kumis kucing dijemur (akar, batang dan daun), direbus dan diminum dimanfaatkan untuk mengobati batu ginjal.
+b) Kencing manis : 5-7 lembar daun direbus dan diminum , jadikan satu gelas.
+
+J. Pedu Beruang/Buah Makassar/ Brucea javanica
+
+1. Klasifikasi
+
+Kingdom
+
+: Plantae
+
+Divisi
+
+: Magnoliophyta
+
+Kelas
+
+: Magnoliopsida
+
+Ordo
+
+: Scrophulariales
+
+Famili
+
+: Simaroubaceae
+
+Genus
+
+: Brucea
+
+Spesies
+
+: Brucea javanica
+
+2. Manfaat
+
+(Sumber : Doc.Pribadi) Gambar 1.28 Buah Makassar (Brucea Javanica)
+
+Memiliki manfaat sebagai tanaman obat yakni sakit pinggang, malaria dan kutil.
+
+c) Sakit Pinggang : 1 genggam daun pedu beruang direbus dengan 200 cc air sisakan sampai ½ gelas dan
+
+diminum 2x sehari (Pagi dan Sore).
+
+d) Malaria : 50 gram akar + air 2 gelas kemudian rebus , diminum 2x sehari
+
+e) Kutil : 10 Buah dihaluskan kemudian tempelkan pada kutil.
+
+K. Enau/Aren/ Arenga pinnata
+
+1. Klasifikasi
+
+Kingdom
+
+: plantae
+
+Divisi
+
+: Magnoliophyta
+
+Kelas
+
+: Liliopsida
+
+Ordo
+
+: Arecales
+
+Famili
+
+: Arecaceae
+
+Genus
+
+: Arenga
+
+Spesies
+
+: Arenga pinnata
+
+2. Manfaat
+
+(Sumber : Doc.Pribadi) Gambar 1.29 Aren (Arenga pinnata)
+
+Memiliki manfaat sebagai tanaman obat yakni asam urat dan batu ginjal.
+
+a) Ginjal : Air nira ¼ gelas + jeruk nipis yang diperas, kemudian aduk diminum setiap pagi untuk batu
+
+ginjal.
+
+b) Asam Urat : 100 gram biji aren direbus dan dimakan 2x sehari
+
+L. Rumput malaysia/Kerinyu/Eupatorium odoratum
+
+1. Klasifikasi
+
+Kingdom
+
+: Plantae
+
+Divisi
+
+: Magnoliophyta
+
+Kelas
+
+: Magnoliopsida
+
+Ordo
+
+: Gnetiales
+
+Famili
+
+: Asteraceae
+
+Genus
+
+: Eupatorium
+
+Spesies
+
+: Eupatorium odoratum
+
+2. Manfaat
+
+a) Obat luka : Daun diperas atau tumbuk, (Sumber : Doc.Pribadi)
+
+letakkan pada bagian yang luka.
+
+Gambar 1.30 Kerinyu (Eupatorium odoratum)
+
+M. Lidah Buaya/Aloe vera
+
+1. Klasifikasi
+
+Kingdom
+
+: Plantae
+
+Divisi
+
+: Magnoliophyta
+
+Kelas
+
+: Liliopsida
+
+Ordo
+
+: Liliales
+
+Famili
+
+: Liliaceae
+
+Genus
+
+: Aloe
+
+Spesies
+
+: Aloe vera
+
+2. Manfaat
+
+Gambar 1.31 Lidah Buaya (Aloe vera)
+
+(Sumber : Doc. Pribadi)
+
+Memiliki manfaat sebagai tanaman obat yakni untuk menyuburkan rambut dan panas dalam.
+
+a) Menyuburkan rambut : Ambil 1-2 tangkai lidah buaya, patahkan kemudian oleskan kekepala. Diamkan
+
+15 menit lalu bilas.
+
+b) Panas dalam : 1 lembar daun lidah buaya, dikupas dan diremas dengan ¼ air kemudian disaring dan
+
+diminum
+
+N. Kucai/ Allium schoenoprasum
+
+1. Klasifikasi
+
+Kingdom
+
+: Plantae
+
+Divisi
+
+: Magnoliophyta
+
+Kelas
+
+: Liliopsida
+
+Ordo
+
+: Liliales
+
+Famili
+
+: Liliaceae
+
+Genus
+
+: Allium
+
+Spesies
+
+: Allium schonoprasum
+
+(Sumber : Doc.Pribadi) Gambar 1.32 Kucai (Allium schoenoprasum)
+
+2. Manfaat Memiliki manfaat sebagai tanaman untuk obat sembelit.
+a) Sembelit : 10 helai daun dicuci lalu di rebus dan diminum
+
+O. Pisang Sabo/Pisang Kapok/Musa acuminata
+
+1. Klasifikasi
+
+Kingdom
+
+: Plantae
+
+Divisi
+
+: Magnoliophyta
+
+Kelas
+
+: Liliopsida
+
+Ordo
+
+: Zingiberales
+
+Famili
+
+: Musaceae
+
+Genus
+
+: Musa
+
+Spesies
+
+: Musa acuminata
+
+(Sumber : Doc.Pribadi)
+
+2. Manfaat
+
+Gambar 1.33 Pisang Sabo (Musa acuminata)
+
+Memiliki manfaat sebagai tanaman obat yakni mempelancar BAB dan Obat sakit kepala.
+
+b) Memperlancar BAB : Pukul umbi muda (mengunakan kayu) kemudian ambil secukupnya oleskan pada
+
+perut
+
+c) Obat sakit kepala : Akar diremas kemudian campur dengan air beras lalu usapkan dikepala
+
+P. Pandan/ Pandanus amaryllifolius
+
+1. Klasifikasi
+
+Kingdom
+
+: Plantae
+
+Divisi
+
+: Magnoliophyta
+
+Kelas
+
+: Liliopsida
+
+Ordo
+
+: Pandanales
+
+Famili
+
+: Pandanaceae
+
+Genus
+
+: Pandanus
+
+Spesies
+
+: Pandanus amaryllifolius
+
+2. Manfaat
+
+(Sumber : Doc.Pribadi) Gambar 1.34 Pandan (Pandanus amaryllifolius)
+
+Memiliki fungsi sebagai tanaman obat yakni menghitamkan rambut dan obat rematik.
+
+a) 7 lembar daun pandan dipotong-potong kemudian direbus, air rebusan dibiarkan semalaman + air
+
+perasan mengkudu masak campurkan dan bilaskan dikepala
+
+b) Rematik : 4-5 lembar daun tipis-tipis atau ditumbuk kasar,dipanaskan dengan ½ gelas minyak kelapa,
+
+diaduk, dan digosokkan sambil dipijat pada bagian yang rematik
+
+Q. Seghai/Serai/ Cymbopogon citratus
+
+1. Klasifikasi
+
+Kingdom
+
+: Plantae
+
+Divisi
+
+: Magnoliophyta
+
+Kelas
+
+: Liliopsida
+
+Ordo
+
+: Poales
+
+Famili
+
+: Poaceae
+
+Genus
+
+: Cymbopogon
+
+Spesies
+
+: Cymbopogon citratus
+
+2. Manfaat
+
+(Sumber : Doc.Pribadi) Gambar 1.35 Serai (Cymbopogon citratus)
+
+a) Demam : 7 lembar daun serai + 1 lembar daun pisang + 10 lembar daun sirih + 3 lembar daun lengkuas
+
++ 3 lembar daun kunyit direbus dan disiram ketubuh untuk obat demam.
+
+b) Asam urat : 7 batang serai dipotong-potong kemudian rebus dan dapatkan 1 gelas air rebusan minum.
+
+R. Teghang/Rimbang/ Solanum torvum
+
+1. Klasifikasi
+
+Kingdom
+
+: Plantae
+
+Divisi
+
+: Magnoliophyta
+
+Kelas
+
+: Magnoliopsida
+
+Ordo
+
+: Solanes
+
+Famili
+
+: Solanaceae
+
+Genus
+
+: Solanum
+
+Spesies
+
+: Solanum torvum
+
+2 . Manfaat
+
+(Sumber : Doc.Pribadi) Gambar 1.36 Rimbang (Solanum torvum)
+
+a) obat mata minus : dicuci dan dimakan secara langsung buahnya.
+
+S. Kunyit/Curcuma domestica
+
+1. Klasifikasi
+
+Kingdom
+
+: Plantae
+
+Divisi
+
+: Magnoliophyta
+
+Kelas
+
+: Liliopsida
+
+Ordo
+
+: Zingiberales
+
+Famili
+
+: Zingiberaceae
+
+Genus
+
+: Curcuma
+
+Spesies
+
+: Curcuma domestica
+
+(Sumber : Doc.Pribadi) 1.37 Kunyit (Curcuma domestica)
+
+2. Manfaat Memiliki fungsi sebagai tanaman obat yakni obat sakit perut, memperlancar setelah lahiran, sakit perut ketika haid dan maag.
+b) Sakit perut : 1-2 rimpang kunyit di parut kemudian oleskan pada perut. c) Mempelancar darah sehabis melahirkan : 1 jari rimpang, digiling halus, diberi air, di saring,
+diambil airnya,diminum. d) Maag : 2-3 jari rimpang diparut halus, diperas airnya dan diminum.
+
+T. Bangle/ Zingiber purpureum
+
+1. Klasifikasi
+
+Kingdom
+
+: Plantae
+
+Divisi
+
+: Magnoliophyta
+
+Kelas
+
+: Liliopsida
+
+Ordo
+
+: Zingiberales
+
+Famili
+
+: Zingiberaceae
+
+Genus
+
+: Zingiber
+
+Spesies
+
+: Zingiber purpureum
+
+2. Manfaat
+
+Memiliki fungsi sebagai tanaman obat
+
+yakni obat perut nyeri masuk angin, sembelit dan perut terasa penuh.
+
+(Sumber : Doc.Pribadi) Gambar 1.38 Bangle (Zingiber purpureum)
+
+a) Masuk angin :
+
+3 jari rimpang di iris tipis-tipis
+
+kemudian direbus dan diminum.
+
+b) Perut terasa penuh :
+
+2-3 helai daun di tumbuk halus kemudian tambahkan air masak aduk merata dan diperas lalu disaring
+
+kemudian minum.
+
+LEMBAR KEGIATAAN PESERTA DIDIK
+MAGNOLIOPHYTA
+
+PENDAHULUAN
+Indonesia merupakan negara yang memiliki keragamaan tumbuhan terbesar kedua di dunia, tumbuhan dari tingkat rendah sampai tingkatan tertinggi. Tumbuhan banyak dimanfaatkan sebagai bahan papan, pangan dan sandang. Salah satu pemanfataan tumbuhan adalah sebagai tanaman obat, pengelolannya berbeda dari satu daerah ke daerah mengikuti jenis tanaman obat dan penggunan sebagai obat. Salah satu suku yang ada di Indonesia adalah Suku Serawai. Suku Serawai mendiami Bengkulu, yakni Seluma, Bengkulu Selatan dan sebagian Kaur. Suku Serawai menggunakan tanaman obat dari zaman dahulu hingga sekarang yang diturunkan secara turun-menurun. Salah satu contoh tanaman obat yang digunakan masyarakat Suku Serawai adalah Kelinyu/Rumput malaysia sebagai obat luka.
+
+NAMA KELOMPOK
+1. 2. 3. 4. 5. 6. 7.
+
+Tumbuhan adalah organisme yang memiliki membran inti, multiselular, memiliki akar, batang dan daun. Tumbuhan terbagi menjadi beberapa divisi salah satu divisi terbesar tumbuhan adalah magnoliophyta (angiospermae). Magnoliophyta adalah tumbuhan yang berbunga, memiliki ciri utama yakni bakal bijinya berada didalam megasporofil yang termodifikasi menjadi daun buah. Pada daun buah berdaging tebal. Daun buah berfungsi untuk melindungi biji agar tidak kekeringan saat mengalami dormansi. Pertulangan daun magnoliophyta bervariasi dari menjari, menyirip, sejajar dan melengkung. Bunga adalah alat reproduksi generatif. Akar magnoliophyta berbentuk serabut dan tunggang. Magnoliophyta terbagi menjadi 2 kelas yakni magnoliopsida (dikotil) dan liliopsida (monokotil).
+
+TUJUAN
+
+1. Untuk mengetahui ciri-ciri tumbuhan monokotil
+
+2. Untuk mengetahui ciri-ciri tumbuhan dikotil
+
+3. Untuk mengetahui penggunan tumbuhan dalam kehidupan sehari-hari
+
+ALAT
+
+1. Silet
+
+2. Alat Tulis
+
+BAHAN
+
+a. Jambu biji
+
+g. Petai China
+
+b. Mawar
+
+h. Kerinyu
+
+c. Kunyit d. Rosella e. Serai f. Katuk
+
+i. Lidah Buaya j. Pandan k. Jahe l. Bangle
+
+CARA KERJA
+1. Amatilah bentuk perakaran pada masing-masing tumbuhan (Serabut atau tunggang) 2. Amatilah tipe pertulangan daun pada masing-masing tumbuhan (Menjari, menyirip, sejajar) 3. Amatilah bunga yang telah disiapkan, tuliskan ciri-ciri bunga tersebut (jumlah daun kelopak,
+jumlah daun mahkota, warna daun kelopak dan warna daun mahkota) 4. Amatilah habitus pada masing-masing tumbuhan 5. Isilah data-data pada tabel pengamatan 1.1 Hasil Pengamatan morfologi tumbuhan
+
+No
+
+Nama
+
+Tumbuhan
+
+1 2 3 4 5 6 7 8 9 10 11 12
+
+Nama Ilmiah
+
+Tipe Pertulangan
+Daun
+
+Jumlah kelopak
+dan warna
+
+Jumlah mahkota
+dan warna
+
+Akar (serabut/ Tunggang)
+
+Habitus
+
+1. Berdasarkan hasil pengamatan tabel 1.1 kelompokkan masing-masing tumbuhan ke dalam kelas magnoliopsida (dikotil) atau liliopsida (monokotil)
+2. Carilah manfaat masing-masing tumbuhan tersebut sebagai tanaman obat.
+
+1. Tumbuhan manakah yang memiliki akar serabut ? Tumbuhan manakah yang memiliki akar tunggang ? Jawab : ............................................................................................................................. ..........................................................................................................................................
+2. Tumbuhan manakah yang memiliki biji berkeping satu ? tumbuhan manakah yang memiliki biji berkeping dua ? Jawab : ............................................................................................................................. ..........................................................................................................................................
+3. Tumbuhan apa saja yang tergolong ke dalam liliopsida (monokotil) atau magnoliopsdia (dikotil) ? Jawab : ............................................................................................................................. ..........................................................................................................................................
+4. Apa saja perbedaan liliopsida (monokotil) atau magnoliopsdia (dikotil) ? Jawab : ............................................................................................................................. ..........................................................................................................................................
+5. Dari 12 tumbuhan yang ada, apakah semua tumbuhan berpotensi menjadi tanaman obat ? (jika iya,berikan alasan) Jawab : ............................................................................................................................. ..........................................................................................................................................
+6. Buatlah kesimpulan berdasarkan hasil pengamatan ! Jawab : ............................................................................................................................. ..........................................................................................................................................
+-TERIMA KASIH"Kerjakan dengan jujur untuk mendapatkan hasil terbaik"
+170
+
+MENDATAR 1. Pada Magnoliophyta (Angiospermae) terjadi Pembuahan ......... 2. Alat Reproduksi Generatif Gymnospermae adalah... 3. Memiliki ciri berbentuk perdu/pohon, daun tampak hijau dan beraroma, tergolong famili.... 4. Ciri khas Magnoliophyta (Angiospermae) adalah bakal biji dilindungi oleh daun buah, nama ilmiah daun buah adalah.... 5. Termasuk kelompok nanas-nanasan dan berbentuk semak basah...
+MENURUN 6. Nama lain dari kelas dicotyledonae... 7. Pembuluh angkut Magnoliopsida (Angiospermae) dari bawah ke atas atau dari akar ke daun.... 8. Ciri tumbuhan monokotil adalah memiliki akar... 9. Memiliki ciri berbentuk pohon atau memanjat, pada batang terdapat bekas daun berbentuk cincin, contoh Cocos Nucifera, termasuk golongan.... 10. Kelompok kaktus, memiliki batang untuk menyimpan air (sekulen), termasuk golongan famili....
+171
+
+Isilah titik-titik pada mindmap berdasarkan materi yang anda pahami di dalam Handout.
+172
+
+173
+
+UJI KOMPETENSI
+
+Mata Pelajaran
+
+:
+
+Hari/Tanggal
+
+:
+
+Waktu
+
+:
+
+A. Pilihan Ganda
+
+Pilihlah salah satu jawaban yang paling benar.
+
+1. Berikut ini yang bukan merupakan ciri-ciri kelompok plantae adalah
+
+a. Eukariotik
+
+d. Memiliki dinding sel
+
+b. Tubuh multiseluler
+
+e. Tubuh Uniseluler
+
+c. Memiliki klorofil
+
+2. Perhatikan tabel dibawah ini dengan saksama
+
+No Indikator Bryophyta Pteridophyta
+
+Pinophyta
+
+Magnoliophyta
+
+(Gymnospermae) (Angiospermae)
+
+1 Bentuk
+
+Kormus Kormus (memiliki Peralihan antara talus Kormus (memiliki
+
+Tubuh
+
+(memiliki akar, batang dan dengan kormus
+
+akar, batang dan
+
+akar, batang daun sejati)
+
+daun sejati)
+
+dan daun sejati)
+
+2 Pembuluh
+
+ada
+
+Xilem dan floem
+
+Trakeid
+
+Xilem
+
+angkut
+
+3
+
+Alat
+
+Reproduksi
+
+Bunga
+
+Strobilus
+
+Spora
+
+Bunga
+
+4
+
+Daun
+
+Daun sangat Daun berukuran Daun bervariasi (Ada Daun bervariasi
+
+tipis
+
+besar (Makrofil)
+
+yang kecil dan tebal (Menjari, menyirip,
+
+Daun berukuran seperti jarum, ada
+
+sejajar)
+
+kecil (Mikrofil)
+
+yang seperti lembaran)
+
+5 Akar
+
+Rizoid
+
+Rizoid
+
+Tunggang atau Tunggang atau
+
+berkembang
+
+Serabut
+
+Serabut
+
+menjadi akar
+
+Pada tabel perbedaan Bryophyta, Pteridophyta, Pinophyta dan Magnoliophyta. Pernyataan
+
+yang paling tepat sesuai dengan ciri-ciri divisi diatas adalah?
+
+a. 1 dan 3
+
+d. 4 dan 5
+
+b. 1 dan 4
+
+e. 3 dan 5
+
+c. 2 dan 4
+
+3. dibawah ini yang termasuk bentuk tubuh kelas Magnoliophyta (Angiospermae) ,
+
+kecuali.......
+
+a. Semak
+
+d. Pohon
+
+b. Perdu
+
+e. Liana
+
+c. Talus
+
+4. Di bawah ini ciri utama Magnoliophyta (Angiospermae) adalah ............. a. Tidak memiliki pembuluh angkut floem maupun xilem b. Menghasilkan spora c. Dapat bereproduksi dengan strobilus d. Memiliki trakeid yang berfungsi mengangkut air
+
+174
+
+e. Bunga sebagai alat reproduksi generatif
+
+5. Peryataan paling tepat tentang Magnoliopsida (dikotil) adalah .............. a. Kotiledon satu b. Berkas vaskuler pada batang bertipe kolateral tertutup c. Berakar tunggang yang bercabang-cabang d. Berakar serabut e. Kelopak bunga berjumlah 3 atau kelipatannya
+
+6. Terdapat tumbuhan dengan ciri-ciri sebagai berikut :
+
+a) Berbentuk Pohon/Perdu
+
+b) Daun Tunggal, Pertulangan daun menyirip
+
+c) Kelopak dan Mahkota bunga 5
+
+d) Daun berwarna hijau dan beraroma ketika diremas
+
+e) Salah satu contoh Spesies Jambu Biji (Psidium guajava)
+
+Berdasarkan ciri-ciri tersebut, tumbuhan tersebut tergolong famili.............
+
+a. Malvaceae
+
+d. Fabacea
+
+b. Casuarinaceae
+
+e. Rosaceae
+
+c. Myrtaceae
+
+7. Alamanda chathartica (Bunga Terompet Kuning), Catharanthus roseus (Bunga Tapak
+
+Dara) termasuk ke dalam famili Apocynaceae, di bawah ini termasuk ciri utama dari famili
+
+Apocynaceae adalah.........................
+
+a. Berbentuk Perdu
+
+d. Bunga dengan warna mencolok
+
+b. Daun memiliki bau aromatik
+
+e. Daun buah memanjang dan polong
+
+c. Tulang daun sejajar
+
+8. Yang termasuk dalam kelompok famili Solanaceae adalah.............. a. Piper betle (Sirih), Piper nigrum (Lada) b. Hibiscus rosa-sinensis (Kembang Sepatu), Gosspium sp (Kapas) c. Solanum torvum (Terung Pipit), Solanum lycopersicum (Tomat) d. Citrus hystrix (Jeruk Nipis), Morraya paniculata (Kemuning) e. Mirabilis jalapa (Bunga Pukul Empat), Bougenville Sp (Bunga Kertas)
+
+9. Terdapat tumbuhan dengan ciri-ciri sebagai berikut :
+
+a) Batang silindris, agak pipih dan berongga
+
+b) Daun tunggal dan berpelepah
+
+c) Bunga tersusun atas bulir
+
+d) Berbiji satu
+
+e) Salah satu contoh spesies adalah Cymbopogon citratus (Serai)
+
+Berdasarkan ciri-ciri tersebut, tumbuhan tersebut termasuk famili.............
+
+a. Poaceae
+
+d. Pandanaceae
+
+b. Musaceae
+
+e. Liliaceae
+
+c. Bromeliaceae
+
+10. Yang termasuk kedalam kelompok famili Liliaceae adalah............... a. Oryza Sativa (Padi), Zea mays (Jagung) b. Aloe vera (Lidah Buaya), Allium cepa (Bawang Merah) c. Curcuma domestica (Kunyit), Zingiber officinale (Jahe) d. Ananas comosus (Nanas), Cymbopogon citratus (Serai)
+
+175
+
+e. Cocos nucifera (Kelapa), Arenga pinnata (Aren)
+
+Soal 11-12 Perhatikan tabel dibawah ini
+No Nama Lokal/Nama Indonesia/Nama Latin
+1 Srikayo/Srikaya/Annona squamosa
+2 Sengsilo/Pepaya/Carica papaya 3 Rosella/Hibiscus sabdariffa
+4 Lidah Buaya/Aloe vera
+5 Kunyit/Curcuma domestica
+
+Famili
+Apocynaceae Caricaceae Malvaceae
+Liliaceae Zingiberaceae
+
+Kelas
+Magniliopsida Magnoliopsida Magniliopsida
+Magnoliopsida Liliopsida
+
+Bagian yang digunakan Daun
+Daun Akar, batang dan daun Daun
+Rimpang
+
+Manfaat
+Obat malaria Malaria Stroke
+Rambut Subur Sakit Perut
+
+11. Berdasarkan tabel diatas pasangan yang paling tepat adalah......
+
+a. 1,2 dan 3
+
+d. 1,3 dan 5
+
+b. 2,3 dan 4
+
+e. 1,4 dan 5
+
+c. 2,3 dan 5
+
+12. Spesies Annona squamosa (Srikaya) termasuk ke dalam famili.........
+
+a. Apocynaceae
+
+d. Malvaceae
+
+b. Annonaceae
+
+e. Liliaceae
+
+c. Caricaceae
+
+13. Perhatikan gambar berikut ini
+
+(Dokumen pribadi)
+
+Tumbuhan monokotil ini tergolong famili...........
+
+a. Bromeliaceae
+
+d. Pandanaceae
+
+b. Poaceae
+
+e. Liliacea
+
+c. Musaceae
+
+14. Perhatikan gambar berikut ini
+
+(Dokumen pribadi) 176
+
+Tumbuhan ini memiliki manfaat sebagai tanaman obat, salah satunya yakni obat sakit perut .
+
+Tergolong ke dalam famili............
+
+a. Malvaceae
+
+d. Zingiberaceae
+
+b. Arecaceae
+
+e. Musaceae
+
+c. Poaceae
+
+15. Perhatikan gambar berikut
+
+(Dokumen pribadi)
+
+Merupakan tumbuhan yang tergolong famili Piperaceae, memiliki manfaat sebagai tanaman
+
+obat. Salah satu manfaat dari tumbuhan ini adalah
+
+a. Sebagai obat nyeri haid
+
+d. Sebagai obat menghitamkan rambut
+
+b. Sebagai obat sakit gigi
+
+e. Sebagai obat batuk
+
+c. Sebagai obat mata
+
+B. Uraian
+
+Jawablah pertanyaan-pertanyaan dengan benar !!
+
+1. Jelaskan perbedaan Pinophyta (Gymnospermae) dan Magnoliophyta (Angiospermae) ?
+
+2. Jelaskan perbedaan Liliopsida (monokotil) dan Magnoliopsida (dikotil) ?
+
+3. Golongkan tumbuhan berikut ini ke dalam kelompok Liliopsida (monokotil) dan Magnoliopsida (dikotil)
+
+a. Mangga
+
+f. Alang-alang
+
+b. Tomat
+
+g. Seledri
+
+c. Petai Cina
+
+h. Mawar
+
+d. Pandan
+
+i. Tebu
+
+e. Nanas
+
+j. Pinang
+
+4. Jelaskan perbedaan masing-masing famili
+
+a. Myrtaceae
+
+d. Poaceae
+
+b. Solanaceae
+
+e. Zingiberaceae
+
+c. Euphorbiaceae
+
+f. Arecaceae
+
+5. Sebutkan peranan tumbuhan berbiji tertutup (Magnoliophyta) yang menguntungkan bagi manusia dibidang kesehatan, beserta contoh tumbuhannya. (10 Jenis Tumbuhan)
+
+177
+
+Anemogami
+
+: Penyerbukan dengan bantuan angin
+
+Berkas Vaskuler : Jaringan Pengangkut merupakan jaringan yang berperan untuk mengangkut air dan unsur hara dari akar sampai daun
+
+Braktea
+
+: Daun Pelindung, yakni organ yang mirip daun yang dari ketiaknya
+
+muncul ibu tangkai bunga majemuk.
+
+Dormansi
+
+: Keadaan disaat biji mengalami fase istirahat (tidak aktif)
+
+Dicotyledone
+
+: Tumbuhan biji berkeping dua
+
+Eukariotik
+
+: Organisme yang memiliki membran inti
+
+Floem
+
+: Jaringan yang tersusun oleh sel-sel hidup dengan tipe yang berbeda.
+
+Floem terdiri atas parenkim floem, serabut floem, pembuluh tapis, sel pengiring (hanya pada
+
+Angiospermae)
+
+Karpel
+
+: Ovarium dari struktur reproduksi bunga betina
+
+Kolateral Terbuka : Xilem dan floem terdapat kambium, dimana kambium adalah penghubung antara floem dan xilem.
+
+Kolateral Tertutup : Antara xilem dan floem tidak terdapat kambium melainkan parenkim.
+
+Monocotyledone : Tumbuhan berkeping satu
+
+Multiseluler
+
+: Organisme bersel banyak
+
+Pembuahaan Ganda : Proses pembuahan pada Angiospermae untuk membentuk embrio dan cadangan makanan (endosperma)
+
+Pembuahaan Tunggal : Proses pembuahan pada Gymnospermae yang tidak menghasilkan endospermae.
+
+Petal
+
+: Mahkota Bunga
+
+Sepal
+
+: Kelopak Bunga
+
+Uniseluler
+
+: Organisme bersel satu
+
+Xilem
+
+: Jaringan kompleks yang terdiri atas beberapa tipe sel yang dindingnya
+
+mengalami penebalan dari zat kayu.
+
+178
+
+DAFTAR PUSTAKA
+Irnaningtyas,2014. Biologi untuk SMA/MA Kelas X. Jakarta : Erlangga Kasrina,2016. Bahan Ajar Taksonomi Tumbuhan II. Universitas Bengkulu : Program Studi
+Pendidikan Biologi FKIP UNIB Permana,Heri.2007. Tanaman Obat Tradisional.Bandung : Penerbit Titian Ilmu Saparinto, Cahyo dan Susiana, Rini. 2015. Grown Your Own Medical Plant (51 tanaman obat
+populer dipekarangan). Yogyakarta : Lily Publisher Tjitrosoepomo.2010. Taksonomi Universitas Gadjah Mada. Yogyakarta : Gadjah Mada
+University Press
+179

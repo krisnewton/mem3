@@ -1,0 +1,630 @@
+PETUNJUK PRAKTIS BUDIDAYA JAMUR KUPING, JAMUR MERANG, JAMUR TIRAM,JAMUR SHITAKE DAN
+JAMUR KANCING SISTEM SEMI MODEREN
+Oleh :
+Eko Siswanto
+
+JURUSAN AGROTEKNOLOGI
+Fakultas Pertanian Universitas Islam Balitar Jl. Majapahit No 02-08 Kota Blitar ­ Jawa Timur - Indonesia
+Telepon (0342) 813145
+
+Eko Siswanto "Modul Budidaya Jamur Semi Modern"
+
+1
+
+KATA PENGANTAR
+Dengan menyebut nama Allah Yang Maha Pengasih lagi Maha Penyayang dan berkat rahmat, hidayah serta kekuatan- Nya maka buku Teknik Budidaya Jamur Semi Modern ini dapat diselesaikan.
+Ucapan terima kasih yang tak terhingga penulis sampaikan kepada yang terhormat Ibu Ir. Palupi Puspitorini, M.P , selaku dosen pembimbing Mata Kuliah Dasar Dgronomi Fakultas Pertanian yang telah memberikan ijin kepada penulis untuk mencoba mengaplikasikan budidaya jamur kepada kalangan mahasiswa faperta UNISBA Blitar dengan berbasis semi moderen. Dengan acuan praktikum yang dilakukan di kampus UNISMA Malang minggu silam.
+Semoga buku ini dapat menjadi jembatan bagi mereka yang ingin menekuni usaha bidang budidaya jamur. Tulisan ini semata-mata didasarkan pada pengalaman penulis pada saat praktikum dan seminar umum pelatihan budidaya jamur yang dilaksanakan pada hari Minggu,07 Mei 2017 bersama dengan "HIMAGRO" Universitas Islam Malang (Unisma), tetapi karena keterbatasan pengetahuan dan ketidak sempurnaan selalu ada, oleh sebab itu koreksi kritik dan saran sangat diharapkan.
+Blitar,16 Mei 2017 Penulis
+Eko Siswanto
+NIM.15102210014
+
+Eko Siswanto "Modul Budidaya Jamur Semi Modern"
+
+2
+
+DAFTAR ISI
+Halaman Judul Kata Pengantar Daftar Isi
+BAB I : PENDAHULUAN.............................................................................................. 1 1.1 Latar Belakang ......................................................................................... 1 1.2 Rumusan Masalah ................................................................................... 3 1.3 Tujuan ..................................................................................................... 3 1.4 Identitas Masalah ................................................................................... 3
+BAB II : PEMBAHASAN............................................................................................... 4 2.1 Teknik Budidaya Jamur Kuping .............................................................. 4 2.1.1. Karakteristik Jamur Kuping........................................................... 4 2.1.2. Budidaya Jamur Kuping ............................................................... 12 2.2. Teknik Budidaya Jamur Merang ........................................................... 17 2.2.1. Karakteristik Jamur Merang ........................................................ 17 2.2.2. Budidaya Jamur Merang ............................................................. 19 2.3. Teknik Budidaya Jamur Tiram ............................................................... 23 2.3.1. Karakteristik Jamur Tiram........................................................... 23 2.3.2. Budidaya Jamur Tiram .............................................................. 24 2.4. Teknik Budidaya Jamur Kancing ........................................................... 25 2.4.1. Karakteristik Jamur Kancing ....................................................... 25 2.4.2. Budidaya Jamur Kancing............................................................ 27 2.5. Teknik Budidaya Jamur Shitake ............................................................ 31 2.4.1. Karakteristik Jamur Shitake ........................................................ 31
+BAB III : PENUTUP .................................................................................................... 34 3.1 Kesimpulan.............................................................................................. 34 3.2 Saran ....................................................................................................... 34
+DAFTAR PUSTAKA ..................................................................................................... 35
+
+Eko Siswanto "Modul Budidaya Jamur Semi Modern"
+
+3
+
+BAB I PENDAHULUAN
+1.1 Latar Belakang Berangkat dari niat untuk mendalami dunia usaha yang terbuka lebar serta
+keinginan untukmemberikan manfaat yang lebih besar bagi masyarakat sekitar , maka dengan segenap,pengetahuan, dan berbagai hasil survey serta konsultasi, penulis menyusun proposalpengembangan usaha budidaya jamur konsumsi (jamur tiram dan jamur merang) ini.Pengembangan usaha ini dipilih atas beberapa pertimbangan diantaranya daya serap pasaryang masih sangat tinggi dan potensial, kebutuhan skill yang tidak begitu tinggi, biayainvestasi yang relatif rendah serta tersedianya bahan baku di lingkungan sekitar.JAMUR, dalam sejarah telah dikenal sebagai makanan sejak 3000 tahun yang lalu, dimanajamur menjadi makanan khusus buat raja Mesir yang kemudian berkembang menjadimakanan spesial bagi masyarakat umum karena rasanya yang enak. Di Cina, pemanfaatanjamur sebagai bahan obat-obatan sudah dimulai sejak dua ribu tahun silam.
+Budidaya jamur tiram putih yang bernama latin Pleurotus ostreatus ini masih tergolong baru.Di Indonesia budidaya jamur tiram mulai dirintis dan diperkenalkan kepada para petaniterutama di Cisarua, Lembang, Jawa Barat pada tahun 1988, dan pada waktu itu petani danpengusaha jamur tiram masih sangat sedikit. Sekitar tahun 1995, para petani di kawasanCisarua, yang semula merupakan petani bunga, peternak ayam dan sapi mulai beralih menjadipetani jamur tiram meski masih dalam skala rumah tangga. Dalam perkembangannya,beberapa industri berskala rumah tangga bergabung hingga terbentuk CV dan memilikibadan hukum.Sekilas tentang Jamur Tiram Jamur tiram putih (Pleurotus ostreatus) merupakan salah satu jamur kayu yang sangat baikuntuk dikonsumsi manusia. Selain karena memiliki cita rasa yang khas, jamur tiram jugamemiliki nilai gizi yang tinggi.
+
+Eko Siswanto "Modul Budidaya Jamur Semi Modern"
+
+1
+
+Jamur tiram mengandung protein sebanyak 19 ­ 35 % dariberat kering jamur, dan karbohidrat sebanyak 46,6 ­ 81,8 %. Selain itu jamur tirammengandung tiamin atau vit. B1, riboflavin atau vit. B2, niasin, biotin serta beberapa garammineral dari unsur-unsur Ca, P, Fe, Na, dan K dalam komposisi yang seimbang. Biladibandingkan dengan daging ayam yang kandungan proteinnya 18,2 gram, lemaknya 25,0gram, namun karbohidratnya 0,0 gram, maka kandungan gizi jamur masih lebih lengkapsehingga tidak salah apabila dikatakan jamur merupakan bahan pangan masa depan.Jamur tiram juga bermanfaat dalam pengobatan, seperti : Dapat menurunkan tingkat kolesterol dalam darah. Memiliki kandungan serat mulai 7,4 % sampai 24,6% yang sangat baik bagi pencernaan.
+Di awal musim penghujan sering ditemukan berbagai jenis jamur yang tumbuh di tanah pekarangan dan atau kayu yang telah mulai lapuk. Budidaya tanaman pertanian di Indonesia, memiliki potensi serta prospek yang baik di masa sekarang maupun untuk masa yang akan datang. Hal ini di karenakan Indonesia memiliki sumber daya alam yang melimpah, serta memiliki kondisi geografi dan keadaan lingkungan yang mampu menunjang serta mendukung para petani Indonesia untuk membudidayakan berbagai macam jenis tanaman pertanian. Tidak sedikit petani yang mencoba membudidayakan jenis tanaman lain, salah satunya yang akhir-akhir ini banyak di budidayakan adalah jamur.
+Indonesia merupakan negara agraris yang memiliki komoditi pertanian yang sangat beragam. Salah satunya ada di komoditas hortikultura, yang saat ini sangat diminati dan mulai digemari adalah jamur. Jamur memiliki syarat tumbuh dengan suhu 16-22° C dan kelembaban 80-90%. Jawa Barat merupakan sentra jamur masih berada di daerah dataran tinggi seperti Lembang, Cisarua, Pangalengan, dan Cipanas, daerah ini merupakan daerah yang sangat ideal untuk tumbuhan jamur. Sedangkan daerah yang lain selain daerah ideal masih ada lahan yang bisa dan berpotensi untuk menjadi tempat budidaya namun terbentur oleh faktor lingkungan, untuk dapat tumbuh dengan baik diperlukan lingkungan yang sesuai dengan pertumbuhan dan perkembangan. Adapun faktor lingkungan yang sangat berpengaruh di sekitar tanaman, kelembaban relatif, kelembaban media tanam, kecepatan angin, suhu media tanam, dan unsur hara.
+
+Eko Siswanto "Modul Budidaya Jamur Semi Modern"
+
+2
+
+Jamur merupakan organisme yang tidak berklorofil sehingga tidak dapat menyediakan makanan sendiri dengan cara fotosintesis. Oleh karena itu di dalam pertumbuhannya jamur memerlukan zat-zat makanan yang siap untuk digunakan atau diserapnya. Di alam zat-zat nutrisi tersebut biasanya telah tersedia dari proses pelapukan oleh aktivitas mikroorganisme. Pada jamur yang dibudidayakan, zat-zat hara tersebut harus disediakan sedemikian rupa sehingga siap digunakan oleh tanaman jamur (Muchroji, 2004). Sejalan dengan kebutuhan manusia terhadap kebutuhan jamur untuk konsumsi ataupun untuk bahan obat maka kalau hanya tergantung pada alam sulit untuk terpenuhi mengingat jamur tidak dapat menyediakan makan sendiri, oleh karena itu, beberapa jenis jamur yang bermanfaat bagi manusia mulai dibudidayakan. Menurut Muchroji (2004), berdasarkan tempat tumbuhnya, dikenal 2 golongan besar jamur konsumsi, yaitu jamur kompos dan jamur kayu. Kedua jenis golongan jamur tersebut banyak ditemukan di Indonesia. Masing-masing jenis jamur tersebut mempunyai ciri-ciri dan kandungan gizi yang berbeda-beda.
+Berdasarkan hal di atas, maka perlu dilakukan pengkajian lebih lanjut mengenai jenis dan karakteristik jamur yang umum dikonsumsi masyarakat di Indonesia. Selain itu dari latar belakang tersebut perlu dipelajari mengenai cara budidaya jamur yang tepat sehingga dapat dihasilkan jamur yang berkualitas.
+
+1.2 Tujuan Tujuan yang diambil dari makalah ini antara lain sebagai berikut:
+1. Mengetahui jenis-jenis dan karakteristik jamur yang umum dikonsumsi masyakarat Indonesia.
+2. Mengetahui cara budidaya jamur dan perlakuan yang tepat dalam membudidaya jenis jamur.
+
+1.3 Identifikasi Masalah Identifikasi masalah yang dapat diambil dari makalah ini antara lain
+sebagai berikut: 1. Apa saja jenis jamur yang umum dikonsumsi masyarakat Indonesia. 2. Bagaimana karakteristik jamur yang umum dikonsumsi masyarakat Indonesia. 3. Bagaimana metode budidaya dan perlakuan jamur yang tepat
+
+Eko Siswanto "Modul Budidaya Jamur Semi Modern"
+
+3
+
+BAB II PEMBAHASAN
+2.1 Budidaya Jamur Kuping (Auricularia sp.) 2.1.1 Karakteristik Jamur Kuping
+Jamur kuping (Auricularia auricula J.) merupakan salah satu dari jenis jamur kayu dengan ciri-ciri: badan buah kenyal seperti gelatin jika berada dalam keadaan segar dan menjadi keras seperti tulang jika kering, berbentuk mangkuk atau kadang-kadang dengan cuping seperti kuping yang berasal dari titik pusat perlekatan, diameter 2-15 cm, tipis berdaging dan kenyal. Hidup soliter atau bergerombol pada batang kayu, ranting mati, tunggul kayu dan lain-lain; melekat pada substrat secara sentral atau lateral. Penyebaran pada kayu keras dan konifer. Badan buah jamur sering kali dijumpai pada musim hujan. Jamur kuping kebanyakan dijual sebagai jamur awetan kering yang berwarna coklat kehitaman dan keras. Jamur ini akan menjadi kenyal kembali jika direndam dalam air. Jamur ini sering disajikan direstoran cina dalam berbagai menu. Himeola curricula Judae merupakan jamur kuping yang sering kali dijumpai hidup liar di Indonesia (Gunawan, 2001).
+Jamur kuping (Auricularia auricula) merupakan spesies jenis jamur kayu dari kelas heterobasidiomycetes yang memiliki kandungan gizi dan nilai ekonomi yang tinggi. Kandungan gizi jamur kuping yaitu protein, lemak, karbohidrat, riboflavin, niacin, Ca, K, P, Na, dan Fe. Jamur kuping dari segi organoleptik (rasa, aroma dan penampilan), kurang menarik bila dihidangkan sebagai bahan makanan. Namun jamur kuping sudah dikenal sebagai bahan pengental makanan dan penetral racun. Lendir jamur kuping dipercaya berkhasiat menetralkan senyawa berbahaya (racun) yang terdapat dalam makanan. Jamur kuping juga bermanfaat bagi pengobatan jantung koroner, menurunkan kekentalan darah dan menghindari penyumbatan pembuluh darah, terutama di otak. Kekentalan darah ini dapat diatasi dengan mengonsumsi jamur kuping setiap hari sebanyak 5-10 gram. Selain untuk konsumsi lokal, jamur kuping juga banyak diekspor baik dalam bentuk segar maupun kering.
+
+Eko Siswanto "Modul Budidaya Jamur Semi Modern"
+
+4
+
+Sesuai dengan namanya, jamur kuping bentuknya sangat mirip dengan daun telinga. Warnanya merah muda sampai kemerah. Jamur ini terasa kenyal saat digigit. Badan buahnya berlekuk-lekuk dengan lebar antara 3-8 cm. permukaan atasnya agak mengkilap, sering kali berurat, dan halus. Bagian bawahnya berbulu mirip bludru, jamur ini tidak bertangkai. Ada dua spesies yang terkenal dan banyak dibudidayakan, yakni Auricularia polytricha dan Auricularia auricula Judae. Ukuran dan bentuknya beragam, ada yang kecil dan tebal, mirip kuping tikus; yakni jenis Tyremella fuciformis, tetapi jenis ini jarang dibudidayakan di Indonesia. Di dataran Cina jamur kuping dikenal dengan sebutan be munk o atau telinga pohon. Di Jawa Barat dinamakan supa lember (Tim Redaksi Agro Media Pustaka, 2005).
+Jamur kuping (Auricularia auricula) termasuk jamur pangan yang telah lama dikenal dan dimanfaatkan masyarakat. Pengembangan budidaya jamur kuping terus dilakukan oleh berbagai negara seperti Jepang, Korea, Taiwan, Philipina, Amerika dan negara-negara Eropa (Darma, 2000).
+Di Indonesia penelitian jamur kuping dimulai sekitar tahun 1970-an. Umumnya taraf penelitian baru dalam taraf mempelajari pengaruh substrat dan lingkungan terhadap pertumbuhan dan perkembangan tubuh buah jamur. Beberapa peneliti mengaitkan jamur dengan usaha pemanfaatan limbah kehutanan dan pertanian serta bahan-bahan lain dengan tujuan untuk peningkatan nilai tambah kayu hasil reboisasi dan penghijauan serta untuk penciptaan lapangan kerja baru disamping untuk perbaikan gizi masyarakat petani. Pemanfaatan jamur budidaya diperkirakan memberi prospek cerah karena substrat jamur baik berupa serbuk gergaji maupun kayu sisa tebangan penyiapan lahan dapat dimanfaatkan secara maksimal disamping jamur kuping mempunyai nilai ekonomi yang tinggi (Darma, 2000).
+Dalam desakan permintaan jamur kuping dari negara-negara tetangga yang semakin besar perlu dipertimbangkan berbagai alternatif cara memenuhi permintaan tersebut khususnya dari segi teknologi budidaya. Peningkatan produksi dapat dilakukan dengan pemakaian substrat bukan dari serbuk gergaji saja tetapi juga dari log. Kalau selama ini budidaya jamur kuping hanya dilakukan di bawah atap atau di dalam pondok jamur, maka produksi massal didalam tegakan hutan atau tanaman, dapat dilakukan dengan biaya dengan mengurangi
+
+Eko Siswanto "Modul Budidaya Jamur Semi Modern"
+
+5
+
+atau meniadakan biaya pondok jamur yang besar. Kultivasi jamur kuping di bawah tegakan akan menjadi alternatif yang tepat mengingat sifat tumbuh jamur kuping di alam terbuka sangat sesuai pada tempat yang lembab seperti di kebun, pekarangan, talun atau tegakan hutan. Keberhasilan pengembangan budidaya jamur kuping dibawah tegakan misalnya dibawah tegakan Hutan Tanaman Industri (HTI) yang telah berkembang pesat di Indonesia sekarang, akan dapat menjawab permintaan pasar dalam dan luar negeri dalam jumlah yang cukup (Darma, 2000).
+Jamur kuping yang memiliki nilai ekonomi, potensial, dan prospektif sebagai pendapatan ini masih terkendala oleh produktivitas yang masih rendah. Djuariah (2008) menyatakan bahwa produktivitas jamur kuping yaitu 200-300 g jamur kuping segar yang dihasilkan dari 1 kg media produksi per bobot basah media, padahal potensi produksi bisa mencapai 400-500 g jamur kuping per 1 kg media produksi. Penyebab produktivitas yang rendah antara lain, (1) substrat media produksi tidak dimodifikasi/diperbaiki (formula substrat selalu sama setiap waktu), (2) bibit diperoleh dari sumber dan strain yang sama dan kurang unggul, (3) bibit kadaluarsa, dan (4) tempat budidaya jamur kurang higienis, karena itu terjadi kontaminasi pada substrat berkisar antara 5-20% (Sumiati, 2004 dalam Nurilla dkk, 2013).
+Jenis-jenis jamur kuping biasanya dibedakan berdasarkan warna tubuh buahnya. Beberapa jenis jamur kuping yang banyak dibudidayakan di Indonesia antara lain:
+1. Auricularia polytricha (jamur kuping hitam, black jelly, arage kikurage). Tubuh buahnya berwarna keunguan atau hitam dengan lebar 6-10 cm.
+2. Auricularia auricula Judae (jamur kuping merah, red jelly, kikurage). Tubuh buahnya berwarna kemerahan dengan ukuran lebih lebar dibandingkan dengan jamur kuping hitam.
+3. Tremella fuciformis (jamur kuping agar, white jelly, siro kikurage). Tubuh buahnya berwarna putih dengan ukuran lebih kecil dan tipis.
+
+Eko Siswanto "Modul Budidaya Jamur Semi Modern"
+
+6
+
+Dengan mengetahui taksonomi dan jenis-jenis jamur kuping maka akan
+
+membantu petani jamur dalam membudidayakannya. Berikut ini taksonomi secara
+
+lengkap jamur kuping (Muchroji dan Cahyono, 2004).
+
+Divisio
+
+Thalophyta
+
+Subdivisio Fungi
+
+Classis
+
+Heterobasidiomycocetes
+
+Subclalasis Phagmobacidiomycetes
+
+Ordo
+
+Auriculariales
+
+Familia
+
+Auriculariaceae
+
+Genus
+
+Auricularia
+
+Spesies
+
+Auricularia auricular J.
+
+Gambar 1. Jamur kuping Auricularia auricular J. Sumber : www.flickr.com
+2.1.2 Budidaya Jamur Kuping Bibit jamur yang sudah ditanamkan umumnya masih dalam bentuk serat
+atau miselia yang tumbuh terbatas. Namun di dalam substrat tanaman, miselia ini akan tumbuh dan berkembang kesegala arah. Apabila perkembangan miselia sudah cukup dan kondisi lingkungannya sudah mulai memadai maka dari miselia tersebut akan tumbuh bakal kuncup atau bakal tubuh buah, seperti misalnya bulatan besar jarum pentul. Kuncup tersebut makin lama akan tumbuh membesar
+
+Eko Siswanto "Modul Budidaya Jamur Semi Modern"
+
+7
+
+jika kondisi lingkungannya memungkinkan hingga membentuk tubuh buah yang disebut batang jamur (Suriawiria, 2004).
+Kayu merupakan bahan utama yang dipakai dalam memproduksi jamur kuping, kayu yang digunakan sebagai media tanam jamur kuping dapat berujud batang kayu (kayu gelondong), serpihan kayu (chips), dan serbuk kayu. Budidaya jamur kuping dengan media kayu gelondongan lebih mudah dilakukan, tetapi membutuhkan waktu yang relatif lama dan hasil yang diperoleh pun lebih sedikit. Selain itu, produksi panennya susah diperkirakan. Budidaya dengan menggunakan serpihan kayu dan serbuk kayu lebih menguntungkan karena ke dalam media tanaman tersebut dapat ditambahkan bahan sumber nutrisi lain sehingga dapat mempercepat pertumbuhan dengan hasil yang lebih banyak (Muchroji dan Cahyono, 2004).
+Pembuatan biakan murni sebagai sumber jamur bibit dapat dilakukan dengan tiga cara, yaitu (Gunawan, 2001):
+1. Biakan murni dari subbiakan Yaitu cara perbanyakan yang dilakukan dengan memindahkan sebagian agar-agar yang ditumbuhi misellium jamur ke dalam agar-agar miring.
+2. Biakan murni dan spora Pembuatan biakan murni dari spora dilakukan dengan mengambil satu spora atau lebih. Pada jamur kuping, spora terletak dibagian bawah tudung. Untuk mengambil sporanya tudung jamur yang telah dewasa dipotong dari tangkainya kemudian diletakkan dalam keadaan menghadap keatas, dengan bagian yang mengandung spora menghadap kebawah. Spora yang telah matang akan turun dan ditampung dalam cawan yang berisi media agar-agar steril. Dengan cara ini spora akan tersebar merata di seluruh media. Tetapi diusahakan agar spora tidak bertumpuk. Selanjutnya cawan ditutup dan diinkubasi.
+3. Bahan murni dari jaringan tubuh buah Yaitu cara perbanyakan yang dilakukan dengan mengisolasi bagian tubuh buah kedalam media agar baik agar miring ataupun agar-agar cawan secara aseptik.
+
+Eko Siswanto "Modul Budidaya Jamur Semi Modern"
+
+8
+
+Bahan lain yang dapat digunakan sebagai media tumbuh jamur kuping adalah serbuk sabut kelapa (coco peat). Komponen utama serbuk sabut kelapa adalah lignin dan selulosa yang merupakan senyawa penting bagi pertumbuhan jamur. Serbuk sabut kelapa juga merupakan sumber unsur K, N, P, Ca, dan Mg meskipun dalam jumlah sangat kecil, namun unsur tersebut dimanfaatkan sebagai nutrisi untuk pertumbuhan jamur (Nurilla dkk, 2013).
+Serbuk sabut kelapa mengandung selulosa dan lignin yang relatif lebih besar dari serbuk gergaji kayu serta mengandung unsur N, P, K, Mg, Ca, Na, Cu, Fe, dan Mn yang dibutuhkan untuk membentuk energi (Ratoonmat, 2012). Energi yang didapat dari selulosa, lignin, pektin, dan unsur hara dalam media digunakan untuk perambatan atau penyebaran miselium. Miselium yang menyebar berupa miselium primer yang selanjutnya menjadi miselium sekunder dengan melakukan penebalan (primordia) sehingga membentuk kuncup (calon badan buah) dan terus berkembang menjadi basidiokarp.
+Rata-rata diameter terkecil badan buah dalam satu rumpun menunjukkan hasil yang tidak berbeda nyata akibat pengaruh persentase perbandingan serbuk sabut kelapa dan serbuk gergaji kayu. Hal ini menjelaskan bahwa berapapun diameter terkecil badan buah tidak mempengaruhi kriteria panen badan buah. Badan buah yang memiliki diameter terkecil dalam satu rumpun tetap dapat dipanen walaupun masih terdapat kemungkinan untuk badan buah tumbuh lebih besar, karena yang menjadi kriteria panen adalah jika kondisi badan buah (basidiokarp) sudah menipis dibagian tepi dan keriting (Departemen Pertanian, 2007). Menurut Djuariah (2008), panen jamur kuping dapat dilakukan jika badan buah sudah maksimal yang ditandai dengan tepi badan buah yang tidak rata, atau sekitar 3-4 minggu setelah pin head (calon badan buah) muncul.
+Lama interval panen dari munculnya badan buah hingga badan buah siap panen dipengaruhi oleh beberapa faktor yaitu kondisi media tumbuh, suhu dan kelembaban, tingkat kontaminasi, serta serangan hama. Media tumbuh dengan persentase serbuk sabut kelapa lebih besar mengandung kadar air yang lebih tinggi. Kondisi ini menyebabkan baglog menjadi anaerob sehingga menghambat proses pembentukan dan pertumbuhan badan buah. Selain itu, suhu yang tinggi serta kelembaban yang rendah juga dapat menyebabkan badan buah yang baru terbentuk menjadi kering dan mengkerut. Kondisi badan buah demikian
+
+Eko Siswanto "Modul Budidaya Jamur Semi Modern"
+
+9
+
+mempengaruhi pertumbuhan badan buah menjadi tidak optimal sehingga masa panen menjadi lebih lama. Kontaminasi juga menjadi faktor yang mempengaruhi masa interval panen. Kontaminasi adalah masuknya jamur asing yangmerugikan (Dewi, 2009). Kontaminasi berupa tumbuhnya cendawan atau miselium jamur lain yang mengganggu pertumbuhan dari miselium jamur kuping dan proses pembentukan badan buah karena cendawan ini ikut menyerap nutrisi yang terkandung didalam baglog sehingga pertumbuhan menjadi terhambat. Selain itu faktor serangan hama seperti ulat yang memakan miselium bahkan badan buah jamur sehingga badan buah menjadi berlubang dan substrat menjadi busuk. Kondisi tersebut sangat mempengaruhi lama waktu panen jamur kuping.
+Sebelum melakukan kegiatan budidaya jamur kuping terlebih dahulu harus disiapkan alat dan bahan yang akan digunakan sebagai berikut:
+1. Alat yang digunakan dalam budidaya: a. Ayakan, untuk menyaring serbuk gergaji agar ukurannya sama. b. Alat pencampur, terdiri dari 2 buah sekop dan 2 buah cangkul, digunakan pada pencampuran media jamur. c. Sterilizer, gigunakan untuk memanaskan dan mensterilkan media tanam atau bag log. d. Rak penumbuhan, untuk menempatkan bag log pada saat penumbuhan di kumbung. e. Ember untuk membasahi media serbuk graji pada saat pencampuran bahan/ formulasi. f. Alat angkut, untuk mempermudah dan memperlancar dalam proses kegiatan budidaya. g. Sreyer untuk menjaga kelembaban pada kumbung pada saat penumbuhan. h. Pinset atau obeng minus digunakan pada saat proses inokulasi. i. Lampu spirtus untuk memanaskan alat yang akan digunakan pada proses inokulasi. j. Timbangan digunaklan untuk pengontrol berat bag log dan digunakan untuk menimbang hasil panen. k. Karetgelang, cincin pralon, kapas digunakan saat pewadahan media. l. Alkohol dan spirtus berfungsi untuk mensterilkan alat dan ruangan.
+
+Eko Siswanto "Modul Budidaya Jamur Semi Modern"
+
+10
+
+2. Bahan yang digunakan dalam budidaya: a. Serbuk kayu sebagai bahan dasar media jamur kuping. b. Bekatul atau dedak digunakan sebagai bahan tambahan nutrisi pada media. c. Kapur, digunakan untuk menambah kalsium, dan juga untuk menaikkan pH media. d. Gips, digunakan untuk menambah unsur kalsium dan mengeraskan media. e. Tepung biji-bijian untuk tambahan nutrisi pada media. f. Pupuk kimia digunakan untuk menambah unsur hara yang terdapat pada media. g. EM4 digunakan untuk proses dekomposisi saat proses fermentasi.
+Setelah alat dan bahan tersedia maka kegiatan budidaya jamur kuping dapat dilakukan dengan langkah pertama yaitu dengan persiapan media tanam dengan cara: pengayaan serbuk gergaji sehingga didapat serbuk gergaji yang seragan ukurannya. Pengukuran formulasi media jamur kuping yang diinginkan dengan campuran untuk 100kg serbuk kayu yaitu
+1. 15% bekatul 2. 1-3% dolomit (menyesuaikan pH) 3. 1% gibs 4. 1% Urea 5. 1% TSP 6. 20 ml EM4 7. 10-20 Lt air (menyesuaikan kandungan air dalam media)
+Setelah semua bahan sudah disediakan maka pencampuran dilakukan hingga homogen dan tidak terjadi penggumpalan karena terlalu banyak air. Proses pencampuran yang homogen akan memudahkan dalam proses pengomposan yang merata, pada proses ini dilakukan dengan cara mengaduk sedikit demi sedikit hingga campuran bahan yang di campur menjadi homogen dan kandungan air sesuai dengan yang diinginkan. Proses fermentasi dilakukan dengan cara
+
+Eko Siswanto "Modul Budidaya Jamur Semi Modern"
+
+11
+
+mengumpulkan serbuk kayu dan menutupinya dengan terpal/ plastik yang besar dan dibiarkan 4-7 hari, agar proses dekomposisi yang terjadi sempurna.
+Setelah proses pengomposan selesai maka dilakukan pewadahan media, dengan menggunakan plastik polipropelin. Pada kegiatan ini media yang diisikan pada bag log dipadatkan dengan tujuan agar nutrisi dalam bag log dapat banyak tersimpan dan juga agar tidak mudah susut, dan juga mudah nantinya dalam penataan, pada bagian ujung plastik diberi cincin pralon dan menutupnya dengan kapas hingga bag log berbentuk seperti botol.
+Proses selanjutnya adalah sterilisasi bag log dengan menggunakan tungku besar yang dapat diatur suhu dan tukanannya dalam ruangan, suhu yang terdapat dalam ruangan yaitu 100° C dan dengan tekanan 1,5 BAR selama 4 jam. Setelah disterilkan bag log didinginkan hingga suhu bag log turun menjadi suhu alam sekitar. Pendinginan ini dilakukan selama 1-3 hari. Setelah bag log dingin maka dilakukan inokulasi atau pembibitan pada log.
+Proses inkubasi perlu dilakukan pada bag log sehabis diinokulasi, hal ini dilakukan untuk penyebaran miselium agar cepat menyebar. Jika bag log sudah berwarna putih semua atau dominan putih maka log jamur sudah dapat dipindah ke ruang penumbuhan atau kumbung, dan dilakukan penyobekan atau pelubangan pada bag log yang berfungsi untuk tempat dimana pinhet keluar dan menghasilkan badan buah jamur. Pemeliharaan dilakukan dengan cara menyemprot atau penyiraman di kumbung dengan cara pengkabutan dengan spreyer.
+Setelah badan jamur cukup optimal untuk dipanen maka dilakukan pemanenan dengan cara memotong badan buah dengan tangan. Proses selanjutnya yang dilakukan adalah pencucian badan buah yang sudah dipanen lalu ditiriskan lalu dikeringkan ddibawah sinar matahari hingga kering, pengeringan dilakukan selama 4-5 hari, dan setelah itu dilakukan pengepakan dengan memasukkan hasil panen kering ke dalam plastik, dan tidak lupa dilakukan sortasi dan grading.
+Kegiatan budidaya jamur kuping dapat dilakukan dengan teknik yang sangat sederhana. Orientasi kegiatan ini adalah menciptakan dan menjaga agar lingkungan budidaya sesuai dengan syarat tumbuh jamur kuping.
+
+Eko Siswanto "Modul Budidaya Jamur Semi Modern"
+
+12
+
+Ringkasan dari kegiatan yang dilakukan dalam budidaya jamur kuping adalah pembuatan rumah jamur atau kumbung, perawatan miselium dan tubuh buah jamur agar tetap dalam kondisi optimal, serta pengendalian hama dan penyakit yang berpotensi menimbulkan kerugian dalam budidaya. Langkah terakhir dari kegiatan ini adalah pemanenan (Tanijogonegoro, 2013).
+
+A. Pembuatan Rumah Jamur Pembuatan rumah jamur atau kumbung dapat dilakukan dengan sederhana
+sehingga biaya pembuatannya juga lebih murah. Kerangka kumbung dapat dibuat dari kayu atau bambu, sedangkan atap kumbung dari anyaman bambu, jerami padi, atau rumbia. Ukuran kumbung disesuaikan dengan luas dan bentuk lahan. Tiang dibuat dari bambu atau kayu yang sudah tua agar lebih awet dan tahan lama. Sementara itu, atap kumbung dibuat melengkung seperti atap pada gerbong kereta api. Jika menggunakan bahan-bahan di atas, maka bahan tersebut perlu ditata sedemikian rupa untuk menghindari kebocoran saat musim hujan. Bila perlu, bagian bawah atap tersebut diberi alas dari plastik. Atap dan dinding rumah jamur ditutup rapat dan dibuat kokoh. Dinding dibuat dua lapis, pada lapisan bawah, kurang lebih setinggi satu meter, dibuat dari anyaman bambu dan dilapisi plastik bening atau transparan. Sedangkan pada lapisan atas dinding dibuat dari anyaman bambu tanpa dilapisi plastik bening. Jika kelembaban dalam ruangan terlalu rendah dan suhu tinggi, maka seluruh lapisan dinding ditutup atau dilapisi dengan plastik transparan (Tanijogonegoro, 2013).
+Bagian atas dinding kumbung perlu dibuatkan ventilasi selebar 40 cm dan panjang meyesuaikan dinding kumbung, yang digunakan sebagai tempat keluar masuk udara. Sementara itu, pada lapisan dinding bagian bawah perlu dibuatkan lubang ventilasi khusus, seperti jendela, yang dapat dibuka dan ditutup kembali. Untuk mencegah masuknya binatang liar, maka ventilasi udara tersebut harus ditutup degan kasa. Rumah jamur atau kumbung dibuat dengan sekurangkurangnya satu pintu utama yang digunakan sebagai tempat keluar masuk kumbung (Tanijogonegoro, 2013).
+Kumbung dilengkapi dengan rak-rak atau pera-para yang digunakan sebagai tempat untuk meletakkan baglog. Para-para tersebut dibuat secara berjajar dan berlapis. Ukuran rak disesuaikan dengan ukuran polibag tempat bibit jamur
+
+Eko Siswanto "Modul Budidaya Jamur Semi Modern"
+
+13
+
+yang akan dibudidayakan. Biasanya, rak dibuat dengan lebar 20 cm dan tinggi lapisan rak 30 cm. Dalam ruangan kumbung tersebut terdapat beberapa unit rak yang terpisah oleh jalan. Jarak antar unit rak kurang lebih satu meter untuk memudahkan pemeliharaan (Tanijogonegoro, 2013).
+Pada setiap unit rak, lapisan rak paling bawah dibuat dengan jarak 30 cm di atas permukaan tanah atau lantai dasar. Pengaturan jarak ini dibuat dengan tujuan untuk memperlancar sirkulasi udara bagaian bawah dan mengantisipasi agar tubuh buah jamur yang telah tumbuh tidak terkontaminasi oleh kotoran pada lantai. Selain itu, ruangan dalam kumbung juga tidak sepenuhnya digunakan untuk penyusunan unit rak. Paling tidak 20% dari luas ruangan digunakan sebagai tempat inkubasi (Tanijogonegoro, 2013).
+Rumah jamur sederhana tersebut dapat digunakan dalam jangka waktu dua tahun, kurang lebih sekitar empat kali perioder penanaman. Artinya, umur ekonomis atau umur produktif kumbung hanya berlangsung selama dua tahun dan investasi yang dikeluarkan untuk membangun rumah jamur harus bisa kembali dalam jangka waktu dua tahun (Tanijogonegoro, 2013).
+B. Perawatan Miselium dan Tubuh Buah Jamur Kuping Bibit jamur (miselium) dari hasil pembibitan tahap keempat yang
+diperoleh dari pembelian atau produksi sendiri dapat dimasukkan ke dalam rumah jamur yang semua perlengkapannya telah disiapkan. Letakkan polibag bibit jamur tersebut pada lantai inkubasi yang telah disiapkan, yaitu lantai yang tidak di pasangi unit rak. Posisi peletakan polybag tersebut harus vertikal dengan cara meletakkan bagian polibag yang tidak ada kapas penyumbatnya berada di posisi bawah, sedangkan bagian polibag yang ada kapas penyumbatnya berada di atas (Tanijogonegoro, 2013).
+Bibit jamur yang telah disiapkan dibiarkan berada pada lantai inkubasi selama 1,5 bulan atau hingga miselium tumbuh sempurna. Jika masa inkubasi ini berjalan normal, maka dalam kurun waktu 1,5 bulan miselium jamur akan menutupi paling tidak 70% parmukaan dan pori-pori media tumbuh (Tanijogonegoro, 2013).
+
+Eko Siswanto "Modul Budidaya Jamur Semi Modern"
+
+14
+
+Miselium jamur yang sudah menutupi 70% permukaan media tersebut segera dipindahkan pada unit rak tempat budidaya. Letakkan polybag atau baglog jamur tersebut dalam posisi miring dimana sisi baglog yang ada kapas penutupnya barada pada posisi luar menghadap ke arah jalan antar unit rak, sedangkan sisi bawah baglog atau sisi yang rapat berada dalam posisi saling bersinggungan satu sama lain. Penyusunan dibuat dua lapis pada setiap lapis rak. Baglog yang selama masa inkubasi tidak tumbuh miselium jamurnya segera dibuang, dikeluarkan dari kumbung, agar tidak mencemari baglog yang tumbuh baik (Tanijogonegoro, 2013).
+Monitoring pada baglog atau polybag jamur yang telah diletakkan pada unit rak harus dilakukan dengan rutin. Jika menjumpai miselium dalam baglog tidak tumbuh baik, maka baglog tersebut harus segera disingkirkan dari dalam kumbung. Tempat kosong bekas polybag yang telah dibuang bisa diisi dengan polybag atau baglog lain atau jika cadangan baglog sudah tidak ada maka bisa dibiarkan dalam posisi kosong (Tanijogonegoro, 2013).
+Penumbuhan tubuh jamur kuping dilakukan saat 75% permukaan media tumbuh telah tertutup oleh miselium jamur kuping. Penumbuhan dilakukan dengan cara merobek plastik baglog pada bagian lengkung yang berada di dekat ujung baglog. Tipe sobekan bisa berbentuk segiempat yang berukuran 1x1 cm atau berbentuk huruf L. Jika robekan berbentuk huruf L, maka sudut siku-siku yang terbuka menghadap ke arah ujung baglog. Namun, untuk memudahkan calon tubuh buah jamur (pin head) keluar, sebaiknya robekan berbentuk segiempat (Tanijogonegoro, 2013).
+Calon tubuh buah jamur atau pin head akan keluar pada umur 15 hari setelah perobekan baglog. Setelah calon tubuh buah jamur tersebut berumur 15 hari, maka perobekan kedua bisa dilakukan. Perobekan kedua dilakukan pada tempat yang berseberangan dengan perobekan pertama sehingga terjadi pemerataan pemanfaatan nutrisi dalam media tumbuh sekaligus untuk memudahkan pemanenan (Tanijogonegoro, 2013).
+
+Eko Siswanto "Modul Budidaya Jamur Semi Modern"
+
+15
+
+C. Pengendalian Hama dan Penyakit Kegiatan utama selama masa pemeliharaan tubuh buah jamur kuping ini
+adalah menciptakan dan menjaga agar kondisi lingkungan sesuai dengan syarat tumbuh jamur kuping. Manipulasi kondisi lingkungan dapat dilakukan dengan melakukan pengontrolan kelembaban dan sirkulasi udara, serta menjaga kebersihan lingkungan kumbung untuk menghindari serangan hama maupun penyakit yang dapat merugikan kegiatan budiday jamur kuping. Jika kondisi udah terlalu tinggi atau kelembaban terlalu rendah, maka harus dilakukan penyiraman dengan menggunakan tangki sprayer. Jika suhu udara dan kelembaban stabil, maka penyiraman dapat dilakukan setelah tubuh buah jamur yang tumbuh pada robekan pertama berumur 15 hari atau setelah melakukan perobekan kedua. Pada kumbung atau rumah jamur permanen, penyemprotan dilakukan dengan alat semprot otomatis atau presage chamber, sehingga tekanan dan kabut sempror yang dihasilkan bisa lebih lembut dan merata (Tanijogonegoro, 2013).
+Penyiraman merupakan kegiatan penting dalam budidaya jamur kuping ini. Penyiraman bertujuan untuk menciptakan atau mengatur agar suhu udara serta kelembaban bisa stabil sesuai dengan kondisi ideal untuk pertumbuhan jamur. Penyiraman pertama dilakukan hingga tubuh buah jamur kuping tampak basah dan meneteskan air. Sedangkan penyiraman berikutnya dilakukan sesuai dengan kondisi suhu dan kelembaban udara. Jika kelembaban terlalu kering atau rendah dan suhu udara terlalu panas maka penyiraman dapat dilakukan 3-4 kali sehari. Apalagi jika kondisi udara yang demikian dibarengi dengan tiupan angin yang kencang, maka penyiraman dapat dilakukan sebanyak 5 kali dalam sehari. Jika kondisi udara sangat tenang atau tidak ada angin, sirkulasi udara dalam kumbung terhambat, dan tidak ada hujan, maka tindakan yang harus dilakukan untuk menjaga lingkungan dalam kumbung agar tetap sesuai dengan syarat tumbuh jamur adalah dengan membuka lubang ventilasi khusu pada lapisan dinding bagian bawah (Tanijogonegoro, 2013). Selain menjaga kelembaban, kegiatan yang tidak kalah pentingnya adalah menjaga kebersiahan kumbung. Harus diingat agar setiap kali selesai melakukan panen, maka lantai dasar kumbung harus ditaburi dengan kapur pertanian. Hal ini dilakukan untuk mencegah serangan hama pengganggu dan penyakit yang akan menyerang, dengan demikian lingkungan kumbung akan tetap terjaga kesehatannya (Tanijogonegoro, 2013).
+
+Eko Siswanto "Modul Budidaya Jamur Semi Modern"
+
+16
+
+(a)
+
+(b)
+
+a)
+
+b)
+
+Gambar 2. (a) dan (b) Budidaya jamur kuping. Sumber : out-grow.com dan www.mushroombusiness.com
+
+2.2 Budidaya Jamur Merang (Volvariella sp.) 2.2.1 Karakteristik Jamur Merang
+Jamur merang (Volvariella sp.) merupakan salah satu jenis jamur konsumsi yang banyak digemari konsumen. Selain memberikan sensasi rasa yang nikmat, jamur merang juga memiliki banyak manfaat bagi para penggemarnya. Di dalam tubuh jamur merang yang bulat dan berwarna putih kecokelatan tersebut, sedikitnya terdapat kandungan protein sekitar 3,2 gram dalam setiap 100 gram jamur segar. Selain itu, jamur merang juga memiliki kandungan kalsium dan fosfor cukup tinggi, yaitu 51 mg dan 223 mg, serta mengandung 105 kj kalori dengan kandungan lemak rendah 0,9 gram. Hal inilah yang mendorong masyarakat mulai berminat untuk memanfaatkan jamur merang sebagai salah satu alternatif bahan pangan yang baik untuk kesehatan (Berbisnis Jamur, 2011).
+Jamur merupakan salah satu komoditi yang mempunyai harapan di masa depan,mengingat permintaan pasar cukup tinggi sedangkan produksi rendah. Singapura misalnya, membutuhkan 100 ton jamur merang setiap bulan dan Malaysia membutuhkan jamur merang sekitar 15 ton tiap minggunya.Kebutuhan jamur merang di pasaran dalam negeri juga mempunyai prospek yang sangat cerah. Kebutuhan jamur merang untuk: Jakarta, Bogor, Sukabumi, Bandung, dan sekitarnya rata-rata 15 ton setiap harinya (Mayun, 2007).
+
+Eko Siswanto "Modul Budidaya Jamur Semi Modern"
+
+17
+
+Jamur mempunyai nilai gizi (terutama protein) yang cukup tinggi namun
+
+berkolesterol rendah juga berkhasiat obat. Jamur merang kaya akan protein kasar
+
+dan karbohidrat bebas Nitrogen (N - face carbohydrate). Tingkat kandungan serat
+
+kasar dan abunya moderat atau sedang, sedangkan kandungan lemaknya rendah.
+
+Namun jamur merupakan sumber protein dan mineral yang baik dengan
+
+kandungan Kalium (K), dan fosfor (P) tinggi. Jamur merang juga mengandung
+
+kalsium, magnesium, tembaga, seng, besi. Sementara logam berat beracun seperti
+
+Pb dan Cd tidak terkandung dalam jamur merang. Jamur juga mengandung
+
+bermacam-macam vitamin. Walaupun tidak mengandung vitamin A, tapi
+
+kandungan riboflavin, tiamin, cukup tinggi (Sinaga, 2000).
+
+Jamur merang umumnya tumbuh pada media yang mengandung sumber
+
+selulosa, misalnya pada tumpukan merang, limbah penggilingan padi, limbah
+
+pabrik kertas, ampas sagu, ampas tebu, sisa kapas, kulit buah pala, dan
+
+sebagainya. Selain pada kompos merang, jamur dapat tumbuh pada media lain
+
+yang merupakan limbah pertanian sehingga limbah tidak terbung sia-sia karena
+
+memberi nilai tambah Namun demikian walaupun tidak tumbuh pada media
+
+merang nama Volvariella volvaceae selalu diartikan jamur merang (Sinaga, 2000).
+
+Berikut merupakan taksonomi dari jamur merang:
+
+Kingdom Fungi
+
+Divisi
+
+Basidiomycota
+
+Class
+
+Agaricomycetes
+
+Ordo
+
+Agaricales
+
+Family
+
+Pluteaceae
+
+Genus
+
+Volvariella
+
+(Speg, 1898)
+
+Gambar 3 . Jamur Merang Vo Volvariella volvacea
+
+Eko Siswanto "Modul Budidaya Jamur Semi Modern"
+
+18
+
+Gambar 4. Struktur tubuh buah jamur merang Sumber : www.fashions-cloud.com
+2.2.2 Budidaya Jamur Merang Budidaya jamur merang di Indonesia relatif baru dibandingkan dengan
+Negara Cina, Taiwan, Jepang, Prancis, Italia, dan Amerika. Padahal, wilayah Indonesia memiliki mikroklimat dengan kelembaban udara tinggi yang ideal untuk pertumbuhan jamur merang. Selain itu, bahan baku untuk budidaya jamur merang sebagian besar berasal dari limbah pertanian, perkebunan, peternakan, dan kehutanan yang jumlahnya sangat melimpah.
+Jamur merang merupakan salah satu komoditas pertanian yang mempunyai masa depan baik untuk dikembangkan. Hingga kini sudah semakin banyak orang mengetahui nilai gizi jamur merang dan manfaatnya bagi kesehatan manusia, sehingga permintaan jamur merang terus meningkat, dilain pihak produksi jamur merang di Indonesia masih sangat terbatas sehingga nilai ekonomi jamur merang semakin meningkat (Sinaga, 2009). Parjimo dan Andoko (2008) menambahkan bahwa jamur merang juga berkhasiat sebagai anti racun, mencegah kurang darah (anemia), kangker, dan menurunkan tekanan darah tinggi.
+Hal yang menarik dari usaha budidaya jamur merang adalah dari aspek ekonominya yang cerah karena tidak membutuhkan lahan yang luas, media tanam berupa limbah pertanian yang mudah didapat dengan harga murah, serta siklus produksinya relatif cepat (±1 bulan). Hasil produksi jamur merang cukup bersaing dengan jenis makanan lainya, baik dalam bentuk segar atau olahan sebagai wujud permintaan pasar domestik maupun luar negeri .
+
+Eko Siswanto "Modul Budidaya Jamur Semi Modern"
+
+19
+
+Dalam budidaya jamur merang dipengaruhi juga oleh cara penanaman (penebaran) bibit. Para pembudidaya jamur merang pada umumnya melakukan penebaran bibit dengan menaburkan bibit diatas permukaan media, ternyata dengan menaburkan bibit diatas permukaan media tanam belum memberikan hasil yang maksimal, hal ini terlihat bahwa tidak semua titik dari permukaan media tanam jamur merang menghasilkan badan buah. Dengan demikian maka perlu dilakukan penelitian mengenai cara penebaran bibit jamur merang secara benar sehingga dapat memberikan hasil yang lebih tinggi (Riduwan dkk, 2013).
+Secara umum, membudidayakan jamur merang tidaklah sulit. Jenis jamur ini mulai dibudidayakan pertama kali sejak pertengahan abad 17, dan di Indonesia sendiri budidaya jamur merang diperkirakan mulai dikembangkan sekitar tahun 1950-an. Biasanya jamur merang mampu bertahan hidup di daerah yang bersuhu tinggi antara 30-38°C, sehingga tidak heran bila jamur merang banyak dibudidayakan di kawasan Asia Timur sampai Asia Tenggara yang memiliki iklim tropis dan subtropics (Berbisnis Jamur, 2011).
+Untuk bisa membudidayakan jamur merang, dapat digunakan media tanam berupa jerami atau merang, limbah pabrik kertas, ampas batang aren, limbah kelapa sawit, ampas sagu, sisa kapas, kulit buah pala, sisa tanaman jagung, daun pisang, serbuk gergaji kayu, dan lain sebagainya. Berikut beberapa cara budidaya jamur yang harus dipersiapkan (Berbisnis Jamur, 2011).
+1. Persiapan Bibit Jamur Merang Persiapan bibit jamur menjadi poin penting sebelum akhirnya menekuni bisnis budidaya jamur. Untuk budidaya jamur merang skala rumah tangga, akan lebih efisien bila dimulai dari bibit F3 menjadi F4 dan dibudidayakan hingga masa panen tiba. Sedangkan untuk skala industri, dapat membiakkan bibit murni, bibit F1, F2, F3 hingga F4 dengan bantuan fasilitas yang memadai.
+2. Teknik Budidaya Jamur Merang Apabila persiapan bibit jamur sudah selesai, maka tahapan selanjutnya yang perlu dilakukan yaitu mempersiapkan teknik budidaya jamur yang akan digunakan. Berikut tahapan-tahapan yang diperlukan dalam membudidayakan jamur merang.
+
+Eko Siswanto "Modul Budidaya Jamur Semi Modern"
+
+20
+
+a. Persiapan media tanam Pada dasarnya jamur merang memiliki habitat hidup di tempat-
+tempat berupa sisa tumbuhan atau makhluk hidup yang telah mengalami pelapukan/pembusukan. Untuk menyiasatinya, dapat dibuat media buatan dari campuran jerami padi dan kapas (50% : 50%), kapur pertanian (2% dari berat jerami dan kapas), bekatul (10%), dan urea (1%).
+b. Fermentasi Untuk mempercepat proses pelapukan media, dapat dilakukan
+proses fermentasi dengan cara memotong jerami padi dengan ukuran 10-15cm, campur dengan kapas, dan kapur lalu rendam dalam air selama 24 jam. Setelah itu angkat campuran media tersebut dan tumpuk diatas lantai dengan ukuran 1,5 m x 1,5 m x 1,5 m. Tutup tumpukan media tersebut dengan plastik, dan diamkan 4-6 hari. Setiap 2-3 hari campuran media harus di bolak balik, sebelum akhirnya ditambahkan 10% dedak, 1% superpospat, dan 1% kapur pertanian.
+c. Sterilisasi dalam kumbung jamur Tahapan sterilisasi dilakukan dengan cara memasukan media tanam
+secara merata di atas rak tanam yang disiapkan dalam kumbung jamur, ketebalan media dengan ukuran 15-20 cm. Tutup rapat kumbung jamur, lalu alirkan uap panas ke dalam kumbung tersebut. Proses ini dilakukan selama 2-4 jam hingga suhu di dalam kumbung jamur naik sampai 70ºC, selanjutnya diamkan rumah kumbung jamur sekitar 24 jam, hingga suhunya kembali turun menjadi 32-35 ºC. d. Inokulasi (penanaman bibit)
+Penanaman bibit jamur merang dilakukan dengan menebarkan langsung bibit ke rak tanam yang telah disterilisasikan. Apabila menggunakan media tanam dengan ukuran tinggi sekitar 15-20 cm, panjang 3 m dan lebar 1 m, diperkirakan bibit jamur yang dibutuhkan berkisar 10-14 botol bibit jamur merang dengan isi 220 cc.
+
+Eko Siswanto "Modul Budidaya Jamur Semi Modern"
+
+21
+
+e. Inkubasi Proses inkubasi bibit jamur merang bisa dilakukan di rumah
+kumbung jamur. Idealnya tingkat suhu yang dibutuhkan antara 32-35 ºC, dengan kelembaban 65%, dan bantuan cahaya lampu TL sebesar 60 watt. Disamping itu untuk mempercepat pertumbuhan misellium, kumbung jamur harus tetap ditutup selama 3-4 hari. Dan setelah 4-8 hari biasanya misellium akan tumbuh membentuk primordia jamur, hingga pada akhirnya bisa dipanen setelah 8-12 hari. Waktu panen jamur merang yang paling tepat adalah saat kuncupnya belum mekar. Bila jamur dipanen ketika kuncup telah mekar, maka nilai ekonomisnya akan turun dan kurang diminati pasar.
+
+(a)
+
+(b)
+
+(c)
+
+(d)
+
+(e)
+
+(f)
+
+(g) Gambar 5. Proses budidaya jamur merang; (a) persiapan bibit jamur; (b) persiapan
+media tanam; (c) fermentasi jamur; (d) sterilisasi jamur; (e) inokulasi jamur; (f) inkubasi jamur; dan (e) panen jamur
+
+Eko Siswanto "Modul Budidaya Jamur Semi Modern"
+
+22
+
+2.3 Budidaya Jamur Tiram (Pleurotus sp.) 2.3.1 Karakteristik Jamur Tiram
+Jamur Tiram putih (Pleurotus ostreatus) merupakan bahan sayuran yang mulai banyak diminati di Indonesia. Jamur ini memiliki aroma yang khas karena mengandung muskorin, dan penting bagi kesehatan karena mampu menyediakan kebutuhan gizi manusia tanpa harus menaikkan tekanan darahnya (Anonim, 1995).
+Di alam bebas jamur Tiram putih tumbuh liar secara saprofit pada kayu lapuk atau kayu yang sedang mengalami proses pelapukan. Jamur ini dapat pula dibudidayakan dengan menggunakan tempat tumbuh atau media tumbuh yang sesuai untuk persyaratan perkembangbiakannya. Media tumbuh yang dapat dipergunakan sebagai alternatif budidaya jamur ini dapat berasal dari limbah pertanian dan industri. Limbah tersebut dalam jumlah besar apabila tidak diolah dan dimanfaatkan dengan baik akan menimbulkan pencemaran lingkungan, serta dalam waktu tertentu akan membahayakan (Riyati dan Sumarsih, 2002).
+Jamur Tiram putih dapat ditumbuhkan pada serbuk gergaji dan jerami (Ambarwati, 1991), atau pada bahan lain yang mengandung selulosa dengan nilai C/N 50-500 (Zadrazil, 1978). Menurut Sumarsih (1992), miselium jamur Tiram Merah (Pleurotus flabelatus) dapat tumbuh lebih baik pada media bagas dibandingkan dengan media jerami. Badan buah yang dihasilkan adalah 199,77 gram per 450 gram bagas, atau mempunyai nilai biological efficiency (BE) 44,3 % pada panenan pertama. Nilai BE digunakan untuk menggambarkan besarnya konversi bahan lignoselulosa menjadi badan buah jamur. Media tumbuh jamur Tiram umumnya diberi tambahan pupuk TSP, Ca CO3, Ca SO4, dan bekatul (Gustam, 1982; Nurman dan Kahar, 1984; dan Suhardiman dalam Ambarwati, 1991 dalam Riyati dan Sumarsih, 2002).
+Jamur tiram cokelat merupakan salah satu jenis jamur yang dikonsumsi oleh masyarakat. Jamur tiram cokelat biasanya tumbuh liar di alam dan belum banyak dibudidayakan. Menurut Suriawiria (2002) jamur tiram cokelat memiliki kandungan vitamin B, C dan D yang lebih tinggi dibandingkan dengan jenis jamur lainnya. Handayani (2011) menambahkan bahwa jamur tiram cokelat memiliki beberapa kelebihan yaitu tudung tubuh buah lebih tebal, dapat disimpan lebih lama dan memiliki rasa yang lebih enak dibanding jamur tiram jenis lainnya.
+
+Eko Siswanto "Modul Budidaya Jamur Semi Modern"
+
+23
+
+2.3.2 Budidaya Jamur Tiram Pada awalnya, pemenuhan kebutuhan manusia terhadap jamur tiram
+cokelat hanya mengandalkan kemurahan alam. Seiring dengan berkembangnya ilmu pengetahuan, jamur tiram cokelat sudah dapat dibudidayakan melalui media serbuk gergaji. Serbuk gergaji kayu merupakan bahan utama yang dipakai sebagai media tumbuh dalam memproduksi jamur dengan bag log, yaitu istilah untuk kantung plastik berisi substrat jamur yang umum digunakan pada budidaya jamur edibel. Kayu merupakan media utama jamur untuk tumbuh di alam sehingga serbuk gergaji kayu sangat cocok untuk media budi daya (Sunarmi dan Saparinto, 2010). Suriawiria (2002) menambahkan bahwa serbuk gergaji kayu merupakan tempat tumbuh jamur tiram yang tergolong sebagai jamur pengguna selulosa, hemiselulosa, dan lignin, yang dapat mengurai dan memanfaatkan komponen kayu sebagai sumber C (karbon).
+Media serbuk gergaji sebagai media tumbuh jamur tiram cokelat ditambahkan dedak agar dapat mempercepat pertumbuhan miselium jamur. Sesuai dengan pernyataan Parjimo dan Andoko (2008) yang menyatakan bahwa dedak mampu mempercepat pertumbuhan miselium dan mendorong perkembangan tubuh buah jamur. Penambahan dedak dalam media serbuk gergaji dapat meningkatkan nutrisi media tanam, terutama sebagai sumber karbohidrat, karbon (C), serta nitrogen (N). pH merupakan faktor yang mempengaruhi pertumbuhan jamur pada media tanam. Secara umum, hampir semua miselium jamur tumbuh optimal pada pH netral (antara 6,5-7,0) (Achmad, Arlianti dan Azmi, 2011).
+
+Gambar 6. Struktur tubuh buah jamur tiram Sumber : www.fashions-cloud.com
+
+Eko Siswanto "Modul Budidaya Jamur Semi Modern"
+
+24
+
+2.4 Budidaya Jamur Kancing (Agaricus sp.) 2.4.1 Karakteristik Jamur Kancing
+Budidaya jamur merupakan salah satu budidaya yang tidak mengenal musim dan tidak membutuhkan tempat yang luas. Jenis-jenis jamur yang umum dibudidayakan ialah jamur yang menguntungkan bagi manusia diantanya jamur merang (Volvariella volvaceae), jamur tiram (Pleurotus ostreatus), jamur kuping (Auricularia polytricha), jamur payung (Lentinus edodes),dan jamur kancing (Agaricus Sp). Hasil panen jamur tersebut tidak hanya untuk mencukupi kebutuhan dalam negeri bahkan ada juga yang di ekspor, seperti jamur kancing dan jamur payung. Media untuk pertumbuhan jamur dapat menggunakan limbah yaitu limbah pertanian (merang dan daun pisang) dan limbah industri (serbuk gergaji). Ramuan atau campuran yang digunakan sebagai media juga bermacammacam, sedangkan metode yang digunakan untuk budidaya jamur ini juga bermacam-macam,seperti cara ilmiah, konvensional, tradisional, dan semi modern (Putry, 2011).
+Jamur kancing kabarnya sudah dibudidayakan di Perancis pada abad ke17. Di Eropa konon jamur kancing sudah diketahui tumbuh secara alami di atas tumpukan kotoran kuda sejak zaman kuno di Romawi dan Yunani. Jamur kancing yang berwarna coklat muda merupakan hasil mutasi alami di perkebunan milik seorang petani di Pennsylvania di tahun 1926 (Putry, 2011).
+Jamur kompos atau champignon adalah jamur pangan yang berbentuk hampir bulat seperti kancing dan berwarna putih bersih, krem, atau coklat muda. Jamur kancing merupakan jamur yang paling banyak dibudidayakan di dunia. Dalam bahasa Inggris disebut sebagai table mushroom, white mushroom, common mushroom atau cultivated mushroom. Di Perancis disebut sebagai champignon de Paris, tapi penutur bahasa Inggris sering menyebutnya sebagai champignon yang dalam bahasa Perancis mencakup segala jenis fungi, termasuk jamur pangan, jamur beracun, dan jamur penyebab infeksi. Jamur kancing dipanen sewaktu masih berdiameter 2-4 cm. Tubuh buah dewasa dengan payung yang sudah mekar mempunyai diameter sampai 20 cm. Sayangnya, jamur ini masih sulit dibudidayakan, karena hanya bisa hidup di daerah bersuhu rendah berkisar 17
+
+Eko Siswanto "Modul Budidaya Jamur Semi Modern"
+
+25
+
+derajat - 20 derajat celcius. Di Indonesia, budidaya champignon terdapat di
+
+dataran Tinggi Dieng, Purwokerto, Probolinggo dan Pangalengan Bandung.
+
+Champignon banyak dicari karena selain tekstur dan rasanya yang lezat, juga
+
+berkhasiat mengurangi resiko Penyumbatan pembuluh darah akibat kolesterol,
+
+juga sebagai bahan baku kosmetik. Pasarnya selain untuk konsumsi dalam negeri,
+
+juga untuk ekspor (Putry, 2011).
+
+Jamur ternyata memiliki banyak manfaat. Selain digunakan sebagai bahan
+
+makanan yang lezat, jamur juga bisa digunakan untuk meningkatkan imunitas
+
+plus memotong kalori yang berlebih. Para peneliti dari Tuft University
+
+menemukan jamur kancing putih ternyata dapat menangkis segala virus dan
+
+kanker pada tikus, dengan meningkatkan aktivitas sel pembunuh dalam sistem
+
+kekebalan tubuhnya. Seperti dilansir pada laman prevention indonesia, kandungan
+
+yang ditemukan dalam jamur kancing putih sanggup menekan aromatase, yaitu
+
+enzim yang bertanggung jawab dalam proses sintesis estrogen. Untuk kanker
+
+payudara reseptor estrogen positif, penurunan kadar estrogen dalam tubuh
+
+sangatlah penting. Pasalnya, estrogen dapat menjadi "makanan" untuk
+
+perkembangbiakan kanker payudara di dalam tubuh. Untuk para wanita
+
+postmenopause, bisa mengonsumsi jamur kancing putih setiap hari sebagai
+
+langkah pencegahan kanker. Kandungan antikosidan yang tinggi dalam jamur,
+
+juga dipercaya akan membantu melindungi tubuh kita dari serangan kanker
+
+(Putry, 2011).
+
+Klasifikasi Ilmiah jamur kancing (Putry, 2011):
+
+Kerajaan Fungi
+
+Divisi
+
+Basidiomycota
+
+Kelas
+
+Homobasidiomycetes
+
+Subkelas Homobasidiomycetidae
+
+Ordo
+
+Agaricales
+
+Famili
+
+Agaricaceae
+
+Genus
+
+Agaricus
+
+Spesies
+
+A. bisporus
+
+[(J.E.Lange) Emil J. Imbach (1946)]
+
+Eko Siswanto "Modul Budidaya Jamur Semi Modern"
+
+26
+
+2.4.2 Budidaya Jamur Kancing Bahan yang digunakan dalam budidaya jamur kancing (Putry, 2011) :
+1. Bibit jamur (F3) 2. Jerami 3. Bekatul 4. Kapur Pertanian 5. ZA 6. Urea 7. Air Kelapa 8. Kotoran kuda / kotoran ayam 9. TSP 10. Tanah 11. Sodium metabiosulfit 12. Natrium klorida
+Alat yang digunakan dalam budidaya jamur kancing (Putry, 2011) : 1. Ember 2. Alas mencampur 3. Alat pencampur 4. Gunting/alat pemotong untuk jerami 5. Timbangan 6. Alat pembangkit uap air 7. Drum sterilisasi 8. Rak 9. Terpal 10. Botol 11. AC/Kipas angin/Balok es 12. Kaleng 13. Kotak plastik/kardus 14. Alat sterilisasi
+
+Eko Siswanto "Modul Budidaya Jamur Semi Modern"
+
+27
+
+Langkah kerja yang dilakukan dalam budidaya jamur kancing antara lain : 1. Tahapan pertama yang perlu dilakukan adalah menyiapkan media tanam.
+Untuk pembudidayaan jamur kancing, media tanam yang digunakan terbuat dari campuran jerami padi (100%), kapur pertanian (2,5%), bekatul (3%), dan ditambahkan urea (9%), ZA (1%), dan TSP (1,2%). 2. Tahapan kedua yaitu proses pengomposan. Caranya dengan memotong jerami padi dengan ukuran 10-15 cm, dicuci hingga bersih dan ditiriskan sampai kelembapannya 65%. Selanjutnya tumpuk jerami dengan ukuran 10-15 cm dan tambahkan media lain berupa bekatul dan kapur diatasnya. Susun lapisan media tersebut berselang-seling antara jerami padi dengan campuran bekatul dan kapur. Pada hari berikutnya lakukan pembalikan, agar campuran media merata dan tambahkan urea sebanyak 0,9% (bila kurang lembab bisa ditambahkan air). Pada hari ke enam media ditambahkan dengan ZA 1%, dan diaduk-aduk agar semuanya merata. Sedangkan pada hari ke sepuluh, tambahkan TSP sebanyak 1,2% lalu adukaduk dan diamkan selama 12-17 hari. Proses pengomposan yang sempurna akan menghasilkan kompos dengan cirri warna yang gelap, tidak berbau, struktur halus/remah dan pH netral (pH 7). 3. Selanjutnya adalah tahapan sterilisasi media tanam. Proses sterilisasi dilakukan dengan cara meletakan media tanam (yang telah dikompos) secara merata di atas rak-rak tanam yang disiapkan di ruang kumbung jamur, dengan ketebalan media tanam sekitar 15-20 cm. Kemudian alirkan uap panas dari perebusan air di pembangkit uap hingga suhu ruang kumbung mencapai 60°65°C, pertahankan suhu tersebut selama 12 jam. Apabila suhunya telah mencapai 65°-75°C maka bukalah ventilasi ruangan agar suhunya kembali turun menjadi 40°-45°C. Usahakan untuk menjaga kestabilan suhu di ruang kumbung pada kisaran 40°-45°C selama kurang lebih 70 jam. 4. Tahapan berikutnya yakni penanaman bibit jamur/Inokulasi. Setelah suhu ruangan turun menjadi 32°C, maka bibit jamur kancing sudah bisa ditanam. Untuk rak budidaya jamur dengan ukuran 3 m x 1 m, biasanya dibutuhkan sekitar 10-14 botol bibit jamur dengan isi 220 cc. Untuk tahapan ini
+
+Eko Siswanto "Modul Budidaya Jamur Semi Modern"
+
+28
+
+dibutuhkan suhu ruangan ideal berkisar 28,8°-30° C pada daerah dataran tinggi, dan suhu 24,4°-26,6° C pada dataran rendah. Dengan tingkat kelembapan mencapai 90-100% maka bibit jamur kancing akan menunjukan pertumbuhan miseliumnya pada usia 12-14 hari. Sirkulasi udara di dalam kumbung harus merata. Untuk itu diperlukan penggunaan kipas angin atau bahkan AC sehingga sirkulasi udara akan tetap lancar sekalipun ruang dalam keadaan tertutup rapat. 5. Proses selanjutnya yaitu casing atau pelapisan tanah setebal 3-5 cm di atas media tanam yang telah ditumbuhi miselium. Tanah yang digunakan sebagai casing harus tanah cokelat serta berpori, selain itu pH tanah sekitar 6,2-8, dan yang paling penting terbebas dari hama ataupun penyakit. Sebelum tanah digunakan, sterilisasikan terlebih dahulu dengan uap panas pada suhu 70°C selama 2-4 jam dengan ditambahkan 2 liter formalin sebanyak 40% per m3 tanah. Pelapisan tanah sangat penting dilakukan untuk menopang jamur agar dapat berdiri tegak. Selain itu beberapa manfaat lainnya yaitu : a. Membentuk mikroklimat/kondisi ruangan yang lembab sehingga dapat
+merangsang pertumbuhan tubuh buah. b. Menahan air dalam kompos sehingga kompos tidak mudah kering. c. Mencegah terjadinya serangan hama dan penyakit.
+Syarat tanah yang bisa digunakan untuk pelapisan kompos ini yaitu : a. Memiliki pH netral (pH ±7) b. Bersih dari hama dan penyakit (disterilisasi dengan menggunakan uap
+panas dengan suhu 70°C selama ±4 jam) c. Memiliki pori sehingga dapat menyimpan air 6. Setelah 9-14 hari setelah masa casing dilakukan, biasanya tubuh buah mulai muncul. Untuk itu, bukalah ventilasi pada rumah kumbung jamur agar proses pertumbuhan jamur kancing bisa lebih cepat Suhu ruangan untuk tahap pembentukan tubuh buah ini dijaga antara 16-20°C. Kisaran suhu ini dapat diperoleh dengan bantuan penyiraman atau pendingin AC, atau dengan membuka pintu dan jendela. Cara lain yang lebih sederhana yaitu dengan menyimpan balok balok es di dalam ruangan. Perlakuan suhu rendah ini bertujuan untuk memicu perubahan fisiologis dari pertumbuhan miselium ke
+
+Eko Siswanto "Modul Budidaya Jamur Semi Modern"
+
+29
+
+pembentukan tubuh buah. (biasanya tiga hari kemudian jamur sudah bisa dipanen).
+Pengalengan merupakan cara terbaik dalam mengawetkan jamur kancing. Cara pengawetan dengan pengalengan sebagai berikut : 1. Jamur dipilih yang seragam, kemudian dibersihkan, tangkai dipotong dan di
+cuci. 2. Jamu yang telah dicuci direndam dalam sodium metabisulfit (Na2S2O5)
+0,1% dan kalsium klorida (CaCl2) 2%. Kedua bahan kimia ini digunakan sebagai pengawet. 3. Jamur kemudian di-blanching dengan tujuan menghentikan aktivitas enzim. Caranya, jamur dimasukkan dalam air mendidih selama 5-10 menit, setelah itu, suhu diturunkan sampai temperature ruangan. 4. Jamur selanjutnya dimasukkan dalam kaleng dan diberi NaCl 2% dan sodium metabisulfit (Na2S2o5) 0,1%. 5. Kaleng kemudian ditutup dan disterilisasi selama 35 menit pada suhu 1000°C. cara sterilisasi dapat dengan cara mengukusnya atau menggunakan alat sterilisasif. Tahap terakhir adalah kaleng didinginkan.
+Jamur kancing dipasarkan dalam bentuk segar dan kaleng. Champignon dijual seharga Rp 13.500 per kilogram dalam kondisi segar. Sedangkan, untuk jamur yang sudah diawetkan dalam kaleng atau plastik (pouch) dihargai Rp 12.000 per kilogram. Sehingga, omset bulanan dari jamur kancing ini saja berkisar Rp 400 juta. Tapi, marginnya hanya 15% untuk penjualan di dalam negeri, sedangkan dari ekspor hanya 10%. Pemasaran champignon saat ini sekitar 80% ke wilayah Jatim, Jateng, Bali, dan Kalimantan. Sedangkan, 20 persennya diekspor ke Belanda, Jepang, USA, Singapura dan Yunani (Putry, 2011).
+
+Gambar 7. Struktur tubuh buah jamur kancing Sumber : www.fashions-cloud.com
+
+Eko Siswanto "Modul Budidaya Jamur Semi Modern"
+
+30
+
+2.5 Budidaya Jamur Shitake (Lentinus Adodes) 2.5.1 Karakteristik Jamur Shitake
+Jamur Shitake memiliki nama lain jamur Shii (Jepang) ;Hioko, Donko ,Shiang-gu (Cina dan Korea); Chinese Black Mushroom (Hongkong dan Singapura) , jamur kayu cokelat, jamur apem (Indonesia). Sedangkan Lentinus Edodes adalah nama latin yang didasarkan pada sistem tata nama binomium.
+
+a) Ciri Morfologi
+
+Tudung menyerupai payung , berwarna kuning kemerahan sampai cokelat
+
+tua. Lebarnya bervariasi 2,5 ­ 20 cm, bentuknya cembung sampai agak datar dan
+
+atau berputing kecil pada bagian tengahnya; permukaan tudung dan batangnya
+
+kering, berserat dengan kutikula yang bersisik. Bagian bawah tudung terdapat
+
+lamella (insang) yang berisi spora. Bilah berwarna keputihan, warna berubah
+
+menjadi cokelat kemerahan dan menjadi cokelat tua dengan bertambahnya umur.
+
+Tangkai tudung berwarna sama seperti tudungnya, padat, keras dan kuat; ukuran
+
+bagian dasarnya agak membesar. Panjang tangkai 3-9 cm, diameter 0,5-1,5 cm,
+
+permukaan diselimuti cadar tipis yang berakhir dibagian atas sebagai kortina.
+
+Tingkat pembentukan badan buah dibagi menjadi tiga tingkatan yaitu :
+
+ Stadia Pinhead bentuknya seperti tonjolan
+
+ Stadia Kancing ( Button Stage) berupa bentuk kancing (button) dan
+
+jamur muda
+
+ Stadia Masak yaitu jamur utuh yang tudungnya sudah lebar penuh
+
+(tetapi lamelannya belum membuka)
+
+Spora bentuknya 5,5 - 6,5 x 3,0 ­ 3,5 mikron, subsilindrik, nonamiloid, polos
+
+dengan dinding tipis. Basidium mempunyai hifa berdinding tebal (sampai 1,6
+
+mikron), saling jalin menjalin. Hifa hilain (tidak berwarna), berdiameter 5 ­ 7
+
+mikron dan mempunyai sambungan apit.
+
+b) Sistematika
+
+Berdasarkan sistematikannya, jamur shitake memiliki klasifikasi sebagai
+
+berikut:
+
+ Divisi
+
+: Thallophyta
+
+ Sub Divisi
+
+: Eumycetes
+
+ Kelas
+
+: Basidiomycetes
+
+Eko Siswanto "Modul Budidaya Jamur Semi Modern"
+
+31
+
+ Sub Kelas  Ordo  Family  Genus  Spesies
+
+: Holo Basidiomycetes : Agaricales : Tricholomataceae : Lentinus : Lentinus Edodes
+
+c) Kandungan Gizi, Mineral dan Metabolit Sekunder Perfoma tubuh buah jamur shitake memiliki tekstur dan struktur yang khas,
+sehingga memberikan kelezatan tersendiri, meskipun tanpa adannya bumbu tambahan. Berdasarkan hasil analisis kandungan gizi dari 100 gram berat kering tubuh buah, terdapat protein kasar ( 13,4 ­ 17,5 )gram ; lemak kasar (4,9 ­ 8,9) gram ; karbohidrat (67,5 ­ 78,0 ) gram ; serat kasar (7,3 ­ 8,0 ) gram ; abu (3,7 ­ 7,0) ; dan kalori (387 ­ 392) Kal.
+Kandungan lipid esensial yang ada pada jamur sekitar 70%, ditentukan oleh asam lemak tidak jenuh seperti asam linoleat (53 ­ 67%). Senyawa inilah yang menyebabkan jamur shitake tidak memberikan efek samping menjadi gemuk bila dikonsumsi. Sedangkan kandungan asam lemak yang tak jenuh sekitar 72 ­ 80% dari asam lemak total.
+Vitamin yang terdapat pada 100 gram berat kering badan buah jamur meliputi niasin (54,9) mg; tiamin 7,8 mg; riboflavin 4,9 mg; vitamin C 9,4 mg ; dan ergosterol dan provitamin D2 0,27 %.
+Senyawa lain adalah lentinan yaitu suatu polisakarida yang larut di dalam air yang dalam molekulnya berbentuk  - 1,3 glukan ;  - 16 dan  -13 glukopiranosida ,yang memiliki kemampuan anti tumor dan anti kanker. Kandungan leatinan tertinggi akan didapatkan pada bagian batang sisannya didominasi oleh serat yang berfungsi mencegah terjadinnya kanker usus.
+
+d) Habitat Jamur shitake hidup sebagai saproba, yaitu memanfaatkan bahan organik dari kayu ­kayu yang sudah lapuk. Secara liar jamur ini menyukai kayu dari family fagaceae, tetapi dapat juga tumbuh pada kayu Elaeocarpus (Jenitri), Garcininica dan Castanea. Sp (Saniten).
+
+Eko Siswanto "Modul Budidaya Jamur Semi Modern"
+
+32
+
+Gambar 8. Struktur tubuh buah jamur shitake Sumber : www.fashions-cloud.com
+
+Eko Siswanto "Modul Budidaya Jamur Semi Modern"
+
+33
+
+BAB III PENUTUP
+A. Kesimpulan Kesimpulan yang dapat diambil dari makalah ini antara lain sebagai berikut:
+1. Jenis-jenis jamur yang umum dikonsumsi masyarakat Indonesia antara lain jamur kuping (Auricularia sp.), jamur tiram (Pleurotus sp.), jamur merang (Vorvariella sp.), dan jamur kancing (Agaricus sp.).
+2. Karakteristik jamur yang umum dikonsumsi masyarakat Indonesia yaitu memiliki kandungan zat-zat yang tidak berbahaya dan beracun sehingga dapat dikonsumsi oleh manusia
+3. Metode budidaya dan perlakuan jamur yang tepat yaitu pemilihan bibit jamur, penyiapan media tanam, fermentasi, sterilisasi, inokulasi dan inkubasi, lalu didapat hasil jamur dan dapat dilakukan pemanenan.
+B. Kritik dan Saran Dalam penyusunan buku ini penyusun menyadari bahwa masih terdapat
+banyak kekurangan-kekurangan baik dari bentuk maupun isinya, maka dari itu penyusun menyarankan kepada pembaca agar memberikan kritikan dan masukkan yang sifatnya membangun guna untuk lebih sempurnannya lagi. Semoga dengan membaca buku panduan ini para pembaca dapat menambah cakrawala ilmu pengetahuan.
+
+Eko Siswanto "Modul Budidaya Jamur Semi Modern"
+
+34
+
+DAFTAR PUSTAKA
+Achmad, M, T. Arlianti dan C. Azmi. 2011. Panduan Lengkap Jamur. Penebar swadaya. Jakarta.
+Ambarwati, H.T. 1991. Budidaya Jamur Tiram Putih (Pleurotus ostreatus) pada jerami. Biologi 1(1): 1-11.
+Darma, T. 2000. Budidaya Jamur Kuping (Auricularia auricula [Hook] Underw.) dalam Tegakan Hutan pada Substrat Log Kayu Afrika (Maesopsis eminii Engl.). Jurnal Manajemen Hutan Tropika 6 (1): 25-52.
+Departemen Pertanian. 2007. Budidaya jamur kuping (Auricularia sp.). Direktorat jendra hortikultura, Direktorat budidaya tanaman sayuran dan biofarmaka.
+Dewi, I. K. 2009. Efektivitas Pemberian Blotong Kering Terhadap Pertumbuhan Jamur Tiram Putih (Pleurotus ostreatus) pada Media Serbuk Kayu. Universitas Muhamadiyah. Surakarta.
+Djuariah, D dan E. Sumiati. 2008. Penampilan Fenotipik Tujuh Spesies Jamur Kuping (Auricularia spp.) di Dataran Tinggi Lembang. J. Hort. 18 (3): 255-260.
+Gunawan, A. W. 2001. Usaha Pembibitan Jamur. PT. Penebar Swadaya. Jakarta. Handayani, F. 2011. Perbandingan Jamur Tiram Putih, Cokelat dan Abu-Abu.
+http://doitnow.ws/Fitri's GDI WordPress Blog.htm. 20 November 2011. Mayun, I. A. 2007. Pertumbuhan Jamur Merang (Volvariella volvaceae) pada Berbagai Media Tumbuh. Jurusan Budidaya Pertanian Fakultas Pertanian Universitas Udayana. Muchroji., dan Cahyono Y. A. 2004. Budidaya Jamur Kuping. PT. Penebar Swadaya. Jakarta. Nurilla, N., L. Setyobudi, dan E. Nihayati. 2013. Studi Pertumbuhan dan Produksi Jamur Kuping (Auricularia auricula) pada Substrat Serbuk Gergaji Kayu dan Serbuk Sabut Kelapa. Jurnal Fakultas Pertanian. Universitas Brawijaya.
+
+Eko Siswanto "Modul Budidaya Jamur Semi Modern"
+
+35
+
+Parjimo dan A. Andoko. 2008. Budidaya Jamur : Jamur Kuping, Jamur Tiram, dan Jamur Merang. Agromedia Pustaka. Jakarta.
+Pasaribu, T., D.R. Permana, dan E.R. Alda. 2002. Aneka Jamur Unggulan yang menembus Pasar. Grasindo. Jakarta.
+Putry, F. 2011. Budidaya Jamur Kancing/Champignon (Agaricus bisporus). http://febhriaputry08.blogspot.com/2011/12/v-behaviorurldefaultvmlo. html. Diakses tanggal 6 Mei 2015 Pukul 20.44 WIB.
+Riduwan, M., D. Hariyono., dan M. Nawawi. 2013. Pertumbuhan dan Hasil Jamur Merang (Volvariella volvacea) pada Berbagai Sistem Penebaran Bibit dan Ketebalan Media. Jurnal Produksi Tanaman 1 (1): 70-79.
+Riyati, R., dan S. Sumarsih. 2002. Pengaruh Perbandingan Bagas dan Blotong Terhadap Pertumbuhan dan Produksi Jamur Tiram Putih. Jurnal Ilmiah Agrivet, Yogyakarta.
+Sinaga, M. 2000. Jamur Merang dan Budidayanya. Penebar Swadaya. Jakarta. Sinaga, M.S. 2009. Jamur Merang dan Budidayanya. Penebar Swadaya. Jakarta. Sumarsih, S. 1992. Pemanfaatan Bagas, Jerami, dan Sekam sebagai Media
+Tumbuh Jamur Tiram Merah (Pleurotus flabelatus). Jurusan Ilmu Tanah. Fakultas Pertanian UPN "Veteran" Yogyakarta. Tidak dipublikasikan. Suriawira, H. U. 2004. Sukses Beragrobisnis Jamur Kayu. PT. Penebar Swadaya. Jakarta. Sunarmi, Y.I dan C. Saparinto. 2010. Usaha 6 Jenis Jamur Skala Rumah Tangga. Penebar Swadaya. Jakarta. Suriawiria, U. 2002. Budi Daya Jamur Tiram. Kanisius. Yogyakarta. Tim Redaksi Agro Media Pustaka. 2005. Budidaya Jamur Konsumsi. PT. Agro Media Pustaka. Jakarta. Tanijogonegoro. 2013. Teknik dan Cara Budidaya Jamur Kuping. http://www. tanijogonegoro.com/2013/07/budidaya-jamur.html. Diakses tanggal 4 Mei 2015 Pukul 06.08 WIB. Zadrazil, F. 1978. Cultivation of Pleurotus in The Biology and Cultivation of Edible Mushroom. Academic Press Inc. UK.
+
+Eko Siswanto "Modul Budidaya Jamur Semi Modern"
+
+36

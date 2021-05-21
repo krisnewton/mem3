@@ -1,0 +1,196 @@
+Available online at www.sciencedirect.com
+Procedia in Vaccinology 4 (2011) 78­83
+4th Vaccine and ISV Annual Global Congress
+Preclinical evaluation of influenza vaccines based on replication-deficient poxvirus vector MVA
+Guus F. Rimmelzwaana*, Joost H.C.M. Kreijtza, Yasemin Suezerb, Astrid Schwantesb, Albert D.M.E. Osterhausa and Gerd Sutterb,c
+aDepartment of Virology, Erasmus MC, P.O. Box 2040, 3000 CA Rotterdam,The Netherlands bDepartment of Virology, Paul-Ehrlich-Institut, Paul-Ehrlich-Str. 51-59 63225 Langen, Germany
+cDepartment of Veterinary Sciences, Ludwig-Maximilians-Universität, Veterinärstr. 13 80539 Munich, Germany
+Abstract
+The zoonotic transmissions of highly pathogenic avian influenza viruses of the H5N1 subtype that occur since 1997 have sparked the development of novel influenza vaccines.
+The advent of reverse genetics technology, cell culture production techniques and novel adjuvants has improved the vaccine strain preparation, the production process and the immunogenicity of the vaccines respectively and would accelerated the availability of pandemic influenza vaccines. However, there is still room for improvement and alternative vaccine preparations are explored such as recombinant antigens (e.g. baculovirus expression) and viral vectors. Modified Vaccinia virus Ankara (MVA), originally developed as a safe smallpox vaccine can be exploited as a viral vector. It has favourable properties, which makes it an attractive candidate as a pandemic influenza vaccine (for review see reference [1]). Recently we have evaluated a MVA-based vaccine for highly pathogenic influenza virus of the H5N1 subtype in mice and macaques. To this end, recombinant MVA was constructed expressing the gene encoding the hemagglutinin of H5N1 influenza virus A/Vietnam/1194/04 (clade 1) (MVA-HA-VN/04) and used to immunize C57BL/6 mice and cynomolgus macaques (macaca fascicularis). Two immunizations induced strong virus specific antibody responses in both species and protected the animals from the development of severe disease observed in control animals inoculated with empty MVA vector or PBS after challenge infection with the homologous or the antigenically distinct influenza virus A/Indonesia/5/05 (clade 2.1). In vaccinated animals virus replication in the respiratory tract was not detectable and the development of histopathological changes in the lungs was prevented. Furthermore, a MVA-based 2009 pandemic H1N1 vaccine protected against severe disease in a pH1N1 ferret model.
+The preclinical evaluation of MVA-based candidate vaccines indicated that they have potential as vaccines against highly pathogenic H5N1 and pH1N1 influenza viruses. The MVA-based vaccines proved to be immunogenic and induced broad-protective immune responses. MVA has favourable properties for the production, storage and use as a pandemic influenza vaccine and further clinical development seems warranted.
+* Corresponding author. Tel.: 31-10-7044067; fax: 31-10-7044760. E-mail address: g.rimmelzwaan@erasmusmc.nl
+1877-282X © 2011 Published by Elsevier Ltd. Selection and peer-review under responsibility of Prof. Ray Spier doi:10.1016/j.provac.2011.07.011
+
+Guus F. Rimmelzwaan et al. / Procedia in Vaccinology 4 (2011) 78­83
+
+79
+
+© 2011 Published by Elsevier Ltd. Selection and peer-review under responsibility of Prof. Ray Spier
+Keywords: Influenza; pandemic; vaccine; MVA
+
+1. Introduction
+Since 2003 more than 500 human cases of infection with highly pathogenic avian influenza (HPAI) viruses of the H5N1 subtype have been reported. Approximately 60% of these cases had a fatal outcome [2]. Since these viruses continue to circulate and cause infections of humans it is feared they may adapt to their new host by accumulating mutations or by reassortment with human influenza viruses, become transmissible from human-to-human and cause a new influenza pandemic. Several antigenically distinct clades of H5N1 HPAIs have been identified. Thus, to mitigate the impact of a future pandemic caused by influenza H5N1 viruses, ideally safe and effective vaccines are used that induce cross-clade immunity. In addition, these vaccines should become available in a timely fashion and in sufficient quantities. The latter is a key issue and was exemplified during the 2009 influenza pandemic caused by influenza A/H1N1 viruses that were of swine origin. Although effective vaccines, with and without an adjuvant were produced, they arrived too late and in most countries after the peak of the pandemic[3]. Clearly there is room for improvement to accelerate the availability of pandemic influenza vaccines.
+The development of novel generations of influenza vaccines and vaccine production platforms may aid in a more rapid arrival of vaccines in the face of a pandemic outbreak. For example, recombinant viral vector vaccines, based on adenovirus and poxvirus expressing selected influenza virus genes have been shown to be immunogenic and to afford protection against infection with influenza A/H5N1 viruses in animal models. We have a special interest in the replication deficient modified vaccinia virus Ankara (MVA) as a vector for the delivery of influenza antigens and as a vaccine production platform[1, 4]. MVA was obtained after serial passage in chicken embryo fibroblasts and originally developed as a safe vaccine against smallpox. It was administered to > 120.000 subjects without significant side effects. In addition, administration of MVA to immunocompromised subjects is safe and does not result in systemic disease often seen with the administration of wild type replication competent vaccinia virus. Other favourable properties include its good stability that would allow stockpiling of the vaccine and its good immunogenicity that was demonstrated for a number of viral and tumor antigens [5-6].
+Here we present data that we have obtained with candidate MVA-based (pandemic) influenza vaccines in animal models.
+2. Preclinical evaluation of MVA-based influenza vaccines
+2.1. Evaluation of a candidate MVA-based H5N1 vaccine in mice
+Two recombinant MVA were produced expressing the HA gene of influenza viruses A/Hong Kong/156/97 (MVA-HA-HK/97) or A/Vietnam/1194/04 (MVA-HA-VN/04) as described previously [7]. These two influenza viruses belong to two antigenically different clades of influenza A/H5N1 viruses. C57BL/6 mice were vaccinated twice intramuscularly with a dose of 108 pfu and a time interval of four weeks. Vaccination with these two vaccine preparations induced antibody responses that cross-reacted with heterologous H5N1 strains to a limited extent. Four weeks after the last immunization the mice were infected with a lethal dose of influenza A/H5N1 viruses A/Hong Kong/156/97 (clade 0), A/Vietnam/1194/04 (clade 1) or A/Indonesia/5/05 (clade 2.1) to assess the cross protective potential of the immune response that was induced. Both MVA vaccine preparations afforded protection against the homologous virus both in terms of the development of clinical signs and virus replication in the lungs
+
+80
+
+Guus F. Rimmelzwaan et al. / Procedia in Vaccinology 4 (2011) 78­83
+
+(Table 1). Immunization with MVA-HA-HK/97 also provided clinical protection against infection with A/Vietnam/1194/04, but could not fully prevent virus replication. Furthermore, this vaccine preparation did not afford protection against infection with influenza virus A/Indonesia/5/05. In contrast, the use of MVA-HA-VN/04 afforded clinical protection against infection with the two heterologous virus A/Hong Kong/156/97 and A/Indonesia/5/05 and reduced virus replication of these two viruses considerably. Because vaccine candidate MVA-HA-VN/04 induced more broadly protective immune responses, this vaccine preparation was selected for further studies
+
+2.2. Evaluation of a candidate MVA-based H5N1 vaccine in macaques
+
+Since with MVA-HA-VN/04 promising results were obtained in mice, we wished to test this vaccine candidate also in non-human primates. To this end, cynomolgus macaques (macaca fascicularis) were vaccinated twice with a dose of 108.5 pfu of MVA-HA-VN/04 with an interval of four weeks. Control animals received the empty MVA vector or were mock-vaccinated with PBS. Also in this species, MVAHA-VN/04 was immunogenic and the antibodies that were induced to the HA of influenza virus A/Vietnam/1194/04 cross reacted with antigenically distinct influenza virus A/Indonesia/5/05 of clade 2.1 to some extent [8]. Upon challenge infection with the homologous virus A/VN/1194/04 or the antigenically distinct virus A/Indonesia/5/05 four weeks after the last vaccination, control animals developed clinical signs and severe broncho-interstitial pneumonia and high virus titers were found in the upper respiratory tract and lungs of these animals. In contrast, the MVA-HA-VN/04 vaccinates macaques were fully protected from infection with both viruses and did not show signs of illness and respiratory specimens including lung tissue tested negative by virus isolation and detection of virus-infected cells in situ by immunohistochemistry (Table 1).
+
+Table 1. Summary of the preclinical evaluation of MVA-based influenza vaccines
+
+Recombinant MVA expressing HA gene of influenza virus
+A/Hong Kong/156/97 (clade 0)
+
+Dose (PFU)
+2x 108
+
+A/Vietnam/1194/04 (clade 1)
+
+2x 108
+
+A/Vietnam/1194/04 2x 3.108
+
+A/Vietnam/1194/04 A/California/4/09
+
+2x 105 2x 105 1x 108 1x 108 1x 3.108 2x 3.108
+
+subtype Species H5N1 Mice
+H5N1 Mice
+H5N1 Macaques H5N1 Mice H5N1 Mice pH1N1 Ferrets
+
+Virus used for challenge infection
+A/HK/156/97 A/VN/1194/04 A/Ind/5/05 A/HK/156/97 A/VN/1194/04 A/Ind/5/05 A/VN/1194/04 A/Ind/5/05 A/VN/1194/04 A/Ind/5/05 A/VN/1194/04 A/Ind/5/05 A/NL/602/09 A/NL/602/09
+
+Protection against disease/virus replication
+
+Reference
+
+Yes/yes
+
+[7]
+
+Yes/no
+
+No/no
+
+Yes/partially
+
+[7]
+
+Yes/yes
+
+Yes/partially
+
+Yes/Yes
+
+[8]
+
+Yes/Yes
+
+Yes/Yes
+
+[9]
+
+Yes/yes
+
+Yes/partially
+
+[9]
+
+Yes/partially
+
+Partially/partially [10]
+
+Yes/partially
+
+Guus F. Rimmelzwaan et al. / Procedia in Vaccinology 4 (2011) 78­83
+
+81
+
+2.3. Dose-sparing and evaluation of single immunization regimen in mice
+To stretch the number of individuals that can be vaccinated with any given amount of vaccine doses that can be produced, it would be desirable if dose-sparing can be achieved with a pandemic influenza vaccine. Furthermore, an emerging pandemic may impose serious time pressure and protective immunity should be induced as quickly as possible, preferably after a single immunization. Therefore we wished to assess the minimal requirements necessary for the induction of protective immune responses against homologous and heterologous H5N1 influenza viruses by an MVA-based H5N1 vaccine. To this end, C57BL/6 mice were immunized once or twice with MVA-HA-VN/04 using a wide range of doses and subsequently these animals were infected with a lethal dose of the homologous strain A/Vietnam/1194/04 or the heterologous strain A/Indonesia/5/05 [9]. After two immunizations with a dose of 105 pfu the mice were fully protected from developing clinical signs, which correlated with > 6 log reduction of lung virus titers detected on day 4 post inoculation with both viruses, compared to mice in control groups. Also a single immunization with a dose of 108 pfu of MVA-HA-VN/04 afforded substantial protection against infection with both viruses and prevented the induction of clinical signs although virus replication in the lungs could not be completely prevented. Nevertheless a reduction in lung virus titers of approximately 5 logs was achieved after infection with homologous strain A/Vietnam/1194/04 and the heterologous strains A/Indonesia/5/05.
+2.4. Evaluation of a candidate MVA-based pH1N1 vaccine in ferrets
+After the pandemic outbreak in 2009 with influenza virus of the H1N1 subtype we wanted to investigate the feasibility to develop a pH1N1 vaccine based on the MVA technology. The HA gene of influenza virus A/California/4/09 was cloned into a MVA shuttle plasmid and recombinant virus MVAHA-CA/09 was obtained through homologous recombination [10]. This vaccine preparation was tested in ferrets which are susceptible to infection with a variety of influenza viruses, and which are considered to constitute a good animal model for the infection of humans. Two ferret pH1N1 models were established in our laboratory recently [11-12]. For the present study animals were infected by the intratracheal route [12]. First, ferrets were immunized once or twice with 108.5 of MVA-HA-CA/09. A single immunization induced modest virus-specific antibodies titers which were boosted by the second vaccination. Four weeks after the last vaccination the animals were inoculated with 106 TCID50 of pH1N1 virus A/Netherlands/602/09 by the intratracheal route. Despite this harsh challenge infection, ferrets that received a single immunization displayed reduced areas of consolidation in the lung compared to control animals that received the empty MVA vector or were mock-vaccinated with PBS. In the animals vaccinated once with MVA-HA-CA/09 the lung virus titers were tenfold lower than in the control animals. A second immunization had a beneficial effect on the outcome of the challenge infection. In these animals the loss of bodyweight caused by infection was significantly reduced, so was the development of lesions in the lungs. The reduction of clinical signs and histopathological changes correlated with a reduction in lung virus titers, which were on average 4 logs lower than in mockvaccinated control animals [10].
+
+3. Conclusions
+The recent studies with recombinant MVA expressing the HA gene of highly pathogenic A/H5N1 influenza viruses or the HA gene of 2009 pandemic H1N1 virus indicate that robust protective immunity can be induced with these candidate vaccine against infections that otherwise would have been fatal. In all cases vaccination reduced virus replication in the lungs, prevented the development of clinical signs and histopathological lesions in the lungs. Protection correlated with the induction of influenza virus neutralizing antibodies. In the case of H5N1 viruses, these antibodies cross-reacted to some extent with
+
+82
+
+Guus F. Rimmelzwaan et al. / Procedia in Vaccinology 4 (2011) 78­83
+
+antigenically distinct viruses from other clades of H5N1 viruses and protection was achieved against these heterologous viruses. The induction of cross-clade immunity is a favorable property of (pre)pandemic H5N1 vaccines, since it can not be predicted which strain eventually may cause a pandemic outbreak. In all animal species tested, vaccination with MVA-based vaccines was very well tolerated, without any signs of side effects. Collectively, we conclude that vaccines based on the MVA technology are immunogenic and able to induce robust protective immunity. In combination with a number of favorable properties such as good stability and ease of manufacturing in chicken embryo fibroblasts the MVA technology holds promise as a production platform for pandemic influenza vaccines. Based on the promising results obtained in various animal species, including non-human primates further clinical development of MVA-based influenza vaccines is warranted.
+
+Acknowledgements
+The authors wish to thank Gerrie de Mutsert, Geert van Amerongen, Rogier Bodewes and Stella van Trierum for excellent technical assistance, Ron Fouchier for critical reading of the manuscript, Thijs Kuiken and Judith van de Brand for their help with the interpretation of the histopathology.
+
+References
+
+[1] Rimmelzwaan GF, Sutter G. Candidate influenza vaccines based on recombinant modified
+
+vaccinia virus Ankara. Expert Rev Vaccines 2009;8:447-54.
+
+[2] WHO. Cumulative Number of Confirmed Human Cases of Avian Influenza A/(H5N1) Reported
+
+to WHO.
+
+2010
+
+[cited November 12, 2010]; Available from:
+
+http://www.who.int/csr/disease/avian_influenza/country/cases_table_2010_10_18/en/index.html
+
+[3] Butler D. Portrait of a year-old pandemic. Nature 2010;464:1112-3.
+
+[4] Sutter G, Wyatt LS, Foley PL, Bennink JR, Moss B. A recombinant vector derived from the host
+
+range-restricted and highly attenuated MVA strain of vaccinia virus stimulates protective immunity in
+
+mice to influenza virus. Vaccine 1994;12:1032-40.
+
+[5] Drexler I, Staib C, Sutter G. Modified vaccinia virus Ankara as antigen delivery system: how
+
+can we best use its potential? Curr Opin Biotechnol 2004;15:506-12.
+
+[6] Sutter G, Staib C. Vaccinia vectors as candidate vaccines: the development of modified vaccinia
+
+virus Ankara for antigen delivery. Curr Drug Targets Infect Disord 2003;3:263-71.
+
+[7] Kreijtz JH, Suezer Y, van Amerongen G, de Mutsert G, Schnierle BS, Wood JM, et al.
+
+Recombinant modified vaccinia virus Ankara-based vaccine induces protective immunity in mice against
+
+infection with influenza virus H5N1. J Infect Dis 2007;195:1598-606.
+
+[8] Kreijtz JH, Suezer Y, de Mutsert G, van den Brand JM, van Amerongen G, Schnierle BS, et al.
+
+Recombinant modified vaccinia virus Ankara expressing the hemagglutinin gene confers protection
+
+against homologous and heterologous H5N1 influenza virus infections in macaques. J Infect Dis
+
+2009;199:405-13.
+
+[9] Kreijtz JH, Suezer Y, de Mutsert G, van Amerongen G, Schwantes A, van den Brand JM, et al.
+
+MVA-based H5N1 vaccine affords cross-clade protection in mice against influenza A/H5N1 viruses at
+
+low doses and after single immunization. PLoS One 2009;4:e7790.
+
+[10] Kreijtz JH, Suzer Y, Bodewes R, Schwantes A, van Amerongen G, Verburgh RJ, et al.
+
+Evaluation of a modified vaccinia virus Ankara (MVA)-based candidate pandemic influenza A/H1N1
+
+vaccine in the ferret model. J Gen Virol 2010;91:2745-52.
+
+[11] Munster VJ, de Wit E, van den Brand JM, Herfst S, Schrauwen EJ, Bestebroer TM, et al.
+
+Pathogenesis and transmission of swine-origin 2009 A(H1N1) influenza virus in ferrets. Science
+
+2009;325:481-3.
+
+Guus F. Rimmelzwaan et al. / Procedia in Vaccinology 4 (2011) 78­83
+
+83
+
+[12] van den Brand JM, Stittelaar KJ, van Amerongen G, Rimmelzwaan GF, Simon J, de Wit E, et al. Severity of pneumonia due to new H1N1 influenza virus in ferrets is intermediate between that due to seasonal H1N1 virus and highly pathogenic avian influenza H5N1 virus. J Infect Dis 2010;201:993-9.

@@ -1,0 +1,391 @@
+For reprint orders, please contact reprints@future-drugs.com
+
+Review
+
+CONTENTS
+The pathogen: Japanese encephalitis virus Need for Japanese encephalitis vaccination Current vaccines against Japanese encephalitis Japanese encephalitis vaccines under development Expert commentary & five-year view Key issues References Affiliations
+Author for correspondence National Institute of Immunology, Virology laboratory, Aruna Asaf Ali Marg, New Delhi, 110 067, India Tel.: +91 112 670 3677 Fax: +91 112 616 2125 vrati@nii.res.in KEYWORDS: immunogenicity, peptide, recombinant virus, virus-like particle
+
+Japanese encephalitis: development of new candidate vaccines
+
+Kaushik Bharati and Sudhanshu Vrati
+
+Japanese encephalitis (JE) is the most common form of viral encephalitis that appears in the form of frequent epidemics of brain fever throughout Southeast Asia, China and India. The disease is caused by a Flavivirus named Japanese encephalitis virus that is spread to humans by mosquitoes. An internationally approved mouse brain-derived inactivated vaccine has been available that is relatively expensive, gives immunity of uncertain duration and is not completely safe. Cell culture-derived inactivated and attenuated JE vaccines are in use in China, but these are not produced as per the norms acceptable in most countries. Several new promising JE vaccine candidates have been developed, some of which are under different stages of clinical evaluation. These new candidate JE vaccines have the potential to generate long-lasting immunity at low cost.
+
+Expert Rev. Anti Infect. Ther. 4(2), 313­324 (2006)
+
+Since its emergence in Japan in the 1870s, Japanese encephalitis (JE) has become the single most important form of viral encephalitis in the Indian subcontinent and virtually all of Southeast Asia, China and the Asia­Pacific belt. Approximately 3 billion people live in areas endemic to JE where at least 50,000 cases of clinical disease are reported every year. Of these, up to 10,000 cases result in death, mostly among children, and a significant proportion of the survivors live with life-long neurological complications [1]. In recent years, JE has been reported from the hitherto unaffected areas such as northern Australia [2,3] and Pakistan [4]. This, coupled with the high rate of mortality and residual neurological complications in survivors, makes JE a serious public health problem.
+Most JE infections are asymptomatic, and only approximately one in 250 infections result in clinical disease. The incubation period of the disease is 4­14 days. Typical JE patients present with nonspecific febrile illness, which may include coryza, diarrhea and rigors. Headache, vomiting and a reduced level of consciousness, often heralded by convulsion, follow this. The principal clinical manifestation of illness is encephalitis. The
+
+disease is characterized by seizures, poliomyelitis-like paralysis and Parkinsonian movement disorders. Approximately 60­75% of patients develop encephalitis, with 5­10% showing signs of meningitis. Case fatality rate is 20­30%. A large proportion of the survivors (50­60%) develop neuropsychiatric sequelae that include memory loss, impaired cognition, behavioral disturbances and convulsions [5]. Two epidemiological patterns of JE are recognized. In northern temperate areas, JE occurs in summer epidemics, whereas in southern tropical areas the disease is endemic and occurs all year round. The major epidemiological features of JE are briefly summarized in BOX 1.
+The pathogen: Japanese encephalitis virus
+JE virus (JEV), the etiological agent for JE first identified in 1924, is an arbovirus belonging to the family Flaviviridae and genus Flavivirus. JEV is antigenically linked to other arthropod-borne viruses of the Flaviviridae family, which includes several medically important viruses such as yellow fever (YF), dengue and West Nile encephalitis viruses (TABLE 1). JEV is transmitted to humans by mosquitoes, primarily by Culex tritaeniorhynchus that proliferates in close association with animal vertebrate hosts, such as
+
+www.future-drugs.com
+
+10.1586/14787210.4.2.313
+
+© 2006 Future Drugs Ltd
+
+ISSN 1478-7210
+
+313
+
+Bharati & Vrati
+
+swine, water birds (egrets and herons) as well as starlings and chicks. Swine and water birds serve as the primary host for the virus, as these animals develop high levels of viremia upon infection with JEV. Humans and horses develop asymptomatic as well as clinical illness when infected with JEV. As JEV titers in infected humans and horses are insufficient for further transmission by the mosquitoes, these animal species are considered as the dead-end hosts for the virus. Other vertebrate animals that are naturally infected with JEV include donkeys, chicken, ducks, water buffalos, cattle, sheep, mice, bats, snakes and frogs, although their role in further transmission of JEV is not established. The life cycle of JEV in nature is depicted in FIGURE 1.
+The single-stranded, positive-sense RNA genome of JEV, consisting of approximately 11 kb [6,7], contains a single open reading frame (ORF) capable of encoding a polyprotein of approximately 3400 amino acids. This polyprotein is subsequently cleaved, co- and post-translationally, by both the host and viral proteases, into three structural; capsid (C) membrane (M) and envelope (E), and seven nonstructural (NS1, NS2A, NS2B, NS3, NS4A, NS4B and NS5) proteins (FIGURE 2) [8]. A considerable body of information on JEV proteins is extrapolated from data for other flaviviruses due to the fact that a high degree of similarity exists in the genome organization, replication and protein processing of different flaviviruses such as YF and dengue viruses.
+The structural component of the virion nucleocapsid is formed by the C protein (12­14 kDa). The premembrane protein (prM), which is 18­19 kDa in size, undergoes cleavage and removal of the N-terminal segment, thereby giving rise to the M protein (8­9 kDa). The cleavage process is presumably linked to the maturation of the E glycoprotein and the development of virus infectivity [9]. Sometimes, the prM protein may become an additional target on virions for neutralizing (Nt) antibodies, due to the incomplete cleavage of the prM protein [10]. The E protein (53­55 kDa) is a typical membrane glycoprotein, consisting of a C-terminal membrane-spanning domain and forms the outer
+Box 1. Epidemiological features of Japanese encephalitis.
+· Geographic range: Indian subcontinent (including Pakistan), south Asia, Southeast Asia, China, Pacific rim, northern Australia · Major vectors: Culex tritaeniorrhynchus, Culex vishnui, Culex gelidus, Culex fuscocephala, Culex pipiens · Major vertebrate hosts: Domestic pigs, migratory/wading birds, such as Asiatic cattle erget, domestic fowl · High-risk groups: Children and the elderly in endemic areas and nonimmune adults · Annual incidence of disease: 30,000­50,000
+
+Table 1. Major human flaviviruses and their endemic areas.
+
+Virus
+
+Endemic areas
+
+Japanese encephalitis
+
+Asia and Asia­Pacific belt
+
+Yellow fever
+
+South America and Africa
+
+Dengue
+
+Tropics, worldwide
+
+West Nile
+
+Europe, Africa, Asia and North America
+
+St Louis encephalitis
+
+North and South America
+
+Murray Valley encephalitis Australia
+
+Tick-borne encephalitis Europe and Asia
+
+structural protein component of the virus. The E protein, being the major virion antigen, is the principal target for neutralization in vitro and in vivo by specific antibodies and is responsible for a number of important processes such as virion assembly, receptor binding and membrane fusion [11­13].
+The NS1 protein (39­41 kDa) is also a glycosylated protein that is believed to be involved in the assembly and release of virions [14], and is found on the cell surface and in the culture medium of infected cells [15]. It has been demonstrated that during the course of infection, this protein evokes a strong antibody response that protects the host against live virus challenge, presumably through a complement-mediated pathway [16]. It has also been argued that the NS1-mediated protection may be due to antibody-dependent cell cytotoxicity [17]. NS2A and NS2B are both relatively small-molecular-weight proteins (22 and 14 kDa, respectively). The former is believed to be involved in the recruitment of RNA templates to the membrane-bound replicase, while the latter might act as a cofactor for the serine protease function of NS3 [18]. The NS3 protein is large (68­70 kDa) and is conserved among flaviviruses. NS3 has several enzymatic activities, such as protease and nucleotide triphosphatase/helicase activities that are implicated in polyprotein processing and RNA replication [19­21]. NS4A and NS4B are relatively small proteins (16 and 27 kDa, respectively) whose functions are not clear, although they may be involved in the membrane localization of NS3 and NS5 through protein­protein interactions [8], or in the formation of the genomic RNA replication complex [22]. The NS5 protein (103 kDa) is the largest and most conserved protein among flaviviruses and is considered to be the viral RNAdependent RNA polymerase (RdRp). It possesses sequence homology to RdRps of other positive-sense RNA viruses, including the GDD motif common to these enzymes [23].
+Based on the limited nucleotide sequence data of C/prM and E genes, four genotypes of JEV have been identified [24,25]. The representatives of three of these genotypes have been fully sequenced. Genotype I includes isolates from northern Thailand, Cambodia and Korea. Genotype II includes isolates from southern Thailand, Malaysia, Indonesia and northern Australia. Genotype III includes isolates from mostly temperate regions of Asia,
+
+314
+
+Expert Rev. Anti Infect. Ther. 4(2), (2006)
+
+Japanese encephalitis
+
+Wading birds/pigs
+
+Mosquitoes
+
+Virus amplification
+
+Mosquitoes
+
+Wading birds/pigs
+
+Humans: dead-end host
+
+Infected wind-borne mosquitoes/migratory birds
+Figure 1. Transmission cycle of Japanese encephalitis virus in nature.
+including Japan, China, Taiwan, the Philippines and the Asian subcontinent. Genotype IV includes some isolates from Indonesia. In addition, based on phylogenetic evidence, the Muar strain of JEV isolated in Singapore in 1952 from a patient who originated in Muar (Malaysia), may represent a fifth genotype [26]. These strain variations may have practical implications for vaccine development (see below).
+Need for Japanese encephalitis vaccination
+JE is the single-most important cause of viral encephalitis in Asia. Although disease incidence is grossly under-reported, WHO estimates indicate that in endemic areas, annual incidence of clinical disease ranges from ten to 100 per 100,000 people, with case fatality averaging 30%. The situation is aggravated by the fact that a high proportion of the survivors, mostly young children, are left with permanent neuropsychiatric sequelae. There is no effective drug treatment for the disease. Moreover, there is no effective method of environmental control of JEV transmission. Since JE is a zoonotic disease with natural reservoirs for the causative agent, it cannot be totally eliminated. Although improvements in agricultural practices due to the betterment of socioeconomic status has led to reduced disease burden in some countries, large-scale vaccination of susceptible human populations appears to be the logical approach towards controling JE, both now, and in the future. The effect of mass vaccination against JE, that has already shown great promise in various regions of China and has led to decreased disease burden in countries such as Japan, Korea and Thailand, provides ample justification for vaccination.
+Current vaccines against Japanese encephalitis
+Three types of JE vaccines are currently in use of which the mouse brain-derived inactivated vaccine is produced commercially and distributed internationally. The status of these vaccines is provided below.
+
+Mouse brain-derived inactivated Japanese
+encephalitis vaccine
+The mouse brain-derived formalin-inactivated JE vaccine is the only vaccine that is currently WHO approved. Crude preparations of the vaccine had been developed as early as the 1930s in Japan. In modern times, the manufacturing process has been streamlined, which includes virus purification steps. Although most manufacturers still use the original Nakayama strain isolated from a human case in 1935, many have switched to the Beijing-1 strain due to its greater geographical cross reactivity. The BIKEN vaccine manufactured by the Research Foundation for Microbial Diseases of Osaka University in Japan is the most widely used variety of the JE vaccine, while Green Cross (Korea) contributes a smaller share to the global market [27]. Although the BIKEN vaccine continues to be manufactured in Japan, this US FDA-approved vaccine is presently commercially distributed in the USA by AventisPasteur under the trade name JE-VAX®. This vaccine is also independently manufactured in China, India, Taiwan and Thailand. In India, the Central Research Institute, Kasauli manufactures the mouse brain-derived JE vaccine. The vaccine is available in a lyophilized form that is stabilized with gelatin, sodium glutamate and preserved with thimerosal. The current vaccine contains less than 50 ng/ml of mouse serum protein, has undetectable levels of myelin basic protein (detection limit, 2 ng/ml), and is stabilized with 500 mg/ml of gelatin.
+Although mouse brain-derived JE vaccines, based on Nakayama or Beijing-1 strains, generate cross-Nt antibodies and exhibit cross protection [28], vaccines made from indigenous strains belonging to particular countries should potentially generate higher levels of protective immunity. However, this may be impractical from the logistical and process economics standpoints.
+
+5´ Structural genes
+
+Nonstructural genes
+
+3´
+
+Translation & processing
+
+C prM E NS1 2a 2b NS3 4a 4b NS5
+
+M
+Figure 2. An oversimplified representation of the Japanese encephalitis virus (JEV) genome. The genome is a single-stranded, plus-sense RNA molecule containing a long open reading frame encoding the viral polyprotein with 5' and 3' untranslated regions. See text for a detailed discussion of the structural and nonstructural components of the JEV genome. E: Envelope; M: Membrane protein; NS: Nonstructural; prM: Premembrane protein.
+
+www.future-drugs.com
+
+315
+
+Bharati & Vrati
+
+In a large-scale clinical trial in Thailand involving 65,224 children, two doses of mouse brain-derived inactivated vaccine based on the Nakayama or Beijing-1 strain was found to have an efficacy of 91% [29]. The mouse brain-derived inactivated vaccine was found to be relatively safe. However, common side effects were observed, primarily in vaccinated Asian children and western adults. Local reactions such as erythema, swelling and tenderness have been observed in up to 23% of vaccinees, whereas mild systemic side effects such as fever, headache, malaise and dizziness can be seen in up to 13% of the vaccinees [30]. Moreover, neurological complications, including several cases of acute encephalitis temporally linked to JE vaccination, have been reported. For example, from the Republic of Korea, three cases were reported, of which two were fatal. Furthermore, hypersensitivity reactions such as serious generalized urticaria, facial angioedema and respiratory distress have been observed in adult western vaccinees [31]. Gelatin, which is used as a stabilizer in the vaccine, has been incriminated for these adverse reactions [32].
+Owing to its relatively high cost of production, lack of longterm immunity and risk of allergic reactions, large-scale vaccination with the mouse brain-derived inactivated vaccine does not appear feasible, especially in the economically weaker Asian countries, where it is needed most.
+Cell culture-derived inactivated Japanese
+encephalitis vaccine
+In recent years, attempts have been made to move away from the mouse brain and use mammalian cells for developing inactivated JE vaccines. A formalin-inactivated JE vaccine is in use, exclusively in China, which is prepared using the Beijing P-3 strain of JEV grown in primary hamster kidney (PHK) cells. The vaccine is relatively easy to manufacture, as it does not involve any purification steps. This is one of the reasons why it has not thus far been licensed in western countries. The manufacturers recommend two doses, followed by a booster dose. Extensive randomized field trials in China, involving nearly half a million infants and children, have shown vaccine efficacy to range between 76 and 95%. Very few side effects of the PHK-derived JE vaccine have been reported. Approximately 4% of the vaccinees have reported local reactions such as erythema and swelling at the injection site, while 1% have reported mild systemic symptoms such as headache and dizziness [33].
+The vaccine is inexpensive and approximately 70­90 million doses are distributed annually within China. Lately this vaccine is increasingly being replaced by the SA 14­14­2 liveattenuated JE vaccine, which is even more cheaper to produce and probably more efficacious [34].
+Cell culture-derived live-attenuated Japanese
+encephalitis vaccine
+A live JE vaccine produced in PHK cells, involving the stable neuroattenuated SA 14­14­2 strain of JEV, has been licensed for use in China since 1988 [35]. More than 200 million doses of this vaccine have been used in China with a good record of
+
+safety and efficacy [36­38]. Immunogenicity studies in children have shown antibody responses in 92% of the vaccinees, and all retained detectable Nt antibodies for 3 years post primary immunization. Protective efficacy was approximately 98% [33]. The success of this vaccine in China has attracted international interest and it has now been licensed in Korea [39]. However, the main hurdle for this vaccine to be adopted by other countries is the PHK substrate, which is not approved by the WHO for human vaccine production.
+Japanese encephalitis vaccines under development
+In the past 10 years, there has been a rapid explosion in knowledge of the JEV molecular biology and the science of vaccine development. As a result of this, several potential second- and third-generation vaccines against JE have been in development. The immunological basis of protection against JEV infection appears to predominantly involve the virus Nt antibodies, although the role of cellular immune responses cannot be ruled out, and new evidence suggests that the latter's contribution might prove to be more than previously envisaged. Hence, new generation vaccines should ideally induce both of these types of protective immune responses against JEV. On the following pages the authors summarize the recent developments in this field and evaluate different systems and their potential to provide an ideal JE vaccine that may be cheap, safe and capable of providing long-lasting protective immunity.
+Vero cell culture-based Japanese encephalitis vaccines
+Due to the undesirable side effects of the mouse brain-grown JE vaccine, efforts are being directed towards the development of tissue culture-based vaccines that are likely to be free from the deleterious effects of the former. Various laboratories have focused their attention on Vero cells, derived from the African green monkey (Cercopithicus aethiops) kidney to propagate the vaccine virus. Over the last 10 years, more than 100 million doses of inactivated polio vaccine, 20 million doses of rabies vaccine and more than 1 billion doses of live polio vaccine produced in Vero cells have been used worldwide with remarkable records of safety, making Vero a safe cell line for producing vaccines for human use [40].
+Several research groups around the world are working on the development of a Vero cell-derived JE vaccine using various local isolates of JEV. Using an attenuated derivative of the Chinese SA 14­14­2 strain of JEV grown on Vero cells, a purified, formalin-inactivated vaccine was made which induced high titers of JEV Nt antibodies in mice in a dose-dependent manner after two injections [41]. The vaccine protected mice against morbidity and mortality after challenge with virulent JEV. Compared with the mouse brain-derived vaccine, the Vero cell-derived, JE-purified, inactivated vaccine was more immunogenic and as effective at preventing encephalitis in mice.
+In another development, using the Beijing-1 strain of JEV grown in Vero cells, an industrial-scale process conforming to the current good manufacturing practice (cGMP) criteria has been developed [42]. In the preclinical and Phase I clinical trials
+
+316
+
+Expert Rev. Anti Infect. Ther. 4(2), (2006)
+
+Japanese encephalitis
+
+in Japan, the vaccine was found to be safe and its effectiveness to be equivalent to that of the licensed mouse brain-derived vaccine [43]. However, clinical trials using a larger sample size are required to further validate the safety and effectiveness of this vaccine.
+The authors have developed a Vero cell-derived, formaldehyde-inactivated JE vaccine using P20778, an Indian strain of JEV [44]. The studies indicated that virus inactivation with formalin at 22°C, which required a shorter incubation period, was as good or better than virus inactivation at 4°C, for it generated higher titers of anti-JEV antibodies in mice. Significantly, sera from the immunized mice effectively neutralized different strains of JEV, albeit with different efficiency. Efforts are currently underway to scale-up this technology for industrial-scale production of this vaccine under the cGMP guidelines.
+Recombinant protein-based Japanese encephalitis vaccines
+The E protein of JEV and other flaviviruses are involved in such important functions as receptor binding and membrane fusion and has been shown to induce virus-Nt antibodies. As the virus-Nt antibodies alone are considered sufficient for protection against JEV infection, the JEV E protein, thus, has the potential to be used as an immunogen capable of generating protective immunity. The JEV E protein has been synthesized in various forms using different expression systems. Immunogenicity of these various forms of the protein has been tested in a murine model, the details of which are presented below.
+Japanese encephalitis virus envelope protein synthesized in
+the Escherichia coli expression system
+Early studies failed to localize the neutralization antigenic site in the linear amino acid sequence of JEV E protein, but eventually parts of the E protein were synthesized in an Escherichia coli expression system [45]. A 27-residue-long fragment, between amino acids 373 and 399 of JEV E protein, fused to protein A or glutathione-S-transferase, used in conjunction with a strong adjuvant elicited virus-Nt antibodies in mice [46]. The same peptide generated JEV-Nt antibodies in mice when presented using the Johnson grass mosaic virus-like particles without the use of an adjuvant [47]. Although the immunized mice were protected against lethal JEV challenge, utility of this vaccinogen, comprising a single epitope, is very limited.
+In yet another study, the domain III fragment of the JEV E protein, comprising amino acids 303­396, was expressed as a thioredoxin fusion protein in E. coli [48]. The fusion protein used with the Freund's adjuvant or cationic liposome preparation, elicited Nt antibodies that protected the mice against lethal JEV challenge.
+The authors have recently evaluated the possibility of developing an oral vaccine against JEV [49]. Recombinant E protein synthesized in E. coli was administered orally to mice with an immunostimulatory cytosine­phosphate­guanosine (CpG) motif containing oligodeoxynucleotide as an adjuvant. The immunized mice produced high titers of anti-E and -JEV antibodies that, however, failed to neutralize JEV activity, and did
+
+not protect the mice against lethal JEV challenge. The absence of Nt antibodies may be related to the use of the denatured E protein. These results, however, demonstrated the oral immunogenicity of the JEV E protein, suggesting that a properly folded protein may generate antibodies with Nt activity.
+Japanese encephalitis virus proteins synthesized in the
+baculovirus expression system
+The baculovirus expression system, utilizing Autographa californica nuclear polyhedrosis virus (AcNPV), has been used to obtain expression of many foreign genes, including those that require proteolytic processing, glycosylation or secretion. A major advantage of this system is the abundant expression of recombinant proteins, which are, in many cases, antigenically, immunogenically and functionally similar to their native counterparts.
+A recombinant baculovirus containing the complete coding sequence of JEV structural proteins prM and E, together with the parts of sequences encoding the C and the NS1 proteins, was found to synthesize the processed prM and the E proteins in Spodoptera frugiperda (Sf)-9 cells [50]. The E protein synthesized by the baculovirus recombinant was glycosylated and similar in size to the authentic viral protein, and was located on the surface of the infected cells. Mice immunized with cells infected with the recombinant viruses developed JEV-Nt antibodies, although the titers were lower than those seen in JEV-infected mice. Protective efficacy of the recombinant baculovirus-expressed E protein was, however, not investigated.
+In another study, baculovirus recombinants were constructed to synthesize the E or the NS1 glycoproteins of JEV individually or together [51]. Approximately 70% protection was recorded in mice immunized with cells infected with recombinant virus synthesizing the E or the E + NS1 proteins, compared with the 30% protection seen in the unimmunized mice. No protection was seen in mice immunized with cells infected with the NS1-expressing recombinant. Nt antibodies were detected only in E glycoprotein-recipient mice. The significance of the protection reported in these studies is not clear, as the virus dose used for the challenge was suboptimal, since only 70% of the control mice succumbed to the challenge. However, in a recent study the baculovirus-expressed JEV E protein was found to be more efficacious [52]. In this study, 100% of mice immunized with Sf-9 cells infected with the recombinant baculovirus synthesizing the prM and E proteins, were protected from a lethal JEV challenge, while only 8% of mice in the unimmunized control group survived the challenge. This study thus provides encouraging evidence for pursuing further work on baculovirus systems for developing a protein subunit vaccine against JEV.
+Particulate Japanese encephalitis virus immunogens
+synthesized in cell culture-based expression systems
+Particulate immunogens, dubbed virus-like particles (VLPs), subviral particles (SVPs) or extracellular particles (EPs), have been expressed in bacteria or different mammalian cells. Using
+
+www.future-drugs.com
+
+317
+
+Bharati & Vrati
+
+E. coli as the host, the authors produced VLPs of Johnson grass mosaic virus presenting peptides from JEV E protein [47]. These VLPs presenting a 27-amino acid peptide representing amino acids 373­399 from the JEV E protein induced Nt antibodies that protected the mice against a lethal JEV challenge.
+The full-length JEV E protein when expressed in mammalian cells remained within the cell in a form that was poorly immunogenic. However, when it was expressed together with prM, as a prM­E fusion protein, it was secreted as SVPs that were highly immunogenic in mice inducing JEV Nt antibodies and virus-specific memory T lymphocytes which conferred protection against live virus challenge [53,54]. Chinese hamster ovary (CHO), COS-1 and rabbit kidney-derived RK13 cells, permanently transfected with the JEV prM­E sequence showed continuous production of EPs which generated Nt antibodies in immunized mice that protected them against lethal JEV challenge [55­57]. This particulate JEV antigen has the potential to be a promising second-generation JE subunit vaccine that should be safe, cheap and effective.
+Recombinant virus-based Japanese encephalitis vaccines
+Recombinant viruses are useful tools in vaccine research. A variety of viruses have been investigated as potential vectors for developing recombinant viruses. Although each viral vector has its own unique characteristics, an important feature of almost all recombinant viruses is their ability to induce both humoral as well as cell-mediated immune responses. A major advantage of using viral vectors is the fact that the antigen-encoding genes within the recombinant virus are amplified along with the normal replication cycle of the virus, thus increasing the antigen exposure to the immune system. Besides, foreign antigens are processed and presented to the immune system in a manner resembling natural infection. Canarypox, vaccinia, YF and more recently, adenoviruses have been used for the development of recombinant vaccines against JE. These are briefly reviewed below.
+Recombinant poxviruses synthesizing Japanese encephalitis
+virus proteins
+In 1991 Konishi and colleagues constructed vaccinia recombinants expressing different JEV proteins. They showed that vaccinia recombinants coexpressing the structural proteins prM and E generated high titers of JEV Nt antibodies in mice which were protected against a lethal JEV challenge. However, recombinants expressing NS1 generated anti-NS1 antibodies, although these induced only a low level of protection in mice against lethal JEV challenge [58]. Subsequently, in 1993 Jan and colleagues showed that a vaccinia recombinant synthesizing a C-truncated JEV E protein had enhanced immunogenicity and protective efficacy in mice [59].
+Safety concerns associated with the vaccinia virus have led to the development of highly attenuated derivatives of it. NYVAC is one such virus derived from vaccinia by the deletion of 18 ORFs [60]. Immunization of pigs with recombinant NYVAC expressing JEV prM, E and NS1 proteins generated JEV Nt
+
+antibodies which were elevated further, following a booster dose [61]. The immunized pigs developed lower levels of viremia (serum JEV titers) compared with the nonimmunized controls, when challenged with a high dose of live JEV.
+Another attenuated derivative of vaccinia that has been used for making recombinant viruses for vaccine purpose is the modified vaccinia virus Ankara strain (MVA). The MVA/JEV recombinants generated JEV Nt antibodies comparable with those induced by the commercial inactivated JEV vaccine in mice and these were protected against a highly lethal dose of JEV [62].
+Due to the safety concerns associated with replication-competent recombinant viruses, avipoxviruses have been examined as potential recombinant vaccine vectors. These viruses infect mammalian cells abortively, while maintaining the capacity to present antigens to the immune system. Canarypox virus has received the most attention as the recombinant vaccine vector since it induced immunity more efficiently than other avipoxviruses [63]. ALVAC is an attenuated vaccine strain of canarypox virus. Mice immunized with an ALVAC recombinant expressing the prM, E and NS1 proteins of JEV produced JEV Nt antibodies that protected them from a lethal JEV challenge [64].
+The NYVAC­JEV and ALVAC­JEV recombinants have been evaluated in rhesus monkeys where they were found to be safe and immunogenic to varying degrees [65]. While all monkeys (four out of four) immunized with the BIKEN vaccine survived the intranasal JEV challenge, three out of four NYVAC­JEV immunized, and one out of four ALVAC­JEVimmunized monkeys survived. These recombinants were further evaluated in a controlled, randomized, double-blind clinical trial to assess safety and immunogenicity in human volunteers [66]. Groups of vaccinia-immune or vaccinia-naive individuals, comprised of ten volunteers each, were given two doses of each recombinant vaccine. The recombinant vaccines were equally safe and well tolerated, but more reactogenic than the commercial formalin-inactivated JE vaccine. The vaccinees experienced frequent occurrence of local warmth, erythema, tenderness and/or arm pain after vaccination. There was no apparent effect of vaccinia immune status on the frequency or magnitude of the local and systemic reactions. NYVAC­JEV elicited antibody responses to JEV antigens in recipients, but here also, as in the previous study in rhesus monkeys, ALVAC­JEV vaccine was poorly immunogenic. However, the NYVAC­JEV vaccine induced Nt antibodies only in the vaccinia-naive recipients, while vaccinia-immune volunteers failed to develop protective antibodies. These data indicated that pre-existing immunity to poxvirus vector interfered with the antibody responses to the recombinant gene products suggesting that alternate viral vectors for antigen delivery need to be investigated.
+Recombinant adenovirus synthesizing Japanese encephalitis
+virus proteins
+In recent years, adenoviruses have shown great promise as vectors for recombinant vaccine development. Besides being safe, these viruses have been shown to induce effective humoral
+
+318
+
+Expert Rev. Anti Infect. Ther. 4(2), (2006)
+
+Japanese encephalitis
+
+and cellular immune responses in experimental animals. In ongoing efforts to develop potential JEV vaccine candidates, the authors constructed a recombinant virus using human adenovirus 5 (Ad5) that synthesized the prM and E proteins of JEV [67]. Recombinant adenovirus (RAdEs) synthesizing the C-truncated secretory form of JEV E protein was significantly more immunogenic in mice than the recombinant synthesizing the full-length membrane-anchored E protein. Mice immunized with RAdEs, given intramuscularly (IM), generated high titers of JEV Nt antibodies and splenocytes from these animals secreted large amounts of interferon in the presence of JEV and showed cytotoxic activity against JEV-infected cells. Naive mice immunized with RAdEs were completely protected against a lethal intracerebral (IC) challenge with JEV. Mice with preexisting Ad5 Nt antibody titers similar to those in young children could also be immunized successfully with RAdEs, demonstrating its potential as a candidate vaccine for children, the primary targets of JEV infection.
+Recombinant yellow fever virus expressing Japanese
+encephalitis virus proteins
+YF17D is a live, attenuated vaccine that has been in use for nearly 70 years with an excellent record of safety and efficacy. Inoculation of a single dose of YF17D leads to generation of life-long immunity in nearly 100% of the vaccinees. The vaccine manufacturing procedure is well established, and the vaccine is licensed for human use by the international health authorities. Thus, YF17D is an ideal vaccine vector for making recombinant vaccines.
+A chimeric virus (ChimeriVax-JE) has been constructed by replacing the genes encoding prM and E proteins of YF17D virus with the corresponding genes of SA 14­14­2, an attenuated strain of JEV [68]. Mice immunized with a single dose of ChimeriVax-JE vaccine demonstrated 100% protection when challenged with a lethal dose of JEV administered intraperitoneally (IP) [69]. Rhesus monkeys immunized with a single dose of the vaccine developed JEV-Nt antibodies. None of the immunized monkeys, when challenged with wild-type JEV administered IC, developed viremia or illness and had mild residual brain lesions, whereas sham immunized control monkeys developed viremia, clinical encephalitis and severe histopathological brain lesions [70].
+ChimeriVax-JE can be grown to high titers in diploid fetal rhesus lung (FRhL) cells, which are acceptable substrates for human vaccine production. Extensive safety studies on FRhLgrown ChimeriVax-JE have been carried out in mice and monkeys where it passed the preclinical safety and efficacy requirements for a human vaccine [70]. The molecular basis for attenuation of the ChimeriVax-JE construct was dissected out using site-directed mutagenesis by which one or multiple SA 14­14­2-specific determinants were reverted to the wildtype residues. Neurovirulence studies showed that reversion of three or four amino acids was required to restore the mouse neurovirulence typical of the wild-type JEV. This finding, coupled with the established observations that the
+
+SA 14­14­2-specific residues are stable during sequential passage, indicate that the risk of reversion to the virulent wild-type phenotype was exceedingly remote [71].
+A randomized, double-blind clinical trial demonstrated that ChimeriVax-JE induced JEV-Nt antibodies in 100% of naive (n = 6) as well as YF17D-immune (n = 6) subjects [72]. A standard plaque reduction neutralization test with a 50% endpoint (PRNT50) was employed to detect the level of Nt antibodies in the sera of the subjects. JE antibody levels were higher in YF-immune than in naive subjects, dispelling concerns about the antivector immunity. Subsequently, in a double-blind Phase II clinical trial carried out in a larger number of individuals (n = 99) who received either ChimeriVax-JE, placebo or the YF17D vaccine, ChimeriVaxJE was found to be well tolerated with 94% of individuals developing JEV-Nt antibodies [73]. Significantly, immunological memory was demonstrated in ChimeriVax-JEimmunized individuals in the form of an anamnestic response following the challenge with the licensed JE-VAX.
+Plasmid DNA-based Japanese encephalitis vaccines
+Nucleic acid or genetic vaccines, more popularly known as DNA vaccines, represent the most recent of the vaccine development strategies. In this approach, DNA encoding the protective immunogen, or a part thereof, is placed under the control of a strong eukaryotic promoter in a bacterial plasmid which is then administered IM or intradermally (ID). The plasmid incorporating the antigen-encoding DNA fragment is endocytosed and endogenous protein synthesis allows the presentation of the foreign antigen by the major histocompatibility complex (MHC) class I, thereby generating a CD8+ cytotoxic T-lymphocyte (CTL) response. Furthermore, uptake of soluble proteins by specialized antigen-presenting cells (APC) allows presentation by MHC class II, thereby generating a CD4+ helper T-cell response. DNA vaccines offer potential advantages over other modes of vaccination. For example, vaccine interference due to pre-existing antibodies to other flaviviruses or to the vaccine vector is not a problem with DNA vaccines. Besides, these vaccines are likely to be cheaper, safer and easier to manufacture, making them an attractive alternative to conventional vaccines. Over the past 10 years, quite a few candidate DNA vaccines for JE have been developed and tested in animal models with varying degrees of success. These are reviewed below.
+DNA vaccines expressing Japanese encephalitis virus
+structural proteins
+It has been known that the antibodies directed against JEV E protein neutralize virus activity in vitro and the JEV-Nt antibodies are important mediators of protection against the disease. Moreover, it has been established that another structural protein, prM, is essential for the intracellular processing and secretion of the E protein in the correct conformation. As a result, the majority of JEV DNA vaccine constructs incorporate both E and prM.
+
+www.future-drugs.com
+
+319
+
+Bharati & Vrati
+
+Early studies with JEV DNA vaccine candidates encoding prM and E genes demonstrated that it elicited low titers of Nt antibody in mice with 70% of the mice surviving a lethal challenge [74]. At least two doses of vaccine were required to induce Nt antibodies. Spleen cells of the immunized mice had JEV-specific CTLs and memory B cells that persisted for at least 6 months. It was observed that this DNA vaccine candidate was more immunogenic in pigs than the formalin-inactivated veterinary version of JE-VAX, and that the Nt antibody titers persisted for almost 8 months [75]. Subsequently, Chang and colleagues demonstrated that a single IM injection of as little as 25 µg of recombinant plasmid DNA encoding the JEV prM and E proteins, induced JEV Nt antibodies which protected the immunized mice against lethal viral challenge [76]. Besides, passively transferred Nt antibodies from the plasmid DNA-immunized mother protected young pups against lethal JEV infection. These remarkable findings stem from the novel design of the gene cassette that included the Kozak's consensus sequence for enhanced translation and the computer-predicted optimal signal peptide-encoding sequence preceding the prM and E genes of JEV.
+Ashok and Rangarajan evaluated the immunogenicity of a plasmid that contained the JEV E-encoding sequence without any signal peptide [77]. The E protein synthesized by the plasmid remained intracellular. The plasmid was able to raise a protective immune response in mice even though JEVspecific antibodies were undetectable. In another study, mice immunized with the plasmid synthesizing JEV E protein along with the signal sequence from the C-terminus of the M protein, generated anti-JEV antibodies in mice, yet they did not have detectable levels of JEV Nt activity. However, these mice were protected against a lethal JEV challenge [78]. Since these plasmids did not encode prM necessary for the proper folding of JEV E protein, the E protein generated might have had a non-native conformation, thereby explaining its inability to generate detectable amounts of Nt antibodies. The protection observed in mice may perhaps be due to the priming by the DNA vaccine and the subsequent memory B-cell response following the challenge. The importance of this anamnestic response in the survival of the immunized animals has been reiterated in another study where mice that developed high titers of JEV Nt antibodies after challenge were shown to be more likely to survive than those that did not [79].
+Considering that the form of the immunogen might affect its immunogenicity, the authors studied the immunogenicity in mice of plasmids, delivered IM or ID using a gene gun, that synthesized the membrane-anchored and the secreted forms of the JEV E protein [80]. The form of the E protein or the route of DNA delivery did not affect the level of protection seen in immunized mice where approximately 60% protection was seen in an IC JEV challenge model. This was significantly lower than approximately 90% protection afforded by the commercial formalin-inactivated vaccine in mice.
+
+DNA vaccines expressing Japanese encephalitis virus
+nonstructural proteins
+In addition to the structural proteins, the Flavivirus nonstructural protein NS1, in spite of having no recognizable membrane anchor sequence, is expressed on the surface of infected cells, besides being secreted in the extracellular environment [81]. The NS1 protein of YF virus has been shown to elicit a protective immune response in mice [82]. Plasmid DNA expressing JEV NS1 protein has also been shown to elicit protective immunity in mice [81]. The NS1 plasmid immunization elicited a strong antibody response exhibiting cytolytic activity against JEV-infected cells in a complement-dependent manner, in spite of the fact that no Nt activity could be detected. The construct expressing a longer NS1 protein (NS1´), containing an extra 60 amino acid portion from the N-terminus of NS2A, failed to protect mice against a lethal JEV challenge [78,81]. Studies revealed that individually expressed NS1, but not NS1´, was readily secreted as a homodimer in large quantities, besides being expressed on the cell surface. This perhaps made it significantly more immunogenic than NS1´ which was likely to be retained in the endoplasmic reticulum rather than proceed along the secretory pathway.
+The Flavivirus nonstructural proteins NS3 and NS5 are involved in viral genome replication. It has been observed that the cell-mediated immune responses are directed mainly against the conserved nonstructural viral proteins. The NS3 and NS5 proteins are highly conserved amongst flaviviruses. However, plasmids encoding JEV nonstructural proteins NS3 and NS5 were found to be ineffective in raising protective immunity [78]. In another study, immunization of mice with plasmids encoding nonstructural proteins NS1, NS2A, NS2B, NS3 or NS5 induced CTL responses that provided only partial protection against an IP challenge with a lethal dose of JEV, whereas complete protection was observed in mice immunized with the plasmid encoding prM and E proteins [83]. This study indicated that the protection afforded by the prM/E-encoding DNA consisted of Nt antibodies that prevented virus dissemination from the peripheral site to the brain and that this antibody-mediated mechanism of protection was more efficient than the immunity induced by the plasmids encoding the nonstructural proteins that induce CTL responses. This observation strengthens the earlier conclusion that JEV-Nt antibody is the most critical protective component whose production is dependent on the presence of CD4+ T cells but independent of CD8+ T cells [84].
+Encouraged with the potential of DNA vaccines against JE, efforts are now focused on improving their immunogenicity. The authors have tried to address this issue in two ways. First, the authors have investigated the delivery of plasmid DNA in a particulate form to enhance its uptake by the professional APCs. The authors found that DNA adsorbed onto cationic microparticles demonstrated enhanced immunogenicity in mice [85]. The authors believe
+
+320
+
+Expert Rev. Anti Infect. Ther. 4(2), (2006)
+
+Japanese encephalitis
+
+that use of smaller cationic particles in the nano range would further enhance the efficacy of the candidate DNA vaccine. Indeed, mice immunized with prM and E-encoding plasmid adsorbed onto colloidal gold produced JEV-specific Nt antibodies that protected them against a highly lethal dose of JEV [86]. Second, the authors have investigated whether coadministration of JEV DNA vaccine and plasmids encoding the cytokines interleukin (IL)-2 or granulocyte­macrophage colony-stimulating factor (GM-CSF) in mice improved the immunogenicity of the DNA vaccine. The authors findings showed that ID coadministration of JEV DNA vaccine and plasmid-encoding GM-CSF using the gene gun enhanced anti-JEV antibody titers resulting in an increased level of protection in mice against lethal JEV challenge [87]. In addition, newly developed adjuvants such as vaxfectin have been used to enhance the immunogenicity of JEV DNA vaccine candidates [88]. Besides, in vivo electroporation of skeletal muscles was shown to enhance the immunogenicity of a JEV DNA vaccine in mice, although the technique may have practical limitations [89].
+Expert commentary & five-year view
+Despite the immense clinical significance of flaviviruses in general and JE in particular, there is, as yet, no chemoprophylactic or chemotherapeutic agent available for these viruses. Although there is some hope that antiviral agents may be found in the future, for the present, vaccination appears to be the only logical alternative. However, it should be borne in mind that JE cannot be eradicated fully as for diseases such as smallpox, polio or measles, where humans are the only host. At most, this zoonotic disease can be held at bay by the judicious application of vaccination of humans.
+Now that we are slowly moving away from the mouse brain and exploring other avenues of JE vaccine production, it is a good sign for the coming years. The two main factors that need to be addressed carefully while investigating the applicability of some of these alternative vaccines are their long-term
+
+efficacy and cost. Policy makers and health officials should bear in mind that the target populations for JE vaccines are often unable to afford high cost vaccines. This is an important reason why the mouse brain-derived vaccine could not be used for mass-scale vaccination.
+At present we have quite a few promising JE vaccine candidates that are in various stages of development. Vero cellderived inactivated JEV vaccine and YF virus-based recombinant vaccine ChimeriVax-JE are under clinical evaluations. JEV DNA vaccine has been evaluated in nonhuman primates and may soon enter clinical trials [90]. The coming 5 years, thus, will be an exciting period for JE vaccine development where an efficacious vaccine is likely to emerge. However, further research efforts need to be directed towards making these as single-dose vaccines with a long-lasting immune response, since, vaccines that could be administered by noninvasive means would be most desirable.
+Although the main body of evidence lays stress on the Nt antibody response as the yardstick for protection against JEV, at least two reports indicate that the cellular responses might also be relevant for protection [77,78]. It may, therefore, be important to investigate the human immune response relevant for protection against JEV. In fact, a recent study has addressed this issue by studying cell-mediated immune responses in healthy children with a history of subclinical JEV infection [91]. This study demonstrates that nonstructural proteins are frequently targeted by T cells in natural JEV infections and these may be efficacious supplements for the predominantly antibody-eliciting E-based JEV vaccines.
+Acknowledgements
+The authors wish to thank all those who generously provided us with their latest work on JE vaccine development. The authors' work is supported by grants from the Department of Biotechnology, Government of India and from the core grant of the National Institute of Immunology, New Delhi.
+
+Key issues
+· Japanese encephalitis (JE) caused by the Flavivirus JE virus (JEV) is a serious disease with high rates of mortality and morbidity. The disease is prevalent in most parts of Asia and has the potential to spread to hitherto unaffected areas such as the Australian continent.
+· A mouse brain-derived JE vaccine is currently available internationally which is effective, but is expensive and not completely safe. Thus, there is a need for an alternate vaccine that may be cheaper, safer and effective over a long duration.
+· An attenuated JE vaccine based on the SA 14­14­2 strain of JEV is in use in the People's Republic of China. This vaccine is produced in primary hamster kidney cells that are not approved for human vaccine production by the WHO.
+· Several candidate JE vaccines are in different stages of research and development. These include Vero cell-cultured inactivated JE vaccine, chimeric yellow fever/JEV vaccine and DNA vaccines.
+· JE cannot be completely eradicated, as it is a zoonotic disease. However, mass-scale vaccination of the human population can significantly reduce the disease incidence. Also, surveillance and vaccination should be recommended in countries near the traditional boundaries of JEV activity.
+
+www.future-drugs.com
+
+321
+
+Bharati & Vrati
+
+References
+Papers of special note have been highlighted as: · of interest ·· of considerable interest
+1 WHO. Japanese encephalitis vaccines. Wkly Epidemiol. Rec. 73, 337­344 (1998).
+· A concise yet in-depth account of Japanese encephalitis (JE) vaccines by the WHO.
+2 Hanna JN, Ritchie SA, Phillips DA et al. Japanese encephalitis in north Queensland, Australia, 1998. Med. J. Aust. 170, 533­536 (1999).
+3 van den Hurk AF, Johansen CA, Zborowski P et al. Mosquito host-feeding patterns and implications for Japanese encephalitis virus transmission in northern Australia and Papua New Guinea. Med. Vet. Entomol. 17, 403­411 (2003).
+4 Igarashi A, Tanaka M, Morita K et al. Detection of West Nile and Japanese encephalitis viral genome sequences in cerebrospinal fluid from acute encephalitis cases in Karachi, Pakistan. Microbiol. Immunol. 38, 827­830 (1994).
+5 Halstead SB, Jacobson J. Japanese encephalitis. Adv. Virus Res. 61, 103­138 (2003).
+6 Sumiyoshi H, Mori C, Fuke I et al. Complete nucleotide sequence of the Japanese encephalitis virus genome RNA. Virology 161, 497­510 (1987).
+7 Vrati S, Giri RK, Razdan A et al. Complete nucleotide sequence of an Indian strain of Japanese encephalitis virus: sequence comparison with other strains and phylogenetic analysis. Am. J. Trop. Med. Hyg. 61, 677­680 (1999).
+8 Chambers TJ, Hahn CS, Galler R et al. Flavivirus genome organization, expression and replication. Ann. Rev. Microbiol. 44, 649 (1990).
+9 Guirakhoo F, Bolin RA, Roehrig JT. The Murray Valley encephalitis virus prM protein confers acid resistance to virus particles and alters the expression of epitopes within the R2 domain of E glycoprotein. Virology 191, 921­931 (1992).
+10 Bray M, Lai CJ. Dengue virus premembrane and membrane proteins elicit a protective immune response. Virology 185, 505­508 (1991).
+11 Gould EA, Buckley A, Barrette ADT et al. Neutralizing (54 K) and non-neutralizing (54 K and 58 K) monoclonal antibodies against the structural and nonstructural yellow fever virus proteins confer immunity in mice. J. Gen. Virol. 67, 591­596 (1986).
+
+12 Hawkes RA, Roehrig JT, Hunt AR et al. Antigenic structure of the Murray Valley encephalitis virus E glycoprotein. J. Gen. Virol. 69, 1105­1109 (1988).
+13 Kimura-Kiroda J, Yasui K. Protection of mice against Japanese encephalitis virus by passive administration of monoclonal antibodies. J. Immunol. 141, 3606­3610 (1988).
+14 Lee JM, Crooks AJ, Stephenson JR. The synthesis and maturation of a nonstructural extracellular antigen from tickborne encephalitis virus and its relationship to the intracellular NS1 protein. J. Gen. Virol. 70, 335 (1989).
+15 Cardiff RD, Lund JK. Distribution of dengue-2 antigens by electron immunocytochemistry. Infect. Immun. 13, 1699­1709 (1976).
+16 Schlesinger JJ, Brandriss MW, Walsh EE. Protection of mice against dengue 2 virus encephalitis by immunization with the dengue 2 virus non-structural glycoprotein NS1. J. Gen. Virol. 68(Pt 3), 853­857 (1987).
+17 Schlesinger JJ, Foltzer M, Chapman S. The Fc portion of antibody to yellow fever virus NS1 is a determinant of protection against YF encephalitis in mice. Virology 192, 132­141 (1993).
+18 Nestorowicz A, Chambers TJ, Rice CM. Mutagenesis of the yellow fever virus NS2A/B cleavage site: effects on proteolytic processing, viral replication, and evidence for alternative processing of the NS2A protein. Virology 199, 114 (1994).
+19 Wengler G, Wengler G. Cell-associated West Nile flavivirus is covered with E+ pre-M protein heterodimers which are destroyed and reorganized by proteolytic cleavage during virus release. J. Virol. 63, 2521­2526 (1989).
+20 Murthy HM, Judge K, DeLucas L et al. Crystal structure of dengue virus NS3 protease in complex with a Bowman-Birk inhibitor: implications for flaviviral polyprotein processing and drug design. J. Mol. Biol. 301, 759­767 (2000).
+21 Bartelma G, Padmanabhan R. Expression, purification, and characterization of the RNA 5´-triphosphatase activity of dengue virus type 2 nonstructural protein 3. Virology 299, 122­132 (2002).
+22 Westaway EG, Mackenzie JM, Khromykh AA. Replication and gene function in Kunjin virus. Curr. Top. Microbiol. Immunol. 267, 323­351 (2002).
+23 Mandl CW, Heinz FX, Stockl E et al. Genome sequence of tick-borne encephalitis virus (Western subtype) and
+
+comparative analysis of nonstructural proteins with other flaviviruses. Virology 173, 291­301 (1989).
+24 Chen WR, Tesh RB, Rico-Hesse R. Genetic variation of Japanese encephalitis virus in nature. J. Gen. Virol. 71, 2915­2922 (1990).
+25 Chen WR, Rico-Hesse R, Tesh RB. A new genotype of Japanese encephalitis virus from Indonesia. Am. J. Trop. Med. Hyg. 47, 61­69 (1992).
+26 Uchil PD, Satchidanandam V. Phylogenetic analysis of Japanese encephalitis virus: envelope gene based analysis reveals a fifth genotype, geographic clustering, and multiple introductions of the virus into the Indian subcontinent. Am. J. Trop. Med. Hyg. 65, 242­251 (2001).
+27 Sohn YM. Japanese encephalitis immunization in South Korea: past, present, and future. Emerg. Infect. Dis. 6, 17­24 (2000).
+28 Ku CC, King CC, Lin CY et al. Homologous and heterologous neutralization antibody responses after immunization with Japanese encephalitis vaccine among Taiwan children. J. Med. Virol. 44, 122­131 (1994).
+29 Hoke CH, Nisalak A, Sangawhipa N et al. Protection against Japanese encephalitis by inactivated vaccines. N. Engl. J. Med. 319, 608­614 (1988).
+30 Plesner AM. Allergic reactions to Japanese encephalitis vaccine. Immunol. Allergy Clin. N. Am. 23, 665­697 (2003).
+31 Plesner AM, Ronne T. Allergic mucocutaneous reactions to Japanese encephalitis vaccine. Vaccine 15, 1239­1243 (1997).
+32 Sakaguchi M, Yoshida M, Kuroda W et al. Systemic immediate-type reactions to gelatin included in Japanese encephalitis vaccines. Vaccine 15, 121­122 (1997).
+33 Tsai TF, Chang G-J, Yu Y-X. Japanese encephalitis vaccines. In: Vaccines. Plotkin SA, Orenstein WA (Eds), WB Saunders Company, PA, USA, 672­710 (1999).
+34 Ao J, Yu F, Tang YS et al. Selection of a better immunogenic and highly attenuated live vaccine virus strain of Japanese encephalitis. II. Safety and immunogenicity of live vaccine SA 14­14­2 observed in inoculated children. Chin. J. Microbiol. Immunol. 3, 245­248 (1983).
+35 Tsai TF. New initiatives for the control of Japanese encephalitis by vaccination: minutes of a WHO/CVI meeting, Bangkok, Thailand, 13­15 October 1998. Vaccine 18(Suppl. 2), 1­25 (2000).
+· A report of a WHO meeting to review the status of new JE vaccine candidates.
+
+322
+
+Expert Rev. Anti Infect. Ther. 4(2), (2006)
+
+Japanese encephalitis
+
+36 Xin YY, Ming ZG, Peng GY et al. Safety of a live-attenuated Japanese encephalitis virus vaccine (SA14­14­2) for children. Am. J. Trop. Med. Hyg. 39, 214­217 (1988).
+37 Liu ZL, Hennessy S, Strom BL et al. Shortterm safety of live attenuated Japanese encephalitis vaccine (SA14­14­2): results of a randomized trial with 26,239 subjects. J. Infect. Dis. 176, 1366­1369 (1997).
+38 Bista MB, Banerjee MK, Shin SH et al. Efficacy of single-dose SA 14­14­2 vaccine against Japanese encephalitis: a case control study. Lancet 358, 791­795 (2001).
+· This study unequivocally demonstrated the efficacy of the SA 14­14­2 strain of JE virus (JEV) as a candidate JE vaccine.
+39 Sohn YM, Park MS, Rho HO et al. Primary and booster immune responses to SA14­14­2 Japanese encephalitis vaccine in Korean infants. Vaccine 17, 2259­2264 (1999).
+40 Montagnon BJ, Vincent-Falquet JC, Saluzzo JF. Experience with Vero cells at Pasteur Merieux Connaught. Dev. Biol. Stand. 98, 137­140 (1999).
+41 Srivastava AK, Putnak JR, Lee SH et al. A purified inactivated Japanese encephalitis virus vaccine made in Vero cells. Vaccine 19, 4557­4565 (2001).
+· The first report on the use of Vero cells for JE vaccine production.
+42 Sugawara K, Nishiyama K, Ishikawa Y et al. Development of Vero cell-derived inactivated Japanese encephalitis vaccine. Biologicals 30, 303­314 (2002).
+· Has details of Vero cell technology for JE vaccine production at the industrial scale.
+43 Kuzuhara S, Nakamura H, Hayashida K et al. Non-clinical and phase I clinical trials of a Vero cell-derived inactivated Japanese encephalitis vaccine. Vaccine 21, 4519­4526 (2003).
+·· Shows the Vero cell-derived JE vaccine to be safe and efficacious in humans.
+44 Appaiahgari MB, Vrati S. Immunogenicity and protective efficacy in mice of a formaldehyde-inactivated Indian strain of Japanese encephalitis virus grown in Vero cells. Vaccine 22, 3669­3675 (2004).
+· This report describing the use of an Indian strain of JEV for the Vero cellderived JE vaccine indicates that formaldehyde inactivation of JEV at 22°C, which is more convenient, is superior to that achieved at 4°C.
+45 Seif SA, Morita K, Matsuo S et al. Finer mapping of neutralizing epitope(s) on the C-terminal of Japanese encephalitis E protein expressed in recombinant Escherichia coli system. Vaccine 13, 1515­1521 (1995).
+
+46 Seif SA, Morita K, Igarashi A. A 27 amino acid coding region of JE virus E protein expressed in E. coli as fusion protein with glutathione-S-transferase elicit neutralizing antibody in mice. Virus Res. 43, 91­96 (1996).
+47 Saini M, Vrati S. A Japanese encephalitis virus peptide present on Johnson grass mosaic virus-like particles induces virusneutralizing antibodies and protects mice against lethal challenge. J. Virol. 77, 3487­3494 (2003).
+48 Wu SC, Yu CH, Lin CW et al. The domain III fragment of Japanese encephalitis virus envelope protein: mouse immunogenicity and liposome adjuvanticity. Vaccine 21, 2516­2522 (2003).
+49 Rauthan M, Kaur R, Appaiahgari MB et al. Oral immunization of mice with Japanese encephalitis virus envelope protein synthesized in Escherichia coli induces antiviral antibodies. Microbes Infect. 6, 1305­1311 (2004).
+50 Matsuura Y, Miyamoto M, Sato T et al. Characterization of Japanese encephalitis virus envelope protein expressed by recombinant baculovirus. Virology 173(2), 674­682 (1989).
+51 McCown J, Cochran M, Putnak R et al. Protection of mice against lethal Japanese encephalitis with a recombinant baculovirus vaccine. Am. J. Trop. Med. Hyg. 42, 491­499 (1990).
+52 Yang DK, Kweon CH, Kim BH et al. Immunogenicity of baculovirus expressed recombinant proteins of Japanese encephalitis virus in mice. J. Vet. Sci. 6, 125­133 (2005).
+53 Konishi E, Pincus S, Paoletti E et al. Mice immunized with a subviral particle containing the Japanese encephalitis virus prM/M and E proteins are protected from lethal JEV infection. Virology 188, 714­720 (1992).
+54 Konishi E, Win KS, Kurane I et al. Particulate vaccine candidate for Japanese encephalitis induces long-lasting virusspecific memory T lymphocytes in mice. Vaccine 15, 281­286 (1997).
+55 Konishi E, Fujii A, Mason PW. Generation and characterization of a mammalian cell line continuously expressing Japanese encephalitis virus subviral particles. J. Virol. 75, 2204­2212 (2001).
+56 Hunt AR, Cropp CB, Chang GJ. A recombinant particulate antigen of Japanese encephalitis virus produced in stably-transformed cells is an effective noninfectious antigen and subunit immunogen. J. Virol. Methods 97, 133­149 (2001).
+
+57 Kojima A, Yasuda A, Asanuma H et al. Stable high-producer cell clone expressing virus-like particles of the Japanese encephalitis virus E protein for a secondgeneration subunit vaccine. J. Virol. 77, 8745­8755 (2003).
+58 Konishi E, Pincus S, Beneditto ALF et al. Comparison of protective immunity elicited by recombinant vaccinia viruses that synthesize E or NS1 of Japanese encephalitis virus. Virology 185, 401­410 (1991).
+59 Jan LR, Yang CS, Henchal LS et al. Increased immunogenicity and protective efficacy in outbred and inbred mice by strategic carboxyl-terminal truncation of Japanese encephalitis virus envelope glycoprotein. Am. J Trop. Med. Hyg. 48, 412­423 (1993).
+60 Tartaglia J, Perkus ME, Taylor J et al. NYVAC: a highly attenuated strain of vaccinia virus. Virology 188, 217­232 (1992).
+61 Konishi E, Pincus S, Paoletti E et al. A highly attenuated host range-restricted vaccinia virus strain, NYVAC, encoding the prM, E, and NS1 genes of japanese encephalitis virus prevents JEV viremia in swine. Virology 190, 454­458 (1992).
+62 Nam JH, Wyatt LS, Chae SL et al. Protection against lethal Japanese encephalitis virus infection of mice by immunization with the highly attenuated MVA strain of vaccinia virus expressing JEV prM and E genes. Vaccine 17, 261­268 (1999).
+63 Taylor J, Trimarchi C, Weinberg R et al. Efficacy studies on a canarypox-rabies recombinant virus. Vaccine 9, 190­193 (1991).
+64 Konishi E, Pincus S, Paoletti E et al. Avipox virus-vectored Japanese encephalitis virus vaccines: use as vaccine candidates in combination with purified subunit immunogens. Vaccine 12, 633­638 (1994).
+65 Raengsakulrach B, Nisalak A, Gettayacamin M et al. Safety, immunogenicity, and protective efficacy of NYVAC­JEV and ALVAC­JEV recombinant Japanese encephalitis vaccines in rhesus monkeys. Am. J. Trop. Med. Hyg. 60, 343­349 (1999).
+66 Kanesa-Thasan N, Smucny JJ, Hoke CHJ et al. Safety and immunogenicity of NYVAC­JEV and ALVAC­JEV attenuated recombinant Japanese encephalitis viruspoxvirus vaccines in vaccinia-nonimmune and vaccinia-immune humans. Vaccine 19, 483­491 (2000).
+67 Appaiahgari MB, Saini M, Rauthan M, Jyoti, Vrati S. Immunization with recombinant adenovirus synthesizing
+
+www.future-drugs.com
+
+323
+
+Bharati & Vrati
+
+secretory form of Japanese encephalitis virus envelope protein protects adenovirusexposed mice against lethal encephalitis. Microbes Infect. 8, 92­104 (2006). · Demonstrated the potential of an adenovirus 5 recombinant expressing JEV E protein as a JE vaccine candidate.
+68 Chambers TJ, Nestorowicz A, Mason PW et al. Yellow fever/Japanese encephalitis chimeric viruses: construction and biological properties. J. Virol. 73, 3095­3101 (1999).
+69 Guirakhoo F, Zhang ZX, Chambers TJ et al. Immunogenecity, genetic stability, and protective efficacy of a recombinant chimaeric yellow fever-Japanese encephalitis virus (ChimeriVax-JE) as a live, attenuated vaccine candidate against Japanese encephalitis. Virology 257, 363­372 (1999).
+70 Monath TP, Levenbook I, Soike K et al. Chimeric yellow fever virus 17D-Japanese encephalitis virus vaccine: dose-response effectiveness and extended safety testing in rhesus monkeys. J. Virol. 74, 1742­1751 (2000).
+71 Arroyo J, Guirakhoo F, Fenner S et al. Molecular basis for attenuation of neurovirulence of a yellow fever virus/Japanese encephalitis virus chimera vaccine (ChimeriVax-JE). J. Virol. 75, 934­942 (2001).
+72 Monath TP, McCarthy K, Bedford P et al. Clinical proof of principle for ChimeriVax: recombinant live, attenuated vaccines against flavivirus infections. Vaccine 20, 1004­1018 (2002).
+73 Monath TP, Guirakhoo F, Nichols R et al. Chimeric live, attenuated vaccine against Japanese encephalitis (ChimeriVax-JE): Phase 2 clinical trials for safety and immunogenicity, effect of vaccine dose and schedule, and memory response to challenge with inactivated Japanese encephalitis antigen. J. Infect. Dis. 188, 1213­1230 (2003).
+·· Demonstrated the efficacy of the ChimeriVax-JE vaccine in a Phase II clinical evaluation.
+74 Konishi E, Yamaoka M, Khin SW et al. Induction of protective immunity against Japanese encephalitis in mice by immunization with a plasmid encoding Japanese encephalitis virus premembrane and envelope genes. J. Virol. 72, 4925­4930 (1998).
+· First report of a plasmid DNA vaccine candidate against JEV.
+
+75 Konishi E, Yamaoka M, Kurane I et al. Japanese encephalitis DNA vaccine candidates expressing premembrane and envelope genes induce virus-specific memory B cells and long-lasting antibodies in swine. Virology 268, 49­55 (2000).
+76 Chang GJ, Hunt AR, Davis B. A single intramuscular injection of recombinant plasmid DNA induces protective immunity and prevents Japanese encephalitis in mice. J. Virol. 74, 4244­4252 (2000).
+77 Ashok MS, Rangarajan PN. Immunization with plasmid DNA encoding the envelope glycoprotein of Japanese encephalitis virus confers significant protection against intracerebral viral challenge without inducing detectable antiviral antibodies. Vaccine 18, 68­75 (1999).
+78 Chen HW, Pan CH, Liau MY et al. Screening of protective antigens of Japanese encephalitis virus by DNA immunization: a comparative study with conventional viral vaccines. J. Virol. 73, 10137­10145 (1999).
+79 Konishi E, Yamaoka M, Khin SW et al. The anamnestic neutralizing antibody response is critical for protection of mice from challenge following vaccination with a plasmid encoding the Japanese encephalitis virus premembrane and envelope genes. J. Virol. 73, 5527­5534 (1999).
+80 Kaur R, Sachdeva G, Vrati S. Plasmid DNA immunization against Japanese encephalitis virus: immunogenicity of membrane-anchored and secretory envelope protein. J. Infect. Dis. 185, 1­12 (2002).
+81 Lin YL, Chen LK, Liao CL et al. DNA immunization with Japanese encephalitis virus nonstructural protein NS1 elicits protective immunity in mice. J. Virol. 72, 191­200 (1998).
+82 Schlesinger JJ, Brandriss MW, Cropp CB et al. Protection against yellow fever in monkeys by immunization with yellow fever virus nonstructural protein NS1. J. Virol. 60, 1153­1155 (1986).
+83 Konishi E, Ajiro N, Nukuzuma C et al. Comparison of protective efficacies of plasmid DNAs encoding Japanese encephalitis virus proteins that induce neutralizing antibody or cytotoxic T lymphocytes in mice. Vaccine 21, 3675­3683 (2003).
+84 Pan CH, Chen HW, Huang HW et al. Protective mechanisms induced by a Japanese encephalitis virus DNA vaccine:
+
+requirement for antibody but not CD8(+) cytotoxic T-cell responses. J. Virol. 75, 11457­11463 (2001).
+85 Kaur R, Rauthan M, Vrati S. Immunogenicity in mice of a cationic microparticle-adsorbed plasmid DNA encoding Japanese encephalitis virus envelope protein. Vaccine 22, 2776­2782 (2004).
+86 Zhao Z, Wakita T, Yasui K. Inoculation of plasmids encoding Japanese encephalitis virus PrM-E proteins with colloidal gold elicits a protective immune response in BALB/c mice. J. Virol. 77, 4248­4260 (2003).
+87 Bharati K, Appaiahgari MB, Vrati S. Effect of cytokine-encoding plasmid delivery on immune response to Japanese encephalitis virus DNA vaccine in mice. Microbiol. Immunol. 49, 349­353 (2005).
+88 Nukuzuma C, Ajiro N, Wheeler CJ et al. Enhancing effect of vaxfectin on the ability of a Japanese encephalitis DNA vaccine to induce neutralizing antibody in mice. Viral Immunol. 16, 183­189 (2003).
+89 Wu CJ, Lee SC, Huang HW et al. In vivo electroporation of skeletal muscles increases the efficacy of Japanese encephalitis virus DNA vaccine. Vaccine 22, 1457­1464 (2004).
+90 Tanabayashi K, Mukai R, Yamada A et al. Immunogenicity of a Japanese encephalitis DNA vaccine candidate in cynomolgus monkeys. Vaccine 21, 2338­2345 (2003).
+91 Kumar P, Krishna VD, Sulochana P et al. Cell-mediated immune responses in healthy children with a history of subclinical infection with Japanese encephalitis virus: analysis of CD4+ and CD8+ T cell target specificities by intracellular delivery of viral proteins using the human immunodeficiency virus Tat protein transduction domain. J. Gen. Virol. 85, 471­482 (2004).
+Affiliations
+· Kaushik Bharati, PhD National Institute of Immunology, Virology laboratory, Aruna Asaf Ali Marg, New Delhi, 110 067, India Tel.: +91 112 670 3669 Fax: +91 112 616 2125 kaushik@nii.res.in
+· Sudhanshu Vrati, PhD National Institute of Immunology, Virology laboratory, Aruna Asaf Ali Marg, New Delhi, 110 067, India Tel.: +91 112 670 3677 Fax: +91 112 616 2125 vrati@nii.res.in
+
+324
+
+Expert Rev. Anti Infect. Ther. 4(2), (2006)

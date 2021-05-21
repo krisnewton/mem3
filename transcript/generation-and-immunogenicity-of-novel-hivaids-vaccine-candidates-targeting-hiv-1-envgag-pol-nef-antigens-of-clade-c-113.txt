@@ -1,0 +1,941 @@
+Vaccine 25 (2007) 1969­1992
+Generation and immunogenicity of novel HIV/AIDS vaccine candidates targeting HIV-1 Env/Gag-Pol-Nef antigens of clade C
+Carmen Elena Go´mez a, Jose Luis Na´jera a, Victoria Jime´nez a, Kurt Bieler b, Jens Wild b, Linda Kostic c, Shirin Heidari c, Margaret Chen c, Marie-Joelle Frachette d,
+Giuseppe Pantaleo e, Hans Wolf b, Peter Liljestro¨m c, Ralf Wagner b, Mariano Esteban a,
+a Department of Molecular and Cellular Biology, Centro Nacional de Biotecnolog´ia, CSIC, Ciudad Universitaria Cantoblanco, 28049 Madrid, Spain
+b Institute of Medical Microbiology and Hygiene, University of Regensburg, Germany c Department of Microbiology, Tumor and Cell Biology, Karolinska Institut, 17177 Stockholm, Sweden
+d Sanofi Pasteur, 1541 Avenue Marcel Merieux, 69280 Marcy Le´toile, France e Laboratory of AIDS Immunopathogenesis, Department of Medicine, Centre Hospitalier Universitaire Vaudois,
+Av. De Beaumont 29-Hopital Beaumont, 1011 Lausanne, Switzerland
+Received 25 September 2006; received in revised form 6 November 2006; accepted 23 November 2006 Available online 6 December 2006
+Abstract
+Recombinants based on the attenuated vaccinia virus strains MVA and NYVAC are considered candidate vectors against different human diseases. In this study we have generated and characterized in BALB/c and in transgenic HHD mice the immunogenicity of two attenuated poxvirus vectors expressing in a single locus (TK) the codon optimized HIV-1 genes encoding gp120 and Gag-Pol-Nef (GPN) polyprotein of clade C (referred as MVA-C and NYVAC-C). In HHD mice primed with either MVA-C or NYVAC-C, or primed with DNA-C and boosted with the poxvirus vectors, the splenic T cell responses against clade C peptides spanning gp120/GPN was broad and mainly directed against Gag-1, Env-1 and Env-2 peptide pools. In BALB/c mice immunized with the homologous or the heterologous combination of poxvirus vectors or with Semliki forest virus (SFV) vectors expressing gp120/GPN, the immune response was also broad but the most immunogenic peptides were Env-1, GPN-1 and GPN-2. Differences in the magnitude of the cellular immune responses were observed between the poxvirus vectors depending on the protocol used. The specific cellular immune response triggered by the poxvirus vectors was Th1 type. The cellular response against the vectors was higher for NYVAC than for MVA in both HHD and BALB/c mice, but differences in viral antigen recognition between the vectors was observed in sera from the poxvirus-immunized animals. These results demonstrate the immunogenic potential of MVA-C and NYVAC-C as novel vaccine candidates against clade C of HIV-1. © 2006 Elsevier Ltd. All rights reserved.
+Keywords: HIV/AIDS; Clade C vaccine; Poxvirus vectors; MVA; NYVAC; DNA vectors; SFV vectors; Immune response; Mouse models
+
+1. Introduction
+Since the discovery of AIDS in 1981, the global spread of HIV has reached pandemic proportions. The number of individuals living with the human immunodeficiency virus (HIV) grew to unprecedented heights in 2005, with an esti-
+ Corresponding author. Tel.: +34 91 5854553; fax: +34 91 5854506. E-mail address: mesteban@cnb.uam.es (M. Esteban).
+0264-410X/$ ­ see front matter © 2006 Elsevier Ltd. All rights reserved. doi:10.1016/j.vaccine.2006.11.051
+
+mated 40.3 million people infected worldwide, of which 4.9 million people contracted the disease in 2005. Sub-Saharan Africa continued to bear the major brunt of the epidemic with 25.8 million people living with the virus, accounting for about two-thirds (64%) of all reported HIV/AIDS cases (http://www.unaids.org). Within this current HIV pandemic, geographic distribution of HIV subtypes has shown that HIV1 clade C (HIV-1C) is the most prevalent subtype causing more than half of all global infections and 94% of infections in
+
+1970
+
+C.E. Go´mez et al. / Vaccine 25 (2007) 1969­1992
+
+southern Africa [1,2]. The high prevalence rates of HIV-1C in sub-Saharan Africa and the increasing incidence of this subtype and HIV-1C recombinants in rapidly growing epidemics in India and China, respectively, underscore the vital importance of developing efficacious vaccines that target HIV-1C.
+Despite the present understanding of several aspects of HIV-1C, the development of effective vaccine targeting this clade has provided unprecedented scientific challenges mainly due to some unique features of the biology of HIV1C infections. Some of these characteristics include: (i) high levels of intra-subtype viral diversity [3,4]; (ii) high viral loads [5]; (iii) preferential CCR5 co-receptor tropism [6,7]; (iv) a number of unique subtype signatures across the viral genome [4,8]. In spite of the difficulties that are concerned in generating an effective HIV-1C vaccine due to these and other more non-subtype specific attributes of HIV-1, several groups are committed to the development and evaluation of such vaccines.
+It is generally accepted that for prophylactic HIV-1 vaccines to achieve protection, they will have to induce both humoral and cell-mediated immune responses. While efforts focused towards envelope-based humoral immunity inducing vaccines are still on-going [9], they have been hampered by the inaccessibility and instability of neutralizing epitopes on primary HIV isolates [10,11]. In view of that, recent vaccine approaches have focused on the induction of cellular immune responses [12­14]. Evidence for the role of CD8+ T cells in the control of virus replication includes temporal correlation between the appearance of HIV-specific CD8+T cells and the decline of primary viremia [15,16], the fact that several HLA class I alleles (HLA-B57, HLA-B27, HLA-B63, HLA-B*1503) are associated with slow disease progression [17,18], the early selection of CTL escape viral mutants during primary infection [19,20] and the rapid increase of viral loads in macaques infected with SIV after experimental depletion of CD8+T cells [21­23]. A variety of vaccines have been developed to induce cell-mediated immunity. Among them, naked DNA and live vectored recombinant vaccines have extensively proved their immunological properties [24­27]. The two strains of vaccinia virus, MVA and NYVAC are currently being examined as recombinant vaccines against HIV [28] (see www.eurovacc.org). With several exceptions, most pre-clinical HIV-1C vaccines have primarily used plamid DNA as vector platform, while clinically tested HIV-1C vaccines have used both DNA and recombinant viral vector system [29].
+In view of the need for the development of an HIV1 clade C vaccine, here we describe the construction and in vitro characterization of two novel attenuated poxvirus vectors MVA and NYVAC expressing four HIV-1 antigens (Env, Gag, Pol and Nef) from clade C in a single locus (the thymidine kinase region) of the viral genome. The viral vectors are referred as MVA-C and NYVAC-C, and have been designed to express gp120 as a cell released product and GPN as an intracellular polyprotein lacking regions involved in immunosupression. In addition, we have com-
+
+pared in transgenic HHD and in BALB/c mice how MVA-C and NYVAC-C activate specific cellular immune responses against peptide pools spanning the heterologous antigens when they were administered using different prime/boost vaccination approaches. Our findings showed that in cultured cells both recombinants efficiently express the four HIV1 antigens in a stable manner, but in contrast to MVA-C, NYVAC-C induced potent apoptosis. In HHD mice primed with either MVA-C or NYVAC-C, or primed with DNA-C and boosted with the poxvirus vectors, the splenic T cell responses against clade C peptides spanning gp120/GPN was broad and mainly directed against Gag-1, Env-1 and Env-2 pools. However, in BALB/c mice immunized with homologous and heterologous combination of either the poxvirus vectors or Semliki forest virus (SFV) vectors expressing gp120/GPN, the Env-1, GPN-1 and GPN-2 clade C peptide pools were the most immunogenic. Differences in the magnitude of the specific cellular immune responses were induced by the two poxvirus vectors, particularly in the prime/boost immunization approaches. Our findings highlighted the immunological relevance of NYVAC-C and MVA-C as potential vaccine candidates against HIV/AIDS.
+2. Materials and methods
+2.1. Cells and poxviruses
+Cells were maintained in a humidified air 5% CO2 atmosphere at 37 C. Primary chicken embryo fibroblast cells (CEF) and human cells (HeLa) were grown in Dulbecco's modified Eagle's medium (DMEM) supplemented with 10% fetal calf serum (FCS). The EL4gpnHHD cells expressing both the HIV-1 Gag-Pol-Nef polyprotein from clade B and the chimeric human (-1, -2 and mouse -3) HLA-A2.1 heavy chain covalently linked to the human 2m light chain, denominated HHD molecule and the RMAS-HHD cells, were kindly provided by Arnaud Didierlaurent (Centre Hospitalier Universitaire Vaudois, Lausanne). They were grown in RPMI 1640 supplemented with 10% FCS. The poxvirus strains used in this work included: modified vaccinia virus Ankara (MVA) obtained after 586 passages in CEF cells (derived from clone F6 at passage 585, kindly provided by G. Sutter, Germany), the genetically attenuated vaccinia-based vector NYVAC (generated from the vaccinia virus Copenhagen strain by selected deletion of 18 viral genes [30]) and the recombinant NYVAC-C expressing the gp120 and GagPol-Nef proteins from HIV-1CN54 (both parental NYVAC and recombinant NYVAC-C viruses provided by SanofiPasteur). The parental and recombinant NYVAC and MVA viruses were grown in primary chicken embryo fibroblast (CEF) cells, similarly purified through two 45% (w/v) sucrose cushions, and titrated by immunostaining plaque assay as previously described [31]. The titration of the different viruses was performed in CEF at least three times.
+
+C.E. Go´mez et al. / Vaccine 25 (2007) 1969­1992
+
+1971
+
+2.2. DNA vectors and codon optimized genes
+The RNA- and codon-optimized HIV-1CN54 gp120 and HIV-1CN54 Gag-Pol-Nef (GPN) gene constructs were designed and synthesized by GENEART GmbH (Regensburg, Germany). To generate the final DNA vaccine constructs, the CN54gp120 and CN54GPN genes were cloned into the pcDNA3.1 (Invitrogen, UK). Plasmids were purified using Maxi-Prep purification kits (Qiagen, Hilden, Germany) and diluted for injection in endotoxin-free phosphate buffered saline (PBS).
+2.3. Construction of plasmid transfer vector
+Plasmids pMA60gp120C/gagpolnefC-14,15 and pLZAW1 were provided by Sanofi-Pasteur. A 6.047 kbp DNA fragment containing the two synthetic early/late (E/L) promoters [32] in a back-to-back orientation individually driving a codon optimized gp120 and gagpolnef genes of HIV-1 clade C (CN54) was excised with EcoRV from plasmid pMA60gp120C/gagpolnefC-14,15, modified by incubation with Klenow DNA polymerase to generate blunt ends, and cloned into pLZAW1 vector (previously digested with restriction endonuclease AscI, modified by incubation with Klenow, and dephosphorylated by incubation with Alkaline Phosphatase, Calf Intestinal (CIP)) generating the plasmid transfer vector pLZAW1gp120C/gagpolnef-C-14 (Fig. 1). The resulting plasmid directs the insertion of the foreign genes into the TK locus of MVA genome and allows the generation of a recombinant virus without selectable marker.
+2.4. Construction of the recombinant virus MVA-C
+CEF from 11-day old SPF eggs were infected with MVA at a multiplicity of 0.05 PFU/cell and then transfected with 10 g DNA of plasmid pLZAW1gp120C/gagpolnef-C-14 using lipofectamine reagent according to the manufacturer's protocol (Invitrogen, San Diego, CA). After 72 h post infection the cells were harvested, sonicated and used for recombinant virus screening. Recombinant MVA viruses containing the CN54gp120 and CN54Gag-Pol-Nef genes from clade C, and transiently co-expressing the -gal marker gene (MVA-C (X-gal+)), were selected by consecutive rounds of plaque purification in CEF cells stained with 5-bromo4-chloro-3-indolyl -galactoside (X-Gal) (300 g/mL). In the following plaque purification steps, recombinant MVA viruses containing the CN54gp120 and CN54Gag-Pol-Nef genes and having deleted the -gal gene (by homologous recombination between the TK left arm and the short TK left arm repeat that are flanking the marker) were isolated by two additional consecutive rounds of plaque purification screening for non-staining viral foci in CEF cells in the presence of X-Gal (300 g/mL). In each round of purification the isolated plaques were expanded in CEF cells for 3 days, and the crude virus obtained were used for the next plaque purification
+
+Table 1 DNA sequence of primers used in the PCR analysis of MVA-C recombinant virus
+
+Oligos
+
+Sequence
+
+Position
+
+TK-L
+
+5 TGATTAGTTTGATGCGATTC 3
+
+342­361
+
+gp120-1213 gp120-1050 gp120-10
+
+5 ATCATCACCATCCCCTGC 3 5 GTCTTGTTCTGGAAGTGC 3 5 TCGAGCATGGACAGGGCC 3
+
+929­946 1092­1109 2132­2149
+
+GPN-802
+
+5 TGGGTTTAAACAAGATCG 3
+
+3048­3064
+
+GPN-2198 GPN-2018
+
+5 TGGGTCCTCTTGTTCAGC 3 5 CAAGGTGAAGCAGTGGCC 3
+
+4443­4460 4263­4280
+
+GPN-3820 GPN-4000 TK-R
+
+5 CGGCCTTGCCGATCTTGG 3 5 CCGACAAGAGCGAGAGCG 3 5 TGTCCTTGATACGGCAG 3
+
+6065­6082 6245­6262 6823­6839
+
+Their positions in the DNA sequence of MVA-C within the TK viral locus are represented.
+
+round. The resulting MVA-C virus was purified through two 45% (w/v) sucrose cushions and titrated by immunostaining in CEF cells. Purity of the recombinant virus was confirmed by PCR with primers spanning the junction and internal regions of the inserts and by DNA sequence analysis.
+
+2.5. PCR analysis of recombinant MVA-C
+Viral DNA was extracted by the method of SDSProteinase K-Phenol from CEF cells infected at 5 PFU/cell with the recombinant MVA-C virus. Different set of primers annealing in the TK flanking sequences and in internal regions of the inserted genes were used for PCR analysis (see Table 1). The amplifications were performed with Platinum Taq DNA polymerase (Invitrogen, San Diego, CA), and the conditions were optimized for each set of primers. DNA extracted from CEF cells infected either with MVA-WT or with NYVAC-C viruses were used as negative and positive controls respectively.
+
+2.6. Time-course expression of CN54gp120 and CN54GPN proteins from MVA-C and NYVAC-C
+CEF cells grown in 12 well-plates were infected at 5 PFU/cell with the recombinants MVA-C and NYVAC-C. At 6, 18 and 24 h post infection (h pi), cells were collected and centrifuged at 1500 rpm for 10 min. The supernatant (S) was removed and concentrated by speed-vacuum. Cellular pellets (P) were lysed in cold buffer (50 mM Tris­HCl pH 8, 0.5 M NaCl, 10% NP-40, 1% SDS). The supernatant and pellet samples, both containing equal amounts of protein (12 g), were run on 10% SDS-PAGE. The expression of CN54gp120 and CN54GPN proteins was visualized following Western blotting using polyclonal anti-gp120 antibodies and rabbit polyclonal anti-gag p24 serum (ARP 432, NIBSC, Centralised Facility for AIDS reagent, UK), respectively. Detection of cellular -actin protein was used as an internal loading control.9
+
+1972
+
+C.E. Go´mez et al. / Vaccine 25 (2007) 1969­1992
+
+Fig. 1. Scheme for the construction of the transfer vector pLZAW1gp120C/gagpolnef-C-14. A 6.047 kbp DNA fragment containing the two synthetic early/late (E/L) promoters in a back-to-back orientation individually driving a codon optimized CN54gp120 and CN54GPN genes of HIV-1 clade C was excised with EcoRV from plasmid pMA60gp120C/gagpolnefC-14,15, modified by incubation with Klenow DNA polymerase to generate blunt ends, and cloned into pLZAW1 vector (previously digested with restriction endonuclease AscI, modified by incubation with Klenow, and dephosphorylated by incubation with Alkaline Phosphatase, Calf Intestinal (CIP)) generating the plasmid transfer vector pLZAW1gp120C/gagpolnef-C-14. The resulting plasmid directs the insertion of the foreign genes into the thymidine (TK) locus of MVA genome and allows the generation of a recombinant virus without the selectable marker.
+
+2.7. Genetic stability of recombinant poxviruses
+Monolayers of CEF cells were infected at 0.05 PFU/cells with MVA-C or NYVAC-C recombinants. At 72 h pi cells were collected by scrapping. After three freeze­thaw cycles and brief sonication, the cellular extract was centrifuged at 1500 rpm for 5 min and the supernatant was used for a new round of infection at 0.05 PFU/cell. The same procedure was repeated until passage 10. Expression of CN54gp120 and CN54GPN proteins at all passages was detected by Western blot and immunostaining assays
+
+using anti-gp120 and anti-gag p24 polyclonal antibodies, respectively.
+2.8. Analysis of poxvirus growth
+To determine virus-growth profiles, monolayers of CEF cells grown in 6 well tissue culture plates were infected at 0.01 PFU/cell with MVA-C or NYVAC-C recombinants. Following virus adsorption for 60 min at 37 C, the inoculum was removed. The infected cells were washed twice with DMEM medium without serum, and incubated with
+
+C.E. Go´mez et al. / Vaccine 25 (2007) 1969­1992
+
+1973
+
+fresh DMEM containing 2% of FCS at 37 C in a 5% CO2 atmosphere. At 24, 48 and 72 h pi, cells were removed by scraping, centrifuged at 1500 rpm for 5 min and both pellet and supernatant were collected. The supernatants were stored at 4 C for no more than 48 h before virus titration. The pellet was resuspended in serum-free medium at 20 × 106 cells/mL, freeze-thawed three times, sonicated, and centrifuged at 1500 rpm for 5 min. The supernatant was collected and referred as cell lysates. Virus titers in supernatants and cell lysates were determined by immunostaining assay in CEF cells using rabbit polyclonal antibodies against vaccinia virus (VV) strain WR.
+2.9. Phase contrast microscopy and measurement of poxvirus induced apoptosis
+To evaluate the cytopathic effects (CPE) under nonpermissive conditions, HeLa cells were seeded into six-well tissue culture plates and grown to confluence. The cells (duplicate wells) were infected at 5 PFU/cell with MVA-C or NYVAC-C recombinants and cell morphology visualized by phase contrast microscopy at 24 h pi.
+To evaluate apoptosis, the cleavage of poly ADP-ribose polymerase (PARP) was analyzed by Western blot at 4, 8 and 16 h post-infection in extracts from HeLa cells infected with MVA-C or NYVAC-C recombinants at 5 PFU/cell. Rabbit polyclonal anti-Human PARP was supplied by Cell Signaling and the monoclonal antiboby against -actin was supplied by Sigma. In addition, apoptosis levels were measured using the cell death detection enzyme-linked immunosorbent assay (ELISA) kit (Roche) according to manufacturer's instructions. This assay is based on the quantitative sandwich enzyme immunoassay principle, and uses mouse monoclonal antibodies directed against DNA and histones to estimate the amount of cytoplasmic histone-associated DNA fragments.
+2.10. Construction of the SFV expressing HIV-1 clade C Gag/Pol/Nef or Env
+For construction of pSFV4.2-HIVC-Env/syngp120 (clade C, CN54), the sequence encoding the HIV-1 clade C syngp120 was isolated from pCR-Script-syngp120 as a NotIApaI fragment and ligated into the pSFV4.2 expression vector [33]. For production of pSFV4.2-HIVC-Gag-Pol-Nef, the sequence encoding Gag-Pol-Nef was isolated as a KpnI­XhoI fragment from pScript-synGag-Pol-Nef. The fragment was first inserted into the pET43 transfer plasmid and thereafter excised as an XhoI­SmaI fragment for insertion into the pSFV4.2 vector. For generation of recombinant particles, RNAs from the two SFV recombinant plasmids were synthesized in vitro and packaged into SFV particles using the two-helper RNA system described elsewhere [33,34]. The recombinant SFV particles were harvested and purified by ultracentrifugation through a 20% sucrose cushion. Indirect immunofluorescence of infected BHK cells were performed to determine the titre of the recombinant virus stocks
+
+[33,34]. Antigen expression was verified in infected BHK-21 cells by metabolic labelling with [35S]methionine and further confirmed by immunoprecipitation as described previously [35]. Immunoprecipitation and indirect immunofluorescence assays for analysis of Gag-Pol-Nef were performed with mAbs against p24 (EVA repository reagent Mab HIV-1 p55/p24 ARP313 (EH12E1)). For the analysis of expression of the syngp120, polyclonal antibodies against gp120 were used.
+2.11. Peptides
+The HIV-1 peptide pools Gag-1, Gag-2, Env-1, Env-2, GPN-1, GPN-2, GPN-3, NEF and CTRL, with each purified peptide at 25 g per vial were provided by EuroVacc. They spanned the entire Env, Gag, Pol and Nef regions from clade C included in the immunogens as consecutive 15-mers overlapped by 11 amino acids. The CN54gp120 protein (499 aa) was spanned by the Env-1 (aa: 1­239; 49 peptides) and Env2 (aa: 229­499; 63 peptides) pools. The Gag-Pol-Nef fusion protein (1417 aa) was spanned by the following pools: Gag-1 (aa: 1­254; 60 peptides), Gag-2 (aa: 244­500; 61 peptides), GPN-1 (aa: 485­735; 60 peptides), GPN-2 (aa: 725­831 and aa: 1017­1175; 61 peptides), GPN-3 (aa: 1165­1417; 61 peptides) and NEF (aa: 838­1044; 49 peptides). The CTRL peptide pool was used as negative control. It contains 23 peptides mostly from CMV, EBV and influenza, each at 50 g.
+2.12. Mice immunization
+BALB/c mice were purchased from Harlan. Transgenic HHD mice were kindly provided by Dr. Lemonnier (Pasteur Institute, France). They are double-knockout for H2-Db and 2-microglobulin and transgenic for a chimeric HLA-A2 molecule [36]. HHD mice were immunized with 2 × 107 PFU of either MVA-C or NYVAC-C in 200 L of PBS by intraperitoneal route (i.p.). When the heterologous DNA/rVV prime­boost approach was assayed, animals received 100 g of DNA-C (50 g of pcDNACN54gp120 + 50 g of pcDNA-CN54GPN) by intramuscular route (i.m.) and two weeks later received an intraperitoneal inoculation of 2 × 107 PFU of the corresponding rVVs. When the homologous rVV/rVV prime­boost approach was used, animals received 2 × 107 PFU of the corresponding rVVs by i.p. route at day 0 and 15. In SFV-C prime/poxvirus-C boost approach age-and sex-matched BALB/c mice (7­12 wks of age) from Bomholtgard, Denmark were immunized with SFV-based HIV-clade C vaccine that contained the combination of SFV-HIV-C-GPN (0.5 × 107 IU) and SFV-HIV-C-gp120 (0.5 × 107 IU) resuspended in PBS. The SFV-LacZ virus (1 × 107 IU) was used as control. All viruses were produced with the Two-Helper RNA System [33,34] and purified by sucrose gradient ultracentrifugation. The booster was given on day 14 using different doses of MVA-C or NYVAC-C by i.m route. Ten days after the last immunization mice were sacrificed and spleens processed for ELISPOT
+
+1974
+
+C.E. Go´mez et al. / Vaccine 25 (2007) 1969­1992
+
+assay. At least two independent experiments have been performed for the different immunization protocols.
+2.13. IFN- and IL-2 ELISPOT assay
+Fresh IFN- ELISPOT assay was performed as previously described [37]. Briefly, 105­106 splenocytes (depleted of red blood cells) were plated in triplicate in 96well nitrocellulose-bottomed plates previously coated with 6 g/mL of anti-mouse IFN- mAb R4-6A2 (Pharmingen, San Diego, CA). HIV-1 peptide pools from clade C and negative control (CTRL) pool were resuspended in RPMI 1640 supplemented with 10% FCS and added to the cells at a final concentration of 5 g/mL for each peptide. When the cellular response against the viral antigens was evaluated, RMASHHD cells were infected with MVA-WT or NYVAC-WT at 5 PFU/cell. At 4 h pi cells were washed and treated with mitomycin C (30 g/mL; Sigma). The cross-reactive response against the clade B Gag-Pol-Nef antigen was evaluated using the EL4gpnHHD cells. As control, RMAS-HHD cells were used.
+Plates were incubated at 37 C, 5% CO2 for 48 h (except for the experiments using SFV-C, in which they were incubated for 20 h), washed extensively with PBS containing 0.05% of Tween20 (PBS-T) and incubated 2 h at RT with a solution of 2 g/mL of biotinylated anti-mouse IFN- mAb XMG1.2 (Pharmingen) in PBS-T. Afterwards, plates were washed with PBS-T and 100 L of peroxidase-labeled avidin (Sigma, St. Louis, MO) at 1:800 dilution in PBS-T was added to each well. After 1 h of incubation at RT, wells were washed with PBS-T and PBS. The spots were developed by adding 1 g/mL of the substrate 3,3 -diaminobenzidine tetrahydrochloride (Sigma) in 50 mM Tris­HCl, pH 7.5 containing 0.015% hydrogen peroxide. The spots were counted with the aid of a stereomicroscope (or in the case of experiments using SFV, using an automated Elispot reader (Axioplan 2 Imaging, Zeiss, Go¨ttingen, Germany)). Fresh IL-2 ELISPOT assay was carried out identically as before but using the anti-mouse IL-2 mAb JES6-1A12 (Pharmingen) and biotinylated anti-mouse IL-2 mAb JES6-5H4 (Pharmingen) as capture and detection antibody respectively.
+2.14. Evaluation of cytokine levels by ELISA
+Splenocytes from immunized mice (5 × 105 cells) were stimulated with 2 g/mL of each peptide pool at 37 C, 5% CO2 for 6 days. Culture supernatants were collected and stored at -70 C until performing the assay. Levels of IFN and IL-10 were evaluated using commercial ELISA kits (Pharmingen).
+2.15. Antibody measurements by enzyme-linked immunosorbent assay (ELISA)
+The humoral response against either the HIV-1 proteins from clade B LAVgp160 and SF2p55 Gag or against
+
+VV proteins were detected by ELISA. High binding polystyrene microtitre plates (Nunc) were coated with 100 L of the specific protein diluted at 10 g/mL in 0.05 M carbonate­bicarbonate buffer pH 9.6 overnight at 4 C. The wells were washed twice with PBS plus 0.05% Tween 20 (PBS-T) and blocked with PBS containing 10% FCS (blocking solution) during 1 h at 37 C. Serum samples diluted in blocking solution were added in a volume of 100 L/well and incubated 2 h at 37 C. Plates were washed five times with PBS-T before the detection antibody was added. Peroxidase-conjugated goat anti-mouse immunoglobulin G (IgG) antibody (Southern Biotechnology Associates, Birmingham, AL) was diluted 1:1000 in blocking solution and incubated for 1 h at 37 C. The plates were washed again five times with PBS-T and the 3,3 ,5,5 -tetramethylbenzidine (TMB) liquid substrate system for ELISA (Sigma) was used to reveal the reaction. After 10­15 min of incubation at RT, the reaction was stopped by adding 2N H2SO4, and absorbance was measured at 450 nm on a Multiskan Plus plate reader (Labsystem, Chicago, IL).
+2.16. Statistical procedures
+All the data were logarithmically transformed and the means compared using ANOVA and Duncan's multiple range test.
+3. Results
+3.1. Construction of MVA-C
+MVA-C, a recombinant MVA expressing HIV-1 clade C Gag, Pol, Nef and Env antigens, was constructed by homologous recombination in CEF cells. Gag-Pol-Nef is a fusion protein composed of gag, pol and nef ORFs from HIV-1 clone CN54, that has been modified to enhance its immunogenicity and remove, for safety considerations, undesirable domains of the HIV antigens. Gp120 Env protein originates from the same HIV-1 isolate (CN54). In both cases, the codon usage was adapted to highly express human genes.
+In this study we developed a new transfer vector which eliminated the marker gene from the final recombinant virus and allows the insertion of the gag-pol-nef and env ORFs in the same viral locus, both under the transcriptional control of the VV synthetic early/late viral promoter. The new vector contained a -gal reporter gene sequence between two repetitions of the left TK flanking arm which allowed the reporter to be automatically deleted from the final recombinant virus by homologous recombination after two-three passages. The construction of the transfer vector pLZAW1gp120C/gagpolnef-C-14 is shown at Fig. 1.
+Homologous recombination was achieved by infecting CEF cells with MVA and transfection with pLZAW1gp120C/gagpolnef-C-14. X-Gal staining plaques were picked twice to isolate recombinants free of the
+
+C.E. Go´mez et al. / Vaccine 25 (2007) 1969­1992
+
+1975
+
+parental MVA. Subsequently, non-staining plaques were picked repeatedly to isolate rMVA that had lost the reporter gene. Several independent clones of MVA-C were isolated, analyzed for expression of CN54gp120 and CN54GPN by Western blot and immunostaining of plaques, and propagated in CEF cells.
+3.1.1. Screening of recombinant MVA-C virus by PCR analysis
+The correct insertion of the HIV-1 genes in the recombinant MVA-C virus was confirmed by PCR and DNA sequence analysis. Viral DNA purified from CEF cells infected with MVA-C was amplified using different set of primers annealing in the TK flanking sequences and in internal regions of the inserted genes (see Table 1). The sizes of the expected PCR products are represented in Fig. 2A. For comparative purposes, DNA extracted from CEF cells infected with NYVAC-C or with the wild type strain of MVA (MVA-WT) were used. As shown in Fig. 2B, the amplifications performed with the different set of primers reveals that gag-pol-nef and env ORFs were inserted successfully into the MVA TK locus, and also that no wild-type contamination was present in the rMVA preparation. These results were confirmed by DNA sequence analysis of the MVA-C TK locus (see Appendix A).
+3.2. Construction of NYVAC-C
+The recombinant virus NYVAC-C containing, as for MVA-C, the same cassette of HIV-1 genes in the TK locus and under regulation of the synthetic early/late promoter, was generated by Sanofi-Pasteur. The approach was similar as for MVA-C but instead used a different transfer vector, plaquelifting and 32P-labeled of the inserts for the isolation of the recombinant virus. The correct inserts in the virus genome were confirmed by PCR and DNA sequence analyses (not shown).
+3.3. Characterization of MVA-C and NYVAC-C recombinants
+3.3.1. In vitro expression of CN54gp120 and CN54GPN proteins by MVA-C and NYVAC-C
+In order to characterize the expression of CN54gp120 and CN54GPN proteins by MVA-C and NYVAC-C recombinants, a time course analysis was carried out. The kinetics of synthesis of Env protein was similar in MVA-C and NYVAC-C infected cells. CN54gp120 was efficiently released from cells by 18 h pi. (Fig. 2C, left panel). As compared to NYVACC, the full length CN54GPN fusion protein was produced in MVA-C infected cells but at different levels depending on the time point after infection (Fig. 2C, right panel). There is also breakdown of GPN in infected cells. With time (18 and 24 h pi) the CN54GPN expression levels in cell extracts were apparently reduced in NYVAC-C versus MVA-C infected cells, probably due to the phosphorylation of the initiation factor
+
+eIF-2, as previously described for NYVAC but not MVA [38].
+3.3.2. Genetic stability of MVA-C and NYVAC-C To verify that the MVA-C and NYVAC-C recombinants
+could be passage without lost of the transgene, a stability test was performed. The recombinants were continuously passaged from P2 stock to P10 in CEF cells. Expression of Env and Gag-Pol-Nef antigens at the different passages was determined by Western blot and immunostaining assay. As shown in Fig. 3A, MVA-C efficiently expresses CN54gp120 and CN54GPN proteins after 7, 8, 9 and 10 passages in CEF cells. Nearly 100% of plaques generated in cells infected with the P10 stock stained with antibody to both Gag and Env proteins (Fig. 3B). The genetic stability of the inserts for NYVAC-C was similarly confirmed after the tenth passage (not shown). These results revealed that MVA-C and NYVAC-C were genetically stable and express efficiently the foreign proteins after 10 consecutive passages.
+3.3.3. Virus growth of MVA-C and NYVAC-C To analyze the viral growth characteristics of MVA-C in
+comparison with NYVAC-C under permissive conditions, monolayers of CEF cells were infected at 0.01 PFU/cell with each virus for 0, 24, 48 and 72 h. Infectious viruses that remained cell-associated and released to the medium during the course of the infection were measured by immunostaining assay. As shown in Fig. 3C, left panel, the virus titers in the supernatant of cells infected with NYVAC-C were about 1 log lower than those obtained in the supernatant of cells infected with MVA-C at the three times assayed. However, the titers of cell-associated viruses in MVA-C and NYVAC-C infected cells were similar (Fig. 3C, right panel).
+3.3.4. A hallmark of NYVAC-C infection is the induction of apoptosis, but not of MVA-C
+We have recently described that during infection of cultured cells with parental NYVAC strain there is induction of apoptosis while parental MVA does not induce apoptosis [39]. To define if recombinant NYVAC-C also induces apoptosis and to compare it with MVA-C, we performed three different assays in human HeLa cells. As shown in Fig. 4, NYVAC-C infection triggers apoptosis in infected cells as measured by phase contrast microscopy (panel A), by PARP cleavage (panel B) and by ELISA test (panel C). These effects were minimally observed in cells infected with MVA-C. These differences may have an impact on immune responses. Thus, we next analyzed the immune responses elicited in mice by the two recombinant vectors.
+3.4. Immunogenicity of MVA-C and NYVAC-C recombinants in HHD mice
+To analyse whether CN54gp120 and CN54GPN proteins expressed by MVA-C and NYVAC-C were recognized by human MHC class I molecules, we immunized transgenic
+
+1976
+
+C.E. Go´mez et al. / Vaccine 25 (2007) 1969­1992
+
+Fig. 2. Characterization of MVA-C and NYVAC-C recombinant viruses. (A) Scheme of the MVA-C insert within the TK viral locus. The positions of the different sets of primers used for PCR analysis and the expected sizes of PCR products are represented. (B) PCR analysis of the MVA-C insert in the TK viral locus. 100 ng of viral DNA extracted from CEF cells infected at 5 PFU/cell with NYVAC-C (lane 1), MVA-C (lane 2) or MVA-WT (lane 3) were used for PCR analysis. PCR conditions were optimized for each set of primers. (C) Time-course expression of CN54gp120 and CN54GPN proteins in cells infected with MVA-C and NYVAC-C recombinants. The expression of CN54gp120 and CN54GPN proteins at indicated times post-infection of CEF cells was visualized by western blot in supernatants (S) and pellet (P) samples of mock (M) or infected cells at 5 PFU/cell with MVA-C or NYVAC-C recombinant viruses. The cellular -actin protein expression was used as internal loading control. Arrows at the right indicate the position of CN54gp120, CN54GPN and -actin proteins.
+
+C.E. Go´mez et al. / Vaccine 25 (2007) 1969­1992
+
+1977
+
+Fig. 3. (A) Analysis of MVA-C stability after several rounds of viral amplification in CEF cell culture. MVA-C stability after passages in CEF cells. The expression of CN54gp120 and CN54GPN proteins was visualized by western blot in samples of mock-infected CEF cells (Mock) and infected at 5 PFU/cell with either NYVAC-C (used as positive control) or the different passages of MVA-C (from P7 to P10). Arrows at the right indicate the position of CN54gp120, CN54GPN proteins. The immune reactive band of about 40 kDa appearing with anti-gp120 is of viral origin and not a breackdown product of gp120. (B) Immunostaining analysis of heterologous antigen expression by MVA-C after 10 passages in CEF cells. Plaques generated in CEF cells infected with a 10-5 dilution of P10 stock of MVA-C were analyzed by immunostaining using anti-gp120, anti-p24 and anti-WR polyclonal antibodies. The numbers of virus plaques that were positive for each antibody were represented in a graphic. (C) Virus growth of MVA-C and NYVAC-C in CEF cells. Monolayers of CEF cells were infected at 0.01 PFU/cell with MVA-C or NYVAC-C recombinants for 0, 24, 48 and 72 h. Cells were collected by centrifugation and infectious viruses associated to the cells (left panel) and released to the supernatant (right panel) during the course of the infection were quantified by immunostaining assay. Averages of three independent experiments are shown with standard error bars.
+
+HHD mice that exclusively display a chimerical human HLAA2.1 as MHC class I molecule [36]. Two groups of HHD mice (n = 4) were primed by the i.p route with 2 × 107 PFU of either MVA-C or NYVAC-C. Ten days after the immunization, the cellular immune responses induced in the spleen against VV antigens (WR strain) or against pools of overlapping peptides that span the HIV-1 CN54gp120 and CN54GPN proteins were evaluated by fresh IFN- ELISPOT assay. The cross-reactive response against Gag-Pol-Nef antigen from clade B was also
+
+assayed using the EL4gpnHHD cells. The numbers of spots obtained with the negative CTRL pool or with non-infected RMAS-HHD cells were subtracted in all cases.
+As shown in Fig. 5A, MVA-C induced a significant enhancement of splenic T-cell response against the clade C peptide pools Gag-1, Env-1 and Env-2, in comparison with mice primed with NYVAC-C (p < 0.05). The GPN-1, GPN3 and NEF pools were poorly recognized by this group, whereas no specific cellular response was detected against the
+
+1978
+
+C.E. Go´mez et al. / Vaccine 25 (2007) 1969­1992
+
+Fig. 4. Differences in apoptosis induction by MVA-C vs. NYVAC-C. (A) Cytopathic effects of MVA-C and NYVAC-C in human cells. Monolayers of HeLa cells were mock-infected or infected at 5 PFU/cell with recombinant MVA-C and NYVAC-C viruses. At 24 h pi the morphological changes characteristic of apoptosis in the cells were examined by phase-contrast microscopy. (B) Western blot analysis of PARP cleavage in HeLa cells infected with MVA-C and NYVAC-C. Monolayers of HeLa cells were mock-infected (M) or infected at 5 PFU/cell with recombinant MVA-C and NYVAC-C viruses. At different times post-infection the cell extracts were collected and analysed by western blot. The cellular -actin protein expression was used as internal loading control. (C) Quantitation of apoptosis after infection with MVA-C or NYVAC-C. Monolayers of HeLa cells were mock-infected (Mock) or infected at 5 PFU/cell with recombinant MVA-C and NYVAC-C viruses and the extent of apoptosis was determined at 24 h pi by ELISA. Absorbance at 405 nm is represented.
+
+Gag-2 and GPN-2 pools. Splenocytes from animals immunized with NYVAC-C only recognized the Env-1, Env-2, GPN-1 and GPN-2 pools, but the number of specific IFN- secreting cells against them were lower than 40. The magnitude of the total response for clade C pools, determined by the overall number of IFN- secreting cells, was more than 8 times higher in the group receiving MVA-C (Fig. 5B). In the same way, the breadth of the clade C-specific response per group, as measured by the number of positive pools, was also higher in animals primed with MVA-C.
+The cross-reactive immune response against the GPN polyprotein from clade B was also assayed using the
+
+EL4gpnHHD cells as antigen presenting cells (APCs). As shown in Fig. 5C after priming, MVA-C induced higher cellular and humoral response than NYVAC-C against clade B antigens. When the anti-VV immune response was evaluated we observed that contrary to the anti-clade C or anti-clade B specific responses, NYVAC-C induced the highest cellular and humoral responses against VV-antigens (1.5 fold higher than that induced by MVA-C) (Fig. 5C).
+Since a balance between a Th1 and Th2 type of immune responses may be critical for the control of HIV infection [40], our next approach was to determine the profile of cytokines triggered in immunized mice. Thus, we quanti-
+
+C.E. Go´mez et al. / Vaccine 25 (2007) 1969­1992
+
+1979
+
+Fig. 5. Immunogenicity of MVA-C and NYVAC-C in HHD transgenic mice. (A) Cell-mediated immune response detected by fresh IFN- ELISPOT. Groups of 4 HHD transgenic mice were inoculated with 2 × 107 PFU of the corresponding rVV by i.p. route. Ten days later, the vaccine-elicited functional immune responses of splenocytes were measured in an IFN- ELISPOT assay following stimulation with 5 g/mL of pools of overlapping peptides spanning the entire HIV-1 CN54gp120 and CN54GPN proteins. The number of spots obtained with the negative CTRL pool was subtracted in all cases. Peptide-specific IFN- secreting cells with standard deviation from triplicate cultures are shown. Statistically significant differences (p < 0.05) between each peptide pool and the CTRL pool. *Statistically significant differences (p < 0.05) between groups. (B) Magnitude of the total response for clade C pools. Bars represent the total number of antigen-specific IFN- secreting cells detected in each group against all the peptide pools spanning the Ags included in MVA-C and NYVAC-C recombinants. (C) Cross-reactive response against antigens from HIV-1 clade B. Left panel: Anti-GPN-B cellular response. Spleen cells from immunized animals were used as responder cells in the ELISPOT assay with EL4gpnHHD cells as targets. The number of spots obtained with control RMAS-HHD cells was subtracted in both groups. Right panel: Anti clade-B humoral response. Sera of mice were diluted at 1/50 and assayed in ELISA quantifying specific IgG Abs against LAVgp160 and SF2p55 Gag antigens from HIV-1 clade B. Sera from na¨ive mice were used as control group (C-). (D) Anti-VV immune response. Left panel: Anti-VV cellular response elicited against VV antigens. Spleen cells from immunized animals were used as responder cells in the ELISPOT assay with RMAS-HHD cells infected with either MVA-WT or NYVAC-WT as targets. The number of spots obtained with non-infected RMAS-HHD cells was subtracted. Right panel: Anti-VV humoral response. Sera of mice were diluted at 1/500 and assayed in ELISA quantifying specific IgG Abs against VV antigens. Sera from na¨ive mice were used as control group (C-).
+
+1980
+
+C.E. Go´mez et al. / Vaccine 25 (2007) 1969­1992
+
+Table 2 Cytokine production (pg/mL) by splenocytes from HHD mice immunized with MVA-C or NYVAC-C
+
+A
+
+MVA-C
+
+NYVAC-C
+
+IFN-
+
+IL-10
+
+IFN-
+
+IL-10
+
+Gag-1 Gag-2 Env-1 Env-2 GPN-1 GPN-2 GPN-3 NEF
+
+2920
+
+670
+
+306
+
+505
+
+<20
+
+590
+
+166
+
+292
+
+753
+
+730
+
+553
+
+222
+
+1767
+
+490
+
+103
+
+160
+
+940
+
+690
+
+<20
+
+132
+
+883
+
+395
+
+<20
+
+85
+
+950
+
+160
+
+1256
+
+97
+
+<20
+
+80
+
+<20
+
+57
+
+Total IFN-/IL-10
+
+8213
+
+3805
+
+2.16
+
+2384
+
+1550
+
+1.5
+
+HHD mice were immunized as described in Section 2. Ten days after the
+immunization the animals were sacrificed and their spleens were processed. The splenocytes from each group were stimulated in vitro with 2 g/mL of different HIV-1 peptide pools from clade C and incubated for 6 days at 37 C. Thereafter, cell supernatants were collected and stored at -70 C. Cytokine
+levels were measured with specific commercial kits.
+
+fied the levels of type 1 (IFN-) and type 2 (IL-10) cytokines in cell culture supernatants restimulated with specific HIV1 peptide pools. As shown in Table 2, higher levels of IFN- were secreted against the different clade C pools by splenocytes from mice primed with MVA-C compared with NYVAC-C. The levels of IL-10 (as index of Th2) were also higher in MVA-C immunized mice, and the IFN-/IL-10 ratio obtained suggests induction of a Th1 type of immune response.
+
+3.5. NYVAC-C efficiently boosts the response induced by priming with DNA-C in transgenic HHD mice
+Since a DNA prime/rVV boost immunization regime has been shown to be an efficient vaccination approach in different animal models, specially in the ability to induce specific cellular immune responses to HIV antigens [41,42], we wished to evaluate the magnitude and breadth of the anti-clade C specific cellular response triggered in transgenic HHD mice using this strategy. For this purpose, groups of mice were first primed with two DNA vectors, one that expresses only HIV-1 Env (CN54gp120), and the other expressing the Gag-Pol-Nef fusion protein from clade C (both vectors referred as DNA-C), and two weeks later the animals were boosted with the same dose of DNA-C (100 g), or with 2 × 107 PFU of either MVA-C or NYVAC-C, both expressing the same antigens as DNA-C. Animals primed with sham DNA (DNA-) and boosted with NYVAC-WT were used as control. Vaccine-elicited functional immune responses of splenocytes were measured 10 days after the last immunization by fresh IFN- and IL-2 ELISPOT assays using pools of overlapping peptides specific to clade C of HIV-1. The number of spots obtained with the negative control (CTRL) pool was subtracted in all cases.
+
+As shown in Fig. 6A, Env-1 and Env-2 peptide pools were efficiently recognized by splenocytes from mice immunized with DNA-C/MVA-C (group 1), DNA-C/NYVAC-C (group 2) or DNA-C/DNA-C (group 3) in contrast with the control group (DNA-/MVA-WT) where no specific response was detected (p < 0.05). The Gag-1 pool was immunogenic for animals boosted with MVA-C (group 1) or NYVAC-C (group 2), whereas GPN-2 and GPN-3 pools were only recognized by group 2 (DNA-C/NYVAC-C). The Gag-2, GPN-1 and NEF pools were poorly recognized. The magnitude of the total response for clade C pools, determined by the overall number of IFN- secreting cells was significantly higher in animals boosted with NYVAC-C (p < 0.05) (Fig. 6B).
+To characterize in more detail the cellular immune response elicited in HHD mice using DNA/rVV approach, we performed a fresh IL-2 ELISPOT. As shown in Fig. 6C and A, the IL-2 and IFN- responses behaved similarly in the three groups. Env-1 and Env-2 pools were the most immunogenic epitopes, followed by Gag-1 and GPN-3. The total number of IL-2 secreting cells in the spleen of animals from group 2 (DNA-C/NYVAC-C) and group 3 (DNA-C/DNA-C) was higher than found in mice boosted with MVA-C (group 1), but not statistical differences were observed between the groups (p > 0.05) (Fig. 6D).
+The Th type of immune response was also evaluated using all of the clade C peptide pools. As shown in Table 3, the total levels of IFN- found in the supernatants of stimulated splenocytes from groups 1 (DNA-C/MVA-C), 2 (DNA-C/NYVAC-C) and 3 (DNA-C/DNA-C) were higher than the levels of IL-10, demonstrating a clear polarization of the Th response towards a Th1-type. Similar to the ELISPOT results, animals boosted with NYVAC-C exhibited the highest magnitude and breath of the anti-clade C specific response.
+3.6. Homologous and heterologous combinations of NYVAC-C and MVA-C recombinants efficiently improved the breadth of anti-clade C cellular immune response in BALB/c mice
+Since competition or immunodominance between CTL epitopes would reduce the breadth of the total response induced by vaccination, next we determined if the breadth of HIV-1C specific response was increased by performing homologous and heterologous immunizations with a combination of MVA-C and NYVAC-C vectors. To this aim, we used BALB/c mice since in HHD mice there are a low proportion of total splenic CD8+T cells. Thus, BALB/c mice (n = 5) were inoculated intraperitoneally with 2 × 107 PFU of each recombinant virus at days 0 and 15, and 10 days after the last immunization the cellular immune response in splenocytes was evaluated by fresh IFN- ELISPOT.
+As shown in Fig. 7A, heterologous (groups 1 and 2) and homologous (groups 3 and 4) combinations of MVA-C and NYVAC-C recombinants induced a significant enhancement of splenic T-cell response against the clade C peptide pools
+
+C.E. Go´mez et al. / Vaccine 25 (2007) 1969­1992
+
+1981
+
+Fig. 6. Immunogenicity of MVA-C and NYVAC-C after DNA/rVV prime­boost protocol in HHD transgenic mice. (A) Cell-mediated immune response detected by fresh IFN- ELISPOT. Groups of 4 HHD transgenic mice were primed with 100 g of either DNA-C or sham DNA (DNA-) by intramuscular route. Two weeks after priming, the mice received the same dose of DNA-C or an intraperitoneal inoculation of 2 × 107 PFU of the corresponding rVV. Vaccine-elicited functional immune responses of splenocytes were measured 10 days after the last immunization in an IFN- ELISPOT assay following stimulation with 5 g/mL of pools of overlapping peptides spanning the HIV-1 CN54gp120 and CN54GPN proteins. The number of spots obtained with the negative CTRL pool was subtracted in all cases. Peptide-specific IFN- secreting cells with standard deviation from triplicate cultures are shown. Statistically significant differences (p < 0.05) between each peptide pool and the CTRL pool. *Statistically significant differences (p < 0.05) between groups. (B) Magnitude of the total response for clade C pools. Bars represent the total number of antigen-specific IFN- secreting cells detected in each group against all of the peptide pools spanning the Ags included in MVA-C and NYVAC-C recombinants. (C) Cell-mediated immune response detected by fresh IL-2 ELISPOT. The IL-2 response
+against clade C peptide pools in splenocytes from immunized animals was determined as previously described. The number of spots obtained with the negative
+CTRL pool was subtracted in all cases. Peptide-specific IL-2 secreting cells with standard deviation from triplicate cultures are shown. Statistically significant differences (p < 0.05) between each peptide pool and the CTRL pool. *Statistically significant differences (p < 0.05) between groups. (D) Magnitude of the total
+response for clade C pools. Bars represent the total number of antigen-specific IL-2 secreting cells detected in each group against all the peptide pools spanning
+the Ags included in MVA-C and NYVAC-C recombinants.
+
+Env-1, GPN-1, GPN-2 and GPN-3, in comparison with mice immunized either with NYVAC-WT/MVA-WT (group 5) or with MVA-WT/NYVAC-WT (group 6) used as controls (p < 0.05). Animals from group 4 (NYVAC-C/NYVAC-C) failed to recognize the Gag-1 pool, which was efficiently identified by the rest of the groups. Interestingly, the combi-
+
+nation of NYVAC-C/MVA-C (group 2) also recognized the Gag-2 peptide pool.
+The magnitude of the total response, determined by the overall number of IFN- secreting cells (Fig. 7B), and the breadth of the clade C-specific response per group, as measured by the number of positive pools, were higher in mice
+
+1982
+
+C.E. Go´mez et al. / Vaccine 25 (2007) 1969­1992
+
+Table 3 Cytokine production (pg/mL) by splenocytes from HHD mice inoculated in DNA-C prime/rVV-C boost regime
+
+A (pg/mL)
+
+Gag-1
+
+Gag-2
+
+Env-1
+
+Env-2
+
+GPN-1
+
+GPN-2
+
+GPN-3
+
+NEF
+
+Total
+
+DNA-C/MVA-C
+
+IFN-
+
+2600
+
+230
+
+12700
+
+11700
+
+120
+
+<20
+
+<20
+
+<20
+
+27350
+
+IL-10
+
+180
+
+30
+
+340
+
+250
+
+70
+
+60
+
+600
+
+<10
+
+1530
+
+DNA-C/NYVAC-C
+
+IFN-
+
+14100
+
+1670
+
+39100
+
+14100
+
+<20
+
+480
+
+8040
+
+<20
+
+77490
+
+IL-10
+
+100
+
+<10
+
+<10
+
+<10
+
+<10
+
+<10
+
+<10
+
+<10
+
+100
+
+DNA-C/DNA-C
+
+IFN-
+
+1420
+
+<20
+
+33500
+
+26500
+
+1300
+
+<20
+
+<20
+
+<20
+
+62720
+
+IL-10
+
+50
+
+30
+
+630
+
+640
+
+<10
+
+<10
+
+<10
+
+<10
+
+1350
+
+DNA-/NYVAC-WT
+
+IFN-
+
+886
+
+<20
+
+<20
+
+<20
+
+<20
+
+<20
+
+<20
+
+<20
+
+886
+
+IL-10
+
+<10
+
+<10
+
+<10
+
+<10
+
+<10
+
+<10
+
+<10
+
+<10
+
+<10
+
+HHD mice were immunized as described in Section 2. Ten days after the last immunization the animals were sacrificed and their spleens were processed. The splenocytes from each group were stimulated in vitro with 2 g/mL of different HIV-1 peptide pools from clade B and incubated for 6 days at 37 C. Thereafter, cell supernatants were collected and stored at -70 C. Cytokine levels were measured with specific commercial kits.
+
+primed with NYVAC-C and boosted with MVA-C recombinant (group 2). Animals receiving two doses of NYVAC-C (group 4) gave the lower number of total IFN- secreting cells.
+We also examined the profile of cytokines produced by splenocytes from these mice after culturing with 2 g/mL of each peptide pool. As shown in Table 4, all of the combinations assayed induced an evident Th1 type immune response characterized by elevated levels of IFN- and low or undetectable levels of IL-10. Interestingly, groups receiving heterologous NYVAC-C/MVA-C (group 2) or homologous MVA-C/MVA-C (group 3) combinations induced higher levels of INF- and broader reactive cellular responses in comparison with groups immunized with MVA-C/NYVACC (group 1) or NYVAC-C/NYVAC-C (group 4).
+In addition, we examined by Western blot and ELISA the antibody responses elicited in BALB/c and HHD mice after vaccination with the combination of the poxvirus vectors. As shown in Fig. 8, panels A and B, in both animal models sera from MVA-C infected animals recognized similar VV (WR strain) proteins than sera from NYVAC-C infected mice, although differences in antibody recognition of the VV proteins were observed between the vectors. The extent of reactivity and pattern of VV proteins recognized by sera from infected HHD mice was distinct from the pattern seen in infected BALB/c mice. The anti-vector antibodies, as determined by ELISA, were markedly boosted by a second dose of the poxvirus vectors (Fig. 8, panel C). In BALB/c mice the anti-VV antibodies levels were reduced in NYVAC-C compared to MVA-C (Fig. 8, panel D) while in HHD mice the opposite was observed (panel C). The differences in VV antigen recognition by sera from mice vaccinated with MVA-C versus NYVAC-C is probably due to the inability of NYVAC to synthesize some of the late viral proteins, as previously described in cultured cells [38].
+
+3.7. Heterologous combinations of SFV-C prime and MVA-C or NYVAC-C boost significantly enhanced T cell responses to clade C in BALB/c mice
+In view of the enhanced breath of the immune response elicited by homologous poxvirus vectors and to reduce crossreactive immune responses to the pox vector after boosting, next we analyzed the immunogenicity of prime/boost combination with alphavirus and poxvirus vectors. Since vaccination of humans by choice usually is given either intramuscularly (i.m.) or subcutaneously (s.c.), we chose the i.m. route of administration for the pox and the s.c. route for SFV. BALB/c mice (n = 8) mice were first inoculated on days 0 and 14 with 1 × 107 PFU of either MVA-C or NYVACC or 1 × 107 IU of SFV-C (5 × 106 each of SFV-GPN and SFV-env), with SFV-LacZ (1 × 107 IU) serving a negative control. Ten days after the boost cellular immune responses were measured by fresh IFN- ELISPOT. As shown in Fig. 9A, homologous combinations of the three vaccines, MVA-C/MVA-C, NYVAC-C/NYVAC-C and SFV-C/SFV-C, generated approximately the same responses, the GPN-1 and GPN-2 pools being the most recognized by all groups. The Env-1 pool was significantly immunogenic in both poxvirus vaccines.
+Since dose sparing are of value considering potential future vaccination of the human population we repeated the heterologous prime­boost experiments keeping SFV-C prime at the original dose but lowering the booster doses of the poxvirus stepwise by a factor of 10. As shown in Fig. 9B and C, these combinations of SFV/pox significantly enhanced the T cell responses at all doses and in both groups, SFV-C/MVA-C and SFV-C/NYVAC-C, the responses against GPN-1, GPN-2 and Env-1 were again most prominent. Interestingly, lowering the booster dose with one or even two logs did not greatly reduce the final T cell responses and reducing the boost 3 logs still resulted in T cell responses that were
+
+C.E. Go´mez et al. / Vaccine 25 (2007) 1969­1992
+
+1983
+
+Fig. 7. Cellular immune response elicited in BALB/c mice after inoculation with homologous and heterologous combinations of MVA-C and NYVACC recombinants. (A) Cell-mediated immune response detected by fresh IFN- ELISPOT. Groups of 5 BALB/c mice were inoculated intraperitoneally with 2 × 107 PFU of each recombinant at day 0 and 15. Vaccine-elicited functional immune responses of splenocytes were measured 10 days after the last immunization in an IFN- ELISPOT assay following stimulation with 5 g/mL of pools of overlapping peptides spanning the HIV-1 CN54gp120 and CN54GPN proteins. The number of spots obtained with the negative CTRL pool was subtracted in all cases. Peptide-specific IFN- secreting cells with standard deviation from triplicate cultures are shown. Statistically significant differences (p < 0.05) between each peptide pool and the CTRL pool. *Statistically significant differences (p < 0.05) between groups. (B) Magnitude of the total response for clade C pools. Bars represent the total number of antigen-specific IFN- secreting cells detected in
+each group against all the peptide pools spanning the Ags included in MVA-C and NYVAC-C recombinants.
+
+significantly stronger than homologous prime­boost with two poxvirus vectors. Fig. 9D summarizes the T cell responses cumulatively for peptide pools used. Overall SFV-C plus MVA-C responses appeared to be lower in magnitude compared to SFV-C plus NYVAC-C responses, while the breadth was similar in prime/boost between SFV/pox and pox/pox vectors.
+4. Discussion
+In this study we have generated, characterized in vitro and defined the immunogenicity in mice of two novel attenuated
+
+poxvirus recombinants MVA-C and NYVAC-C, which are vaccine candidates against HIV/AIDS. Since the stimulation of an efficient and broad anti-HIV-1 T cell immune response has been widely demonstrated by multigenic vaccines including structural and regulatory HIV-1 proteins [29,43,44], we included the env, gag, pol and nef genes in our immunogens. MVA-C and NYVAC-C expressed in the same viral TK locus the Env (gp120) and Gag-Pol-Nef HIV-1 antigens from the Asian primary isolate CN54 (clade C). Both gene cassettes have been codon optimized and designed for optimal expression levels, combined with extensive safety mutations in relevant gene fragments (see Appendix A, DNA sequence of MVA-C). These antigens represent the major HIV-1C pro-
+
+1984
+
+C.E. Go´mez et al. / Vaccine 25 (2007) 1969­1992
+
+Table 4 Cytokine production (pg/mL) by splenocytes from BALB/c mice immunized with homologous and heterologous combination of MVA-C and NYVAC-C
+
+(A (pg/mL)
+
+Gag-1
+
+Gag-2
+
+Env-1
+
+Env-2
+
+GPN-1
+
+GPN-2
+
+GPN-3
+
+NEF
+
+Total
+
+MVA-C/NYVAC-C
+
+IFN-
+
+290
+
+IL-10
+
+<10
+
+2050 <10
+
+43400
+
+330
+
+<10
+
+340
+
+21800 500
+
+2510 <10
+
+1510 <10
+
+<20
+
+71890
+
+<10
+
+840
+
+NYVAC-C/MVA-C
+
+IFN-
+
+60
+
+IL-10
+
+110
+
+14700
+
+89100
+
+3250
+
+113800
+
+29900
+
+80
+
+240
+
+<10
+
+<10
+
+320
+
+320
+
+<10
+
+<20
+
+250890
+
+230
+
+1220
+
+MVA-C/MVA-C IFN- IL-10
+
+1170 230
+
+15100 80
+
+74500 <10
+
+3920 60
+
+95100 280
+
+15500
+
+<20
+
+<10
+
+50
+
+350
+
+205290
+
+<10
+
+700
+
+NYVAC-C/NYVAC-C
+
+IFN-
+
+<20
+
+<20
+
+42200
+
+<20
+
+12800
+
+<20
+
+<20
+
+<20
+
+55000
+
+IL-10
+
+50
+
+50
+
+210
+
+80
+
+220
+
+<10
+
+<10
+
+<10
+
+610
+
+NYVAC-WT/MVA-WT
+
+IFN-
+
+1280
+
+<20
+
+8170
+
+<20
+
+3990
+
+425
+
+80
+
+<20
+
+13945
+
+IL-10
+
+<10
+
+<10
+
+60
+
+190
+
+25
+
+<10
+
+<10
+
+<10
+
+275
+
+MVA-WT/NYVAC-WT
+
+IFN-
+
+1308
+
+720
+
+2060
+
+4000
+
+<20
+
+160
+
+<20
+
+<20
+
+8248
+
+IL-10
+
+<10
+
+<10
+
+290
+
+230
+
+<10
+
+<10
+
+<10
+
+<10
+
+520
+
+BALB/c mice were immunized as described in Section 2. Ten days after the last immunization the animals were sacrificed and their spleens were processed. The splenocytes from each group were stimulated in vitro with 2 g/mL of different HIV-1 peptide pools from clade B and incubated for 6 days at 37 C. Thereafter, cell supernatants were collected and stored at -70 C. Cytokine levels were measured with specific commercial kits.
+
+teins included in the vaccine candidates currently tested in clinical trials [29].
+Some of the key features considered to be desirable in a poxvirus based vaccine included, replication to high yields in CEF, high levels of gene expression for the recombinant product, stability of the insert with prolonged passages of the vector and good immunogenicity of the foreign antigens. Here we demonstrated that MVA-C and NYVAC-C meet each of these criteria. The generated MVA-C and NYVAC-C efficiently express the heterologous CN54gp120 and CN54GPN proteins could be passage without the loss of the transgene and grew efficiently in CEF cells. However, in contrast to MVA-C, the NYVAC-C vector induces a potent apoptosis in human cells. Moreover, human gene profiling analysis of the parental strains NYVAC and MVA have revealed similarities but also clear differences in immunomodulatory genes such as IL-7, IL-1A, IL-8 and IL-15 (only increased in MVA-infected cells) while apoptotic pathways which may favour cross-presentation are increased only in NYVACinfected cells [39]. By microarray analysis we have also observed clear differences in immunomodulatory genes induced by NYVAC versus MVA in virus-infected human dendritic cells (Guerra et al., manuscript in preparation). These and other biological differences exhibited in vitro by MVA and NYVAC strains [38], may have an impact on the immunogenicity and clinical application of these poxvirus vectors.
+The majority of recent HIV-vaccine studies have aimed to develop T-cell-stimulating vaccines that induce HIV-specific CD8+ CTL responses, whose role in the control of virus
+
+load and evolution of disease has been well-documented [15,16,21­23]. Although vaccines that only stimulate the cellular arm of the immune response are not expected to provide protection against infection, they might control virus replication and reduce viral loads, thus resulting in lower probability of virus transmission to seronegative partners. In this report we have evaluated the cellular immune response induced in transgenic HHD and BALB/c mice by different novel (DNA, pox and SFV vectors) vaccine candidates expressing the Env, Gag, Pol and Nef HIV-1 antigens from clade C. We first analyzed the effect of a single inoculation of either MVA-C or NYVAC-C in transgenic HHD mice. We showed that in contrast to NYVAC-C, MVA-C stimulated an specific cellular immune response against the clade C peptide pools Env-1, Env-2 and Gag-1 as revealed in the fresh IFN- ELISPOT results. In addition, we showed that MVA-C also induces an efficient cross-reactive response against HIV-1 antigens from clade B. However, the cellular immune response against vaccine vector antigens was 1.6 fold higher in NYVAC-C immunized animals. The superiority of MVA-C in inducing a specific anti-HIV immune response after a single immunization might be related with the capacity of this virus to activate the host innate immune response. MVA induces cellular infiltration and induction of cytokines such as type I IFNs, TNF-, and IL-6 [45], probably through TLR-mediated signalling which may lead to increased uptake and presentation of encoded and delivered antigen. Moreover, despite the ability of poxviruses to impair dendritic (DC) maturation in vitro, the important ability of MVA to boost CD8 T-cell response in vivo is mediated at the
+
+C.E. Go´mez et al. / Vaccine 25 (2007) 1969­1992
+
+1985
+
+Fig. 8. Humoral immune response elicited in mice by the recombinant poxvirus vectors. Groups of BALB/c and HHD mice inoculated by the protocol DNA-C prime/pox boost (Fig. 6, groups 1 and 2) and by the pox/pox combination (Fig. 7, groups 3 and 4). Ten days after the last immunization, blood was collected and serum samples pooled from the animals. Evaluation of antibody reactivity by Western blot in HHD mice with sera at 1:100 dilution (A) and in BALB/c mice with sera at 1:200 dilution (B). Sera was used in Western blots with extracts obtained at 24 h from WR-infected and uninfected (Mock) BSC-40 cells. The molecular masses in kDa of marker proteins are indicated to the left of the gels. Evaluation of antibody levels by ELISA from sera of HHD (C) and BALB/c (D) mice immunized with the different protocols indicated at the bottom of the figure. The sera for all samples were used at 1:500 dilution.
+
+level of the infected DC. MVA affect DCs in vivo by inducing their activation and maturation [46]. We do not discard the possibility that NYVAC-C might also activate the host innate immune response pathways, but this effect remains to be determined.
+The experience gained so far with the first generation of HIV-1 vaccine candidates has been that many were modestly immunogenic and only induced short-lived immune responses [47]. One of the strategies used over the last decade to increase their immunogenicity was to combine these vaccines in prime­boost vaccination regimens. Vaccination strategies in which a DNA prime is boosted with a poxvirus vector are especially effective and have emerged as the
+
+predominant approach for eliciting protective CD8+ T cell immunity [24,41,42,48­50]. In this study we compared the immune response elicited in transgenic HHD mice primed with DNA vectors expressing the HIV-1 Env (CN54gp120), and Gag-Pol-Nef antigens from clade C (referred as DNA-C) and boosted with either the poxvirus vectors (MVA-C and NYVAC-C) or with the same dose of DNA-C. We showed that prime­boost immunization scheme employing a naked DNA-C vector at priming and NYVAC-C at booster was an effective immunization protocol to induce specific cellular immune responses against HIV-1 peptide pools spanning Env and Gag HIV-1 antigens. When we analyzed the intrinsic cellular response directed against peptides represented in
+
+1986
+
+C.E. Go´mez et al. / Vaccine 25 (2007) 1969­1992
+
+Fig. 9. Immune responses elicited in BALB/c mice after subcutaneous inoculation with homologous combinations of MVA-C or NYVAC-C or heterologous
+combination of SFV-C and MVA-C or NYVAC-C. (A) Statistical significance by one-way analysis of variance test: MVA-C/MVA-C: GPN1, GPN2 and Env1
+vs. medium control, p < 0.01. NYVAC-C/NYVAC-C: GPN1, GPN2 and Env1 vs. medium, p < 0.01, p < 0.05 and p < 0.01, respectively. SFV-C/SFV-C: GPN1 and GPN2 vs. medium control, p < 0.01, respectively. (B) SFV-C/MVA-C (107): GPN2 vs. medium control, p < 0.01 SFV-C/MVA-C (106): GPN1, GPN2 and Env1 vs. medium, p < 0.01, p < 0.01 and p < 0.01, respectively. SFV-C/MVA-C (105): GPN2 and Env1 vs. medium control, p < 0.01 and p < 0.05, respectively. SFV-C/MVA-C (104): GPN2 and Env1 vs. medium control, p < 0.01. (C) SFV-C/NYVAC-C (107): GPN1, GPN2 and Env1 vs. medium control, p < 0.01. SFV-C/NYVAC-C (106): GPN1, GPN2 and Env1 vs. medium, p < 0.01. SFV-C/NYVAC-C (105): GPN1, GPN2 and Env1 vs. medium control, p < 0.01. SFVC/NYVAC-C (104): GPN1, GPN2 and Env1 vs. medium control, p < 0.01. (D) Magnitude of total responses shown cumulatively. Homologous prime­boost
+results for SFV-C (S) MVA-C (M) and NYVAC-C (N) are shown and for the heterologous SFV-C prime poxvirus-C boost experiments the dilution factor are
+indicated below the bars. Numbers of top of bars indicate incremental factors over responses of corresponding poxvirus homologous prime­boost results.
+
+C.E. Go´mez et al. / Vaccine 25 (2007) 1969­1992
+
+1987
+
+Fig. 9. (Continued ).
+
+each individual pool, we observed significant differences between them. Env-1 and Env-2 pools were the most immunogenic in the three groups of immunized mice. It has been reported that the immunological dominance between CTL epitopes would effectively reduce the breadth of the total response induced by vaccination [51,52]. In our case, the immunodominance exhibited by Env peptide pools might affect the recognition of the rest of peptide pools spanning the other HIV-1 antigens included in the candidate vaccines. When prime/boost was carried out with homologous and heterologous combinations of the poxvirus vectors in BALB/c mice, the heterologous NYVAC-C/MVA-C combination
+
+induced the highest and broadest cellular immune response. Interestingly, in this immunization approach the immunodominance of Env peptide pools was not observed. The GPN-1, GPN-2 and GPN-3 peptide pools were as efficiently recognized as the Env-1 peptide pools, whereas no specific response was detected against the Env-2 peptide pool. This result could be relevant in the design of an effective immunization protocol since it has been demonstrated that vaccines with very narrow CMI responses directed against one or a couple of epitopes can, over time, lose protective efficacy due to escape mutants of the infectious agent [19,53].
+
+1988
+
+C.E. Go´mez et al. / Vaccine 25 (2007) 1969­1992
+
+That the quality of the immune response obtained in prime/boost protocols using two different live recombinant vectors expressing the same HIV-1 antigens is better than homologous combination has been suggested by different groups. The use of strategies such as Ad5 vector followed by a poxvirus vector [54], or SFV vector followed by MVA [55], or VSV vector followed by MVA [56], or two successive adenovirus vectors, such as Ad11 and Ad35 [57], or two successive poxviruses, such as MVA and FPV (whose combination has been tested in Phase I trials in the USA and Brazil by Therion in collaboration with the NIAIDS), have extensively demonstrated the superiority of heterologous prime­boost regimens in inducing an efficient immune response. Our results indicate that combinations with MVA and NYVAC vectors, like NYVAC-C/MVA-C, that we have shown triggered a broad immune response to HIV-1C antigens, should be further explored in other animal models and humans. In this regard, the reduced antibody response to some late VV proteins raised in mice against NYVAC compared to MVA and the enhanced apoptosis induced by NYVAC might favour a NYVAC-C/MVA-C prime/boost combination.
+The use of heterologous vectors to prime the immune response elicited by the two poxvirus vectors at boosting has also been examined with the alphavirus SFV. An enhanced cellular immune response over that elicited by the homologous poxvirus vectors was obtained in prime/boost with SFV-C/poxvirus. Under those conditions, both the breadth and magnitude of the HIV-1C response was enhanced over the homologous poxvirus vector combinations. In contrast with the DNA/poxvirus combinations, where Env-1, Env-2 and Gag-1 were the most antigenic peptides, for both homologous pox prime­boost and for heterologous SFV-pox prime­boost, the most antigenic peptides were GPN-1, GPN-2 and Env-1.
+We have recently reported in mice a head-to-head comparison on the immunogenicity of MVA and NYVAC recombinants expressing the four HIV-1 antigens (gp120/Gag-Pol-Nef) from clade B [58]. A side-to-side comparison on the results presented in this study obtained with HIV-1 clade C antigens with respect to the analysis of the immune response to MVA and NYVAC expressing HIV-1 clade B antigens [58], revealed that the poxvirus recombinants behaved similarly in vitro and in vivo systems. In a DNA prime/poxvirus boost protocol, the Env peptide
+
+pools were immunodominant for both HIV-1 clades B and C, whereas in an homologous or heterologous combination of poxvirus vectors the breath of the immune response was, in addition to Env, expanded for the GPN pools. These observations could be interpreted in the way that when poxvirus vectors are used as booster, the priming vector DNA, SFV or pox influences the type of immune response. However, since these studies involved two different strains of mice (BALB/c and HHD) such conclusions must await further studies.
+For HIV and most other viruses, induction of Th1 type response, characterized by the production of IL-12, IL-2 and IFN- is more likely to provide protection than induction of Th2 type response characterized by the production of IL-4, IL-5, IL-10, IL-13 [59]. In our case, the pattern of cytokine secretion after restimulation with the clade C peptide pools indicated that the different protocols assayed induced a Th1 type response.
+Will the vectors generated in this study have utility as HIV/AIDS vaccines? There are several considerations in favour. First, similar MVA and NYVAC vectors as those described here but expressing HIV-1 89.6p env and SIVmac239GPN have been generated and shown in a DNA prime/pox boost protocol to elicit protection in macaques after a challenge with SHIV89.6p (Mooj, P et al., manuscript in preparation). Second, a phase I clinical trial conducted by EuroVacc using prime/boost with NYVAC-C indicated that the recombinant vector was safe and immunogenic (see www.EuroVacc.org). Third, another phase I clinical trial by EuroVacc in a DNA-C/NYVAC-C prime/boost protocol showed high immunogenicity of the vectors (manuscript in preparation). Thus, the results obtained in this investigation highlight the immunological relevance of the attenuated poxvirus vectors MVA-C and NYVAC-C as vaccine candidates against HIV/AIDS.
+Acknowledgments
+This investigation was supported by research grants from the EU (EuroVac QLRT-PL-1999-01321), the Spanish Ministry of Education and Science BIO2004-03954, the Spanish Foundation for AIDS Research (FIPSE 36344/02) and Fundacio´n Marcelino Bot´in. J.L. Na´jera was supported from FIPSE.
+
+C.E. Go´mez et al. / Vaccine 25 (2007) 1969­1992
+
+1989
+
+Appendix A. DNA sequence of MVA-C in the TK viral locus
+
+1990
+Appendix A (Continued )
+
+C.E. Go´mez et al. / Vaccine 25 (2007) 1969­1992
+
+Left TK flanking sequence CN54 gp120
+
+1­502 ATG-TGA (647­2143)
+
+E/L promoter for CN54gp120 E/L promoter for CN54Gag-Pol-Nef
+
+2153­2191 2206­2244
+
+CN54Gag-Pol-Nef Right TK flanking sequence
+
+ATG-TAA (2254­6507) 6656­7347
+
+Primers used to characterize the viral recombinants are in bold and underlined.
+
+Complementary Complementary Complementary
+Complementary
+
+C.E. Go´mez et al. / Vaccine 25 (2007) 1969­1992
+
+1991
+
+References
+[1] Esparza J, Bhamarapravati N. Accelerating the development and future availability of HIV-1 vaccines: why, when, where, and how? Lancet 2000;355(9220):2061­6.
+[2] Osmanov S, Pattou C, Walker N, Schwardlander B, Esparza J. Estimated global distribution and regional spread of HIV-1 genetic subtypes in the year 2000. J Acquir Immune Defic Syndr 2002;29(2):184­90.
+[3] van Harmelen J, Williamson C, Kim B, Morris L, Carr J, Karim SS, et al. Characterization of full-length HIV type 1 subtype C sequences from South Africa. AIDS Res Hum Retroviruses 2001;17(16):1527­31.
+[4] Novitsky VA, Montano MA, McLane MF, Renjifo B, Vannberg F, Foley BT, et al. Molecular cloning and phylogenetic analysis of human immunodeficiency virus type 1 subtype C: a set of 23 full-length clones from Botswana. J Virol 1999;73(5):4427­32.
+[5] Neilson JR, John GC, Carr JK, Lewis P, Kreiss JK, Jackson S, et al. Subtypes of human immunodeficiency virus type 1 and disease stage among women in Nairobi, Kenya. J Virol 1999;73(5):4393­403.
+[6] Peeters M, Vincent R, Perret JL, Lasky M, Patrel D, Liegeois F, et al. Evidence for differences in MT2 cell tropism according to genetic subtypes of HIV-1: syncytium-inducing variants seem rare among subtype C HIV-1 viruses. J Acquir Immune Defic Syndr Hum Retrovirol 1999;20(2):115­21.
+[7] Abebe A, Demissie D, Goudsmit J, Brouwer M, Kuiken CL, Pollakis G, et al. HIV-1 subtype C syncytium- and non-syncytium-inducing phenotypes and coreceptor usage among Ethiopian patients with AIDS. AIDS 1999;13(11):1305­11.
+[8] Rodenburg CM, Li Y, Trask SA, Chen Y, Decker J, Robertson DL, et al. Near full-length clones and reference sequences for subtype C isolates of HIV type 1 from three different continents. AIDS Res Hum Retroviruses 2001;17(2):161­8.
+[9] Burton DR, Desrosiers RC, Doms RW, Koff WC, Kwong PD, Moore JP, et al. HIV vaccine design and the neutralizing antibody problem. Nat Immunol 2004;5(3):233­6.
+[10] Richman DD, Wrin T, Little SJ, Petropoulos CJ. Rapid evolution of the neutralizing antibody response to HIV type 1 infection. Proc Natl Acad Sci USA 2003;100(7):4144­9.
+[11] Wei X, Decker JM, Wang S, Hui H, Kappes JC, Wu X, et al. Antibody neutralization and escape by HIV-1. Nature 2003;422(6929):307­12.
+[12] Emini EA, Koff WC. AIDS/HIV. Developing an AIDS vaccine: need, uncertainty, hope. Science 2004;304(5679):1913­4.
+[13] Garber DA, Silvestri G, Feinberg MB. Prospects for an AIDS vaccine: three big questions, no easy answers. Lancet Infect Dis 2004;4(7):397 ­413.
+[14] Letvin NL. Strategies for an HIV vaccine. J Clin Invest 2002;110(1): 15­20.
+[15] Koup RA, Safrit JT, Cao Y, Andrews CA, McLeod G, Borkowsky W, et al. Temporal association of cellular immune responses with the initial control of viremia in primary human immunodeficiency virus type 1 syndrome. J Virol 1994;68(7):4650­5.
+[16] Kuroda MJ, Schmitz JE, Charini WA, Nickerson CE, Lifton MA, Lord CI, et al. Emergence of CTL coincides with clearance of virus during primary simian immunodeficiency virus infection in rhesus monkeys. J Immunol 1999;162(9):5127­33.
+[17] Frahm N, Adams S, Kiepiela P, Linde CH, Hewitt HS, Lichterfeld M, et al. HLA-B63 presents HLA-B57/B58-restricted cytotoxic T-lymphocyte epitopes and is associated with low human immunodeficiency virus load. J Virol 2005;79(16):10218­25.
+[18] Frahm N, Kiepiela P, Adams S, Linde CH, Hewitt HS, Sango K, et al. Control of human immunodeficiency virus replication by cytotoxic T lymphocytes targeting subdominant epitopes. Nat Immunol 2006;7(2):173­8.
+[19] Barouch DH, Kunstman J, Kuroda MJ, Schmitz JE, Santra S, Peyerl FW, et al. Eventual AIDS vaccine failure in a rhesus monkey by viral escape from cytotoxic T lymphocytes. Nature 2002;415(6869):335­9.
+[20] Allen TM, O'Connor DH, Jing P, Dzuris JL, Mothe BR, Vogel TU, et al. Tat-specific cytotoxic T lymphocytes select for SIV escape variants
+
+during resolution of primary viraemia. Nature 2000;407(6802):386­ 90. [21] Schmitz JE, Kuroda MJ, Santra S, Sasseville VG, Simon MA, Lifton MA, et al. Control of viremia in simian immunodeficiency virus infection by CD8+ lymphocytes. Science 1999;283(5403):857­60. [22] Lifson JD, Rossio JL, Piatak Jr M, Parks T, Li L, Kiser R, et al. Role of CD8(+) lymphocytes in control of simian immunodeficiency virus infection and resistance to rechallenge after transient early antiretroviral treatment. J Virol 2001;75(21):10187­99. [23] Amara RR, Ibegbu C, Villinger F, Montefiori DC, Sharma S, Nigam P, et al. Studies using a viral challenge and CD8 T cell depletions on the roles of cellular and humoral immunity in the control of an SHIV-89.6P challenge in DNA/MVA-vaccinated macaques. Virology 2005;343(2):246­55. [24] Hel Z, Tsai WP, Thornton A, Nacsa J, Giuliani L, Tryniszewska E, et al. Potentiation of simian immunodeficiency virus (SIV)-specific CD4(+) and CD8(+) T cell responses by a DNA-SIV and NYVAC-SIV prime/boost regimen. J Immunol 2001;167(12):7180­91. [25] Excler JL. AIDS vaccine development: perspectives, challenges & hopes. Indian J Med Res 2005;121(4):568­81. [26] Sutter G, Staib C. Vaccinia vectors as candidate vaccines: the development of modified vaccinia virus Ankara for antigen delivery. Curr Drug Targets Infect Disord 2003;3(3):263­71. [27] Benson J, Chougnet C, Robert-Guroff M, Montefiori D, Markham P, Shearer G, et al. Recombinant vaccine-induced protection against the highly pathogenic simian immunodeficiency virus SIV(mac251): dependence on route of challenge exposure. J Virol 1998;72(5):4170­82. [28] Sauter SL, Rahman A, Muralidhar G. Non-replicating viral vectorbased AIDS vaccines: interplay between viral vectors and the immune system. Curr HIV Res 2005;3(2):157­81. [29] Nkolola JP, Essex M. Progress towards an HIV-1 subtype C vaccine. Vaccine 2006;24(4):391­401. [30] Tartaglia J, Perkus ME, Taylor J, Norton EK, Audonnet JC, Cox WI, et al. NYVAC: a highly attenuated strain of vaccinia virus. Virology 1992;188(1):217­32. [31] Ramirez JC, Gherardi MM, Esteban M. Biology of attenuated modified vaccinia virus Ankara recombinant vector in mice: virus fate and activation of B- and T-cell immune responses in comparison with the Western Reserve strain and advantages as a vaccine. J Virol 2000;74(2):923­33. [32] Chakrabarti S, Sisler JR, Moss B. Compact, synthetic, vaccinia virus early/late promoter for protein expression. Biotechniques 1997;23(6):1094­7. [33] Karlsson GB, Liljestrom P. Delivery and expression of heterologous genes in mammalian cells using self-replicating alphavirus vectors. Methods Mol Biol 2004;246:543­57. [34] Smerdou C, Liljestrom P. Two-helper RNA system for production of recombinant Semliki forest virus particles. J Virol 1999;73(2):1092­8. [35] Skoging U, Vihinen M, Nilsson L, Liljestrom P. Aromatic interactions define the binding of the alphavirus spike to its nucleocapsid. Structure 1996;4(5):519­29. [36] Pascolo S, Bervas N, Ure JM, Smith AG, Lemonnier FA, Perarnau B. HLA-A2.1-restricted education and cytolytic activity of CD8(+) T lymphocytes from beta2 microglobulin (beta2m) HLA-A2.1 monochain transgenic H-2Db beta2m double knockout mice. J Exp Med 1997;185(12):2043­51. [37] Miyahira Y, Murata K, Rodriguez D, Rodriguez JR, Esteban M, Rodrigues MM, et al. Quantification of antigen specific CD8+ T cells using an ELISPOT assay. J Immunol Methods 1995;181(1):45­54. [38] Najera JL, Gomez CE, Domingo-Gil E, Gherardi MM, Esteban M. Cellular and biochemical differences between two attenuated poxvirus vaccine candidates (MVA and NYVAC) and role of the C7L gene. J Virol 2006;80(12):6033­47. [39] Guerra S, Lopez-Fernandez LA, Pascual-Montano A, Najera JL, Zaballos A, Esteban M. Host response to the attenuated poxvirus vector NYVAC: upregulation of apoptotic genes and NF-kappaB-responsive genes in infected HeLa cells. J Virol 2006;80(2):985­98.
+
+1992
+
+C.E. Go´mez et al. / Vaccine 25 (2007) 1969­1992
+
+[40] Hanke T, McMichael A. Pre-clinical development of a multi-CTL epitope-based DNA prime MVA boost vaccine for AIDS. Immunol Lett 1999;66(1­3):177­81.
+[41] Amara RR, Villinger F, Staprans SI, Altman JD, Montefiori DC, Kozyr NL, et al. Different patterns of immune responses but similar control of a simian-human immunodeficiency virus 89.6P mucosal challenge by modified vaccinia virus Ankara (MVA) and DNA/MVA vaccines. J Virol 2002;76(15):7625­31.
+[42] Gomez CE, Abaitua F, Rodriguez D, Esteban M. Efficient CD8+ T cell response to the HIV-env V3 loop epitope from multiple virus isolates by a DNA prime/vaccinia virus boost (rWR and rMVA strains) immunization regime and enhancement by the cytokine IFN-gamma. Virus Res 2004;105(1):11­22.
+[43] Sundback M, Douagi I, Dayaraj C, Forsell MN, Nordstrom EK, McInerney GM, et al. Efficient expansion of HIV-1-specific T cell responses by homologous immunization with recombinant Semliki Forest virus particles. Virology 2005;341(2):190­202.
+[44] Liu J, Wyatt LS, Amara RR, Moss B, Robinson HL. Studies on in vitro expression and in vivo immunogenicity of a recombinant MVA HIV vaccine. Vaccine 2006;24(16):3332­9.
+[45] Guerra S, Lopez-Fernandez LA, Conde R, Pascual-Montano A, Harshman K, Esteban M. Microarray analysis reveals characteristic changes of host cell gene expression in response to attenuated modified vaccinia virus Ankara infection of human HeLa cells. J Virol 2004;78(11):5820­34.
+[46] Behboudi S, Moore A, Gilbert SC, Nicoll CL, Hill AV. Dendritic cells infected by recombinant modified vaccinia virus Ankara retain immunogenicity in vivo despite in vitro dysfunction. Vaccine 2004;22(31­32):4326­31.
+[47] Girard MP, Steele D, Chaignat CL, Kieny MP. A review of vaccine research and development: human enteric infections. Vaccine 2006;24(15):2732­50.
+[48] Wyatt LS, Earl PL, Liu JY, Smith JM, Montefiori DC, Robinson HL, et al. Multiprotein HIV type 1 clade B DNA and MVA vaccines: construction, expression, and immunogenicity in rodents of the MVA component. AIDS Res Hum Retroviruses 2004;20(6):645­53.
+[49] Vuola JM, Keating S, Webster DP, Berthoud T, Dunachie S, Gilbert SC, et al. Differential immunogenicity of various heterologous prime­boost vaccine regimens using DNA and viral vectors in healthy volunteers. J Immunol 2005;174(1):449­55.
+
+[50] Zavala F, Rodrigues M, Rodriguez D, Rodriguez JR, Nussenzweig RS, Esteban M. A striking property of recombinant poxviruses: efficient inducers of in vivo expansion of primed CD8(+) T cells. Virology 2001;280(2):155­9.
+[51] Rodriguez F, Harkins S, Slifka MK, Whitton JL. Immunodominance in virus-induced CD8(+) T-cell responses is dramatically modified by DNA immunization and is regulated by gamma interferon. J Virol 2002;76(9):4251­9.
+[52] Palmowski MJ, Choi EM, Hermans IF, Gilbert SC, Chen JL, Gileadi U, et al. Competition between CTL narrows the immune response induced by prime­boost vaccination protocols. J Immunol 2002;168(9):4391­8.
+[53] Pantaleo G, Menzo S, Vaccarezza M, Graziosi C, Cohen OJ, Demarest JF, et al. Studies in subjects with long-term nonprogressive human immunodeficiency virus infection. N Engl J Med 1995;332(4):209­16.
+[54] Casimiro DR, Bett AJ, Fu TM, Davies ME, Tang A, Wilson KA, et al. Heterologous human immunodeficiency virus type 1 priming-boosting immunization strategies involving replication-defective adenovirus and poxvirus vaccine vectors. J Virol 2004;78(20):11434­8.
+[55] Nilsson C, Makitalo B, Berglund P, Bex F, Liljestrom P, Sutter G, et al. Enhanced simian immunodeficiency virus-specific immune responses in macaques induced by priming with recombinant Semliki Forest virus and boosting with modified vaccinia virus Ankara. Vaccine 2001;19(25­26):3526­36.
+[56] Ramsburg E, Rose NF, Marx PA, Mefford M, Nixon DF, Moretto WJ, et al. Highly effective control of an AIDS virus challenge in macaques by using vesicular stomatitis virus and modified vaccinia virus Ankara vaccine vectors in a single-boost protocol. J Virol 2004;78(8):3930­40.
+[57] Lemckert AA, Sumida SM, Holterman L, Vogels R, Truitt DM, Lynch DM, et al. Immunogenicity of heterologous prime­boost regimens involving recombinant adenovirus serotype 11 (Ad11) and Ad35 vaccine vectors in the presence of anti-ad5 immunity. J Virol 2005;79(15):9694­701.
+[58] Go´mez CE, Na´jera JL, Pe´rez Jime´nez E, Jime´nez V, Wagner R, Graf M, et al. Head-to-head comparison on the immunogenicity of two HIV/AIDS vaccine candidates based on the attenuated poxvirus strains MVA and NYVAC co-expressing in a single locus the HIV-1BX08 gp120 and HIV-1IIIB Gag-Pol-Nef proteins of clade B. Vaccine, in press. doi:10.1016/j.vaccine.2006.09.090.
+[59] Graham BS. Clinical trials of HIV vaccines. Annu Rev Med 2002;53:207­21.

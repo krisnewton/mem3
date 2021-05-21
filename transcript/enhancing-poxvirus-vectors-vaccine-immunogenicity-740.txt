@@ -1,0 +1,455 @@
+Commentary
+Human Vaccines & Immunotherapeutics 10:8, 1­10; August 2014; © 2014 Landes Bioscience
+
+Commentary
+
+©2014 Landes Bioscience. Do not distribute.
+
+Enhancing poxvirus vectors vaccine immunogenicity
+Juan García-Arriaza and Mariano Esteban*
+Department of Molecular and Cellular Biology; Centro Nacional de Biotecnología; Consejo Superior de Investigaciones Científicas (CSIC); Madrid, Spain
+
+Keywords: poxvirus, immunogenicity, vaccines, recombinants, vector improvements
+*Correspondence to: Mariano Esteban; Email: mesteban@cnb.csic.es
+Submitted: 04/12/2014
+Accepted: 04/23/2014
+Published Online: 05/05/2014
+http://dx.doi.org/10.4161/hv.28974
+
+Attenuated recombinant poxvirus vectors expressing heterologous antigens from pathogens are currently at various stages in clinical trials with the aim to establish their efficacy. This is because these vectors have shown excellent safety profiles, significant immunogenicity against foreign expressed antigens and are able to induce protective immune responses. In view of the limited efficacy triggered by some poxvirus strains used in clinical trials (i.e, ALVAC in the RV144 phase III clinical trial for HIV), and of the restrictive replication capacity of the highly attenuated vectors like MVA and NYVAC, there is a consensus that further improvements of these vectors should be pursuit. In this review we considered several strategies that are currently being implemented, as well as new approaches, to improve the immunogenicity of the poxvirus vectors. This includes heterologous prime/ boost protocols, use of co-stimulatory molecules, deletion of viral immunomodulatory genes still present in the poxvirus genome, enhancing virus promoter strength, enhancing vector replication capacity, optimizing expression of foreign heterologous sequences, and the combined use of adjuvants. An optimized poxvirus vector triggering longlasting immunity with a high protective efficacy against a selective disease should be sought.
+Introduction
+Vaccination is considered to be the most effective and less expensive strategy for the control and eradication of human diseases. While many infectious
+
+diseases have been controlled through vaccination, however, there are others for which vaccines are not yet available. In fact, infectious diseases are responsible for more than 15 million deaths a year, and affect the health and life expectancy worldwide.1 Furthermore, on a yearly basis about 2 million people died from human immunodeficiency virus (HIV), 1.5 million from tuberculosis, 700000 from malaria, 12 million are infected with leishmania species, and 170 million are infected with hepatitis C (HCV), to cite a few examples. Moreover, cancer with an estimated 13.1 million deaths in 2030, as well as diseases of the elderly, like Alzheimer and Parkinson, for which effective treatments are not available, are being approached by vaccination. The difficulties encountered in vaccine development are largely due to a lack of understanding of the pathology of the microorganism, the virus-host interaction, the immunogen design, the immunization protocols, and the definition of immune correlates of protection. With the new technological advances derived from system biology and immunological approaches, now the way we look at vaccination has changed, and the finding of vaccines that could control the impact of these infectious diseases is one of the main priorities in the research field. However, the complexity of the pathogens, the co-infections, and the emergence of new drug resistant microbes highlight the need of new antimicrobial agents based on innovative therapeutic strategies, new vaccines, and other preventive approaches.
+Poxviruses belong to the Poxviridae family and to the Chordopoxvirinae subfamily, and contain a doublestranded DNA genome. One of the main
+
+www.landesbioscience.com
+
+Human Vaccines & Immunotherapeutics
+
+1
+
+©2014 Landes Bioscience. Do not distribute.
+
+characteristics of these viruses is that large foreign DNA sequences can be inserted in their genome, allowing their use as vectors for heterologous gene sequences which encode antigens derived from several pathogens (such as parasites, bacteria, and viruses), tumor cells, or other foreign sequences. Therefore they are ideal vectors to be used as recombinant poxvirus vaccines. Moreover, there are several advantages in the use of poxvirus vectors as vaccines: (1) packing flexibility of the genome, (2) lack of persistence or genomic integration in the host due to their cytoplasmic replication, (3) ability to induce both antibody and cytotoxic T cell responses against the heterologous antigens with long-lasting immunity, (4) thermostability of freeze-dried vaccine, low cost, ease of manufacture and administration, and (5) low prevalence of anti-vector immunity in the global population due to the interruption of smallpox vaccination in the 1970s following its eradication. Since in the early 1980s recombinant vaccinia virus (VACV) strains expressing foreign genes were constructed,2,3 poxviruses have played a main role as candidate vector systems for vaccination against a broad spectrum of infectious diseases and several recombinant poxvirus vaccine candidates have been successfully assayed in preclinical and clinical trials using homologous or heterologous combinations in the prevention and treatment of different human and animal diseases.4-17 These vectors provide unique forms of viral vaccines that combine the safety of a killed virus vaccine due to their impaired replication capacity with the immunogenicity of a live virus vaccine by expressing gene products within cells that are efficiently presented by both major histocompatibility complex (MHC) class I and class II pathways, leading to the activation of antigen-specific CD4+ and CD8+ T cells, to the induction of antigenspecific antibodies and to the activation of the innate immune responses.
+Some attenuated poxvirus vectors, like ALVAC, modified vaccinia virus Ankara (MVA), NYVAC, and Fowlpox, are the most promising vectors and they have entered into a large number of clinical trials with some of them rapidly moving forward into more advanced prophylactic and therapeutic clinical trials as vaccines
+
+against many diseases. However, despite the good safety and immunogenicity profiles exhibited by these attenuated poxvirus recombinant vectors, novel optimizing more efficient poxvirus vectors with an enhanced magnitude, breadth, polyfunctionality, and durability of the immune responses to exogenously expressed antigens are desirable, and further improvements of these vectors should be pursuit. Preclinical trials in animal models (such as mice and non-human primates) are essential to evaluate the safety and immunogenicity of these novel optimizing poxvirus vectors, and the results obtained will give important information to choose the bestin-class vaccine candidates for evaluation in future human clinical trials. Moreover, the animal studies will provide relevant insights in the immune correlates of protection. Thus, an optimized poxvirus vector inducing long-lasting immunity with a high protective efficacy should be sought.
+In this review we describe several approaches for vaccine improvements of poxvirus vectors, with particular emphasis in the 2 candidate vaccine vectors most extensively used, MVA and NYVAC. Clinical application of these vectors as vaccines are considered in other reviews.4,6-15
+Vaccine Improvements of Poxvirus Vectors
+Heterologous prime/boost protocols One of the strategies experienced over the last decades to increase the immunogenicity of poxvirus vectors is to combine the vaccines in "prime-boost" vaccination regimens. We, in collaboration with other colleagues, pioneered a prime/boost protocol to enhance specific CD8+ T cell immune responses with poxvirus vectors, revealing the order of heterologous vector delivery and immune requirements for protection after challenge in the murine malaria model.18-20 These heterologous prime/boost protocols when combined with a poxvirus vector are now widely used in many preclinical and clinical trials.4,6-15 Most of the clinical trials used a poxvirus vector in combination with other vectors and the findings thus far are consistent with: (1) the use of a poxvirus as a booster component to enhance the magnitude
+
+of the antigen-specific T cell responses; (2) as a priming component in combination with a protein plus an adjuvant to enhance B cell responses and trigger effective antibody responses to the foreign antigen. As an example, the use of MVA recombinants as the boosting immunogen in combination with different vectors such as recombinant influenza virus,21 adenoviruses,22-26 DNA vectors27-29, or other poxvirus strains18,19,30 has proven to be an excellent regimen to elicit antigen-specific immune responses and, more importantly, to trigger protection against different pathogens.
+Use of co-stimulatory molecules The purpose of this strategy is to improve the immunogenicity and efficacy of poxvirus vectors by the simultaneous co-delivery within cells of cytokines/chemokines together with the expressed foreign antigen. This has been accomplished either through genomic integration of the gene encoding the immune-stimulating molecule under control of a virus promoter or by the simple exogenous inoculation of soluble molecules in an organism. Thus, numerous studies have shown that insertion into the poxvirus vector genome or exogenous inoculation of some co-stimulatory molecules, such as interleukin (IL)12,31-37 interferon (IFN)-,31,38 IL-2,39-41 IL-15,42-47 OX40/OX40L,48-50 a triad of B7­1, ICAM-1, LFA-3 molecules,49,51-57 a triad of CD80, CD86, and CD83 molecules,58 CD40L,59-62, or GM-CSF36,63-67 significantly enhances the immunogenicity and efficacy of the poxvirus vector as vaccine against different diseases. Some of these molecules are now being tested with poxvirus vectors in clinical trials.10 Deletion of viral immunomodulatory genes still present in the poxvirus genome While studies on how the vector impacts on the cell have progressed significantly over the last few years and an important knowledge is rapidly emerging on the signaling pathways and on host immune responses to the vector, however, less is known on how the vector impacts tissues in an organism and the consequences for activation of host immune responses. This behavior will be conditioned by the influence of viral immunomodulatory genes expressed from the poxvirus genome.
+
+2
+
+Human Vaccines & Immunotherapeutics
+
+Volume 10 Issue 8
+
+©2014 Landes Bioscience. Do not distribute.
+
+Thus, a complementary approach that is currently assayed to enhance the immunogenicity of the poxvirus vectors is the deletion of viral immunomodulatory genes, that are still present in the poxvirus vector genome, and whose gene products may be predicted to interfere with the optimal induction of cellular and humoral responses triggered by the host.8,68-70 This strategy has been extensively developed during the last years in MVA and NYVAC recombinants used as vaccine candidates against HIV/AIDS, where different vector-based HIV vaccines with deletions in single and multiple immunomodulatory VACV genes which antagonize host specific immune responses have been generated. The overall results obtained in preclinical studies in mice71-79 and nonhuman primates80,81 showed a significant immunological benefit with an enhancement in the immunogenicity against HIV antigens compared with their parental poxvirus-based HIV vaccines. For example, a single deletion in the MVA vector of VACV genes encoding inhibitors of type I IFN signaling pathway (C6L),76 apoptosis (F1L),79 IL-18 binding protein (C12L)72 or an inhibitor of IRF-3 (N2L),74 enhanced the overall immune responses to HIV-1 antigens, with an increase in the magnitude, polyfunctionality, and durability of HIV-1-specific CD4+ and CD8+ T cells. However, when additional deletions were introduced in the MVA vector, the antigen-specific immune responses triggered were variable, either enhanced or suppressed. On one hand, responses against HIV-1 antigens were further enhanced using MVA vectors with 2 VACV gene deletions, A41L/B16R75 or C6L/K7R.73 On the other hand, 4 deletions in MVA [IL-18 binding protein (C12L), Toll/IL-1 receptor homolog (A46R), CC-chemokine binding protein (B7R) and secreted IL-1 receptor (B16R)] enhanced by 6-fold the frequencies of HIV-1-specific CD4+ and CD8+ T cell responses, while an additional deletion of uracyl-DNA glycosylase (MVA101R) decreases the responses, as evaluated in macaques.80 Interestingly, deletion of VACV genes in the vector backbone of an MVA vector expressing Env, Gag, Pol, and Nef from clade B (MVA-B) was able to induce a shift in the HIV-1 CD8+ T cell immune responses
+
+in immunized mice; with the parental MVA vector inducing mainly Env-specific CD8+ T cell immune responses and the MVA-B deletion mutants inducing preferentially Gag-Pol-Nef-specific CD8+ T cell immune responses, both in the adaptive and memory phases.73,75,76 In addition, MVA-B deletion mutants induced an increase in the CD8+ T effector memory cells,73-76 a parameter which have been described to correlate with HIV-1 viral control in early and chronic infection in humans,82-84 and on the early control of highly pathogenic SIV in non-human primates.85,86 Furthermore, a novel MVA vector lacking the viral genes C6L, K7R, and A46R and expressing the chikungunya structural antigens has been shown to induce in mice potent B and T cell immune responses with full protection against challenge after a single virus vector dose.87 Moreover, NYVAC vectors with a single deletion of a VACV gene encoding a TLR inhibitor (A46R),78 and with a single or double deletions of VACV genes encoding type I and II IFN-binding proteins (B8R, B19R)77 respectively, were also able to enhance the immune responses to HIV-1 antigens in mice.
+From all these observations, it is clear the contribution of poxviral genes as antagonists of the immune system and that their removal results in an enhancement of the immune responses to specific foreign antigens delivered from the vector, particularly CD4+ and CD8+ T cells, with the latter being the dominant. Moreover, these immunological studies pointed out to the further improvement of the poxvirus vector as a vaccine candidate. Evaluating the role played by all of the poxvirus immunomodulatory genes, with the aim to develop optimal vectors for vaccine considerations, should be undertaken. Therefore, novel optimized poxvirus vectors with deletions in VACV genes that enhanced antigen-specific immune responses are potential vaccine candidates. Future preclinical trials in non-human primates and clinical trials in humans with these novel poxvirus deletion mutants are ongoing and necessary to test whether these recombinants promote a higher antigen-specific immune response that could correlate with protection, than parental vectors.
+
+Enhancing virus promoter strength The purpose of this strategy is to optimize the virus promoter strength to improve the levels of the foreign antigen expressed by the recombinant poxvirus vector, and to express the heterologous antigen at very early times postinfection, because it has been shown that the levels of recombinant antigen expressed from poxvirus vectors correlates with the magnitude of the immune responses in mice,88 and timing of expression influence the type (CD4+ or CD8+), quantity and quality of the immune response.89-92 Thus, the timing of expression of heterologous antigens in the VACV system affects the capacity to induce antigen-specific T cell immune responses89 since the efficiency with which an antigen is processed and presented on the surface of infected cells influences its recognition.93 Moreover, the transgene expression levels are also dependent on the route of immunization.94 Considering that immunodominance is defined as the phenomenon whereby only a small fraction of all of the possible epitopes from a particular pathogen elicits an immune response in an infected individual,95 it is possible to modulate such immunodominance hierarchy changing the timing and the quantity of intracellular antigen production.96 In fact, it has been described that in VACV 90% of the most recognized antigens by CD8+ T cells were ranked in the top of 50% in terms of mRNA expression97 and there is a correlation between viral gene expression and immunodominance hierarchy after a second immunization due to a mechanism of cross-competition between T cells specific for early and late viral epitopes.98 Recently, after a deep sequence analysis of VACV transcriptome, 2 groups have defined 2 categories of early genes based on their temporal expression.99,100 Poxvirus vectors promoters with both early and/or late activity are used to direct the expression of foreign antigens to ensure that adequate expression levels are present at the appropriate time for induction of strong immune responses. The VACV TK locus has been traditionally used for insertion of heterologous sequences,101 although it has been reported the use of endogenous MVA promoters in situ (at their natural site in the MVA genome) by
+
+www.landesbioscience.com
+
+Human Vaccines & Immunotherapeutics
+
+3
+
+©2014 Landes Bioscience. Do not distribute.
+
+the deletion of the downstream genes and the subsequent insertion of a transgene at the deletion site.102 Promoter strength is variable and can be a constitutive early/ late promoter, such as p7.5, mH5 and the short synthetic promoter PrS,102-105 with exceptional strong intermediate/ late promoters such as I1L.106 The work in the identification of viral promoters able to accelerate foreign gene expression with time of infection is expanding, and different viral promoters are being used to enhance expression of genes of interest.89,102,103,107-109 For example, to enhance the promoter strength, some promoters such as PrS were designed in silico based on early and late consensus motifs observed in native poxvirus promoters.103 In addition, the hybrid early-late synthetic promoter pHyb has been shown to drive the expression of antigens earlier during infection when compared with the PrS and p7.5k promoters and also to induce stronger CD8+ T cell responses after repeated vaccinations.89 Also, it has been reported that a novel naturally occurring tandem promoter in MVA termed MVA13.5L drives very early gene expression and potent immune responses.109 Moreover, we have recently described a new synthetic Late-Early Optimized (LEO) VACV promoter that was designed after bioinformatic analysis, and in vitro significantly enhanced the levels of the foreign antigen green fluorescent protein (GFP) within the first hour after infection, which correlates with an enhancement in the GFPspecific CD8+ T cell immune response detected in vivo (mice) and compared with the commonly used synthetic early/ late promoter, demonstrating its potential use in future vaccines.107
+Thus, novel optimizing promoters represent excellent prototypes for future usage to potentiate the expression of antigens from different pathogens and to generate safe VACV recombinant based vaccines able to induce potent immune responses that prevent the development of the disease.
+Enhancing vector replication capacity This strategy involves the generation of new vectors with an attenuated phenotype and with replication competence in human cells in order to increase the
+
+timing and level of expression of the heterologous antigen in the host. To date, some replication-competent recombinant VACV-based vaccines have been used for various infectious diseases, demonstrating that they are able to elicit potent humoral and cellular immune responses and to confer long-lasting protection while maintaining a safety profile.110-113
+We have previously reported that insertion of the host range C7L gene into NYVAC recombinant vectors expressing HIV-1 antigens significantly improved the magnitude and quality of the HIV-specific immune responses in mice.112 Moreover, restoration of replication competence in human cells of a NYVAC recombinant expressing HIV-1 antigens from clade C (NYVAC-C) by re-incorporation of the K1L and C7L host range VACV genes (NYVAC-C-KC) or combination of restoration of replication competence with removal of the immunomodulatory viral molecule B19 protein (NYVAC-C-KCB19R) increased the expression of the heterologous antigen in infected human cells. This in turns, elicits an enhanced cross-presentation to HIV-specific CD8+ T cells and proliferation of HIV-specific memory CD8+ T cells in vitro, and selectively activated IFN-induced genes and genes involved in antigen processing and presentation, as determined by microarray analysis of infected human dendritic cells (DCs), while maintained limited virus spread in tissues and an attenuated phenotype.114,115 Other attenuated replication competent vectors are M65 and M101, derived from the Western Reserve (WR) strain after multiple passages in Friend erytroleukemia cells, that have been shown to contain mutations in multiple gene sequences but with the capacity to trigger immunogenicity and protection against leishmania parasitic infection.116 Another replication-competent and attenuated smallpox-derived vaccines, such as the Japanese LC16m8 (derived from the Lister vaccinia strain),117-119 and the Chinese Tian-Tan strains111,120,121 are also being investigated as vaccines for other diseases. Moreover, myxomavirus have been used as a promising vaccine candidate against several types of cancer,
+
+due to the oncolytic ability of this poxvirus to specifically infect various classes of human cancer cells.122
+Optimizing expression of foreign heterologous sequences
+In addition to the modifications of the vector backbone described above, another approach to improve the immunogenicity of a poxvirus vector is through optimization of the expressed antigen. This can be accomplished by codon optimization and protein design, although a rational design of the heterologous transgene inserted in the poxvirus vector has not been extensively reported. It has been shown that the insertion in the transgene of an N-terminal signal peptide enhanced antibody immunogenicity from recombinant VACV.123 Furthermore, a recombinant VACV expressing mosaic immunogen sequences designed to represent all of the potential HIV-1-specific T lymphocyte epitopes, elicited CD8+ T cell responses that confer enhanced immune coverage of diverse HIV-1 strains in monkeys,124 showing that the mosaic immunogen induces greater cross-reactivity than the consensus immunogen. This increased breadth and depth of epitope recognition could contribute to protection against infection by genetically diverse viruses and, in some instances, may block the emergence of common variant viruses. Moreover, recently it has been described that poxvirus vector-based vaccines expressing HIV-1 mosaic Env, Gag, and Pol in combination with adenovirus vectors, afforded a significant reduction in the acquisition risk following SHIVSF162P3 challenge, with protection against acquisition of infection correlating with vaccine-elicited binding, neutralizing, and functional non-neutralizing antibodies.125 These data suggest that the coordinated activity of multiple antibody functions may contribute to protection against difficult-to-neutralize viruses, and demonstrate the protective efficacy of HIV-1 mosaic antigens.
+Also, the use of conserved immunogens in prime-boost strategies has been established.126 Additionally, in the case of MVA and NYVAC recombinants expressing HIV-1 antigens, we have developed different forms of Env and of Gag
+
+4
+
+Human Vaccines & Immunotherapeutics
+
+Volume 10 Issue 8
+
+©2014 Landes Bioscience. Do not distribute.
+
+antigens that have been engineered to produce cell-released products, as gp120, trimeric gp140, and of a polyprotein of Gag-Pol-Nef, either remaining intracellular or being released as Gag-derived VLPs.27,115,127 These modifications have the added advantage of removing nondesirable sequences, to improve the stability of the recombinant vector and of the expressed antigen. Moreover, a cellreleased product will be important for an optimal and higher induction of antibody responses. Mice immunized with these novel recombinants poxvirus vectors have shown enhanced HIV-1-specific immune responses,27,127 reinforcing these new vectors as future promising components of an HIV/AIDS vaccine candidate. These MVA and NYVAC vectors have shown good immunological behavior in phase I clinical trials.128-132
+Combined use of adjuvants While poxvirus virions per se are potent immunogens, the vectors can themselves act as immunogens when combined with other antigens. In fact, the HIV RV144 phase III clinical trial133 has shown that the combination of the poxvirus vector ALVAC expressing HIV-1 antigens and a purified HIV-1 gp120 is an effective approach to induce high affinity antibodies that correlate with protection.134-138 The experience accumulated thus far is that, some adjuvants when combined with different poxvirus vectors can enhance the antigen-specific immune responses. For example, the multimeric soluble CD40 ligand (sCD40L) efficiently enhanced HIV-specific cellular immune responses during DNA prime and boost with MVA and NYVAC expressing HIV-1 antigens,59 and CD40L expressed from the canarypox vector, ALVAC, boost the immunogenicity of HIV-1 canarypox vaccine in mice and enhanced the in vitro expansion of viral specific CD8+ T cell memory responses from HIV-1-infected and HIV1-uninfected individuals.61 Furthermore, genetic adjuvantation of recombinant MVA with CD40L potentiates CD8+ T cell mediated immunity,60 and oncolytic vaccinia virus coding for CD40L mediates multiple antitumor effects including oncolysis, apoptosis, and induction of Th1 type T-cell responses.62 Recently, it has been described that Glucopyranosyl Lipid
+
+A (GLA) adjuvant significantly enhances HIV-1-specific T and B cell responses elicited by a DNA-MVA-protein vaccine regimen.139 Moreover, a MVA prime followed by either intranasal or systemic protein boosts together with the adjuvant MF59 can elicit strong humoral responses in breast milk and may be a useful strategy to interrupt postnatal HIV-1 transmission in non-human primates.140 In addition, the use of the adjuvant IC31, a TLR9 agonist, in immunized mice greatly improves vaccination immunogenicity in terms of the development of Env-specific humoral and cellular responses, when combined with a NYVAC-CN54 expressing HIV envelope gp120.141 Other adjuvants, like poly I:C are also being tested in preclinical trials in combination with poxvirus vectors.142 In addition, targeting HIV-1 proteins to dendritic cells by fusion with specific cell receptors followed by a poxvirus boost is another encouraging strategy to enhance HIV-specific immune responses.142
+Moreover, oligomeric fusion proteins act also as stronger immunogens than single components. In fact, chimeras between VACV proteins and HIV Env had shown enhanced B and T cell responses to HIV-1 antigens.143 In this way, we have recently described a fusion protein based on the VACV A27 protein (14 kDa) fused together with the circumsporozoite protein of Plasmodium (CS-14K). This fusion protein forms stable oligomers, was produced in quantities as a soluble product in E. coli, have an adjuvant-like effect, and when administered to mice in the absence of adjuvant and in combination with MVA expressing the CS protein of P. yoelii (MVA-PyCS), induced sterile protection after challenge with sporozoites of P. yoelii.144
+Concluding Remarks
+Since the demonstration by Jenner in 1796 that effective vaccination against smallpox was possible with a poxvirus vector, the declaration of eradication of this deadly disease by WHO in 1980 and the discovery of insertion of foreign genes encoding antigens in the genome of the poxvirus vector in 1982, with wide consequences on its use as vaccines against
+
+multiple pathogens, a burst of scientific publications have been produced since them highlighting the potential clinical benefits of the recombinant poxvirus vectors as vaccines. While different poxvirus vectors have been or are currently being tested as human vaccines, there is as yet no recombinant poxvirus vector approved for use as human vaccine, with the exception in the veterinary field where several poxvirus vector vaccines are commercially available in the market. However, in light of the approval in Europe and Canada of the non-recombinant poxvirus vector MVA as a preventive vaccine for smallpox, and of the numerous clinical trials with attenuated poxvirus vectors for viral, parasitic, and tumor diseases, a major emphasis in the vaccine field is to optimally apply the newly generated vectors as immunogens. Different strategies have been followed, mainly, the heterologous prime/boost combination between vectors. From the lessons learned in the HIV RV144 phase III clinical trial, and on the use of highly attenuated replication restricted vectors like MVA and NYVAC, it is clear that the vectors currently being tested are not optimal. This is because the poxvirus genome contains multiple genes that antagonize the immune responses.
+With the aim to optimally design a pox vector with enhanced ability to trigger B and T cell immune responses to foreign antigens superior to the current vectors, in this review we proposed several strategies in the rational design of poxvirus vectors that include, prime/boost protocols, use of co-stimulatory molecules, deletion of viral immunomodulatory genes still present in the poxvirus genome, enhancing virus promoter strength, enhancing vector replication capacity, optimizing expression of foreign heterologous sequences, and the combined use of adjuvants. These strategies can be applied to any particular poxvirus strain, whether is replication restricted or replication competent. The implementation of any of these strategies will be dictated by the final aim to be pursuit, that is, an optimized poxvirus vector triggering long-lasting immunity with a high protective efficacy against a specific disease.
+Undoubtedly, for the better design of vaccines based on poxvirus vectors, we still
+
+www.landesbioscience.com
+
+Human Vaccines & Immunotherapeutics
+
+5
+
+©2014 Landes Bioscience. Do not distribute.
+
+need to know many fundamental aspects of the biology of the vectors and their interaction with the host immune system. The implementation of system biology, proteomics, bioinformatics, and imaging will help to unravel immune mechanisms related to protection. An understanding of the role played by the different viral genes with immunosuppressive properties will be critical in the better design of poxvirus vector vaccines with a major impact on the immune system. Scientific discoveries from studies of the immune biology of this class of DNA vectors and correlates of protection, will gradually be made in the years ahead.
+Disclosure of Potential Conflicts of Interest
+No potential conflicts of interest were disclosed.
+Acknowledgments
+We thank the members of Esteban's laboratory for developing some of the strategies described in this report and for productive discussions. We are thankful to the Spanish financing agencies, MINECO SAF2008-02036, Red de Sida and FIPSE, as well as to the Bill and Melinda Gates Foundation for support.
+References
+1. Fauci AS. The global challenge of infectious diseases: the evolving role of the National Institutes of Health in basic and clinical research. Nat Immunol 2005; 6:743-7; PMID:16034426; http://dx.doi. org/10.1038/ni0805-743
+2. Mackett M, Smith GL, Moss B. Vaccinia virus: a selectable eukaryotic cloning and expression vector. Proc Natl Acad Sci U S A 1982; 79:74159; PMID:6296831; http://dx.doi.org/10.1073/ pnas.79.23.7415
+3. Panicali D, Paoletti E. Construction of poxviruses as cloning vectors: insertion of the thymidine kinase gene from herpes simplex virus into the DNA of infectious vaccinia virus. Proc Natl Acad Sci U S A 1982; 79:4927-31; PMID:6289324; http://dx.doi. org/10.1073/pnas.79.16.4927
+4. Boukhebza H, Bellon N, Limacher JM, Inchauspé G. Therapeutic vaccination to treat chronic infectious diseases: current clinical developments using MVA-based vaccines. Hum Vaccin Immunother 2012; 8:1746-57; PMID:22894957; http://dx.doi. org/10.4161/hv.21689
+5. Cottingham MG, Carroll MW. Recombinant MVA vaccines: dispelling the myths. Vaccine 2013; 31:4247-51; PMID:23523407; http://dx.doi. org/10.1016/j.vaccine.2013.03.021
+6. Draper SJ, Cottingham MG, Gilbert SC. Utilizing poxviral vectored vaccines for antibody inductionprogress and prospects. Vaccine 2013; 31:422330; PMID:23746455; http://dx.doi.org/10.1016/j. vaccine.2013.05.091
+
+7. Gilbert SC. Clinical development of Modified Vaccinia virus Ankara vaccines. Vaccine 2013; 31:4241-6; PMID:23523410; http://dx.doi. org/10.1016/j.vaccine.2013.03.020
+8. Gómez CE, Nájera JL, Krupa M, Perdiguero B, Esteban M. MVA and NYVAC as vaccines against emergent infectious diseases and cancer. Curr Gene Ther 2011; 11:189-217; PMID:21453284; http:// dx.doi.org/10.2174/156652311795684731
+9. Gómez CE, Perdiguero B, Garcia-Arriaza J, Esteban M. Poxvirus vectors as HIV/AIDS vaccines in humans. Hum Vaccin Immunother 2012; 8:1192207; PMID:22906946; http://dx.doi.org/10.4161/ hv.20778
+10. Gómez CE, Perdiguero B, García-Arriaza J, Esteban M. Clinical applications of attenuated MVA poxvirus strain. Expert Rev Vaccines 2013; 12:1395-416; PMID:24168097; http://dx.doi.org/10.1586/147605 84.2013.845531
+11. Hill AV, Reyes-Sandoval A, O'Hara G, Ewer K, Lawrie A, Goodman A, Nicosia A, Folgori A, Colloca S, Cortese R, et al. Prime-boost vectored malaria vaccines: progress and prospects. Hum Vaccin 2010; 6:78-83; PMID:20061802; http://dx.doi. org/10.4161/hv.6.1.10116
+12. Izzi V, Buler M, Masuelli L, Giganti MG, Modesti A, Bei R. Poxvirus-based vaccines for cancer immunotherapy: new insights from combined cytokines/ co-stimulatory molecules delivery and "uncommon" strains. Anticancer Agents Med Chem 2014; 14:1839; PMID:24237219; http://dx.doi.org/10.2174/1871 5206113136660376
+13. Kim JW, Gulley JL. Poxviral vectors for cancer immunotherapy. Expert Opin Biol Ther 2012; 12:463-78; PMID:22413824; http://dx.doi.org/10.1517/147125 98.2012.668516
+14. Kreijtz JH, Gilbert SC, Sutter G. Poxvirus vectors. Vaccine 2013; 31:4217-9; PMID:23834812; http:// dx.doi.org/10.1016/j.vaccine.2013.06.073
+15. Pantaleo G, Esteban M, Jacobs B, Tartaglia J. Poxvirus vector-based HIV vaccines. Curr Opin HIV AIDS 2010; 5:391-6; PMID:20978379; http:// dx.doi.org/10.1097/COH.0b013e32833d1e87
+16. Volz A, Sutter G. Protective efficacy of Modified Vaccinia virus Ankara in preclinical studies. Vaccine 2013; 31:4235-40; PMID:23523402; http://dx.doi. org/10.1016/j.vaccine.2013.03.016
+17. Walsh SR, Dolin R. Vaccinia viruses: vaccines against smallpox and vectors against infectious diseases and tumors. Expert Rev Vaccines 2011; 10:122140; PMID:21854314; http://dx.doi.org/10.1586/ erv.11.79
+18. Li S, Rodrigues M, Rodriguez D, Rodriguez JR, Esteban M, Palese P, Nussenzweig RS, Zavala F. Priming with recombinant influenza virus followed by administration of recombinant vaccinia virus induces CD8+ T-cell-mediated protective immunity against malaria. Proc Natl Acad Sci U S A 1993; 90:5214-8; PMID:7685119; http://dx.doi. org/10.1073/pnas.90.11.5214
+19. Miyahira Y, García-Sastre A, Rodriguez D, Rodriguez JR, Murata K, Tsuji M, Palese P, Esteban M, Zavala F, Nussenzweig RS. Recombinant viruses expressing a human malaria antigen can elicit potentially protective immune CD8+ responses in mice. Proc Natl Acad Sci U S A 1998; 95:3954-9; PMID:9520474; http://dx.doi.org/10.1073/pnas.95.7.3954
+20. Zavala F, Rodrigues M, Rodriguez D, Rodriguez JR, Nussenzweig RS, Esteban M. A striking property of recombinant poxviruses: efficient inducers of in vivo expansion of primed CD8(+) T cells. Virology 2001; 280:155-9; PMID:11162829; http://dx.doi. org/10.1006/viro.2000.0792
+
+21. González-Aseguinolaza G, Nakaya Y, Molano A, Dy E, Esteban M, Rodríguez D, Rodríguez JR, Palese P, García-Sastre A, Nussenzweig RS. Induction of protective immunity against malaria by priming-boosting immunization with recombinant cold-adapted influenza and modified vaccinia Ankara viruses expressing a CD8+-T-cell epitope derived from the circumsporozoite protein of Plasmodium yoelii. J Virol 2003; 77:11859-66; PMID:14557672; http:// dx.doi.org/10.1128/JVI.77.21.11859-11866.2003
+22. Barouch DH, Liu J, Li H, Maxfield LF, Abbink P, Lynch DM, Iampietro MJ, SanMiguel A, Seaman MS, Ferrari G, et al. Vaccine protection against acquisition of neutralization-resistant SIV challenges in rhesus monkeys. Nature 2012; 482:8993; PMID:22217938; http://dx.doi.org/10.1038/ nature10766
+23. Boyd AC, Ruiz-Hernandez R, Peroval MY, Carson C, Balkissoon D, Staines K, Turner AV, Hill AV, Gilbert SC, Butter C. Towards a universal vaccine for avian influenza: protective efficacy of modified Vaccinia virus Ankara and Adenovirus vaccines expressing conserved influenza antigens in chickens challenged with low pathogenic avian influenza virus. Vaccine 2013; 31:670-5; PMID:23200938; http://dx.doi. org/10.1016/j.vaccine.2012.11.047
+24. Ratto-Kim S, Currier JR, Cox JH, Excler JL, Valencia-Micolta A, Thelian D, Lo V, Sayeed E, Polonis VR, Earl PL, et al. Heterologous prime-boost regimens using rAd35 and rMVA vectors elicit stronger cellular immune responses to HIV proteins than homologous regimens. PLoS One 2012; 7:e45840; PMID:23049876; http://dx.doi.org/10.1371/journal.pone.0045840
+25. Reyes-Sandoval A, Berthoud T, Alder N, Siani L, Gilbert SC, Nicosia A, Colloca S, Cortese R, Hill AV. Prime-boost immunization with adenoviral and modified vaccinia virus Ankara vectors enhances the durability and polyfunctionality of protective malaria CD8+ T-cell responses. Infect Immun 2010; 78:14553; PMID:19858306; http://dx.doi.org/10.1128/ IAI.00740-09
+26. Reyes-Sandoval A, Rollier CS, Milicic A, Bauza K, Cottingham MG, Tang CK, Dicks MD, Wang D, Longley RJ, Wyllie DH, et al. Mixed vector immunization with recombinant adenovirus and MVA can improve vaccine efficacy while decreasing antivector immunity. Mol Ther 2012; 20:163347; PMID:22354374; http://dx.doi.org/10.1038/ mt.2012.25
+27. Gómez CE, Nájera JL, Jiménez EP, Jiménez V, Wagner R, Graf M, Frachette MJ, Liljeström P, Pantaleo G, Esteban M. Head-to-head comparison on the immunogenicity of two HIV/AIDS vaccine candidates based on the attenuated poxvirus strains MVA and NYVAC co-expressing in a single locus the HIV-1BX08 gp120 and HIV-1(IIIB) Gag-PolNef proteins of clade B. Vaccine 2007; 25:286385; PMID:17113200; http://dx.doi.org/10.1016/j. vaccine.2006.09.090
+28. Mooij P, Balla-Jhagjhoorsingh SS, Koopman G, Beenhakker N, van Haaften P, Baak I, Nieuwenhuis IG, Kondova I, Wagner R, Wolf H, et al. Differential CD4+ versus CD8+ T-cell responses elicited by different poxvirus-based human immunodeficiency virus type 1 vaccine candidates provide comparable efficacies in primates. J Virol 2008; 82:297588; PMID:18184713; http://dx.doi.org/10.1128/ JVI.02216-07
+29. Vaccari M, Keele BF, Bosinger SE, Doster MN, Ma ZM, Pollara J, Hryniewicz A, Ferrari G, Guan Y, Forthal DN, et al. Protection afforded by an HIV vaccine candidate in macaques depends on the dose of SIVmac251 at challenge exposure. J Virol 2013; 87:3538-48; PMID:23325681; http://dx.doi. org/10.1128/JVI.02863-12
+
+www.landesbioscience.com
+
+Human Vaccines & Immunotherapeutics
+
+6
+
+©2014 Landes Bioscience. Do not distribute.
+
+30. Santra S, Sun Y, Parvani JG, Philippon V, Wyand MS, Manson K, Gomez-Yafal A, Mazzara G, Panicali D, Markham PD, et al. Heterologous prime/ boost immunization of rhesus monkeys by using diverse poxvirus vectors. J Virol 2007; 81:856370; PMID:17553898; http://dx.doi.org/10.1128/ JVI.00744-07
+31. Abaitua F, Rodríguez JR, Garzón A, Rodríguez D, Esteban M. Improving recombinant MVA immune responses: potentiation of the immune responses to HIV-1 with MVA and DNA vectors expressing Env and the cytokines IL-12 and IFN-gamma. Virus Res 2006; 116:11-20; PMID:16214252; http://dx.doi. org/10.1016/j.virusres.2005.08.008
+32. Gherardi MM, Ramírez JC, Esteban M. Interleukin-12 (IL-12) enhancement of the cellular immune response against human immunodeficiency virus type 1 env antigen in a DNA prime/ vaccinia virus boost vaccine regimen is time and dose dependent: suppressive effects of IL-12 boost are mediated by nitric oxide. J Virol 2000; 74:627886; PMID:10864637; http://dx.doi.org/10.1128/ JVI.74.14.6278-6286.2000
+33. Gherardi MM, Ramirez JC, Rodríguez D, Rodríguez JR, Sano G, Zavala F, Esteban M. IL-12 delivery from recombinant vaccinia virus attenuates the vector and enhances the cellular immune response against HIV-1 Env in a dose-dependent manner. J Immunol 1999; 162:6724-33; PMID:10352291
+34. Gonzalo RM, Rodríguez JR, Rodríguez D, GonzálezAseguinolaza G, Larraga V, Esteban M. Protective immune response against cutaneous leishmaniasis by prime/booster immunization regimens with vaccinia virus recombinants expressing Leishmania infantum p36/LACK and IL-12 in combination with purified p36. Microbes Infect 2001; 3:70111; PMID:11489418; http://dx.doi.org/10.1016/ S1286-4579(01)01426-5
+35. Nemeckova S, Sroller V, Hainz P, Krystofova J, Smahel M, Kutinova L. Experimental therapy of HPV16 induced tumors with IL12 expressed by recombinant vaccinia virus in mice. Int J Mol Med 2003; 12:789-96; PMID:14533011
+36. Rodríguez AM, Pascutti MF, Maeto C, Falivene J, Holgado MP, Turk G, Gherardi MM. IL-12 and GM-CSF in DNA/MVA immunizations against HIV-1 CRF12_BF Nef induced T-cell responses with an enhanced magnitude, breadth and quality. PLoS One 2012; 7:e37801; PMID:22655069; http:// dx.doi.org/10.1371/journal.pone.0037801
+37. Tapia E, Pérez-Jiménez E, López-Fuertes L, Gonzalo R, Gherardi MM, Esteban M. The combination of DNA vectors expressing IL-12 + IL-18 elicits high protective immune response against cutaneous leishmaniasis after priming with DNA-p36/LACK and the cytokines, followed by a booster with a vaccinia virus recombinant expressing p36/LACK. Microbes Infect 2003; 5:73-84; PMID:12650765; http:// dx.doi.org/10.1016/S1286-4579(02)00077-1
+38. Gómez CE, Abaitua F, Rodríguez D, Esteban M. Efficient CD8+ T cell response to the HIV-env V3 loop epitope from multiple virus isolates by a DNA prime/vaccinia virus boost (rWR and rMVA strains) immunization regime and enhancement by the cytokine IFN-gamma. Virus Res 2004; 105:1122; PMID:15325077; http://dx.doi.org/10.1016/j. virusres.2004.04.008
+39. Bertley FM, Kozlowski PA, Wang SW, Chappelle J, Patel J, Sonuyi O, Mazzara G, Montefiori D, Carville A, Mansfield KG, et al. Control of simian/human immunodeficiency virus viremia and disease progression after IL-2-augmented DNAmodified vaccinia virus Ankara nasal vaccination in nonhuman primates. J Immunol 2004; 172:374557; PMID:15004179; http://dx.doi.org/10.4049/ jimmunol.172.6.3745
+
+40. Dreicer R, Stadler WM, Ahmann FR, Whiteside T, Bizouarne N, Acres B, Limacher JM, Squiban P, Pantuck A. MVA-MUC1-IL2 vaccine immunotherapy (TG4010) improves PSA doubling time in patients with prostate cancer with biochemical failure. Invest New Drugs 2009; 27:379-86; PMID:18931824; http://dx.doi.org/10.1007/s10637-008-9187-3
+41. Kaufman HL, Taback B, Sherman W, Kim DW, Shingler WH, Moroziewicz D, DeRaffele G, Mitcham J, Carroll MW, Harrop R, et al. Phase II trial of Modified Vaccinia Ankara (MVA) virus expressing 5T4 and high dose Interleukin-2 (IL-2) in patients with metastatic renal cell carcinoma. J Transl Med 2009; 7:2; PMID:19128501; http://dx.doi. org/10.1186/1479-5876-7-2
+42. Kolibab K, Yang A, Derrick SC, Waldmann TA, Perera LP, Morris SL. Highly persistent and effective prime/boost regimens against tuberculosis that use a multivalent modified vaccine virus Ankara-based tuberculosis vaccine with interleukin-15 as a molecular adjuvant. Clin Vaccine Immunol 2010; 17:793801; PMID:20357059; http://dx.doi.org/10.1128/ CVI.00006-10
+43. Li S, Qi X, Gao Y, Hao Y, Cui L, Ruan L, He W. IL-15 increases the frequency of effector memory CD8+ T cells in rhesus monkeys immunized with HIV vaccine. Cell Mol Immunol 2010; 7:4914; PMID:20871629; http://dx.doi.org/10.1038/ cmi.2010.44
+44. Oh S, Berzofsky JA, Burke DS, Waldmann TA, Perera LP. Coadministration of HIV vaccine vectors with vaccinia viruses expressing IL-15 but not IL-2 induces long-lasting cellular immunity. Proc Natl Acad Sci U S A 2003; 100:3392-7; PMID:12626740; http://dx.doi.org/10.1073/pnas.0630592100
+45. Perera LP, Waldmann TA, Mosca JD, Baldwin N, Berzofsky JA, Oh SK. Development of smallpox vaccine candidates with integrated interleukin-15 that demonstrate superior immunogenicity, efficacy, and safety in mice. J Virol 2007; 81:877483; PMID:17553867; http://dx.doi.org/10.1128/ JVI.00538-07
+46. Perera PY, Derrick SC, Kolibab K, Momoi F, Yamamoto M, Morris SL, Waldmann TA, Perera LP. A multi-valent vaccinia virus-based tuberculosis vaccine molecularly adjuvanted with interleukin-15 induces robust immune responses in mice. Vaccine 2009; 27:2121-7; PMID:19356615; http://dx.doi. org/10.1016/j.vaccine.2009.01.132
+47. Poon LL, Leung YH, Nicholls JM, Perera PY, Lichy JH, Yamamoto M, Waldmann TA, Peiris JS, Perera LP. Vaccinia virus-based multivalent H5N1 avian influenza vaccines adjuvanted with IL-15 confer sterile cross-clade protection in mice. J Immunol 2009; 182:3063-71; PMID:19234203; http://dx.doi. org/10.4049/jimmunol.0803467
+48. Goulding J, Tahiliani V, Salek-Ardakani S. OX40:OX40L axis: emerging targets for improving poxvirus-based CD8(+) T-cell vaccines against respiratory viruses. Immunol Rev 2011; 244:149-68; PMID:22017437; http://dx.doi. org/10.1111/j.1600-065X.2011.01062.x
+49. Grosenbach DW, Schlom J, Gritz L, Gómez Yafal A, Hodge JW. A recombinant vector expressing transgenes for four T-cell costimulatory molecules (OX40L, B7-1, ICAM-1, LFA-3) induces sustained CD4+ and CD8+ T-cell activation, protection from apoptosis, and enhanced cytokine production. Cell Immunol 2003; 222:45-57; PMID:12798307; http://dx.doi.org/10.1016/S0008-8749(03)00080-7
+50. Liu J, Ngai N, Stone GW, Yue FY, Ostrowski MA. The adjuvancy of OX40 ligand (CD252) on an HIV-1 canarypox vaccine. Vaccine 2009; 27:507784; PMID:19573639; http://dx.doi.org/10.1016/j. vaccine.2009.06.046
+
+51. Gulley JL, Arlen PM, Tsang KY, Yokokawa J, Palena C, Poole DJ, Remondo C, Cereda V, Jones JL, Pazdur MP, et al. Pilot study of vaccination with recombinant CEA-MUC-1-TRICOM poxviral-based vaccines in patients with metastatic carcinoma. Clin Cancer Res 2008; 14:3060-9; PMID:18483372; http://dx.doi. org/10.1158/1078-0432.CCR-08-0126
+52. Hodge JW, Higgins J, Schlom J. Harnessing the unique local immunostimulatory properties of modified vaccinia Ankara (MVA) virus to generate superior tumor-specific immune responses and antitumor activity in a diversified prime and boost vaccine regimen. Vaccine 2009; 27:4475-82; PMID:19450631; http://dx.doi.org/10.1016/j.vaccine.2009.05.017
+53. Kudo-Saito C, Schlom J, Hodge JW. Intratumoral vaccination and diversified subcutaneous/ intratumoral vaccination with recombinant poxviruses encoding a tumor antigen and multiple costimulatory molecules. Clin Cancer Res 2004; 10:1090-9; PMID:14871989; http://dx.doi.org/10.1158/10780432.CCR-03-0145
+54. Morse MA, Clay TM, Hobeika AC, Osada T, Khan S, Chui S, Niedzwiecki D, Panicali D, Schlom J, Lyerly HK. Phase I study of immunization with dendritic cells modified with fowlpox encoding carcinoembryonic antigen and costimulatory molecules. Clin Cancer Res 2005; 11:3017-24; PMID:15837756; http://dx.doi.org/10.1158/1078-0432.CCR-04-2172
+55. Palena C, Zhu M, Schlom J, Tsang KY. Human B cells that hyperexpress a triad of costimulatory molecules via avipox-vector infection: an alternative source of efficient antigen-presenting cells. Blood 2004; 104:192-9; PMID:15010371; http://dx.doi. org/10.1182/blood-2003-09-3211
+56. Shankar P, Schlom J, Hodge JW. Enhanced activation of rhesus T cells by vectors encoding a triad of costimulatory molecules (B7-1, ICAM-1, LFA-3). Vaccine 2001; 20:744-55; PMID:11738738; http:// dx.doi.org/10.1016/S0264-410X(01)00409-1
+57. Zhu M, Terasawa H, Gulley J, Panicali D, Arlen P, Schlom J, Tsang KY. Enhanced activation of human T cells via avipox vector-mediated hyperexpression of a triad of costimulatory molecules in human dendritic cells. Cancer Res 2001; 61:3725-34; PMID:11325845
+58. Vasir B, Zarwan C, Ahmad R, Crawford KD, Rajabi H, Matsuoka K, Rosenblatt J, Wu Z, Mills H, Kufe D, et al. Induction of antitumor immunity ex vivo using dendritic cells transduced with fowl pox vector expressing MUC1, CEA, and a triad of costimulatory molecules (rF-PANVAC). J Immunother 2012; 35:555-69; PMID:22892452; http://dx.doi. org/10.1097/CJI.0b013e31826a73de
+59. Gómez CE, Nájera JL, Sánchez R, Jiménez V, Esteban M. Multimeric soluble CD40 ligand (sCD40L) efficiently enhances HIV specific cellular immune responses during DNA prime and boost with attenuated poxvirus vectors MVA and NYVAC expressing HIV antigens. Vaccine 2009; 27:316574; PMID:19446187; http://dx.doi.org/10.1016/j. vaccine.2009.03.049
+60. Lauterbach H, Pätzold J, Kassub R, Bathke B, Brinkmann K, Chaplin P, Suter M, Hochrein H. Genetic Adjuvantation of Recombinant MVA with CD40L Potentiates CD8 T Cell Mediated Immunity. Front Immunol 2013; 4:251; PMID:23986761; http://dx.doi.org/10.3389/fimmu.2013.00251
+61. Liu J, Yu Q, Stone GW, Yue FY, Ngai N, Jones RB, Kornbluth RS, Ostrowski MA. CD40L expressed from the canarypox vector, ALVAC, can boost immunogenicity of HIV-1 canarypox vaccine in mice and enhance the in vitro expansion of viral specific CD8+ T cell memory responses from HIV-1infected and HIV-1-uninfected individuals. Vaccine 2008; 26:4062-72; PMID:18562053; http://dx.doi. org/10.1016/j.vaccine.2008.05.018
+
+www.landesbioscience.com
+
+Human Vaccines & Immunotherapeutics
+
+7
+
+©2014 Landes Bioscience. Do not distribute.
+
+62. Parviainen S, Ahonen M, Diaconu I, Hirvinen M, Karttunen Å, Vähä-Koskela M, Hemminki A, Cerullo V. CD40 ligand and tdTomato-armed vaccinia virus for induction of antitumor immune response and tumor imaging. Gene Ther 2014; 21:195-204; PMID:24305418; http://dx.doi. org/10.1038/gt.2013.73
+63. Chavan R, Marfatia KA, An IC, Garber DA, Feinberg MB. Expression of CCL20 and granulocyte-macrophage colony-stimulating factor, but not Flt3-L, from modified vaccinia virus ankara enhances antiviral cellular and humoral immune responses. J Virol 2006; 80:7676-87; PMID:16840346; http://dx.doi. org/10.1128/JVI.02748-05
+64. Lai L, Kwa S, Kozlowski PA, Montefiori DC, Ferrari G, Johnson WE, Hirsch V, Villinger F, Chennareddi L, Earl PL, et al. Prevention of infection by a granulocyte-macrophage colony-stimulating factor co-expressing DNA/modified vaccinia Ankara simian immunodeficiency virus vaccine. J Infect Dis 2011; 204:164-73; PMID:21628671; http://dx.doi. org/10.1093/infdis/jir199
+65. Lee JH, Roh MS, Lee YK, Kim MK, Han JY, Park BH, Trown P, Kirn DH, Hwang TH. Oncolytic and immunostimulatory efficacy of a targeted oncolytic poxvirus expressing human GM-CSF following intravenous administration in a rabbit tumor model. Cancer Gene Ther 2010; 17:73-9; PMID:19629143; http://dx.doi.org/10.1038/cgt.2009.50
+66. Morse MA, Niedzwiecki D, Marshall JL, Garrett C, Chang DZ, Aklilu M, Crocenzi TS, Cole DJ, Dessureault S, Hobeika AC, et al. A randomized phase II study of immunization with dendritic cells modified with poxvectors encoding CEA and MUC1 compared with the same poxvectors plus GM-CSF for resected metastatic colorectal cancer. Ann Surg 2013; 258:879-86; PMID:23657083; http://dx.doi. org/10.1097/SLA.0b013e318292919e
+67. Nemeckova S, Smahel M, Hainz P, Mackova J, Zurkova K, Gabriel P, Indrova M, Kutinova L. Combination of intratumoral injections of vaccinia virus MVA expressing GM-CSF and immunization with DNA vaccine prolongs the survival of mice bearing HPV16 induced tumors with downregulated expression of MHC class I molecules. Neoplasma 2007; 54:326-33; PMID:17822323
+68. Alcami A. Viral mimicry of cytokines, chemokines and their receptors. Nat Rev Immunol 2003; 3:3650; PMID:12511874; http://dx.doi.org/10.1038/ nri980
+69. Perdiguero B, Esteban M. The interferon system and vaccinia virus evasion mechanisms. J Interferon Cytokine Res 2009; 29:581-98; PMID:19708815; http://dx.doi.org/10.1089/jir.2009.0073
+70. Smith GL, Benfield CT, Maluquer de Motes C, Mazzon M, Ember SW, Ferguson BJ, Sumner RP. Vaccinia virus immune evasion: mechanisms, virulence and immunogenicity. J Gen Virol 2013; 94:2367-92; PMID:23999164; http://dx.doi. org/10.1099/vir.0.055921-0
+71. Cottingham MG, Andersen RF, Spencer AJ, Saurya S, Furze J, Hill AV, Gilbert SC. Recombinationmediated genetic engineering of a bacterial artificial chromosome clone of modified vaccinia virus Ankara (MVA). PLoS One. 2008 Feb 20;3(2):e1638
+72. Falivene J, Del Médico Zajac MP, Pascutti MF, Rodríguez AM, Maeto C, Perdiguero B, Gómez CE, Esteban M, Calamante G, Gherardi MM. Improving the MVA vaccine potential by deleting the viral gene coding for the IL-18 binding protein. PLoS One 2012; 7:e32220; PMID:22384183; http://dx.doi. org/10.1371/journal.pone.0032220
+
+73. García-Arriaza J, Arnáez P, Gómez CE, Sorzano CO, Esteban M. Improving Adaptive and Memory Immune Responses of an HIV/AIDS Vaccine Candidate MVA-B by Deletion of Vaccinia Virus Genes (C6L and K7R) Blocking Interferon Signaling Pathways. PLoS One 2013; 8:e66894; PMID:23826170; http://dx.doi.org/10.1371/journal. pone.0066894
+74. García-Arriaza J, Gómez CE, Sorzano CO, Esteban M. Deletion of the vaccinia virus N2L gene encoding an inhibitor of IRF3 improves the immunogenicity of modified vaccinia virus Ankara expressing HIV-1 antigens. J Virol 2014; 88:3392410; PMID:24390336; http://dx.doi.org/10.1128/ JVI.02723-13
+75. García-Arriaza J, Nájera JL, Gómez CE, Sorzano CO, Esteban M. Immunogenic profiling in mice of a HIV/AIDS vaccine candidate (MVA-B) expressing four HIV-1 antigens and potentiation by specific gene deletions. PLoS One 2010; 5:e12395; PMID:20811493; http://dx.doi.org/10.1371/journal. pone.0012395
+76. García-Arriaza J, Nájera JL, Gómez CE, Tewabe N, Sorzano CO, Calandra T, Roger T, Esteban M. A candidate HIV/AIDS vaccine (MVA-B) lacking vaccinia virus gene C6L enhances memory HIV-1specific T-cell responses. PLoS One 2011; 6:e24244; PMID:21909386; http://dx.doi.org/10.1371/journal.pone.0024244
+77. Gómez CE, Perdiguero B, Nájera JL, Sorzano CO, Jiménez V, González-Sanz R, Esteban M. Removal of vaccinia virus genes that block interferon type I and II pathways improves adaptive and memory responses of the HIV/AIDS vaccine candidate NYVAC-C in mice. J Virol 2012; 86:5026-38; PMID:22419805; http://dx.doi.org/10.1128/JVI.06684-11
+78. Perdiguero B, Gómez CE, Di Pilato M, Sorzano CO, Delaloye J, Roger T, Calandra T, Pantaleo G, Esteban M. Deletion of the vaccinia virus gene A46R, encoding for an inhibitor of TLR signalling, is an effective approach to enhance the immunogenicity in mice of the HIV/AIDS vaccine candidate NYVAC-C. PLoS One 2013; 8:e74831; PMID:24069354; http:// dx.doi.org/10.1371/journal.pone.0074831
+79. Perdiguero B, Gómez CE, Nájera JL, Sorzano CO, Delaloye J, González-Sanz R, Jiménez V, Roger T, Calandra T, Pantaleo G, et al. Deletion of the viral anti-apoptotic gene F1L in the HIV/AIDS vaccine candidate MVA-C enhances immune responses against HIV-1 antigens. PLoS One 2012; 7:e48524; PMID:23119046; http://dx.doi.org/10.1371/journal. pone.0048524
+80. Garber DA, O'Mara LA, Gangadhara S, McQuoid M, Zhang X, Zheng R, Gill K, Verma M, Yu T, Johnson B, et al. Deletion of specific immune-modulatory genes from modified vaccinia virus Ankara-based HIV vaccines engenders improved immunogenicity in rhesus macaques. J Virol 2012; 86:1260515; PMID:22973033; http://dx.doi.org/10.1128/ JVI.00246-12
+81. Garber DA, O'Mara LA, Zhao J, Gangadhara S, An I, Feinberg MB. Expanding the repertoire of Modified Vaccinia Ankara-based vaccine vectors via genetic complementation strategies. PLoS One 2009; 4:e5445; PMID:19421328; http://dx.doi. org/10.1371/journal.pone.0005445
+82. Addo MM, Draenert R, Rathod A, Verrill CL, Davis BT, Gandhi RT, Robbins GK, Basgoz NO, Stone DR, Cohen DE, et al. Fully differentiated HIV-1 specific CD8+ T effector cells are more frequently detectable in controlled than in progressive HIV-1 infection. PLoS One 2007; 2:e321; PMID:17389912; http:// dx.doi.org/10.1371/journal.pone.0000321
+83. Hess C, Altfeld M, Thomas SY, Addo MM, Rosenberg ES, Allen TM, Draenert R, Eldrige RL, van Lunzen J, Stellbrink HJ, et al. HIV-1 specific CD8+ T cells with an effector phenotype and control of viral replication. Lancet 2004; 363:863-6; PMID:15031033; http:// dx.doi.org/10.1016/S0140-6736(04)15735-8
+
+84. Northfield JW, Loo CP, Barbour JD, Spotts G, Hecht
+
+FM, Klenerman P, Nixon DF, Michaëlsson J. Human
+
+immunodeficiency virus type 1 (HIV-1)-specific
+
+CD8+ T(EMRA) cells in early infection are linked
+
+to control of HIV-1 viremia and predict the subse-
+
+quent viral load set point. J Virol 2007; 81:5759-
+
+65; PMID:17376902; http://dx.doi.org/10.1128/
+
+JVI.00045-07
+
+85. Hansen SG, Ford JC, Lewis MS, Ventura AB,
+
+Hughes CM, Coyne-Johnson L, Whizin N, Oswald
+
+K, Shoemaker R, Swanson T, et al. Profound early
+
+control of highly pathogenic SIV by an effector
+
+memory T-cell vaccine. Nature 2011; 473:523-
+
+7; PMID:21562493; http://dx.doi.org/10.1038/
+
+nature10003
+
+86. Hansen SG, Vieville C, Whizin N, Coyne-Johnson
+
+L, Siess DC, Drummond DD, Legasse AW, Axthelm
+
+MK, Oswald K, Trubey CM, et al. Effector memory
+
+T cell responses are associated with protection of
+
+rhesus monkeys from mucosal simian immunode-
+
+ficiency virus challenge. Nat Med 2009; 15:293-
+
+9; PMID:19219024; http://dx.doi.org/10.1038/
+
+nm.1935
+
+87. García-Arriaza J, Cepeda V, Hallengärd D, Sorzano
+
+CO, Kümmerer BM, Liljeström P, Esteban M. A
+
+novel poxvirus-based vaccine, MVA-CHIKV, is
+
+highly immunogenic and protects mice against
+
+chikungunya infection. J Virol 2014; 88:3527-
+
+47; PMID:24403588; http://dx.doi.org/10.1128/
+
+JVI.03418-13
+
+88. Wyatt LS, Earl PL, Vogt J, Eller LA, Chandran D,
+
+Liu J, Robinson HL, Moss B. Correlation of immu-
+
+nogenicities and in vitro expression levels of recom-
+
+binant modified vaccinia virus Ankara HIV vaccines.
+
+Vaccine 2008; 26:486-93; PMID:18155813; http://
+
+dx.doi.org/10.1016/j.vaccine.2007.11.036
+
+89. Baur K, Brinkmann K, Schweneker M, Pätzold J,
+
+Meisinger-Henschel C, Hermann J, Steigerwald R,
+
+Chaplin P, Suter M, Hausmann J. Immediate-early
+
+expression of a recombinant antigen by modified vac-
+
+cinia virus ankara breaks the immunodominance of
+
+strong vector-specific B8R antigen in acute and mem-
+
+ory CD8 T-cell responses. J Virol 2010; 84:8743-
+
+52; PMID:20538860; http://dx.doi.org/10.1128/
+
+JVI.00604-10
+
+90. Moutaftsi M, Bui HH, Peters B, Sidney J, Salek-
+
+Ardakani S, Oseroff C, Pasquetto V, Crotty S, Croft
+
+M, Lefkowitz EJ, et al. Vaccinia virus-specific CD4+
+
+T cell responses target a set of antigens largely dis-
+
+tinct from those targeted by CD8+ T cell responses.
+
+J Immunol 2007; 178:6814-20; PMID:17513729;
+
+http://dx.doi.org/10.4049/jimmunol.178.11.6814
+
+91. Moutaftsi M, Tscharke DC, Vaughan K, Koelle
+
+DM, Stern L, Calvo-Calle M, Ennis F, Terajima
+
+M, Sutter G, Crotty S, et al. Uncovering the inter-
+
+play between CD8, CD4 and antibody responses to
+
+complex pathogens. Future Microbiol 2010; 5:221-
+
+39; PMID:20143946; http://dx.doi.org/10.2217/
+
+fmb.09.110
+
+92. Yang Z, Reynolds SE, Martens CA, Bruno DP,
+
+Porcella SF, Moss B. Expression profiling of the inter-
+
+mediate and late stages of poxvirus replication. J Virol
+
+2011; 85:9899-908; PMID:21795349; http://dx.doi.
+
+org/10.1128/JVI.05446-11
+
+93. Moutaftsi M, Salek-Ardakani S, Croft M, Peters
+
+B, Sidney J, Grey H, Sette A. Correlates of protec-
+
+tion efficacy induced by vaccinia virus-specific
+
+CD8+ T-cell epitopes in the murine intranasal
+
+challenge model. Eur J Immunol 2009; 39:717-22;
+
+PMID:19224639;
+
+http://dx.doi.org/10.1002/
+
+eji.200838815
+
+94. Geiben-Lynn R, Greenland JR, Frimpong-Boateng
+
+K, Letvin NL. Kinetics of recombinant adenovi-
+
+rus type 5, vaccinia virus, modified vaccinia ankara
+
+virus, and DNA antigen expression in vivo and the
+
+induction of memory T-lymphocyte responses. Clin
+
+Vaccine Immunol 2008; 15:691-6; PMID:18272665;
+
+http://dx.doi.org/10.1128/CVI.00418-07
+
+www.landesbioscience.com
+
+Human Vaccines & Immunotherapeutics
+
+8
+
+©2014 Landes Bioscience. Do not distribute.
+
+95. Pasquetto V, Bui HH, Giannino R, Banh C, Mirza F, Sidney J, Oseroff C, Tscharke DC, Irvine K, Bennink JR, et al. HLA-A*0201, HLA-A*1101, and HLA-B*0702 transgenic mice recognize numerous poxvirus determinants from a wide variety of viral gene products. J Immunol 2005; 175:550415; PMID:16210659; http://dx.doi.org/10.4049/ jimmunol.175.8.5504
+96. Wilson EH, Hunter CA. Immunodominance and recognition of intracellular pathogens. J Infect Dis 2008; 198:1579-81; PMID:18922096; http://dx.doi. org/10.1086/593020
+97. Sette A, Grey H, Oseroff C, Peters B, Moutaftsi M, Crotty S, Assarsson E, Greenbaum J, Kim Y, Kolla R, et al. Definition of epitopes and antigens recognized by vaccinia specific immune responses: their conservation in variola virus sequences, and use as a model system to study complex pathogens. Vaccine 2009; 27(Suppl 6):G21-6; PMID:20006135; http://dx.doi. org/10.1016/j.vaccine.2009.10.011
+98. Kastenmuller W, Gasteiger G, Gronau JH, Baier R, Ljapoci R, Busch DH, Drexler I. Cross-competition of CD8+ T cells shapes the immunodominance hierarchy during boost vaccination. J Exp Med 2007; 204:2187-98; PMID:17709425; http://dx.doi. org/10.1084/jem.20070489
+99. Assarsson E, Greenbaum JA, Sundström M, Schaffer L, Hammond JA, Pasquetto V, Oseroff C, Hendrickson RC, Lefkowitz EJ, Tscharke DC, et al. Kinetic analysis of a complete poxvirus transcriptome reveals an immediate-early class of genes. Proc Natl Acad Sci U S A 2008; 105:2140-5; PMID:18245380; http://dx.doi.org/10.1073/pnas.0711573105
+100. Yang Z, Bruno DP, Martens CA, Porcella SF, Moss B. Simultaneous high-resolution analysis of vaccinia virus and host cell transcriptomes by deep RNA sequencing. Proc Natl Acad Sci U S A 2010; 107:11513-8; PMID:20534518; http://dx.doi. org/10.1073/pnas.1006594107
+101. Sutter G, Moss B. Nonreplicating vaccinia vector efficiently expresses recombinant genes. Proc Natl Acad Sci U S A 1992; 89:10847-51; PMID:1438287; http://dx.doi.org/10.1073/pnas.89.22.10847
+102. Orubu T, Alharbi NK, Lambe T, Gilbert SC, Cottingham MG. Expression and cellular immunogenicity of a transgenic antigen driven by endogenous poxviral early promoters at their authentic loci in MVA. PLoS One 2012; 7:e40167; PMID:22761956; http://dx.doi.org/10.1371/journal.pone.0040167
+103. Chakrabarti S, Sisler JR, Moss B. Compact, synthetic, vaccinia virus early/late promoter for protein expression. Biotechniques 1997; 23:1094-7; PMID:9421642
+104. Cochran MA, Puckett C, Moss B. In vitro mutagenesis of the promoter region for a vaccinia virus gene: evidence for tandem early and late regulatory signals. J Virol 1985; 54:30-7; PMID:3973982
+105. Wyatt LS, Shors ST, Murphy BR, Moss B. Development of a replication-deficient recombinant vaccinia virus vaccine effective against parainfluenza virus 3 infection in an animal model. Vaccine 1996; 14:1451-8; PMID:8994321; http://dx.doi. org/10.1016/S0264-410X(96)00072-2
+106. Liu X, Kremer M, Broyles SS. A natural vaccinia virus promoter with exceptional capacity to direct protein synthesis. J Virol Methods 2004; 122:1415; PMID:15542137; http://dx.doi.org/10.1016/j. jviromet.2004.08.009
+107. Di Pilato M, Mejías-Pérez E, Gómez CE, Perdiguero B, Sorzano CO, Esteban M. New vaccinia virus promoter as a potential candidate for future vaccines. J Gen Virol 2013; 94:2771-6; PMID:24077296; http://dx.doi.org/10.1099/vir.0.057299-0
+108. Isshiki M, Zhang X, Sato H, Ohashi T, Inoue M, Shida H. Effects of different promoters on the virulence and immunogenicity of a HIV-1 Env-expressing recombinant vaccinia vaccine. Vaccine 2014; 32:83945; PMID:24370703; http://dx.doi.org/10.1016/j. vaccine.2013.12.022
+
+109. Wennier ST, Brinkmann K, Steinhäußer C, Mayländer N, Mnich C, Wielert U, Dirmeier U, Hausmann J, Chaplin P, Steigerwald R. A novel naturally occurring tandem promoter in modified vaccinia virus ankara drives very early gene expression and potent immune responses. PLoS One 2013; 8:e73511; PMID:23951355; http://dx.doi.org/10.1371/journal. pone.0073511
+110. Dai K, Liu Y, Liu M, Xu J, Huang W, Huang X, Liu L, Wan Y, Hao Y, Shao Y. Pathogenicity and immunogenicity of recombinant Tiantan Vaccinia Virus with deleted C12L and A53R genes. Vaccine 2008; 26:5062-71; PMID:18573290; http://dx.doi. org/10.1016/j.vaccine.2008.06.011
+111. Huang X, Lu B, Yu W, Fang Q, Liu L, Zhuang K, Shen T, Wang H, Tian P, Zhang L, et al. A novel replication-competent vaccinia vector MVTT is superior to MVA for inducing high levels of neutralizing antibody via mucosal vaccination. PLoS One 2009; 4:e4180; PMID:19159014; http://dx.doi. org/10.1371/journal.pone.0004180
+112. Nájera JL, Gómez CE, García-Arriaza J, Sorzano CO, Esteban M. Insertion of vaccinia virus C7L host range gene into NYVAC-B genome potentiates immune responses against HIV-1 antigens. PLoS One 2010; 5:e11406; PMID:20613977; http://dx.doi. org/10.1371/journal.pone.0011406
+113. Vijaysri S, Jentarra G, Heck MC, Mercer AA, McInnes CJ, Jacobs BL. Vaccinia viruses with mutations in the E3L gene as potential replication-competent, attenuated vaccines: intra-nasal vaccination. Vaccine 2008; 26:664-76; PMID:18096276; http:// dx.doi.org/10.1016/j.vaccine.2007.11.045
+114. Kibler KV, Gomez CE, Perdiguero B, Wong S, Huynh T, Holechek S, Arndt W, Jimenez V, Gonzalez-Sanz R, Denzler K, et al. Improved NYVAC-based vaccine vectors. PLoS One 2011; 6:e25674; PMID:22096477; http://dx.doi.org/10.1371/journal.pone.0025674
+115. Quakkelaar ED, Redeker A, Haddad EK, Harari A, McCaughey SM, Duhen T, Filali-Mouhim A, Goulet JP, Loof NM, Ossendorp F, et al. Improved innate and adaptive immunostimulation by genetically modified HIV-1 protein expressing NYVAC vectors. PLoS One 2011; 6:e16819; PMID:21347234; http:// dx.doi.org/10.1371/journal.pone.0016819
+116. Sánchez-Sampedro L, Gómez CE, Mejías-Pérez E, Pérez-Jiménez E, Oliveros JC, Esteban M. Attenuated and replication-competent vaccinia virus strains M65 and M101 with distinct biology and immunogenicity as potential vaccine candidates against pathogens. J Virol 2013; 87:6955-74; PMID:23596295; http:// dx.doi.org/10.1128/JVI.03013-12
+117. Kennedy JS, Gurwith M, Dekker CL, Frey SE, Edwards KM, Kenner J, Lock M, Empig C, Morikawa S, Saijo M, et al. Safety and immunogenicity of LC16m8, an attenuated smallpox vaccine in vaccinia-naive adults. J Infect Dis 2011; 204:1395402; PMID:21921208; http://dx.doi.org/10.1093/ infdis/jir527
+118. Kenner J, Cameron F, Empig C, Jobes DV, Gurwith M. LC16m8: an attenuated smallpox vaccine. Vaccine 2006; 24:7009-22; PMID:17052815; http://dx.doi. org/10.1016/j.vaccine.2006.03.087
+119. Saito T, Fujii T, Kanatani Y, Saijo M, Morikawa S, Yokote H, Takeuchi T, Kuwabara N. Clinical and immunological response to attenuated tissue-cultured smallpox vaccine LC16m8. JAMA 2009; 301:102533; PMID:19278946; http://dx.doi.org/10.1001/ jama.2009.289
+120. Xiao H, Liu L, Zhu Q, Tan Z, Yu W, Tang X, Zhan D, Du Y, Wang H, Liu D, et al. A replicating modified vaccinia tiantan strain expressing an avianderived influenza H5N1 hemagglutinin induce broadly neutralizing antibodies and cross-clade protective immunity in mice. PLoS One 2013; 8:e83274; PMID:24358269; http://dx.doi.org/10.1371/journal.pone.0083274
+
+121. Zhu R, Huang W, Wang W, Liu Q, Nie J, Meng S, Yu Y, Wang Y. Comparison on virulence and immunogenicity of two recombinant vaccinia vaccines, Tian Tan and Guang9 strains, expressing the HIV-1 envelope gene. PLoS One 2012; 7:e48343; PMID:23139778; http://dx.doi.org/10.1371/journal.pone.0048343
+122. Chan WM, Rahman MM, McFadden G. Oncolytic myxoma virus: the path to clinic. Vaccine 2013; 31:4252-8; PMID:23726825; http://dx.doi. org/10.1016/j.vaccine.2013.05.056
+123. Yang S, Carroll MW, Torres-Duarte AP, Moss B, Davidson EA. Addition of the MSA1 signal and anchor sequences to the malaria merozoite surface antigen 1 C-terminal region enhances immunogenicity when expressed by recombinant vaccinia virus. Vaccine 1997; 15:1303-13; PMID:9302735; http:// dx.doi.org/10.1016/S0264-410X(97)00039-X
+124. Santra S, Liao HX, Zhang R, Muldoon M, Watson S, Fischer W, Theiler J, Szinger J, Balachandran H, Buzby A, et al. Mosaic vaccines elicit CD8+ T lymphocyte responses that confer enhanced immune coverage of diverse HIV strains in monkeys. Nat Med 2010; 16:324-8; PMID:20173754; http://dx.doi. org/10.1038/nm.2108
+125. Barouch DH, Stephenson KE, Borducchi EN, Smith K, Stanley K, McNally AG, Liu J, Abbink P, Maxfield LF, Seaman MS, et al. Protective efficacy of a global HIV-1 mosaic vaccine against heterologous SHIV challenges in rhesus monkeys. Cell 2013; 155:5319; PMID:24243013; http://dx.doi.org/10.1016/j. cell.2013.09.061
+126. Hanke T. Conserved immunogens in prime-boost strategies for the next-generation HIV-1 vaccines. Expert Opin Biol Ther 2014; 14:601-16; PMID:24490585; http://dx.doi.org/10.1517/147125 98.2014.885946
+127. Gómez CE, Nájera JL, Jiménez V, Bieler K, Wild J, Kostic L, Heidari S, Chen M, Frachette MJ, Pantaleo G, et al. Generation and immunogenicity of novel HIV/AIDS vaccine candidates targeting HIV-1 Env/Gag-Pol-Nef antigens of clade C. Vaccine 2007; 25:1969-92; PMID:17224219; http://dx.doi. org/10.1016/j.vaccine.2006.11.051
+128. Bart PA, Goodall R, Barber T, Harari A, GuimaraesWalker A, Khonkarly M, Sheppard NC, Bangala Y, Frachette MJ, Wagner R, et al.; EuroVacc Consortium. EV01: a phase I trial in healthy HIV negative volunteers to evaluate a clade C HIV vaccine, NYVAC-C undertaken by the EuroVacc Consortium. Vaccine 2008; 26:3153-61; PMID:18502002; http:// dx.doi.org/10.1016/j.vaccine.2008.03.083
+129. García F, Bernaldo de Quirós JC, Gómez CE, Perdiguero B, Nájera JL, Jiménez V, García-Arriaza J, Guardo AC, Pérez I, Díaz-Brito V, et al. Safety and immunogenicity of a modified pox vector-based HIV/AIDS vaccine candidate expressing Env, Gag, Pol and Nef proteins of HIV-1 subtype B (MVA-B) in healthy HIV-1-uninfected volunteers: A phase I clinical trial (RISVAC02). Vaccine 2011; 29:830916; PMID:21907749; http://dx.doi.org/10.1016/j. vaccine.2011.08.098
+130. Gómez CE, Nájera JL, Perdiguero B, García-Arriaza J, Sorzano CO, Jiménez V, González-Sanz R, Jiménez JL, Muñoz-Fernández MA, López Bernaldo de Quirós JC, et al. The HIV/AIDS vaccine candidate MVA-B administered as a single immunogen in humans triggers robust, polyfunctional, and selective effector memory T cell responses to HIV-1 antigens. J Virol 2011; 85:11468-78; PMID:21865377; http:// dx.doi.org/10.1128/JVI.05165-11
+131. Harari A, Bart PA, Stöhr W, Tapia G, Garcia M, Medjitna-Rais E, Burnet S, Cellerai C, Erlwein O, Barber T, et al. An HIV-1 clade C DNA prime, NYVAC boost vaccine regimen induces reliable, polyfunctional, and long-lasting T cell responses. J Exp Med 2008; 205:63-77; PMID:18195071; http:// dx.doi.org/10.1084/jem.20071331
+
+www.landesbioscience.com
+
+Human Vaccines & Immunotherapeutics
+
+9
+
+©2014 Landes Bioscience. Do not distribute.
+
+132. McCormack S, Stöhr W, Barber T, Bart PA, Harari A, Moog C, Ciuffreda D, Cellerai C, Cowen M, Gamboni R, et al. EV02: a Phase I trial to compare the safety and immunogenicity of HIV DNA-C prime-NYVAC-C boost to NYVAC-C alone. Vaccine 2008; 26:3162-74; PMID:18502003; http://dx.doi. org/10.1016/j.vaccine.2008.02.072
+133. Rerks-Ngarm S, Pitisuttithum P, Nitayaphan S, Kaewkungwal J, Chiu J, Paris R, Premsri N, Namwat C, de Souza M, Adams E, et al.; MOPHTAVEG Investigators. Vaccination with ALVAC and AIDSVAX to prevent HIV-1 infection in Thailand. N Engl J Med 2009; 361:2209-20; PMID:19843557; http://dx.doi.org/10.1056/NEJMoa0908492
+134. Chung AW, Ghebremichael M, Robinson H, Brown E, Choi I, Lane S, Dugast AS, Schoen MK, Rolland M, Suscovich TJ, et al. Polyfunctional Fc-Effector Profiles Mediated by IgG Subclass Selection Distinguish RV144 and VAX003 Vaccines. Sci Transl Med. 2014 Mar 19;6(228):228ra38
+135. Gottardo R, Bailer RT, Korber BT, Gnanakaran S, Phillips J, Shen X, Tomaras GD, Turk E, Imholte G, Eckler L, et al. Plasma IgG to linear epitopes in the V2 and V3 regions of HIV-1 gp120 correlate with a reduced risk of infection in the RV144 vaccine efficacy trial. PLoS One 2013; 8:e75665; PMID:24086607; http://dx.doi.org/10.1371/journal.pone.0075665
+136. Haynes BF, Gilbert PB, McElrath MJ, Zolla-Pazner S, Tomaras GD, Alam SM, Evans DT, Montefiori DC, Karnasuta C, Sutthent R, et al. Immunecorrelates analysis of an HIV-1 vaccine efficacy trial. N Engl J Med 2012; 366:1275-86; PMID:22475592; http://dx.doi.org/10.1056/NEJMoa1113425
+
+137. Yates NL, Liao HX, Fong Y, Decamp A, Vandergrift NA, Williams WT, Alam SM, Ferrari G, Yang ZY, Seaton KE, et al. Vaccine-Induced Env V1-V2 IgG3 Correlates with Lower HIV-1 Infection Risk and Declines Soon After Vaccination. Sci Transl Med. 2014;6(228):228ra39
+138. Zolla-Pazner S, deCamp A, Gilbert PB, Williams C, Yates NL, Williams WT, Howington R, Fong Y, Morris DE, Soderberg KA, et al. Vaccine-induced IgG antibodies to V1V2 regions of multiple HIV-1 subtypes correlate with decreased risk of HIV-1 infection. PLoS One 2014; 9:e87572; PMID:24504509; http://dx.doi.org/10.1371/journal.pone.0087572
+139. McKay PF, Cope AV, Mann JF, Joseph S, Esteban M, Tatoud R, Carter D, Reed SG, Weber J, Shattock RJ. Glucopyranosyl lipid A adjuvant significantly enhances HIV specific T and B cell responses elicited by a DNA-MVA-protein vaccine regimen. PLoS One 2014; 9:e84707; PMID:24465426; http://dx.doi. org/10.1371/journal.pone.0084707
+140. Fouda GG, Amos JD, Wilks AB, Pollara J, Ray CA, Chand A, Kunz EL, Liebl BE, Whitaker K, Carville A, et al. Mucosal immunization of lactating female rhesus monkeys with a transmitted/founder HIV-1 envelope induces strong Env-specific IgA antibody responses in breast milk. J Virol 2013; 87:698699; PMID:23596289; http://dx.doi.org/10.1128/ JVI.00528-13
+141. Pattacini L, Mize GJ, Graham JB, Fluharty TR, Graham TM, Lingnau K, Wizel B, Perdiguero B, Esteban M, Pantaleo G, et al. A novel HIV vaccine adjuvanted by IC31 induces robust and persistent humoral and cellular immunity. PLoS One 2012; 7:e42163; PMID:22848738; http://dx.doi. org/10.1371/journal.pone.0042163
+
+142. Flynn BJ, Kastenmüller K, Wille-Reece U, Tomaras GD, Alam M, Lindsay RW, Salazar AM, Perdiguero B, Gomez CE, Wagner R, et al. Immunization with HIV Gag targeted to dendritic cells followed by recombinant New York vaccinia virus induces robust T-cell immunity in nonhuman primates. Proc Natl Acad Sci U S A 2011; 108:7131-6; PMID:21467219; http://dx.doi.org/10.1073/pnas.1103869108
+143. Collado M, Rodríguez D, Rodríguez JR, Vázquez I, Gonzalo RM, Esteban M. Chimeras between the human immunodeficiency virus (HIV-1) Env and vaccinia virus immunogenic proteins p14 and p39 generate in mice broadly reactive antibodies and specific activation of CD8+ T cell responses to Env. Vaccine 2000; 18:3123-33; PMID:10856792; http:// dx.doi.org/10.1016/S0264-410X(00)00112-2
+144. Vijayan A, Gómez CE, Espinosa DA, Goodman AG, Sanchez-Sampedro L, Sorzano CO, Zavala F, Esteban M. Adjuvant-like effect of vaccinia virus 14K protein: a case study with malaria vaccine based on the circumsporozoite protein. J Immunol 2012; 188:640717; PMID:22615208; http://dx.doi.org/10.4049/ jimmunol.1102492
+
+www.landesbioscience.com
+
+Human Vaccines & Immunotherapeutics
+
+10

@@ -1,0 +1,858 @@
+Vaccine 26 (2008) 6508­6528
+Contents lists available at ScienceDirect
+Vaccine
+journal homepage: www.elsevier.com/locate/vaccine
+Review
+Antigen delivery systems for veterinary vaccine development Viral-vector based delivery systems
+Alejandro Brun a,, Emmanuel Albina b, Tom Barret c, David A.G. Chapman c, Markus Czub d, Linda K. Dixon c, Günther M. Keil f, Bernard Klonjkowski g, Marie-Frédérique Le Potier e, Geneviève Libeau b, Javier Ortego a, Jennifer Richardson g, Haru-H. Takamatsu c
+a Centro de Investigación en Sanidad Animal (CISA-INIA), Valdeolmos, 28130 Madrid, Spain b Centre International de Recherche Agronomique pour le Développement (CIRAD), UMR, Contrôle des maladies, F-34398, Montpellier, cedex 05, France c Institute for Animal Health, Pirbright, GU24 ONF, United Kingdom d Faculty of Veterinary Medicine, University of Calgary, 3330 Hospital Drive NW, Calgary, Alberta, T2N 1N4, Canada e Agence Franc¸ aise de Sécurité Sanitaire des Aliments (AFSSA), BP 53, 22440 Ploufragan, France f Friedrich-Loeffler-Institut, Bundesforschungsinstitut für Tiergesundheit, Südufer 10, D-17493 Greifswald-Insel Riems, Germany g UMR 1161 Virologie INRA AFSSA ENVA, F-94704 Maisons-Alfort, France
+
+article info
+Article history: Received 12 July 2008 Received in revised form 21 August 2008 Accepted 16 September 2008 Available online 7 October 2008
+Keywords: Antigen delivery systems Veterinary vaccines Modified live virus Viral vectors Poxvirus vectors Herpesvirus vectors Adenovirus vectors Baculovirus vectors Positive strand RNA virus vectors Negative strand RNA virus vectors
+
+abstract
+The recent advances in molecular genetics, pathogenesis and immunology have provided an optimal framework for developing novel approaches in the rational design of vaccines effective against viral epizootic diseases. This paper reviews most of the viral-vector based antigen delivery systems (ADSs) recently developed for vaccine testing in veterinary species, including attenuated virus and DNA and RNA viral vectors. Besides their usefulness in vaccinology, these ADSs constitute invaluable tools to researchers for understanding the nature of protective responses in different species, opening the possibility of modulating or potentiating relevant immune mechanisms involved in protection.
+© 2008 Elsevier Ltd. All rights reserved.
+
+Contents
+1. Introduction . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 6509 2. Modified virus as antigen delivery systems . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 6509 3. Viral-based vectors as antigen delivery systems . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 6510
+3.1. DNA virus vectors . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 6510 3.1.1. Poxviruses . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 6510 3.1.2. Herpesvirus . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 6512 3.1.3. Adenovirus . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 6514 3.1.4. Baculovirus . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 6516
+3.2. RNA virus vectors . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 6517 3.2.1. Paramyxovirus . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 6517 3.2.2. Rhabdovirus . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 6518
+ Corresponding author. Tel.: +34 91 620 23 00. E-mail address: brun@inia.es (A. Brun).
+0264-410X/$ ­ see front matter © 2008 Elsevier Ltd. All rights reserved. doi:10.1016/j.vaccine.2008.09.044
+
+A. Brun et al. / Vaccine 26 (2008) 6508­6528
+
+6509
+
+3.2.3. Bunyavirus . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 6519 3.2.4. Alphavirus . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 6519 3.2.5. Coronavirus . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 6519 3.2.6. Retrovirus . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 6520 3.2.7. Flavivirus . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 6521 4. Conclusions . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 6521 Acknowledgement . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 6521 References . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 6521
+
+1. Introduction
+Vaccination, besides early detection and warning systems, remains the most cost-effective means to prevent the spread of viral infectious diseases. For many years considerable scientific effort has been directed towards the development of novel vaccine technologies, mainly aimed at improving the performance and safety of classical vaccines, either inactivated or based on modified live virus. Many delivery systems provide powerful platforms to check the immunogenicity or to trigger specific immune responses against target antigens, as well as to unveil the immune mechanisms involved in protection against disease. The current knowledge in viral DNA and RNA vectors as carriers of foreign antigens, illustrates many of the potential approaches for antigen delivery and development of veterinary vaccines. Considerations for development of veterinary vaccines differ from those for humans in some respects. One of the most important of these is the cost since, depending on the species vaccinated, high cost may preclude the use of certain types of vaccine. The requirement for vaccine boosts of course contributes greatly to the cost. Of increasing importance in design of veterinary vaccines is the ability to distinguish between infected and vaccinated animals (DIVA). This is particularly important in eradication campaigns since it enables countries to gain a disease free status more readily. Other considerations, particularly for disease outbreaks, are the time taken to induce protection and the potential for environmental spread of the vaccine including in nontarget species. Particular challenges for development of veterinary vaccines are the limited fundamental knowledge and reagents to study protective immune responses in veterinary species.
+Interestingly, the first vaccine ever used became one of the most widely used systems for vaccine antigen delivery, the poxvirus vectors. Since then, many other DNA viruses, including adenoviruses, herpesviruses and baculoviruses, have proven very useful in development of vaccination approaches. More recently, the refinement of reverse genetics technologies allowed the rescue of attenuated RNA viruses and their use as potential expression or delivery vectors.
+This paper reviews those delivery systems based on viral vectors that are commonly used for basic and applied veterinary vaccine research.
+2. Modified virus as antigen delivery systems
+Live attenuated vaccines were the first form of vaccine and these have been successfully used for many years. These have targeted not only a number of the most economically important animal diseases but also companion animal diseases. The advances in molecular biology in recent years have allowed some of the problems and concerns encountered in developing and using live attenuated vaccines to be addressed.
+A live attenuated virus vaccine is a live virus that has lost its virulence while maintaining its ability to induce protective immunity against the virulent virus. They have many advantages over inactivated/killed virus or component vaccines and these include the fact that most if not all of the virus proteins are expressed,
+
+presenting a broad spectrum of epitopes to the immune system. Moreover, since these virus proteins are expressed inside the cell, they are presented in association with MHC Class I molecules and stimulate a cytotoxic T cell response. In addition they can be administrated through the natural route of infection, such as via nasal mucosa (e.g. influenza) and mimic the infection at a local site. They are able to induce effective and long lasting, appropriate, humoral and cell-mediated immune responses [1,2], as well as inducing innate immune responses. Other advantages of live attenuated virus vaccines include their low reactivity, the induction of a systemic response, which leads to enhanced protection against disease, their induction of a mucosal response and, importantly for the pharmaceutical companies, they have relatively low manufacturing costs as they require only minimal downstream processing and require no adjuvants in the formulation. However, given all these advantages live attenuated vaccines cannot be considered an ideal vaccine due to their overall safety profiles [3] such as being potentially genetically unstable, and they may cause problems in immunocompromised hosts or in pregnancy (e.g. Rubella). A recent example was the use of monovalent BTV16 vaccine in Italy, in 2004, which caused undesirable effects, attributed to inadequate attenuation to European sheep [4].
+Live attenuated virus vaccines are prepared either from a naturally occurring virus from another species (e.g. Jenner's cowpox) or are artificially attenuated. The traditional methodology for producing a live attenuated vaccine often involved the blind serial passage of a virulent isolate in heterologous tissues (cell culture, eggs or laboratory animals) until an attenuated mutant is produced. Other methods for producing an attenuated virus are the generation of mutants either by chemical treatment, heating or spontaneous mutagenesis (and subsequent clonal selection). The problem with mutational attenuation, in this way, is that it is an uncontrollable and random process, and often the induced mutation is not mapped at the genomic level [5]. It is therefore very difficult to control the level of attenuation while maintaining the antigenicity. Although live attenuated vaccines are the most successful form of vaccine, reversion to virulence or differences in virulence in different hosts is always the single greatest risk associated with their use.
+The first successful use of an attenuated vaccine was in 1796 when Edward Jenner inoculated an 8-year-old boy with cowpox which subsequently protected the boy when he was challenged with Smallpox. The first artificially created attenuated vaccine was against rabies, produced by Louis Pasteur in 1884, and a recent report [6] summarises the benefit to both humans and dogs of the mass rabies vaccination program to domestic dogs in different parts of the world.
+One of the most successfully applied attenuated vaccines was the Plowright vaccine strain used to combat rinderpest, a highly pathogenic and often fatal (up to 90% mortality) disease of cattle and buffalo [7]. This vaccine strain was derived by 90 serial passages in cell culture of the highly pathogenic Kabete `O' strain of rinderpest virus. The Plowright vaccine has been instrumental in the near eradication of rinderpest. This particular attenuated vaccine meets many of the requirements of a good vaccine. It stimulates a strong
+
+6510
+
+A. Brun et al. / Vaccine 26 (2008) 6508­6528
+
+immune response which confers lifelong immunity from a single inoculation. It is also highly unlikely to revert to a virulent form as the attenuation is generated by several small changes located throughout the genome [8].
+Less successful attenuated vaccines have been used against Rift Valley fever, African horse sickness and African swine fever, to name a few. Rift Valley fever is an insect borne, multi-species zoonotic viral disease of livestock caused by Rift Valley fever virus. The attenuated vaccine is based on the Smithburn isolate which was derived from mosquitoes in 1944 and passaged 79­85 times by intracerebral inoculation of mice. This resulted in the loss of hepatotropism and the acquisition of neurotropism. This vaccine, when administered parenterally can immunise sheep [9], and millions of doses have been widely used in Africa [10]. However, vaccines based on the Smithburn isolate can induce abortions, teratology in the foetuses of vaccinated animals, hydrops amnii and prolonged gestation in a proportion of vaccinated dams [11]. Research is ongoing into finding a safer attenuated vaccine. One possible replacement named Clone 13 has been shown in trials to be highly efficacious in both sheep and cattle and does not induce abortions in sheep [12].
+Problems due to insufficient attenuation of vaccine strains were also encountered with African horse sickness (AHS), a vector borne viral disease of all equidae, which results in a high mortality in susceptible horses [5] and with African swine fever virus, an acutely fatal haemorrhagic fever of domestic pigs [13].
+The failure to develop effective live attenuated vaccines in the above mentioned examples is mainly due to the conventional methodology employed. In addition to this an increasing stringency from regulatory bodies has driven vaccine development to incorporate the latest advances in molecular biology, cell biology and immunology. The use of reverse genetics and recombination technology has allowed vaccines to be more carefully designed. It is now possible to have fully defined attenuating mutations clearly mapped on the virus genome. This logical design of vaccine strains can help ensure that the risk arising from a reversion to virulence is greatly minimised. The logical design of vaccines can also allow for immunomodulatory genes to be removed from an attenuated virus, while ensuring that protective antigens are not accidentally removed, hence increasing its efficacy in stimulating the immune system of the vaccinated animal. A great advantage of a designed vaccine is the ability to include their use in conjunction with epidemiological surveillance systems. In many cases, where a disease is not endemic, vaccination has not been considered as a control option due to the inability to differentiate between an infected animal and one which has been vaccinated. The development of vaccines which allow differentiation between infected and vaccinated animals (DIVA) enables virus free status to be more rapidly granted to countries which have suffered disease incursion.
+With the introduction of exciting new vaccine technologies such as peptides/recombinant antigens, DNA and viral vectors, attenuated live vaccines have been out of fashion for awhile. However, the development of new molecular biological techniques is seeing the return of attenuated vaccines to the forefront of disease control. For example reverse genetics is being used to develop the latest vaccines against H5N1 avian influenza virus and these have the potential to be used in both the avian host and humans [14]. The use of this technology has allowed the identification of virulence determinants in the three envelope glycoproteins of classical swine fever virus (CSFV) [15­19]. Several of the live attenuated CSFV mutants generated conferred complete protection to swine challenged with rescued virulent virus as early as 3 days post-vaccination [16­19]. Similar success has been experienced using molecular tools to design vaccines for disease caused by DNA viruses. Pseudorabies (Aujeszky's disease) has been combated successfully using recombinant, gene deleted, attenuated vaccines. The first commercially
+
+available gene deleted live vaccine was a glycoprotein E (gE) deleted vaccine used in the eradication programmes in both Europe and America. More recently a new generation of gE-gG-TK-gene deleted vaccines has been developed [20]
+3. Viral-based vectors as antigen delivery systems
+3.1. DNA virus vectors
+3.1.1. Poxviruses Poxviruses provide a number of advantages as antigen delivery
+systems. They are large viruses containing a DNA genome ranging in size between 130 and 300 kb pairs. They can accommodate large amounts (over 25 kb) of extra DNA [21] thus several transgenes can be expressed simultaneously providing a multi-valent vaccine approach [22­24]. Importantly, poxviruses replicate within the cytoplasm of infected cells and do not integrate into the host genome, thus eliminating the potential for insertional mutagenesis. Poxviruses have been used in two different approaches as vaccines. The first approach relies on productive replication of an attenuated strain in a permissive host. The second approach relies on the fact that poxviruses may enter cells of non-permissive hosts and express most of the proteins encoded, including inserted transgenes, but do not produce infectious virus. These replication-deficient viruses provide advantages in terms of their safety although a disadvantage is that more than one inoculation may be required to induce a protective immune response. These approaches have been used both with vaccinia virus (VV), which has a very wide host tropism and with different poxviruses with more restricted host tropisms.
+Replicating poxvirus vectors can induce a long-lasting immunity after a single injection and can activate both humoral and cellular immunity depending upon the promoter controlling the expression of the immunogen. The possibility of using poxviruses as vectors for foreign gene expression was initially demonstrated in 1982 with VV [25,26]. The first recombinant VV to be used in the field was the Copenhagen strain expressing the rabies virus surface glycoprotein [27]. A commercial version of this strain embedded in baits (RABORAL V-RG®) was used in the eradication of fox rabies in several Western Europe countries [28,29]. Since then numerous strains of VV have been engineered to express a variety of antigens from a number of pathogens in various animal species (Table 1).
+Wild type VV strains may produce undesirable effects in humans and therefore two highly attenuated vaccinia virus vectors were developed. Both modified vaccinia Ankara (MVA) and NYVAC strains undergo very limited or no productive replication in mammalian cells [30,31] although most of the virus proteins are produced including inserted transgenes. Therefore both humoral and cellular immunity can be induced against the transgene product. The MVA strain has lost about 15% of the genome including host range and virulence genes, during passage in chick embryo fibroblasts [32]. The NYVAC strain was developed more recently from the Copenhagen VV vaccine strain by the targeted deletion of 18 genes [31]. Both strains have been used successfully to induce protection against animal pathogens (Table 1).
+Other animal poxviruses have been attenuated and used as replicating recombinant vaccines in permissive host species. Among them, capripoxviruses were selected because they have a restricted host range [33,34]. The attenuated KS1 strain was used as vector to express both the H or F genes of rinderpest virus and these recombinant viruses conferred protection of cattle against both rinderpest and lumpy skin disease [35,36]. KS1 vaccine expressing either the H or F genes of peste des petits ruminants (PPR) protected
+
+A. Brun et al. / Vaccine 26 (2008) 6508­6528
+
+6511
+
+Table 1 Examples of viral antigens expressed in different poxvirus vectors.
+
+VV vectors Vaccinia virus
+
+Antigen
+H protein H + F proteins F, G, N G P67 VP2, VP5 Envelope protein Env EO, E2 H5
+
+Pathogen
+RPV
+BRSV BEV T. parva BTV BLV CA-EV CSFV AIV
+
+Species
+Cattle
+Cattle Cattle Cattle Sheep Sheep Goat Pigs Chicken
+
+Commercially available
+
+References
+[295­298]
+[299] [300] [301] [302] [303,304] [305] [306,307] [308]
+
+MVA strain
+
+F, G HA, NP Ag85A
+
+BRSV Equine influenza M. tub
+
+Cattle Ponies Cattle
+
+[309] [310] [311]
+
+NYVAC strain
+
+H, F prM, E, NS1 gB, gD
+
+CDV JEV ADV
+
+Ferrets Pigs Pigs
+
+[62] [312] [313,314]
+
+ALVAC strain
+
+gB, gC, gD Glycoprotein G Fusion protein F VP2 and VP5 H5 F and H Env, gaga prM and E H3
+
+EHV-I NiV
+BTV AIV CDV FeLV WNV Influenza H3N8
+
+Horses Pigs
+Sheep Cats Dogs and ferrets Cats Horses Foals
+
+RECOMBITEK CDV PUREVAX FDV PUREVAX FeLV RECOMBITEK equine WNV PROTEQ-FLUTM
+
+[63] [315]
+[66] [57] [61,62] [65,316,317] [318­320] [321]
+
+Myxoma virus
+
+Capsid gene (F9 strain) Influenza hemaglutinin Vp60
+
+FCV AIV RHDV
+
+Cats Rabbits Rabbits
+
+[322] [44] [45,46,323]
+
+Swinepox
+
+Gp50 and gp63
+
+ADV
+
+Pigs
+
+[47,48]
+
+Capripoxvirus
+
+H and F (KS1 strain) H and F (KS1 strain) VP7 (KS1 strain) VP2, VP7, NS1 and NS3 (serotype 2) G glycoprotein (LSDV Neethling) G1 and G2 (LSDV Neethling)
+
+RPV PPRV BTV
+RV RVFV
+
+Cattle Goats Sheep
+Cattle Mice
+
+[35,36,324­326] [37,67] [38,39]
+[40] [42]
+
+Avipoxvirus
+
+H5 or H7 (+N1 gene)
+HN, ±F gB env VP2 F gene F gene (Pigeonpox)
+
+AIV
+NDV MDV SNV IBDV TRTPV NDV
+
+Chickens Turkeys Chickens Chickens Chickens Chickens Turkeys Chickens
+
+TROVACTM -AIV-H5
+
+[327­330]
+[331­334] [335] [336] [337] [338] [43]
+
+Abbreviations: ADV: Aujezsky disease virus, AIV: Avian influenza virus, BEV: Bovine ephemeral virus, BHV-1: bovine herpesvirus 1, BHV-4: bovine herpesvirus 4, BLV: bovine leukaemia virus, BRSV: bovine respiratory syncytial virus, BTV: bluetongue virus, BVDV: bovine viral diarrhoea virus, CDV: canine distemper virus, CHV: canine herpesvirus, CSFV: classical swine fever virus, EHV-1: equine herpesvirus 1, FCV: feline calicivirus, FeLV: feline leukemia virus, FHV-1: feline herpesvirus 1, FMDV: foot-and-mouth disease virus, IBDV: infectious bursal disease virus, JEV: Japanese encephalitis virus, LSDV: lumpy skin disease virus, M. tub: Mycobacterium tuberculosis, MDV: Marek's disease virus, NDV: Newcastle disease virus, NiV: Nipah virus, PPV: porcine parvovirus, PPRV: peste des petit ruminants virus, PRRSV: porcine reproductive and respiratory syndrome virus, PRV: pseudorabies virus, RHDV: rabbit hemorraghic disease virus, RPV: rinderpest virus, RV: rabies virus, RVFV: Rift Valley fever virus, SNV: spleen necrosis virus, T. parva: Theileria parva, WNV: West Nile virus, TRTPV: turkey rhinotracheitis pneumovirus.
+
+goats against goatpox and PPR [37]. The KS1 vaccine strain was also used to express several antigens of bluetongue virus in sheep and this provided partial to full protection against challenge with a virulent strain [38,39]. Another attenuated capripoxvirus, the LSDV Neethling vaccine strain, has been used as a vector to deliver antigens. A LSDV recombinant expressing the rabies virus glycoprotein elicited both humoral and cell-mediated immune responses in cattle [40]. Interestingly, the same recombinant LSDV strain did not replicate in mice and rabbits but still induced protective immune responses against rabies [41]. Another LSDV recombinant expressing the G1 and G2 glycoproteins of Rift Valley fever virus also induced protection against Rift Valley fever in mice [42].
+Numerous recombinant avipoxviruses have been developed to control avian diseases. Some examples of fowlpox recombinant are also listed on Table 1. A pigeonpox virus expressing the F gene
+
+of Newcastle disease virus was also safe and efficient in chickens [43].
+Rabbits injected with an attenuated myxoma virus expressing the influenza virus haemagglutinin developed a specific antibody response to the foreign antigen, thus suggesting this myxoma virus could be an efficient antigen delivery system for rabbits [44]. Shortly after, recombinant myxoma viruses were produced to protect against both myxomatosis and rabbit viral haemorrhagic disease [45,46]. In pigs, a recombinant swinepox virus was developed to protect against a virulent challenge with Aujezsky's disease virus [47,48].
+These examples illustrate the use of replicating poxviruses in permissive host species for vaccination strategies. However, while very promising, to our knowledge only one recombinant, the attenuated fowlpox virus expressing the H5 gene of avian influenza virus
+
+6512
+
+A. Brun et al. / Vaccine 26 (2008) 6508­6528
+
+(TROVACTM-AIV-H5) has been used commercially [49]. This limited use reflects the fact that these recombinants are genetically modified organisms that replicate in their natural host species, thus causing biosafety concerns. In addition, interfering pre-immunity resulting from a previous "natural" infection or the transfer of maternal antibodies in the young may reduce the capacity of the vector to replicate and, thus, induce less effective immunity [50,51].
+Poxviruses are known to generate a nearly lifelong immunity in their natural host species after the initial contact. This is an advantage when poxvirus vectors are to be used in naive animals but certainly a major constraint for repeated use in immune animals. However, recent work has opened new possibilities to circumvent the problem of pre-existing immunity. The B5 protein is the primary target for the antibodies that neutralize the extracellular form of VV. Mice primed with a replicating VV and then boosted with a recombinant VV lacking the ectodomain of this B5 protein had a stronger antibody response against the transgene product compared to mice boosted with the wild type recombinant VV [52]. A similar strategy could be envisaged for other poxviruses used as vectors in permissive host species.
+An alternative strategy is the use of replication-deficient poxvirus vectors in non-permissive host species. Indeed, it has been shown in mice, that pre-existing immunity against the non-replicating MVA is not strong enough to block a boosting vaccination with the same virus [53]. The poxvirus vectors most studied so far for antigen delivery in non-permissive host species are the avipoxviruses used in mammals. Avipoxviruses replicate only in avian cells or birds. In mammalian cells or mammals, they initiate an abortive infection but can express antigens and stimulate both humoral and cell-mediated immune responses against the transgene product [54,55]. Recombinant fowlpox viruses have been successfully used to express antigens in guinea pigs [56], in cats [57] and in pigs [58]. Recombinant canarypox vectors are about 100 times more efficient than comparable fowlpox vectors in inducing protective immunity [59]. The most studied avipoxvirus for antigen delivery in mammals is the ALVAC canarypox strain. This strain has been used to induce protection against diverse pathogens in various species. Despite this extensive use in research, commercial applications are presently available only for companion animals and horses. ALVAC strains were developed to protect dogs and ferrets against rabies [60] or canine distemper virus [61,62]. Licensed canarypox based vaccines are also listed in Table 1.
+Non-replicative recombinant poxviruses offer several advantages including added safety since they do not spread between animals. They also induce low immunity against the vector virus used, thus permitting repeated administrations, they can be used for priming young animals with maternal antibodies when conventional attenuated live vaccines failed [63,64] and they can also boost the immune response engendered by a killed virus vaccine [65]. However, compared to replicating poxviruses used in permissive host species, they generally require the administration of high titres with a boosting injection to achieve sufficient protection. For example, the immunisation of sheep against bluetongue virus with a canarypox virus vaccine required two injections of 6.3 × 108 particles 3 weeks apart [66], only one dose of 10­100 particles of recombinant capripox virus was enough to protect goats against peste des petits ruminants [37,67]. Finally, both replicating and replication-deficient recombinant poxvirus vaccines offer the possibility to differentiate naturally infected from vaccinated animals since the recombinants express a single or a couple of antigens of the pathogens and other antigens remain available for immunological testing [49].
+The virus type species Orf Virus (ORFV) from the genus Parapoxviridae (PPV) has been proposed as a candidate for novel marker vector vaccines [68]. The ORFV has a very restricted host range in
+
+vivo and in vitro (sheep and goats and occasionally man), a restricted skin tropism and an absence of systemic infection [69]. Among different ORFV vaccine strains, only the D1701 is a highly attenuated strain with a markedly reduced pathogenicity after subcutaneous application. This strain presents several advantages for use as a viral vector including its ability to be propagated on a cell line and its ability to induce a strong immune-stimulating and regulating response in non-permissive hosts such as mice and swine [70,71]. An additional benefit of this vector is that only a short-term vector specific immunity, without the formation of neutralizing antibodies against PPV, is induced even in the natural host sheep, thus avoiding immune interference following repeated inoculations. This is mainly linked to the action of the virus immunomodulatory proteins interfering with the host immune response to avoid virus elimination [72,73]. In addition, the observed adjuvant properties of ORFV, promote ORFV as a new safe poxvirus vector [69,74,75]. Several in vivo studies reported that a prophylactic administration of the inactivated D1701 (Baypamun, Bayer AG, Leverkusen, Germany) reduced the susceptibility of different animal species to infectious diseases such as IBR virus in cattle [76], and Aujezsky's disease in swine [77]. More recently, the immunostimulatory properties of the D1701 was shown following immunisation with CSFV glycoprotein E2 subunit vaccine in swine [78,79].
+Studies on the genome of the highly attenuated ORFV strain D1701 led to the identification of some viral genes non-essential for virus replication but with an influence on viral pathogenesis, virulence and host immunity [80]. Thus, deletion of the vegfe (mammalian vascular endothelial growth factor homologue) locus permits foreign genes to be expressed in vitro, even in the absence of productive virus replication in non-permissive cells, leading to the induction of a specific immune response in the nonpermissive host [81]. Several reports on the protective capacity following inoculation of different recombinant ORFV (strain D1701) are summarised in Table 2. In conclusion, although more studies are needed to understand the immunostimulatory properties of ORFV, the capability of ORFV recombinants to induce antigen specific memory immune responses and to control acute or persistent infections requiring different immune mechanisms demonstrates their potential as a promising new poxvirus delivery system
+3.1.2. Herpesvirus The family Herpesviridae encompasses the subfamilies Alpha-,
+Beta-, and Gammaherpesvirinae each of which contains several genera [82]. The large genome size, which can be extended, presence of virulence genes not essential for productive viral replication in vitro and in vivo, and the availability of efficient methods to manipulate herpesviral genomes are significant advantages for using herpesviruses as vaccine vectors. Several herpesviruses which cause diseases in pets or in animal husbandry, resulting in high economic losses, have been engineered to serve as vaccine vectors (Table 3). With the exception of BHV-4, all of them are alphaherpesviruses which reflects that members of this subfamily cause the majority of herpesviral infections of significant veterinary relevance.
+The first herpesviruses of farm animals engineered to express heterologous antigens were bovine herpesvirus type 1 (BHV-1) which causes infectious bovine rhinotracheitis/infectious pustular balanoposthitis and pseudorabies virus (PRV), the cause of Aujeszky's disease. In 1991 a BHV-1 virion surface display approach used a fusion protein between foot-and-mouth disease virus (FMDV) VP1 epitopes linked to the N-terminus of BHV-1 glycoprotein C. Calves immunized with the hybrid BHV-1 recombinant were protected from challenge with pathogenic BHV-1 and developed a protective antibody response against FMDV [83,84]. However, no follow-up studies using a similar display approach were published. Further developments with BHV-1 as a vector used genomic
+
+A. Brun et al. / Vaccine 26 (2008) 6508­6528
+
+Table 2 ORF virus (strain D1701L) as a vector for veterinary vaccine antigens.
+
+Antigen
+gC or gD p40 gC+gD E2
+
+Pathogen
+ADV BVDV ADV CSFV
+
+Species
+Mouse Rats Pigs Pigs
+
+Immunological consequences
+Strong anti-gC humoral response after single dose Induction of B-cells, plasma cells and T cells Balanced Th1/Th2 ratio following DNA priming Higher antibody titres and enhancement of frequency of IFN-gamma producing PBMCs
+
+6513
+Reference [339] [340] [341] [79]
+
+integration of expression cassettes coding for structural proteins of bovine respiratory syncytial virus (BRSV), bovine viral diarrhoea virus (BVDV), PRV, and Cryptosporidium parvum, a parasite which causes cryptosporidiosis, a zoonotic disease [85­93]. Integration of the expression cassettes into the BHV-1 genome resulted in replacement or inactivation of pathogenicity-associated genes like the thymidine kinase gene [88­92] or genes encoding glycoproteins gC [92], gG [92,93], gE [86], or gI [85,87]. Analyses of the immunogenic properties of the BHV-1 recombinants expressing PRV glycoproteins in mice revealed induction of a protective immune response against a lethal challenge with PRV. Thus, these recombinants might be beneficial in situations where maternal antibodies interfere with immunization of piglets with PRV-based vaccines [91,92]. Recombinant herpesviruses expressing C. parvum p23 and BVDV E2 were inocculated into rabbits [93] or guinea pigs [89] and a specific antibody response against the appropriate pathogens was induced. To our knowledge, the only vaccination/challenge experiment in cattle was reported for the BRSV attachment protein G expressing BHV-1 vector which demon-
+
+strated that vaccinated calves were resistant to BRSV infection. However, in comparison to the control infection, virulence of the BRSV G expressing recombinant for calves was increased [86]. The suitability of canine herpesvirus as a vector for immunization purposes was evaluated using recombinants expressing the rabies virus G protein [94] or the Neospora caninum surface protein NcSRS2 [95]. Both vaccine candidates elicited specific antibodies against the respective target antigens. Vaccination/challenge experiments, however, await publication.
+Two studies reported vaccination against feline leukemia virus (FLV) using recombinant feline herpesvirus 1 (FHV-1). Efficient vaccination was achieved by immunization of cats with an FHV-1 recombinant expressing only the env protein [96] whereas a previous vaccination/challenge experiment was only successful after immunization with FHV-1 recombinants expressing env and gag followed by a booster immunization with baculovirus expressed env and gag [97]. The differences in vaccine efficacy might have been due to the intrinsic characteristics of each recombinant of the recombinants such as the insertion locus (ORF2 and TK locus,
+
+Table 3 Examples of veterinary herpesvirus vectors for antigen delivery.
+
+Vector BHV-1
+
+Target pathogen
+BRSV BVDV C. parvum FMDV PRV
+
+Expressed target antigen
+BRSV attachment protein G Glycoprotein E2 Surface protein p23 VP1 Glycoproteins gB, gC, gD, gE, gI
+
+References
+[4,5,85,86] [6­8,87­89] [12,93] [2,3,83,84] [9­11,90­92]
+
+BHV-4
+
+BVDV BHV-1
+
+Glycoprotein E2 Glycoprotein D
+
+[43,122] [44,123]
+
+CHV EHV-1
+
+Rabies virus N. caninum
+BVDV WNV
+
+Glycoprotein Surface protein NcSRS2
+Structural proteins C, Erns, E1, E2 Proteins E and prM
+
+[13,94] [14,95]
+[41,120] [42,121]
+
+FHV-1
+
+FeLV T. gondii
+
+env, gag, ROP2 antigen
+
+[15,16,96,97] [17,98]
+
+FCV
+
+FIV
+
+Capsid protein
+
+[18,99]
+
+gag, env
+
+[19,20,100,101]
+
+HVT ILTV
+
+IBDV and MDV AIV
+
+IBDV VP2 Haemagglutinin H5 and H7
+
+[23­25,104­106] [26,27,107,342]
+
+MDV
+
+NDV IBDV
+
+Fusion protein F VP2
+
+[21,102] [22,103]
+
+PRV
+
+CSFV
+
+Glycoprotein E2
+
+[28,29,108,343]
+
+JEV
+
+NS1 protein
+
+[30,109]
+
+FMDV
+
+VP1
+
+[31,110]
+
+PRRSV
+
+GP5
+
+[32­34,111­113]
+
+TGEV
+
+S1 protein
+
+[35,114]
+
+PCV2
+
+Capsid protein
+
+[36,115]
+
+FMDV + PPV
+
+P1-2A (FMDV) + VP2 (PPV)
+
+[37,116]
+
+Rabies virus
+
+Glycoprotein
+
+[38,117]
+
+Swine Flu virus
+
+Haemagglutinin H3
+
+[39,118]
+
+Abbreviations: BHV-1: bovine herpesvirus 1, BHV-4: bovine herpesvirus 4, BRSV: bovine respiratory syncytial virus, BVDV: bovine viral diarrhoea virus, CHV: canine herpesvirus, C. Parvum: Cryptosporidium parvum, CSFV: classical swine fever virus, EHV-1: equine herpesvirus 1, FCV: feline calicivirus, FeLV: feline leukemia virus, FHV-1: feline herpesvirus 1, FIV: feline immunodeficiency virus, FMDV: foot-and-mouth disease virus, HVT: herpesvirus of turkeys, IBDV: infectious bursal disease virus, ILTV: infectious laryngotracheitis virus, JEV: Japanese encephalitis virus, MDV: Marek's disease virus, NDV: Newcastle disease virus, N. caninum: Neospora caninum, PPV: porcine parvovirus, PRRSV: porcine reproductive and respiratory syndrome virus, PRV: pseudorabies virus, Swine Flu virus: Swine influenza virus, TGEV: transmissible gastroenteritis virus, T. gondii: Toxoplasma gondii, WNV: West Nile virus.
+
+6514
+
+A. Brun et al. / Vaccine 26 (2008) 6508­6528
+
+respectively) or the promoters used to direct transcription (Rous sarcoma LTR promoter versus human cytomegalovirus immediate early promoter). Induction of a protective immune response was also reported for recombinant FHV-1 expressing the ROP2 protein of Toxoplasma gondii. Immunization of cats with the recombinant followed by a challenge infection with the parasite reduced the parasite load in the brain and serum antibodies inhibited the in vitro invasion of tachyzoites [98]. Feline calicivirus neutralizing antibodies were induced in cats by a FVH-1 recombinant expressing the capsid protein of feline calicivirus [99]. Only in-vitro expression analyses have been reported so far for FVH-1 vectors containing gene cassettes for gag or env proteins from feline immunodeficiency virus [100,101]. These studies suggested that the resulting recombinants might be suitable vaccine candidates.
+Marek's disease virus (MDV), which causes a highly contagious neoplastic disease in chickens, has been engineered to develop polyvalent vaccines against Marek's disease (MD) and Newcastle disease [102] or MD and infectious bursal disease (IBD) [103]. Vaccination challenge experiments revealed good protection against both diseases targeted by the respective MDV recombinants which was also achieved in the presence of maternal antibodies against MDV [103]. Herpesvirus of turkey (HVT) is apathogenic in chickens and has been used for a long time in vaccines for protection against MD. Bivalent vaccines against both MD and IBD based on HVT vectors expressing VP2 of IBDV were shown to be efficacious and safe. They can be inoculated into embryonated eggs and 1-day chickens and are effective in the presence of high titres of maternally derived antibodies [104­106]. Remarkably, the resulting vaccine VaxxitexRHVT + IBD is so far the only licensed and commercialised animal herpesvirus vector based product.
+Further developments of vectored bivalent vaccines against poultry diseases include expression of haemagglutinin genes encoding H5 and H7 of highly pathogenic avian influenza viruses by deletion mutants of infectious laryngotracheitis virus [107]. As mentioned above, PRV was one of the first animal herpesvirus suggested to be suitable as bivalent vaccine vector. Proof of concept was achieved by showing that attenuated PRV expressing envelope glycoprotein E2 of classical swine fever virus constitutes an efficacious, safe and non-transmissible vaccine against both Aujeszky's disease and classical swine fever [108]. Despite the promising results, this vaccine was never commercialised. The main reason may have been that use of a PRV-based vector vaccine was not favoured by producers due to the concurrently initiated eradication programs for PRV. Consequently, development of PRV-based vector vaccines was only recently resumed. Publications originate mainly from research institutes in China and report PRV recombinants expressing antigens from Japanese encephalitis virus (JEV) [109], FMDV [110] porcine reproductive and respiratory syndrome virus (PRRSV) [111­113], transmissible gastroenteritis virus (TGEV) [114], porcine circovirus 2 (PCV2) [115], FMDV plus porcine parvovirus (PPV) [116], rabies virus [117] and H3N2 swine influenza virus [118]. Data on vaccination/challenge experiments of these potential vaccine candidates are available for the recombinants expressing NS1 of JEV [109] VP1 of FMDV [110], GP5 of PRRSV [111­113], and haemagglutinin H3 of swine influenza virus [118]. They all induced specific immune responses against PRV and the target pathogens which, however, in all cases need to be improved. It will be interesting to see which of these PRV vector constructs will find the way into field applications.
+The recombinant herpesviruses described above were all generated using the classical recombination in cultured cells of mammalian or avian origin. In the last years, cloning and maintaining of entire, infectious herpesviral genomes in Escherichia coli, so-called bacterial artificial chromosomes (BAC), and development
+
+of techniques to manipulate these genomes in bacteria significantly eased construction and recovery of recombinants [119]. The BAC technique was applied for generation of equine herpesvirus 1 (EHV1) recombinants expressing BVDV structural proteins [120] or West Nile virus (WNV) prM and E proteins. The latter induced WNV neutralizing antibodies after immunization of horses [121]. Vaccination of cattle with the EHV-1/BVDV recombinant resulted in BVDVspecific, neutralizing antibodies and reduction of viraemia levels and nasal virus shedding after a BVDV challenge infection. This shows that EHV-1 vectors are suitable for vaccination of cattle and may find application in cases where existing antibodies preclude use of live vector vaccines derived from bovine viruses, like the recombinant BHV-4 viruses reported recently which express BVDV glycoprotein E2 or BHV-1 gD [122,123]. Inoculation of the recombinants into rabbits or sheep induced neutralizing antibodies against the respective target pathogens. However, vaccination/challenge experiments in cattle are needed to elucidate whether BHV-4, a gammaherpesvirus which is regarded as apathogenic or of low pathogenicity in cattle, may become a suitable live vector for vaccination against bovine diseases.
+With regard to commercialisation, animal herpesvirus vector vaccines are far from being a success story. However their development and testing in animal models and target animal species significantly contributed to the understanding of the biology of relevant veterinary diseases and will help in the rationale design of future developments to improve efficacy which might include coexpression of immunostimulatory proteins like cytokines or chemokines and/or ligands for activation of specific signal transduction pathways. These approaches will be facilitated by the BAC technology.
+3.1.3. Adenovirus Adenoviruses (Ad) have been isolated from humans and many
+animals, including bovine, ovine, porcine, canine and avian species. Human Ad are by far the best characterised, and the vast majority of gene transfer studies involving Ad, whether for therapeutic or vaccinal purposes, have been carried out with vectors derived from serotype 5 of Ad (Ad5). Adenovirus-based vectors are very attractive candidates for vaccine development, as in mammalian hosts they elicit potent humoral and cell-mediated immune responses (IR), both systemically and at local sites, against the antigens encoded by the inserted foreign genes [124]. Different strategies of construction have been employed, depending upon whether the aim was to obtain replicative vectors (Ad-R+), capable of multiplying in natural or permissive hosts, or rather non-replicative vectors, incapable of multiplying in the host (Ad-R-). Numerous vaccination trials have been conducted using Ad-R+ or Ad-R- vectors, and have led to the conclusion that Ad-R+ are quantitatively (diminution of the required dose) and qualitatively (induction of mucosal immunity) more effective. Nevertheless, Ad-R+ vectors present a major drawback; that is, their use in permissive hosts gives rise to the production of infectious particles that can be released into the environment. In view of the legislation governing the use of genetically modified organisms, the use of Ad-R+ is in practice only conceivable for strains of Ad whose innocuity has been firmly established.
+When different vectors expressing the same heterologous antigen have been compared, Ad5-based vectors have proven particularly immunogenic, and notably as regards induction of antigen-specific CD8+ T cells [125,126]. The qualities of Ad5 that underpin such immunogenicity are not as yet fully elucidated, but include its capacity to elicit strong innate immunity [127]. Parenteral administration of Ad5 in mice induces an intense inflammatory response, characterised by the secretion of high levels of proinflammatory cytokines and the induction of a maturation process in immature dendritic cells. Cytokine secretion does not
+
+A. Brun et al. / Vaccine 26 (2008) 6508­6528
+
+Table 4 Examples of animal adenovirus (Ad) vectors used in veterinary species.
+
+Vector
+Porcine Adenovirus Porcine Adenovirus Ovine Adenovirus Bovine Adenovirus Canine Ad serotype 2 (Cav2) Cav2 Cav2 CELO virus (avian adenovirus) Porcine Adenovirus Fowl adenovirus
+
+Target pathogen
+CSFV PRV MHV BHV1 Rabies virus Feline panleukopenia virus FMDV IBDV TGEV Avian infectious bronchitis virus
+
+Expressed antigen
+gp55 gD NS3 gD Glycoprotein VP2 VP1 VP2 Spike protein Spike subunit
+
+Species
+Pigs Pigs Mouse Cattle Mouse, dogs, cats Cats Pigs Chickens/in ovo Swine Chickens
+
+6515
+Reference [149,167] [151] [152] [153] [154­156] [157] [158] [160] [169] [171]
+
+initially require viral gene expression, but rather, is induced by the viral particles themselves [128­131]. Indeed, one viral structural protein, the hexon, has been described to behave as an intrinsic adjuvant [132]. The presence of high levels of proinflammatory cytokines and mature dendritic cells is presumed to create conditions conducive to the induction of antigen-specific adaptive immunity.
+As regards adaptive immunity, the memory response elicited by Ad5 has been observed to be protracted, both in murine and simian studies, in relation to what is typical of acute viral infections [133­135]. In particular, the antigen-specific CD8+ T-cell population elicited by Ad5 has been observed to maintain an effector phenotype for a prolonged period of time [136]. The protracted memory response may be related to prolonged exposure to antigen, as recent studies have shown that while high level antigen expression was maintained for only 1 week after parenteral administration [136,137], antigen remained available to prime naïve T cells for at least 30 days after immunisation [137]. Long-term low level antigen presentation has been linked to the persistence of low levels of transcriptionally active Ad5 genomes at the site of inoculation, in liver and lymphatic tissues [138].
+Vectors derived from human Ad have been extensively evaluated as vaccines in murine and nonhuman primate models [139­141]. Less data are generally available for veterinary species [142] although a remarkable success have been achieved in protection of swine and cattle against FMDV by means of a single inoculation of an Ad5-vectored subunit vaccine [143,144]. Data are currently being accumulated for nonhuman Ad, not only in murine and nonhuman primate species, but also in target animal species, whether they represent natural hosts or not [145,146]. If necessary, pre-existing immunity against one adenovirus can be circumvented by the use of another adenovirus [147,148]. The review focused on nonhuman Ad, except vaccination by the oral route, for which data obtained with human Ad is highly instructive.
+Vectors derived from several animal adenoviruses have been evaluated as vaccines delivered by parenteral routes (Table 4). Vectors derived from porcine Ad (Pav) have been used to vaccinate swine against CSFV and pseudorabies virus. In one study, a single dose of Pav expressing the gp55 (Pav-gp55) of CSFV induced protection against virulent challenge [149]. In a second study, Pav-gp55 was administered after DNA priming and improved protection as regards two doses of DNA or a single dose of Pav-gp55 [150]. Likewise, administration of a Pav vector expressing the glycoprotein D of pseudorabies virus protected pigs against disease after virulent challenge [151]. Vectors derived from ovine Ad (Oav) have been evaluated in murine models and one such vector expressing the non-structural protein 3 (NS3) of the hepatitis virus was shown to elicit NS3-specific IFN- secreting T cells in mice [152]. Vectors derived from bovine Ad (Bav) expressing the glycoprotein gD of bovine herpesvirus-1 (BHV1) induced protective immune responses in calves [153]. Regarding vectors derived from canine
+
+Ad serotype 2 (Cav2), a single administration by intramuscular or intranasal routes of a Cav2 vector expressing the glycoprotein of rabies virus (Cav2-G) induced protective immunity in mice [154]. In dogs, subcutaneous inoculation of replication-competent Cav2G elicited antibodies neutralising infectivity of rabies virus and protected against lethal challenge [155]. Similarly, intramuscular inoculation of Cav2-G in cats elicited rabies­virus-specific neutralising antibodies (NA) and protection [156]. Administration of a Cav2-derived vector expressing the VP2 protein of the feline panleukopenia virus elicited neutralising antibodies (NA) in all cats and protected from infection and disease [157]. A Cav2 vector expressing the VP1 protein of foot-and-mouth disease virus gave rise to a humoral response, including the induction of NA, in pigs [158]. Subcutaneous vaccination with Cav2 vectors expressing canine distemper virus (CDV) antigens afforded solid protective immunity in puppies born to CDV and Cav2 immune dams. Administration with Cav2 vectors may thus be an efficient strategy for overcoming maternal-derived immunity [159]. Vectors derived from CELO virus (avian adenovirus) have been evaluated in chickens, and a CELO vector expressing the VP2 antigen of the infectious bursal disease virus induced protection upon injection in chickens or in ovo [160].
+Orally delivered vaccines against animal diseases are sought for their ease of administration. They represent the only means of immunising wildlife, whose major role as a reservoir of pathogenic agents was underscored in an in-depth analysis of the origin of emerging human diseases [161]. Just as importantly, oral vaccination holds the promise of eliciting immune responses not only systemically, but also at mucosal surfaces, which represent the major sites of pathogen entry. Such responses are poorly elicited by most injected vaccines. Certain observations suggest that effective oral vaccines might well be derived from Ad. In particular, an orally delivered Ad-based vaccine against acute respiratory disease (ARD) of adenoviral origin was administered to military personnel in the USA over a period of 25 years, beginning in the 1970s. This vaccine, composed of replication-competent Ad4 and Ad7 in the form of enteric coated tablets, was well-tolerated and afforded a significant level of protection against ARD [162­164]. While vaccine production was discontinued in 1996, a similar Ad-derived vaccine against ARD is in the process of being relicensed [165].
+Regarding oral delivery of human Ad expressing a heterologous antigen, many experimental vaccines have been evaluated in diverse species. Upon oral administration of an Ad5-based vector expressing the glycoprotein of the rabies virus in foxes, most vaccinees developed NA against the rabies virus, while in dogs immune responses were not detected after oral administration and even after endoscopic deposition in the small intestine [166]. As regards oral delivery of Ad of non-primate origin, antigen-specific immune responses have been elicited against the transgene product in rodent models as well as in veterinary species, including pigs and dogs. Upon oral delivery of Pav-gp55, 60% of pigs were protected after oral challenge, although antibodies that neutralised
+
+6516
+
+A. Brun et al. / Vaccine 26 (2008) 6508­6528
+
+CSFV infectivity had not been detected [167]. Pigs that received two oral doses, but not one, of Pav-gp55 were protected against disease after contact challenge [168], despite the absence of serum NA. While a similar percentage of pigs that had been vaccinated by the subcutaneous route were protected, CSFV antigen was found in the spleens of surviving orally-vaccinated but not subcutaneouslyvaccinated pigs. Oral administration of a Pav vector expressing the transmissible gastroenteritis virus (TGEV) spike protein induced TGEV-specific virus-neutralising antibodies in swine. Moreover, coronavirus-specific secretory IgA was detected in the small intestine and lungs of immunised animals [169]. Bav-derived vectors have been shown to elicit mucosal immunity and induce protection against BHV1 in a natural host (cattle), even in animals with pre-existing antibodies to the vector [170]. A Cav-2 vector expressing the glycoprotein of the rabies virus (Cav-2-G) was administered to cats by parenteral and local routes: intramuscular but neither intranasal nor oral administration elicited NA and afforded protection against lethal challenge [156]. By contrast, oral vaccination of dogs with baits containing Cav2-G elicited virus NA and afforded long-lasting protection against fatal disease upon challenge with rabies virus [156]. Chickens were protected against challenge following oral vaccination with a Fowl adenovirus expressing the spike subunit of the avian infectious bronchitis virus [171].
+In order to develop effective orally-delivered vaccines, several objectives must be met. These include stability in the highly degradative gastrointestinal milieu, efficacy of antigen delivery across mucosal barriers to gut-associated immune-inductive tissue, and induction of immunity despite a local immunological context biased towards immunological tolerance. Given these inherent obstacles to oral administration, it is perhaps not surprising that at present oral delivery of Ad has not proven entirely satisfactory. Antigen-specific immune responses have been elicited in rodent [172] and primate models [173], as well as in feral and veterinary species, including foxes, dogs, cats and pigs. Nevertheless, immune responses have been considered to be weak, particularly in large animals [174]. When different routes of infection have been compared, higher doses have been required in general to achieve detectable systemic humoral responses and protection by oral administration [175]. At present, the relative contribution of the various obstacles to oral vaccination is unknown, but must be appreciated to improve upon current Ad vectors and oral delivery strategies. Suboptimal transduction secondary to inefficient breaching is likely to be a major factor. Indeed low amounts of genomic Ad DNA were detected in stomach, small intestine and Peyer's patches as compared with high amounts in the oral cavity [176]. Whether such low level expression is due to inactivation of Ad vector in the gastrointestinal milieu or to mucosal barriers is not unknown. It is unlikely, however, that gastric inactivation represents the only obstacle, as when the stomach has been bypassed by direct enteric administration in sheep or endoscopic deposition in the small intestine of dogs, adaptive immune responses were weak [177] or undetectable [166], respectively. Nevertheless, gastro-protection of Ad-based vaccines is being actively explored [173,178]. Finally, poor immunological context in the gastrointestinal milieu would seem to be a factor, as oral adjuvants, and in particular double stranded RNA or its analogs), gave rise to improved adaptive IR [179]. Not only the magnitude but also the quality of immune responses generated by oral administration of Ad has come under scrutiny. In particular, oral delivery of Ad in mice gives rise to systemic rather than intestinal cellmediated immunity [180,181]. Upon oral delivery of hAd in mice, strong immune responses were elicited against the transgene product in CD8+ T lymphocytes in the spleen, but only extremely limited immune responses in Peyer's patches [181]. Similarly, after oral delivery of Ad of chimpanzee origin in mice, weak responses were
+
+elicited in CD8+ T lymphocytes in the spleen, but not in Peyer's patches and mesenteric lymph nodes [180]. At present it is unclear why oral delivery of Ad should elicit local humoral but not local cell-mediated immune responses, despite eliciting systemic, albeit weak, cell-mediated immune responses.
+Nevertheless, in view of the powerful proof of principle provided by the Ad4/Ad7 vaccine, it is likely that solutions will be found to optimise adenoviral vaccines for oral administration.
+3.1.4. Baculovirus Baculoviruses, members of the family Baculoviridae with the
+genera Granulovirus and Nucleopolyhedrovirus, are large enveloped viruses with double-stranded, circular DNA genomes of about 80­180 kbp in size. So far, baculoviruses were found only in arthropods [182] and their restricted host range made some baculoviruses attractive as biological agents for insect pest control [183]. The best studied baculovirus is Autographa californica multicapsid nucleopolyhedrovirus (AcMNPV). The 134 kbp AcMNPV genomic DNA which is infectious, is packaged in a rod-shaped nucleocapsid whose length is proportional to the genome size [182] enabling insertion of large foreign DNA segments.
+AcMNPV has been extensively used for production of recombinant proteins in insect cells since the early 1980s [184]. Since that time the methods for generation and isolation of recombinant baculoviruses were continuously improved. In the mid-1990s Hofmann et al. [185,186] and Boyce and Bucher [187] demonstrated that AcMNPV recombinants carrying mammalian cell-active expression cassettes, so-called BacMam viruses [188] were suitable vectors for gene delivery into hepatic cells. Successful transduction not only of a large number of primary mammalian cells and established cell lines by BacMam virus has now been reported (for examples see Kost and Condrey [189] but also efficient gene transfer into cells of avian [190,191] and piscine origin [192,193] has been demonstrated. Thus, it appears that uptake of AcMNPV by vertebrate cells is a common event. It has been shown that the viral envelope glycoprotein gp64 is essential for virus attachment and subsequent release of the nucleocapsids from endosomes [194]. The exact mechanism of entry into non-insect cells, however, needs to be clarified.
+During the last years an increasing number of BacMam virus applications have been published confirming that advantages of the BacMam technology for gene delivery into vertebrate cells are:(1) BacMam viruses are easy to generate, (2) they have a broad cell type range, (3) there is no detectable gene expression driven by AcMNPV promoters and they do not replicate in vertebrate cells, (4) there is little to no microscopically observable cytopathic effect in transduced cell cultures, (5) they are applicable for transient and stable expression and (6) their application is cost-effective in comparison to chemical transfection procedures [195].
+Initially, in vivo transduction was negative for transgene expression due to inactivation of the virus in presence of native serum and it was shown that the complement system mediated neutralization by both the classical and alternative pathways [186,196,197]. To overcome this problem, complement resistant viruses were generated by displaying the human decay accelerating factor on the viral envelope [197]. This modification resulted in enhanced gene transfer efficiency in neonatal rats. As an alternative, BacMam viruses were pseudotyped with the G protein of vesicular stomatitis virus (VSV-G) and it was demonstrated that the resulting viruses were more resistant to inactivation by animal sera than unmodified BacMam viruses [198]. Recombinants displaying VSV-G proteins on their envelope proved to be suitable for in vivo gene transfer into the cerebral cortex and testis of mice [198], mouse skeletal muscle [199], rat brain and rabbit muscle [200].
+So far reports dealing with the application of the BacMam technology for induction of immune responses against viral pathogens
+
+A. Brun et al. / Vaccine 26 (2008) 6508­6528
+
+Table 5 Negative sense RNA viruses rescued using reverse genetics technologya.
+
+Family Rhabdoviridae
+
+Subfamily
+
+Genus
+Vesiculovirus Lyssavirus
+
+Paramyxoviridae
+
+Paramyxovirinae
+
+Morbillivirus
+
+Respirovirus Rubulavirus
+
+Pneumovirinae
+
+Henipavirus Pneumovirus
+
+Filoviridae Bunyaviridae
+
+Ebola-like viruses Bunyavirus
+
+Phlebovirus
+
+Orthomyxoviridae
+
+Influenzavirus Thogotovirus
+
+a Adapted from Neumann et al. (2002) J. Gen. Virol. 83, 2635­2662.
+
+Species
+Vesicular stomatitis virus Rabies virus
+Measles virus Rinderpest virus Canine distemper virus Sendai virus Human parainfuenza virus type 3 Bovine parainfuenza virus type 3 Simian virus type 5 Mumps virus Human parainfuenza virus type 2 Newcastle disease virus Nipah virus
+Human respiratory syncytial virus Bovine respiratory syncytial virus
+Ebola virus
+Bunyamwera virus LaCrosse virus Rift Valley fever virus
+Influenza A virus Thogoto virus
+
+6517
+Abbreviation
+VSV RV
+MeV RPV CDV SeV hPIV3 bPIV3 SV5/PIV5 MuV hPIV2 NDV NiV
+hRSV bRSV
+EboV
+BUNV LACV RVFV
+
+are limited. Aoki et al. [201] inoculated mice intramuscularly or intranasally with an AcMNPV recombinant expressing pseudorabies virus glycoprotein B (gB). Intramuscular inoculation yielded higher gB-specific antibody titres in sera but mucosal antibodies were only found after intranasal inoculation. Strauss et al. [202] injected mice intramuscularly with a series of AcMNPV recombinants which displayed the Plasmodium falciparum circumsporozoite (CS) protein in the viral envelope or contained a mammalian cell-active CS protein expression cassette or displayed and expressed the CS protein. The latter induced higher CS proteinspecific antibody titres and a greater amount of antigen specific interferon- producing T cells than the viruses which only displayed or expressed the CS protein. The CS display/expression BacMam virus also performed better in inducing CS protein-specific CD4+ and CD8+ T-cell responses in vitro. This study also revealed that splenocytes from AcMNPV infected mice produced a number of non-specific IFN- producing cells, leading to the assumption that the vector itself induced a generalized activation of lymphocytes. This interpretation is in line with previous reports which showed that AcMNPV induced antiviral activity in mammalian cells and conferred protection against lethal encephalomyocarditis virus [203] and influenza virus infections [204] in mice. In addition, a recent study [205] demonstrated that AcMNPV is a strong adjuvant also for adaptive immune responses in mice where effective humoral and T-cell adaptive responses against coinjected antigens were induced.
+As mentioned above, pseudotyping BacMam viruses with VSVG improved in vivo gene transfer by conferring resistance to complement-mediated neutralization. Improvement in induction of antigen-specific immune responses by pseudotyped viruses was addressed by Facciabene et al. [206] who compared the immunogenic properties of conventional and VSV-G displaying BacMam viruses expressing the hepatitis C virus E2 glycoprotein. In contrast to the E2-specific antibody response which was comparable for the different viruses, 10-fold less pseudotyped virus was needed as minimal dose for induction of a specific cellular immune response. Nevertheless, both viruses induced CD8+ cells with antigen specific effector function. Pseudotyped BacMam virus was also used to compare induction of PRRSV neutralizing antibodies in mice after
+
+inoculation of a recombinant virus coexpressing the PRRSV GP5 and M proteins, or DNA immunization with purified DNA encoding the same antigens [207]. This study showed that PRRSV neutralizing antibodies were raised in a dose dependant manner and, astonishingly, twofold inoculation of 108 plaque forming units of the BacMam virus elicited significantly higher neutralizing antibody titres than dual injection of 100 g purified plasmid DNA.
+The field and examples for application for BacMam viruses are rapidly growing and the development of next generation BacMam vectors for vaccination purposes. Improvements to enhance the transduction efficacies in vivo include display of specific ligands on the surface of BacMam virions [208­212] and augmentation of transgene expression by vertebrate cell-active transcriptional and post-transcriptional regulatory elements [213].
+3.2. RNA virus vectors
+3.2.1. Paramyxovirus Viruses classified in the family Paramyxoviridae [214] are
+enveloped, single-stranded, negative-sense RNA viruses that include highly prevalent human pathogens, such as respiratory syncytial virus (RSV) and measles virus (MV), as well as viruses that have major economic impacts on the poultry and livestock industries [e.g. Newcastle Disease virus (NDV), rinderpest virus (RPV) and peste des petits ruminants (PPRV)]. Extraordinary progress has been made in the past 10 years in the genetic engineering of these RNA viruses and this has provided an opportunity which allows the design of new vaccines expressing foreign epitopes with the potential to combat these and other pathogens. This major breakthrough occurred when reverse genetics systems, the ability to rescue an RNA virus from a complete DNA copy of its genome, were established for the negative-sense RNA viruses. The first such virus to be rescued from a copy of its genome was rabies virus in 1994 [215]. This was quickly followed by the rescue of other negative sense RNA viruses [216­219] (Table 5). The ability to specifically alter the genome at any chosen site has led to a better understanding of virus protein functions and interactions and has enabled the development of live attenuated virus vaccines; in particular marker vaccines. These, when used in association with companion diagnos-
+
+6518
+
+A. Brun et al. / Vaccine 26 (2008) 6508­6528
+
+tic tests, can be used to identify vaccinated as opposed to naturally infected animals. Another application is the use of these virus vaccines as vectors to deliver immunogens from other pathogenic agents
+The family Paramyxoviridae is divided into two subfamilies, Paramyxovirinae (containing the morbillivirus, respirovirus, rubulavirus and two new genera, henipavirus and avulavirus) and Pneumovirinae (containing the pneumovirus and metapneumovirus genera) [220,221]. Paramyxoviruses have non-segmented negative-sense RNA genomes of between 15 and 19 kb in length [222]. One characteristic of this virus family, and other negativestrand RNA viruses, is that naked RNA when transfected into cells is not infectious in contrast to the full-length genome RNAs of positive-sense RNA viruses. The minimum protein requirement for RNA transcription and initiation of infection is the association of the nucleoprotein (N), the phosphoprotein (P), and the polymerase (L) with the RNA genome which are the components of the functionally active ribonucleoprotein complex (RNP). The current technique for the recovery of virus from an infectious clone by reverse genetics involves co-transfection into permissive eukaryotic cells of plasmids expressing the mRNAs of the viral RNP proteins and a full-length genome RNA. The expression of these RNAs is generally controlled by phage T7 promoters and the T7 polymerase is supplied to the cell by prior infection with a recombinant poxvirus expressing this protein.
+Live attenuated strains of these viruses are extraordinarily good inducers of humoral immune responses and cellular immunity. Most importantly, in the case of NDV, MV and PPRV or RPV vaccines, individuals are completely protected from homologous virus challenges and display no virus shedding or signs of disease. They also induce a life-long protection after either a single or two-dose administration. Moreover, they can be produced in large scale in most countries and can be distributed at low cost. NDV vaccines are administered through drinking water or spraying flocks, making feasible the vaccination of large populations of poultry in the field at very low cost. Paramyxovirus genomes can accommodate additional genetic information, enabling the expression of at least one foreign antigen, and the inserted genes are stably maintained during serial passage in cell culture. Because of these desirable characteristics, Paramyxoviridae vaccines are being engineered to develop recombinant vector vaccines able to express high levels of foreign proteins which can then be used to immunise against infections by both the homologous virus and other infectious agents.
+To explore the potential of the Paramyxoviridae as vaccine vectors, a number of investigators have generated recombinants of viruses of major scientific, human and veterinary importance. The feasibility of this approach was first demonstrated by introducing reporter genes into the genomes of the human RSV, the prototype member of the genus pneumovirus [223], and the Sendai virus [224]. Subsequently a number of research groups used other paramyxoviruses to express foreign proteins. These include the foot-and-mouth disease virus polymerase (3Dpol) and part of the capsid protein from the RPV vaccine strain [225]; the green fluorescent protein (GFP) from SV5 [226,227]; the G glycoprotein from VSV substituting for the reading frames both envelope glycoproteins (haemagglutinin (H) and fusion (F)) of MV [228] proteins from West Nile virus and other flaviviruses from the MV vaccine strain cDNA [229].
+Development of maker vaccines for DIVA strategies is very important for veterinary vaccines [230]. For example, vaccination with the live attenuated vaccine to combat Newcastle disease is highly effective but vaccinated poultry cannot be distinguished from those infected by wild-type virus, thus making it difficult to detect wild type viruses that may be circulating. In order to
+
+overcome this problem, a recombinant virus was generated that expressed the NDV F protein and a chimeric haemagglutinin (HN) protein whose immunogenic globular head was replaced by that of avian paramyxovirus type 4 (APMV4) [231]. Protective neutralizing antibodies against the NDV F protein are produced on vaccination, while those produced against the APMV4 HN protein allow a serological distinction of vaccines from wild-type NDV infections [231]. In another study deletion of a B-cell immunodominant epitope in the C-terminal region of the N protein from NDV generated an efficient negative-marker vaccine [232]. This successful result indicated that it is possible to find a sequence in the N protein that is highly immunogenic but dispensable for virus growth. The deletion of this sequence does not affect the efficacy of the recovered NDV vaccine since an N-specific immune response is not absolutely required for the protection of poultry against a lethal challenge [233,234].
+The pandemic spread of highly pathogenic avian influenza virus (HPAIV) is of special importance since it poses a significant threat to both animal and human health. A number of studies have explored the possibility of creating safe recombinant viruses expressing the protective proteins of the H5N1 strain. This would overcome the safety limitations that hinder the production and widespread use of the current influenza vaccines in the field. Haemagglutinin (HA) of the H5 subtype HPAIV was expressed from recombinant vaccine strains of NDV and this virus has been used successfully to vaccinate large numbers of animals. In a recent study [235] both a wild-type and a mutated HA open reading frame of an HPAIV derived from a wild bird isolate, were inserted into the intergenic region between the P and matrix (M) genes of the LaSota NDV vaccine strain. A single dose of the recombinant viruses in chickens induced both NDV- and AIV H5-specific antibodies and completely protected chickens from challenge with a lethal dose of both velogenic NDV and homologous and heterologous H5N1 HPAIV.
+In an approach similar to that of the NDV B-cell epitope deletion, the N protein gene of rinderpest was replaced by that of PPRV. This exchange deletes rinderpest-specific epitopes in the N protein and this chimeric virus can act as an effective marker vaccine for RPV [236]. Another promising approach to marker vaccine development is the exchange of glycoproteins between members of related Paramyxoviridae. Since these proteins are immunogenic and protective, their replacement with the corresponding gene(s), or part of a gene, from another virus can give rise to a new and viable chimeric virus [237,238]. Glycoproteins were exchanged between respirovirus and pneumovirus genera [239] as a first step on the way to developing an attenuated bivalent live vaccine against the two most important viral pathogens in the bovine respiratory tract, BRSV and BPIV-3. BRSV gycoproteins (G and F) were replaced by the HN and F proteins of bovine PIV3 (bPIV3). Similarly, the envelope proteins have been exchanged within the morbillivirus genus. The M, the F and H protein genes of rinderpest virus were replaced by those of PPRV using the RPV vaccine as the backbone. Goats were protected against virulent PPR challenge with the resulting chimeric PPR marker vaccine [240]. The widespread use of such vaccines, along with the diagnostic tests to identify their serological signature, would greatly improve the surveillance capabilities for disease preparedness and emergency prevention procedures.
+3.2.2. Rhabdovirus Among the Rhabdoviridae family are the causative agents
+of three very different and important diseases: rabies, bovine ephemeral fever, and vesicular stomatitis. In particular, rabies virus (RV) and vesicular stomatitis virus (VS) have been used as viral vectors and as vaccine vehicles [241]. Employing reverse genetics, the viral non-segmented negative stranded RNA genomes became accessible to genetic manipulation [242­244].
+
+A. Brun et al. / Vaccine 26 (2008) 6508­6528
+
+6519
+
+RV and VSV accept additional transcriptional units and maintain an unexpected genetic stability of the modified genome [245­247]. Due to the life cycle of members of Rhabdoviridae, recombination, reversion, and integration of viral genome into the host genome does not occur. Many foreign genes have been inserted into and expressed by rhabdovirus-based vectors [248,249]. While VSV expresses foreign proteins at a high level and is highly cytopathogenic to infected cells, RV is non-cytopathic to infected cells and expresses modest to high levels of foreign proteins. Both viruses and viral vectors derived from these viruses are highly immunogenic and elicit humoral, cellular, and innate immune effector pathways. Additionally, other mechanisms such as viral interference [248] and efficiency of viral-vector spread [250] might contribute to successful vaccination using rhabdoviral vectors. Application of this kind of vectors is further eased due to almost complete absence of seropositivity in humans and animals.
+As for all biological vectors, safety concerns exist and have been addressed. For both viruses attenuated strains have been generated through molecular and virological manipulations [251]. A major focus of attenuation is the viral glycoprotein, which can be modified, substituted with other glycoproteins, or deleted. Other viral gene products contributing to virulence such as the phophosprotein have also been targeted for modifications. Another method to achieve attenuation of RV and VSV was rearranging the gene order within the genome [252]. This approach appears to shift the balance between viral gene expression and viral replication more towards expression.
+3.2.3. Bunyavirus The Bunyaviridae family is the largest known family of animal
+RNA viruses, representing important human and animal arthropod and rodent-borne pathogens. The Bunyaviridae are tri-segmented negative sense RNA viruses. Reverse genetics systems have been described for some members of the genus Bunyavirus [253,254]. Very recently foreign gene expression has been demonstrated for the first time in any bunyavirus by means of a Rift Valley fever virus, T7-RNApol driven, reverse genetic system [255]. Deletion of the viral interferon antagonist gene NSs highly attenuates the virus and provides room for insertion of foreign sequences. The attenuated virus can still be propagated in type I-IFN-deficient cell lines and remain highly immunogenic, eliciting very efficient neutralizing antibody responses. The ability of bunyavirus to infect many vertebrate cells makes them attractive candidates for future developments as viral vectors.
+3.2.4. Alphavirus Other viral vectors and potential antigen delivery strategies in
+veterinary species can be found in studies dealing with human pathogens. Good examples are expression strategies relying on the use of replication-deficient alphavirus, modified for expressing foreign antigens. These have been used as candidate vaccines, and in anti-cancer and gene therapy strategies. Alphaviruses belong to the Togaviridae family and contain a 12 kb ssRNA(+) genome with two ORFs, the first one encoding 4 non-structural proteins and the second one encoding 4 structural proteins controlled by a subgenomic promoter. The three prototype viruses are Sindbis (SIN), Semliki Forest Virus (SFV) and Venezuelan equine encephalitis virus (VEE). Three types of vector systems have being engineered, replicationdeficient viral particles (replicon particles), replication-competent viral particles and DNA/RNA-based vectors. Most vaccine studies have been addressed in mouse models [256] with a few examples related with animal diseases. VEE replicon vectors expressing the two major envelope proteins (GP5 and M) of equine arteritis virus (EAV) have been used for horse vaccination against a virulent EAV challenge [257]. This study, together with others in human
+
+pathogens, demonstrates the ability of alphaviruses to induce protective mucosal responses in horses after intranasal or intrauterine EAV challenge. Therefore, an interesting aspect of the alphavirus replicon particle is the potential ability to induce mucosal immunity as also shown for SIN [258] and SFV [259]. In addition the ability of VEE and SIN glycoprotein E2 to target dendritic cells has been reported in mice [260] and humans [261]. The use of selfreplicating alphavirus DNA vectors containing RNApol II promoters may provide an alternative to increase the immune stimulation. At least in mice, antigen specific immune responses can be obtained with lower DNA doses with compared to conventional plasmids [262,263]. SIN-based DNA vectors were used to prime immune responses against Aujezsky's disease in pigs [264] or to decrease strongly the quantity of plasmids needed [265].
+3.2.5. Coronavirus Coronavirus based-vectors are emerging with high potential for
+vaccine development. Coronaviruses (CoVs) have several advantages as viral vectors: (i) CoVs are single-stranded, positive-sense RNA viruses that replicate in the cytoplasm without a DNA intermediary, making integration of the virus genome into the host cell genome unlikely [266]; (ii) these viruses have the largest RNA virus genome and, in principle, have room for the insertion of large foreign genes [267]; (iii) a pleiotropic secretory immune response is best induced by the stimulation of gut-associated lymphoid tissues. Since CoVs, in general, infect the mucosal surfaces (both respiratory and enteric), CoVs may be used to target the antigen to the enteric and respiratory areas to induce a strong secretory immune response; (iv) the tropism of CoVs may be engineered by modifying the S gene [268]; (v) non-pathogenic CoVs strains infecting most species of interest (human, porcine, bovine, canine, feline, and avian) are available and therefore suitable to develop safe virus vectors; and (vi) infectious CoV cDNA clones are available to design expression systems.
+Reverse genetics for CoVs was first achieved by targeted recombination [269]. Soon after, the first CoV infectious cDNA clones were constructed for transmissible gastroenteritis CoV (TGEV) [270,271]. These achievements were followed by the development of infectious cDNA clones for human coronavirus (HCoV) 229E [272] and HCoV-OC43 [273], severe and acute respiratory syndrome coronavirus (SARS-CoV) [274], mouse hepatitis virus (MHV) [275], and for avian coronavirus [276].
+Using the TGEV infectious cDNA maintained as a BAC, the green fluorescent protein (GFP) gene was successfully expressed by replacing the non-essential 3a and 3b genes by sequences encoding GFP. The engineered genome was very stable (>30 passages in cultured cells) and led to the production of high protein levels (50 g/106cells) [277]. Using this vector the bicistronic expression of two surface proteins of porcine respiratory and reproductive syndrome virus (PRRSV) virus (Gp5 and M proteins) has been shown. After more than ten passages in tissue culture 80% and 100% of virus infected cells expressed Gp5 and M proteins, respectively (L. Enjuanes, personal communication). This vector was also used for bicistronic expression of rotavirus VP2 and VP6. These viral proteins self aggregated leading to the formation of rotavirus like particles (VLPs) in the cytoplasm of infected cells (J. Ceriani, J. Buesa, L. Enjuanes, Javier Ortego, unpublished results). Therefore, expression levels using these vectors are similar to those described with vectors derived from other positive strand RNA viruses such as Sindbis virus [278]. Using TGEV-derived vectors expressing GFP, the induction of lactogenic immunity has been demonstrated [277]. Recombinant TGEVs have also been assembled by in vitro junction of six cDNA fragments encoding a full-length genome. Using these systems, GFP gene replaced ORF3a, leading to the production of a TGEV that grew to titres of 108 pfu/ml and expressed GFP in a high
+
+6520
+
+A. Brun et al. / Vaccine 26 (2008) 6508­6528
+
+proportion of cells [279]. Finally, CoV-derived virus vectors have been engineered for infectious bronchitis virus (IBV). GFP protein was expressed replacing the non-essential gene 5a. The recombinant virus grew to a titre 10-fold lower than that of the wild type virus, and GFP expression was lost at a very early passage [280].
+Propagation-deficient CoV-derived vectors have also been generated based on replicons derived from TGEV and HCoV-229E. The advantages of these systems are; (i) an increased room for the insertion of foreign genes when compared with full-length infectious cDNAs, as the structural genes were deleted, (ii) the possibility of engineering multigene expression vectors due to the transcriptional strategy of CoVs and, (iii) an increased level of safety as the replicons are non-infectious. TGEV-derived replicons have been generated from the infectious cDNA. GFP protein was successfully expressed from these replicons, with high expression levels in 80% of the transfected cells [281]. Replicons derived from HCoV-229E expressing GFP were also generated (0.1% of cells) [282]. These levels were increased up to 3% by co-transfection of N protein mRNA [283]. A multigene vector based on HCoV-229E replicon has also been constructed that expressed GFP, chloranphenicol acetyltransferase (CAT), and firefly luciferase (LUC). Heterologous gene expression levels were up to 3% GFP-positive cells, CAT levels of 0.46 ng/106 cells, and LUC activity of around 25.0 relative light units/106 cells [284]. Human CoV-based vector RNA can be packed into propagation-deficient pseudovirions that, in turn, can be used to transduce immature and mature human dendritic cells.
+Safe replication-competent propagation-deficient virus vectors, based on TGEV genomes deficient in the essential gene E (obtained
+
+by using E+ packaging cell lines), have also been developed [285]. Two types of cell lines were constructed, expressing transiently or stably the E protein from TGEV. Virus titres were directly related to E protein expression levels that were higher in the transiently expressing cell lines. In the absence of E protein immature TGEV particles of a size slightly larger than the mature viruses were formed. These particles were not released to the supernatants of infected cultures, whereas infectious viruses were assembled in packaging cell lines providing the E protein in trans [286]. The ability to generate TGEV- E mutants that are replication-competent but propagation-deficient by complementation in packaging cell lines, supports the potential use of coronavirus as vaccine vectors.
+3.2.6. Retrovirus Among the Retroviridae family, the foamy viruses (subfamily
+spumavirinae) and Lentiviruses (subfamily lentivirinae) constitute potential delivery ssRNA(+) viral vectors. Lentiviral vectors can be considered promising vaccination vectors since they are good inducers of protective CTL responses [287,288] and efficiently transduce dendritic cells [289], therefore ensuring the induction of Th cell responses and correct development of antibody responses. Among the common advantages of lentiviral vectors are genetic stability and the expression of the vaccine antigen over a period of time, favouring the triggering of immune responses. More recently a lentiviral vector (TRIP/sEWNV) expressing a soluble form of the WNV glycoprotein E (strain IS-98-ST1) induced a strong and longlasting neutralizing antibody response after a single i.p. dose in 129 mice [290]. This antibody response correlated with the full protec-
+
+Table 6 Advantages and disadvantages of different antigen delivery systems.
+
+Delivery system Modified live vaccines (MLV)
+
+Advantages Strong cellular and humoral immune responses; lifelong protection
+
+DNA viral vectors Poxvirus
+Herpesvirus Adenovirus Baculovirus
+RNA(-) viral vectors Paramyxo Rhabdovirus
+RNA(+) viral vectors Alphavirus Coronavirus Retrovirus Flaviviruses
+
+Large capacity for extra genes; multivalent vaccines Replicative poxvirus: cytoplasm replication; long-lasting immunity after single injection; activation of cell and humoral immune responses; easy to produce; low cost; thermo resistance; immunogenic by various routes Non-replicative poxvirus: limited spread; low immunity against the vector; priming young animals with maternal Abs; boost the IR after vaccination; require high doses; DIVA
+Large genome size; availability of methods to manipulate the genome Potent humoral and cell-mediated immune responses; intrinsic adjuvant properties, long-term low level antigen presentation; effective oral vaccines Insertion of large foreing DNA fragments; transduction of many cell lines and primary cells; do not replicate in vertebrate cells; no cpe in transduced cells; adjuvant properties
+RNA not infectious; stability after serial passages Good humoral and cellular immune induction; complete and lifelong protection without virus shedding, low cost vaccination procedures; chimeric marker vaccines possible Genetic stability; high level expression of foreing proteins; highly immunogenic (humoral, cellular and innate effector mechanisms activated); complete absence of preexisting immunity in animals/humans
+Inductors of mucosal immunity Target dendritic cells (E2); replicons allow high level expression High capacity among RNA vectors (Coronavirus); secretory immune response; modifiable tropism; non-pathogenic infect most species of interest Good inducers of protective CTL responses; transduction of dendritic cells; genetic stability; long-lasting expression of antigens; Possible interchanging of genes, generating chimeras
+
+Disadvantages Reversion to virulence; teratogenicity in pregnant animals
+Immunity against the vector after repeated use (pre-existing immunity)
+Reversion to virulence; integration in the host genome Potential release as GMOs Limited capacity of adenovirus for insertion of foreign genetic material Virus inactivated by complement proteins; few data/studies on immunization
+GMO release
+GMO release
+GMO release Preexisting immunity against the vector Integration in host's genome GMO release
+
+A. Brun et al. / Vaccine 26 (2008) 6508­6528
+
+6521
+
+tion observed in the mice after lethal WNV challenge. In addition to this, the potential of replication-competent feline foamy virus (FFV) based vaccine vectors for vaccination purposes has been investigated [291]. FFV vectors expressing neutralizing epitopes from feline calicivirus (FCV) capsid protein induced humoral responses against both the vector proteins and the heterologous capsid antigen. After challenge of cats with homologous FCV virus shedding and disease specific clinical signs were significantly reduced. Other vectors derived from the bovine lentivirus Jembrana disease virus (JDV) have been developed [292] by means of the generation of bicistronic transfer vectors. The JDV-based vector could be pseudotyped with VSV-G protein and exhibited a broad tropism, useful for further vaccine developments.
+3.2.7. Flavivirus New emerging vectors may also provide opportunities for the
+generation of novel delivery systems. Novel viral-vectors based in the prototype of a live attenuated vaccine for yellow fever (YF17D) are being used as a vector system in developing vaccines against other flaviviruses including West Nile virus [293]. The approach of interchanging of genes encoding coat proteins of YF with those corresponding to the other flaviviruses, generating chimeric viruses, has been also used successfully for the generation of chimeric viruses as novel vaccines for pestiviruses [294]. As for YF based vectors, the possibility of using CSFV attenuated vectors for expression of heterologous genes in swine should be explored further.
+4. Conclusions
+A large number of different strategies for vaccine antigen delivery are available, many of them offering considerable advantages over classical vaccines (Table 6). However we cannot yet predict the most appropriate delivery technology to make an effective vaccine. We still do not know why certain antigens appear to work better than others using the same delivery system. The reductionistic vaccine approach seeks to look for a single antigen or antigenic determinant to be delivered by itself or using a heterologous expression system. This may have clear advantages including safety and ease of production but may compromise the immunogenicity and therefore the vaccine efficiency. A nonreductionistic vaccine approach aims to find ways to rationally attenuate the virulence of each specific pathogen. Based on the examples found in the literature this approach renders the most effective vaccines however raising more safety concerns. Between these extremes is a plethora of different strategies which provide a good compromise between safety and efficiency but as yet lack data regarding field performance. Whether a vaccine is to be applied for livestock species, the pet industry or to avoid the spread of a pathogen in a non-endemic location will depend more on biosafety considerations than on the experimental data. In spite of all the advances in the field, few strategies reach final validation for field use. Animal health policy requirements for improved vaccines usually delays or precludes their implementation in the field. In contrast, the experimental vaccines have shed more light to understand the immune mechanisms elicited in the host that are able to confer protection against disease. From this point of view, delivery systems are essential tools for vaccine development.
+Acknowledgement
+This work was supported by the EU Network of Excellence, EPIZONE (Contract No. FOOD-CT-2006-016236).
+
+References
+[1] Holmgren J, Czerkinsky C, Lycke N, Svennerholm AM. Mucosal immunity ­ implications for vaccine development. Immunobiology 1992;184(February (2­3)):157­79.
+[2] McGhee JR, Mestecky J, Dertzbaugh MT, Eldridge JH, Hirasawa M, Kiyono H. The mucosal immune system ­ from fundamental concepts to vaccine development. Vaccine 1992;10(2):75­88.
+[3] Babiuk LA, LittelvandenHurk SV, Tikoo SK, Lewis PJ, Liang X. Novel viral vaccines for livestock. Vet Immunol Immunopathol 1996;54(November (1­4)):355­63.
+[4] Monaco F, Cammà C, Serini S, Savini G. Differentiation between field and vaccine strain of bluetongue virus serotype 16. Vet Microbiol 2004;116:45­52.
+[5] Lubroth J, Rweyemamu MM, Viljoen G, Diallo A, Dungu B, Amafu W. Veterinary vaccines and their use in developing countries. Revue Scientifique Et Tech-Off Int Des Epizooties 2007;26(April (1)):179­201.
+[6] Cleaveland S, Kaare M, Knobel D, Laurenson MK. Canine vaccination ­ providing broader benefits for disease control. Vet Microbiol 2006;117(October (1)):43­50.
+[7] Plowright W, Ferris RD. Studies with rinderpest virus in tissue culture. The use of attenuated culture virus as a vaccine for cattle. Res Vet Sci 1962;3:172­82.
+[8] Baron MD, Banyard AC, Parida S, Barrett T. The Plowright vaccine strain of Rinderpest virus has attenuating mutations in most genes. J Gen Virol 2005;86(April (Pt 4)):1093­101.
+[9] Smithburn KC. Rift Valley fever; the neurotropic adaptation of the virus and the experimental use of this modified virus as a vaccine. Br J Exp Pathol 1949;30(February (1)):1­16.
+[10] Swanepoel R, Coetzer JAW. Rift Valley fever. In: Coetzer JAW, Tustin RC, editors. Infectious diseases of livestock. 2nd ed. Cape Town: Oxford University Press; 2004. p. 1037­70.
+[11] Barnard BJ. Rift Valley fever vaccine ­ antibody and immune response in cattle to a live and an inactivated vaccine. J S Afr Vet Assoc 1979;50(September (3)):155­7.
+[12] Hunter P, Bouloy M. Investigation of C13 Rift Valley fever mutant as a vaccine strain. In: 5th International Sheep Veterinary Congress. 2001.
+[13] Manso Ribeiro JJ, Nunes Petisca JL, Lopes Frazão F, Sobral M. Vaccination contre la peste porcine. Bull Off Int des epizooties 1963;60:921­37.
+[14] Shi HY, Liu XF, Zhang XR, Chen SC, Sun L, Lu JH. Generation of an attenuated H5N1 avian influenza virus vaccine with all eight genes from avian viruses. Vaccine 2007;25(October (42)):7379­84.
+[15] Risatti GR, Holinka LG, Lu Z, Kutish GF, Tulman ER, French RA, et al. Mutation of E1 glycoprotein of classical swine fever virus affects viral virulence in swine. Virology 2005;343(December (1)):116­27.
+[16] Risatti GR, Holinka LG, Carrillo C, Kutish GF, Lu Z, Tulman ER, et al. Identification of a novel virulence determinant within the E2 structural glycoprotein of classical swine fever virus. Virology 2006;355(November (1)):94­101.
+[17] Risatti GR, Holinka LG, Fernandez Sainz I, Carrillo C, Kutish GF, Lu Z, et al. Mutations in the carboxyl terminal region of E2 glycoprotein of classical swine fever virus are responsible for viral attenuation in swine. Virology 2007;364(August (2)):371­82.
+[18] Risatti GR, Holinka LG, Fernandez Sainz I, Carrillo C, Lu Z, Borca MV. N-linked glycosylation status of classical swine fever virus strain Brescia E2 glycoprotein influences virulence in swine. J Virol 2007;81(January (2)):924­33.
+[19] Sainz IF, Holinka LG, Lu Z, Risatti GR, Borca MV. Removal of a N-linked glycosylation site of classical swine fever virus strain Brescia Erns glycoprotein affects virulence in swine. Virology 2008;370(January (1)):122­9.
+[20] Kit S. Genetically engineered vaccines for control of Aujeszky's disease (pseudorabies). Vaccine 1990;8:420­4.
+[21] Merchlinsky M, Moss B. Introduction of foreign DNA into the vaccinia virus genome by in vitro ligation: recombination-independent selectable cloning vectors. Virology 1992;190(September (1)):522­6.
+[22] Perkus ME, Piccini A, Lipinskas BR, Paoletti E. Recombinant vaccinia virus: immunization against multiple pathogens. Science 1985;229(September (4717)):981­4.
+[23] Carroll MW, Overwijk WW, Surman DR, Tsung K, Moss B, Restifo NP. Construction and characterization of a triple-recombinant vaccinia virus encoding B7-1, interleukin 12, and a model tumor antigen. J Natl Cancer Inst 1998;90(December (24)):1881­7.
+[24] Boyle DB, Anderson MA, Amos R, Voysey R, Coupar BE. Construction of recombinant fowlpox viruses carrying multiple vaccine antigens and immunomodulatory molecules. Biotechniques 2004;37(July (1)):104­6, 8­11.
+[25] Panicali D, Paoletti E. Construction of poxviruses as cloning vectors: insertion of the thymidine kinase gene from herpes simplex virus into the DNA of infectious vaccinia virus. Proc Natl Acad Sci U S A 1982;79(August (16)):4927­ 31.
+[26] Mackett M, Smith GL, Moss B. Vaccinia virus: a selectable eukaryotic cloning and expression vector. Proc Natl Acad Sci U S A 1982;79(December (23)):7415­9.
+[27] Blancou J, Kieny MP, Lathe R, Lecocq JP, Pastoret PP, Soulebot JP, et al. Oral vaccination of the fox against rabies using a live recombinant vaccinia virus. Nature 1986;322(July (6077)):373­5.
+[28] Brochier B, Costy F, Pastoret PP. Elimination of fox rabies from Belgium using a recombinant vaccinia-rabies vaccine: an update. Vet Microbiol 1995;46(September (1­3)):269­79.
+
+6522
+
+A. Brun et al. / Vaccine 26 (2008) 6508­6528
+
+[29] Brochier B, Aubert MF, Pastoret PP, Masson E, Schon J, Lombard M, et al. Field use of a vaccinia-rabies recombinant vaccine for the control of sylvatic rabies in Europe and North America. Rev Sci Tech 1996;15(September (3)): 947­70.
+[30] Sutter G, Moss B. Nonreplicating vaccinia vector efficiently expresses recombinant genes. Proc Natl Acad Sci U S A 1992;89(November (22)): 10847­51.
+[31] Tartaglia J, Perkus ME, Taylor J, Norton EK, Audonnet JC, Cox WI, et al. NYVAC: a highly attenuated strain of vaccinia virus. Virology 1992;188(May (1)):217­32.
+[32] Sutter G, Staib C. Vaccinia vectors as candidate vaccines: the development of modified vaccinia virus Ankara for antigen delivery. Curr Drug Targets Infect Disord 2003;3:263­71.
+[33] Kitching RP, Hammond JM, Taylor WP. A single vaccine for the control of capripox infection in sheep and goats. Res Vet Sci 1987;42(January (1)): 53­60.
+[34] Hunter P, Wallace D. Lumpy skin disease in southern Africa: a review of the disease and aspects of control. J S Afr Vet Assoc 2001;72(June (2)):68­71.
+[35] Romero CH, Barrett T, Chamberlain RW, Kitching RP, Fleming M, Black DN. Recombinant capripoxvirus expressing the hemagglutinin protein gene of rinderpest virus: protection of cattle against rinderpest and lumpy skin disease viruses. Virology 1994;204(October (1)):425­9.
+[36] Ngichabe CK, Wamwayi HM, Ndungu EK, Mirangi PK, Bostock CJ, Black DN, et al. Long term immunity in African cattle vaccinated with a recombinant capripox­rinderpest virus vaccine. Epidemiol Infect 2002;128(April (2)):343­9.
+[37] Berhe G, Minet C, Le Goff C, Barrett T, Ngangnou A, Grillet C, et al. Development of a dual recombinant vaccine to protect small ruminants against peste-despetits-ruminants virus and capripoxvirus infections. J Virol 2003;77(January (2)):1571­7.
+[38] Wade-Evans AM, Romero CH, Mellor P, Takamatsu H, Anderson J, Thevasagayam J, et al. Expression of the major core structural protein (VP7) of bluetongue virus, by a recombinant capripox virus, provides partial protection of sheep against a virulent heterotypic bluetongue virus challenge. Virology 1996;220(June (1)):227­31.
+[39] Perrin A, Albina E, Breard E, Sailleau C, Prome S, Grillet C, et al. Recombinant capripoxviruses expressing proteins of bluetongue virus: evaluation of immune responses and protection in small ruminants. Vaccine 2007;25(September (37­38)):6774­83.
+[40] Aspden K, van Dijk AA, Bingham J, Cox D, Passmore JA, Williamson AL. Immunogenicity of a recombinant lumpy skin disease virus (neethling vaccine strain) expressing the rabies virus glycoprotein in cattle. Vaccine 2002;20(June (21­22)):2693­701.
+[41] Aspden K, Passmore JA, Tiedt F, Williamson AL. Evaluation of lumpy skin disease virus, a capripoxvirus, as a replication-deficient vaccine vector. J Gen Virol 2003;84(August (Pt 8)):1985­96.
+[42] Wallace DB, Ellis CE, Espach A, Smith SJ, Greyling RR, Viljoen GJ. Protective immune responses induced by different recombinant vaccine regimes to Rift Valley fever. Vaccine 2006;24(November (49­50)):7181­9.
+[43] Letellier C, Burny A, Meulemans G. Construction of a pigeonpox virus recombinant: expression of the Newcastle disease virus (NDV) fusion glycoprotein and protection of chickens against NDV challenge. Arch Virol 1991;118(1­2):43­56.
+[44] Kerr PJ, Jackson RJ. Myxoma virus as a vaccine vector for rabbits: antibody levels to influenza virus haemagglutinin presented by a recombinant myxoma virus. Vaccine 1995;13(December (17)):1722­6.
+[45] Bertagnoli S, Gelfi J, Le Gall G, Boilletot E, Vautherot JF, Rasschaert D, et al. Protection against myxomatosis and rabbit viral hemorrhagic disease with recombinant myxoma viruses expressing rabbit hemorrhagic disease virus capsid protein. J Virol 1996;70(August (8)):5061­6.
+[46] Torres JM, Sanchez C, Ramirez MA, Morales M, Barcena J, Ferrer J, et al. First field trial of a transmissible recombinant vaccine against myxomatosis and rabbit hemorrhagic disease. Vaccine 2001;19(August (31)):4536­43.
+[47] van der Leek ML, Feller JA, Sorensen G, Isaacson W, Adams CL, Borde DJ, et al. Evaluation of swinepox virus as a vaccine vector in pigs using an Aujeszky's disease (pseudorabies) virus gene insert coding for glycoproteins gp50 and gp63. Vet Rec 1994;134(January (1)):13­8.
+[48] Tripathy DN. Swinepox virus as a vaccine vector for swine pathogens. Adv Vet Med 1999;41:463­80.
+[49] Bublot M, Pritchard N, Swayne DE, Selleck P, Karaca K, Suarez DL, et al. Development and use of fowlpox vectored vaccines for avian influenza. Ann N Y Acad Sci 2006;1081(October):193­201.
+[50] Kundig TM, Kalberer CP, Hengartner H, Zinkernagel RM. Vaccination with two different vaccinia recombinant viruses: long-term inhibition of secondary vaccination. Vaccine 1993;11(11):1154­8.
+[51] Swayne DE, Beck JR, Kinney N. Failure of a recombinant fowl poxvirus vaccine containing an avian influenza hemagglutinin gene to provide consistent protection against influenza in chickens preimmunized with a fowl pox vaccine. Avian Dis 2000;44(January­March (1)):132­7.
+[52] Viner KM, Girgis N, Kwak H, Isaacs SN. B5-deficient vaccinia virus as a vaccine vector for the expression of a foreign antigen in vaccinia immune animals. Virology 2007;361(May (2)):356­63.
+[53] Ramirez JC, Gherardi MM, Rodriguez D, Esteban M. Attenuated modified vaccinia virus Ankara can be used as an immunizing agent under conditions of preexisting immunity to the vector. J Virol 2000;74(August (16)):7651­5.
+
+[54] Taylor J, Paoletti E. Fowlpox virus as a vector in non-avian species. Vaccine 1988;6(December (6)):466­8.
+[55] Skinner MA, Laidlaw SM, Eldaghayes I, Kaiser P, Cottingham MG. Fowlpox virus as a recombinant vaccine vector for use in mammals and poultry. Expert Rev Vaccines 2005;4(February (1)):63­76.
+[56] Zheng M, Jin N, Zhang H, Jin M, Lu H, Ma M, et al. Construction and immunogenicity of a recombinant fowlpox virus containing the capsid and 3C protease coding regions of foot-and-mouth disease virus. J Virol Methods 2006;136(September (1­2)):230­7.
+[57] Karaca K, Swayne DE, Grosenbaugh D, Bublot M, Robles A, Spackman E, et al. Immunogenicity of fowlpox virus expressing the avian influenza virus H5 gene (TROVAC AIV-H5) in cats. Clin Diagn Lab Immunol 2005;12(November (11)):1340­2.
+[58] Shen G, Jin N, Ma M, Jin K, Zheng M, Zhuang T, et al. Immune responses of pigs inoculated with a recombinant fowlpox virus coexpressing GP5/GP3 of porcine reproductive and respiratory syndrome virus and swine IL-18. Vaccine 2007;25(May (21)):4193­202.
+[59] Taylor J, Trimarchi C, Weinberg R, Languet B, Guillemin F, Desmettre P, et al. Efficacy studies on a canarypox-rabies recombinant virus. Vaccine 1991;9(March (3)):190­3.
+[60] Taylor J, Meignier B, Tartaglia J, Languet B, VanderHoeven J, Franchini G, et al. Biological and immunogenic properties of a canarypox-rabies recombinant. ALVAC-RG (vCP65) in non-avian species. Vaccine 1995;13(April (6)): 539­49.
+[61] Pardo MC, Bauman JE, Mackowiak M. Protection of dogs against canine distemper by vaccination with a canarypox virus recombinant expressing canine distemper virus fusion and hemagglutinin glycoproteins. Am J Vet Res 1997;58(August (8)):833­6.
+[62] Welter J, Taylor J, Tartaglia J, Paoletti E, Stephensen CB. Vaccination against canine distemper virus infection in infant ferrets with and without maternal antibody protection, using recombinant attenuated poxvirus vaccines. J Virol 2000;74(July (14)):6358­67.
+[63] Minke JM, Fischer L, Baudu P, Guigal PM, Sindle T, Mumford JA, et al. Use of DNA and recombinant canarypox viral (ALVAC) vectors for equine herpes virus vaccination. Vet Immunol Immunopathol 2006;111(May (1­2)): 47­57.
+[64] Poulet H, Minke J, Pardo MC, Juillard V, Nordgren B, Audonnet JC. Development and registration of recombinant veterinary vaccines. The example of the canarypox vector platform. Vaccine 2007;25(July (30)):5606­12.
+[65] Grosenbaugh DA, Leard T, Pardo MC. Protection from challenge following administration of a canarypox virus-vectored recombinant feline leukemia virus vaccine in cats previously vaccinated with a killed virus vaccine. J Am Vet Med Assoc 2006;228(March (5)):726­7.
+[66] Boone JD, Balasuriya UB, Karaca K, Audonnet JC, Yao J, He L, et al. Recombinant canarypox virus vaccine co-expressing genes encoding the VP2 and VP5 outer capsid proteins of bluetongue virus induces high level protection in sheep. Vaccine 2007;25(January (4)):672­8.
+[67] Diallo A, Minet C, Berhe G, Le Goff C, Black DN, Fleming M, et al. Goat immune response to capripox vaccine expressing the hemagglutinin protein of peste des petits ruminants. Ann N Y Acad Sci 2002;969(October):88­91.
+[68] Rziha HJ, Henkel M, Cottone R, Meyer M, Dehio C, Büttner M. Parapoxviruses: potential alternative vectors for directing the immune response in permissive and non-permissive hosts. J Biotechnol 1999;73:235­42.
+[69] Büttner M, Rziha HJ. Parapoxviruses: from the lesion to the viral genome. J Vet Med Ser B 2002;49:7­16.
+[70] Büttner M, Czerny CP, Lehner KH, Wertz K. Interferon induction in peripheral blood mononuclear leukocytes of man and farm animals by poxvirus vector candidates and some poxvirus constructs. Vet Immunol Immunopathol 1995;46:237­50.
+[71] Fachinger V, Schlapp T, Strube W, Schmeer N, Saalmüller A. Poxvirus-induced immunostimulating effects on porcine leukocytes. J Virol 2000;74:7943­51.
+[72] Haig DM, McInnes CJ. Immunity and counter-immunity during infection with the parapoxvirus orf virus. Virus Res 2002;88:3­16.
+[73] Kruse N, Weber O. Selective induction of apoptosis in antigen-presenting cells in mice by Parapoxvirus ovis. J Virol 2001;75:4699­704.
+[74] Haig D, McInnes CJ, Deane DL, Reid H, Mercer A. The immune and inflammatory response to Orf virus. Comp Immunol Microbiol Infect Dis 1997;20:197­204.
+[75] Robinson A, Lyttle DJ. Parapoxviruses: their biology and potential as recombinant vaccines. In: Binns MM, Smith GL, editors. Recombinant poxviruses. Boca Raton, Florida: CRC Press; 1992. p. 285­327.
+[76] Castrucci G, Frigeri F, Osburn BI, Ferrari M, Barreca F, Salvatori D. Further investigations on the efficacy of a non specific defence inducer evaluated in calves exposed to infectious bovine rinotracheitis virus. Comp Immunol Microbiol Infect Dis 1998;21:155­63.
+[77] BiukRudan N, Sver L, Valpotic I, Vrbanac I, Madic J, Zupancic Z, et al. Effect of Baypamun treatment on Aujeszky's disease virus (ADV) transmission in pigs. Acta Veterinaria Brno 2004;73:59­68.
+[78] Terzic´ S, Jemersic´ L, Lojkic´ M, Sver L, Valpotic´ I, Orsolic´ N, et al. Leukocyte subsets and specific antibodies in pigs vaccinated with a classical swine fever subunit (E2) vaccine and the attenuated ORF virus strain D1701. Acta Vet Hung 2004;52:151­61.
+[79] Voigt H, Merant C, Wienhold D, Braun A, Hutet E, Le Potier MF, et al. Efficient priming against classical swine fever with a safe glycoprotein E2 expressing Orf virus recombinant (ORFV VrV-E2). Vaccine 2007;25:5915­26.
+
+A. Brun et al. / Vaccine 26 (2008) 6508­6528
+
+6523
+
+[80] Cottone R, Büttner M, Bauer B, Henkel M, Hettich E, Rziha HJ. Analysis of genomic rearrangement and subsequent gene deletion of the attenuated Orf virus strain D1701. Virus Res 1998;56:53­67.
+[81] Rziha HJ, Henke lM, Cottone R, Bauer B, Auge U, Götz F, et al. Generation of recombinant parapoxviruses: non-essential genes suitable for insertion and expression of foreign genes. J Biotechnol 2000;83:137­45.
+[82] Davison AJ, Eberle R, Hayward GS, McGeoch DJ, Minson AC, Pellet PE, et al. Herpesviridae virus taxonomy. New York: Elsevier Academic Press; 2005.
+[83] Kit M, Kit S, Little SP, Di Marchi RD, Gale C. Bovine herpesvirus-1 (infectious rhinotracheitis virus)-based viral vector which expresses foot and mouth disease epitopes. Vaccine 1991;9:564­72.
+[84] Kit S, Kit M, Di Marchi RD, Little SP, Gale C. Modified-live infectious ovine rhinotracheitis virus vaccine expressing monomer and dimer forms of footand-mouth disease capsid protein epitopes on surface of hybrid virus particles. Arch Virol 1991;120:1­17.
+[85] Kühnle G, Heinze A, Schmitt J, Giesow K, Taylor G, Morrison I, et al. The class II membrane glycoprotein of bovine respiratory syncytial virus, expressed from a synthetic open reading frame, is incorporated into virions of recombinant bovine herpesvirus 1. J Virol 1998;72:3804­11.
+[86] Taylor G, Rijsewijk FA, Thomas LH, Wyld SG, Gaddum RM, Cook RS, et al. Resistance to bovine respiratory syncytial virus induced in calves by a recombinant bovine herpesvirus-1 expressing the attachment glycoprotein of BRSV. J Gen Virol 1998;79:1759­67.
+[87] Schmitt J, Becher P, Thiel HJ, Keil G. Expression of bovine viral diarrhoea virus glycoprotein E2 by bovine herpesvirus-1 from a synthetic ORF and incorporation of E2 into recombinant virions. J Gen Virol 1999;80:2839­48.
+[88] Wang L, Whitbeck JC, Lawrence WC, Volgin DV, Bello L. Expression of the genomic form of the bovine viral diarrhea virus E2 ORF in a bovine herpesvirus-1 vector. Virus Genes 2003;27:83­91.
+[89] Kweon CH, Kang SW, Choi EJ, Kang YB. Bovine herpes virus expressing envelope protein (E2) of bovine viral diarrhea virus as a vaccine candidate. J Vet Med Sci 1999;61:395­401.
+[90] Kit S, Otsuka H, Kit M. Expression of porcine pseudorabiesvirus genes by bovine herpesvirus-1 (infectious rhinotracheitis virus) vector. Arch Virol 1992;124:1­20.
+[91] Otsuka H, Xuan X, Shibata I, Mori M. Protective immunity of bovine herpesvirus-1 (BHV-1) recombinants which express pseudorabies virus (PRV) glycoproteins gB, gC, gD, and gE. J Vet Med Sci 1996;58:8219­24.
+[92] Ikeda Y, Shibata I, Xuan X, Matsumoto Y, Otsuka H. Immunogenic properties of a bovine herpesvirus-1 recombinant expressing major pseudorabies virus (PRV) glycoproteins in combination. J Vet Med Sci 2000;62:849­59.
+[93] Takashima Y, Xuan X, Kimata I, Iseki M, Kodama Y, Nagane N, et al. Recombinant bovine herpesvirus-1 expressing p23 protein of Cryptosporidium parvum induces neutralizing antibodies in rabbits. J Parasitol 2003;89:276­82.
+[94] Xuan X, Tuchiya K, Sato I, Nishikawa Y, Onoderaz Y, Takashima Y, et al. Biological and immunological properties of rabies virus glycoprotein expressed by canine herpesvirus vector. Vaccine 1998;16:969­76.
+[95] Nishikawa Y, Ikeda H, Fukumoto S, Xuan X, Nagasawa H, Otsuka H, et al. Immunization of dogs with a canine herpesvirus vector expressing Neospora caninum surface protein, NcSRS2. Int J Parasitol 2000;30:1167­71.
+[96] Willemse MJ, van Schoeneveld SH, Chalmers WS, Sondermeijer PJ. Vaccination against feline leuaemia using a new feline herpesvirus type 1 vector. Vaccine 1996;14:1511­6.
+[97] Wardley RC, Berlinski PJ, Thomsen DR, Meyer AL, Post LE. The use of feline herpesvirus as vaccine vectors for the gag and enc genes of feline leukemia virus. J Gen Virol 1992;73:1811­8.
+[98] Mishima N, Xuan X, Yokoyama N, Igarashi I, Fujisaki K, Nagasawa H, et al. Recombinant feline herpesvirus type 1 expressing Toxoplasma gondii ROP2 antigen inducible protective immunity in cats. Parasitol Res 2002;88:144­9.
+[99] Yokoyama N, Maeda K, Tohya Y, Kawaguchi Y, Fujita K, Mikami T. Recombinant feline herpesvirus type 1 expressing immunogenic proteins inducible virus neutralizing antibody against feline calicivirus in cats. Vaccine 1996;14:1657­63.
+[100] Sato E, Yokoyama N, Maeda K, Inoshima Y, Kohmoto M, Ikeda Y, et al. Construction of a recombinant feline herpesvirus type 1 expressing gag precursor protein of feline immunodeficiency virus. Arch Virol 1998;143:453­66.
+[101] Sato E, Yokoyama N, Miyazawa T, Maeda K, Ikeda Y, Nishimura Y, et al. Efficient expression of the envelope protein of feline immunodeficiency virus in a recombinant feline herpesvirus type 1 (FHV-1) using the gC promoter of FHV-1. Virus Res 2000;70:13­23.
+[102] Sonoda K, Sakaguchi M, Okamura H, Yokogawa K, Tokunaga E, Tokiyoshi S, et al. Development of an effective polyvalent against both Marek's and Newcastle disease virus type 1 in commercial chickens with maternal antibodies. J Virol 2000;74:3217­36.
+[103] Tsukamoto K, Kojima C, Komori Y, Tanimura N, Mase M, Yamaguchi S. Protection of chickens against very virulent infectious bursal disease (IBDV) and Marek's disease virus (MDV) with a recombinant MDV expressing IBDV VP2. Virology 1999;257:352­62.
+[104] Darteil R, Bublot M, Laplace E, Bouquet JF, Audonnet JC, Rivière M. Herpesvirus of turkey recombinant viruses expressing infectious bursal disease virus (IBDV) VP2 immunogen induce protection against an IBDV virulent challenge in chickens. Virology 1995;211:481­90.
+[105] Tsukamoto K, Saito S, Saeki S, Sato T, Tanimura N, Isobe T, et al. Complete, long lasting protection against lethal infectious busal disease virus challenge by a
+
+single vaccination with an avian herpesvirus vector expressing VP2 antigens. J Virol 2002;76:5637­45. [106] Bublot M, Pritchard N, Le Gros F-X, Goutebroze S. Use of a vectored vaccine against infectious bursal disease of chickens in the faced of high-titred maternally derived antibody. J Comp Pathol 2007;137:S81­4. [107] Lüschow D, Werner O, Mettenleiter TC, Fuchs W. Protection of chickens from lethal avian influenza A virus infection by live-virus vaccination with infectious laryngotracheitis virus recombinants expressing the (H5) gene. Vaccine 2001;19:4249­59. [108] Van Zijl M, Wensvoort G, de Kluyver E, Hulst M, van der Gulden H, Gielkens A, et al. Live attenuated pseudorabiesvirus expressing envelope glycoproteon E1 of hog cholera virus protects swine against both pseudorabiesvirus and hog cholera. J Virol 1991;65:2761­5. [109] Xu G, Xu X, Li Z, He Q, Wu B, Sun S, et al. Construction of recombinant pseudorabiesvirus expressing NS1 protein of Japanese encephalitis (SA14-14-2) virus and its safety and immunogenicity. Vaccine 2004;22:1846­53. [110] Qian P, Li X-M, Jin M-L, Peng G-Q, Chen H-C. An approach to a FMD vaccine based on genetic engineered attenuated pseudorabies virus: one experiment using VP1 gene alone generates an antibody responds on FMD and pseudorabies in swine. Vaccine 2004;22:2129­36. [111] Tian ZJ, Qiu HJ, Ni JQ, Zhou YJ, Cai XH, Zhou GH, et al. Construction and Characterization of a recombinant pseudorabiesvirus expressing porcine reproductive and respiratory syndrome virus GP5. Yi Chuan Xue Bao 2005;32:1248­55. [112] Qiu HJ, Tian ZJ, Tong GZ, Zhou YJ, Ni JQ, Luo YZ, et al. Protective immunity induced by a recombinant pseudorabies virus expressing the GP5 of porcine reproductive and respiratory syndrome virus in piglets. Vet Immunol Immunopathol 2005;106:309­19. [113] Jiang Y, Fang L, Xiao S, Zhang H, Pan Y, Luo R, et al. Immunogenicity and protective efficacy of recombinant pseudorabies virus expressing the two major membrane-associated proteins of porcine reproductive and respiratory syndrome virus. Vaccine 2007;25:547­60. [114] Yin J, Ren X, Tian ZJ, Li Y. Assembly of pseudorabies virus genome-based transfer vehicle carrying major antigen sites of S gene of transmissible gastroenteritis virus: potential perspective for developing live vector vaccines. Biologicals 2007;35:55­61. [115] Song Y, Jin M, Zhang S, Xu X, Xiao S, Cao S, et al. Generation and immunogenicity of a recombinant pseudorabies virus expressing capprotein of porcine circovirus type 2. Vet Mic 2007;119:97­104. [116] Hong Q, Qian P, Li XM, Yu XL, Chen HC. A recombinant pseudorabies virus co-expressing capsid proteins precursor P1-2A of FMDV and VP2 protein of porcine parvovius: a tivalent vaccine candidate. Biotechnol Lett 2007;29:1766­83. [117] Yuan Z, Zhang S, Liu Y, Zhang F, Fooks AR, Li Q, et al. A recombinant pseudorabies virus expressing rabies virus glycoproten: safety and immunogenicity in dogs. Vaccine 2008;26:1314­21. [118] Tian ZJ, Zhou GH, Zheng BL, Qiu HJ, Ni JQ, Yang HL, et al. A recombinant pseudorabies virus encoding the HA gene from H3N2 subtype swine influenza virus protects mice from virulent challenge. Vet Immunol Immunopathol 2006;111:211­8. [119] Adler H, Messerle M, Koszinowski UH. Cloning of herpesviral gnomes as bacterial artificial chromosomes. Rev Med Virol 2003;13:111­21. [120] Rosas CT, König P, Beer M, Dubovi EJ, Tischer BK, Osterrieder N. Evaluation of the vaccine potential of an equine herpesvirus type 1 vector expressing bovine viral diarrhea virus structural proteins. J Gen Virol 2007;88:748­57. [121] Rosas CT, Tischer BK, Perkins GA, Wagner B, Goodman LB, Osterrieder N. Live-attenuated recombinant equine herpesvirus type 1 (EHV-1) induces a neutralizing ntibody response against West Nile virus (WNV). Virus Res 2007;125:69­78. [122] Donofrio G, Sartori C, Ravanetti L, Cavirani S, Gillet L, Vanderplasschen A, et al. Establishment of a bovine herpesvirus 4 based vector expressing a secreted form of the bovine viral diarrhoea virus structural glycoprotein E2 for immunization purposes. BMC Biotechnol 2007;7:68­79. [123] Donofrio G, Cavirani S, Vanderplasschen A, Gillet L, Flammini C. Recombinant bovine herpesvirus 4 (BoHV-4) expressing glycoprotein D of BoHV-1 is immunogenic and elicits serum-neutralizing antibodies against BoHV-1 in a rabbit model. Clin Vacc Immunol 2006;13:1246­54. [124] Klonjkowski B, Denesvre C, Eloit M. Adenoviral vectors for vaccines. In: Prem Seth, editor. Adenoviruses: basic biology to gene therapy, vol. 17. Austin Texas, USA: RG Landes Company; 1999. p. 163­73. [125] Shiver JW, Fu TM, Chen L, Casimiro DR, Davies ME, Evans RK, et al. Replication-incompetent adenoviral vaccine vector elicits effective antiimmunodeficiency-virus immunity. Nature 2002;415(January (6869)):331­5. [126] Millar J, Dissanayake D, Yang TC, Grinshtein N, Evelegh C, Wan Y, et al. The magnitude of the CD8+ T cell response produced by recombinant virus vectors is a function of both the antigen and the vector. Cell Immunol 2007;250(November­December (1­2)):55­67. [127] Muruve DA. The innate immune response to adenovirus vectors. Hum Gene Ther 2004;15(December (12)):1157­66. [128] McCoy RD, Davidson BL, Roessler BJ, Huffnagle GB, Janich SL, Laing TJ, et al. Pulmonary inflammation induced by incomplete or inactivated adenoviral particles. Hum Gene Ther 1995;6(December (12)):1553­60. [129] Liu Q, Zaiss AK, Colarusso P, Patel K, Haljan G, Wickham TJ, et al. The role of capsid-endothelial interactions in the innate immune response to adenovirus vectors. Hum Gene Ther 2003;14(May (7)):627­43.
+
+6524
+
+A. Brun et al. / Vaccine 26 (2008) 6508­6528
+
+[130] Muruve DA, Cotter MJ, Zaiss AK, White LR, Liu Q, Chan T, et al. Helperdependent adenovirus vectors elicit intact innate but attenuated adaptive host immune responses in vivo. J Virol 2004;78(June (11)):5966­72.
+[131] Roth MD, Cheng Q, Harui Aea. Helper-dependent adenoviral vectors efficiently express transgenes in human dendritic cells but still stimulate antiviral immune responses. J Immunol 2002;169(8):4651­6.
+[132] Molinier-Frenkel V, Lengagne R, Gaden F, Hong SS, Choppin J, Gahery-Segard H, et al. Adenovirus hexon protein is a potent adjuvant for activation of a cellular immune response. J Virol 2002;76(January (1)):127­35.
+[133] Santra S, Seaman MS, Xu L, Barouch DH, Lord CI, Lifton MA, et al. Replication-defective adenovirus serotype 5 vectors elicit durable cellular and humoral immune responses in nonhuman primates. J Virol 2005;79(May (10)):6516­22.
+[134] Hensley SE, Giles-Davis W, McCoy KC, Weninger W, Ertl HC. Dendritic cell maturation, but not CD8+ T cell induction, is dependent on type I IFN signaling during vaccination with adenovirus vectors. J Immunol 2005;175(9):6032­41.
+[135] Casimiro DR, Wang F, Schleif WAea. Attenuation of simian immunodeficiency virus SIVmac239 infection by prophylactic immunization with dna and recombinant adenoviral vaccine vectors expressing Gag. J Virol 2005;79(24):15547­55.
+[136] Yang TC, Millar J, Tea Groves. The CD8+ T cell population elicited by recombinant adenovirus displays a novel partially exhausted phenotype associated with prolonged antigen presentation that nonetheless provides long-term immunity. J Immunol 2006;176(1):200­10.
+[137] Yang TC, Millar J, Tea Groves. On the role of CD4+ T cells in the CD8+ T-cell response elicited by recombinant adenovirus vaccines. Mol Ther 2007;15(5):997­1006.
+[138] Tatsis N, Fitzgerald JC, Reyes-Sandoval A, Harris-McCoy KC, Hensley SE, Zhou D, et al. Adenoviral vectors persist in vivo and maintain activated CD8+ T cells: implications for their use as vaccines. Blood 2007;110(September (6)):1916­23.
+[139] Tatsis N, Ertl HC. Adenoviruses as vaccine vectors. Mol Ther 2004;10(October (4)):616­29.
+[140] Santosuosso M, McCormick S, Xing Z. Adenoviral vectors for mucosal vaccination against infectious diseases. Viral Immunol 2005;18(2):283­91.
+[141] Barouch DH, Nabel GJ. Adenovirus vector-based vaccines for human immunodeficiency virus type 1. Hum Gene Ther 2005;16(February (2)):149­56.
+[142] Ferreira TB, Alves PM, Aunins JG, Carrondo MJ. Use of adenoviral vectors as veterinary vaccines. Gene Ther 2005;12(October (Suppl. 1)):S73­83.
+[143] Moraes MP, Mayr GA, Mason PW, Grubman MJ. Early protection against homologous challenge after a single dose of replication-defective human adenovirus type 5 expressing capsid proteins of foot-and-mouth disease virus (FMDV) strain A24. Vaccine 2002;20(February (11­12)):1631­9.
+[144] Pacheco JM, Brum MC, Moraes MP, Golde WT, Grubman MJ. Rapid protection of cattle from direct challenge with foot-and-mouth disease virus (FMDV) by a single inoculation with an adenovirus-vectored FMDV subunit vaccine. Virology 2005;337(July (2)):205­9.
+[145] Hammond JM, Johnson MA. Porcine adenovirus as a delivery system for swine vaccines and immunotherapeutics. Vet J 2005;169(January (1)):17­27.
+[146] Both GW. Ovine atadenovirus: a review of its biology, biosafety profile and application as a gene delivery vector. Immunol Cell Biol 2004;82(2):189­95.
+[147] Zhi Y, Figueredo J, Kobinger GP, Hagan H, Calcedo R, Miller JR, et al. Efficacy of severe acute respiratory syndrome vaccine based on a nonhuman primate adenovirus in the presence of immunity against human adenovirus. Hum Gene Ther 2006;17(May (5)):500­6.
+[148] Singh N, Pandey A, Jayashankar L, Mittal SK. Bovine adenoviral vector-based H5N1 influenza vaccine overcomes exceptionally high levels of preexisting immunity against human adenovirus. Mol Ther 2008;16(May (5)): 965­71.
+[149] Hammond JM, McCoy RJ, Jansen ES, Morrissy CJ, Hodgson AL, Johnson MA. Vaccination with a single dose of a recombinant porcine adenovirus expressing the classical swine fever virus gp55 (E2) gene protects pigs against classical swine fever. Vaccine 2000;18(January (11­12)):1040­50.
+[150] Hammond JM, Jansen ES, Morrissy CJ, Goff WV, Meehan GC, Williamson MM, et al. A prime-boost vaccination strategy using naked DNA followed by recombinant porcine adenovirus protects pigs from classical swine fever. Vet Microbiol 2001;80(May (2)):101­19.
+[151] Hammond JM, Jansen ES, Morrissy CJ, van der Heide B, Goff WV, Williamson MM, et al. Vaccination of pigs with a recombinant porcine adenovirus expressing the gD gene from pseudorabies virus. Vaccine 2001;19(June (27)):3752­8.
+[152] Wuest T, Both GW, Prince AM, Hofmann C, Loser P. Recombinant ovine atadenovirus induces a strong and sustained T cell response against the hepatitis C virus NS3 antigen in mice. Vaccine 2004;22(July (21­ 22)):2717­21.
+[153] Zakhartchouk AN, Pyne C, Mutwiri GK, Papp Z, Baca-Estrada ME, Griebel P, et al. Mucosal immunization of calves with recombinant bovine adenovirus3: induction of protective immunity to bovine herpesvirus-1. J Gen Virol 1999;80(May (Pt 5)):1263­9.
+[154] Li J, Faber M, Papaneri A, Faber ML, McGettigan JP, Schnell MJ, et al. A single immunization with a recombinant canine adenovirus expressing the rabies virus G protein confers protective immunity against rabies in mice. Virology 2006;356(December (1­2)):147­54.
+[155] Hu R, Zhang S, Fooks AR, Yuan H, Liu Y, Li H, et al. Prevention of rabies virus infection in dogs by a recombinant canine adenovirus type-2 encoding the rabies virus glycoprotein. Microbes Infect 2006;8(April (4)):1090­7.
+
+[156] Hu RL, Liu Y, Zhang SF, Zhang F, Fooks AR. Experimental immunization of cats with a recombinant rabies-canine adenovirus vaccine elicits a longlasting neutralizing antibody response against rabies. Vaccine 2007;25(July (29)):5301­7.
+[157] Yang S, Xia X, Qiao J, Liu Q, Chang S, Xie Z, et al. Complete protection of cats against feline panleukopenia virus challenge by a recombinant canine adenovirus type 2 expressing VP2 from FPV. Vaccine 2008;26(March (11)): 1482­7.
+[158] Liu Y, Hu R, Zhang S, Zhang F, Li Z, Wei X, et al. Expression of the foot-andmouth disease virus VP1 protein using a replication-competent recombinant canine adenovirus type 2 elicits a humoral antibody response in a porcine model. Viral Immunol 2006;19(Summer (2)):202­9.
+[159] Fischer L, Tronel JP, Pardo-David C, Tanner P, Colombet G, Minke J, et al. Vaccination of puppies born to immune dams with a canine adenovirusbased vaccine protects against a canine distemper virus challenge. Vaccine 2002;20(October (29­30)):3485­97.
+[160] Francois A, Chevalier C, Delmas B, Eterradossi N, Toquin D, Rivallan G, et al. Avian adenovirus CELO recombinants expressing VP2 of infectious bursal disease virus induce protection against bursal disease in chickens. Vaccine 2004;22(June (17­18)):2351­60.
+[161] Jones KE, Patel NG, Levy MA, Storeygard A, Balk D, Gittleman JL, et al. Global trends in emerging infectious diseases. Nature 2008;451(February (7181)):990­3.
+[162] Top Jr FH, Buescher EL, Bancroft WH, Russell PK. Immunization with live types 7 and 4 adenovirus vaccines. II. Antibody response and protective effect against acute respiratory disease due to adenovirus type 7. J Infect Dis 1971;124(August (2)):155­60.
+[163] Top Jr FH, Dudding BA, Russell PK, Buescher EL. Control of respiratory disease in recruits with types 4 and 7 adenovirus vaccines. Am J Epidemiol 1971;94(August (2)):142­6.
+[164] Top Jr FH, Grossman RA, Bartelloni PJ, Segal HE, Dudding BA, Russell PK, et al. Immunization with live types 7 and 4 adenovirus vaccines. I. Safety, infectivity, antigenicity, and potency of adenovirus type 7 vaccine in humans. J Infect Dis 1971;124(August (2)):148­54.
+[165] Kitchen LW, Vaughn DW. Role of U.S. military research programs in the development of U.S.-licensed vaccines for naturally occurring infectious diseases. Vaccine 2007;25(October (41)):7017­30.
+[166] Vos A, Neubert A, Pommerening E, Muller T, Dohner L, Neubert L, et al. Immunogenicity of an E1-deleted recombinant human adenovirus against rabies by different routes of administration. J Gen Virol 2001;82(September (Pt 9)):2191­7.
+[167] Hammond JM, Jansen ES, Morrissy CJ, Williamson MM, Hodgson AL, Johnson MA. Oral and sub-cutaneous vaccination of commercial pigs with a recombinant porcine adenovirus expressing the classical swine fever virus gp55 gene. Arch Virol 2001;146(9):1787­93.
+[168] Hammond JM, Jansen ES, Morrissy CJ, Hodgson AL, Johnson MA. Protection of pigs against `in contact' challenge with classical swine fever following oral or subcutaneous vaccination with a recombinant porcine adenovirus. Virus Res 2003;97(November (2)):151­7.
+[169] Tuboly T, Nagy E. Construction and characterization of recombinant porcine adenovirus serotype 5 expressing the transmissible gastroenteritis virus spike gene. J Gen Virol 2001;82(January (Pt 1)):183­90.
+[170] Babiuk LA, Tikoo SK. Adenoviruses as vectors for delivering vaccines to mucosal surfaces. J Biotechnol 2000;83(September (1­2)):105­13.
+[171] Johnson MA, Pooley C, Ignjatovic J, Tyack SG. A recombinant fowl adenovirus expressing the S1 gene of infectious bronchitis virus protects against challenge with infectious bronchitis virus. Vaccine 2003;21(June (21­22)):2730­6.
+[172] Xiang ZQ, Gao GP, Reyes-Sandoval A, Li Y, Wilson JM, Ertl HC. Oral vaccination of mice with adenoviral vectors is not impaired by preexisting immunity to the vaccine carrier. J Virol 2003;77(October (20)):10780­9.
+[173] Mercier GT, Nehete PN, Passeri MF, Nehete BN, Weaver EA, Templeton NS, et al. Oral immunization of rhesus macaques with adenoviral HIV vaccines using enteric-coated capsules. Vaccine 2007;25(December (52)):8687­701.
+[174] Lubeck MD, Davis AR, Chengalvala M, Natuk RJ, Morin JE, Molnar-Kimber K, et al. Immunogenicity and efficacy testing in chimpanzees of an oral hepatitis B vaccine based on live recombinant adenovirus. Proc Natl Acad Sci U S A 1989;86(September (17)):6763­7.
+[175] Ertl HC. Immunological insights from genetic vaccines. Virus Res 2005;111(July (1)):89­92.
+[176] Zhou D, Cun A, Li Y, Xiang Z, Ertl HC. A chimpanzee-origin adenovirus vector expressing the rabies virus glycoprotein as an oral vaccine against inhalation infection with rabies virus. Mol Ther 2006;14(November (5)):662­72.
+[177] Mutwiri G, Bateman C, Baca-Estrada ME, Snider M, Griebel P. Induction of immune responses in newborn lambs following enteric immunization with a human adenovirus vaccine vector. Vaccine 2000;19(December (9­10)):1284­93.
+[178] Cheng X, Ming X, Croyle MA. PEGylated adenoviruses for gene delivery to the intestinal epithelium by the oral route. Pharm Res 2003;20(9):1444­51.
+[179] Tucker SN, Tingley DW, Scallan CD. Oral adenoviral-based vaccines: historical perspective and future opportunity. Expert Rev Vaccines 2008;7(1):25­31.
+[180] Lin SW, Cun AS, Harris-McCoy K, Ertl HC. Intramuscular rather than oral administration of replication-defective adenoviral vaccine vector induces specific CD8+ T cell responses in the gut. Vaccine 2007;25(March (12)):2187­93.
+
+A. Brun et al. / Vaccine 26 (2008) 6508­6528
+
+6525
+
+[181] Oomura K, Xin KQ, Takakura M, Shinoda K, Jounai N, Okuda K. Oral administration of the adenovirus vector induces systemic immunity rather than intestinal mucosal immunity. Vaccine 2006;24(8):1045­6.
+[182] Theilmann DA, Blissard GW, Bonning BJJ, O`Reilly DR, Rohrmann GF, Thiem S, et al. Baculoviridae. In: Fauquet CM, Mayo MA, Maniloff J, Desselberger U, Ball LA, editors. Virus taxonomy: eighth report of the International Committee on Taxonomy of Viruses. New York: Elsevier Academic Press; 2005. p. 177­85.
+[183] Wood HA. Development and testing of genetically improved baculovirus insecticides. In: Shuler ML, Wood HA, Granados RR, Hammer DA, editors. Baculovirus expression systems and biopesticides. New York: Wiley-Liss; 1995. p. 91­102.
+[184] Smith GE, Summers MD, Fraser MJ. Production of human beta interferon in insect cells infected with a baculovirus expression vector. Mol Cell Biol 1983;3:2156­65.
+[185] Hofmann C, Sandig V, Jennings G, Rudolf M, Schlag P, Strauss M. Efficient gene transfer into human hepatocytes by baculovirus vectors. Proc Natl Acad Sci U S A 1995;92:10099­103.
+[186] Hofmann C, Strauss M. Baculovirus-mediated gene transfer in the presence of human serum or blood facilitated by inhibition of the complement system. Gene Ther 1998;5:531­6.
+[187] Boyce FM, Bucher NL. Baculovirus-mediated gene transfer into mammalian cells. Proc Natl Acad Sci U S A 1996;93:2348­52.
+[188] Pfoh LJ, Worley JFR, Condrey JP, An G, Apolito CJ, Kost TA, et al. Titration of KATP channel expression in mammalian cells utilizing recombinant baculovirus transduction. Receptors Channels 2002;8:99­111.
+[189] Kost TA, Condreay JP. Recombinant baculoviruses as mammalian cell genedelivery vectors. Trends Biotechnol 2002;20:173­80.
+[190] Ping W, Ge J, Li S, Zhou H, Wang K, Feng Y, et al. Baculovirus-mediated gene expression in chicken primary cells. Avian Dis 2006;50:59­63.
+[191] Song J, Liang C, Chen X. Transduction of avian cells with recombinant baculovirus. J Virol Methods 2006;135:157­62.
+[192] Leisy DJ, Lewis TD, Leong JA, Rohrmann GF. Transduction of cultured fish cells with recombinant baculoviruses. J Gen Virol 2003;84:1173­8.
+[193] Wagle M, Jesuthasan S. Baculovirus-mediated gene expression in zebrafish. Mar Biotechnol 2003;5:58­63.
+[194] Hu YC. Baculovirus as a highly efficient expression vector in insect and mammalian cells. Acta Pharmacologica Sinica 2005;(26):405­16.
+[195] Kost TA, Condrey JP, Ames RS, Rees S, Romanos MA. Implementation of BacMam virus gene delivery in a drug discovery setting. Drug Discovery Today 2007;12:396­401.
+[196] Sandig V, Hoffmann C, Steinert S, Jennings G, Schlag P, Strauss M. Gene transfer into hepatocytes and human liver tissue by baculovirus vectors. Hum Gene Ther 1996;7:1937­45.
+[197] Hüser A, Rudolph M, Hofmann C. Incorporation of decay-accelerating factor into the baculovirus envelope generates complement-resistant gene transfer vectors. Nat Biotechnol 2001;19:451­5.
+[198] Tani H, Limn CK, Yap CC, Onishi M, Nozaki M, Nishimune Y, et al. In vitro and in vivo gene delivery by recombinant baculoviruses. J Virol 2003;77:9799­808.
+[199] Pieroni L, Maione D, La Monica N. In vivo gene transfer in mouse sceletal muscle mediated by baculovirus vectors. Hum Gene Ther 2001;12: 871­81.
+[200] Kaikkonen MU, Räty JK, Airenn KJ, Wirth T, Heikure T, Ylä-Herttuala. Truncated vesicular stomatitis viru G protein improves baculovirus transduction efficiency in vitro and in vivo. Gene Ther 2006;13:304­12.
+[201] Aoki H, Sakoda Y, Jukuroki K, Takada A, Kida H, Fukusho A. Induction of antibodies in mice by a recombinant baculovirus expressing pseudorabies virus glycoprotein B in mammalian cells. Vet Mic 1999;68:197­207.
+[202] Strauss R, Hüser A, Ni S, Tuve S, Kiviat N, Sow P, et al. Baculovirusbased vaccination vectors allow for efficient induction of immune responses against plasmodium falciparum circumsporozoite protein. Mol Ther 2007;15:193­202.
+[203] Gronowski AM, Hilbert DM, Sheehan KCF, Garotta G, Schreiber RD. Baculovirus stimulates antiviral effects in mammalian cells. J Virol 1999;73:9944­51.
+[204] Abe T, Takahashi H, Hamazaki H, Miyano-Kurosaki N, Matsuura Y, Takaku H. Baculovirus induces an innate immune response and confers protection from lethal influenza virus infection in mice. J Immunol 2003;171: 1131­9.
+[205] Hervas-Stubbs S, Rueda P, Lopez L, Leclerc C. Insect baculoviruses strongly potentiate adaptive immune responses by inducing type I IFN J Immunol 2007;178:2361­9.
+[206] Facciabene A, Aurisicchio L, La Monica N. Baculovirus vectors elicit antigenspecific immune responses in mice. J Virol 2004;78:8663­72.
+[207] Wang S, Fang L, Fan H, Jiang Y, Pan Y, Luo R, et al. Construction and immunogenicity of pseudotype baculovirus expressing GP5 and M protein of porcine reproductive and respiratory syndrome virus. Vaccine 2007;25:8220­7.
+[208] Ojala K, Mottershead DG, Suokko A, Oker-Blom C. Specific binding of baculoviruses displaying gp64 fusion proteins to mammalian cells. Biochem Biophys Res Commun 2001;284:777­84.
+[209] Räty JK, Airenne KJ, Marttila AT, Marjomäki V, Hytönen VP, Lehtoainen P, et al. Enhanced gene delivery by avidin-displaying baculovirus. Mol Ther 2004;9:282­91.
+[210] Kitagawa Y, Tani H, Limn CK, Matsunaga TM, Moriishi K, Matsuura Y. Liganddirected gene targeting to mammalian cels by pseudotype baculoviruses. J Virol 2005;79:3639­52.
+
+[211] Zhou J, Blissard GW. Display of heterologous proteins on gp64null baculovirus virions and enhanced budding mediated by a vesicular stomatitis virus Gstem construct. J Virol 2008;82:1368­77.
+[212] Ge J, Huang Y, Hu X, Zhong J. A surface modified baculovirus vector with improved gene delivery to B-lymphocytes. J Biotechnol 2007;129:367­72.
+[213] Mähönen AJ, Airenne KJ, Purola S, Peltomaa E, Kaikkonen MU, Riekkinen MS, et al. Post-transcriptional regulatory element boosts baculovirus-mediated gene expression in vertebrate cells. J Biotechnol 2007;131:1­8.
+[214] Murphy FA, Fauquet CM, Bishop DHL, Ghabrial SA, Jarvis AW, Martelli GP, et al. Virus taxonomy. New York: Springer-Verlag; 1995.
+[215] Conzelmann TRaS M. Rescue of synthetic genome analogs of rabies virus by plasmid-encoded DNA. J Virol 1994;68:713­9.
+[216] Palese P, Zheng H, Engelhardt OG, Pleschka S, Garcia-Sastre A. Negative-strand RNA viruses: genetic engineering and application. Proc Natl Acad Sci U S A 1996;93:11354­8.
+[217] Palese P, Zheng H, Engelhardt OG, Pleschka S, Garcia-Sastre A. RNA virus vectors: where are we and where do we need to go? Proc Natl Acad Sci U S A 1998;95:12750­2.
+[218] Neumann G, Kawaoka Y. Genetic engineering of influenza and other negative-strand RNA viruses containing segmented genomes. Adv Virus Res 1999;53:265­300.
+[219] Neumann G, Whitt MA, Kawaoka Y. A decade after the generation of a negative-sense RNA virus from cloned cDNA ­ what have we learned? J Gen Virol 2002;83(November (Pt 11)):2635­62.
+[220] Mayo MA. A summary of taxonomic changes recently approved by ICTV. Arch Virol 2002;147(August (8)):1655­63.
+[221] Wang LF, Chua KB, Yu M, Eaton BT. Genome diversity of emerging paramyxoviruses. Curr Genomics 2003;4:263­73.
+[222] Lamb RA, Kolakofsky D. In: Knipe DM, Howley PM, editors. The viruses and their replication. Philadelphia: Lippincott Williams & Wilkins; 2001.
+[223] Bukreyev A, Camargo E, Collins PL. Recovery of infectious respiratory syncytial virus expressing an additional, foreign gene. J Virol 1996;70(October (10)):6634­41.
+[224] Hasan MK, Kato A, Shioda T, Sakai Y, Yu D, Nagai Y. Creation of an infectious recombinant Sendai virus expressing the firefly luciferase gene from the 3 proximal first locus. J Gen Virol 1997;78(November (Pt 11)):2813­20.
+[225] Baron M, Foster-Cuevas M, Baron J, Barrett T. Expression in cattle of epitopes of a heterologous virus using a recombinant rinderpest virus. J Gen Virol 1999;80(8):2031­9.
+[226] He B, Paterson RG, Ward CD, Lamb RA. Recovery of infectious SV5 from cloned DNA and expression of a foreign gene. Virology 1997;237(October (2)):249­60.
+[227] Sakai Y, Kiyotani K, Fukumura M, Asakawa M, Kato A, Shioda T, et al. Accommodation of foreign genes into the Sendai virus genome: sizes of inserted genes and viral replication. FEBS Lett 1999;456(August (2)):221­6.
+[228] Spielhofer P, Bachi T, Fehr T, Christiansen G, Cattaneo R, Kaelin K, et al. Chimeric measles viruses with a foreign envelope. J Virol 1998;72(March (3)):2150­9.
+[229] Brandler S, Tangy F. Recombinant vector derived from live attenuated measles virus: potential for flavivirus vaccines. Comp Immunol Microbiol Infect Dis 2008;31(2­3):271­91.
+[230] van Oirschot JT. Diva vaccines that reduce virus transmission. J Biotechnol 1999;73(August (2­3)):195­205.
+[231] Peeters BP, de Leeuw OS, Verstegen I, Koch G, Gielkens AL. Generation of a recombinant chimeric Newcastle disease virus vaccine that allows serological differentiation between vaccinated and infected animals. Vaccine 2001;19(February (13­14)):1616­27.
+[232] Mebatsion T, Koolen MJ, de Vaan LT, de Haas N, Braber M, Romer-Oberdorfer A, et al. Newcastle disease virus (NDV) marker vaccine: an immunodominant epitope on the nucleoprotein gene of NDV can be deleted or replaced by a foreign epitope. J Virol 2002;76(October (20)):10138­46.
+[233] Reynolds DL, Maraqa AD. Protective immunity against Newcastle disease: the role of cell-mediated immunity. Avian Dis 2000;44(January­March (1)):145­54.
+[234] Ward MD, Fuller FJ, Mehrotra Y, De Buysscher EV. Nucleotide sequence and vaccinia expression of the nucleoprotein of a highly virulent, neurotropic strain of Newcastle disease virus. Avian Dis 2000;44(January­March (1)):34­44.
+[235] Ge J, Deng G, Wen Z, Tian G, Wang Y, Shi J, et al. Newcastle disease virus-based live attenuated vaccine completely protects chickens and mice from lethal challenge of homologous and heterologous H5N1 avian influenza viruses. J Virol 2007;81(January (1)):150­8.
+[236] Parida S, Mahapatra M, Kumar S, Das SC, Baron MD, Anderson J, et al. Rescue of a chimeric rinderpest virus with the nucleocapsid protein derived from pestedes-petits-ruminants virus: use as a marker vaccine. J Gen Virol 2007;88(July (Pt 7)):2019­27.
+[237] Das SC, Baron MD, Barrett T. Recovery and characterization of a chimeric rinderpest virus with the glycoproteins of peste-des-petits-ruminants virus: homologous F and H proteins are required for virus viability. J Virol 2000;74(October (19)):9039­47.
+[238] Park MS, Steel J, Garcia-Sastre A, Swayne D, Palese P. Engineered viral vaccine constructs with dual specificity: avian influenza and Newcastle disease. Proc Natl Acad Sci U S A 2006;103(May (21)):8203­8.
+[239] Stope MB, Karger A, Schmidt U, Buchholz UJ. Chimeric bovine respiratory syncytial virus with attachment and fusion glycoproteins replaced by bovine
+
+6526
+
+A. Brun et al. / Vaccine 26 (2008) 6508­6528
+
+parainfluenza virus type 3 hemagglutinin-neuraminidase and fusion proteins. J Virol 2001;75(October (19)):9367­77. [240] Mahapatra M, Parida S, Baron MD, Barrett T. Matrix protein and glycoproteins F and H of Peste-des-petits-ruminants virus function better as a homologous complex. J Gen Virol 2006;87(July (Pt 7)):2021­9. [241] McKenna PM, McGettigan JP, Pomerantz RJ, Dietzschold B, Schnell MJ. Recombinant rhabdoviruses as potential vaccines for HIV-1 and other diseases. Curr HIV Res 2003;1(April (2)):229­37. [242] Schnell MJ, Mebatsion T, Conzelmann KK. Infectious rabies viruses from cloned cDNA. EMBO J 1994;13(September (18)):4195­203. [243] Lawson ND, Stillman EA, Whitt MA, Rose JK. Recombinant vesicular stomatitis viruses from DNA. Proc Natl Acad Sci U S A 1995;92(May (10)):4477­81. [244] Whelan SP, Ball LA, Barr JN, Wertz GT. Efficient recovery of infectious vesicular stomatitis virus entirely from cDNA clones. Proc Natl Acad Sci U S A 1995;92(August (18)):8388­92. [245] Ezelle HJ, Markovic D, Barber GN. Generation of hepatitis C virus-like particles by use of a recombinant vesicular stomatitis virus vector. J Virol 2002;76(December (23)):12325­34. [246] Schnell MJ, Buonocore L, Whitt MA, Rose JK. The minimal conserved transcription stop-start signal promotes stable expression of a foreign gene in vesicular stomatitis virus. J Virol 1996;70(April (4)):2318­23. [247] Mebatsion T, Schnell MJ, Cox JH, Finke S, Conzelmann KK. Highly stable expression of a foreign gene from rabies virus vectors. Proc Natl Acad Sci U S A 1996;93(July (14)):7310­4. [248] Feldmann HJ, Jones SM, Daddario-DiCaprio KM, Geisbert JB, Stroher U, Grolla A, et al. Effective post-exposure treatment of Ebola infection. PLoS pathogens 2007;3(January (1)):e2. [249] Kohl W, Grone A, Moennig V, Herrler G. Expression of the surface glycoprotein E2 of Bovine viral diarrhea virus by recombinant vesicular stomatitis virus. J Gen Virol 2007;88(January (Pt 1)):157­65. [250] Geisbert TW, Jones S, Fritz EA, Shurtleff AC, Geisbert JB, Liebscher R, et al. Development of a new vaccine for the prevention of Lassa fever. PLoS Med 2005;2(June (6)):e183. [251] Conzelmann KK, Cox JH, Schneider LG, Thiel HJ. Molecular cloning and complete nucleotide sequence of the attenuated rabies virus SAD B19. Virology 1990;175(April (2)):485­99. [252] Ball LA, Pringle CP, Flanagan B, Perepelitsa VP, Wertz GW. Phenotypic consequences of rearranging the P, M, and G genes of vesicular stomatitis virus. J Virol 1999;73(June (6)):4705­12. [253] Bridgen A, Elliot RM. Rescue of a segmented negative strand RNA virus entirely from cloned cDNA. PNAS 1996;93:15400­4. [254] Blakqori G, Weber F. Efficient cDNA-based rescue of LaCrosse bunyaviruses expressing or lacking the structural protein NSs. J Virol 2004;79:10420­8. [255] Ikegami T, Won S, Peters CJ, Makino S. Rescue of infectious Rift Valley fever virus entirely from cDNA, analysis of virus lacking the NSs gene, and expression of a foreign gene. J Virol 2006;80:2933­40. [256] Lundstrom K. Alphavirus vectors: applications for DNA vaccine production and gene expression. Intervirology 2000;43:247­57. [257] Balasuriya UB, Heidner HW, Davis NL, Wagner HM, Hullinger PJ, Hedges JFEA. Alphavirus replicon particles expressing the two major envelope proteins of equine arteritis virus induce high level protection against challenge with virulent virus in vaccinated horses. Vaccine 2002;20:1609­17. [258] Vajdy M, Gardner JP, Neidelman J, Cuadra L, Greer C, Perri S. Gag-specific vaginal immunity and protection after local immunizations with Sindbis virus-based replicon particles. J Infect Dis 2001;184:1613­6. [259] Chen M, Hu K-F, Rozell B, Orvell C, Morein B, Liljestrom P. Vaccination with recombinant alphavirus or recombinant immunostimulating complex antigen against respiratory sincytial virus. J Immunol 2002;169: 3208­16. [260] MacDonald GH, Johnston RE. Role of dendritic cell targeting in Venezuelan equine encephalitis pathogenesis. J Virol 2000;74:914­22. [261] Gardner JP, Frolov I, Perri Sea. Infection of human dendritic cells by a Sindbis virus replicon vector is determined by a single aminoacid substitution in the E2 glycoprotein. J Virol 2000;74:11849­57. [262] Hariharan MJ, Driver DA, Townsend K, Brumm D, Polo JM, Belli BA, et al. DNA immunization against herpes simplex virus: enhanced efficacy using a Sindbis virus-based vector. J Virol 1998;72:950­8. [263] Berglund P, Smerdou C, Fleeton MN, Tubulekas I, Liljestrom P. Enhancing immune responses using suicidal DNA vaccines. Nat Biotechnol 1998;16:562­5. [264] Dory D, Torche AM, Beven V, Blanchard P, Loizel C, Cariolet R, et al. Effective protection of pigs against lethal Pseudorabies virus infection after a single injection of low-dose Sindbis-derived plasmids encoding PrV gB, gC and gD glycoproteins. Vaccine 2005;23(May (26)):3483­91. [265] Leitner WW, Ying H, Driver DA, Dubensky TW, Restifo NP. Enhancement of tumor-specific immune response with plasmid DNA replicon vectors. Cancer Res 2000;60(January (1)):51­5. [266] Lai MMC, Cavanagh D. The molecular biology of coronaviruses. Adv Virus Res 1997;48:1­100. [267] Enjuanes L, Sola I, Alonso S, Escors D, Zún~ iga S. Coronavirus reverse genetics and development of vectors for gene expression. Curr Top Microbiol Immunol 2005;287:161­97. [268] Kuo L, Godeke G-J, Raamsman MJB, Masters PS, Rottier PJM. Retargeting of coronavirus by substitution of the spike glycoprotein ectodomain: crossing the host cell species barrier. J Virol 2000;74:1393­406.
+
+[269] Masters PS. Reverse genetics of the largest RNA viruses. Adv Virus Res 1999;53:245­64.
+[270] Almazán F, González JM, Pénzes Z, Izeta A, Calvo E, Plana-Durán J, et al. Engineering the largest RNA virus genome as an infectious bacterial artificial chromosome. Proc Natl Acad Sci U S A 2000;97:5516­21.
+[271] Yount B, Curtis KM, Baric RS. Strategy for systematic assembly of large RNA and DNA genomes: the transmissible gastroenteritis virus model. J Virol 2000;74:10600­11.
+[272] Thiel V, Herold J, Schelle B, Siddell S. Infectious RNA transcribed in vitro from a cDNA copy of the human coronavirus genome cloned in vaccinia virus. J Gen Virol 2001;82:1273­81.
+[273] St-Jean JR, Desforges M, Almazan F, Jacomy H, Enjuanes L, Talbot PJ. Recovery of a neurovirulent human coronavirus OC43 from an infectious cDNA clone. J Virol 2006;80:3670­4.
+[274] Yount B, Curtis KM, Fritz EA, Hensley LE, Jahrling PB, Prentice E, et al. Reverse genetics with a full-length infectious cDNA of severe acute respiratory syndrome coronavirus. Proc Natl Acad Sci U S A 2003;100:12995­3000.
+[275] Yount B, Denison MR, Weiss SR, Baric RS. Systematic assembly of a full-length infectious cDNA of mouse hepatitis virus strain A59. J Virol 2002;76:11065­78.
+[276] Casais R, Thiel V, Siddell SG, Cavanagh D, Britton P. Reverse genetics system for the avian coronavirus infectious bronchitis virus. J Virol 2001;75:12359­69.
+[277] Sola I, Alonso S, Zún~ iga S, Balach M, Plana-Durán J, Enjuanes L. Engineering transmissible gastroenteritis virus genome as an expression vector inducing latogenic immunity. J Virol 2003;77:4357­69.
+[278] Agapov EV, Frolov I, Lindenbach BD, Pragai BM, Schlesinger S, Rice CM. Noncytopathic Sindbis virus RNA vectors for heterologous gene expression. Proc Natl Acad Sci U S A 1998;95:12989­94.
+[279] Curtis KM, Yount B, Baric RS. Heterologous gene expression from transmissible gastroenteritis virus replicon particles. J Virol 2002;76:1422­34.
+[280] Youn S, Leibowitz JL, Collisson EW. In vitro assembled, recombinant infectious bronchitis viruses demonstrate that the 5a open reading frame is not essential for replication. Virology 2005;332:206­15.
+[281] Almazan F, Galan C, Enjuanes L. The nucleoprotein is required for efficient coronavirus genome replication. J Virol 2004;78:12683­8.
+[282] Thiel V, Herold J, Schelle B, Siddell SG. Viral replicase gene products suffice for coronavirus discontinuous transcription. J Virol 2001;75:6676­81.
+[283] Schelle B, Karl N, Ludewig B, Siddell SG, Thiel V. Selective replication of coronavirus genomes that express nucleocapsid protein. J Virol 2005;79: 6620­30.
+[284] Thiel V, Karl N, Schelle B, Disterer P, Klagge I, Siddell SG. Multigene RNA vector based on coronavirus transcription. J Virol 2003;77:9790­8.
+[285] Ortego J, Escors D, Laude H, Enjuanes L. Generation of a replication-competent, propagation-deficient virus vector based on the transmissible gastroenteritis coronavirus genome. J Virol 2002;76:11518­29.
+[286] Ortego J, Ceriani JE, Patin~ o C, Plana J, Enjuanes L. Absence of E protein arrests transmissible gastroenteritis coronavirus maturation in the secretory pathway. Virology 2007;368:296­308.
+[287] Dyall J, Latouche JB, Schnell Sea. Lentivirus-transduced human monocytederived dendritic cells efficiently stimulate antigen-specific cytotoxic T lymphocytes. Blood 2001;97:114­21.
+[288] Rohrlich PS, Cardinaud S, Lule J. Use of a lentiviral vector encoding a HCMVchimeric IE1-pp65 protein for epitope identification in HLA-transgenic mice and for ex-vivo stimulation and expansion of CD8+ cytotoxic T-cells from human peripheral blood cells. Hum Immunol 2004;65:514­22.
+[289] Zarel S, Abraham S, Arrighi JF. Lentiviral transduction of dendritic cells confers protective antiviral immunity in vivo. J Virol 2004;78:7843­5.
+[290] Iglesias M, Frenkiel M, Mollier K, Souque P, Despres P, Charneau P. A single immunization with a minute dose of a lentiviral vector-based vaccine is highly effective at eliciting protective humoral immunity against West Nile virus. J Gene Med 2006;8:265­74.
+[291] Schwantes A, Truyen U, Weikel J, Weiss C, Löchelt M. Application of chimeric feline foamy virus-based retroviral vectors for the induction of antiviral immunity in cats. J Virol 2003;77(14):7830­42.
+[292] Metharom P, Takyar S, Xia XQ, Ellem KAO, Wilcox GE, Wei MQ. Development of disabled, replication-defective gene transfer vectors from the Jembrana disease virus, a new infectious agent of cattle. Vet Microbiol 2001;80: 9­22.
+[293] Arroyo J, Miller C, Catalan J, Myers GA, Ratterree MS, Trent DWEA. Chimerivax-West Nile virus live attenuated vaccine: preclinical evaluation of safety, immunogenicity and efficacy. J Virol 2004;78:12497­507.
+[294] Wehrle F, Renzullo S, Faust A, Beer M, Kaden V, Hofmann MA. Chimeric pestiviruses: candidates for live-attenuated classical swine fever vaccines. J Gen Virol 2007;88:2247­58.
+[295] Yilma T, Hsu D, Jones L, Owens S, Grubman M, Mebus C, et al. Protection of cattle against rinderpest with vaccinia virus recombinants expressing the HA or F gene. Science 1988;242(November (4881)):1058­61.
+[296] Giavedoni L, Jones L, Mebus C, Yilma T. A vaccinia virus double recombinant expressing the F and H genes of rinderpest virus protects cattle against rinderpest and causes no pock lesions. Proc Natl Acad Sci U S A 1991;88(September (18)):8011­5.
+[297] Ohishi K, Inui K, Barrett T, Yamanouchi K. Long-term protective immunity to rinderpest in cattle following a single vaccination with a recombinant vaccinia virus expressing the virus haemagglutinin protein. J Gen Virol 2000;81(June (Pt 6)):1439­46.
+
+A. Brun et al. / Vaccine 26 (2008) 6508­6528
+
+6527
+
+[298] Verardi PH, Aziz FH, Ahmad S, Jones LA, Beyene B, Ngotho RN, et al. Long-term sterilizing immunity to rinderpest in cattle vaccinated with a recombinant vaccinia virus expressing high levels of the fusion and hemagglutinin glycoproteins. J Virol 2002;76(January (2)):484­91.
+[299] Taylor G, Thomas LH, Furze JM, Cook RS, Wyld SG, Lerch R, et al. Recombinant vaccinia viruses expressing the F, G or N, but not the M2, protein of bovine respiratory syncytial virus (BRSV) induce resistance to BRSV challenge in the calf and protect against the development of pneumonic lesions. J Gen Virol 1997;78(December (Pt 12)):3195­206.
+[300] Hertig C, Pye AD, Hyatt AD, Davis SS, McWilliam SM, Heine HG, et al. Vaccinia virus-expressed bovine ephemeral fever virus G but not G(NS) glycoprotein induces neutralizing antibodies and protects against experimental infection. J Gen Virol 1996;77(April (Pt 4)):631­40.
+[301] Honda Y, Waithaka M, Taracha EL, Duchateau L, Musoke AJ, McKeever DJ. Delivery of the Theileria parva p67 antigen to cattle using recombinant vaccinia virus: IL-2 enhances protection. Vaccine 1998;16(August (13)): 1276­82.
+[302] Lobato ZI, Coupar BE, Gray CP, Lunt R, Andrew ME. Antibody responses and protective immunity to recombinant vaccinia virus-expressed bluetongue virus antigens. Vet Immunol Immunopathol 1997;59(November (3­4)):293­309.
+[303] Portetelle D, Limbach K, Burny A, Mammerickx M, Desmettre P, Riviere M, et al. Recombinant vaccinia virus expression of the bovine leukaemia virus envelope gene and protection of immunized sheep against infection. Vaccine 1991;9(March (3)):194­200.
+[304] Gatei MH, Naif HM, Kumar S, Boyle DB, Daniel RC, Good MF, et al. Protection of sheep against bovine leukemia virus (BLV) infection by vaccination with recombinant vaccinia viruses expressing BLV envelope glycoproteins: correlation of protection with CD4 T-cell response to gp51 peptide 51­70. J Virol 1993;67(April (4)):1803­10.
+[305] Cheevers WP, Hotzel I, Beyer JC, Kumpula-McWhirter N. Immune response to caprine arthritis-encephalitis virus surface protein induced by coimmunization with recombinant vaccinia viruses expressing the caprine arthritis-encephalitis virus envelope gene and caprine interleukin-12. Vaccine 2000;18(May (23)):2494­503.
+[306] Rumenapf T, Stark R, Meyers G, Thiel HJ. Structural proteins of hog cholera virus expressed by vaccinia virus: further characterization and induction of protective immunity. J Virol 1991;65(February (2)): 589­97.
+[307] Konig M, Lengsfeld T, Pauly T, Stark R, Thiel HJ. Classical swine fever virus: independent induction of protective immunity by two structural glycoproteins. J Virol 1995;69(October (10)):6479­86.
+[308] Chambers TM, Kawaoka Y, Webster RG. Protection of chickens from lethal influenza infection by vaccinia-expressed hemagglutinin. Virology 1988;167(December (2)):414­21.
+[309] Antonis AF, van der Most RG, Suezer Y, Stockhofe-Zurwieden N, Daus F, Sutter G, et al. Vaccination with recombinant modified vaccinia virus Ankara expressing bovine respiratory syncytial virus (bRSV) proteins protects calves against RSV challenge. Vaccine 2007;25(June (25)): 4818­27.
+[310] Breathnach CC, Clark HJ, Clark RC, Olsen CW, Townsend HG, Lunn DP. Immunization with recombinant modified vaccinia Ankara (rMVA) constructs encoding the HA or NP gene protects ponies from equine influenza virus challenge. Vaccine 2006;24(February (8)):1180­90.
+[311] Vordermeier HM, Rhodes SG, Dean G, Goonetilleke N, Huygen K, Hill AV, et al. Cellular immune responses induced in cattle by heterologous primeboost vaccination using recombinant viruses and bacille Calmette-Guerin. Immunology 2004;112(July (3)):461­70.
+[312] Konishi E, Pincus S, Paoletti E, Laegreid WW, Shope RE, Mason PW. A highly attenuated host range-restricted vaccinia virus strain, NYVAC, encoding the prM, E, and NS1 genes of Japanese encephalitis virus prevents JEV viremia in swine. Virology 1992;190(September (1)):454­8.
+[313] Brockmeier SL, Lager KM, Tartaglia J, Riviere M, Paoletti E, Mengeling WL. Vaccination of pigs against pseudorabies with highly attenuated vaccinia (NYVAC) recombinant viruses. Vet Microbiol 1993;38(December (1­2)):41­58.
+[314] Brockmeier SL, Lager KM, Mengeling WL. Vaccination with recombinant vaccinia virus vaccines expressing glycoprotein genes of pseudorabies virus in the presence of maternal immunity. Vet Microbiol 1997;58(November (2­4)):93­103.
+[315] Weingartl HM, Berhane Y, Caswell JL, Loosmore S, Audonnet JC, Roth JA, et al. Recombinant nipah virus vaccines protect pigs against challenge. J Virol 2006;80(August (16)):7929­38.
+[316] Tartaglia J, Jarrett O, Neil JC, Desmettre P, Paoletti E. Protection of cats against feline leukemia virus by vaccination with a canarypox virus recombinant, ALVAC-FL. J Virol 1993;67(April (4)):2370­5.
+[317] Poulet H, Brunet S, Boularand C, Guiot AL, Leroy V, Tartaglia J, et al. Efficacy of a canarypox virus-vectored vaccine against feline leukaemia. Vet Rec 2003;153(August (5)):141­5.
+[318] Siger L, Bowen R, Karaca K, Murray M, Jagannatha S, Echols B, et al. Evaluation of the efficacy provided by a recombinant canarypox-vectored equine West Nile Virus vaccine against an experimental West Nile Virus intrathecal challenge in horses. Vet Ther 2006;7(Fall (3)):249­56.
+[319] Siger L, Bowen RA, Karaca K, Murray MJ, Gordy PW, Loosmore SM, et al. Assessment of the efficacy of a single dose of a recombinant vaccine
+
+against West Nile virus in response to natural challenge with West Nile virus-infected mosquitoes in horses. Am J Vet Res 2004;65(November (11)): 1459­62. [320] Minke JM, Siger L, Karaca K, Austgen L, Gordy P, Bowen R, et al. Recombinant canarypoxvirus vaccine carrying the prM/E genes of West Nile virus protects horses against a West Nile virus-mosquito challenge. Arch Virol Suppl 2004;(18):221­30. [321] Minke JM, Toulemonde CE, Dinic S, Cozette V, Cullinane A, Audonnet JC. Effective priming of foals born to immune dams against influenza by a canarypox-vectored recombinant influenza H3N8 vaccine. J Comp Pathol 2007;137(July (Suppl. 1)):S76­80. [322] McCabe VJ, Tarpey I, Spibey N. Vaccination of cats with an attenuated recombinant myxoma virus expressing feline calicivirus capsid protein. Vaccine 2002;20(June (19­20)):2454­62. [323] Torres JM, Ramirez MA, Morales M, Barcena J, Vazquez B, Espuna E, et al. Safety evaluation of a recombinant myxoma-RHDV virus inducing horizontal transmissible protection against myxomatosis and rabbit haemorrhagic disease. Vaccine 2000;19(September (2­3)):174­82. [324] Romero CH, Barrett T, Evans SA, Kitching RP, Gershon PD, Bostock C, et al. Single capripoxvirus recombinant vaccine for the protection of cattle against rinderpest and lumpy skin disease. Vaccine 1993;11(7):737­42. [325] Romero CH, Barrett T, Kitching RP, Carn VM, Black DN. Protection of cattle against rinderpest and lumpy skin disease with a recombinant capripoxvirus expressing the fusion protein gene of rinderpest virus. Vet Rec 1994;135(August (7)):152­4. [326] Ngichabe CK, Wamwayi HM, Barrett T, Ndungu EK, Black DN, Bostock CJ. Trial of a capripoxvirus-rinderpest recombinant vaccine in African cattle. Epidemiol Infect 1997;118(February (1)):63­70. [327] Taylor J, Weinberg R, Kawaoka Y, Webster RG, Paoletti E. Protective immunity against avian influenza induced by a fowlpox virus recombinant. Vaccine 1988;6(December (6)):504­8. [328] Swayne DE, Beck JR, Mickle TR. Efficacy of recombinant fowl poxvirus vaccine in protecting chickens against a highly pathogenic Mexican-origin H5N2 avian influenza virus. Avian Dis 1997;41(October­December (4)): 910­22. [329] Qiao CL, Yu KZ, Jiang YP, Jia YQ, Tian GB, Liu M, et al. Protection of chickens against highly lethal H5N1 and H7N1 avian influenza viruses with a recombinant fowlpox virus co-expressing H5 haemagglutinin and N1 neuraminidase genes. Avian Pathol 2003;32(February (1)):25­32. [330] Bublot M, Pritchard N, Cruz JS, Mickle TR, Selleck P, Swayne DE. Efficacy of a fowlpox-vectored avian influenza H5 vaccine against Asian H5N1 highly pathogenic avian influenza virus challenge. Avian Dis 2007;51(March (1 Suppl.)):498­500. [331] Ogawa R, Yanagida N, Saeki S, Saito S, Ohkawa S, Gotoh H, et al. Recombinant fowlpox viruses inducing protective immunity against Newcastle disease and fowlpox viruses. Vaccine 1990;8(October (5)):486­90. [332] Boursnell ME, Green PF, Samson AC, Campbell JI, Deuter A, Peters RW, et al. A recombinant fowlpox virus expressing the hemagglutinin-neuraminidase gene of Newcastle disease virus (NDV) protects chickens against challenge by NDV. Virology 1990;178(September (1)):297­300. [333] Taylor J, Christensen L, Gettig R, Goebel J, Bouquet JF, Mickle TR, et al. Efficacy of a recombinant fowl pox-based Newcastle disease virus vaccine candidate against velogenic and respiratory challenge. Avian Dis 1996;40(January­March (1)):173­80. [334] Karaca K, Sharma JM, Winslow BJ, Junker DE, Reddy S, Cochran M, et al. Recombinant fowlpox viruses coexpressing chicken type I IFN and Newcastle disease virus HN and F genes: influence of IFN on protective efficacy and humoral responses of chickens following in ovo or posthatch administration of recombinant viruses. Vaccine 1998;16(October (16)): 1496­503. [335] Heine HG, Foord AJ, Young PL, Hooper PT, Lehrbach PR, Boyle DB. Recombinant fowlpox virus vaccines against Australian virulent Marek's disease virus: gene sequence analysis and comparison of vaccine efficacy in specific pathogen free and production chickens. Virus Res 1997;50(July (1)):23­33. [336] Calvert JG, Nazerian K, Witter RL, Yanagida N. Fowlpox virus recombinants expressing the envelope glycoprotein of an avian reticuloendotheliosis retrovirus induce neutralizing antibodies and reduce viremia in chickens. J Virol 1993;67(June (6)):3069­76. [337] Heine HG, Boyle DB. Infectious bursal disease virus structural protein VP2 expressed by a fowlpox virus recombinant confers protection against disease in chickens. Arch Virol 1993;131(3­4):277­92. [338] Qingzhong Y, Barrett T, Brown TD, Cook JK, Green P, Skinner MA, et al. Protection against turkey rhinotracheitis pneumovirus (TRTV) induced by a fowlpox virus recombinant expressing the TRTV fusion glycoprotein (F). Vaccine 1994;12(May (6)):569­73. [339] Fischer T, Planz O, Stitz L, Rziha HJ. Novel recombinant parapoxvirus vectors induce protective humoral and cellular immunity against lethal herpesvirus challenge in mice. J Virol 2003;77:9312­23. [340] Henkel M, Planz O, Fischer T, Stitz L, Rziha HJ. Prevention of virus persistence and protection against immunopathology after Borna disease virus infection of the brain by a novel Orf virus recombinant. J Virol 2005;79: 314­25. [341] Dory D, Fischer T, Béven V, Cariolet R, Rziha HJ, Jestin A. Prime-boost immunization using DNA vaccine and recombinant Orf virus protects pigs against Pseudorabies virus (Herpes suid 1). Vaccine 2006;24:6256­63.
+
+6528
+
+A. Brun et al. / Vaccine 26 (2008) 6508­6528
+
+[342] Veits J, Lüschow D, Kindermann K, Werner O, Teifke J, Mettenleiter TC, et al. Deletion of the non-essential ULO gene of infectious laryngotracheitis (ILT) virus leads to attenuation in chickens, and UL0 mutants expressing influenza virus haemagglutinin (H7) protect against ILT and fowl plaque. J Gen Virol 2003;84:3343­52.
+
+[343] Peeters B, Bienkowska-Szewczyk K, Hulst M, Gielens A, Kimman T. Biologically safe, no-transmissible pseudorabies virus vector vaccine protects pigs against both Aujeszky's disease and classical swine fever. J Gen Virol 1997;78: 3311­5.
